@@ -1,0 +1,932 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0020100010,16,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,148,1,0,20011030,PHX,DEN
+Shot Chart Detail,0020100010,38,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,7,1,0,20011030,PHX,DEN
+Shot Chart Detail,0020100010,70,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-151,91,1,0,20011030,PHX,DEN
+Shot Chart Detail,0020100010,84,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,23,1,0,20011030,PHX,DEN
+Shot Chart Detail,0020100010,237,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,18,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011030,PHX,DEN
+Shot Chart Detail,0020100010,240,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-19,1,0,20011030,PHX,DEN
+Shot Chart Detail,0020100025,5,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,75,152,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,21,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,26,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,152,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,53,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,64,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,78,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,-11,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,84,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,5,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,53,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,94,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-60,241,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,196,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,141,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,210,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,2,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,212,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,2,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,245,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-39,125,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,269,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,25,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-67,91,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,287,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,2,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,409,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-88,158,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,414,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,148,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,433,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-216,131,1,1,20011101,GSW,PHX
+Shot Chart Detail,0020100025,448,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,253,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,460,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,97,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,469,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-6,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100025,480,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011101,GSW,PHX
+Shot Chart Detail,0020100033,4,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-98,97,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100033,18,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,37,205,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,30,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,51,152,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-42,91,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100033,91,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,58,68,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100033,176,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,11,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100033,209,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,226,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,251,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-77,158,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,255,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100033,260,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,273,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,336,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,129,181,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100033,339,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,-12,232,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,368,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-128,169,1,0,20011102,LAL,PHX
+Shot Chart Detail,0020100033,458,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,34,1,1,20011102,LAL,PHX
+Shot Chart Detail,0020100048,11,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,63,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,43,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,80,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,44,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,23,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,70,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,74,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,76,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,118,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,68,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,122,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,129,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-37,152,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,145,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,46,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,68,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,148,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,198,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,181,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,152,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,203,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,207,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,47,163,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,211,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,257,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-13,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,262,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,247,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,292,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,303,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,34,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,367,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-8,173,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100048,397,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,405,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,1,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011104,PHX,HOU
+Shot Chart Detail,0020100048,408,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,30,1,0,20011104,PHX,HOU
+Shot Chart Detail,0020100061,28,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,68,1,0,20011106,PHX,MEM
+Shot Chart Detail,0020100061,149,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,57,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,163,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,57,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,205,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-2,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,230,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-8,1,0,20011106,PHX,MEM
+Shot Chart Detail,0020100061,304,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-109,219,1,0,20011106,PHX,MEM
+Shot Chart Detail,0020100061,311,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,186,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,314,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,191,152,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,378,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-29,68,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,393,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,23,1,0,20011106,PHX,MEM
+Shot Chart Detail,0020100061,411,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100061,438,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011106,PHX,MEM
+Shot Chart Detail,0020100076,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,85,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,10,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,68,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,25,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,118,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,66,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-8,141,1,1,20011108,PHX,ATL
+Shot Chart Detail,0020100076,170,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,47,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,209,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,23,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,255,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,272,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,176,91,1,1,20011108,PHX,ATL
+Shot Chart Detail,0020100076,313,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-109,213,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,330,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-2,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,394,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,51,1,1,20011108,PHX,ATL
+Shot Chart Detail,0020100076,397,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,68,1,1,20011108,PHX,ATL
+Shot Chart Detail,0020100076,417,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100076,419,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,11,91,1,1,20011108,PHX,ATL
+Shot Chart Detail,0020100076,421,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,80,1,0,20011108,PHX,ATL
+Shot Chart Detail,0020100085,7,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,14,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-101,131,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,28,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,28,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,47,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,7,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,51,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,175,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,2,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,82,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,135,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,137,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-101,112,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,174,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,141,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,236,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,240,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,28,72,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,248,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,11,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,266,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,55,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,283,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,100,72,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,315,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,17,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,341,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,193,55,1,1,20011110,LAC,PHX
+Shot Chart Detail,0020100085,354,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,148,120,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,389,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-63,116,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,411,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,72,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100085,420,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,106,171,1,0,20011110,LAC,PHX
+Shot Chart Detail,0020100107,22,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,68,1,0,20011113,SEA,PHX
+Shot Chart Detail,0020100107,28,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,13,1,0,20011113,SEA,PHX
+Shot Chart Detail,0020100107,40,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,70,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,163,74,1,0,20011113,SEA,PHX
+Shot Chart Detail,0020100107,111,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,57,1,0,20011113,SEA,PHX
+Shot Chart Detail,0020100107,114,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,0,20011113,SEA,PHX
+Shot Chart Detail,0020100107,177,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-111,213,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,180,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,218,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,97,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,271,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,32,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,291,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,18,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-18,74,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,309,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,101,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,339,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,40,1,0,20011113,SEA,PHX
+Shot Chart Detail,0020100107,373,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,463,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,169,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100107,466,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,108,1,1,20011113,SEA,PHX
+Shot Chart Detail,0020100113,8,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,26,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,7,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,37,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011114,PHX,ORL
+Shot Chart Detail,0020100113,41,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,-2,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,101,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,125,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,137,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,178,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,40,1,1,20011114,PHX,ORL
+Shot Chart Detail,0020100113,313,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,40,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,326,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011114,PHX,ORL
+Shot Chart Detail,0020100113,374,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,173,1,1,20011114,PHX,ORL
+Shot Chart Detail,0020100113,403,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,56,173,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,418,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,163,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100113,437,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,169,1,0,20011114,PHX,ORL
+Shot Chart Detail,0020100127,20,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,24,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-136,68,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,54,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,0,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100127,117,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,213,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,126,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-109,68,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100127,142,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100127,160,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-65,129,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100127,184,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,101,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,250,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,23,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,68,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100127,315,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,125,101,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,319,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,34,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100127,322,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-65,198,1,0,20011116,PHX,LAL
+Shot Chart Detail,0020100127,445,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,9,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011116,PHX,LAL
+Shot Chart Detail,0020100142,5,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,23,1,1,20011118,PHX,TOR
+Shot Chart Detail,0020100142,40,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,63,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,45,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,54,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,80,1,1,20011118,PHX,TOR
+Shot Chart Detail,0020100142,58,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,76,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,34,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,84,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,24,68,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,122,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,47,125,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,125,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011118,PHX,TOR
+Shot Chart Detail,0020100142,134,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,214,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,97,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,301,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,57,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,312,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,51,1,1,20011118,PHX,TOR
+Shot Chart Detail,0020100142,328,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,83,163,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,353,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-58,74,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,363,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-109,97,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,378,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,125,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,392,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100142,414,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011118,PHX,TOR
+Shot Chart Detail,0020100142,450,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,169,1,0,20011118,PHX,TOR
+Shot Chart Detail,0020100163,4,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-94,125,1,1,20011121,PHX,NYK
+Shot Chart Detail,0020100163,30,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,169,1,1,20011121,PHX,NYK
+Shot Chart Detail,0020100163,76,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,96,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,163,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,158,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,180,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,85,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,203,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,114,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,220,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,68,1,1,20011121,PHX,NYK
+Shot Chart Detail,0020100163,274,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,7,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,283,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011121,PHX,NYK
+Shot Chart Detail,0020100163,298,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-58,97,1,1,20011121,PHX,NYK
+Shot Chart Detail,0020100163,321,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-109,152,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,395,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,125,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100163,398,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,97,1,0,20011121,PHX,NYK
+Shot Chart Detail,0020100174,4,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,26,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,21,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100174,29,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,-6,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,44,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,-13,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100174,55,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,19,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100174,67,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,23,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,81,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,30,63,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100174,132,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,143,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100174,161,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,30,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,212,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,73,234,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,357,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-191,91,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,364,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,-6,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,375,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,135,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100174,396,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,129,1,0,20011123,MEM,PHX
+Shot Chart Detail,0020100174,409,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011123,MEM,PHX
+Shot Chart Detail,0020100185,17,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,24,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,71,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,171,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,136,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,45,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,193,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-109,150,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,202,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,243,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,46,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,34,1,1,20011124,DAL,PHX
+Shot Chart Detail,0020100185,302,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,11,1,1,20011124,DAL,PHX
+Shot Chart Detail,0020100185,367,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,53,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,21,1,1,20011124,DAL,PHX
+Shot Chart Detail,0020100185,370,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,154,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,385,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,11,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,395,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011124,DAL,PHX
+Shot Chart Detail,0020100185,405,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,421,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,45,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,485,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011124,DAL,PHX
+Shot Chart Detail,0020100185,487,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011124,DAL,PHX
+Shot Chart Detail,0020100196,3,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,68,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,37,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,34,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,75,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,38,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,82,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011126,UTA,PHX
+Shot Chart Detail,0020100196,166,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,194,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-117,209,1,1,20011126,UTA,PHX
+Shot Chart Detail,0020100196,197,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011126,UTA,PHX
+Shot Chart Detail,0020100196,199,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-103,104,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,273,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,129,144,1,1,20011126,UTA,PHX
+Shot Chart Detail,0020100196,315,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-48,179,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,347,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,98,110,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,357,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011126,UTA,PHX
+Shot Chart Detail,0020100196,366,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,137,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,438,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-134,97,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,468,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,493,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,-18,238,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100196,541,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011126,UTA,PHX
+Shot Chart Detail,0020100211,17,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,21,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,24,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,125,108,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,37,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,43,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,97,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,104,152,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,113,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,97,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,124,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,7,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,133,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,40,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,155,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,40,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,196,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,140,108,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,215,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,140,101,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,228,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,248,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,24,213,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,267,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,13,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100211,272,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,38,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,312,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,323,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,47,97,1,1,20011128,PHX,MIL
+Shot Chart Detail,0020100211,377,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,91,1,0,20011128,PHX,MIL
+Shot Chart Detail,0020100223,4,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011130,PHX,UTA
+Shot Chart Detail,0020100223,8,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,33,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,34,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,23,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,113,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,97,1,1,20011130,PHX,UTA
+Shot Chart Detail,0020100223,130,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-124,80,1,1,20011130,PHX,UTA
+Shot Chart Detail,0020100223,132,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,150,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,154,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,156,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,188,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,173,1,1,20011130,PHX,UTA
+Shot Chart Detail,0020100223,198,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,25,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,57,1,1,20011130,PHX,UTA
+Shot Chart Detail,0020100223,216,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,19,1,0,20011130,PHX,UTA
+Shot Chart Detail,0020100223,238,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,63,1,1,20011130,PHX,UTA
+Shot Chart Detail,0020100234,33,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,146,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,50,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,-2,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,52,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,108,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,2,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,120,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-101,188,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,130,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,104,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,139,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,194,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,139,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,202,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,222,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,225,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,70,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,251,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,96,171,1,0,20011201,POR,PHX
+Shot Chart Detail,0020100234,271,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,42,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,281,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,55,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,294,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,325,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100234,394,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,7,1,1,20011201,POR,PHX
+Shot Chart Detail,0020100244,58,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,63,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,101,1,1,20011203,PHX,GSW
+Shot Chart Detail,0020100244,144,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,97,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,146,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,97,1,1,20011203,PHX,GSW
+Shot Chart Detail,0020100244,159,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,163,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,215,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,240,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,242,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,158,1,1,20011203,PHX,GSW
+Shot Chart Detail,0020100244,247,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,148,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,252,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,132,91,1,1,20011203,PHX,GSW
+Shot Chart Detail,0020100244,305,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,3,247,1,1,20011203,PHX,GSW
+Shot Chart Detail,0020100244,328,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,29,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011203,PHX,GSW
+Shot Chart Detail,0020100244,346,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,118,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,359,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,47,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,399,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,158,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,401,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,13,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,404,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,101,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100244,452,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,125,1,0,20011203,PHX,GSW
+Shot Chart Detail,0020100258,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011205,NJN,PHX
+Shot Chart Detail,0020100258,15,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,19,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,30,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,58,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,47,1,1,20011205,NJN,PHX
+Shot Chart Detail,0020100258,55,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011205,NJN,PHX
+Shot Chart Detail,0020100258,81,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,83,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011205,NJN,PHX
+Shot Chart Detail,0020100258,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,121,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,177,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,210,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,58,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,19,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,231,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,144,510,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,251,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,18,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-35,89,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,306,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,122,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,384,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,61,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,391,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,40,1,1,20011205,NJN,PHX
+Shot Chart Detail,0020100258,403,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-84,144,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100258,430,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,94,226,1,0,20011205,NJN,PHX
+Shot Chart Detail,0020100267,8,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,160,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,15,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20011207,BOS,PHX
+Shot Chart Detail,0020100267,29,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-136,99,1,1,20011207,BOS,PHX
+Shot Chart Detail,0020100267,51,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-164,139,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,57,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,198,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,71,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,177,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,74,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,86,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,121,198,1,1,20011207,BOS,PHX
+Shot Chart Detail,0020100267,100,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,217,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,217,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,20,243,1,1,20011207,BOS,PHX
+Shot Chart Detail,0020100267,226,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,232,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,56,228,1,1,20011207,BOS,PHX
+Shot Chart Detail,0020100267,241,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,34,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,258,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,268,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,89,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,285,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,13,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,310,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-143,116,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,372,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,392,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,35,217,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,428,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,1,20011207,BOS,PHX
+Shot Chart Detail,0020100267,487,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,3,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-6,249,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,508,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,1,29,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,-2,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100267,540,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,0,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,136,217,1,0,20011207,BOS,PHX
+Shot Chart Detail,0020100285,20,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,23,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,43,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,73,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,123,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-4,192,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,128,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,167,125,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,139,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,45,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,85,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,185,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,0,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,195,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-141,152,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,197,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-77,91,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,253,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,57,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,264,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,41,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-11,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,294,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,305,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,4,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,101,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,314,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,40,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,351,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,0,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,353,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,255,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,401,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,68,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,412,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,72,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,420,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,181,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100285,433,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-11,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,439,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011209,TOR,PHX
+Shot Chart Detail,0020100285,465,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011209,TOR,PHX
+Shot Chart Detail,0020100305,6,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,-23,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,34,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,60,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,64,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,30,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,76,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-42,82,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,244,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-113,167,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,246,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,82,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,258,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,120,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,341,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,49,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,346,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,347,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,32,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,379,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,385,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,58,144,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100305,403,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-113,144,1,0,20011212,PHX,SAC
+Shot Chart Detail,0020100305,413,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011212,PHX,SAC
+Shot Chart Detail,0020100319,12,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,100,87,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,53,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,28,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,63,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,36,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,67,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,30,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,161,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,168,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,209,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,211,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011214,PHX,SAS
+Shot Chart Detail,0020100319,275,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,289,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,26,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,295,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,222,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,297,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,194,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,363,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,16,171,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100319,367,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011214,PHX,SAS
+Shot Chart Detail,0020100319,374,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,94,59,1,1,20011214,PHX,SAS
+Shot Chart Detail,0020100319,394,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-48,150,1,0,20011214,PHX,SAS
+Shot Chart Detail,0020100328,3,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,-4,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,23,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,-8,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,31,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-98,133,1,1,20011215,DEN,PHX
+Shot Chart Detail,0020100328,172,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-42,205,1,1,20011215,DEN,PHX
+Shot Chart Detail,0020100328,180,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011215,DEN,PHX
+Shot Chart Detail,0020100328,193,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,154,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,210,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,212,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,61,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,214,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,32,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,226,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,18,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,49,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,239,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,0,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,290,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,55,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,428,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,7,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,34,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,442,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,30,34,1,1,20011215,DEN,PHX
+Shot Chart Detail,0020100328,447,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,165,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,460,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,4,1,1,20011215,DEN,PHX
+Shot Chart Detail,0020100328,463,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,4,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100328,492,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,99,1,0,20011215,DEN,PHX
+Shot Chart Detail,0020100344,3,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,30,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100344,13,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,4,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,55,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,19,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,49,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,41,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,19,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100344,70,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,55,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,125,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,144,70,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,166,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,167,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,182,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,49,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,202,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,42,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100344,207,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,236,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-18,120,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,287,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,110,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100344,350,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,49,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100344,364,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,19,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,370,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100344,393,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,30,1,1,20011218,PHX,LAC
+Shot Chart Detail,0020100344,413,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,0,1,0,20011218,PHX,LAC
+Shot Chart Detail,0020100379,16,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,36,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,19,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,12,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,38,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,4,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,57,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,70,1,1,20011222,PHX,POR
+Shot Chart Detail,0020100379,72,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,99,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,36,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,144,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-42,70,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,197,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,4,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,204,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,16,99,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,239,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-84,70,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,276,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,37,49,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,288,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-56,106,1,1,20011222,PHX,POR
+Shot Chart Detail,0020100379,290,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,22,70,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,353,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-134,177,1,0,20011222,PHX,POR
+Shot Chart Detail,0020100379,371,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,7,150,1,1,20011222,PHX,POR
+Shot Chart Detail,0020100385,17,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,85,1,1,20011223,SAC,PHX
+Shot Chart Detail,0020100385,24,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-33,181,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,142,165,1,1,20011223,SAC,PHX
+Shot Chart Detail,0020100385,76,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,3,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-63,66,1,1,20011223,SAC,PHX
+Shot Chart Detail,0020100385,101,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011223,SAC,PHX
+Shot Chart Detail,0020100385,113,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-33,72,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,185,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,61,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,213,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,154,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,224,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,242,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,205,85,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,326,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-54,112,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100385,374,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011223,SAC,PHX
+Shot Chart Detail,0020100385,402,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,150,72,1,0,20011223,SAC,PHX
+Shot Chart Detail,0020100394,14,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,32,186,1,0,20011226,HOU,PHX
+Shot Chart Detail,0020100394,145,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,118,1,1,20011226,HOU,PHX
+Shot Chart Detail,0020100394,205,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,101,1,1,20011226,HOU,PHX
+Shot Chart Detail,0020100394,265,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-113,152,1,1,20011226,HOU,PHX
+Shot Chart Detail,0020100394,288,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-4,1,1,20011226,HOU,PHX
+Shot Chart Detail,0020100394,320,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,40,1,0,20011226,HOU,PHX
+Shot Chart Detail,0020100394,336,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,153,158,1,0,20011226,HOU,PHX
+Shot Chart Detail,0020100394,399,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,57,1,0,20011226,HOU,PHX
+Shot Chart Detail,0020100404,15,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,0,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,28,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,30,106,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,34,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-19,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,54,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,36,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,61,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,82,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,123,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-63,26,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,126,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,30,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,164,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,194,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,170,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,203,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,129,70,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,219,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,49,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,225,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,264,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,159,144,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,293,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,355,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,417,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,156,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,422,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,144,200,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,426,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,106,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100404,430,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,435,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,4,1,0,20011227,PHX,BOS
+Shot Chart Detail,0020100404,448,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011227,PHX,BOS
+Shot Chart Detail,0020100422,31,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,91,1,1,20011229,PHX,DEN
+Shot Chart Detail,0020100422,46,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,91,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,63,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-25,51,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,88,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011229,PHX,DEN
+Shot Chart Detail,0020100422,187,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,-2,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,264,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,150,85,1,1,20011229,PHX,DEN
+Shot Chart Detail,0020100422,283,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-119,148,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,365,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-90,169,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,410,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,51,1,1,20011229,PHX,DEN
+Shot Chart Detail,0020100422,461,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,462,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,57,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,464,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011229,PHX,DEN
+Shot Chart Detail,0020100422,467,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-2,1,1,20011229,PHX,DEN
+Shot Chart Detail,0020100422,471,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,51,1,1,20011229,PHX,DEN
+Shot Chart Detail,0020100441,42,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,80,1,1,20020102,PHX,PHI
+Shot Chart Detail,0020100441,93,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,-8,1,0,20020102,PHX,PHI
+Shot Chart Detail,0020100441,101,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020102,PHX,PHI
+Shot Chart Detail,0020100441,181,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,148,1,0,20020102,PHX,PHI
+Shot Chart Detail,0020100441,255,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,114,1,0,20020102,PHX,PHI
+Shot Chart Detail,0020100441,287,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,1,20020102,PHX,PHI
+Shot Chart Detail,0020100441,325,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,150,85,1,0,20020102,PHX,PHI
+Shot Chart Detail,0020100456,27,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,36,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,80,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,144,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,93,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,47,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,191,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-12,266,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,245,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,41,74,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,247,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,61,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,269,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,298,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020104,LAL,PHX
+Shot Chart Detail,0020100456,315,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020104,LAL,PHX
+Shot Chart Detail,0020100456,387,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020104,LAL,PHX
+Shot Chart Detail,0020100456,391,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020104,LAL,PHX
+Shot Chart Detail,0020100465,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,49,1,0,20020105,PHX,SAC
+Shot Chart Detail,0020100465,53,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,55,1,0,20020105,PHX,SAC
+Shot Chart Detail,0020100465,150,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020105,PHX,SAC
+Shot Chart Detail,0020100465,179,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,59,1,0,20020105,PHX,SAC
+Shot Chart Detail,0020100486,2,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020108,UTA,PHX
+Shot Chart Detail,0020100486,147,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,30,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100486,171,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-1,129,1,1,20020108,UTA,PHX
+Shot Chart Detail,0020100486,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-126,125,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100486,301,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,176,106,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100486,308,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,48,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,51,101,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100486,359,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,182,165,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100486,393,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020108,UTA,PHX
+Shot Chart Detail,0020100486,404,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,22,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,49,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100486,427,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,176,141,1,1,20020108,UTA,PHX
+Shot Chart Detail,0020100486,448,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-157,112,1,0,20020108,UTA,PHX
+Shot Chart Detail,0020100499,2,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-12,66,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,12,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,106,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,56,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-33,66,1,1,20020110,PHX,MEM
+Shot Chart Detail,0020100499,75,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,217,1,1,20020110,PHX,MEM
+Shot Chart Detail,0020100499,175,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,230,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,116,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,284,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-18,171,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,289,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020110,PHX,MEM
+Shot Chart Detail,0020100499,293,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,159,171,1,1,20020110,PHX,MEM
+Shot Chart Detail,0020100499,328,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,188,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,378,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-12,87,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,397,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,15,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,437,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,19,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100499,455,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,0,1,0,20020110,PHX,MEM
+Shot Chart Detail,0020100518,44,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,101,1,0,20020112,PHX,MIA
+Shot Chart Detail,0020100518,67,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-155,118,1,0,20020112,PHX,MIA
+Shot Chart Detail,0020100518,76,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,114,1,1,20020112,PHX,MIA
+Shot Chart Detail,0020100518,187,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,135,1,1,20020112,PHX,MIA
+Shot Chart Detail,0020100518,255,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,97,1,1,20020112,PHX,MIA
+Shot Chart Detail,0020100518,259,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,167,68,1,1,20020112,PHX,MIA
+Shot Chart Detail,0020100518,263,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-134,101,1,0,20020112,PHX,MIA
+Shot Chart Detail,0020100518,271,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,34,1,1,20020112,PHX,MIA
+Shot Chart Detail,0020100518,278,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,108,1,1,20020112,PHX,MIA
+Shot Chart Detail,0020100518,297,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,169,1,0,20020112,PHX,MIA
+Shot Chart Detail,0020100520,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,163,85,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,15,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020113,SAC,PHX
+Shot Chart Detail,0020100520,40,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,100,127,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,51,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,47,1,1,20020113,SAC,PHX
+Shot Chart Detail,0020100520,130,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,58,66,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,187,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,25,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020113,SAC,PHX
+Shot Chart Detail,0020100520,198,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,0,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,239,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,127,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,319,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,121,85,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,412,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,191,116,1,1,20020113,SAC,PHX
+Shot Chart Detail,0020100520,417,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,142,171,1,1,20020113,SAC,PHX
+Shot Chart Detail,0020100520,419,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100520,475,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,171,1,0,20020113,SAC,PHX
+Shot Chart Detail,0020100541,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-18,198,1,0,20020116,PHX,POR
+Shot Chart Detail,0020100541,25,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020116,PHX,POR
+Shot Chart Detail,0020100541,63,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,68,1,1,20020116,PHX,POR
+Shot Chart Detail,0020100541,66,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,45,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020116,PHX,POR
+Shot Chart Detail,0020100541,90,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,118,1,0,20020116,PHX,POR
+Shot Chart Detail,0020100541,202,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,186,1,0,20020116,PHX,POR
+Shot Chart Detail,0020100541,240,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-33,158,1,0,20020116,PHX,POR
+Shot Chart Detail,0020100554,36,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-98,148,1,1,20020118,PHX,MIN
+Shot Chart Detail,0020100554,162,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,55,1,0,20020118,PHX,MIN
+Shot Chart Detail,0020100554,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,184,1,1,20020118,PHX,MIN
+Shot Chart Detail,0020100554,251,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-46,76,1,1,20020118,PHX,MIN
+Shot Chart Detail,0020100585,2,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-77,101,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,61,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-92,108,1,1,20020122,MIL,PHX
+Shot Chart Detail,0020100585,77,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,135,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020122,MIL,PHX
+Shot Chart Detail,0020100585,200,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,209,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,237,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,0,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,284,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,-13,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,304,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020122,MIL,PHX
+Shot Chart Detail,0020100585,306,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,94,97,1,1,20020122,MIL,PHX
+Shot Chart Detail,0020100585,313,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-155,85,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,401,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,74,1,1,20020122,MIL,PHX
+Shot Chart Detail,0020100585,430,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,51,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100585,453,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020122,MIL,PHX
+Shot Chart Detail,0020100598,6,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,26,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,112,1,0,20020124,NYK,PHX
+Shot Chart Detail,0020100598,38,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,13,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-35,42,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,83,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,85,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,247,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,116,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,-29,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,171,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-46,74,1,0,20020124,NYK,PHX
+Shot Chart Detail,0020100598,176,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020124,NYK,PHX
+Shot Chart Detail,0020100598,178,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,237,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,153,154,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,239,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,270,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-21,1,0,20020124,NYK,PHX
+Shot Chart Detail,0020100598,281,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,286,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,49,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,401,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020124,NYK,PHX
+Shot Chart Detail,0020100598,434,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,148,1,0,20020124,NYK,PHX
+Shot Chart Detail,0020100598,458,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-27,1,0,20020124,NYK,PHX
+Shot Chart Detail,0020100614,16,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,59,1,0,20020126,WAS,PHX
+Shot Chart Detail,0020100614,36,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,32,127,1,0,20020126,WAS,PHX
+Shot Chart Detail,0020100614,46,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,1,20020126,WAS,PHX
+Shot Chart Detail,0020100614,202,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,36,1,0,20020126,WAS,PHX
+Shot Chart Detail,0020100614,274,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,0,20020126,WAS,PHX
+Shot Chart Detail,0020100614,325,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20020126,WAS,PHX
+Shot Chart Detail,0020100634,2,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-1,106,1,1,20020129,PHX,CHI
+Shot Chart Detail,0020100634,38,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020129,PHX,CHI
+Shot Chart Detail,0020100634,184,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,156,1,1,20020129,PHX,CHI
+Shot Chart Detail,0020100634,263,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,116,1,1,20020129,PHX,CHI
+Shot Chart Detail,0020100634,275,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,9,1,1,20020129,PHX,CHI
+Shot Chart Detail,0020100634,277,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,177,1,0,20020129,PHX,CHI
+Shot Chart Detail,0020100634,374,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020129,PHX,CHI
+Shot Chart Detail,0020100634,392,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-88,167,1,0,20020129,PHX,CHI
+Shot Chart Detail,0020100646,2,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,53,1,1,20020131,POR,PHX
+Shot Chart Detail,0020100646,156,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,120,1,0,20020131,POR,PHX
+Shot Chart Detail,0020100646,190,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,193,63,1,0,20020131,POR,PHX
+Shot Chart Detail,0020100646,199,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,59,1,1,20020131,POR,PHX
+Shot Chart Detail,0020100646,332,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,78,1,0,20020131,POR,PHX
+Shot Chart Detail,0020100646,351,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,80,1,1,20020131,POR,PHX
+Shot Chart Detail,0020100646,362,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,112,1,1,20020131,POR,PHX
+Shot Chart Detail,0020100646,374,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,2,1,1,20020131,POR,PHX
+Shot Chart Detail,0020100646,381,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,77,211,1,1,20020131,POR,PHX
+Shot Chart Detail,0020100646,399,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,56,217,1,0,20020131,POR,PHX
+Shot Chart Detail,0020100646,428,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,56,243,1,0,20020131,POR,PHX
+Shot Chart Detail,0020100655,36,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-189,82,1,0,20020201,PHX,GSW
+Shot Chart Detail,0020100655,53,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-52,66,1,1,20020201,PHX,GSW
+Shot Chart Detail,0020100655,118,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020201,PHX,GSW
+Shot Chart Detail,0020100655,207,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,55,1,1,20020201,PHX,GSW
+Shot Chart Detail,0020100655,214,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,62,87,1,0,20020201,PHX,GSW
+Shot Chart Detail,0020100655,248,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,59,1,1,20020201,PHX,GSW
+Shot Chart Detail,0020100671,7,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,9,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,12,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,25,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,17,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-73,53,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,24,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,26,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,79,68,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,28,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,9,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,120,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-31,85,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,135,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,19,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,146,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,144,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,30,74,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,238,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,302,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,58,116,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,375,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-58,85,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,378,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,122,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,393,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,0,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,405,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,127,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,413,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,160,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100671,426,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,66,133,1,0,20020203,GSW,PHX
+Shot Chart Detail,0020100671,444,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020203,GSW,PHX
+Shot Chart Detail,0020100690,3,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,42,1,1,20020206,SEA,PHX
+Shot Chart Detail,0020100690,5,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,85,158,1,1,20020206,SEA,PHX
+Shot Chart Detail,0020100690,16,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,91,186,1,0,20020206,SEA,PHX
+Shot Chart Detail,0020100690,41,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,38,1,0,20020206,SEA,PHX
+Shot Chart Detail,0020100690,208,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,0,1,0,20020206,SEA,PHX
+Shot Chart Detail,0020100690,240,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,148,1,0,20020206,SEA,PHX
+Shot Chart Detail,0020100690,257,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-13,1,1,20020206,SEA,PHX
+Shot Chart Detail,0020100690,370,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,26,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020206,SEA,PHX
+Shot Chart Detail,0020100690,385,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,34,1,0,20020206,SEA,PHX
+Shot Chart Detail,0020100690,391,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,-13,1,0,20020206,SEA,PHX
+Shot Chart Detail,0020100701,4,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,22,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-136,118,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,25,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,29,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,74,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,118,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,142,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,26,97,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,176,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,181,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020212,DET,PHX
+Shot Chart Detail,0020100701,213,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020212,DET,PHX
+Shot Chart Detail,0020100701,229,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,36,-149,333,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,242,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,244,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,10,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020212,DET,PHX
+Shot Chart Detail,0020100701,250,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,193,53,1,1,20020212,DET,PHX
+Shot Chart Detail,0020100701,274,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,279,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,172,63,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,291,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,19,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100701,379,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,108,1,0,20020212,DET,PHX
+Shot Chart Detail,0020100713,46,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,36,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020213,MIN,PHX
+Shot Chart Detail,0020100713,58,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,154,1,1,20020213,MIN,PHX
+Shot Chart Detail,0020100713,74,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,49,1,0,20020213,MIN,PHX
+Shot Chart Detail,0020100713,132,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,131,1,0,20020213,MIN,PHX
+Shot Chart Detail,0020100713,164,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,144,219,1,1,20020213,MIN,PHX
+Shot Chart Detail,0020100713,267,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-25,1,0,20020213,MIN,PHX
+Shot Chart Detail,0020100713,270,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,7,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020213,MIN,PHX
+Shot Chart Detail,0020100728,11,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020215,PHX,WAS
+Shot Chart Detail,0020100728,40,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020215,PHX,WAS
+Shot Chart Detail,0020100728,128,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020215,PHX,WAS
+Shot Chart Detail,0020100728,160,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,91,66,1,1,20020215,PHX,WAS
+Shot Chart Detail,0020100728,197,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,4,1,0,20020215,PHX,WAS
+Shot Chart Detail,0020100728,276,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,9,1,0,20020215,PHX,WAS
+Shot Chart Detail,0020100728,293,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,0,1,0,20020215,PHX,WAS
+Shot Chart Detail,0020100728,313,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020215,PHX,WAS
+Shot Chart Detail,0020100743,1,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,11,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,65,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,19,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100743,75,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,49,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100743,105,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-124,137,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100743,122,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,11,144,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,149,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,32,70,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,203,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,127,82,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100743,208,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,76,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,263,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,120,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,271,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,8,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100743,321,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,200,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,402,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,76,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100743,411,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020217,PHX,DAL
+Shot Chart Detail,0020100743,442,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-1,222,1,1,20020217,PHX,DAL
+Shot Chart Detail,0020100756,9,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,142,118,1,1,20020219,PHX,SEA
+Shot Chart Detail,0020100756,85,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,148,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100756,115,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020219,PHX,SEA
+Shot Chart Detail,0020100756,118,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020219,PHX,SEA
+Shot Chart Detail,0020100756,172,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,4,1,1,20020219,PHX,SEA
+Shot Chart Detail,0020100756,251,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100756,256,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100756,258,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,5,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,68,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100756,269,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020219,PHX,SEA
+Shot Chart Detail,0020100756,277,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,15,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100756,290,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,169,169,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100756,398,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,222,1,1,20020219,PHX,SEA
+Shot Chart Detail,0020100756,404,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020219,PHX,SEA
+Shot Chart Detail,0020100770,7,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,10,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,79,135,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100770,36,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,179,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100770,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,53,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100770,68,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100770,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,1,196,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100770,224,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,1,196,1,1,20020221,MEM,PHX
+Shot Chart Detail,0020100770,239,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,9,23,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100770,264,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,9,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,63,1,0,20020221,MEM,PHX
+Shot Chart Detail,0020100807,110,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,4,1,0,20020226,SAS,PHX
+Shot Chart Detail,0020100807,159,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,152,1,1,20020226,SAS,PHX
+Shot Chart Detail,0020100807,170,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,4,1,1,20020226,SAS,PHX
+Shot Chart Detail,0020100807,283,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20020226,SAS,PHX
+Shot Chart Detail,0020100821,70,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,19,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,89,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,118,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,91,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,11,114,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,102,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,43,193,386,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,123,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,91,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,153,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,189,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,74,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,293,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-124,141,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,315,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,163,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,342,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,346,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,108,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,428,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,134,118,1,0,20020228,PHX,IND
+Shot Chart Detail,0020100821,441,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,490,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,4,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,13,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100821,505,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,1,51,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020228,PHX,IND
+Shot Chart Detail,0020100836,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,129,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,58,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,121,141,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,69,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,0,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,23,1,0,20020302,PHX,HOU
+Shot Chart Detail,0020100836,102,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020302,PHX,HOU
+Shot Chart Detail,0020100836,104,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,120,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-109,152,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,128,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,168,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,243,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,215,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020302,PHX,HOU
+Shot Chart Detail,0020100836,307,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-67,80,1,0,20020302,PHX,HOU
+Shot Chart Detail,0020100836,400,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,97,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100836,451,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,101,1,1,20020302,PHX,HOU
+Shot Chart Detail,0020100857,333,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,78,1,0,20020305,DAL,PHX
+Shot Chart Detail,0020100857,394,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,47,150,1,0,20020305,DAL,PHX
+Shot Chart Detail,0020100857,434,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,61,1,0,20020305,DAL,PHX
+Shot Chart Detail,0020100857,444,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020305,DAL,PHX
+Shot Chart Detail,0020100857,456,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,150,1,0,20020305,DAL,PHX
+Shot Chart Detail,0020100857,483,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,222,1,0,20020305,DAL,PHX
+Shot Chart Detail,0020100867,92,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-88,141,1,0,20020306,PHX,NJN
+Shot Chart Detail,0020100867,105,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,68,1,1,20020306,PHX,NJN
+Shot Chart Detail,0020100867,109,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,7,1,0,20020306,PHX,NJN
+Shot Chart Detail,0020100867,123,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,80,1,0,20020306,PHX,NJN
+Shot Chart Detail,0020100867,147,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,30,1,0,20020306,PHX,NJN
+Shot Chart Detail,0020100867,168,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020306,PHX,NJN
+Shot Chart Detail,0020100867,330,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,68,1,0,20020306,PHX,NJN
+Shot Chart Detail,0020100867,342,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020306,PHX,NJN
+Shot Chart Detail,0020100867,420,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020306,PHX,NJN
+Shot Chart Detail,0020100883,98,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,63,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100883,123,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-37,74,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100883,144,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,152,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100883,151,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100883,169,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,57,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100883,179,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020308,PHX,MIN
+Shot Chart Detail,0020100883,329,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100883,331,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,13,1,0,20020308,PHX,MIN
+Shot Chart Detail,0020100899,151,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,24,150,1,0,20020310,PHX,CHH
+Shot Chart Detail,0020100899,163,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-65,167,1,0,20020310,PHX,CHH
+Shot Chart Detail,0020100910,60,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,70,194,1,0,20020312,MIA,PHX
+Shot Chart Detail,0020100910,67,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-88,125,1,0,20020312,MIA,PHX
+Shot Chart Detail,0020100910,95,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,9,1,1,20020312,MIA,PHX
+Shot Chart Detail,0020100910,100,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,129,1,0,20020312,MIA,PHX
+Shot Chart Detail,0020100910,105,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020312,MIA,PHX
+Shot Chart Detail,0020100910,123,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020312,MIA,PHX
+Shot Chart Detail,0020100916,79,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,77,85,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,89,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,50,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,55,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,101,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,98,198,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,121,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,34,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,40,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,144,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,153,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,42,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,101,81,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,168,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,98,192,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,193,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,199,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,334,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,350,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,39,89,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,400,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,405,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,6,35,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020313,ORL,PHX
+Shot Chart Detail,0020100916,443,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,161,154,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100916,490,358,Anfernee Hardaway,1610612756,Phoenix Suns,5,3,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020313,ORL,PHX
+Shot Chart Detail,0020100929,91,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,-13,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100929,100,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,133,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100929,120,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100929,124,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100929,125,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100929,127,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020315,ATL,PHX
+Shot Chart Detail,0020100929,158,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100929,338,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,47,1,0,20020315,ATL,PHX
+Shot Chart Detail,0020100937,104,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-189,99,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,142,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,58,219,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,149,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020316,CHH,PHX
+Shot Chart Detail,0020100937,155,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,51,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,191,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020316,CHH,PHX
+Shot Chart Detail,0020100937,382,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-183,99,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,388,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,79,106,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,390,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,415,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,40,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,433,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,7,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100937,453,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020316,CHH,PHX
+Shot Chart Detail,0020100976,21,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020321,PHX,DET
+Shot Chart Detail,0020100976,28,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,8,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,137,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,44,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,6,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020321,PHX,DET
+Shot Chart Detail,0020100976,56,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,42,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,68,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,133,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,72,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,2,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020321,PHX,DET
+Shot Chart Detail,0020100976,96,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,82,1,1,20020321,PHX,DET
+Shot Chart Detail,0020100976,105,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,66,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,180,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,187,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020321,PHX,DET
+Shot Chart Detail,0020100976,189,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-157,93,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,199,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,0,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,204,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,11,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,252,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,392,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,132,110,1,0,20020321,PHX,DET
+Shot Chart Detail,0020100976,418,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,184,1,1,20020321,PHX,DET
+Shot Chart Detail,0020100993,130,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020323,LAC,PHX
+Shot Chart Detail,0020100993,170,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,146,1,1,20020323,LAC,PHX
+Shot Chart Detail,0020100993,308,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,85,91,1,0,20020323,LAC,PHX
+Shot Chart Detail,0020100993,326,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020323,LAC,PHX
+Shot Chart Detail,0020100993,343,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,156,1,0,20020323,LAC,PHX
+Shot Chart Detail,0020100993,363,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,27,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020323,LAC,PHX
+Shot Chart Detail,0020101004,129,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-88,55,1,1,20020325,PHX,CLE
+Shot Chart Detail,0020101004,155,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-52,36,1,0,20020325,PHX,CLE
+Shot Chart Detail,0020101004,248,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,70,1,1,20020325,PHX,CLE
+Shot Chart Detail,0020101004,279,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,62,241,1,0,20020325,PHX,CLE
+Shot Chart Detail,0020101004,308,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-6,1,1,20020325,PHX,CLE
+Shot Chart Detail,0020101022,134,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020327,PHX,LAL
+Shot Chart Detail,0020101022,171,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,0,1,1,20020327,PHX,LAL
+Shot Chart Detail,0020101022,353,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,127,133,1,1,20020327,PHX,LAL
+Shot Chart Detail,0020101022,444,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,4,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020327,PHX,LAL
+Shot Chart Detail,0020101038,111,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,70,141,1,0,20020329,PHX,LAC
+Shot Chart Detail,0020101038,142,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,80,1,0,20020329,PHX,LAC
+Shot Chart Detail,0020101038,180,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020329,PHX,LAC
+Shot Chart Detail,0020101038,301,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-103,85,1,0,20020329,PHX,LAC
+Shot Chart Detail,0020101038,312,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,97,1,0,20020329,PHX,LAC
+Shot Chart Detail,0020101038,388,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,51,1,0,20020329,PHX,LAC
+Shot Chart Detail,0020101045,121,358,Anfernee Hardaway,1610612756,Phoenix Suns,1,0,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-48,198,1,1,20020330,HOU,PHX
+Shot Chart Detail,0020101045,157,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020330,HOU,PHX
+Shot Chart Detail,0020101045,166,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,165,1,0,20020330,HOU,PHX
+Shot Chart Detail,0020101045,187,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,45,1,1,20020330,HOU,PHX
+Shot Chart Detail,0020101045,207,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-189,118,1,0,20020330,HOU,PHX
+Shot Chart Detail,0020101045,334,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,222,1,0,20020330,HOU,PHX
+Shot Chart Detail,0020101045,346,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-35,68,1,1,20020330,HOU,PHX
+Shot Chart Detail,0020101045,367,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,22,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,61,1,1,20020330,HOU,PHX
+Shot Chart Detail,0020101045,398,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-86,28,1,0,20020330,HOU,PHX
+Shot Chart Detail,0020101045,407,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,2,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,101,1,1,20020330,HOU,PHX
+Shot Chart Detail,0020101058,122,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,11,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-6,1,1,20020402,CLE,PHX
+Shot Chart Detail,0020101058,151,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20020402,CLE,PHX
+Shot Chart Detail,0020101058,167,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,47,1,1,20020402,CLE,PHX
+Shot Chart Detail,0020101058,314,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,3,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,0,20020402,CLE,PHX
+Shot Chart Detail,0020101058,364,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,1,20020402,CLE,PHX
+Shot Chart Detail,0020101058,381,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,7,44,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,11,1,1,20020402,CLE,PHX
+Shot Chart Detail,0020101071,124,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,6,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020403,PHI,PHX
+Shot Chart Detail,0020101071,154,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,49,173,1,0,20020403,PHI,PHX
+Shot Chart Detail,0020101071,301,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020403,PHI,PHX
+Shot Chart Detail,0020101071,364,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,87,1,0,20020403,PHI,PHX
+Shot Chart Detail,0020101083,113,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,30,30,1,0,20020405,IND,PHX
+Shot Chart Detail,0020101097,119,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,55,1,0,20020406,MIN,PHX
+Shot Chart Detail,0020101097,168,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,19,1,0,20020406,MIN,PHX
+Shot Chart Detail,0020101097,178,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,4,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-126,85,1,1,20020406,MIN,PHX
+Shot Chart Detail,0020101097,311,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,2,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,45,1,1,20020406,MIN,PHX
+Shot Chart Detail,0020101097,320,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,16,241,1,1,20020406,MIN,PHX
+Shot Chart Detail,0020101097,348,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,54,184,1,1,20020406,MIN,PHX
+Shot Chart Detail,0020101097,389,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,3,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020406,MIN,PHX
+Shot Chart Detail,0020101120,117,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,51,1,0,20020409,PHX,SEA
+Shot Chart Detail,0020101120,119,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,9,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020409,PHX,SEA
+Shot Chart Detail,0020101120,317,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,8,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020409,PHX,SEA
+Shot Chart Detail,0020101120,348,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,5,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,125,1,0,20020409,PHX,SEA
+Shot Chart Detail,0020101135,109,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,11,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-67,80,1,0,20020411,PHX,UTA
+Shot Chart Detail,0020101135,135,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,80,1,0,20020411,PHX,UTA
+Shot Chart Detail,0020101151,174,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,38,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,9,1,0,20020413,DEN,PHX
+Shot Chart Detail,0020101151,177,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-13,1,0,20020413,DEN,PHX
+Shot Chart Detail,0020101151,179,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,3,2,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020413,DEN,PHX
+Shot Chart Detail,0020101151,315,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,-6,1,0,20020413,DEN,PHX
+Shot Chart Detail,0020101151,321,358,Anfernee Hardaway,1610612756,Phoenix Suns,3,0,42,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020413,DEN,PHX
+Shot Chart Detail,0020101151,336,358,Anfernee Hardaway,1610612756,Phoenix Suns,4,11,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,47,1,1,20020413,DEN,PHX
+Shot Chart Detail,0020101172,112,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,10,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,4,1,0,20020416,SAS,PHX
+Shot Chart Detail,0020101172,139,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,7,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20020416,SAS,PHX
+Shot Chart Detail,0020101185,161,358,Anfernee Hardaway,1610612756,Phoenix Suns,2,5,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,47,1,1,20020417,PHX,DAL
