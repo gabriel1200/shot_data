@@ -1,4 +1,505 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300007,73,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,5,45,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-21,159,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,87,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,183,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,101,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,32,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,55,257,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,106,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,269,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,122,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,36,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,55,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,124,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,31,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,155,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,28,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,140,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,52,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,144,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,20,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-98,221,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,161,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,195,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,28,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,193,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,28,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,200,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,51,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,4,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,208,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-211,135,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,216,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,204,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,220,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,32,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,4,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,477,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,92,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,483,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,13,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,486,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,29,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,490,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,57,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,105,137,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,494,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,33,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,85,252,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,529,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,45,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,13,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,531,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,43,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,534,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,1,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-118,244,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,542,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,29,Made Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,13,32,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,557,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,52,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,12,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300007,563,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,27,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231103,POR,MEM
+Shot Chart Detail,0022300007,561,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,27,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,7,1,0,20231103,POR,MEM
+Shot Chart Detail,0022300023,7,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,11,39,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,32,63,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,11,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,11,12,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,183,161,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,16,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,33,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,13,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,19,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,1,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,71,122,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,25,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,22,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,100,42,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,36,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,59,Made Shot,Alley Oop Layup shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,17,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,40,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,38,Made Shot,Alley Oop Layup shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,22,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,47,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,1,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,71,141,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,51,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,39,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-93,151,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,54,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,9,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,89,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,131,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,52,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,-7,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,137,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,16,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,103,125,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,140,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,43,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,164,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,157,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,4,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,22,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,162,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,30,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,-10,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,168,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,54,-145,529,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,175,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,27,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-62,99,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,179,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,5,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,225,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,186,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,109,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,190,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,42,242,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,192,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,202,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,0,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,229,3,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,206,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,36,Made Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,-17,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,214,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,7,56,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,11,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,218,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,7,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,21,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,222,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,7,8,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-20,163,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,238,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,37,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,226,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,242,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,9,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,59,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,269,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,20,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,343,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,27,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-22,58,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,346,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,56,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,43,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,352,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,23,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,41,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,356,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,18,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-54,249,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,361,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,55,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,231,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,365,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,14,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,57,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,372,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,33,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,241,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,376,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,17,Made Shot,Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,25,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,384,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,15,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-50,62,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,386,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,12,Missed Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-71,91,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,401,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,14,Missed Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-58,78,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,403,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,9,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,416,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,481,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,34,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,30,-183,241,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,492,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-31,27,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,497,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,39,152,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,499,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,21,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,55,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,504,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,2,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-167,205,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,512,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,137,251,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,516,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,40,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,223,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,556,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,215,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,560,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,15,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,28,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,562,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,11,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,564,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,8,Missed Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,44,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,581,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,18,Made Shot,Layup Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,598,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,243,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,603,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,51,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-234,81,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300023,607,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,1,20231114,UTA,POR
+Shot Chart Detail,0022300023,611,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,50,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,11,1,0,20231114,UTA,POR
+Shot Chart Detail,0022300036,8,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,11,25,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,67,138,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,12,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,9,130,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,19,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,38,Missed Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,17,15,175,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,23,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,77,104,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,25,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,125,8,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,29,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,27,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,38,146,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,35,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,5,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,103,37,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,42,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,40,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,134,223,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,44,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,39,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,46,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,11,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,214,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,50,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,48,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,55,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,135,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,34,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,26,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,140,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,176,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,142,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,74,246,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,145,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,0,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,224,73,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,155,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,38,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-170,210,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,162,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,3,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,59,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,164,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,56,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,21,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,170,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,174,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,48,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,22,116,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,180,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,27,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,42,97,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,183,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,247,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,327,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,43,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-9,157,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,329,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,234,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,332,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,15,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,336,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,38,Made Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,119,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,340,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,9,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,218,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,347,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,43,Missed Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,-69,138,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,356,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,49,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,47,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,358,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,44,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,361,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,20,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-16,171,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,365,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,53,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,94,256,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,367,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,208,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,383,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,27,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,73,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,387,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,10,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,63,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,403,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,37,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,16,104,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,407,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,14,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,242,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,410,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,8,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,66,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,418,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,18,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,147,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,470,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,145,199,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,478,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-31,248,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,494,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,1,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,92,93,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,498,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,29,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,89,257,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,550,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,5,22,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,570,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,32,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-69,255,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300036,575,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,7,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,235,90,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,583,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,37,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-75,253,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,595,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,51,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,234,1,0,20231117,POR,LAL
+Shot Chart Detail,0022300036,601,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,31,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,155,1,1,20231117,POR,LAL
+Shot Chart Detail,0022300041,65,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,4,Missed Shot,Pullup Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,72,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,67,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,58,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,27,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,69,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,14,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,55,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,72,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,71,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,75,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,5,43,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,88,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,84,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,51,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-48,150,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,88,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,23,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,93,69,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,108,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,26,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,111,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,117,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,41,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,64,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,126,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,7,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,31,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,138,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,47,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,33,93,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,143,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,195,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,147,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,4,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,149,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,257,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,264,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,164,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,268,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,29,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,93,153,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,271,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,3,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,179,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,290,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,2,44,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,197,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,394,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,47,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,396,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,45,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,52,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,405,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,6,10,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,15,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,409,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,53,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,421,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,55,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,50,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,425,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,50,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,431,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,17,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,62,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,450,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,21,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,215,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,460,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,238,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,463,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,466,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,10,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-49,95,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,479,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,3,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,579,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,23,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,584,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,48,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,185,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,586,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,42,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,189,179,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,595,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,6,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,599,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,30,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,194,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,604,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,7,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,46,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,611,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,25,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,52,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,617,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,20,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300086,225,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,22,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,45,89,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,229,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,5,34,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,196,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,245,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,58,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,12,121,-11,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,249,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,25,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,4,157,1,0,20231027,POR,ORL
+Shot Chart Detail,0022300086,251,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,21,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-74,141,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,254,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,1,Made Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,16,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,261,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,275,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,2,59,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-58,102,1,0,20231027,POR,ORL
+Shot Chart Detail,0022300086,481,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,24,1,0,20231027,POR,ORL
+Shot Chart Detail,0022300086,485,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,9,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,3,1,0,20231027,POR,ORL
+Shot Chart Detail,0022300086,489,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,32,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,-8,1,0,20231027,POR,ORL
+Shot Chart Detail,0022300086,491,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,28,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231027,POR,ORL
+Shot Chart Detail,0022300086,497,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,20,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,152,237,1,0,20231027,POR,ORL
+Shot Chart Detail,0022300098,641,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,22,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,16,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,645,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,1,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-6,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,651,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,9,258,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,657,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,34,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-214,152,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,665,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,44,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,35,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,674,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,21,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-8,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,676,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,16,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,680,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,201,194,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,684,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,42,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,179,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,694,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,9,Missed Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,9,37,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,699,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,49,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-43,256,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,703,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,18,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-4,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300105,118,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,13,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,48,180,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,132,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,36,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,138,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,0,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-55,247,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,143,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,32,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,119,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,147,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,2,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,224,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,156,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,32,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-94,66,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,158,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,28,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,24,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,161,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,179,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,163,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,57,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,33,5,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,170,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,29,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,174,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,8,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,4,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,179,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,227,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,185,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,11,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,12,135,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,192,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,55,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-29,93,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,196,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,20,Missed Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,42,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,198,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,15,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,175,192,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,479,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,8,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,481,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,21,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-58,162,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,483,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,191,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,487,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,31,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,147,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300105,497,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,29,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20231030,TOR,POR
+Shot Chart Detail,0022300105,505,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,38,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,15,-147,48,1,0,20231030,TOR,POR
+Shot Chart Detail,0022300115,299,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,2,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,5,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,315,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,1,40,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,81,131,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,321,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,0,37,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,76,243,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,325,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,0,1,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,129,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,327,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,0,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,-2,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,506,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,41,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,99,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,512,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,2,Missed Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,21,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,558,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,12,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,562,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,53,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,172,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,565,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,23,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,59,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,567,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,19,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,24,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,580,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,51,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,249,15,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,587,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,16,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-23,22,1,1,20231101,DET,POR
+Shot Chart Detail,0022300115,592,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,40,Missed Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,27,-13,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,596,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-25,105,1,0,20231101,DET,POR
+Shot Chart Detail,0022300115,601,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,39,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,10,1,0,20231101,DET,POR
+Shot Chart Detail,0022300144,100,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,53,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-28,8,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,103,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,20,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,36,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,108,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,168,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,113,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,21,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,132,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,107,248,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,136,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,21,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,236,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,152,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,25,244,75,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,155,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,41,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,252,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,158,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,215,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,160,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-1,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,170,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,25,238,83,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,174,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,171,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,188,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,19,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,6,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,192,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,59,Made Shot,Step Back Jump shot,,Mid-Range,Left Side(L),8-16 ft.,15,-157,24,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,199,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,25,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-5,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,203,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,9,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,142,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,207,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,40,Made Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,16,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,458,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,27,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,185,168,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,462,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,59,Missed Shot,Turnaround Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,470,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,34,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,191,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,472,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,23,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,91,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,476,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,52,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,10,262,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,478,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,48,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-33,12,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,492,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-107,238,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,496,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,44,Missed Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,21,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,499,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,25,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,210,111,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,513,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,33,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-113,120,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,515,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,31,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,6,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,519,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,131,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,530,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,25,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-58,127,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,532,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,21,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,22,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,534,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,16,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,38,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,536,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,2,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,12,126,13,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,544,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,24,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,172,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,551,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-168,226,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,554,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,16,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-1,1,0,20231105,POR,MEM
+Shot Chart Detail,0022300144,556,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,14,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300144,559,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,52,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20231105,POR,MEM
+Shot Chart Detail,0022300170,65,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,19,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,152,54,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,69,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,5,47,Made Shot,Fadeaway Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-74,141,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,72,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,5,14,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Center(C),8-16 ft.,15,1,151,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,91,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,10,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,14,-100,102,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,95,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,44,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,22,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,116,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,36,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,25,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,127,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,55,Made Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,54,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,138,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,6,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,34,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,143,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,42,Made Shot,Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,26,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,170,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,5,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,37,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,173,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,57,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,75,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,179,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,33,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,5,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,203,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,32,Missed Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,4,31,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,183,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,11,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,29,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,205,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,46,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,214,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,20,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,234,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,3,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,12,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,248,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,7,17,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,212,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,252,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,55,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,17,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,378,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,4,148,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,382,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,49,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,65,147,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,386,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,24,Made Shot,Turnaround Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,0,150,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,396,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,13,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,36,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,412,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,7,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-9,38,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,418,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,38,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,48,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,429,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,14,Made Shot,Driving Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,46,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,439,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,47,Made Shot,Driving Floating Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,16,146,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,497,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,174,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,519,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,9,120,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,522,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-9,142,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,530,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,31,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,42,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,539,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,5,Missed Shot,Driving Dunk Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,79,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,552,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,47,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,24,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,554,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,42,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,32,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,556,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,9,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,45,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,560,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,21,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,569,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,26,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-232,103,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,571,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,12,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,11,108,42,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,587,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,22,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,45,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,590,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,45,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,94,240,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,599,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,14,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,103,257,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,610,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,29,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,43,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,613,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,8,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,206,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,658,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,43,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,662,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,52,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,36,132,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,666,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,19,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,93,136,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,676,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,43,Made Shot,Floating Jump shot,,Mid-Range,Center(C),8-16 ft.,14,40,143,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,686,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,59,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,11,148,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,693,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,31,83,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,705,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,14,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,53,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,735,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,0,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,114,266,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,747,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,4,48,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,39,240,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,751,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,4,10,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,97,145,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,755,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,3,34,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,43,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,761,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,3,2,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,35,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,770,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,1,55,Missed Shot,Turnaround Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,11,156,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,772,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,1,48,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,21,1,1,20231108,SAC,POR
+Shot Chart Detail,0022300170,790,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,0,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,13,37,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,788,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,0,37,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,48,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,817,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,0,9,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,25,-241,71,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300170,819,1630219,Skylar Mays,1610612757,Portland Trail Blazers,5,0,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,226,1,0,20231108,SAC,POR
+Shot Chart Detail,0022300187,16,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,11,2,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,54,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,20,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,38,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,16,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,24,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,22,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,26,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,44,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,17,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,35,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,191,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,39,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,24,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-121,92,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,44,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,2,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,50,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,16,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,54,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,16,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,12,93,78,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,63,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,41,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,254,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,67,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,11,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,112,27,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,70,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,5,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-126,25,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,91,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,38,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,175,15,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,94,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,4,6,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-47,110,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,103,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,33,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,169,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,246,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,250,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,25,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,57,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,257,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,5,58,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,16,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,261,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,5,22,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-229,28,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,269,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,30,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,27,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,274,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,4,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,75,165,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,278,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,3,33,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,27,84,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,280,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,3,4,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,223,78,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,289,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,2,37,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,32,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,293,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,1,54,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,75,136,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,297,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,1,18,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,144,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,304,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,0,46,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,308,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,0,35,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,225,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,430,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,9,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,435,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,57,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,445,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,22,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,-2,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,451,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,42,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,1,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,459,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,7,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,14,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,466,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,39,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,37,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,469,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,16,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,131,251,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,485,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,23,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,8,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,492,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,22,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,10,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,494,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,17,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,497,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,59,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,232,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,502,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,41,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,10,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,506,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,15,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,517,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,44,Made Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,137,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,521,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,5,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-23,252,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,525,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,25,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,27,51,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,538,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,50,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-113,20,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,544,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,23,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-22,8,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,547,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,58,134,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,550,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,131,94,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,553,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,3,Made Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,26,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,566,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,2,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,143,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,576,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,24,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,10,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,578,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,18,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,589,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,20,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,34,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,593,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,39,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,231,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,597,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,1,9,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-17,78,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300187,607,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,18,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,14,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,612,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,10,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20231112,LAL,POR
+Shot Chart Detail,0022300187,617,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,114,235,1,0,20231112,LAL,POR
+Shot Chart Detail,0022300199,11,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,11,22,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-173,215,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,14,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,45,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,50,95,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,21,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,24,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,33,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,27,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,133,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,41,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,58,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,0,148,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,45,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,259,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,49,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,8,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,1,157,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,56,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,42,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,170,230,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,66,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,52,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,7,99,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,70,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,22,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,131,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,44,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-17,25,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,137,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,29,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,63,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,144,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,9,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,151,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,202,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,154,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,38,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-165,200,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,157,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-4,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,162,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,34,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,166,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,37,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,161,127,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,169,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-83,184,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,177,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,40,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,181,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,14,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,185,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,42,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-65,254,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,193,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,14,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,76,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,196,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,213,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,28,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,37,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,232,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,6,35,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,32,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,294,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,2,54,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,136,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,354,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,44,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,26,4,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,358,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,26,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),16-24 ft.,16,137,95,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,364,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,10,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,6,92,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,370,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,45,Missed Shot,Running Pull-Up Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,373,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,205,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,377,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,55,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,99,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,466,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,18,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,13,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,468,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,3,9,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,53,273,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,472,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,2,44,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-98,252,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,487,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,502,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,1,3,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,16,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,505,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,31,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,142,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,519,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,0,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-99,229,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,533,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,11,23,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,539,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,44,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,172,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,548,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,10,3,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-12,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,550,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,9,26,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,21,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,555,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,55,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,64,263,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,564,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,30,Missed Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,576,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,8,9,Made Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,24,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,579,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,30,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,582,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,7,4,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,587,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,43,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,-1,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,597,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,6,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-224,80,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,605,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,33,9,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,613,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,48,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,201,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,617,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,13,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,53,104,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300199,621,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,240,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,629,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,3,20,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-119,218,1,1,20231115,POR,CLE
+Shot Chart Detail,0022300199,633,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,2,55,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,0,20231115,POR,CLE
+Shot Chart Detail,0022300215,7,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,11,45,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,18,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,18,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,258,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,24,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-145,237,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,28,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,9,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,210,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,35,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,37,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,144,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,37,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,32,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,40,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,8,5,Made Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,2,33,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,44,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,7,35,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,18,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,56,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,6,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-140,235,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,108,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,3,14,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,31,265,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,117,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,2,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,210,130,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,126,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,237,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,129,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,1,14,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-9,67,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,134,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,53,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,62,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,138,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,15,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-190,199,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,150,1630219,Skylar Mays,1610612757,Portland Trail Blazers,1,0,0,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,63,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,170,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,14,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,23,22,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,172,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,11,9,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Center(C),8-16 ft.,15,12,157,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,176,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,29,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,220,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,180,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,10,2,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,184,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,47,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,187,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,9,32,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,223,59,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,201,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,48,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,143,32,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,203,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-12,258,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,207,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,37,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-55,53,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,209,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,32,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,211,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,8,3,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,39,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,214,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,7,42,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,163,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,276,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,4,12,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,14,43,141,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,287,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,3,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,86,243,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,301,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,2,4,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-29,68,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,304,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,1,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-13,149,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,312,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,1,4,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-10,37,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,329,1630219,Skylar Mays,1610612757,Portland Trail Blazers,2,0,0,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,49,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,339,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,237,47,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,343,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,11,10,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,213,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,349,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,38,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,24,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,353,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,10,21,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,360,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,48,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,198,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,362,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,257,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,370,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,225,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,373,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,40,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,22,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,375,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,8,13,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,40,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,380,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,50,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-50,145,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,383,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,23,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,29,132,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,386,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,7,2,Made Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,45,1,1,20231119,POR,OKC
+Shot Chart Detail,0022300215,396,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,42,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,76,146,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,400,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,5,11,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,408,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,204,1,0,20231119,POR,OKC
+Shot Chart Detail,0022300215,413,1630219,Skylar Mays,1610612757,Portland Trail Blazers,3,4,8,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-59,150,1,0,20231119,POR,OKC
 Shot Chart Detail,0022300237,587,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,5,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,231,1,0,20231122,POR,UTA
 Shot Chart Detail,0022300237,592,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,52,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-165,222,1,0,20231122,POR,UTA
 Shot Chart Detail,0022300237,594,1630219,Skylar Mays,1610612757,Portland Trail Blazers,4,4,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,181,1,0,20231122,POR,UTA

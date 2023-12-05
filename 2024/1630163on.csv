@@ -1,4 +1,854 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300009,11,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,214,172,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,15,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,49,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,-24,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,19,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,235,95,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,24,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-120,264,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,28,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,16,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,85,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,39,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,33,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,16,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,49,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,14,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,15,-107,113,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,53,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,53,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,18,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,62,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,21,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,53,117,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,64,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,17,Made Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,48,92,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,67,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,35,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,25,-240,76,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,69,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,29,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,122,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,119,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,23,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,122,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,45,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,25,243,85,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,124,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,41,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,127,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,191,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,136,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,49,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,200,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,140,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,35,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,143,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,0,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,34,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,159,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-180,196,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,163,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,1,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,218,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,173,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,23,Made Shot,Alley Oop Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,41,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,180,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,2,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,39,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,186,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,42,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,185,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,200,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,196,183,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,206,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,11,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,65,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,208,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,211,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,7,39,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,48,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,290,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,8,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-17,95,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,292,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,2,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,296,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,52,Made Shot,Running Alley Oop Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,26,10,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,299,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,24,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,58,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,328,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,23,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,33,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,304,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,36,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,308,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,54,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-93,138,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,313,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,26,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,49,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,317,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,45,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-118,132,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,319,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,321,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,24,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,-14,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,325,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,44,121,424,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,342,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,26,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,61,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,344,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,20,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,358,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,224,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,365,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,48,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,56,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,710,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,25,Missed Shot,Alley Oop Layup shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,38,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,370,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,23,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,27,3,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,374,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,134,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,380,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,51,Missed Shot,Reverse Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,-4,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,712,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,47,Missed Shot,Tip Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,13,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,383,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,35,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,387,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-21,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,391,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,57,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-239,-23,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,399,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,33,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,403,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,3,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,59,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,407,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,-16,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,409,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,56,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,179,167,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,413,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,51,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,417,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,54,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,11,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,498,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,509,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,33,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,516,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,6,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-78,290,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,536,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,124,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,538,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,1,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,3,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,543,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,35,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,71,134,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,546,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,558,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,19,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-36,8,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,583,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,6,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,40,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,587,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,46,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,60,108,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,606,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,140,257,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,622,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,27,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,714,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,7,Missed Shot,Tip Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,59,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,626,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-10,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,649,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,28,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,651,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,20,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,655,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,48,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-42,247,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,664,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,50,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,15,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,667,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,7,36,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,678,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,26,Made Shot,Running Pull-Up Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-9,99,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,683,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,40,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,31,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,688,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,16,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,13,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,696,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,45,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-10,125,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,698,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,43,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,29,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300009,704,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-245,-26,1,0,20231110,WAS,CHA
+Shot Chart Detail,0022300009,706,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,18,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-28,21,1,1,20231110,WAS,CHA
+Shot Chart Detail,0022300017,9,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,31,Missed Shot,Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,15,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,19,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,30,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,39,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,25,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,1,299,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,28,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,32,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,201,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,32,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,5,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,30,-96,289,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,43,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,13,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,47,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,32,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,55,113,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,50,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,58,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,27,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,20,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,60,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,19,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-123,264,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,64,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,46,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,112,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,68,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,13,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,72,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,88,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,34,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,125,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,59,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,36,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,128,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,50,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,18,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,141,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,43,312,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,150,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,20,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,19,48,184,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,157,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,25,12,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,164,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,96,165,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,168,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,25,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-114,249,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,170,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,17,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,145,32,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,174,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,53,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,69,270,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,178,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,27,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,181,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,50,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,241,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,193,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,21,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,246,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,5,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,186,209,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,252,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,4,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,20,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,254,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,4,45,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,257,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,4,11,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,27,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,276,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,34,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,322,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,34,156,310,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,326,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,53,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,34,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,329,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,14,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,332,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,334,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,43,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,339,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,206,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,343,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-28,17,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,345,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,53,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-23,20,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,354,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,20,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,72,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,360,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,55,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,224,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,364,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,12,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,44,75,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,370,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,24,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,372,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,185,185,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,379,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,13,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,72,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,437,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,54,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,66,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,443,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,43,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,460,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,53,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,239,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,496,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,14,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,506,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,36,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,48,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,512,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,8,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,30,93,288,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,526,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-77,285,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,534,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,25,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,1,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,541,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,0,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,547,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,19,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,135,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,551,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,51,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,16,110,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,559,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,17,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,188,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,563,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,-2,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,568,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,59,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,30,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,571,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,201,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,573,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,13,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,579,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,34,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,-1,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,591,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,28,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-202,-7,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,595,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,51,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,5,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,602,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,24,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,25,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300017,607,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,14,1,1,20231114,CHA,MIA
+Shot Chart Detail,0022300017,628,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,10,Missed Shot,Step Back Jump shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,48,1,0,20231114,CHA,MIA
+Shot Chart Detail,0022300027,9,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,26,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-140,239,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,12,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,59,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,16,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,-82,319,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,20,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,18,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-65,255,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,22,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,12,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,93,120,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,25,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,34,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,74,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,35,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,92,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,39,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,45,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,31,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,56,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,22,79,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,58,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,0,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,61,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,37,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-170,242,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,74,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,0,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,184,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,85,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,14,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,88,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,9,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,92,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,54,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,206,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,95,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,29,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,92,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,97,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,10,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,-4,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,137,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,33,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,199,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,148,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,25,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,152,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,0,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,123,166,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,155,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,45,Made Shot,Running Pull-Up Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-9,89,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,169,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,48,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,179,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,173,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,14,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-210,184,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,177,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,54,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-71,240,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,181,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,29,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,31,155,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,200,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,235,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,204,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,49,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-142,10,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,215,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,234,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,285,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,1,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,13,130,8,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,289,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,32,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,111,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,293,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,11,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-16,96,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,297,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,47,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,59,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,300,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,72,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,305,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,3,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,318,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,48,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,125,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,324,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,4,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-115,131,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,329,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,37,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,18,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,334,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,9,Made Shot,Running Alley Oop Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,16,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,348,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,30,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,25,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,351,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,25,Missed Shot,Floating Jump shot,,Mid-Range,Right Side(R),8-16 ft.,11,112,13,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,358,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,54,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-33,131,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,360,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,51,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,17,26,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,362,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,78,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,366,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-183,200,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,368,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,10,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,378,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,12,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,76,78,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,385,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,52,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,2,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,389,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,15,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,392,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,20,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,396,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,26,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,27,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,437,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,3,0,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,29,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,441,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,13,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,447,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,40,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,453,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,3,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,32,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,458,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,28,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-28,28,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,480,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,40,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,487,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,12,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,74,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,489,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,51,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,170,228,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,498,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,17,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-74,39,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,503,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,20,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,511,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,52,Missed Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-225,74,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,515,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,29,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,62,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,538,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,59,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,80,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,544,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,27,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,137,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,550,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,6,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,244,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300027,563,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,569,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,12,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,29,1,1,20231117,CHA,MIL
+Shot Chart Detail,0022300027,578,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,56,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-42,79,1,0,20231117,CHA,MIL
+Shot Chart Detail,0022300063,7,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,47,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-50,125,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,14,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,27,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,17,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,29,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,20,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,50,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,30,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,19,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,35,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,53,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-130,269,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,47,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,9,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,53,184,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,52,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,43,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,29,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,60,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,17,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,48,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,70,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,44,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,80,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,74,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,20,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,127,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,39,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,20,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,142,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,58,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,23,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,157,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,31,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,32,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,165,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,4,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,12,95,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,173,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,22,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,31,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,185,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,47,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-102,254,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,193,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,20,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,39,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,196,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,10,Missed Shot,Fadeaway Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,54,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,212,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,6,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-5,91,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,216,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,44,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,18,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,220,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,8,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,225,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-176,241,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,310,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,57,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,165,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,320,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,138,249,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,379,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-10,262,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,381,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,16,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-99,132,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,385,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,43,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,186,166,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,392,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-4,287,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,398,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,44,285,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,403,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,50,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,96,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,407,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,25,Missed Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,221,8,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,410,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,59,Made Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,121,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,420,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,0,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,58,66,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,423,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,185,37,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,425,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,29,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-72,240,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,427,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-167,247,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,429,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,494,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,39,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-31,155,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,498,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,16,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,504,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,69,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,511,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,54,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,1,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,515,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,29,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,211,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,523,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Pullup Jump shot,,Backcourt,Back Court(BC),Back Court Shot,46,154,436,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,531,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,48,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,87,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,6,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,541,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,43,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,180,243,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,554,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,126,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,556,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,225,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,566,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,16,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,74,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,644,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,39,Missed Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,26,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,646,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,35,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,651,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,4,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,654,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,32,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,49,240,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,658,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,6,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,69,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,664,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,37,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-12,59,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300063,669,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,0,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,228,35,1,0,20231025,CHA,ATL
+Shot Chart Detail,0022300063,683,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,22,Made Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-104,26,1,1,20231025,CHA,ATL
+Shot Chart Detail,0022300077,7,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,12,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,19,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,17,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,190,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,21,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,35,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,21,29,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,26,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,20,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-10,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,29,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,57,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-26,146,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,33,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,30,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,197,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,45,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,19,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,62,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,60,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,28,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,220,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,68,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,51,Missed Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,70,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,45,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,74,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,23,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,105,224,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,126,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,-1,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,129,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,23,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-50,95,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,135,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,58,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-2,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,143,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,129,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,148,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,52,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,9,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,165,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,0,Missed Shot,Running Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,53,129,515,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,191,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,23,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,37,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,200,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,0,Made Shot,Running Alley Oop Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-10,24,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,204,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,46,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,216,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,151,237,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,223,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,13,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,226,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,23,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-17,247,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,295,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,38,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,302,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,15,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,136,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,317,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,49,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,319,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,44,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,10,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,322,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-7,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,326,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,54,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,343,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,14,Made Shot,Floating Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,4,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,353,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,27,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,190,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,356,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,0,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,29,211,205,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,393,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,23,Made Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,398,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,48,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,16,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,406,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,18,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-11,23,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,411,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,56,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-17,21,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,441,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,49,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,68,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,445,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,20,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,449,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,48,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,197,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,453,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,29,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,5,22,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,520,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,15,Missed Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,6,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,522,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,10,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,524,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,9,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,536,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,28,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-88,264,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,547,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,577,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,13,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,86,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,620,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,13,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,590,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,41,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,7,273,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,594,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,20,Missed Shot,Running Alley Oop Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,598,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,54,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,33,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,602,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,267,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,619,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,53,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,22,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,695,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,40,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,708,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,48,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-32,65,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,712,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,18,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,720,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,58,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,23,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300077,730,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,42,Missed Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,33,1,0,20231027,CHA,DET
+Shot Chart Detail,0022300077,738,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,23,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20231027,CHA,DET
+Shot Chart Detail,0022300101,7,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,45,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,71,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,10,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,25,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-105,289,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,14,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,22,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,20,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,17,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,173,58,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,25,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,59,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,7,124,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,29,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,76,299,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,33,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,22,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,36,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,3,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,39,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,30,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,47,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,47,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,51,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,19,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,20,111,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,55,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,2,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-2,292,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,67,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,20,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,71,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,45,Missed Shot,Fadeaway Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,5,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,75,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,20,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,78,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,40,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,51,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,82,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,10,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,25,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,139,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,3,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-40,77,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,153,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,15,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,200,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,157,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,4,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,188,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-1,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,192,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,18,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,197,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,8,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,69,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,201,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,37,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,199,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,355,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,41,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,71,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,357,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,37,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,360,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,20,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,368,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,40,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,372,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,18,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,17,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,500,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,49,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-47,262,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,504,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-176,210,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,506,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,25,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,565,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,55,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,36,-1,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,570,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,53,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,11,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,596,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,32,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,241,108,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,520,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,32,-152,286,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,522,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,33,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,32,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,529,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,56,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,6,101,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,586,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,55,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,194,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,592,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,13,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,598,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-97,268,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300101,601,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,605,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,42,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,39,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,613,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,16,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20231030,CHA,BKN
+Shot Chart Detail,0022300101,622,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,51,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,191,1,0,20231030,CHA,BKN
+Shot Chart Detail,0022300122,9,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,25,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,4,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,12,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,45,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-10,100,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,16,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,31,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,7,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,19,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,59,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,70,136,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,23,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,28,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,-8,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,30,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,45,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,25,71,248,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,33,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,13,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,122,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,36,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,45,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,33,113,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,45,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,7,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,39,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,7,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,8,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,47,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,39,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,32,104,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,51,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,32,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,122,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,213,121,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,128,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,247,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,142,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,1,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,144,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,1,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,161,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,26,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,1,180,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,165,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,3,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,10,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,173,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,29,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,179,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,183,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,52,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,8,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,187,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,22,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-40,113,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,200,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,28,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,80,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,337,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,43,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,1,298,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,348,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,48,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,88,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,359,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,51,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,363,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,105,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,367,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,45,Made Shot,Running Pull-Up Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,15,99,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,380,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,22,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,99,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,382,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,21,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,388,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,32,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,70,63,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,410,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,14,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,96,34,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,414,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,4,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,37,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,461,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,38,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,467,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,129,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,485,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-21,89,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,489,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,34,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,34,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,496,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-192,192,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,518,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,56,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,78,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,528,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,21,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,531,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,26,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,54,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,14,-32,143,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,544,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,24,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,178,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,548,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,53,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,89,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,552,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,177,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,554,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,7,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,557,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,31,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-9,111,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,560,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,3,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,2,150,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,564,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,35,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-36,85,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,577,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,14,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,586,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,13,Missed Shot,Driving Floating Bank Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-92,78,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,590,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,55,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,9,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,599,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-94,243,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,602,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,15,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,612,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,53,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,2,279,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,615,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,16,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,618,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,10,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,238,68,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,622,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,41,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,2,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,636,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,209,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,647,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,5,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,38,1,0,20231101,HOU,CHA
+Shot Chart Detail,0022300122,649,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,59,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,667,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-2,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300122,672,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,9,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,42,1,1,20231101,HOU,CHA
+Shot Chart Detail,0022300133,14,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,50,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,78,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,18,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,27,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-45,184,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,22,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,57,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,141,63,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,26,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,32,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-77,143,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,36,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,0,Made Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,20,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,40,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,42,Missed Shot,Running Pull-Up Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-1,180,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,42,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,40,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,46,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,34,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-45,52,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,51,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-206,154,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,55,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,66,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,1,Missed Shot,Turnaround Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,8,83,21,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,69,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,26,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,-74,132,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,133,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,24,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,142,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,45,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,26,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,146,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,28,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,21,26,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,164,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,11,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,176,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,49,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-40,78,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,179,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,20,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,140,233,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,184,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,46,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-9,74,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,189,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,9,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,203,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,28,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,18,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,218,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,45,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,186,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,321,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,11,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,325,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,41,Made Shot,Fadeaway Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-50,59,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,328,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,9,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-99,246,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,331,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,7,Missed Shot,Floating Jump shot,,Mid-Range,Right Side(R),8-16 ft.,11,109,20,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,344,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,70,270,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,358,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,38,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,17,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,360,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,33,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,362,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,32,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,365,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,8,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,29,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,369,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,37,Made Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-33,14,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,397,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-224,85,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,403,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,59,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,42,92,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,406,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,33,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,410,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,5,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,27,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,504,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,21,Missed Shot,Driving Floating Bank Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,83,47,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,506,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,17,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,11,24,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,513,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,54,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,34,273,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,523,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,25,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,34,72,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,526,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,50,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,50,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,530,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,24,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,27,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,534,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,51,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,75,255,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,24,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,25,279,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,583,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,38,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,4,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,595,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,4,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-203,164,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,600,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,24,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,115,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,609,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,50,Missed Shot,Turnaround Fadeaway Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,31,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,611,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,48,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,617,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,18,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-32,80,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,628,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,21,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,635,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,36,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,50,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300133,639,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,3,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20231104,IND,CHA
+Shot Chart Detail,0022300133,660,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,17,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,21,1,0,20231104,IND,CHA
+Shot Chart Detail,0022300143,7,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,42,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,12,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,11,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,20,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,20,125,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,18,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,46,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,13,115,74,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,22,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,14,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,64,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,26,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,45,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,65,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,35,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,48,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,14,147,2,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,51,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,2,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-121,155,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,55,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,34,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,88,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,59,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,15,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,63,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,56,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,75,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,188,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,79,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,9,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,210,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,147,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,50,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,13,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,149,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,46,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,152,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,16,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,65,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,163,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,10,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,83,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,178,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,26,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,55,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,182,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,58,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-34,-1,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,185,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,19,Made Shot,Hook Bank Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,7,38,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,197,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,23,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,8,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,201,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,188,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,203,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,165,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,207,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,15,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,101,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,280,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,4,37,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,287,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,4,17,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,130,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,297,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,48,Missed Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,127,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,300,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,42,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,68,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,304,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,19,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,308,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,2,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,13,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,326,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,7,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,330,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,29,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,334,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,57,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,84,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,339,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,348,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-5,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,353,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,26,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),16-24 ft.,17,-174,16,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,357,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,0,Missed Shot,Floating Jump shot,,Backcourt,Back Court(BC),Back Court Shot,42,-51,424,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,369,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,163,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,373,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,22,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,378,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,49,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,34,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,382,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,35,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,386,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,173,24,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,392,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,40,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,17,122,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,396,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,127,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,400,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,44,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,240,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,403,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,10,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,62,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,407,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,55,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,53,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,417,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,21,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,12,263,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,419,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,15,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-6,257,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,423,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,55,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,429,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,25,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,10,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,435,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,147,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,438,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,30,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,496,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,56,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,143,109,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,503,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,17,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,17,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,506,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,49,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,251,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,517,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,15,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,-69,130,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,9,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,89,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,541,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,7,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-229,94,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,544,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,157,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,552,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,47,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,16,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,554,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,42,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,560,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,9,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,245,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,563,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,33,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,260,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,566,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,4,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,171,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,581,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,22,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,40,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,591,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-38,-2,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,600,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,37,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,88,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,604,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,632,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,47,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,152,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,635,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,187,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,638,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,51,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,258,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,652,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,657,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,45,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,201,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,661,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,24,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,23,177,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,664,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,21,Missed Shot,Floating Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,34,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,667,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,18,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-7,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,670,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,45,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,19,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,674,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,8,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,686,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,13,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,14,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,688,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,142,266,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,692,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,27,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-126,169,1,0,20231105,DAL,CHA
+Shot Chart Detail,0022300143,698,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,8,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,701,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,32,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300143,721,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,4,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,14,1,1,20231105,DAL,CHA
+Shot Chart Detail,0022300157,8,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,39,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,21,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,49,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,25,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,227,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,27,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,6,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,30,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,220,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,33,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,36,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-17,250,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,36,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,38,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-137,218,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,42,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,20,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,24,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,48,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-28,5,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,56,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,39,Missed Shot,Floating Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-6,32,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,64,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,11,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,73,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,46,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,19,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,86,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,8,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-12,248,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,92,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,205,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,96,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,23,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,32,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,106,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,10,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,39,99,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,108,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,7,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-38,76,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,155,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,57,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,159,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,67,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,166,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,2,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,148,267,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,175,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,20,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,64,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,190,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,20,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,56,273,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,194,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,53,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,22,68,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,202,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,21,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,67,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,213,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,17,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-42,247,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,276,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,32,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,240,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,290,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,46,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,294,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,41,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,22,77,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,313,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,24,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,315,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,42,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,317,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,29,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,50,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,335,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,32,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-138,236,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,358,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,29,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,22,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,368,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,46,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,372,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,34,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,29,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,379,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,8,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,66,113,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,383,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,43,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,26,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,397,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,204,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,407,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,56,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,419,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,48,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,431,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,43,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,222,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,434,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,14,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-28,85,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,437,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,4,58,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,3,56,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,84,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,458,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,3,54,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,74,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,466,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,3,23,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,71,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,508,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,20,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-229,48,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,520,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,32,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,29,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,533,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Running Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,44,-4,447,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,547,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,15,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,555,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,6,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-53,79,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,557,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,2,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-6,20,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,561,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,31,Missed Shot,Fadeaway Bank shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,53,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,567,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,131,257,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,570,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,28,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,17,27,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,590,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,51,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,47,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,609,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-13,288,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,611,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,209,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,624,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,633,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,13,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,640,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,13,1,0,20231108,CHA,WAS
+Shot Chart Detail,0022300157,642,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,59,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-17,23,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300157,646,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,28,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,221,1,1,20231108,CHA,WAS
+Shot Chart Detail,0022300177,16,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,39,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,28,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,22,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,123,278,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,25,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,25,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,29,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,52,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-230,90,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,34,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,25,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,64,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,37,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,44,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,52,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,48,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,38,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,58,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,40,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,83,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,62,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,5,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,-6,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,117,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,34,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,148,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,125,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,1,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,138,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,22,294,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,142,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,22,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,204,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,145,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,54,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,127,207,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,147,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,40,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-1,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,150,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,36,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,68,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,157,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,9,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,110,236,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,166,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,46,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,170,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,182,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,92,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,190,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,46,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,4,152,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,202,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,21,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-4,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,205,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,57,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-88,249,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,208,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,21,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,15,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,271,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,45,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,178,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,302,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,58,Missed Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,74,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,306,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,312,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,-3,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,316,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,39,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,321,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,19,Made Shot,Running Alley Oop Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,2,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,331,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,46,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,3,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,335,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,22,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,16,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,337,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,17,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,200,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,349,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,32,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-127,141,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,355,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,7,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,-2,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,359,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,28,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,5,87,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,361,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,25,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,367,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,42,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,0,263,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,376,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,49,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,109,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,379,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,22,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-225,57,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,383,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,7,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,386,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,5,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,393,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,40,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,42,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,395,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,35,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,402,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,12,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,456,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,3,1,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,56,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,472,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,2,21,Missed Shot,Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,41,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,477,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,53,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,483,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,1,21,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-118,252,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,497,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,43,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,143,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,501,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,17,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,16,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,503,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,4,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,117,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,506,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,150,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,518,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,22,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,21,153,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,525,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,6,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,528,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,12,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,537,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,31,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,17,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,543,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,9,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,146,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300177,551,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,29,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,47,1,0,20231112,NYK,CHA
+Shot Chart Detail,0022300177,558,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,1,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20231112,NYK,CHA
+Shot Chart Detail,0022300202,8,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,18,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-2,97,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,17,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,22,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,122,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,19,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,58,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,232,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,23,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,27,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-58,147,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,35,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-121,269,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,43,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,46,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,37,186,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,52,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,26,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-7,83,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,54,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,7,21,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,56,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,59,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-108,248,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,64,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,69,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,68,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-56,100,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,72,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,5,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,12,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,76,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,80,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,18,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,92,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,4,1,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,101,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,3,31,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,114,127,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,171,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,27,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,22,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,189,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,10,8,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,193,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,196,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-65,283,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,202,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,3,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,25,53,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,204,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,31,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,208,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,15,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,280,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,43,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,25,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,284,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,30,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,15,37,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,298,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,35,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-1,39,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,302,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,19,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,307,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,56,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,6,34,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,327,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,33,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,335,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,1,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,80,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,345,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,40,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),16-24 ft.,17,-175,11,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,353,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,10,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,16,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,357,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,38,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,184,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,365,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,142,229,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,368,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,35,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,92,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,373,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,18,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,192,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,377,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,45,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-130,241,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,384,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,4,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-93,229,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,392,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,5,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,-2,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,400,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,26,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,110,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,465,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Floating Jump shot,,Above the Break 3,Center(C),24+ ft.,31,-5,319,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,482,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,17,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,-4,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,488,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,55,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,26,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,492,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,11,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,495,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,235,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,498,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-7,288,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,500,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,517,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,141,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,520,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,52,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-50,253,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,524,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,18,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,15,29,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,539,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,57,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,247,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,550,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,3,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,27,129,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,554,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,48,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,559,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,35,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,577,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,18,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,581,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,40,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300202,587,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,9,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,70,237,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,592,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,39,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,31,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,612,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,103,232,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,614,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,45,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,208,1,1,20231118,CHA,NYK
+Shot Chart Detail,0022300202,618,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,19,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,74,241,1,0,20231118,CHA,NYK
+Shot Chart Detail,0022300217,8,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,28,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,74,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,14,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,57,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-152,214,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,18,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,37,Missed Shot,Running Alley Oop Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,27,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,79,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,36,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,21,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,24,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-56,270,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,27,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,9,36,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,129,258,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,38,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,47,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,47,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,40,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,40,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,44,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,25,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,7,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,47,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,8,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,60,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,41,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,73,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,18,Missed Shot,Fadeaway Bank shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,12,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,77,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,6,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,132,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,36,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,11,275,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,135,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,2,5,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,244,21,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,141,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,1,1,Made Shot,Pullup Jump shot,,Right Corner 3,Right Side(R),24+ ft.,24,239,27,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,144,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,34,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-47,95,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,318,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,76,-67,764,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,157,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,46,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,160,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,18,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-208,162,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,164,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,11,2,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,18,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,178,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,9,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,223,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,184,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,57,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,158,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,192,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,8,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-200,222,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,195,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,7,38,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,31,268,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,265,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,42,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,26,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,272,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,3,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,254,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,276,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,55,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,287,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,2,21,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,290,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,50,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,16,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,299,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,1,4,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-18,265,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,303,1630163,LaMelo Ball,1610612766,Charlotte Hornets,2,0,39,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,137,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,338,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,11,14,Missed Shot,Driving Reverse Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,21,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,343,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,49,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,5,35,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,347,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,349,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,13,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,352,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,10,2,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,27,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,356,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,9,24,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,26,148,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,359,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,50,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,362,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,8,21,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,184,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,365,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,52,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-233,94,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,367,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,47,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,6,267,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,374,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,7,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,380,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,53,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,58,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,382,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,49,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-99,241,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,384,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,42,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,119,243,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,388,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,6,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,396,1630163,LaMelo Ball,1610612766,Charlotte Hornets,3,5,48,Missed Shot,Step Back Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,25,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,480,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,11,28,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,121,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,485,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,48,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-245,-10,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,489,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-91,237,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,491,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,494,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,10,2,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,498,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,9,29,Made Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,141,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,504,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,192,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,509,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,8,4,Made Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,83,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,513,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,7,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,227,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,517,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,534,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,6,25,Missed Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-15,129,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,541,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,36,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,544,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,5,44,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-67,145,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,563,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,4,17,Made Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,13,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,575,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,34,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,4,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,578,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,3,1,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,15,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,582,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,41,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,188,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,586,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,2,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,588,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,59,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,591,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,1,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,218,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,602,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,34,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,3,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,605,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,620,1630163,LaMelo Ball,1610612766,Charlotte Hornets,4,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,19,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,640,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,4,26,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,33,94,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,643,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,3,58,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-4,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,650,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,0,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,653,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,159,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,657,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,3,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,665,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,2,18,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,9,38,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,667,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,2,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,-69,126,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,674,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,1,21,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,71,1,0,20231120,CHA,BOS
+Shot Chart Detail,0022300217,680,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,0,45,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,1,20231120,CHA,BOS
+Shot Chart Detail,0022300217,687,1630163,LaMelo Ball,1610612766,Charlotte Hornets,5,0,6,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,173,1,1,20231120,CHA,BOS
 Shot Chart Detail,0022300225,7,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,43,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,0,20231122,CHA,WAS
 Shot Chart Detail,0022300225,11,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,11,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,166,1,0,20231122,CHA,WAS
 Shot Chart Detail,0022300225,18,1630163,LaMelo Ball,1610612766,Charlotte Hornets,1,10,13,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,63,1,1,20231122,CHA,WAS

@@ -1,4 +1,972 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300015,7,0,Opponent,1610612756,Phoenix Suns,1,11,40,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-47,172,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,11,0,Opponent,1610612756,Phoenix Suns,1,11,12,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,17,0,Opponent,1610612756,Phoenix Suns,1,10,24,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,46,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,20,0,Opponent,1610612756,Phoenix Suns,1,10,1,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,12,-119,32,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,27,0,Opponent,1610612756,Phoenix Suns,1,9,44,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,58,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,36,0,Opponent,1610612756,Phoenix Suns,1,9,0,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,40,0,Opponent,1610612756,Phoenix Suns,1,8,36,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,51,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,43,0,Opponent,1610612756,Phoenix Suns,1,8,5,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,31,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,45,0,Opponent,1610612756,Phoenix Suns,1,7,44,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,88,124,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,49,0,Opponent,1610612756,Phoenix Suns,1,7,7,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-47,251,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,53,0,Opponent,1610612756,Phoenix Suns,1,6,38,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,55,0,Opponent,1610612756,Phoenix Suns,1,6,35,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,5,25,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,66,0,Opponent,1610612756,Phoenix Suns,1,6,8,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,43,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,72,0,Opponent,1610612756,Phoenix Suns,1,5,18,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-82,89,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,76,0,Opponent,1610612756,Phoenix Suns,1,4,52,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-132,24,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,99,0,Opponent,1610612756,Phoenix Suns,1,3,59,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,101,0,Opponent,1610612756,Phoenix Suns,1,3,56,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,107,0,Opponent,1610612756,Phoenix Suns,1,3,31,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-11,96,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,120,0,Opponent,1610612756,Phoenix Suns,1,2,30,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-213,155,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,124,0,Opponent,1610612756,Phoenix Suns,1,1,55,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,137,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,132,0,Opponent,1610612756,Phoenix Suns,1,1,15,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,42,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,142,0,Opponent,1610612756,Phoenix Suns,1,1,13,Missed Shot,Tip Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,24,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,139,0,Opponent,1610612756,Phoenix Suns,1,0,57,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,55,59,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,155,0,Opponent,1610612756,Phoenix Suns,1,0,36,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,13,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,284,0,Opponent,1610612756,Phoenix Suns,2,6,13,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,297,0,Opponent,1610612756,Phoenix Suns,2,5,38,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,13,132,40,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,301,0,Opponent,1610612756,Phoenix Suns,2,5,14,Made Shot,Running Pull-Up Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,0,251,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,309,0,Opponent,1610612756,Phoenix Suns,2,4,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,234,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,313,0,Opponent,1610612756,Phoenix Suns,2,4,17,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,151,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,317,0,Opponent,1610612756,Phoenix Suns,2,3,48,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,326,0,Opponent,1610612756,Phoenix Suns,2,3,20,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,14,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,346,0,Opponent,1610612756,Phoenix Suns,2,2,9,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,59,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,350,0,Opponent,1610612756,Phoenix Suns,2,1,42,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,19,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,354,0,Opponent,1610612756,Phoenix Suns,2,1,12,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,25,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,363,0,Opponent,1610612756,Phoenix Suns,2,0,49,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,370,0,Opponent,1610612756,Phoenix Suns,2,0,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,390,0,Opponent,1610612756,Phoenix Suns,3,11,18,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,394,0,Opponent,1610612756,Phoenix Suns,3,10,43,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,-13,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,407,0,Opponent,1610612756,Phoenix Suns,3,9,24,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,230,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,410,0,Opponent,1610612756,Phoenix Suns,3,8,54,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,17,115,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,419,0,Opponent,1610612756,Phoenix Suns,3,8,14,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,12,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,423,0,Opponent,1610612756,Phoenix Suns,3,7,57,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,32,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,430,0,Opponent,1610612756,Phoenix Suns,3,7,31,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,231,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,441,0,Opponent,1610612756,Phoenix Suns,3,6,43,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,2,289,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,459,0,Opponent,1610612756,Phoenix Suns,3,5,43,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,146,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,464,0,Opponent,1610612756,Phoenix Suns,3,5,5,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,38,204,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,480,0,Opponent,1610612756,Phoenix Suns,3,4,34,Made Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,33,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,487,0,Opponent,1610612756,Phoenix Suns,3,4,4,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,13,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,491,0,Opponent,1610612756,Phoenix Suns,3,3,46,Missed Shot,Running Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-9,36,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,493,0,Opponent,1610612756,Phoenix Suns,3,3,43,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,529,0,Opponent,1610612756,Phoenix Suns,3,3,42,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,512,0,Opponent,1610612756,Phoenix Suns,3,2,57,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,517,0,Opponent,1610612756,Phoenix Suns,3,2,22,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,48,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,520,0,Opponent,1610612756,Phoenix Suns,3,1,51,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,214,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,564,0,Opponent,1610612756,Phoenix Suns,3,0,0,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,231,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,633,0,Opponent,1610612756,Phoenix Suns,4,7,5,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,639,0,Opponent,1610612756,Phoenix Suns,4,6,27,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-9,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,642,0,Opponent,1610612756,Phoenix Suns,4,5,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,652,0,Opponent,1610612756,Phoenix Suns,4,5,12,Made Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,22,-40,221,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,655,0,Opponent,1610612756,Phoenix Suns,4,4,39,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,228,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,679,0,Opponent,1610612756,Phoenix Suns,4,3,29,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,14,-47,141,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,684,0,Opponent,1610612756,Phoenix Suns,4,2,43,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,116,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,686,0,Opponent,1610612756,Phoenix Suns,4,2,6,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-58,268,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,690,0,Opponent,1610612756,Phoenix Suns,4,1,36,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,-8,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,692,0,Opponent,1610612756,Phoenix Suns,4,1,31,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,34,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,694,0,Opponent,1610612756,Phoenix Suns,4,1,24,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,-4,1,0,20231110,PHX,LAL
+Shot Chart Detail,0022300015,696,0,Opponent,1610612756,Phoenix Suns,4,1,10,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,-5,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300015,707,0,Opponent,1610612756,Phoenix Suns,4,0,25,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-17,26,1,1,20231110,PHX,LAL
+Shot Chart Detail,0022300035,9,0,Opponent,1610612756,Phoenix Suns,1,11,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-192,195,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,23,0,Opponent,1610612756,Phoenix Suns,1,10,38,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,29,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,26,0,Opponent,1610612756,Phoenix Suns,1,10,11,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,27,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,33,0,Opponent,1610612756,Phoenix Suns,1,9,45,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,2,168,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,40,0,Opponent,1610612756,Phoenix Suns,1,9,21,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,191,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,44,0,Opponent,1610612756,Phoenix Suns,1,8,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-7,285,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,48,0,Opponent,1610612756,Phoenix Suns,1,8,20,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-99,36,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,51,0,Opponent,1610612756,Phoenix Suns,1,7,59,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,42,110,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,56,0,Opponent,1610612756,Phoenix Suns,1,7,30,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,53,269,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,71,0,Opponent,1610612756,Phoenix Suns,1,6,26,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,138,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,75,0,Opponent,1610612756,Phoenix Suns,1,6,5,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-28,7,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,86,0,Opponent,1610612756,Phoenix Suns,1,5,30,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,88,0,Opponent,1610612756,Phoenix Suns,1,5,28,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,28,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,94,0,Opponent,1610612756,Phoenix Suns,1,4,56,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,7,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,97,0,Opponent,1610612756,Phoenix Suns,1,4,38,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,122,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,104,0,Opponent,1610612756,Phoenix Suns,1,4,1,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,214,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,107,0,Opponent,1610612756,Phoenix Suns,1,3,25,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),16-24 ft.,17,-157,83,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,220,0,Opponent,1610612756,Phoenix Suns,2,8,18,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,164,210,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,222,0,Opponent,1610612756,Phoenix Suns,2,8,4,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,74,53,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,247,0,Opponent,1610612756,Phoenix Suns,2,6,34,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,37,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,282,0,Opponent,1610612756,Phoenix Suns,2,6,30,Missed Shot,Tip Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,52,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,251,0,Opponent,1610612756,Phoenix Suns,2,6,6,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,78,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,254,0,Opponent,1610612756,Phoenix Suns,2,6,0,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,257,0,Opponent,1610612756,Phoenix Suns,2,5,35,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,7,71,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,274,0,Opponent,1610612756,Phoenix Suns,2,4,34,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,34,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,279,0,Opponent,1610612756,Phoenix Suns,2,4,7,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-6,34,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,292,0,Opponent,1610612756,Phoenix Suns,2,3,33,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,75,249,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,297,0,Opponent,1610612756,Phoenix Suns,2,3,0,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,28,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,299,0,Opponent,1610612756,Phoenix Suns,2,2,57,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,307,0,Opponent,1610612756,Phoenix Suns,2,2,41,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,93,260,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,310,0,Opponent,1610612756,Phoenix Suns,2,2,11,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,17,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,314,0,Opponent,1610612756,Phoenix Suns,2,1,45,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,146,243,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,320,0,Opponent,1610612756,Phoenix Suns,2,1,26,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,318,0,Opponent,1610612756,Phoenix Suns,2,1,26,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,18,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,324,0,Opponent,1610612756,Phoenix Suns,2,0,50,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,27,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,328,0,Opponent,1610612756,Phoenix Suns,2,0,7,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,13,275,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,334,0,Opponent,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,60,192,572,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,346,0,Opponent,1610612756,Phoenix Suns,3,11,12,Missed Shot,Driving Floating Bank Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,108,31,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,348,0,Opponent,1610612756,Phoenix Suns,3,11,8,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,356,0,Opponent,1610612756,Phoenix Suns,3,10,32,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-34,104,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,359,0,Opponent,1610612756,Phoenix Suns,3,10,3,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,69,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,364,0,Opponent,1610612756,Phoenix Suns,3,9,44,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,15,252,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,368,0,Opponent,1610612756,Phoenix Suns,3,9,29,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-148,201,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,372,0,Opponent,1610612756,Phoenix Suns,3,9,5,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,215,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,377,0,Opponent,1610612756,Phoenix Suns,3,8,37,Made Shot,Jump Bank Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-31,19,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,387,0,Opponent,1610612756,Phoenix Suns,3,7,56,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,141,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,407,0,Opponent,1610612756,Phoenix Suns,3,6,25,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,16,282,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,412,0,Opponent,1610612756,Phoenix Suns,3,6,9,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,24,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,416,0,Opponent,1610612756,Phoenix Suns,3,5,44,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,37,9,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,419,0,Opponent,1610612756,Phoenix Suns,3,5,14,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,34,71,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,428,0,Opponent,1610612756,Phoenix Suns,3,4,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-99,266,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,442,0,Opponent,1610612756,Phoenix Suns,3,3,16,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,587,0,Opponent,1610612756,Phoenix Suns,4,6,21,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,11,-103,56,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,598,0,Opponent,1610612756,Phoenix Suns,4,5,8,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,22,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,600,0,Opponent,1610612756,Phoenix Suns,4,5,2,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,603,0,Opponent,1610612756,Phoenix Suns,4,4,44,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,28,88,271,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,614,0,Opponent,1610612756,Phoenix Suns,4,3,36,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,21,276,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,620,0,Opponent,1610612756,Phoenix Suns,4,2,54,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,628,0,Opponent,1610612756,Phoenix Suns,4,2,14,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-7,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,632,0,Opponent,1610612756,Phoenix Suns,4,1,42,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,250,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300035,635,0,Opponent,1610612756,Phoenix Suns,4,1,13,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,51,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,644,0,Opponent,1610612756,Phoenix Suns,4,0,39,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-143,208,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,658,0,Opponent,1610612756,Phoenix Suns,4,0,14,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,82,1,0,20231117,UTA,PHX
+Shot Chart Detail,0022300035,669,0,Opponent,1610612756,Phoenix Suns,4,0,3,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-4,267,1,1,20231117,UTA,PHX
+Shot Chart Detail,0022300041,14,0,Opponent,1610612756,Phoenix Suns,1,11,4,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-27,252,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,16,0,Opponent,1610612756,Phoenix Suns,1,10,52,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,26,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,20,0,Opponent,1610612756,Phoenix Suns,1,10,18,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,43,162,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,24,0,Opponent,1610612756,Phoenix Suns,1,9,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-140,36,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,28,0,Opponent,1610612756,Phoenix Suns,1,9,38,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-1,150,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,37,0,Opponent,1610612756,Phoenix Suns,1,8,48,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,214,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,41,0,Opponent,1610612756,Phoenix Suns,1,8,22,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,61,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,43,0,Opponent,1610612756,Phoenix Suns,1,8,18,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,20,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,46,0,Opponent,1610612756,Phoenix Suns,1,7,56,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),16-24 ft.,19,159,111,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,51,0,Opponent,1610612756,Phoenix Suns,1,7,29,Missed Shot,Driving Layup Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-82,31,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,65,0,Opponent,1610612756,Phoenix Suns,1,7,4,Missed Shot,Pullup Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,72,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,67,0,Opponent,1610612756,Phoenix Suns,1,6,58,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,27,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,69,0,Opponent,1610612756,Phoenix Suns,1,6,14,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,55,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,72,0,Opponent,1610612756,Phoenix Suns,1,6,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,71,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,75,0,Opponent,1610612756,Phoenix Suns,1,5,43,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,28,88,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,84,0,Opponent,1610612756,Phoenix Suns,1,4,51,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-48,150,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,88,0,Opponent,1610612756,Phoenix Suns,1,4,23,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,93,69,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,108,0,Opponent,1610612756,Phoenix Suns,1,3,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,26,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,111,0,Opponent,1610612756,Phoenix Suns,1,3,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,117,0,Opponent,1610612756,Phoenix Suns,1,2,41,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,64,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,126,0,Opponent,1610612756,Phoenix Suns,1,2,7,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,31,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,209,0,Opponent,1610612756,Phoenix Suns,2,7,45,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,216,0,Opponent,1610612756,Phoenix Suns,2,7,21,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,236,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,225,0,Opponent,1610612756,Phoenix Suns,2,6,52,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,223,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,240,0,Opponent,1610612756,Phoenix Suns,2,6,7,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,27,245,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,264,0,Opponent,1610612756,Phoenix Suns,2,4,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,164,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,268,0,Opponent,1610612756,Phoenix Suns,2,4,29,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,93,153,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,271,0,Opponent,1610612756,Phoenix Suns,2,3,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,179,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,290,0,Opponent,1610612756,Phoenix Suns,2,2,44,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,197,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,310,0,Opponent,1610612756,Phoenix Suns,2,1,39,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,56,242,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,321,0,Opponent,1610612756,Phoenix Suns,2,0,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,169,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,323,0,Opponent,1610612756,Phoenix Suns,2,0,47,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,137,211,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,348,0,Opponent,1610612756,Phoenix Suns,3,10,56,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,139,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,354,0,Opponent,1610612756,Phoenix Suns,3,10,34,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-72,107,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,358,0,Opponent,1610612756,Phoenix Suns,3,10,9,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-48,36,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,362,0,Opponent,1610612756,Phoenix Suns,3,9,38,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,2,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,366,0,Opponent,1610612756,Phoenix Suns,3,9,4,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,373,0,Opponent,1610612756,Phoenix Suns,3,8,26,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,126,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,383,0,Opponent,1610612756,Phoenix Suns,3,7,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,175,36,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,387,0,Opponent,1610612756,Phoenix Suns,3,7,16,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-22,18,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,394,0,Opponent,1610612756,Phoenix Suns,3,6,47,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,396,0,Opponent,1610612756,Phoenix Suns,3,6,45,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,52,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,405,0,Opponent,1610612756,Phoenix Suns,3,6,10,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,15,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,409,0,Opponent,1610612756,Phoenix Suns,3,5,53,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,421,0,Opponent,1610612756,Phoenix Suns,3,4,55,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,50,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,425,0,Opponent,1610612756,Phoenix Suns,3,4,50,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,431,0,Opponent,1610612756,Phoenix Suns,3,4,17,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,62,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,450,0,Opponent,1610612756,Phoenix Suns,3,3,21,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,215,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,460,0,Opponent,1610612756,Phoenix Suns,3,2,28,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,238,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,463,0,Opponent,1610612756,Phoenix Suns,3,1,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,466,0,Opponent,1610612756,Phoenix Suns,3,1,10,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-49,95,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,479,0,Opponent,1610612756,Phoenix Suns,3,0,3,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,545,0,Opponent,1610612756,Phoenix Suns,4,7,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,158,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,558,0,Opponent,1610612756,Phoenix Suns,4,7,5,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,11,116,26,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,563,0,Opponent,1610612756,Phoenix Suns,4,6,51,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-60,89,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,579,0,Opponent,1610612756,Phoenix Suns,4,5,23,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,584,0,Opponent,1610612756,Phoenix Suns,4,4,48,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,185,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,586,0,Opponent,1610612756,Phoenix Suns,4,4,42,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,189,179,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,595,0,Opponent,1610612756,Phoenix Suns,4,4,6,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,599,0,Opponent,1610612756,Phoenix Suns,4,3,30,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,194,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,604,0,Opponent,1610612756,Phoenix Suns,4,3,7,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,46,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,611,0,Opponent,1610612756,Phoenix Suns,4,2,25,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,52,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,617,0,Opponent,1610612756,Phoenix Suns,4,1,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,20,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,643,0,Opponent,1610612756,Phoenix Suns,4,0,57,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,202,1,1,20231121,PHX,POR
+Shot Chart Detail,0022300041,647,0,Opponent,1610612756,Phoenix Suns,4,0,44,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300041,650,0,Opponent,1610612756,Phoenix Suns,4,0,40,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,34,1,0,20231121,PHX,POR
+Shot Chart Detail,0022300062,7,0,Opponent,1610612756,Phoenix Suns,1,11,50,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,69,60,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,14,0,Opponent,1610612756,Phoenix Suns,1,11,16,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-189,207,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,16,0,Opponent,1610612756,Phoenix Suns,1,10,54,Missed Shot,Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,50,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,20,0,Opponent,1610612756,Phoenix Suns,1,10,48,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,12,94,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,23,0,Opponent,1610612756,Phoenix Suns,1,10,29,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-31,285,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,30,0,Opponent,1610612756,Phoenix Suns,1,9,46,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,98,264,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,36,0,Opponent,1610612756,Phoenix Suns,1,9,5,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,113,237,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,42,0,Opponent,1610612756,Phoenix Suns,1,8,41,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,26,29,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,49,0,Opponent,1610612756,Phoenix Suns,1,7,59,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,109,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,51,0,Opponent,1610612756,Phoenix Suns,1,7,33,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,96,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,57,0,Opponent,1610612756,Phoenix Suns,1,7,18,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,67,0,Opponent,1610612756,Phoenix Suns,1,6,38,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,184,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,76,0,Opponent,1610612756,Phoenix Suns,1,6,15,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,23,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,80,0,Opponent,1610612756,Phoenix Suns,1,5,58,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,126,117,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,84,0,Opponent,1610612756,Phoenix Suns,1,5,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-9,36,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,87,0,Opponent,1610612756,Phoenix Suns,1,4,39,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,25,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,92,0,Opponent,1610612756,Phoenix Suns,1,4,22,Made Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-146,248,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,104,0,Opponent,1610612756,Phoenix Suns,1,3,58,Made Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,31,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,191,0,Opponent,1610612756,Phoenix Suns,2,11,31,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,54,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,194,0,Opponent,1610612756,Phoenix Suns,2,11,26,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,199,0,Opponent,1610612756,Phoenix Suns,2,11,7,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,164,210,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,205,0,Opponent,1610612756,Phoenix Suns,2,10,32,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,114,25,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,208,0,Opponent,1610612756,Phoenix Suns,2,10,24,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,212,0,Opponent,1610612756,Phoenix Suns,2,10,14,Missed Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-13,29,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,223,0,Opponent,1610612756,Phoenix Suns,2,9,11,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,31,43,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,231,0,Opponent,1610612756,Phoenix Suns,2,8,37,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-64,168,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,235,0,Opponent,1610612756,Phoenix Suns,2,8,13,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,232,92,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,240,0,Opponent,1610612756,Phoenix Suns,2,7,48,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,206,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,257,0,Opponent,1610612756,Phoenix Suns,2,7,11,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,237,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,261,0,Opponent,1610612756,Phoenix Suns,2,7,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,157,221,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,267,0,Opponent,1610612756,Phoenix Suns,2,6,42,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,150,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,276,0,Opponent,1610612756,Phoenix Suns,2,6,16,Made Shot,Cutting Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,33,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,323,0,Opponent,1610612756,Phoenix Suns,2,2,55,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,127,92,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,326,0,Opponent,1610612756,Phoenix Suns,2,2,22,Missed Shot,Turnaround Bank shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,39,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,337,0,Opponent,1610612756,Phoenix Suns,2,1,57,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-176,211,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,343,0,Opponent,1610612756,Phoenix Suns,2,1,22,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,164,235,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,348,0,Opponent,1610612756,Phoenix Suns,2,0,55,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,50,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,358,0,Opponent,1610612756,Phoenix Suns,2,0,30,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,36,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,365,0,Opponent,1610612756,Phoenix Suns,2,0,1,Missed Shot,Pullup Jump shot,,Backcourt,Back Court(BC),Back Court Shot,48,120,472,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,378,0,Opponent,1610612756,Phoenix Suns,3,11,18,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,395,0,Opponent,1610612756,Phoenix Suns,3,10,19,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,141,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,398,0,Opponent,1610612756,Phoenix Suns,3,9,51,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,21,26,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,408,0,Opponent,1610612756,Phoenix Suns,3,8,54,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,185,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,412,0,Opponent,1610612756,Phoenix Suns,3,8,40,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,29,141,258,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,416,0,Opponent,1610612756,Phoenix Suns,3,8,25,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,198,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,418,0,Opponent,1610612756,Phoenix Suns,3,8,21,Made Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,36,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,425,0,Opponent,1610612756,Phoenix Suns,3,7,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,227,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,446,0,Opponent,1610612756,Phoenix Suns,3,6,49,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,11,-114,11,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,451,0,Opponent,1610612756,Phoenix Suns,3,6,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,21,68,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,463,0,Opponent,1610612756,Phoenix Suns,3,5,46,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,41,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,480,0,Opponent,1610612756,Phoenix Suns,3,5,0,Made Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,35,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,486,0,Opponent,1610612756,Phoenix Suns,3,4,20,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,37,258,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,488,0,Opponent,1610612756,Phoenix Suns,3,4,15,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,27,75,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,492,0,Opponent,1610612756,Phoenix Suns,3,3,55,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,19,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,574,0,Opponent,1610612756,Phoenix Suns,4,11,42,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,34,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,579,0,Opponent,1610612756,Phoenix Suns,4,11,0,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,210,173,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,589,0,Opponent,1610612756,Phoenix Suns,4,10,12,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,27,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,605,0,Opponent,1610612756,Phoenix Suns,4,9,29,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,203,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,613,0,Opponent,1610612756,Phoenix Suns,4,8,31,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,210,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,616,0,Opponent,1610612756,Phoenix Suns,4,7,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,227,153,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,618,0,Opponent,1610612756,Phoenix Suns,4,7,52,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,232,88,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,627,0,Opponent,1610612756,Phoenix Suns,4,6,52,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,184,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,631,0,Opponent,1610612756,Phoenix Suns,4,6,13,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,26,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,680,0,Opponent,1610612756,Phoenix Suns,4,5,29,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,148,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,673,0,Opponent,1610612756,Phoenix Suns,4,4,9,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,30,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,690,0,Opponent,1610612756,Phoenix Suns,4,3,11,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,15,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,695,0,Opponent,1610612756,Phoenix Suns,4,2,57,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,56,176,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,697,0,Opponent,1610612756,Phoenix Suns,4,2,18,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,150,239,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,703,0,Opponent,1610612756,Phoenix Suns,4,1,35,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,130,240,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,723,0,Opponent,1610612756,Phoenix Suns,4,0,36,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,196,187,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,725,0,Opponent,1610612756,Phoenix Suns,4,0,31,Made Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-227,61,1,1,20231024,GSW,PHX
+Shot Chart Detail,0022300062,738,0,Opponent,1610612756,Phoenix Suns,4,0,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-181,162,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300062,740,0,Opponent,1610612756,Phoenix Suns,4,0,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,235,1,0,20231024,GSW,PHX
+Shot Chart Detail,0022300076,9,0,Opponent,1610612756,Phoenix Suns,1,11,37,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,22,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,16,0,Opponent,1610612756,Phoenix Suns,1,11,15,Missed Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,50,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,20,0,Opponent,1610612756,Phoenix Suns,1,10,44,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,23,0,Opponent,1610612756,Phoenix Suns,1,10,32,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,39,0,Opponent,1610612756,Phoenix Suns,1,9,39,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,206,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,41,0,Opponent,1610612756,Phoenix Suns,1,9,33,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,45,0,Opponent,1610612756,Phoenix Suns,1,9,6,Made Shot,Pullup Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,14,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,47,0,Opponent,1610612756,Phoenix Suns,1,8,41,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-33,101,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,63,0,Opponent,1610612756,Phoenix Suns,1,7,48,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,127,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,66,0,Opponent,1610612756,Phoenix Suns,1,7,20,Missed Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,14,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,71,0,Opponent,1610612756,Phoenix Suns,1,6,52,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,190,183,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,83,0,Opponent,1610612756,Phoenix Suns,1,6,12,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,210,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,89,0,Opponent,1610612756,Phoenix Suns,1,5,37,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-97,88,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,98,0,Opponent,1610612756,Phoenix Suns,1,5,3,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,101,0,Opponent,1610612756,Phoenix Suns,1,5,0,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,48,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,107,0,Opponent,1610612756,Phoenix Suns,1,4,21,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,125,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,110,0,Opponent,1610612756,Phoenix Suns,1,3,54,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,19,-59,182,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,114,0,Opponent,1610612756,Phoenix Suns,1,3,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-60,184,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,118,0,Opponent,1610612756,Phoenix Suns,1,2,54,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,233,61,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,140,0,Opponent,1610612756,Phoenix Suns,1,2,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-7,30,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,156,0,Opponent,1610612756,Phoenix Suns,1,0,46,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,29,42,293,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,159,0,Opponent,1610612756,Phoenix Suns,1,0,7,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,-11,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,161,0,Opponent,1610612756,Phoenix Suns,1,0,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,204,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,282,0,Opponent,1610612756,Phoenix Suns,2,4,10,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-140,110,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,305,0,Opponent,1610612756,Phoenix Suns,2,2,57,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,316,0,Opponent,1610612756,Phoenix Suns,2,2,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,240,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,320,0,Opponent,1610612756,Phoenix Suns,2,1,30,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,206,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,324,0,Opponent,1610612756,Phoenix Suns,2,1,4,Made Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,339,0,Opponent,1610612756,Phoenix Suns,2,0,16,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,51,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,358,0,Opponent,1610612756,Phoenix Suns,3,11,18,Missed Shot,Turnaround Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,16,154,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,362,0,Opponent,1610612756,Phoenix Suns,3,10,51,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-6,152,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,366,0,Opponent,1610612756,Phoenix Suns,3,10,11,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,370,0,Opponent,1610612756,Phoenix Suns,3,9,41,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-9,189,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,377,0,Opponent,1610612756,Phoenix Suns,3,9,14,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,380,0,Opponent,1610612756,Phoenix Suns,3,8,56,Missed Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-224,57,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,384,0,Opponent,1610612756,Phoenix Suns,3,8,29,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,243,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,386,0,Opponent,1610612756,Phoenix Suns,3,7,55,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-11,22,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,399,0,Opponent,1610612756,Phoenix Suns,3,7,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,226,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,403,0,Opponent,1610612756,Phoenix Suns,3,6,34,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,80,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,411,0,Opponent,1610612756,Phoenix Suns,3,6,4,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-13,33,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,413,0,Opponent,1610612756,Phoenix Suns,3,6,2,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,423,0,Opponent,1610612756,Phoenix Suns,3,5,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,435,0,Opponent,1610612756,Phoenix Suns,3,4,27,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-236,34,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,439,0,Opponent,1610612756,Phoenix Suns,3,4,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,28,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,447,0,Opponent,1610612756,Phoenix Suns,3,3,58,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,50,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,471,0,Opponent,1610612756,Phoenix Suns,3,3,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,28,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,480,0,Opponent,1610612756,Phoenix Suns,3,2,30,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-1,34,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,484,0,Opponent,1610612756,Phoenix Suns,3,2,3,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,488,0,Opponent,1610612756,Phoenix Suns,3,1,27,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,236,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,492,0,Opponent,1610612756,Phoenix Suns,3,1,11,Missed Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,234,59,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,499,0,Opponent,1610612756,Phoenix Suns,3,0,16,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,50,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,549,0,Opponent,1610612756,Phoenix Suns,4,9,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,555,0,Opponent,1610612756,Phoenix Suns,4,8,36,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,557,0,Opponent,1610612756,Phoenix Suns,4,8,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,203,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,561,0,Opponent,1610612756,Phoenix Suns,4,8,14,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-61,256,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,584,0,Opponent,1610612756,Phoenix Suns,4,7,2,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,104,125,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,588,0,Opponent,1610612756,Phoenix Suns,4,6,37,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-22,44,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,593,0,Opponent,1610612756,Phoenix Suns,4,6,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,130,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,597,0,Opponent,1610612756,Phoenix Suns,4,5,39,Missed Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,28,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,604,0,Opponent,1610612756,Phoenix Suns,4,4,56,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,17,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,611,0,Opponent,1610612756,Phoenix Suns,4,4,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,116,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,615,0,Opponent,1610612756,Phoenix Suns,4,4,16,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,43,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,625,0,Opponent,1610612756,Phoenix Suns,4,3,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,21,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,638,0,Opponent,1610612756,Phoenix Suns,4,2,31,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,117,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,652,0,Opponent,1610612756,Phoenix Suns,4,1,32,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-229,86,1,0,20231026,LAL,PHX
+Shot Chart Detail,0022300076,661,0,Opponent,1610612756,Phoenix Suns,4,1,11,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,28,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300076,664,0,Opponent,1610612756,Phoenix Suns,4,0,41,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,1,20231026,LAL,PHX
+Shot Chart Detail,0022300094,7,0,Opponent,1610612756,Phoenix Suns,1,11,45,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,23,-17,231,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,11,0,Opponent,1610612756,Phoenix Suns,1,11,6,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-116,-20,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,13,0,Opponent,1610612756,Phoenix Suns,1,11,2,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,16,0,Opponent,1610612756,Phoenix Suns,1,10,19,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,36,0,Opponent,1610612756,Phoenix Suns,1,8,47,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-221,141,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,40,0,Opponent,1610612756,Phoenix Suns,1,8,10,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,47,0,Opponent,1610612756,Phoenix Suns,1,7,45,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,174,194,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,57,0,Opponent,1610612756,Phoenix Suns,1,6,56,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,76,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,66,0,Opponent,1610612756,Phoenix Suns,1,6,11,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,11,-119,10,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,69,0,Opponent,1610612756,Phoenix Suns,1,5,30,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,77,0,Opponent,1610612756,Phoenix Suns,1,5,8,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,85,0,Opponent,1610612756,Phoenix Suns,1,4,26,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,87,0,Opponent,1610612756,Phoenix Suns,1,4,25,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,27,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,92,0,Opponent,1610612756,Phoenix Suns,1,4,0,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-6,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,130,0,Opponent,1610612756,Phoenix Suns,1,2,20,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,11,127,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,135,0,Opponent,1610612756,Phoenix Suns,1,1,39,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,217,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,142,0,Opponent,1610612756,Phoenix Suns,1,1,9,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,145,0,Opponent,1610612756,Phoenix Suns,1,0,46,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-17,274,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,149,0,Opponent,1610612756,Phoenix Suns,1,0,10,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,30,66,294,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,249,0,Opponent,1610612756,Phoenix Suns,2,4,27,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-165,228,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,251,0,Opponent,1610612756,Phoenix Suns,2,4,24,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,257,0,Opponent,1610612756,Phoenix Suns,2,3,54,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,2,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,261,0,Opponent,1610612756,Phoenix Suns,2,3,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,30,-154,269,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,272,0,Opponent,1610612756,Phoenix Suns,2,2,39,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-136,2,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,276,0,Opponent,1610612756,Phoenix Suns,2,2,24,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,44,121,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,278,0,Opponent,1610612756,Phoenix Suns,2,2,20,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,113,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,280,0,Opponent,1610612756,Phoenix Suns,2,2,9,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,285,0,Opponent,1610612756,Phoenix Suns,2,1,49,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-180,221,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,288,0,Opponent,1610612756,Phoenix Suns,2,1,2,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,16,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,296,0,Opponent,1610612756,Phoenix Suns,2,0,41,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,45,264,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,298,0,Opponent,1610612756,Phoenix Suns,2,0,30,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,-25,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,325,0,Opponent,1610612756,Phoenix Suns,2,0,0,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,22,-44,218,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,344,0,Opponent,1610612756,Phoenix Suns,3,11,27,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,147,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,356,0,Opponent,1610612756,Phoenix Suns,3,10,39,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,48,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,358,0,Opponent,1610612756,Phoenix Suns,3,10,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,369,0,Opponent,1610612756,Phoenix Suns,3,9,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,374,0,Opponent,1610612756,Phoenix Suns,3,9,10,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,159,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,390,0,Opponent,1610612756,Phoenix Suns,3,8,34,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,64,243,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,396,0,Opponent,1610612756,Phoenix Suns,3,8,3,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,401,0,Opponent,1610612756,Phoenix Suns,3,7,36,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,-32,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,406,0,Opponent,1610612756,Phoenix Suns,3,7,17,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,-2,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,413,0,Opponent,1610612756,Phoenix Suns,3,6,37,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,82,157,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,428,0,Opponent,1610612756,Phoenix Suns,3,6,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,231,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,436,0,Opponent,1610612756,Phoenix Suns,3,5,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,457,0,Opponent,1610612756,Phoenix Suns,3,5,22,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,442,0,Opponent,1610612756,Phoenix Suns,3,5,20,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,462,0,Opponent,1610612756,Phoenix Suns,3,3,45,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-147,169,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,465,0,Opponent,1610612756,Phoenix Suns,3,3,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-1,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,479,0,Opponent,1610612756,Phoenix Suns,3,2,57,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,188,200,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,483,0,Opponent,1610612756,Phoenix Suns,3,2,27,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,494,0,Opponent,1610612756,Phoenix Suns,3,2,2,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,499,0,Opponent,1610612756,Phoenix Suns,3,1,49,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,233,147,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,505,0,Opponent,1610612756,Phoenix Suns,3,1,33,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-10,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,511,0,Opponent,1610612756,Phoenix Suns,3,0,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-186,189,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300094,514,0,Opponent,1610612756,Phoenix Suns,3,0,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-4,1,1,20231028,PHX,UTA
+Shot Chart Detail,0022300094,528,0,Opponent,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,29,49,289,1,0,20231028,PHX,UTA
+Shot Chart Detail,0022300113,10,0,Opponent,1610612756,Phoenix Suns,1,11,21,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,45,135,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,19,0,Opponent,1610612756,Phoenix Suns,1,10,22,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-45,251,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,28,0,Opponent,1610612756,Phoenix Suns,1,9,48,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,179,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,32,0,Opponent,1610612756,Phoenix Suns,1,9,30,Missed Shot,Driving Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,11,91,62,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,64,0,Opponent,1610612756,Phoenix Suns,1,9,8,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,24,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,37,0,Opponent,1610612756,Phoenix Suns,1,9,1,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,-1,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,41,0,Opponent,1610612756,Phoenix Suns,1,8,25,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,38,242,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,45,0,Opponent,1610612756,Phoenix Suns,1,8,7,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,49,0,Opponent,1610612756,Phoenix Suns,1,7,42,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-47,253,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,53,0,Opponent,1610612756,Phoenix Suns,1,7,21,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,230,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,72,0,Opponent,1610612756,Phoenix Suns,1,6,28,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,22,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,84,0,Opponent,1610612756,Phoenix Suns,1,5,54,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,219,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,89,0,Opponent,1610612756,Phoenix Suns,1,5,32,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-2,266,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,102,0,Opponent,1610612756,Phoenix Suns,1,5,17,Missed Shot,Pullup Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-6,30,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,91,0,Opponent,1610612756,Phoenix Suns,1,5,15,Missed Shot,Floating Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-28,152,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,97,0,Opponent,1610612756,Phoenix Suns,1,4,51,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,48,88,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,105,0,Opponent,1610612756,Phoenix Suns,1,4,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,176,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,113,0,Opponent,1610612756,Phoenix Suns,1,3,56,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-49,111,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,130,0,Opponent,1610612756,Phoenix Suns,1,3,3,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,17,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,144,0,Opponent,1610612756,Phoenix Suns,1,2,22,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,24,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,160,0,Opponent,1610612756,Phoenix Suns,1,1,10,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,93,21,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,164,0,Opponent,1610612756,Phoenix Suns,1,0,55,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,189,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,168,0,Opponent,1610612756,Phoenix Suns,1,0,28,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,24,-72,232,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,282,0,Opponent,1610612756,Phoenix Suns,2,4,23,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,32,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,289,0,Opponent,1610612756,Phoenix Suns,2,3,48,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-65,152,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,293,0,Opponent,1610612756,Phoenix Suns,2,3,32,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,304,0,Opponent,1610612756,Phoenix Suns,2,2,57,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,46,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,308,0,Opponent,1610612756,Phoenix Suns,2,2,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,29,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,311,0,Opponent,1610612756,Phoenix Suns,2,2,26,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-70,59,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,322,0,Opponent,1610612756,Phoenix Suns,2,1,51,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,330,0,Opponent,1610612756,Phoenix Suns,2,1,13,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),8-16 ft.,12,-119,21,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,336,0,Opponent,1610612756,Phoenix Suns,2,0,38,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,52,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,344,0,Opponent,1610612756,Phoenix Suns,2,0,4,Made Shot,Driving Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,35,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,364,0,Opponent,1610612756,Phoenix Suns,3,11,35,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,226,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,366,0,Opponent,1610612756,Phoenix Suns,3,11,29,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,370,0,Opponent,1610612756,Phoenix Suns,3,10,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,21,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,374,0,Opponent,1610612756,Phoenix Suns,3,10,18,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-76,249,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,378,0,Opponent,1610612756,Phoenix Suns,3,9,35,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-6,96,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,388,0,Opponent,1610612756,Phoenix Suns,3,9,5,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,148,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,392,0,Opponent,1610612756,Phoenix Suns,3,8,32,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-34,159,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,405,0,Opponent,1610612756,Phoenix Suns,3,7,50,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,33,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,411,0,Opponent,1610612756,Phoenix Suns,3,7,20,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-43,263,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,414,0,Opponent,1610612756,Phoenix Suns,3,6,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,22,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,417,0,Opponent,1610612756,Phoenix Suns,3,6,15,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-2,258,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,422,0,Opponent,1610612756,Phoenix Suns,3,5,50,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,0,263,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,426,0,Opponent,1610612756,Phoenix Suns,3,5,27,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,17,136,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,432,0,Opponent,1610612756,Phoenix Suns,3,4,44,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,88,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,435,0,Opponent,1610612756,Phoenix Suns,3,4,13,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,183,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,447,0,Opponent,1610612756,Phoenix Suns,3,3,43,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,21,44,215,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,456,0,Opponent,1610612756,Phoenix Suns,3,3,12,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-96,246,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,460,0,Opponent,1610612756,Phoenix Suns,3,2,41,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-18,29,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,465,0,Opponent,1610612756,Phoenix Suns,3,2,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,165,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,470,0,Opponent,1610612756,Phoenix Suns,3,1,56,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,474,0,Opponent,1610612756,Phoenix Suns,3,1,37,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,52,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,478,0,Opponent,1610612756,Phoenix Suns,3,1,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,221,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,489,0,Opponent,1610612756,Phoenix Suns,3,0,49,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,28,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,493,0,Opponent,1610612756,Phoenix Suns,3,0,20,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,499,0,Opponent,1610612756,Phoenix Suns,3,0,0,Missed Shot,Floating Jump shot,,Mid-Range,Left Side(L),8-16 ft.,11,-116,1,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,576,0,Opponent,1610612756,Phoenix Suns,4,7,47,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-28,27,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,584,0,Opponent,1610612756,Phoenix Suns,4,6,58,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,31,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,591,0,Opponent,1610612756,Phoenix Suns,4,6,28,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,54,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,594,0,Opponent,1610612756,Phoenix Suns,4,6,20,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,597,0,Opponent,1610612756,Phoenix Suns,4,5,39,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,22,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,600,0,Opponent,1610612756,Phoenix Suns,4,5,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,17,32,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,614,0,Opponent,1610612756,Phoenix Suns,4,4,44,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,629,0,Opponent,1610612756,Phoenix Suns,4,3,20,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,31,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,635,0,Opponent,1610612756,Phoenix Suns,4,2,48,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-180,206,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,656,0,Opponent,1610612756,Phoenix Suns,4,1,23,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,9,96,20,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,659,0,Opponent,1610612756,Phoenix Suns,4,0,53,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,-10,278,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,663,0,Opponent,1610612756,Phoenix Suns,4,0,49,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,77,134,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,667,0,Opponent,1610612756,Phoenix Suns,4,0,8,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,74,242,1,0,20231031,PHX,SAS
+Shot Chart Detail,0022300113,669,0,Opponent,1610612756,Phoenix Suns,4,0,6,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300113,673,0,Opponent,1610612756,Phoenix Suns,4,0,2,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20231031,PHX,SAS
+Shot Chart Detail,0022300131,10,0,Opponent,1610612756,Phoenix Suns,1,11,35,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,-21,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,14,0,Opponent,1610612756,Phoenix Suns,1,11,14,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,19,0,Opponent,1610612756,Phoenix Suns,1,10,43,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,26,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,28,0,Opponent,1610612756,Phoenix Suns,1,10,1,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,22,114,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,31,0,Opponent,1610612756,Phoenix Suns,1,9,25,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,232,114,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,36,0,Opponent,1610612756,Phoenix Suns,1,9,0,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,43,0,Opponent,1610612756,Phoenix Suns,1,8,19,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,241,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,46,0,Opponent,1610612756,Phoenix Suns,1,7,44,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-29,205,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,51,0,Opponent,1610612756,Phoenix Suns,1,7,25,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-22,6,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,54,0,Opponent,1610612756,Phoenix Suns,1,7,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,63,0,Opponent,1610612756,Phoenix Suns,1,6,30,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,75,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,71,0,Opponent,1610612756,Phoenix Suns,1,6,9,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-230,88,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,75,0,Opponent,1610612756,Phoenix Suns,1,5,30,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,210,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,85,0,Opponent,1610612756,Phoenix Suns,1,4,58,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,214,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,103,0,Opponent,1610612756,Phoenix Suns,1,4,5,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-10,37,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,111,0,Opponent,1610612756,Phoenix Suns,1,3,22,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,22,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,116,0,Opponent,1610612756,Phoenix Suns,1,2,55,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,232,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,119,0,Opponent,1610612756,Phoenix Suns,1,2,29,Made Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,109,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,126,0,Opponent,1610612756,Phoenix Suns,1,1,58,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-76,234,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,128,0,Opponent,1610612756,Phoenix Suns,1,1,47,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,0,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,131,0,Opponent,1610612756,Phoenix Suns,1,1,43,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,143,0,Opponent,1610612756,Phoenix Suns,1,1,3,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,80,242,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,147,0,Opponent,1610612756,Phoenix Suns,1,0,35,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-214,113,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,149,0,Opponent,1610612756,Phoenix Suns,1,0,29,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,169,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,153,0,Opponent,1610612756,Phoenix Suns,1,0,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-7,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,241,0,Opponent,1610612756,Phoenix Suns,2,5,43,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,87,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,261,0,Opponent,1610612756,Phoenix Suns,2,4,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-6,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,268,0,Opponent,1610612756,Phoenix Suns,2,3,46,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,231,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,277,0,Opponent,1610612756,Phoenix Suns,2,3,23,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-22,90,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,283,0,Opponent,1610612756,Phoenix Suns,2,3,15,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,29,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,292,0,Opponent,1610612756,Phoenix Suns,2,2,56,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,135,117,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,298,0,Opponent,1610612756,Phoenix Suns,2,2,28,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-83,237,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,306,0,Opponent,1610612756,Phoenix Suns,2,2,1,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,32,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,311,0,Opponent,1610612756,Phoenix Suns,2,1,44,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-4,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,315,0,Opponent,1610612756,Phoenix Suns,2,1,22,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,75,135,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,317,0,Opponent,1610612756,Phoenix Suns,2,1,20,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,330,0,Opponent,1610612756,Phoenix Suns,2,0,53,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,25,99,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,334,0,Opponent,1610612756,Phoenix Suns,2,0,31,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-37,246,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,337,0,Opponent,1610612756,Phoenix Suns,2,0,4,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,195,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,340,0,Opponent,1610612756,Phoenix Suns,2,0,1,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,140,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,354,0,Opponent,1610612756,Phoenix Suns,3,11,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,357,0,Opponent,1610612756,Phoenix Suns,3,10,58,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-45,256,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,361,0,Opponent,1610612756,Phoenix Suns,3,10,26,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,25,78,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,363,0,Opponent,1610612756,Phoenix Suns,3,10,24,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,6,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,366,0,Opponent,1610612756,Phoenix Suns,3,9,51,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-36,15,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,371,0,Opponent,1610612756,Phoenix Suns,3,9,21,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,113,97,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,379,0,Opponent,1610612756,Phoenix Suns,3,9,4,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,49,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,382,0,Opponent,1610612756,Phoenix Suns,3,9,1,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,388,0,Opponent,1610612756,Phoenix Suns,3,8,24,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,2,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,391,0,Opponent,1610612756,Phoenix Suns,3,7,47,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,81,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,394,0,Opponent,1610612756,Phoenix Suns,3,7,22,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,102,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,407,0,Opponent,1610612756,Phoenix Suns,3,6,49,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,179,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,417,0,Opponent,1610612756,Phoenix Suns,3,6,27,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,112,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,419,0,Opponent,1610612756,Phoenix Suns,3,6,24,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,423,0,Opponent,1610612756,Phoenix Suns,3,5,53,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,425,0,Opponent,1610612756,Phoenix Suns,3,5,13,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-29,164,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,441,0,Opponent,1610612756,Phoenix Suns,3,4,6,Made Shot,Alley Oop Layup shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,44,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,444,0,Opponent,1610612756,Phoenix Suns,3,3,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-1,39,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,456,0,Opponent,1610612756,Phoenix Suns,3,3,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,242,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,460,0,Opponent,1610612756,Phoenix Suns,3,2,32,Missed Shot,Alley Oop Dunk Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,43,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,470,0,Opponent,1610612756,Phoenix Suns,3,2,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,137,55,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,477,0,Opponent,1610612756,Phoenix Suns,3,1,44,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,480,0,Opponent,1610612756,Phoenix Suns,3,1,20,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,491,0,Opponent,1610612756,Phoenix Suns,3,1,1,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,494,0,Opponent,1610612756,Phoenix Suns,3,0,33,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,170,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,497,0,Opponent,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-158,193,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,569,0,Opponent,1610612756,Phoenix Suns,4,6,32,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,69,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,578,0,Opponent,1610612756,Phoenix Suns,4,6,9,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,21,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,588,0,Opponent,1610612756,Phoenix Suns,4,5,47,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-205,165,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,596,0,Opponent,1610612756,Phoenix Suns,4,5,17,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-216,153,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,599,0,Opponent,1610612756,Phoenix Suns,4,4,44,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,32,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,619,0,Opponent,1610612756,Phoenix Suns,4,3,15,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-31,17,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,624,0,Opponent,1610612756,Phoenix Suns,4,2,46,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-17,97,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,628,0,Opponent,1610612756,Phoenix Suns,4,2,10,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,18,263,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,631,0,Opponent,1610612756,Phoenix Suns,4,1,35,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-81,160,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300131,638,0,Opponent,1610612756,Phoenix Suns,4,1,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-167,202,1,0,20231102,PHX,SAS
+Shot Chart Detail,0022300131,644,0,Opponent,1610612756,Phoenix Suns,4,0,48,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20231102,PHX,SAS
+Shot Chart Detail,0022300132,9,0,Opponent,1610612756,Phoenix Suns,1,11,22,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,56,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,14,0,Opponent,1610612756,Phoenix Suns,1,10,57,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,173,222,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,40,0,Opponent,1610612756,Phoenix Suns,1,9,10,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-4,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,44,0,Opponent,1610612756,Phoenix Suns,1,9,6,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,-8,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,48,0,Opponent,1610612756,Phoenix Suns,1,8,47,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,180,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,52,0,Opponent,1610612756,Phoenix Suns,1,8,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-2,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,57,0,Opponent,1610612756,Phoenix Suns,1,7,59,Missed Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-239,64,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,62,0,Opponent,1610612756,Phoenix Suns,1,7,39,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,65,0,Opponent,1610612756,Phoenix Suns,1,7,5,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,10,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,68,0,Opponent,1610612756,Phoenix Suns,1,6,38,Missed Shot,Pullup Jump shot,,Right Corner 3,Right Side(R),24+ ft.,23,237,20,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,72,0,Opponent,1610612756,Phoenix Suns,1,6,16,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,88,0,Opponent,1610612756,Phoenix Suns,1,5,47,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,75,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,90,0,Opponent,1610612756,Phoenix Suns,1,5,43,Made Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,73,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,100,0,Opponent,1610612756,Phoenix Suns,1,5,5,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,26,284,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,104,0,Opponent,1610612756,Phoenix Suns,1,4,35,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,93,103,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,118,0,Opponent,1610612756,Phoenix Suns,1,3,34,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-51,269,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,122,0,Opponent,1610612756,Phoenix Suns,1,3,15,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,151,224,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,139,0,Opponent,1610612756,Phoenix Suns,1,2,1,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,27,70,268,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,168,0,Opponent,1610612756,Phoenix Suns,1,0,36,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,-4,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,163,0,Opponent,1610612756,Phoenix Suns,1,0,13,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,22,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,270,0,Opponent,1610612756,Phoenix Suns,2,5,40,Made Shot,Step Back Jump shot,,Mid-Range,Center(C),8-16 ft.,14,15,148,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,274,0,Opponent,1610612756,Phoenix Suns,2,5,24,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-6,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,279,0,Opponent,1610612756,Phoenix Suns,2,4,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,109,92,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,293,0,Opponent,1610612756,Phoenix Suns,2,4,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,241,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,312,0,Opponent,1610612756,Phoenix Suns,2,3,8,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-76,108,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,319,0,Opponent,1610612756,Phoenix Suns,2,2,19,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,137,131,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,323,0,Opponent,1610612756,Phoenix Suns,2,1,55,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,327,0,Opponent,1610612756,Phoenix Suns,2,1,26,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,331,0,Opponent,1610612756,Phoenix Suns,2,1,3,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-87,256,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,335,0,Opponent,1610612756,Phoenix Suns,2,0,44,Made Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,13,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,339,0,Opponent,1610612756,Phoenix Suns,2,0,10,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,117,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,342,0,Opponent,1610612756,Phoenix Suns,2,0,9,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,71,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,357,0,Opponent,1610612756,Phoenix Suns,2,0,0,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-10,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,365,0,Opponent,1610612756,Phoenix Suns,3,11,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,47,134,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,371,0,Opponent,1610612756,Phoenix Suns,3,11,11,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-29,105,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,374,0,Opponent,1610612756,Phoenix Suns,3,10,34,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,162,216,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,377,0,Opponent,1610612756,Phoenix Suns,3,10,2,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-140,217,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,381,0,Opponent,1610612756,Phoenix Suns,3,9,28,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,137,227,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,387,0,Opponent,1610612756,Phoenix Suns,3,8,45,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,12,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,391,0,Opponent,1610612756,Phoenix Suns,3,8,23,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-196,165,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,393,0,Opponent,1610612756,Phoenix Suns,3,8,19,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,396,0,Opponent,1610612756,Phoenix Suns,3,8,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,401,0,Opponent,1610612756,Phoenix Suns,3,7,51,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,408,0,Opponent,1610612756,Phoenix Suns,3,7,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,118,232,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,413,0,Opponent,1610612756,Phoenix Suns,3,6,44,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,12,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,418,0,Opponent,1610612756,Phoenix Suns,3,6,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,0,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,423,0,Opponent,1610612756,Phoenix Suns,3,5,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-224,88,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,425,0,Opponent,1610612756,Phoenix Suns,3,5,36,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,31,136,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,427,0,Opponent,1610612756,Phoenix Suns,3,4,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,157,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,450,0,Opponent,1610612756,Phoenix Suns,3,4,12,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,455,0,Opponent,1610612756,Phoenix Suns,3,3,52,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,154,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,457,0,Opponent,1610612756,Phoenix Suns,3,3,47,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,23,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,472,0,Opponent,1610612756,Phoenix Suns,3,2,57,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,478,0,Opponent,1610612756,Phoenix Suns,3,2,28,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,34,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,519,0,Opponent,1610612756,Phoenix Suns,4,11,28,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,-5,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,537,0,Opponent,1610612756,Phoenix Suns,4,10,40,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,7,101,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,548,0,Opponent,1610612756,Phoenix Suns,4,9,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,240,63,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,550,0,Opponent,1610612756,Phoenix Suns,4,9,41,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-153,223,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,561,0,Opponent,1610612756,Phoenix Suns,4,8,52,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-43,99,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,564,0,Opponent,1610612756,Phoenix Suns,4,8,27,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,17,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,574,0,Opponent,1610612756,Phoenix Suns,4,7,55,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,37,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,578,0,Opponent,1610612756,Phoenix Suns,4,7,23,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,27,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,585,0,Opponent,1610612756,Phoenix Suns,4,7,2,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-97,246,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,594,0,Opponent,1610612756,Phoenix Suns,4,6,10,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,603,0,Opponent,1610612756,Phoenix Suns,4,5,32,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,27,56,272,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,620,0,Opponent,1610612756,Phoenix Suns,4,4,47,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,22,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,627,0,Opponent,1610612756,Phoenix Suns,4,4,29,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,83,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300140,7,0,Opponent,1610612756,Phoenix Suns,1,11,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,37,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,10,0,Opponent,1610612756,Phoenix Suns,1,11,18,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,206,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,18,0,Opponent,1610612756,Phoenix Suns,1,10,41,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,22,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,24,0,Opponent,1610612756,Phoenix Suns,1,9,54,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-31,90,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,29,0,Opponent,1610612756,Phoenix Suns,1,8,56,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,119,1,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,34,0,Opponent,1610612756,Phoenix Suns,1,8,39,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,62,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,37,0,Opponent,1610612756,Phoenix Suns,1,8,18,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,26,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,42,0,Opponent,1610612756,Phoenix Suns,1,8,6,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,44,0,Opponent,1610612756,Phoenix Suns,1,7,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,49,0,Opponent,1610612756,Phoenix Suns,1,6,49,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,55,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,68,0,Opponent,1610612756,Phoenix Suns,1,5,18,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-74,196,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,72,0,Opponent,1610612756,Phoenix Suns,1,4,57,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,58,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,74,0,Opponent,1610612756,Phoenix Suns,1,4,46,Made Shot,Driving Floating Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,86,126,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,87,0,Opponent,1610612756,Phoenix Suns,1,4,2,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,115,242,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,94,0,Opponent,1610612756,Phoenix Suns,1,3,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-20,33,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,107,0,Opponent,1610612756,Phoenix Suns,1,2,59,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,120,0,Opponent,1610612756,Phoenix Suns,1,2,35,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,223,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,123,0,Opponent,1610612756,Phoenix Suns,1,2,4,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-12,29,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,134,0,Opponent,1610612756,Phoenix Suns,1,1,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-17,16,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,138,0,Opponent,1610612756,Phoenix Suns,1,1,19,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,21,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,142,0,Opponent,1610612756,Phoenix Suns,1,0,45,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-53,59,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,149,0,Opponent,1610612756,Phoenix Suns,1,0,1,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,67,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,253,0,Opponent,1610612756,Phoenix Suns,2,5,18,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,238,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,257,0,Opponent,1610612756,Phoenix Suns,2,4,56,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,21,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,262,0,Opponent,1610612756,Phoenix Suns,2,4,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,265,0,Opponent,1610612756,Phoenix Suns,2,4,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,279,0,Opponent,1610612756,Phoenix Suns,2,3,45,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,28,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,284,0,Opponent,1610612756,Phoenix Suns,2,3,19,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-32,94,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,297,0,Opponent,1610612756,Phoenix Suns,2,2,51,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,303,0,Opponent,1610612756,Phoenix Suns,2,2,24,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-206,185,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,323,0,Opponent,1610612756,Phoenix Suns,2,1,22,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-28,80,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,331,0,Opponent,1610612756,Phoenix Suns,2,1,3,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,349,0,Opponent,1610612756,Phoenix Suns,2,0,7,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,231,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,365,0,Opponent,1610612756,Phoenix Suns,3,11,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-4,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,369,0,Opponent,1610612756,Phoenix Suns,3,10,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,135,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,384,0,Opponent,1610612756,Phoenix Suns,3,9,46,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,145,209,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,388,0,Opponent,1610612756,Phoenix Suns,3,9,4,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,3,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,390,0,Opponent,1610612756,Phoenix Suns,3,8,58,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-80,55,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,394,0,Opponent,1610612756,Phoenix Suns,3,8,44,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,398,0,Opponent,1610612756,Phoenix Suns,3,8,11,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,1,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,406,0,Opponent,1610612756,Phoenix Suns,3,7,34,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,215,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,409,0,Opponent,1610612756,Phoenix Suns,3,6,58,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,26,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,417,0,Opponent,1610612756,Phoenix Suns,3,6,5,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,426,0,Opponent,1610612756,Phoenix Suns,3,5,29,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,6,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,428,0,Opponent,1610612756,Phoenix Suns,3,5,26,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,430,0,Opponent,1610612756,Phoenix Suns,3,5,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,-13,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,434,0,Opponent,1610612756,Phoenix Suns,3,4,49,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,114,220,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,456,0,Opponent,1610612756,Phoenix Suns,3,3,49,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,18,159,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,465,0,Opponent,1610612756,Phoenix Suns,3,3,22,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,99,234,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,478,0,Opponent,1610612756,Phoenix Suns,3,2,9,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-17,114,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,481,0,Opponent,1610612756,Phoenix Suns,3,1,32,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,490,0,Opponent,1610612756,Phoenix Suns,3,1,5,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-93,222,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,494,0,Opponent,1610612756,Phoenix Suns,3,0,28,Missed Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,19,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,575,0,Opponent,1610612756,Phoenix Suns,4,7,18,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),16-24 ft.,18,-175,46,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,577,0,Opponent,1610612756,Phoenix Suns,4,7,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,599,0,Opponent,1610612756,Phoenix Suns,4,6,26,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-107,137,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,604,0,Opponent,1610612756,Phoenix Suns,4,5,48,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,-8,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,610,0,Opponent,1610612756,Phoenix Suns,4,5,27,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,-11,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,620,0,Opponent,1610612756,Phoenix Suns,4,4,57,Made Shot,Driving Reverse Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,24,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,630,0,Opponent,1610612756,Phoenix Suns,4,4,22,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,122,181,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,633,0,Opponent,1610612756,Phoenix Suns,4,3,57,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,-5,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300140,636,0,Opponent,1610612756,Phoenix Suns,4,3,56,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20231105,DET,PHX
+Shot Chart Detail,0022300140,641,0,Opponent,1610612756,Phoenix Suns,4,3,33,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-78,236,1,0,20231105,DET,PHX
+Shot Chart Detail,0022300162,9,0,Opponent,1610612756,Phoenix Suns,1,11,31,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,63,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,13,0,Opponent,1610612756,Phoenix Suns,1,11,0,Missed Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,18,-22,184,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,17,0,Opponent,1610612756,Phoenix Suns,1,10,39,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,68,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,23,0,Opponent,1610612756,Phoenix Suns,1,10,16,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,72,256,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,28,0,Opponent,1610612756,Phoenix Suns,1,9,46,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,15,132,73,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,34,0,Opponent,1610612756,Phoenix Suns,1,9,21,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,183,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,38,0,Opponent,1610612756,Phoenix Suns,1,8,49,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-99,96,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,43,0,Opponent,1610612756,Phoenix Suns,1,8,11,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,47,0,Opponent,1610612756,Phoenix Suns,1,7,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,-21,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,55,0,Opponent,1610612756,Phoenix Suns,1,7,22,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,15,246,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,61,0,Opponent,1610612756,Phoenix Suns,1,6,48,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,13,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,65,0,Opponent,1610612756,Phoenix Suns,1,6,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-4,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,85,0,Opponent,1610612756,Phoenix Suns,1,5,21,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,95,0,Opponent,1610612756,Phoenix Suns,1,4,59,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,141,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,103,0,Opponent,1610612756,Phoenix Suns,1,4,29,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,107,0,Opponent,1610612756,Phoenix Suns,1,4,5,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-92,224,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,116,0,Opponent,1610612756,Phoenix Suns,1,3,19,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,135,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,127,0,Opponent,1610612756,Phoenix Suns,1,2,35,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Center(C),8-16 ft.,14,-26,141,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,131,0,Opponent,1610612756,Phoenix Suns,1,1,52,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,135,0,Opponent,1610612756,Phoenix Suns,1,1,31,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,220,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,139,0,Opponent,1610612756,Phoenix Suns,1,0,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,180,163,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,141,0,Opponent,1610612756,Phoenix Suns,1,0,45,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,98,221,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,155,0,Opponent,1610612756,Phoenix Suns,1,0,0,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-123,271,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,267,0,Opponent,1610612756,Phoenix Suns,2,4,19,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,48,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,271,0,Opponent,1610612756,Phoenix Suns,2,3,49,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,25,67,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,275,0,Opponent,1610612756,Phoenix Suns,2,3,23,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,17,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,279,0,Opponent,1610612756,Phoenix Suns,2,3,4,Made Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,29,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,287,0,Opponent,1610612756,Phoenix Suns,2,2,18,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,12,119,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,299,0,Opponent,1610612756,Phoenix Suns,2,1,43,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,68,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,304,0,Opponent,1610612756,Phoenix Suns,2,1,26,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,310,0,Opponent,1610612756,Phoenix Suns,2,1,3,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-134,79,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,312,0,Opponent,1610612756,Phoenix Suns,2,1,0,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,323,0,Opponent,1610612756,Phoenix Suns,2,0,1,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,73,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,333,0,Opponent,1610612756,Phoenix Suns,3,11,46,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,26,13,262,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,338,0,Opponent,1610612756,Phoenix Suns,3,11,20,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,197,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,352,0,Opponent,1610612756,Phoenix Suns,3,10,7,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,97,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,355,0,Opponent,1610612756,Phoenix Suns,3,9,44,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,361,0,Opponent,1610612756,Phoenix Suns,3,9,15,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,365,0,Opponent,1610612756,Phoenix Suns,3,8,49,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,4,259,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,374,0,Opponent,1610612756,Phoenix Suns,3,7,54,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,93,126,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,378,0,Opponent,1610612756,Phoenix Suns,3,7,40,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,386,0,Opponent,1610612756,Phoenix Suns,3,7,2,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,164,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,399,0,Opponent,1610612756,Phoenix Suns,3,6,3,Missed Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-16,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,401,0,Opponent,1610612756,Phoenix Suns,3,5,56,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,53,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,404,0,Opponent,1610612756,Phoenix Suns,3,5,11,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),16-24 ft.,17,165,44,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,408,0,Opponent,1610612756,Phoenix Suns,3,4,46,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,218,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,412,0,Opponent,1610612756,Phoenix Suns,3,4,22,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-137,231,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,774,0,Opponent,1610612756,Phoenix Suns,3,3,41,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,40,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,436,0,Opponent,1610612756,Phoenix Suns,3,3,10,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,21,-9,212,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,444,0,Opponent,1610612756,Phoenix Suns,3,2,16,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,185,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,448,0,Opponent,1610612756,Phoenix Suns,3,1,46,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,11,-119,-4,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,455,0,Opponent,1610612756,Phoenix Suns,3,1,44,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,477,0,Opponent,1610612756,Phoenix Suns,3,0,29,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,480,0,Opponent,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,236,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,555,0,Opponent,1610612756,Phoenix Suns,4,7,37,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,22,43,217,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,562,0,Opponent,1610612756,Phoenix Suns,4,7,4,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-108,205,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,566,0,Opponent,1610612756,Phoenix Suns,4,6,44,Made Shot,Running Pull-Up Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,81,110,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,571,0,Opponent,1610612756,Phoenix Suns,4,6,11,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,578,0,Opponent,1610612756,Phoenix Suns,4,5,46,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-148,227,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,585,0,Opponent,1610612756,Phoenix Suns,4,5,10,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,601,0,Opponent,1610612756,Phoenix Suns,4,4,29,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,614,0,Opponent,1610612756,Phoenix Suns,4,3,59,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,623,0,Opponent,1610612756,Phoenix Suns,4,3,28,Missed Shot,Turnaround Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,11,119,5,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,631,0,Opponent,1610612756,Phoenix Suns,4,3,4,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,70,254,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,635,0,Opponent,1610612756,Phoenix Suns,4,2,38,Missed Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,640,0,Opponent,1610612756,Phoenix Suns,4,2,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,650,0,Opponent,1610612756,Phoenix Suns,4,1,36,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,670,0,Opponent,1610612756,Phoenix Suns,4,0,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,-1,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,698,0,Opponent,1610612756,Phoenix Suns,5,4,31,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,211,175,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,702,0,Opponent,1610612756,Phoenix Suns,5,3,46,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-110,251,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,704,0,Opponent,1610612756,Phoenix Suns,5,3,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,708,0,Opponent,1610612756,Phoenix Suns,5,3,9,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,36,262,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,714,0,Opponent,1610612756,Phoenix Suns,5,2,27,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-71,256,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,725,0,Opponent,1610612756,Phoenix Suns,5,1,51,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,228,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,734,0,Opponent,1610612756,Phoenix Suns,5,1,18,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,19,-4,199,1,1,20231108,CHI,PHX
+Shot Chart Detail,0022300162,738,0,Opponent,1610612756,Phoenix Suns,5,0,55,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,6,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300162,752,0,Opponent,1610612756,Phoenix Suns,5,0,3,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,128,1,0,20231108,CHI,PHX
+Shot Chart Detail,0022300185,13,0,Opponent,1610612756,Phoenix Suns,1,11,23,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,179,210,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,17,0,Opponent,1610612756,Phoenix Suns,1,11,3,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,32,0,Opponent,1610612756,Phoenix Suns,1,10,1,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,50,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,39,0,Opponent,1610612756,Phoenix Suns,1,9,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-25,262,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,46,0,Opponent,1610612756,Phoenix Suns,1,9,4,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,26,88,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,52,0,Opponent,1610612756,Phoenix Suns,1,8,57,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,58,0,Opponent,1610612756,Phoenix Suns,1,8,43,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,-4,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,62,0,Opponent,1610612756,Phoenix Suns,1,8,17,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,64,0,Opponent,1610612756,Phoenix Suns,1,7,39,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,201,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,75,0,Opponent,1610612756,Phoenix Suns,1,6,45,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,11,129,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,80,0,Opponent,1610612756,Phoenix Suns,1,6,31,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,229,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,89,0,Opponent,1610612756,Phoenix Suns,1,5,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,24,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,98,0,Opponent,1610612756,Phoenix Suns,1,5,27,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,103,0,Opponent,1610612756,Phoenix Suns,1,4,55,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-74,159,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,106,0,Opponent,1610612756,Phoenix Suns,1,4,14,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,68,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,119,0,Opponent,1610612756,Phoenix Suns,1,3,28,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-110,-16,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,132,0,Opponent,1610612756,Phoenix Suns,1,2,49,Made Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-6,161,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,138,0,Opponent,1610612756,Phoenix Suns,1,1,53,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,49,268,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,154,0,Opponent,1610612756,Phoenix Suns,1,0,48,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-45,151,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,157,0,Opponent,1610612756,Phoenix Suns,1,0,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,222,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,161,0,Opponent,1610612756,Phoenix Suns,1,0,2,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,17,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,282,0,Opponent,1610612756,Phoenix Suns,2,4,16,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-10,263,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,292,0,Opponent,1610612756,Phoenix Suns,2,3,38,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,297,0,Opponent,1610612756,Phoenix Suns,2,3,23,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,301,0,Opponent,1610612756,Phoenix Suns,2,3,2,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-131,237,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,304,0,Opponent,1610612756,Phoenix Suns,2,2,28,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,321,0,Opponent,1610612756,Phoenix Suns,2,1,58,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,2,34,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,325,0,Opponent,1610612756,Phoenix Suns,2,1,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,228,166,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,329,0,Opponent,1610612756,Phoenix Suns,2,0,54,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,28,-65,274,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,333,0,Opponent,1610612756,Phoenix Suns,2,0,24,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,358,0,Opponent,1610612756,Phoenix Suns,3,11,28,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-43,73,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,360,0,Opponent,1610612756,Phoenix Suns,3,11,23,Made Shot,Putback Layup Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,48,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,362,0,Opponent,1610612756,Phoenix Suns,3,10,41,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,366,0,Opponent,1610612756,Phoenix Suns,3,10,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,372,0,Opponent,1610612756,Phoenix Suns,3,9,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,-3,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,378,0,Opponent,1610612756,Phoenix Suns,3,9,6,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,27,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,382,0,Opponent,1610612756,Phoenix Suns,3,8,30,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-5,269,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,407,0,Opponent,1610612756,Phoenix Suns,3,6,54,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-107,251,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,415,0,Opponent,1610612756,Phoenix Suns,3,6,18,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,238,63,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,421,0,Opponent,1610612756,Phoenix Suns,3,5,55,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,426,0,Opponent,1610612756,Phoenix Suns,3,5,36,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-4,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,442,0,Opponent,1610612756,Phoenix Suns,3,4,52,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,25,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,446,0,Opponent,1610612756,Phoenix Suns,3,4,23,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,454,0,Opponent,1610612756,Phoenix Suns,3,4,3,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,25,257,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,463,0,Opponent,1610612756,Phoenix Suns,3,3,27,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-208,168,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,466,0,Opponent,1610612756,Phoenix Suns,3,2,45,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-74,265,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,470,0,Opponent,1610612756,Phoenix Suns,3,2,21,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-216,205,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,474,0,Opponent,1610612756,Phoenix Suns,3,1,46,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,188,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,515,0,Opponent,1610612756,Phoenix Suns,4,11,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,210,143,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,518,0,Opponent,1610612756,Phoenix Suns,4,11,4,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-64,270,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,522,0,Opponent,1610612756,Phoenix Suns,4,10,25,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,23,100,209,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,535,0,Opponent,1610612756,Phoenix Suns,4,9,6,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,552,0,Opponent,1610612756,Phoenix Suns,4,8,27,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,572,0,Opponent,1610612756,Phoenix Suns,4,7,48,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,44,81,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,575,0,Opponent,1610612756,Phoenix Suns,4,7,21,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-123,62,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,613,0,Opponent,1610612756,Phoenix Suns,4,4,37,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,637,0,Opponent,1610612756,Phoenix Suns,4,3,26,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,648,0,Opponent,1610612756,Phoenix Suns,4,2,59,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,241,1,1,20231112,PHX,OKC
+Shot Chart Detail,0022300185,662,0,Opponent,1610612756,Phoenix Suns,4,1,58,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,137,123,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300185,664,0,Opponent,1610612756,Phoenix Suns,4,1,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-225,160,1,0,20231112,PHX,OKC
+Shot Chart Detail,0022300197,7,0,Opponent,1610612756,Phoenix Suns,1,11,43,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,32,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,9,0,Opponent,1610612756,Phoenix Suns,1,11,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-178,167,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,13,0,Opponent,1610612756,Phoenix Suns,1,11,4,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,34,104,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,16,0,Opponent,1610612756,Phoenix Suns,1,10,46,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,34,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,21,0,Opponent,1610612756,Phoenix Suns,1,10,24,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,209,22,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,23,0,Opponent,1610612756,Phoenix Suns,1,9,51,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-156,79,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,26,0,Opponent,1610612756,Phoenix Suns,1,9,16,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,3,38,-5,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,30,0,Opponent,1610612756,Phoenix Suns,1,8,48,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-5,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,34,0,Opponent,1610612756,Phoenix Suns,1,8,14,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-9,63,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,37,0,Opponent,1610612756,Phoenix Suns,1,7,42,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,24,40,242,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,41,0,Opponent,1610612756,Phoenix Suns,1,7,6,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,49,0,Opponent,1610612756,Phoenix Suns,1,6,26,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,143,248,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,57,0,Opponent,1610612756,Phoenix Suns,1,5,52,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,61,0,Opponent,1610612756,Phoenix Suns,1,5,1,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),16-24 ft.,21,-181,120,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,65,0,Opponent,1610612756,Phoenix Suns,1,4,30,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,193,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,80,0,Opponent,1610612756,Phoenix Suns,1,3,34,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,88,0,Opponent,1610612756,Phoenix Suns,1,3,15,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-22,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,96,0,Opponent,1610612756,Phoenix Suns,1,2,50,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,37,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,187,0,Opponent,1610612756,Phoenix Suns,2,8,46,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,10,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,204,0,Opponent,1610612756,Phoenix Suns,2,7,30,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,56,247,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,210,0,Opponent,1610612756,Phoenix Suns,2,7,4,Missed Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,21,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,224,0,Opponent,1610612756,Phoenix Suns,2,5,55,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,188,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,227,0,Opponent,1610612756,Phoenix Suns,2,5,26,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-20,0,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,240,0,Opponent,1610612756,Phoenix Suns,2,4,58,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,55,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,246,0,Opponent,1610612756,Phoenix Suns,2,4,19,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,9,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,266,0,Opponent,1610612756,Phoenix Suns,2,3,23,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,0,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,268,0,Opponent,1610612756,Phoenix Suns,2,3,20,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-8,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,275,0,Opponent,1610612756,Phoenix Suns,2,2,30,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,55,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,302,0,Opponent,1610612756,Phoenix Suns,2,0,24,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,52,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,306,0,Opponent,1610612756,Phoenix Suns,2,0,13,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,10,85,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,308,0,Opponent,1610612756,Phoenix Suns,2,0,7,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,328,0,Opponent,1610612756,Phoenix Suns,3,11,12,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,226,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,332,0,Opponent,1610612756,Phoenix Suns,3,10,38,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,21,123,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,339,0,Opponent,1610612756,Phoenix Suns,3,10,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,344,0,Opponent,1610612756,Phoenix Suns,3,9,57,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,34,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,347,0,Opponent,1610612756,Phoenix Suns,3,9,42,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,49,110,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,352,0,Opponent,1610612756,Phoenix Suns,3,9,26,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,43,85,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,356,0,Opponent,1610612756,Phoenix Suns,3,9,6,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,-28,185,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,362,0,Opponent,1610612756,Phoenix Suns,3,8,46,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,53,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,365,0,Opponent,1610612756,Phoenix Suns,3,8,27,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,22,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,376,0,Opponent,1610612756,Phoenix Suns,3,7,50,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,28,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,380,0,Opponent,1610612756,Phoenix Suns,3,7,15,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,31,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,389,0,Opponent,1610612756,Phoenix Suns,3,6,41,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-42,199,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,393,0,Opponent,1610612756,Phoenix Suns,3,6,10,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,22,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,395,0,Opponent,1610612756,Phoenix Suns,3,6,3,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,20,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,398,0,Opponent,1610612756,Phoenix Suns,3,5,20,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,12,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,401,0,Opponent,1610612756,Phoenix Suns,3,4,58,Missed Shot,Driving Layup Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-105,95,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,406,0,Opponent,1610612756,Phoenix Suns,3,4,27,Made Shot,Floating Jump shot,,Mid-Range,Left Side(L),8-16 ft.,13,-134,39,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,424,0,Opponent,1610612756,Phoenix Suns,3,4,3,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,20,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,429,0,Opponent,1610612756,Phoenix Suns,3,3,30,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,20,-50,196,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,433,0,Opponent,1610612756,Phoenix Suns,3,2,54,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-13,104,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,437,0,Opponent,1610612756,Phoenix Suns,3,2,25,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-34,267,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,439,0,Opponent,1610612756,Phoenix Suns,3,2,18,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,441,0,Opponent,1610612756,Phoenix Suns,3,1,51,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-29,263,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,450,0,Opponent,1610612756,Phoenix Suns,3,1,14,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,20,101,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,452,0,Opponent,1610612756,Phoenix Suns,3,0,42,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,74,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,456,0,Opponent,1610612756,Phoenix Suns,3,0,22,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,146,63,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,458,0,Opponent,1610612756,Phoenix Suns,3,0,0,Missed Shot,Pullup Jump shot,,Backcourt,Back Court(BC),Back Court Shot,58,-124,569,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,521,0,Opponent,1610612756,Phoenix Suns,4,8,0,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,525,0,Opponent,1610612756,Phoenix Suns,4,7,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,199,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,540,0,Opponent,1610612756,Phoenix Suns,4,6,39,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,543,0,Opponent,1610612756,Phoenix Suns,4,6,3,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,112,127,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,551,0,Opponent,1610612756,Phoenix Suns,4,5,21,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-31,80,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,553,0,Opponent,1610612756,Phoenix Suns,4,5,16,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300197,559,0,Opponent,1610612756,Phoenix Suns,4,4,42,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-51,107,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,571,0,Opponent,1610612756,Phoenix Suns,4,4,10,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,64,253,1,0,20231115,PHX,MIN
+Shot Chart Detail,0022300197,573,0,Opponent,1610612756,Phoenix Suns,4,4,7,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,59,1,1,20231115,PHX,MIN
+Shot Chart Detail,0022300214,9,0,Opponent,1610612756,Phoenix Suns,1,11,39,Made Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-102,7,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,12,0,Opponent,1610612756,Phoenix Suns,1,11,4,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-87,28,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,17,0,Opponent,1610612756,Phoenix Suns,1,10,49,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,26,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,22,0,Opponent,1610612756,Phoenix Suns,1,10,17,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,139,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,24,0,Opponent,1610612756,Phoenix Suns,1,10,13,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,206,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,29,0,Opponent,1610612756,Phoenix Suns,1,9,42,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-20,57,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,33,0,Opponent,1610612756,Phoenix Suns,1,9,7,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,34,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,51,0,Opponent,1610612756,Phoenix Suns,1,8,11,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-21,263,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,59,0,Opponent,1610612756,Phoenix Suns,1,7,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-140,231,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,63,0,Opponent,1610612756,Phoenix Suns,1,7,2,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,211,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,65,0,Opponent,1610612756,Phoenix Suns,1,6,58,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,15,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,84,0,Opponent,1610612756,Phoenix Suns,1,6,5,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,236,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,94,0,Opponent,1610612756,Phoenix Suns,1,4,54,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,34,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,102,0,Opponent,1610612756,Phoenix Suns,1,3,53,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-237,67,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,109,0,Opponent,1610612756,Phoenix Suns,1,3,31,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,68,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,112,0,Opponent,1610612756,Phoenix Suns,1,3,28,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,34,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,114,0,Opponent,1610612756,Phoenix Suns,1,3,26,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,117,0,Opponent,1610612756,Phoenix Suns,1,2,59,Made Shot,Turnaround Bank shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,48,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,226,0,Opponent,1610612756,Phoenix Suns,2,8,15,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,77,84,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,228,0,Opponent,1610612756,Phoenix Suns,2,8,12,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,231,0,Opponent,1610612756,Phoenix Suns,2,7,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,175,176,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,244,0,Opponent,1610612756,Phoenix Suns,2,6,59,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,14,43,142,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,248,0,Opponent,1610612756,Phoenix Suns,2,6,28,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,20,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,257,0,Opponent,1610612756,Phoenix Suns,2,6,4,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,80,101,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,261,0,Opponent,1610612756,Phoenix Suns,2,5,48,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,41,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,264,0,Opponent,1610612756,Phoenix Suns,2,5,4,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,6,253,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,266,0,Opponent,1610612756,Phoenix Suns,2,5,0,Made Shot,Putback Layup Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,41,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,283,0,Opponent,1610612756,Phoenix Suns,2,4,2,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,168,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,287,0,Opponent,1610612756,Phoenix Suns,2,3,45,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,44,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,316,0,Opponent,1610612756,Phoenix Suns,2,2,58,Missed Shot,Pullup Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,305,0,Opponent,1610612756,Phoenix Suns,2,2,53,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,228,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,311,0,Opponent,1610612756,Phoenix Suns,2,2,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,18,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,324,0,Opponent,1610612756,Phoenix Suns,2,1,59,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,225,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,328,0,Opponent,1610612756,Phoenix Suns,2,1,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,43,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,332,0,Opponent,1610612756,Phoenix Suns,2,1,8,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,20,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,340,0,Opponent,1610612756,Phoenix Suns,2,0,51,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,20,23,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,344,0,Opponent,1610612756,Phoenix Suns,2,0,39,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,29,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,348,0,Opponent,1610612756,Phoenix Suns,2,0,27,Missed Shot,Running Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-71,249,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,363,0,Opponent,1610612756,Phoenix Suns,3,11,3,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,151,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,367,0,Opponent,1610612756,Phoenix Suns,3,10,41,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,57,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,370,0,Opponent,1610612756,Phoenix Suns,3,10,36,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,200,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,376,0,Opponent,1610612756,Phoenix Suns,3,10,7,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,26,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,379,0,Opponent,1610612756,Phoenix Suns,3,9,53,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,55,45,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,389,0,Opponent,1610612756,Phoenix Suns,3,9,9,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-9,26,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,393,0,Opponent,1610612756,Phoenix Suns,3,8,31,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,82,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,395,0,Opponent,1610612756,Phoenix Suns,3,8,7,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,29,260,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,399,0,Opponent,1610612756,Phoenix Suns,3,7,51,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-37,-12,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,401,0,Opponent,1610612756,Phoenix Suns,3,7,47,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,30,-64,297,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,408,0,Opponent,1610612756,Phoenix Suns,3,7,16,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,38,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,412,0,Opponent,1610612756,Phoenix Suns,3,6,49,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,71,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,415,0,Opponent,1610612756,Phoenix Suns,3,6,45,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-26,11,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,428,0,Opponent,1610612756,Phoenix Suns,3,6,27,Made Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,25,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,434,0,Opponent,1610612756,Phoenix Suns,3,6,15,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,19,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,462,0,Opponent,1610612756,Phoenix Suns,3,5,6,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,56,25,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,486,0,Opponent,1610612756,Phoenix Suns,3,4,0,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,138,57,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,499,0,Opponent,1610612756,Phoenix Suns,3,3,32,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,35,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,501,0,Opponent,1610612756,Phoenix Suns,3,3,27,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-222,11,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,507,0,Opponent,1610612756,Phoenix Suns,3,2,53,Made Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,13,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,595,0,Opponent,1610612756,Phoenix Suns,4,8,46,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,24,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,599,0,Opponent,1610612756,Phoenix Suns,4,8,14,Made Shot,Running Pull-Up Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,41,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,607,0,Opponent,1610612756,Phoenix Suns,4,7,47,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,97,227,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,611,0,Opponent,1610612756,Phoenix Suns,4,7,7,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,-12,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,616,0,Opponent,1610612756,Phoenix Suns,4,6,29,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,211,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,638,0,Opponent,1610612756,Phoenix Suns,4,4,55,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-62,40,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,647,0,Opponent,1610612756,Phoenix Suns,4,4,8,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,27,-1,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,651,0,Opponent,1610612756,Phoenix Suns,4,3,26,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,38,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,655,0,Opponent,1610612756,Phoenix Suns,4,3,3,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,36,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,671,0,Opponent,1610612756,Phoenix Suns,4,1,50,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,1,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,674,0,Opponent,1610612756,Phoenix Suns,4,1,22,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,41,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,677,0,Opponent,1610612756,Phoenix Suns,4,0,46,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-70,66,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,684,0,Opponent,1610612756,Phoenix Suns,4,0,36,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,20,204,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,688,0,Opponent,1610612756,Phoenix Suns,4,0,20,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-146,180,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,691,0,Opponent,1610612756,Phoenix Suns,4,0,20,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,0,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,703,0,Opponent,1610612756,Phoenix Suns,5,4,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,29,214,200,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,707,0,Opponent,1610612756,Phoenix Suns,5,3,33,Made Shot,Driving Floating Bank Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,89,36,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,714,0,Opponent,1610612756,Phoenix Suns,5,3,0,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,47,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,718,0,Opponent,1610612756,Phoenix Suns,5,2,27,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-33,10,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,727,0,Opponent,1610612756,Phoenix Suns,5,1,32,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,167,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,785,0,Opponent,1610612756,Phoenix Suns,5,0,1,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,41,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,787,0,Opponent,1610612756,Phoenix Suns,5,0,0,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,804,0,Opponent,1610612756,Phoenix Suns,6,4,36,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-118,250,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,809,0,Opponent,1610612756,Phoenix Suns,6,3,42,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,857,0,Opponent,1610612756,Phoenix Suns,6,3,40,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,813,0,Opponent,1610612756,Phoenix Suns,6,3,10,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-70,257,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,815,0,Opponent,1610612756,Phoenix Suns,6,3,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,116,241,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,823,0,Opponent,1610612756,Phoenix Suns,6,2,26,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,62,1,0,20231119,UTA,PHX
+Shot Chart Detail,0022300214,829,0,Opponent,1610612756,Phoenix Suns,6,1,41,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-43,110,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,831,0,Opponent,1610612756,Phoenix Suns,6,0,58,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,10,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,841,0,Opponent,1610612756,Phoenix Suns,6,0,27,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,21,1,1,20231119,UTA,PHX
+Shot Chart Detail,0022300214,854,0,Opponent,1610612756,Phoenix Suns,6,0,0,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,-15,1,0,20231119,UTA,PHX
 Shot Chart Detail,0022300236,11,0,Opponent,1610612756,Phoenix Suns,1,11,15,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,197,164,1,1,20231122,PHX,GSW
 Shot Chart Detail,0022300236,15,0,Opponent,1610612756,Phoenix Suns,1,10,55,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-174,188,1,0,20231122,PHX,GSW
 Shot Chart Detail,0022300236,19,0,Opponent,1610612756,Phoenix Suns,1,10,34,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-80,78,1,0,20231122,PHX,GSW

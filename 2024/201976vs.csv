@@ -1,4 +1,406 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022300008,108,0,Opponent,1610612755,Philadelphia 76ers,1,5,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,243,1,0,20231110,DET,PHI
+Shot Chart Detail,0022300008,110,0,Opponent,1610612755,Philadelphia 76ers,1,4,58,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,28,1,0,20231110,DET,PHI
+Shot Chart Detail,0022300008,114,0,Opponent,1610612755,Philadelphia 76ers,1,4,39,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,29,1,1,20231110,DET,PHI
+Shot Chart Detail,0022300008,122,0,Opponent,1610612755,Philadelphia 76ers,1,3,42,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,82,247,1,0,20231110,DET,PHI
+Shot Chart Detail,0022300008,124,0,Opponent,1610612755,Philadelphia 76ers,1,3,36,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,23,1,1,20231110,DET,PHI
+Shot Chart Detail,0022300008,135,0,Opponent,1610612755,Philadelphia 76ers,1,3,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,52,1,0,20231110,DET,PHI
+Shot Chart Detail,0022300008,159,0,Opponent,1610612755,Philadelphia 76ers,1,2,20,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,7,1,1,20231110,DET,PHI
+Shot Chart Detail,0022300008,163,0,Opponent,1610612755,Philadelphia 76ers,1,1,43,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,26,50,263,1,1,20231110,DET,PHI
+Shot Chart Detail,0022300008,167,0,Opponent,1610612755,Philadelphia 76ers,1,0,59,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,173,1,0,20231110,DET,PHI
+Shot Chart Detail,0022300008,170,0,Opponent,1610612755,Philadelphia 76ers,1,0,29,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,22,1,1,20231110,DET,PHI
+Shot Chart Detail,0022300008,174,0,Opponent,1610612755,Philadelphia 76ers,1,0,0,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-133,188,1,1,20231110,DET,PHI
+Shot Chart Detail,0022300019,108,0,Opponent,1610612755,Philadelphia 76ers,1,5,10,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,-7,272,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,118,0,Opponent,1610612755,Philadelphia 76ers,1,4,15,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,243,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,121,0,Opponent,1610612755,Philadelphia 76ers,1,3,37,Made Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,126,0,Opponent,1610612755,Philadelphia 76ers,1,3,19,Missed Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-229,87,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,130,0,Opponent,1610612755,Philadelphia 76ers,1,2,52,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,39,104,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,140,0,Opponent,1610612755,Philadelphia 76ers,1,2,27,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,219,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,148,0,Opponent,1610612755,Philadelphia 76ers,1,1,39,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,180,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,154,0,Opponent,1610612755,Philadelphia 76ers,1,1,10,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,142,6,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,157,0,Opponent,1610612755,Philadelphia 76ers,1,0,34,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,46,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,190,0,Opponent,1610612755,Philadelphia 76ers,2,11,44,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,55,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,195,0,Opponent,1610612755,Philadelphia 76ers,2,11,7,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,74,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,210,0,Opponent,1610612755,Philadelphia 76ers,2,10,16,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-210,163,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,217,0,Opponent,1610612755,Philadelphia 76ers,2,9,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,17,34,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,219,0,Opponent,1610612755,Philadelphia 76ers,2,9,24,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,226,0,Opponent,1610612755,Philadelphia 76ers,2,8,56,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,195,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,232,0,Opponent,1610612755,Philadelphia 76ers,2,8,33,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,10,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,236,0,Opponent,1610612755,Philadelphia 76ers,2,7,57,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,58,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,243,0,Opponent,1610612755,Philadelphia 76ers,2,7,37,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,41,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,248,0,Opponent,1610612755,Philadelphia 76ers,2,7,13,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,140,243,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,250,0,Opponent,1610612755,Philadelphia 76ers,2,7,5,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,136,235,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,463,0,Opponent,1610612755,Philadelphia 76ers,3,6,28,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,465,0,Opponent,1610612755,Philadelphia 76ers,3,6,25,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,467,0,Opponent,1610612755,Philadelphia 76ers,3,6,12,Made Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-91,207,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,470,0,Opponent,1610612755,Philadelphia 76ers,3,5,34,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,62,142,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,474,0,Opponent,1610612755,Philadelphia 76ers,3,4,59,Made Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,37,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,491,0,Opponent,1610612755,Philadelphia 76ers,3,4,12,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,8,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,494,0,Opponent,1610612755,Philadelphia 76ers,3,3,43,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,221,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,498,0,Opponent,1610612755,Philadelphia 76ers,3,3,11,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,221,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,509,0,Opponent,1610612755,Philadelphia 76ers,3,2,45,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,42,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,515,0,Opponent,1610612755,Philadelphia 76ers,3,2,23,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-34,13,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,525,0,Opponent,1610612755,Philadelphia 76ers,3,1,56,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,531,0,Opponent,1610612755,Philadelphia 76ers,3,1,30,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,28,77,274,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,534,0,Opponent,1610612755,Philadelphia 76ers,3,1,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,30,-150,269,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,542,0,Opponent,1610612755,Philadelphia 76ers,3,0,35,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-18,170,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,546,0,Opponent,1610612755,Philadelphia 76ers,3,0,20,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,140,231,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,570,0,Opponent,1610612755,Philadelphia 76ers,4,11,33,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,25,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,575,0,Opponent,1610612755,Philadelphia 76ers,4,11,1,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,592,0,Opponent,1610612755,Philadelphia 76ers,4,10,5,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,89,122,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,611,0,Opponent,1610612755,Philadelphia 76ers,4,9,14,Made Shot,Driving Finger Roll Layup Shot,,Mid-Range,Center(C),16-24 ft.,20,-12,201,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,613,0,Opponent,1610612755,Philadelphia 76ers,4,8,46,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-116,111,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,628,0,Opponent,1610612755,Philadelphia 76ers,4,8,20,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,47,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,633,0,Opponent,1610612755,Philadelphia 76ers,4,7,51,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,48,252,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,645,0,Opponent,1610612755,Philadelphia 76ers,4,7,2,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,22,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,647,0,Opponent,1610612755,Philadelphia 76ers,4,6,58,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,656,0,Opponent,1610612755,Philadelphia 76ers,4,6,4,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,1,32,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,671,0,Opponent,1610612755,Philadelphia 76ers,4,5,17,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,692,0,Opponent,1610612755,Philadelphia 76ers,4,3,48,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,698,0,Opponent,1610612755,Philadelphia 76ers,4,3,3,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,230,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,709,0,Opponent,1610612755,Philadelphia 76ers,4,2,6,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300019,712,0,Opponent,1610612755,Philadelphia 76ers,4,1,44,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,43,1,0,20231114,PHI,IND
+Shot Chart Detail,0022300019,716,0,Opponent,1610612755,Philadelphia 76ers,4,1,3,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,211,1,1,20231114,PHI,IND
+Shot Chart Detail,0022300029,116,0,Opponent,1610612755,Philadelphia 76ers,1,2,31,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,11,269,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,118,0,Opponent,1610612755,Philadelphia 76ers,1,2,26,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,29,89,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,122,0,Opponent,1610612755,Philadelphia 76ers,1,2,3,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-83,28,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,142,0,Opponent,1610612755,Philadelphia 76ers,1,0,20,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),16-24 ft.,19,-196,36,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,152,0,Opponent,1610612755,Philadelphia 76ers,1,0,0,Missed Shot,Floating Jump shot,,Backcourt,Back Court(BC),Back Court Shot,57,172,548,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,274,0,Opponent,1610612755,Philadelphia 76ers,2,4,39,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,75,76,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300029,278,0,Opponent,1610612755,Philadelphia 76ers,2,4,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,16,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300029,284,0,Opponent,1610612755,Philadelphia 76ers,2,3,50,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-109,241,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,288,0,Opponent,1610612755,Philadelphia 76ers,2,3,26,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,398,0,Opponent,1610612755,Philadelphia 76ers,3,7,50,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,12,78,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300029,402,0,Opponent,1610612755,Philadelphia 76ers,3,7,12,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,161,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,406,0,Opponent,1610612755,Philadelphia 76ers,3,6,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,24,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,412,0,Opponent,1610612755,Philadelphia 76ers,3,6,15,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,13,134,9,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300029,415,0,Opponent,1610612755,Philadelphia 76ers,3,5,39,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,240,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,419,0,Opponent,1610612755,Philadelphia 76ers,3,5,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,235,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,421,0,Opponent,1610612755,Philadelphia 76ers,3,5,1,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300029,437,0,Opponent,1610612755,Philadelphia 76ers,3,3,51,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,55,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,453,0,Opponent,1610612755,Philadelphia 76ers,3,3,4,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,466,0,Opponent,1610612755,Philadelphia 76ers,3,2,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,240,1,0,20231117,ATL,PHI
+Shot Chart Detail,0022300029,470,0,Opponent,1610612755,Philadelphia 76ers,3,1,57,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-99,230,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300029,492,0,Opponent,1610612755,Philadelphia 76ers,3,0,15,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,-25,276,1,1,20231117,ATL,PHI
+Shot Chart Detail,0022300040,112,0,Opponent,1610612755,Philadelphia 76ers,1,3,21,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-131,165,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,118,0,Opponent,1610612755,Philadelphia 76ers,1,2,55,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,32,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,134,0,Opponent,1610612755,Philadelphia 76ers,1,1,58,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,33,265,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,138,0,Opponent,1610612755,Philadelphia 76ers,1,1,40,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,63,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,147,0,Opponent,1610612755,Philadelphia 76ers,1,1,0,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,17,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,149,0,Opponent,1610612755,Philadelphia 76ers,1,0,58,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,151,0,Opponent,1610612755,Philadelphia 76ers,1,0,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-180,220,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,157,0,Opponent,1610612755,Philadelphia 76ers,1,0,5,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,465,0,Opponent,1610612755,Philadelphia 76ers,3,1,43,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,4,114,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,476,0,Opponent,1610612755,Philadelphia 76ers,3,1,1,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,-10,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,483,0,Opponent,1610612755,Philadelphia 76ers,3,0,20,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,131,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,499,0,Opponent,1610612755,Philadelphia 76ers,4,11,39,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,508,0,Opponent,1610612755,Philadelphia 76ers,4,11,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,226,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,510,0,Opponent,1610612755,Philadelphia 76ers,4,11,1,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,41,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,514,0,Opponent,1610612755,Philadelphia 76ers,4,10,38,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,5,24,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,580,0,Opponent,1610612755,Philadelphia 76ers,4,7,2,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,592,0,Opponent,1610612755,Philadelphia 76ers,4,6,9,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,25,50,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,595,0,Opponent,1610612755,Philadelphia 76ers,4,5,36,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,41,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,610,0,Opponent,1610612755,Philadelphia 76ers,4,5,7,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,-17,271,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,619,0,Opponent,1610612755,Philadelphia 76ers,4,4,32,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,17,25,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,633,0,Opponent,1610612755,Philadelphia 76ers,4,3,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,161,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,659,0,Opponent,1610612755,Philadelphia 76ers,4,1,51,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,82,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,662,0,Opponent,1610612755,Philadelphia 76ers,4,1,42,Made Shot,Jump Bank Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-91,253,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,665,0,Opponent,1610612755,Philadelphia 76ers,4,1,10,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-1,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,702,0,Opponent,1610612755,Philadelphia 76ers,5,4,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,29,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,704,0,Opponent,1610612755,Philadelphia 76ers,5,4,34,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-5,267,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,707,0,Opponent,1610612755,Philadelphia 76ers,5,4,27,Made Shot,Floating Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,93,137,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,710,0,Opponent,1610612755,Philadelphia 76ers,5,3,54,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,47,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,714,0,Opponent,1610612755,Philadelphia 76ers,5,3,25,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,718,0,Opponent,1610612755,Philadelphia 76ers,5,2,45,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,24,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,726,0,Opponent,1610612755,Philadelphia 76ers,5,1,54,Missed Shot,Floating Jump shot,,Mid-Range,Center(C),16-24 ft.,16,17,166,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,741,0,Opponent,1610612755,Philadelphia 76ers,5,0,54,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,8,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300040,745,0,Opponent,1610612755,Philadelphia 76ers,5,0,23,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,22,166,1,0,20231121,PHI,CLE
+Shot Chart Detail,0022300040,747,0,Opponent,1610612755,Philadelphia 76ers,5,0,18,Made Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-81,-2,1,1,20231121,PHI,CLE
+Shot Chart Detail,0022300075,150,0,Opponent,1610612755,Philadelphia 76ers,1,0,30,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,15,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,179,0,Opponent,1610612755,Philadelphia 76ers,2,11,11,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,8,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,221,0,Opponent,1610612755,Philadelphia 76ers,2,10,47,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,101,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,190,0,Opponent,1610612755,Philadelphia 76ers,2,10,28,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,3,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300075,200,0,Opponent,1610612755,Philadelphia 76ers,2,9,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-132,209,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,203,0,Opponent,1610612755,Philadelphia 76ers,2,9,25,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-11,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300075,218,0,Opponent,1610612755,Philadelphia 76ers,2,8,47,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,227,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,220,0,Opponent,1610612755,Philadelphia 76ers,2,8,37,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,5,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300075,225,0,Opponent,1610612755,Philadelphia 76ers,2,7,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,215,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,227,0,Opponent,1610612755,Philadelphia 76ers,2,7,53,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300075,452,0,Opponent,1610612755,Philadelphia 76ers,3,5,8,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,28,-88,274,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,477,0,Opponent,1610612755,Philadelphia 76ers,3,3,45,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,192,23,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300075,481,0,Opponent,1610612755,Philadelphia 76ers,3,3,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,2,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,484,0,Opponent,1610612755,Philadelphia 76ers,3,2,44,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,126,20,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,521,0,Opponent,1610612755,Philadelphia 76ers,3,0,49,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-45,27,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,523,0,Opponent,1610612755,Philadelphia 76ers,3,0,48,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-12,28,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300075,525,0,Opponent,1610612755,Philadelphia 76ers,3,0,28,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-147,253,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,529,0,Opponent,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,15,59,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,540,0,Opponent,1610612755,Philadelphia 76ers,4,11,43,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,227,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,544,0,Opponent,1610612755,Philadelphia 76ers,4,11,24,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-80,176,1,0,20231026,MIL,PHI
+Shot Chart Detail,0022300075,551,0,Opponent,1610612755,Philadelphia 76ers,4,10,35,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20231026,MIL,PHI
+Shot Chart Detail,0022300092,87,0,Opponent,1610612755,Philadelphia 76ers,1,3,41,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,237,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,96,0,Opponent,1610612755,Philadelphia 76ers,1,3,8,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,113,0,Opponent,1610612755,Philadelphia 76ers,1,2,34,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,217,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,125,0,Opponent,1610612755,Philadelphia 76ers,1,1,34,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-18,204,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,129,0,Opponent,1610612755,Philadelphia 76ers,1,1,7,Missed Shot,Turnaround Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,133,0,Opponent,1610612755,Philadelphia 76ers,1,0,52,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,145,0,Opponent,1610612755,Philadelphia 76ers,1,0,7,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,-11,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,161,0,Opponent,1610612755,Philadelphia 76ers,2,11,26,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,154,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,173,0,Opponent,1610612755,Philadelphia 76ers,2,10,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,116,237,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,184,0,Opponent,1610612755,Philadelphia 76ers,2,9,55,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-75,258,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,186,0,Opponent,1610612755,Philadelphia 76ers,2,9,46,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-20,88,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,190,0,Opponent,1610612755,Philadelphia 76ers,2,9,33,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,29,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,200,0,Opponent,1610612755,Philadelphia 76ers,2,9,10,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,36,267,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,204,0,Opponent,1610612755,Philadelphia 76ers,2,8,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,1,37,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,229,0,Opponent,1610612755,Philadelphia 76ers,2,7,21,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,47,259,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,234,0,Opponent,1610612755,Philadelphia 76ers,2,6,56,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,157,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,405,0,Opponent,1610612755,Philadelphia 76ers,3,4,2,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,99,182,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,409,0,Opponent,1610612755,Philadelphia 76ers,3,3,36,Missed Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,25,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,413,0,Opponent,1610612755,Philadelphia 76ers,3,3,10,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-70,272,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,419,0,Opponent,1610612755,Philadelphia 76ers,3,2,51,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,-6,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,439,0,Opponent,1610612755,Philadelphia 76ers,3,1,33,Missed Shot,Floating Jump shot,,Mid-Range,Left Side(L),8-16 ft.,13,-93,101,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,445,0,Opponent,1610612755,Philadelphia 76ers,3,1,3,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,12,-123,11,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,449,0,Opponent,1610612755,Philadelphia 76ers,3,0,41,Made Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,230,1,1,20231028,TOR,PHI
+Shot Chart Detail,0022300092,451,0,Opponent,1610612755,Philadelphia 76ers,3,0,13,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-20,9,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,463,0,Opponent,1610612755,Philadelphia 76ers,4,11,45,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-31,9,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,476,0,Opponent,1610612755,Philadelphia 76ers,4,10,34,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,11,183,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300092,482,0,Opponent,1610612755,Philadelphia 76ers,4,9,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-180,67,1,0,20231028,TOR,PHI
+Shot Chart Detail,0022300098,93,0,Opponent,1610612755,Philadelphia 76ers,1,4,42,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,1,115,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,102,0,Opponent,1610612755,Philadelphia 76ers,1,4,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,208,165,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,117,0,Opponent,1610612755,Philadelphia 76ers,1,3,1,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-20,6,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,120,0,Opponent,1610612755,Philadelphia 76ers,1,2,25,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-96,254,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,124,0,Opponent,1610612755,Philadelphia 76ers,1,2,8,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-131,252,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,128,0,Opponent,1610612755,Philadelphia 76ers,1,1,40,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,139,0,Opponent,1610612755,Philadelphia 76ers,1,1,4,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,124,168,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,141,0,Opponent,1610612755,Philadelphia 76ers,1,0,33,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,-1,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,166,0,Opponent,1610612755,Philadelphia 76ers,2,11,29,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,201,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,175,0,Opponent,1610612755,Philadelphia 76ers,2,10,55,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,64,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,178,0,Opponent,1610612755,Philadelphia 76ers,2,10,48,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,452,0,Opponent,1610612755,Philadelphia 76ers,3,4,43,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,67,115,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,474,0,Opponent,1610612755,Philadelphia 76ers,3,3,23,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,22,-32,220,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,478,0,Opponent,1610612755,Philadelphia 76ers,3,2,57,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,197,174,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,481,0,Opponent,1610612755,Philadelphia 76ers,3,2,33,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-75,267,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,497,0,Opponent,1610612755,Philadelphia 76ers,3,1,59,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,216,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,503,0,Opponent,1610612755,Philadelphia 76ers,3,1,32,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,107,225,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,506,0,Opponent,1610612755,Philadelphia 76ers,3,1,7,Made Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,4,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,517,0,Opponent,1610612755,Philadelphia 76ers,3,0,34,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-66,79,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,520,0,Opponent,1610612755,Philadelphia 76ers,3,0,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,161,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,534,0,Opponent,1610612755,Philadelphia 76ers,4,11,44,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,538,0,Opponent,1610612755,Philadelphia 76ers,4,11,37,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-2,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,543,0,Opponent,1610612755,Philadelphia 76ers,4,11,20,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-4,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,551,0,Opponent,1610612755,Philadelphia 76ers,4,10,12,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-104,78,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,556,0,Opponent,1610612755,Philadelphia 76ers,4,9,55,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,8,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,560,0,Opponent,1610612755,Philadelphia 76ers,4,9,29,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,222,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,572,0,Opponent,1610612755,Philadelphia 76ers,4,8,18,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,216,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,574,0,Opponent,1610612755,Philadelphia 76ers,4,8,11,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,213,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,583,0,Opponent,1610612755,Philadelphia 76ers,4,7,51,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-53,169,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,589,0,Opponent,1610612755,Philadelphia 76ers,4,7,30,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,592,0,Opponent,1610612755,Philadelphia 76ers,4,6,47,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,-15,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,598,0,Opponent,1610612755,Philadelphia 76ers,4,6,11,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-34,1,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,621,0,Opponent,1610612755,Philadelphia 76ers,4,5,36,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20231029,PHI,POR
+Shot Chart Detail,0022300098,629,0,Opponent,1610612755,Philadelphia 76ers,4,5,2,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,641,0,Opponent,1610612755,Philadelphia 76ers,4,4,22,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,16,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,645,0,Opponent,1610612755,Philadelphia 76ers,4,4,1,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-6,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,651,0,Opponent,1610612755,Philadelphia 76ers,4,3,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,9,258,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,657,0,Opponent,1610612755,Philadelphia 76ers,4,3,34,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-214,152,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300098,665,0,Opponent,1610612755,Philadelphia 76ers,4,2,44,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,35,1,0,20231029,PHI,POR
+Shot Chart Detail,0022300128,72,0,Opponent,1610612755,Philadelphia 76ers,1,5,33,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,51,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,74,0,Opponent,1610612755,Philadelphia 76ers,1,5,29,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,55,268,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,79,0,Opponent,1610612755,Philadelphia 76ers,1,4,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,206,177,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,82,0,Opponent,1610612755,Philadelphia 76ers,1,4,20,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,19,9,199,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,91,0,Opponent,1610612755,Philadelphia 76ers,1,3,52,Missed Shot,Driving Bank Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,42,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,122,0,Opponent,1610612755,Philadelphia 76ers,1,2,37,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,64,272,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,126,0,Opponent,1610612755,Philadelphia 76ers,1,2,18,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,-65,271,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,132,0,Opponent,1610612755,Philadelphia 76ers,1,1,28,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,25,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,140,0,Opponent,1610612755,Philadelphia 76ers,1,0,58,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,48,96,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,147,0,Opponent,1610612755,Philadelphia 76ers,1,0,33,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,174,194,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,158,0,Opponent,1610612755,Philadelphia 76ers,1,0,0,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-77,61,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,173,0,Opponent,1610612755,Philadelphia 76ers,2,11,45,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,179,0,Opponent,1610612755,Philadelphia 76ers,2,11,13,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,184,0,Opponent,1610612755,Philadelphia 76ers,2,10,38,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,27,-61,264,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,192,0,Opponent,1610612755,Philadelphia 76ers,2,10,0,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-58,45,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,200,0,Opponent,1610612755,Philadelphia 76ers,2,9,39,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,48,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,202,0,Opponent,1610612755,Philadelphia 76ers,2,9,36,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,207,0,Opponent,1610612755,Philadelphia 76ers,2,9,11,Made Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,231,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,211,0,Opponent,1610612755,Philadelphia 76ers,2,8,47,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-2,77,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,395,0,Opponent,1610612755,Philadelphia 76ers,3,7,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,403,0,Opponent,1610612755,Philadelphia 76ers,3,6,37,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-129,239,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,409,0,Opponent,1610612755,Philadelphia 76ers,3,6,14,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,50,50,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,412,0,Opponent,1610612755,Philadelphia 76ers,3,5,40,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,7,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,422,0,Opponent,1610612755,Philadelphia 76ers,3,4,59,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,425,0,Opponent,1610612755,Philadelphia 76ers,3,4,22,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,32,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,429,0,Opponent,1610612755,Philadelphia 76ers,3,3,51,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,33,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,443,0,Opponent,1610612755,Philadelphia 76ers,3,3,10,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,120,100,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,456,0,Opponent,1610612755,Philadelphia 76ers,3,2,18,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-91,5,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,469,0,Opponent,1610612755,Philadelphia 76ers,3,1,50,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,31,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,473,0,Opponent,1610612755,Philadelphia 76ers,3,1,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,124,242,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,481,0,Opponent,1610612755,Philadelphia 76ers,3,1,14,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,487,0,Opponent,1610612755,Philadelphia 76ers,3,0,8,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-14,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,515,0,Opponent,1610612755,Philadelphia 76ers,4,10,45,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,246,23,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,517,0,Opponent,1610612755,Philadelphia 76ers,4,10,39,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,16,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,522,0,Opponent,1610612755,Philadelphia 76ers,4,10,14,Made Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,15,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,525,0,Opponent,1610612755,Philadelphia 76ers,4,9,54,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-222,54,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,543,0,Opponent,1610612755,Philadelphia 76ers,4,9,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,216,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,554,0,Opponent,1610612755,Philadelphia 76ers,4,8,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-152,230,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,565,0,Opponent,1610612755,Philadelphia 76ers,4,7,39,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,12,126,18,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,569,0,Opponent,1610612755,Philadelphia 76ers,4,7,11,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,573,0,Opponent,1610612755,Philadelphia 76ers,4,6,40,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,5,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,593,0,Opponent,1610612755,Philadelphia 76ers,4,5,30,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,210,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,602,0,Opponent,1610612755,Philadelphia 76ers,4,4,48,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,2,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,606,0,Opponent,1610612755,Philadelphia 76ers,4,4,11,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-222,-8,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,618,0,Opponent,1610612755,Philadelphia 76ers,4,3,18,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,59,116,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,625,0,Opponent,1610612755,Philadelphia 76ers,4,2,58,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,7,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300128,642,0,Opponent,1610612755,Philadelphia 76ers,4,2,11,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,0,20231102,PHI,TOR
+Shot Chart Detail,0022300128,649,0,Opponent,1610612755,Philadelphia 76ers,4,1,37,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,47,1,1,20231102,PHI,TOR
+Shot Chart Detail,0022300132,114,0,Opponent,1610612755,Philadelphia 76ers,1,4,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-129,249,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,116,0,Opponent,1610612755,Philadelphia 76ers,1,3,55,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,240,55,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,120,0,Opponent,1610612755,Philadelphia 76ers,1,3,24,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-110,13,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,124,0,Opponent,1610612755,Philadelphia 76ers,1,3,3,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-64,260,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,146,0,Opponent,1610612755,Philadelphia 76ers,1,1,23,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,48,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,148,0,Opponent,1610612755,Philadelphia 76ers,1,1,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,178,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,152,0,Opponent,1610612755,Philadelphia 76ers,1,0,54,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,142,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,165,0,Opponent,1610612755,Philadelphia 76ers,1,0,1,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-157,227,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,186,0,Opponent,1610612755,Philadelphia 76ers,2,11,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-22,-3,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,190,0,Opponent,1610612755,Philadelphia 76ers,2,11,8,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,196,0,Opponent,1610612755,Philadelphia 76ers,2,10,51,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,4,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,199,0,Opponent,1610612755,Philadelphia 76ers,2,10,24,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,190,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,201,0,Opponent,1610612755,Philadelphia 76ers,2,10,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,220,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,207,0,Opponent,1610612755,Philadelphia 76ers,2,9,54,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,210,0,Opponent,1610612755,Philadelphia 76ers,2,9,37,Missed Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,6,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,212,0,Opponent,1610612755,Philadelphia 76ers,2,9,26,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,28,-72,275,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,349,0,Opponent,1610612755,Philadelphia 76ers,2,0,3,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,16,31,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,448,0,Opponent,1610612755,Philadelphia 76ers,3,4,25,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-13,19,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,453,0,Opponent,1610612755,Philadelphia 76ers,3,4,6,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,219,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,459,0,Opponent,1610612755,Philadelphia 76ers,3,3,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,240,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,461,0,Opponent,1610612755,Philadelphia 76ers,3,3,23,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,-11,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,466,0,Opponent,1610612755,Philadelphia 76ers,3,3,9,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,9,-88,26,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,476,0,Opponent,1610612755,Philadelphia 76ers,3,2,46,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,24,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,485,0,Opponent,1610612755,Philadelphia 76ers,3,2,13,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,9,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,490,0,Opponent,1610612755,Philadelphia 76ers,3,1,44,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,7,111,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300132,494,0,Opponent,1610612755,Philadelphia 76ers,3,1,9,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,58,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,497,0,Opponent,1610612755,Philadelphia 76ers,3,0,31,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20231104,PHI,PHX
+Shot Chart Detail,0022300132,502,0,Opponent,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,29,141,261,1,0,20231104,PHI,PHX
+Shot Chart Detail,0022300148,111,0,Opponent,1610612755,Philadelphia 76ers,1,4,12,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,115,0,Opponent,1610612755,Philadelphia 76ers,1,3,42,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,228,111,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,119,0,Opponent,1610612755,Philadelphia 76ers,1,3,15,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-243,24,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,121,0,Opponent,1610612755,Philadelphia 76ers,1,3,9,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-75,279,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,147,0,Opponent,1610612755,Philadelphia 76ers,1,2,37,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-91,266,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,151,0,Opponent,1610612755,Philadelphia 76ers,1,2,5,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,53,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,168,0,Opponent,1610612755,Philadelphia 76ers,1,0,25,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,13,89,101,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,425,0,Opponent,1610612755,Philadelphia 76ers,3,5,4,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,39,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,428,0,Opponent,1610612755,Philadelphia 76ers,3,4,56,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,37,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,435,0,Opponent,1610612755,Philadelphia 76ers,3,4,21,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),16-24 ft.,18,-164,76,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,439,0,Opponent,1610612755,Philadelphia 76ers,3,3,52,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,-60,136,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,443,0,Opponent,1610612755,Philadelphia 76ers,3,3,31,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-156,228,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,455,0,Opponent,1610612755,Philadelphia 76ers,3,3,15,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-156,227,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,459,0,Opponent,1610612755,Philadelphia 76ers,3,2,46,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,231,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,475,0,Opponent,1610612755,Philadelphia 76ers,3,2,3,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,58,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,483,0,Opponent,1610612755,Philadelphia 76ers,3,1,44,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,230,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,487,0,Opponent,1610612755,Philadelphia 76ers,3,1,23,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-16,28,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,497,0,Opponent,1610612755,Philadelphia 76ers,3,1,3,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,38,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,501,0,Opponent,1610612755,Philadelphia 76ers,3,0,50,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,64,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,503,0,Opponent,1610612755,Philadelphia 76ers,3,0,46,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,506,0,Opponent,1610612755,Philadelphia 76ers,3,0,15,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,27,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,528,0,Opponent,1610612755,Philadelphia 76ers,4,11,45,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-15,111,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300148,537,0,Opponent,1610612755,Philadelphia 76ers,4,11,21,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,105,1,1,20231106,PHI,WAS
+Shot Chart Detail,0022300148,540,0,Opponent,1610612755,Philadelphia 76ers,4,10,58,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-23,107,1,0,20231106,PHI,WAS
+Shot Chart Detail,0022300159,81,0,Opponent,1610612755,Philadelphia 76ers,1,4,43,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,-22,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,85,0,Opponent,1610612755,Philadelphia 76ers,1,4,20,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,25,66,248,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,90,0,Opponent,1610612755,Philadelphia 76ers,1,3,52,Made Shot,Cutting Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,93,0,Opponent,1610612755,Philadelphia 76ers,1,3,17,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,241,39,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,109,0,Opponent,1610612755,Philadelphia 76ers,1,2,33,Missed Shot,Running Pull-Up Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-114,117,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,114,0,Opponent,1610612755,Philadelphia 76ers,1,2,3,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,130,0,Opponent,1610612755,Philadelphia 76ers,1,0,57,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,8,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,135,0,Opponent,1610612755,Philadelphia 76ers,1,0,41,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,238,123,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,410,0,Opponent,1610612755,Philadelphia 76ers,3,6,0,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,214,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,414,0,Opponent,1610612755,Philadelphia 76ers,3,5,23,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,20,262,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,416,0,Opponent,1610612755,Philadelphia 76ers,3,5,18,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,161,26,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,420,0,Opponent,1610612755,Philadelphia 76ers,3,4,38,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,229,72,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,422,0,Opponent,1610612755,Philadelphia 76ers,3,4,32,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,235,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,428,0,Opponent,1610612755,Philadelphia 76ers,3,3,51,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,206,171,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,444,0,Opponent,1610612755,Philadelphia 76ers,3,3,25,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,232,68,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,448,0,Opponent,1610612755,Philadelphia 76ers,3,2,44,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,127,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,450,0,Opponent,1610612755,Philadelphia 76ers,3,2,38,Missed Shot,Cutting Layup Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-107,62,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,459,0,Opponent,1610612755,Philadelphia 76ers,3,1,58,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,215,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,463,0,Opponent,1610612755,Philadelphia 76ers,3,1,12,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,103,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,465,0,Opponent,1610612755,Philadelphia 76ers,3,1,9,Missed Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,471,0,Opponent,1610612755,Philadelphia 76ers,3,0,36,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,47,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,478,0,Opponent,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,13,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,492,0,Opponent,1610612755,Philadelphia 76ers,4,11,29,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,496,0,Opponent,1610612755,Philadelphia 76ers,4,10,56,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,499,0,Opponent,1610612755,Philadelphia 76ers,4,10,13,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-5,264,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,512,0,Opponent,1610612755,Philadelphia 76ers,4,9,20,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-5,100,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300159,629,0,Opponent,1610612755,Philadelphia 76ers,4,0,33,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,243,1,1,20231108,PHI,BOS
+Shot Chart Detail,0022300159,637,0,Opponent,1610612755,Philadelphia 76ers,4,0,6,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-42,248,1,0,20231108,PHI,BOS
+Shot Chart Detail,0022300180,96,0,Opponent,1610612755,Philadelphia 76ers,1,4,28,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,100,0,Opponent,1610612755,Philadelphia 76ers,1,4,0,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,111,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,105,0,Opponent,1610612755,Philadelphia 76ers,1,3,36,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,158,223,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,116,0,Opponent,1610612755,Philadelphia 76ers,1,3,6,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,27,-11,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,122,0,Opponent,1610612755,Philadelphia 76ers,1,2,40,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,126,0,Opponent,1610612755,Philadelphia 76ers,1,2,3,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,130,0,Opponent,1610612755,Philadelphia 76ers,1,1,48,Missed Shot,Pullup Jump shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,-6,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,132,0,Opponent,1610612755,Philadelphia 76ers,1,1,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,222,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,165,0,Opponent,1610612755,Philadelphia 76ers,1,0,0,Missed Shot,Floating Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-124,249,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,446,0,Opponent,1610612755,Philadelphia 76ers,3,3,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,13,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,452,0,Opponent,1610612755,Philadelphia 76ers,3,2,49,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,53,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,467,0,Opponent,1610612755,Philadelphia 76ers,3,2,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,106,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,471,0,Opponent,1610612755,Philadelphia 76ers,3,1,46,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,28,263,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,482,0,Opponent,1610612755,Philadelphia 76ers,3,1,3,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-178,171,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,487,0,Opponent,1610612755,Philadelphia 76ers,3,0,32,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,492,0,Opponent,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,190,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,512,0,Opponent,1610612755,Philadelphia 76ers,4,11,9,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,13,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,515,0,Opponent,1610612755,Philadelphia 76ers,4,10,45,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,5,38,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,527,0,Opponent,1610612755,Philadelphia 76ers,4,9,41,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-77,272,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,531,0,Opponent,1610612755,Philadelphia 76ers,4,9,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-110,229,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,533,0,Opponent,1610612755,Philadelphia 76ers,4,8,59,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,47,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,540,0,Opponent,1610612755,Philadelphia 76ers,4,8,21,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,74,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,543,0,Opponent,1610612755,Philadelphia 76ers,4,7,51,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,17,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,547,0,Opponent,1610612755,Philadelphia 76ers,4,7,37,Missed Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,557,0,Opponent,1610612755,Philadelphia 76ers,4,7,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-234,74,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,572,0,Opponent,1610612755,Philadelphia 76ers,4,6,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,104,247,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,584,0,Opponent,1610612755,Philadelphia 76ers,4,5,37,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,120,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,587,0,Opponent,1610612755,Philadelphia 76ers,4,5,2,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,15,263,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,593,0,Opponent,1610612755,Philadelphia 76ers,4,4,26,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300180,596,0,Opponent,1610612755,Philadelphia 76ers,4,4,19,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-29,251,1,1,20231112,PHI,IND
+Shot Chart Detail,0022300180,601,0,Opponent,1610612755,Philadelphia 76ers,4,3,40,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,183,1,0,20231112,PHI,IND
+Shot Chart Detail,0022300194,83,0,Opponent,1610612755,Philadelphia 76ers,1,4,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,-17,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,87,0,Opponent,1610612755,Philadelphia 76ers,1,4,15,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-65,265,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,89,0,Opponent,1610612755,Philadelphia 76ers,1,4,11,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,34,263,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,93,0,Opponent,1610612755,Philadelphia 76ers,1,3,26,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,36,4,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,97,0,Opponent,1610612755,Philadelphia 76ers,1,3,17,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,113,0,Opponent,1610612755,Philadelphia 76ers,1,2,37,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-158,236,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,117,0,Opponent,1610612755,Philadelphia 76ers,1,2,19,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,15,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,120,0,Opponent,1610612755,Philadelphia 76ers,1,1,43,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,65,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,132,0,Opponent,1610612755,Philadelphia 76ers,1,1,16,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-186,195,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,136,0,Opponent,1610612755,Philadelphia 76ers,1,0,52,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,199,168,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,140,0,Opponent,1610612755,Philadelphia 76ers,1,0,32,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,220,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,142,0,Opponent,1610612755,Philadelphia 76ers,1,0,28,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,377,0,Opponent,1610612755,Philadelphia 76ers,3,3,50,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,24,42,241,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,382,0,Opponent,1610612755,Philadelphia 76ers,3,3,20,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,32,257,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,392,0,Opponent,1610612755,Philadelphia 76ers,3,2,57,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-121,224,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,396,0,Opponent,1610612755,Philadelphia 76ers,3,2,25,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,408,0,Opponent,1610612755,Philadelphia 76ers,3,1,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,237,48,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300194,416,0,Opponent,1610612755,Philadelphia 76ers,3,1,17,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,17,1,1,20231115,PHI,BOS
+Shot Chart Detail,0022300194,420,0,Opponent,1610612755,Philadelphia 76ers,3,0,32,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-9,260,1,0,20231115,PHI,BOS
+Shot Chart Detail,0022300208,120,0,Opponent,1610612755,Philadelphia 76ers,1,2,50,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,85,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,125,0,Opponent,1610612755,Philadelphia 76ers,1,2,32,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,5,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,129,0,Opponent,1610612755,Philadelphia 76ers,1,1,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,204,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,133,0,Opponent,1610612755,Philadelphia 76ers,1,1,31,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,113,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,135,0,Opponent,1610612755,Philadelphia 76ers,1,1,24,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,142,0,Opponent,1610612755,Philadelphia 76ers,1,0,41,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,12,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,145,0,Opponent,1610612755,Philadelphia 76ers,1,0,34,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,72,258,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,149,0,Opponent,1610612755,Philadelphia 76ers,1,0,1,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-20,258,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,432,0,Opponent,1610612755,Philadelphia 76ers,3,2,21,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,25,110,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,444,0,Opponent,1610612755,Philadelphia 76ers,3,1,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,36,6,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,451,0,Opponent,1610612755,Philadelphia 76ers,3,1,10,Made Shot,Floating Jump shot,,Mid-Range,Right Side(R),8-16 ft.,11,89,80,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,457,0,Opponent,1610612755,Philadelphia 76ers,3,0,30,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,38,151,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,460,0,Opponent,1610612755,Philadelphia 76ers,3,0,6,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,584,0,Opponent,1610612755,Philadelphia 76ers,4,3,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-2,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,588,0,Opponent,1610612755,Philadelphia 76ers,4,3,24,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,235,51,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,599,0,Opponent,1610612755,Philadelphia 76ers,4,2,40,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,606,0,Opponent,1610612755,Philadelphia 76ers,4,1,55,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,620,0,Opponent,1610612755,Philadelphia 76ers,4,1,1,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,46,1,0,20231119,BKN,PHI
+Shot Chart Detail,0022300208,622,0,Opponent,1610612755,Philadelphia 76ers,4,1,1,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,20231119,BKN,PHI
+Shot Chart Detail,0022300208,625,0,Opponent,1610612755,Philadelphia 76ers,4,0,42,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,224,1,0,20231119,BKN,PHI
 Shot Chart Detail,0022300232,98,0,Opponent,1610612755,Philadelphia 76ers,1,5,15,Made Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,32,1,1,20231122,MIN,PHI
 Shot Chart Detail,0022300232,104,0,Opponent,1610612755,Philadelphia 76ers,1,4,55,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20231122,MIN,PHI
 Shot Chart Detail,0022300232,109,0,Opponent,1610612755,Philadelphia 76ers,1,4,26,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20231122,MIN,PHI
