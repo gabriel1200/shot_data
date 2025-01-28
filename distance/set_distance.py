@@ -7,7 +7,7 @@
 import os
 import pandas as pd
 # Define the base path and the range of years
-base_path = 'team/'
+base_path = '../team/'
 start_year = 2025
 end_year = 2025
 frames = []
@@ -15,6 +15,7 @@ frames = []
 for year in range(start_year, end_year + 1):
     # Construct the path for the current year
     year_path = os.path.join(base_path, str(year))
+    print(year_path)
     
     # Check if the directory exists
     if os.path.isdir(year_path):
