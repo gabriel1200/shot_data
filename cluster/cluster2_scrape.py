@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[5]:
 
 
 import pandas as pd
@@ -510,7 +510,7 @@ for year in range (df['year'].min(),df['year'].max()+1):
     print('Year Saved')
 
 
-# In[2]:
+# In[ ]:
 
 
 #!/usr/bin/env python
@@ -524,7 +524,7 @@ def save_cluster_data(year):
     
     season=str(year-1)+'-'+str(year)[-2:]
     print(season)
-    testdf = df[(df.MPG > 12) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
+    testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
     print(testdf)
     
     features = [x for x in df.columns if (x != 'PLAYER_NAME') &  (x != 'POSITION') & (x != 'SEASON')]
@@ -643,7 +643,7 @@ def save_cluster_data(year):
     # In[4]:
     
     # Filter the DataFrame
-    testdf = df[(df.MPG > 12) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
+    testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
     
     # Select features for clustering
     features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
