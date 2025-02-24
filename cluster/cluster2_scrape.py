@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[4]:
 
 
 import pandas as pd
@@ -510,7 +510,7 @@ for year in range (df['year'].min(),df['year'].max()+1):
     print('Year Saved')
 
 
-# In[ ]:
+# In[5]:
 
 
 #!/usr/bin/env python
@@ -531,8 +531,11 @@ def save_cluster_data(year):
     
     x = testdf.loc[:, features].values
     y = testdf.loc[:,['PLAYER_NAME']].values
-    
+    x = np.where(np.isinf(x), np.nan, x)  # Replace inf with NaN
+    x = np.nan_to_num(x)
+
     x = StandardScaler().fit_transform(x) # standardize all values
+    
     
     pca = PCA(n_components=0.99)
     principalComponents = pca.fit_transform(x)
@@ -650,6 +653,8 @@ def save_cluster_data(year):
     
     # Standardize the data
     x = testdf.loc[:, features].values
+    x = np.where(np.isinf(x), np.nan, x)  # Replace inf with NaN
+    x = np.nan_to_num(x)
     x = StandardScaler().fit_transform(x)
     
     # Perform PCA to reduce dimensionality
