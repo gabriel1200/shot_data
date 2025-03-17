@@ -1,0 +1,36 @@
+name: Daily Scrape
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # Runs daily at 6 AM UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install notebook nbconvert
+
+      - name: Convert Notebooks to Python Scripts
+        run: |
+          jupyter nbconvert --to script get_min.ipynb
+          jupyter nbconvert --to script cluster/cluster2_scrape.ipynb
+          jupyter nbconvert --to script roles.ipynb
+
+      - name: Run Python Scripts
+        run: |
+          python get_min.py
+          python cluster/cluster2_scrape.py
+          python distance/set_distance.py
+          python roles.py
