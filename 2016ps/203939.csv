@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500161,84,203939,Dwight Powell,1610612742,Dallas Mavericks,1,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,158,101,1,0,20160416,OKC,DAL
-Shot Chart Detail,0041500161,89,203939,Dwight Powell,1610612742,Dallas Mavericks,1,3,18,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,0,20160416,OKC,DAL
-Shot Chart Detail,0041500161,411,203939,Dwight Powell,1610612742,Dallas Mavericks,3,3,20,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160416,OKC,DAL
-Shot Chart Detail,0041500161,440,203939,Dwight Powell,1610612742,Dallas Mavericks,3,0,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20160416,OKC,DAL
-Shot Chart Detail,0041500161,452,203939,Dwight Powell,1610612742,Dallas Mavericks,4,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,136,1,0,20160416,OKC,DAL
-Shot Chart Detail,0041500161,464,203939,Dwight Powell,1610612742,Dallas Mavericks,4,9,56,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-145,110,1,0,20160416,OKC,DAL
-Shot Chart Detail,0041500161,509,203939,Dwight Powell,1610612742,Dallas Mavericks,4,6,24,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160416,OKC,DAL
-Shot Chart Detail,0041500161,572,203939,Dwight Powell,1610612742,Dallas Mavericks,4,0,33,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160416,OKC,DAL
-Shot Chart Detail,0041500162,189,203939,Dwight Powell,1610612742,Dallas Mavericks,2,6,24,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20160418,OKC,DAL
-Shot Chart Detail,0041500162,202,203939,Dwight Powell,1610612742,Dallas Mavericks,2,4,56,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,18,1,0,20160418,OKC,DAL
-Shot Chart Detail,0041500162,344,203939,Dwight Powell,1610612742,Dallas Mavericks,3,4,14,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20160418,OKC,DAL
-Shot Chart Detail,0041500163,583,203939,Dwight Powell,1610612742,Dallas Mavericks,4,1,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,116,1,0,20160421,DAL,OKC
-Shot Chart Detail,0041500165,75,203939,Dwight Powell,1610612742,Dallas Mavericks,1,4,4,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,0,20160425,OKC,DAL
-Shot Chart Detail,0041500165,118,203939,Dwight Powell,1610612742,Dallas Mavericks,1,1,37,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,2,1,1,20160425,OKC,DAL
-Shot Chart Detail,0041500165,144,203939,Dwight Powell,1610612742,Dallas Mavericks,2,11,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160425,OKC,DAL
-Shot Chart Detail,0041500165,228,203939,Dwight Powell,1610612742,Dallas Mavericks,2,4,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20160425,OKC,DAL
-Shot Chart Detail,0041500165,375,203939,Dwight Powell,1610612742,Dallas Mavericks,3,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,121,1,1,20160425,OKC,DAL
-Shot Chart Detail,0041500165,421,203939,Dwight Powell,1610612742,Dallas Mavericks,4,11,28,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160425,OKC,DAL
-Shot Chart Detail,0041500165,445,203939,Dwight Powell,1610612742,Dallas Mavericks,4,9,8,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20160425,OKC,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500161,84,203939,Dwight Powell,1610612742,Dallas Mavericks,1,3,57,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,158,101,1,0,20160416,0,OKC,DAL
+Shot Chart Detail,41500161,89,203939,Dwight Powell,1610612742,Dallas Mavericks,1,3,18,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,0,20160416,0,OKC,DAL
+Shot Chart Detail,41500161,411,203939,Dwight Powell,1610612742,Dallas Mavericks,3,3,20,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160416,1,OKC,DAL
+Shot Chart Detail,41500161,440,203939,Dwight Powell,1610612742,Dallas Mavericks,3,0,45,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20160416,1,OKC,DAL
+Shot Chart Detail,41500161,452,203939,Dwight Powell,1610612742,Dallas Mavericks,4,11,26,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,136,1,0,20160416,0,OKC,DAL
+Shot Chart Detail,41500161,464,203939,Dwight Powell,1610612742,Dallas Mavericks,4,9,56,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-145,110,1,0,20160416,0,OKC,DAL
+Shot Chart Detail,41500161,509,203939,Dwight Powell,1610612742,Dallas Mavericks,4,6,24,Missed Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20160416,0,OKC,DAL
+Shot Chart Detail,41500161,572,203939,Dwight Powell,1610612742,Dallas Mavericks,4,0,33,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160416,1,OKC,DAL
+Shot Chart Detail,41500162,189,203939,Dwight Powell,1610612742,Dallas Mavericks,2,6,24,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20160418,0,OKC,DAL
+Shot Chart Detail,41500162,202,203939,Dwight Powell,1610612742,Dallas Mavericks,2,4,56,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,18,1,0,20160418,0,OKC,DAL
+Shot Chart Detail,41500162,344,203939,Dwight Powell,1610612742,Dallas Mavericks,3,4,14,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20160418,0,OKC,DAL
+Shot Chart Detail,41500163,583,203939,Dwight Powell,1610612742,Dallas Mavericks,4,1,49,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,116,1,0,20160421,0,DAL,OKC
+Shot Chart Detail,41500165,75,203939,Dwight Powell,1610612742,Dallas Mavericks,1,4,4,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,0,20160425,0,OKC,DAL
+Shot Chart Detail,41500165,118,203939,Dwight Powell,1610612742,Dallas Mavericks,1,1,37,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,2,1,1,20160425,0,OKC,DAL
+Shot Chart Detail,41500165,144,203939,Dwight Powell,1610612742,Dallas Mavericks,2,11,32,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160425,0,OKC,DAL
+Shot Chart Detail,41500165,228,203939,Dwight Powell,1610612742,Dallas Mavericks,2,4,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20160425,1,OKC,DAL
+Shot Chart Detail,41500165,375,203939,Dwight Powell,1610612742,Dallas Mavericks,3,4,1,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,121,1,1,20160425,1,OKC,DAL
+Shot Chart Detail,41500165,421,203939,Dwight Powell,1610612742,Dallas Mavericks,4,11,28,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160425,1,OKC,DAL
+Shot Chart Detail,41500165,445,203939,Dwight Powell,1610612742,Dallas Mavericks,4,9,8,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20160425,1,OKC,DAL

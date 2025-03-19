@@ -1,237 +1,119 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020100010,157,146,Jud Buechler,1610612756,Phoenix Suns,2,8,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,0,20011030,PHX,DEN
-Shot Chart Detail,0020100061,126,146,Jud Buechler,1610612756,Phoenix Suns,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,19,1,0,20011106,PHX,MEM
-Shot Chart Detail,0020100061,135,146,Jud Buechler,1610612756,Phoenix Suns,2,8,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-13,1,0,20011106,PHX,MEM
-Shot Chart Detail,0020100076,433,146,Jud Buechler,1610612756,Phoenix Suns,4,4,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,198,1,0,20011108,PHX,ATL
-Shot Chart Detail,0020100076,459,146,Jud Buechler,1610612756,Phoenix Suns,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,57,1,1,20011108,PHX,ATL
-Shot Chart Detail,0020100113,171,146,Jud Buechler,1610612756,Phoenix Suns,2,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,219,1,1,20011114,PHX,ORL
-Shot Chart Detail,0020100158,249,146,Jud Buechler,1610612753,Orlando Magic,2,0,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,-36,1,1,20011121,ORL,MIN
-Shot Chart Detail,0020100171,417,146,Jud Buechler,1610612753,Orlando Magic,4,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011123,CHH,ORL
-Shot Chart Detail,0020100181,182,146,Jud Buechler,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,133,1,0,20011124,ORL,CHH
-Shot Chart Detail,0020100181,184,146,Jud Buechler,1610612753,Orlando Magic,2,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,253,1,1,20011124,ORL,CHH
-Shot Chart Detail,0020100181,428,146,Jud Buechler,1610612753,Orlando Magic,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20011124,ORL,CHH
-Shot Chart Detail,0020100194,150,146,Jud Buechler,1610612753,Orlando Magic,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,236,1,1,20011126,ORL,DET
-Shot Chart Detail,0020100215,95,146,Jud Buechler,1610612753,Orlando Magic,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,40,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,106,146,Jud Buechler,1610612753,Orlando Magic,1,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011129,ORL,BOS
-Shot Chart Detail,0020100215,122,146,Jud Buechler,1610612753,Orlando Magic,2,11,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,152,146,Jud Buechler,1610612753,Orlando Magic,2,9,29,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011129,ORL,BOS
-Shot Chart Detail,0020100215,245,146,Jud Buechler,1610612753,Orlando Magic,2,1,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,51,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,267,146,Jud Buechler,1610612753,Orlando Magic,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,47,-8,477,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,291,146,Jud Buechler,1610612753,Orlando Magic,3,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,226,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,344,146,Jud Buechler,1610612753,Orlando Magic,3,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-193,177,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,358,146,Jud Buechler,1610612753,Orlando Magic,3,1,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,47,1,1,20011129,ORL,BOS
-Shot Chart Detail,0020100228,314,146,Jud Buechler,1610612753,Orlando Magic,3,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,228,1,0,20011201,WAS,ORL
-Shot Chart Detail,0020100228,422,146,Jud Buechler,1610612753,Orlando Magic,4,6,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-29,1,0,20011201,WAS,ORL
-Shot Chart Detail,0020100228,452,146,Jud Buechler,1610612753,Orlando Magic,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,199,-29,1,0,20011201,WAS,ORL
-Shot Chart Detail,0020100243,376,146,Jud Buechler,1610612753,Orlando Magic,4,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,17,1,0,20011203,ORL,MEM
-Shot Chart Detail,0020100243,466,146,Jud Buechler,1610612753,Orlando Magic,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,0,20011203,ORL,MEM
-Shot Chart Detail,0020100255,168,146,Jud Buechler,1610612753,Orlando Magic,2,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,230,1,0,20011205,ORL,CHI
-Shot Chart Detail,0020100255,415,146,Jud Buechler,1610612753,Orlando Magic,4,1,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011205,ORL,CHI
-Shot Chart Detail,0020100269,120,146,Jud Buechler,1610612753,Orlando Magic,2,11,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,1,20011207,ORL,ATL
-Shot Chart Detail,0020100269,406,146,Jud Buechler,1610612753,Orlando Magic,4,8,36,Made Shot,Jump Shot,3PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011207,ORL,ATL
-Shot Chart Detail,0020100269,485,146,Jud Buechler,1610612753,Orlando Magic,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011207,ORL,ATL
-Shot Chart Detail,0020100275,138,146,Jud Buechler,1610612753,Orlando Magic,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,1,20011208,ATL,ORL
-Shot Chart Detail,0020100275,149,146,Jud Buechler,1610612753,Orlando Magic,2,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-206,150,1,1,20011208,ATL,ORL
-Shot Chart Detail,0020100275,165,146,Jud Buechler,1610612753,Orlando Magic,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,11,1,0,20011208,ATL,ORL
-Shot Chart Detail,0020100275,391,146,Jud Buechler,1610612753,Orlando Magic,3,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,1,20011208,ATL,ORL
-Shot Chart Detail,0020100290,345,146,Jud Buechler,1610612753,Orlando Magic,4,10,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,188,1,0,20011210,LAC,ORL
-Shot Chart Detail,0020100300,172,146,Jud Buechler,1610612753,Orlando Magic,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,1,20011211,SAC,ORL
-Shot Chart Detail,0020100300,356,146,Jud Buechler,1610612753,Orlando Magic,4,9,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-2,1,0,20011211,SAC,ORL
-Shot Chart Detail,0020100312,129,146,Jud Buechler,1610612753,Orlando Magic,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,150,139,1,0,20011213,GSW,ORL
-Shot Chart Detail,0020100312,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-23,1,0,20011213,GSW,ORL
-Shot Chart Detail,0020100312,378,146,Jud Buechler,1610612753,Orlando Magic,4,10,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-17,1,1,20011213,GSW,ORL
-Shot Chart Detail,0020100312,384,146,Jud Buechler,1610612753,Orlando Magic,4,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,181,1,0,20011213,GSW,ORL
-Shot Chart Detail,0020100335,134,146,Jud Buechler,1610612753,Orlando Magic,2,10,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,0,20011216,SEA,ORL
-Shot Chart Detail,0020100335,185,146,Jud Buechler,1610612753,Orlando Magic,2,4,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,4,1,0,20011216,SEA,ORL
-Shot Chart Detail,0020100335,189,146,Jud Buechler,1610612753,Orlando Magic,2,4,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,21,1,1,20011216,SEA,ORL
-Shot Chart Detail,0020100335,201,146,Jud Buechler,1610612753,Orlando Magic,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,21,1,1,20011216,SEA,ORL
-Shot Chart Detail,0020100335,286,146,Jud Buechler,1610612753,Orlando Magic,3,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011216,SEA,ORL
-Shot Chart Detail,0020100335,355,146,Jud Buechler,1610612753,Orlando Magic,4,10,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,0,20011216,SEA,ORL
-Shot Chart Detail,0020100352,363,146,Jud Buechler,1610612753,Orlando Magic,4,9,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-29,1,1,20011219,ORL,UTA
-Shot Chart Detail,0020100352,368,146,Jud Buechler,1610612753,Orlando Magic,4,9,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,171,1,0,20011219,ORL,UTA
-Shot Chart Detail,0020100364,388,146,Jud Buechler,1610612753,Orlando Magic,3,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,144,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,416,146,Jud Buechler,1610612753,Orlando Magic,4,9,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-23,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,418,146,Jud Buechler,1610612753,Orlando Magic,4,9,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-23,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,447,146,Jud Buechler,1610612753,Orlando Magic,4,6,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,177,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,449,146,Jud Buechler,1610612753,Orlando Magic,4,6,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,461,146,Jud Buechler,1610612753,Orlando Magic,4,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,112,1,1,20011221,ORL,WAS
-Shot Chart Detail,0020100364,500,146,Jud Buechler,1610612753,Orlando Magic,4,0,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011221,ORL,WAS
-Shot Chart Detail,0020100376,108,146,Jud Buechler,1610612753,Orlando Magic,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,0,1,0,20011222,DAL,ORL
-Shot Chart Detail,0020100376,459,146,Jud Buechler,1610612753,Orlando Magic,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,15,1,0,20011222,DAL,ORL
-Shot Chart Detail,0020100407,224,146,Jud Buechler,1610612753,Orlando Magic,2,1,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,226,1,0,20011228,ORL,DET
-Shot Chart Detail,0020100425,133,146,Jud Buechler,1610612753,Orlando Magic,2,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,9,1,1,20011230,NYK,ORL
-Shot Chart Detail,0020100425,152,146,Jud Buechler,1610612753,Orlando Magic,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-4,1,0,20011230,NYK,ORL
-Shot Chart Detail,0020100434,353,146,Jud Buechler,1610612753,Orlando Magic,4,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-155,146,1,0,20020102,BOS,ORL
-Shot Chart Detail,0020100434,379,146,Jud Buechler,1610612753,Orlando Magic,4,7,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,7,1,1,20020102,BOS,ORL
-Shot Chart Detail,0020100434,450,146,Jud Buechler,1610612753,Orlando Magic,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,2,1,1,20020102,BOS,ORL
-Shot Chart Detail,0020100475,159,146,Jud Buechler,1610612753,Orlando Magic,2,6,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020107,ORL,BOS
-Shot Chart Detail,0020100504,97,146,Jud Buechler,1610612753,Orlando Magic,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,137,1,0,20020111,ORL,POR
-Shot Chart Detail,0020100512,101,146,Jud Buechler,1610612753,Orlando Magic,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,99,1,0,20020112,ORL,NJN
-Shot Chart Detail,0020100523,377,146,Jud Buechler,1610612753,Orlando Magic,4,10,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,72,1,0,20020114,ORL,DAL
-Shot Chart Detail,0020100523,419,146,Jud Buechler,1610612753,Orlando Magic,4,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,7,1,1,20020114,ORL,DAL
-Shot Chart Detail,0020100523,460,146,Jud Buechler,1610612753,Orlando Magic,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,7,1,0,20020114,ORL,DAL
-Shot Chart Detail,0020100523,472,146,Jud Buechler,1610612753,Orlando Magic,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,78,1,0,20020114,ORL,DAL
-Shot Chart Detail,0020100552,343,146,Jud Buechler,1610612753,Orlando Magic,4,10,26,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020118,MIL,ORL
-Shot Chart Detail,0020100566,129,146,Jud Buechler,1610612753,Orlando Magic,2,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,207,1,1,20020119,MEM,ORL
-Shot Chart Detail,0020100566,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,28,1,0,20020119,MEM,ORL
-Shot Chart Detail,0020100566,141,146,Jud Buechler,1610612753,Orlando Magic,2,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,186,1,1,20020119,MEM,ORL
-Shot Chart Detail,0020100566,143,146,Jud Buechler,1610612753,Orlando Magic,2,8,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20020119,MEM,ORL
-Shot Chart Detail,0020100566,453,146,Jud Buechler,1610612753,Orlando Magic,4,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-170,63,1,0,20020119,MEM,ORL
-Shot Chart Detail,0020100583,102,146,Jud Buechler,1610612753,Orlando Magic,2,10,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,0,20020122,ORL,ATL
-Shot Chart Detail,0020100583,136,146,Jud Buechler,1610612753,Orlando Magic,2,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,61,1,0,20020122,ORL,ATL
-Shot Chart Detail,0020100583,335,146,Jud Buechler,1610612753,Orlando Magic,4,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,137,1,0,20020122,ORL,ATL
-Shot Chart Detail,0020100583,389,146,Jud Buechler,1610612753,Orlando Magic,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,93,1,1,20020122,ORL,ATL
-Shot Chart Detail,0020100639,137,146,Jud Buechler,1610612753,Orlando Magic,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-19,1,0,20020130,ORL,LAL
-Shot Chart Detail,0020100652,125,146,Jud Buechler,1610612753,Orlando Magic,2,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,11,1,1,20020201,DET,ORL
-Shot Chart Detail,0020100652,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,154,1,0,20020201,DET,ORL
-Shot Chart Detail,0020100679,130,146,Jud Buechler,1610612753,Orlando Magic,2,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,0,1,1,20020205,ORL,CLE
-Shot Chart Detail,0020100679,219,146,Jud Buechler,1610612753,Orlando Magic,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020205,ORL,CLE
-Shot Chart Detail,0020100702,104,146,Jud Buechler,1610612753,Orlando Magic,2,10,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,ORL,NYK
-Shot Chart Detail,0020100711,134,146,Jud Buechler,1610612753,Orlando Magic,2,9,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,70,228,1,0,20020213,MIA,ORL
-Shot Chart Detail,0020100769,393,146,Jud Buechler,1610612753,Orlando Magic,4,8,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-19,1,0,20020221,ORL,LAC
-Shot Chart Detail,0020100769,411,146,Jud Buechler,1610612753,Orlando Magic,4,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-202,99,1,1,20020221,ORL,LAC
-Shot Chart Detail,0020100769,422,146,Jud Buechler,1610612753,Orlando Magic,4,6,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-2,1,1,20020221,ORL,LAC
-Shot Chart Detail,0020100769,456,146,Jud Buechler,1610612753,Orlando Magic,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,153,133,1,0,20020221,ORL,LAC
-Shot Chart Detail,0020100769,480,146,Jud Buechler,1610612753,Orlando Magic,4,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020221,ORL,LAC
-Shot Chart Detail,0020100782,369,146,Jud Buechler,1610612753,Orlando Magic,4,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020223,ORL,PHI
-Shot Chart Detail,0020100782,376,146,Jud Buechler,1610612753,Orlando Magic,4,9,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-19,1,1,20020223,ORL,PHI
-Shot Chart Detail,0020100782,472,146,Jud Buechler,1610612753,Orlando Magic,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,181,1,1,20020223,ORL,PHI
-Shot Chart Detail,0020100794,17,146,Jud Buechler,1610612753,Orlando Magic,1,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20020224,CLE,ORL
-Shot Chart Detail,0020100794,20,146,Jud Buechler,1610612753,Orlando Magic,1,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-15,1,0,20020224,CLE,ORL
-Shot Chart Detail,0020100804,126,146,Jud Buechler,1610612753,Orlando Magic,2,8,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,7,1,0,20020226,CHI,ORL
-Shot Chart Detail,0020100804,333,146,Jud Buechler,1610612753,Orlando Magic,4,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,42,1,1,20020226,CHI,ORL
-Shot Chart Detail,0020100804,359,146,Jud Buechler,1610612753,Orlando Magic,4,8,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,13,1,0,20020226,CHI,ORL
-Shot Chart Detail,0020100862,363,146,Jud Buechler,1610612753,Orlando Magic,3,1,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,42,1,0,20020306,BOS,ORL
-Shot Chart Detail,0020100862,403,146,Jud Buechler,1610612753,Orlando Magic,4,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,30,1,1,20020306,BOS,ORL
-Shot Chart Detail,0020100862,504,146,Jud Buechler,1610612753,Orlando Magic,4,0,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,0,20020306,BOS,ORL
-Shot Chart Detail,0020100916,155,146,Jud Buechler,1610612753,Orlando Magic,2,6,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020313,ORL,PHX
-Shot Chart Detail,0020100928,175,146,Jud Buechler,1610612753,Orlando Magic,2,7,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,ORL,DEN
-Shot Chart Detail,0020100928,333,146,Jud Buechler,1610612753,Orlando Magic,3,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,226,1,0,20020315,ORL,DEN
-Shot Chart Detail,0020100928,504,146,Jud Buechler,1610612753,Orlando Magic,4,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,55,1,0,20020315,ORL,DEN
-Shot Chart Detail,0020100958,141,146,Jud Buechler,1610612753,Orlando Magic,2,10,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020319,ORL,MIL
-Shot Chart Detail,0020100996,74,146,Jud Buechler,1610612753,Orlando Magic,1,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-216,-6,1,0,20020324,MIL,ORL
-Shot Chart Detail,0020100996,448,146,Jud Buechler,1610612753,Orlando Magic,4,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-8,1,0,20020324,MIL,ORL
-Shot Chart Detail,0020100996,485,146,Jud Buechler,1610612753,Orlando Magic,4,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,186,1,0,20020324,MIL,ORL
-Shot Chart Detail,0020101169,401,146,Jud Buechler,1610612753,Orlando Magic,4,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,97,1,0,20020416,ATL,ORL
-Shot Chart Detail,0020101169,461,146,Jud Buechler,1610612753,Orlando Magic,4,6,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,0,20020416,ATL,ORL
-Shot Chart Detail,0020101180,33,146,Jud Buechler,1610612753,Orlando Magic,1,6,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-19,1,0,20020417,ORL,MIA
-Shot Chart Detail,0020101180,247,146,Jud Buechler,1610612753,Orlando Magic,3,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,-19,1,1,20020417,ORL,MIA
-Shot Chart Detail,0020101180,432,146,Jud Buechler,1610612753,Orlando Magic,4,1,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-8,1,0,20020417,ORL,MIA
-Shot Chart Detail,0020100010,157,146,Jud Buechler,1610612756,Phoenix Suns,2,8,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,0,20011030,PHX,DEN
-Shot Chart Detail,0020100061,126,146,Jud Buechler,1610612756,Phoenix Suns,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,19,1,0,20011106,PHX,MEM
-Shot Chart Detail,0020100061,135,146,Jud Buechler,1610612756,Phoenix Suns,2,8,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-13,1,0,20011106,PHX,MEM
-Shot Chart Detail,0020100076,433,146,Jud Buechler,1610612756,Phoenix Suns,4,4,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,198,1,0,20011108,PHX,ATL
-Shot Chart Detail,0020100076,459,146,Jud Buechler,1610612756,Phoenix Suns,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,57,1,1,20011108,PHX,ATL
-Shot Chart Detail,0020100113,171,146,Jud Buechler,1610612756,Phoenix Suns,2,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,219,1,1,20011114,PHX,ORL
-Shot Chart Detail,0020100158,249,146,Jud Buechler,1610612753,Orlando Magic,2,0,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,-36,1,1,20011121,ORL,MIN
-Shot Chart Detail,0020100171,417,146,Jud Buechler,1610612753,Orlando Magic,4,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011123,CHH,ORL
-Shot Chart Detail,0020100181,182,146,Jud Buechler,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,133,1,0,20011124,ORL,CHH
-Shot Chart Detail,0020100181,184,146,Jud Buechler,1610612753,Orlando Magic,2,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,253,1,1,20011124,ORL,CHH
-Shot Chart Detail,0020100181,428,146,Jud Buechler,1610612753,Orlando Magic,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20011124,ORL,CHH
-Shot Chart Detail,0020100194,150,146,Jud Buechler,1610612753,Orlando Magic,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,236,1,1,20011126,ORL,DET
-Shot Chart Detail,0020100215,95,146,Jud Buechler,1610612753,Orlando Magic,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,40,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,106,146,Jud Buechler,1610612753,Orlando Magic,1,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011129,ORL,BOS
-Shot Chart Detail,0020100215,122,146,Jud Buechler,1610612753,Orlando Magic,2,11,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,152,146,Jud Buechler,1610612753,Orlando Magic,2,9,29,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011129,ORL,BOS
-Shot Chart Detail,0020100215,245,146,Jud Buechler,1610612753,Orlando Magic,2,1,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,51,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,267,146,Jud Buechler,1610612753,Orlando Magic,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,47,-8,477,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,291,146,Jud Buechler,1610612753,Orlando Magic,3,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,226,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,344,146,Jud Buechler,1610612753,Orlando Magic,3,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-193,177,1,0,20011129,ORL,BOS
-Shot Chart Detail,0020100215,358,146,Jud Buechler,1610612753,Orlando Magic,3,1,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,47,1,1,20011129,ORL,BOS
-Shot Chart Detail,0020100228,314,146,Jud Buechler,1610612753,Orlando Magic,3,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,228,1,0,20011201,WAS,ORL
-Shot Chart Detail,0020100228,422,146,Jud Buechler,1610612753,Orlando Magic,4,6,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-29,1,0,20011201,WAS,ORL
-Shot Chart Detail,0020100228,452,146,Jud Buechler,1610612753,Orlando Magic,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,199,-29,1,0,20011201,WAS,ORL
-Shot Chart Detail,0020100243,376,146,Jud Buechler,1610612753,Orlando Magic,4,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,17,1,0,20011203,ORL,MEM
-Shot Chart Detail,0020100243,466,146,Jud Buechler,1610612753,Orlando Magic,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,0,20011203,ORL,MEM
-Shot Chart Detail,0020100255,168,146,Jud Buechler,1610612753,Orlando Magic,2,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,230,1,0,20011205,ORL,CHI
-Shot Chart Detail,0020100255,415,146,Jud Buechler,1610612753,Orlando Magic,4,1,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011205,ORL,CHI
-Shot Chart Detail,0020100269,120,146,Jud Buechler,1610612753,Orlando Magic,2,11,8,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,1,20011207,ORL,ATL
-Shot Chart Detail,0020100269,406,146,Jud Buechler,1610612753,Orlando Magic,4,8,36,Made Shot,Jump Shot,3PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011207,ORL,ATL
-Shot Chart Detail,0020100269,485,146,Jud Buechler,1610612753,Orlando Magic,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011207,ORL,ATL
-Shot Chart Detail,0020100275,138,146,Jud Buechler,1610612753,Orlando Magic,2,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,1,20011208,ATL,ORL
-Shot Chart Detail,0020100275,149,146,Jud Buechler,1610612753,Orlando Magic,2,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-206,150,1,1,20011208,ATL,ORL
-Shot Chart Detail,0020100275,165,146,Jud Buechler,1610612753,Orlando Magic,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,11,1,0,20011208,ATL,ORL
-Shot Chart Detail,0020100275,391,146,Jud Buechler,1610612753,Orlando Magic,3,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,1,20011208,ATL,ORL
-Shot Chart Detail,0020100290,345,146,Jud Buechler,1610612753,Orlando Magic,4,10,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,188,1,0,20011210,LAC,ORL
-Shot Chart Detail,0020100300,172,146,Jud Buechler,1610612753,Orlando Magic,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,1,20011211,SAC,ORL
-Shot Chart Detail,0020100300,356,146,Jud Buechler,1610612753,Orlando Magic,4,9,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-2,1,0,20011211,SAC,ORL
-Shot Chart Detail,0020100312,129,146,Jud Buechler,1610612753,Orlando Magic,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,150,139,1,0,20011213,GSW,ORL
-Shot Chart Detail,0020100312,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-23,1,0,20011213,GSW,ORL
-Shot Chart Detail,0020100312,378,146,Jud Buechler,1610612753,Orlando Magic,4,10,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-17,1,1,20011213,GSW,ORL
-Shot Chart Detail,0020100312,384,146,Jud Buechler,1610612753,Orlando Magic,4,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,181,1,0,20011213,GSW,ORL
-Shot Chart Detail,0020100335,134,146,Jud Buechler,1610612753,Orlando Magic,2,10,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,0,20011216,SEA,ORL
-Shot Chart Detail,0020100335,185,146,Jud Buechler,1610612753,Orlando Magic,2,4,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,4,1,0,20011216,SEA,ORL
-Shot Chart Detail,0020100335,189,146,Jud Buechler,1610612753,Orlando Magic,2,4,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,21,1,1,20011216,SEA,ORL
-Shot Chart Detail,0020100335,201,146,Jud Buechler,1610612753,Orlando Magic,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,21,1,1,20011216,SEA,ORL
-Shot Chart Detail,0020100335,286,146,Jud Buechler,1610612753,Orlando Magic,3,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011216,SEA,ORL
-Shot Chart Detail,0020100335,355,146,Jud Buechler,1610612753,Orlando Magic,4,10,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,0,20011216,SEA,ORL
-Shot Chart Detail,0020100352,363,146,Jud Buechler,1610612753,Orlando Magic,4,9,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-29,1,1,20011219,ORL,UTA
-Shot Chart Detail,0020100352,368,146,Jud Buechler,1610612753,Orlando Magic,4,9,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,171,1,0,20011219,ORL,UTA
-Shot Chart Detail,0020100364,388,146,Jud Buechler,1610612753,Orlando Magic,3,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,144,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,416,146,Jud Buechler,1610612753,Orlando Magic,4,9,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-23,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,418,146,Jud Buechler,1610612753,Orlando Magic,4,9,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-23,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,447,146,Jud Buechler,1610612753,Orlando Magic,4,6,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,177,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,449,146,Jud Buechler,1610612753,Orlando Magic,4,6,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,0,20011221,ORL,WAS
-Shot Chart Detail,0020100364,461,146,Jud Buechler,1610612753,Orlando Magic,4,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,112,1,1,20011221,ORL,WAS
-Shot Chart Detail,0020100364,500,146,Jud Buechler,1610612753,Orlando Magic,4,0,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011221,ORL,WAS
-Shot Chart Detail,0020100376,108,146,Jud Buechler,1610612753,Orlando Magic,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,0,1,0,20011222,DAL,ORL
-Shot Chart Detail,0020100376,459,146,Jud Buechler,1610612753,Orlando Magic,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,15,1,0,20011222,DAL,ORL
-Shot Chart Detail,0020100407,224,146,Jud Buechler,1610612753,Orlando Magic,2,1,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,226,1,0,20011228,ORL,DET
-Shot Chart Detail,0020100425,133,146,Jud Buechler,1610612753,Orlando Magic,2,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,9,1,1,20011230,NYK,ORL
-Shot Chart Detail,0020100425,152,146,Jud Buechler,1610612753,Orlando Magic,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-4,1,0,20011230,NYK,ORL
-Shot Chart Detail,0020100434,353,146,Jud Buechler,1610612753,Orlando Magic,4,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-155,146,1,0,20020102,BOS,ORL
-Shot Chart Detail,0020100434,379,146,Jud Buechler,1610612753,Orlando Magic,4,7,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,7,1,1,20020102,BOS,ORL
-Shot Chart Detail,0020100434,450,146,Jud Buechler,1610612753,Orlando Magic,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,2,1,1,20020102,BOS,ORL
-Shot Chart Detail,0020100475,159,146,Jud Buechler,1610612753,Orlando Magic,2,6,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020107,ORL,BOS
-Shot Chart Detail,0020100504,97,146,Jud Buechler,1610612753,Orlando Magic,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,137,1,0,20020111,ORL,POR
-Shot Chart Detail,0020100512,101,146,Jud Buechler,1610612753,Orlando Magic,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,99,1,0,20020112,ORL,NJN
-Shot Chart Detail,0020100523,377,146,Jud Buechler,1610612753,Orlando Magic,4,10,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,72,1,0,20020114,ORL,DAL
-Shot Chart Detail,0020100523,419,146,Jud Buechler,1610612753,Orlando Magic,4,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,7,1,1,20020114,ORL,DAL
-Shot Chart Detail,0020100523,460,146,Jud Buechler,1610612753,Orlando Magic,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,7,1,0,20020114,ORL,DAL
-Shot Chart Detail,0020100523,472,146,Jud Buechler,1610612753,Orlando Magic,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,78,1,0,20020114,ORL,DAL
-Shot Chart Detail,0020100552,343,146,Jud Buechler,1610612753,Orlando Magic,4,10,26,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020118,MIL,ORL
-Shot Chart Detail,0020100566,129,146,Jud Buechler,1610612753,Orlando Magic,2,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,207,1,1,20020119,MEM,ORL
-Shot Chart Detail,0020100566,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,28,1,0,20020119,MEM,ORL
-Shot Chart Detail,0020100566,141,146,Jud Buechler,1610612753,Orlando Magic,2,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,186,1,1,20020119,MEM,ORL
-Shot Chart Detail,0020100566,143,146,Jud Buechler,1610612753,Orlando Magic,2,8,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20020119,MEM,ORL
-Shot Chart Detail,0020100566,453,146,Jud Buechler,1610612753,Orlando Magic,4,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-170,63,1,0,20020119,MEM,ORL
-Shot Chart Detail,0020100583,102,146,Jud Buechler,1610612753,Orlando Magic,2,10,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,0,20020122,ORL,ATL
-Shot Chart Detail,0020100583,136,146,Jud Buechler,1610612753,Orlando Magic,2,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,61,1,0,20020122,ORL,ATL
-Shot Chart Detail,0020100583,335,146,Jud Buechler,1610612753,Orlando Magic,4,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,137,1,0,20020122,ORL,ATL
-Shot Chart Detail,0020100583,389,146,Jud Buechler,1610612753,Orlando Magic,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,93,1,1,20020122,ORL,ATL
-Shot Chart Detail,0020100639,137,146,Jud Buechler,1610612753,Orlando Magic,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-19,1,0,20020130,ORL,LAL
-Shot Chart Detail,0020100652,125,146,Jud Buechler,1610612753,Orlando Magic,2,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,11,1,1,20020201,DET,ORL
-Shot Chart Detail,0020100652,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,154,1,0,20020201,DET,ORL
-Shot Chart Detail,0020100679,130,146,Jud Buechler,1610612753,Orlando Magic,2,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,0,1,1,20020205,ORL,CLE
-Shot Chart Detail,0020100679,219,146,Jud Buechler,1610612753,Orlando Magic,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020205,ORL,CLE
-Shot Chart Detail,0020100702,104,146,Jud Buechler,1610612753,Orlando Magic,2,10,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,ORL,NYK
-Shot Chart Detail,0020100711,134,146,Jud Buechler,1610612753,Orlando Magic,2,9,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,70,228,1,0,20020213,MIA,ORL
-Shot Chart Detail,0020100769,393,146,Jud Buechler,1610612753,Orlando Magic,4,8,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-19,1,0,20020221,ORL,LAC
-Shot Chart Detail,0020100769,411,146,Jud Buechler,1610612753,Orlando Magic,4,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-202,99,1,1,20020221,ORL,LAC
-Shot Chart Detail,0020100769,422,146,Jud Buechler,1610612753,Orlando Magic,4,6,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-2,1,1,20020221,ORL,LAC
-Shot Chart Detail,0020100769,456,146,Jud Buechler,1610612753,Orlando Magic,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,153,133,1,0,20020221,ORL,LAC
-Shot Chart Detail,0020100769,480,146,Jud Buechler,1610612753,Orlando Magic,4,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020221,ORL,LAC
-Shot Chart Detail,0020100782,369,146,Jud Buechler,1610612753,Orlando Magic,4,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020223,ORL,PHI
-Shot Chart Detail,0020100782,376,146,Jud Buechler,1610612753,Orlando Magic,4,9,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-19,1,1,20020223,ORL,PHI
-Shot Chart Detail,0020100782,472,146,Jud Buechler,1610612753,Orlando Magic,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,181,1,1,20020223,ORL,PHI
-Shot Chart Detail,0020100794,17,146,Jud Buechler,1610612753,Orlando Magic,1,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20020224,CLE,ORL
-Shot Chart Detail,0020100794,20,146,Jud Buechler,1610612753,Orlando Magic,1,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-15,1,0,20020224,CLE,ORL
-Shot Chart Detail,0020100804,126,146,Jud Buechler,1610612753,Orlando Magic,2,8,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,7,1,0,20020226,CHI,ORL
-Shot Chart Detail,0020100804,333,146,Jud Buechler,1610612753,Orlando Magic,4,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,42,1,1,20020226,CHI,ORL
-Shot Chart Detail,0020100804,359,146,Jud Buechler,1610612753,Orlando Magic,4,8,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,13,1,0,20020226,CHI,ORL
-Shot Chart Detail,0020100862,363,146,Jud Buechler,1610612753,Orlando Magic,3,1,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,42,1,0,20020306,BOS,ORL
-Shot Chart Detail,0020100862,403,146,Jud Buechler,1610612753,Orlando Magic,4,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,30,1,1,20020306,BOS,ORL
-Shot Chart Detail,0020100862,504,146,Jud Buechler,1610612753,Orlando Magic,4,0,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,0,20020306,BOS,ORL
-Shot Chart Detail,0020100916,155,146,Jud Buechler,1610612753,Orlando Magic,2,6,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020313,ORL,PHX
-Shot Chart Detail,0020100928,175,146,Jud Buechler,1610612753,Orlando Magic,2,7,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,ORL,DEN
-Shot Chart Detail,0020100928,333,146,Jud Buechler,1610612753,Orlando Magic,3,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,226,1,0,20020315,ORL,DEN
-Shot Chart Detail,0020100928,504,146,Jud Buechler,1610612753,Orlando Magic,4,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,55,1,0,20020315,ORL,DEN
-Shot Chart Detail,0020100958,141,146,Jud Buechler,1610612753,Orlando Magic,2,10,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020319,ORL,MIL
-Shot Chart Detail,0020100996,74,146,Jud Buechler,1610612753,Orlando Magic,1,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-216,-6,1,0,20020324,MIL,ORL
-Shot Chart Detail,0020100996,448,146,Jud Buechler,1610612753,Orlando Magic,4,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-8,1,0,20020324,MIL,ORL
-Shot Chart Detail,0020100996,485,146,Jud Buechler,1610612753,Orlando Magic,4,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,186,1,0,20020324,MIL,ORL
-Shot Chart Detail,0020101169,401,146,Jud Buechler,1610612753,Orlando Magic,4,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,97,1,0,20020416,ATL,ORL
-Shot Chart Detail,0020101169,461,146,Jud Buechler,1610612753,Orlando Magic,4,6,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,0,20020416,ATL,ORL
-Shot Chart Detail,0020101180,33,146,Jud Buechler,1610612753,Orlando Magic,1,6,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-19,1,0,20020417,ORL,MIA
-Shot Chart Detail,0020101180,247,146,Jud Buechler,1610612753,Orlando Magic,3,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,-19,1,1,20020417,ORL,MIA
-Shot Chart Detail,0020101180,432,146,Jud Buechler,1610612753,Orlando Magic,4,1,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-8,1,0,20020417,ORL,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20100010,157,146,Jud Buechler,1610612756,Phoenix Suns,2,8,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,0,20011030,0,PHX,DEN
+Shot Chart Detail,20100061,126,146,Jud Buechler,1610612756,Phoenix Suns,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,19,1,0,20011106,0,PHX,MEM
+Shot Chart Detail,20100061,135,146,Jud Buechler,1610612756,Phoenix Suns,2,8,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-13,1,0,20011106,0,PHX,MEM
+Shot Chart Detail,20100076,433,146,Jud Buechler,1610612756,Phoenix Suns,4,4,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,198,1,0,20011108,0,PHX,ATL
+Shot Chart Detail,20100076,459,146,Jud Buechler,1610612756,Phoenix Suns,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,57,1,1,20011108,1,PHX,ATL
+Shot Chart Detail,20100113,171,146,Jud Buechler,1610612756,Phoenix Suns,2,4,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-124,219,1,1,20011114,1,PHX,ORL
+Shot Chart Detail,20100158,249,146,Jud Buechler,1610612753,Orlando Magic,2,0,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,-36,1,1,20011121,1,ORL,MIN
+Shot Chart Detail,20100171,417,146,Jud Buechler,1610612753,Orlando Magic,4,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011123,0,CHH,ORL
+Shot Chart Detail,20100181,182,146,Jud Buechler,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,133,1,0,20011124,0,ORL,CHH
+Shot Chart Detail,20100181,184,146,Jud Buechler,1610612753,Orlando Magic,2,5,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,253,1,1,20011124,1,ORL,CHH
+Shot Chart Detail,20100181,428,146,Jud Buechler,1610612753,Orlando Magic,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20011124,0,ORL,CHH
+Shot Chart Detail,20100194,150,146,Jud Buechler,1610612753,Orlando Magic,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,236,1,1,20011126,1,ORL,DET
+Shot Chart Detail,20100215,95,146,Jud Buechler,1610612753,Orlando Magic,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,40,1,0,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,106,146,Jud Buechler,1610612753,Orlando Magic,1,1,38,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011129,1,ORL,BOS
+Shot Chart Detail,20100215,122,146,Jud Buechler,1610612753,Orlando Magic,2,11,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,152,146,Jud Buechler,1610612753,Orlando Magic,2,9,29,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,245,146,Jud Buechler,1610612753,Orlando Magic,2,1,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,51,1,0,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,267,146,Jud Buechler,1610612753,Orlando Magic,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,47,-8,477,1,0,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,291,146,Jud Buechler,1610612753,Orlando Magic,3,9,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,226,1,0,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,344,146,Jud Buechler,1610612753,Orlando Magic,3,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-193,177,1,0,20011129,0,ORL,BOS
+Shot Chart Detail,20100215,358,146,Jud Buechler,1610612753,Orlando Magic,3,1,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,47,1,1,20011129,1,ORL,BOS
+Shot Chart Detail,20100228,314,146,Jud Buechler,1610612753,Orlando Magic,3,3,27,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,228,1,0,20011201,0,WAS,ORL
+Shot Chart Detail,20100228,422,146,Jud Buechler,1610612753,Orlando Magic,4,6,2,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,-29,1,0,20011201,0,WAS,ORL
+Shot Chart Detail,20100228,452,146,Jud Buechler,1610612753,Orlando Magic,4,3,6,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,199,-29,1,0,20011201,0,WAS,ORL
+Shot Chart Detail,20100243,376,146,Jud Buechler,1610612753,Orlando Magic,4,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,17,1,0,20011203,0,ORL,MEM
+Shot Chart Detail,20100243,466,146,Jud Buechler,1610612753,Orlando Magic,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,0,20011203,0,ORL,MEM
+Shot Chart Detail,20100255,168,146,Jud Buechler,1610612753,Orlando Magic,2,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,230,1,0,20011205,0,ORL,CHI
+Shot Chart Detail,20100255,415,146,Jud Buechler,1610612753,Orlando Magic,4,1,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011205,0,ORL,CHI
+Shot Chart Detail,20100269,120,146,Jud Buechler,1610612753,Orlando Magic,2,11,8,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,-13,1,1,20011207,1,ORL,ATL
+Shot Chart Detail,20100269,406,146,Jud Buechler,1610612753,Orlando Magic,4,8,36,Made Shot,Jump Shot,3PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011207,0,ORL,ATL
+Shot Chart Detail,20100269,485,146,Jud Buechler,1610612753,Orlando Magic,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011207,0,ORL,ATL
+Shot Chart Detail,20100275,138,146,Jud Buechler,1610612753,Orlando Magic,2,9,26,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,1,20011208,1,ATL,ORL
+Shot Chart Detail,20100275,149,146,Jud Buechler,1610612753,Orlando Magic,2,8,43,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-206,150,1,1,20011208,1,ATL,ORL
+Shot Chart Detail,20100275,165,146,Jud Buechler,1610612753,Orlando Magic,2,7,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,11,1,0,20011208,0,ATL,ORL
+Shot Chart Detail,20100275,391,146,Jud Buechler,1610612753,Orlando Magic,3,0,4,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,1,20011208,0,ATL,ORL
+Shot Chart Detail,20100290,345,146,Jud Buechler,1610612753,Orlando Magic,4,10,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,188,1,0,20011210,0,LAC,ORL
+Shot Chart Detail,20100300,172,146,Jud Buechler,1610612753,Orlando Magic,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,1,20011211,1,SAC,ORL
+Shot Chart Detail,20100300,356,146,Jud Buechler,1610612753,Orlando Magic,4,9,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-2,1,0,20011211,0,SAC,ORL
+Shot Chart Detail,20100312,129,146,Jud Buechler,1610612753,Orlando Magic,2,10,33,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,150,139,1,0,20011213,0,GSW,ORL
+Shot Chart Detail,20100312,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-202,-23,1,0,20011213,0,GSW,ORL
+Shot Chart Detail,20100312,378,146,Jud Buechler,1610612753,Orlando Magic,4,10,11,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,-17,1,1,20011213,1,GSW,ORL
+Shot Chart Detail,20100312,384,146,Jud Buechler,1610612753,Orlando Magic,4,9,9,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,181,1,0,20011213,0,GSW,ORL
+Shot Chart Detail,20100335,134,146,Jud Buechler,1610612753,Orlando Magic,2,10,8,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,0,20011216,0,SEA,ORL
+Shot Chart Detail,20100335,185,146,Jud Buechler,1610612753,Orlando Magic,2,4,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,4,1,0,20011216,0,SEA,ORL
+Shot Chart Detail,20100335,189,146,Jud Buechler,1610612753,Orlando Magic,2,4,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,21,1,1,20011216,0,SEA,ORL
+Shot Chart Detail,20100335,201,146,Jud Buechler,1610612753,Orlando Magic,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,21,1,1,20011216,1,SEA,ORL
+Shot Chart Detail,20100335,286,146,Jud Buechler,1610612753,Orlando Magic,3,4,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011216,1,SEA,ORL
+Shot Chart Detail,20100335,355,146,Jud Buechler,1610612753,Orlando Magic,4,10,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,0,20011216,0,SEA,ORL
+Shot Chart Detail,20100352,363,146,Jud Buechler,1610612753,Orlando Magic,4,9,57,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-29,1,1,20011219,1,ORL,UTA
+Shot Chart Detail,20100352,368,146,Jud Buechler,1610612753,Orlando Magic,4,9,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,171,1,0,20011219,0,ORL,UTA
+Shot Chart Detail,20100364,388,146,Jud Buechler,1610612753,Orlando Magic,3,0,26,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,144,1,0,20011221,0,ORL,WAS
+Shot Chart Detail,20100364,416,146,Jud Buechler,1610612753,Orlando Magic,4,9,35,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-23,1,0,20011221,0,ORL,WAS
+Shot Chart Detail,20100364,418,146,Jud Buechler,1610612753,Orlando Magic,4,9,31,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-23,1,0,20011221,0,ORL,WAS
+Shot Chart Detail,20100364,447,146,Jud Buechler,1610612753,Orlando Magic,4,6,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,177,1,0,20011221,0,ORL,WAS
+Shot Chart Detail,20100364,449,146,Jud Buechler,1610612753,Orlando Magic,4,6,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,198,1,0,20011221,0,ORL,WAS
+Shot Chart Detail,20100364,461,146,Jud Buechler,1610612753,Orlando Magic,4,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,112,1,1,20011221,1,ORL,WAS
+Shot Chart Detail,20100364,500,146,Jud Buechler,1610612753,Orlando Magic,4,0,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20011221,0,ORL,WAS
+Shot Chart Detail,20100376,108,146,Jud Buechler,1610612753,Orlando Magic,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,0,1,0,20011222,0,DAL,ORL
+Shot Chart Detail,20100376,459,146,Jud Buechler,1610612753,Orlando Magic,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,15,1,0,20011222,0,DAL,ORL
+Shot Chart Detail,20100407,224,146,Jud Buechler,1610612753,Orlando Magic,2,1,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,226,1,0,20011228,0,ORL,DET
+Shot Chart Detail,20100425,133,146,Jud Buechler,1610612753,Orlando Magic,2,9,40,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,104,9,1,1,20011230,1,NYK,ORL
+Shot Chart Detail,20100425,152,146,Jud Buechler,1610612753,Orlando Magic,2,7,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,-4,1,0,20011230,0,NYK,ORL
+Shot Chart Detail,20100434,353,146,Jud Buechler,1610612753,Orlando Magic,4,11,32,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-155,146,1,0,20020102,0,BOS,ORL
+Shot Chart Detail,20100434,379,146,Jud Buechler,1610612753,Orlando Magic,4,7,43,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,7,1,1,20020102,1,BOS,ORL
+Shot Chart Detail,20100434,450,146,Jud Buechler,1610612753,Orlando Magic,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,2,1,1,20020102,1,BOS,ORL
+Shot Chart Detail,20100475,159,146,Jud Buechler,1610612753,Orlando Magic,2,6,23,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020107,1,ORL,BOS
+Shot Chart Detail,20100504,97,146,Jud Buechler,1610612753,Orlando Magic,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,137,1,0,20020111,0,ORL,POR
+Shot Chart Detail,20100512,101,146,Jud Buechler,1610612753,Orlando Magic,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,99,1,0,20020112,0,ORL,NJN
+Shot Chart Detail,20100523,377,146,Jud Buechler,1610612753,Orlando Magic,4,10,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,72,1,0,20020114,0,ORL,DAL
+Shot Chart Detail,20100523,419,146,Jud Buechler,1610612753,Orlando Magic,4,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,7,1,1,20020114,1,ORL,DAL
+Shot Chart Detail,20100523,460,146,Jud Buechler,1610612753,Orlando Magic,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,7,1,0,20020114,0,ORL,DAL
+Shot Chart Detail,20100523,472,146,Jud Buechler,1610612753,Orlando Magic,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,78,1,0,20020114,0,ORL,DAL
+Shot Chart Detail,20100552,343,146,Jud Buechler,1610612753,Orlando Magic,4,10,26,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020118,0,MIL,ORL
+Shot Chart Detail,20100566,129,146,Jud Buechler,1610612753,Orlando Magic,2,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,207,1,1,20020119,1,MEM,ORL
+Shot Chart Detail,20100566,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,28,1,0,20020119,0,MEM,ORL
+Shot Chart Detail,20100566,141,146,Jud Buechler,1610612753,Orlando Magic,2,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,186,1,1,20020119,1,MEM,ORL
+Shot Chart Detail,20100566,143,146,Jud Buechler,1610612753,Orlando Magic,2,8,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20020119,1,MEM,ORL
+Shot Chart Detail,20100566,453,146,Jud Buechler,1610612753,Orlando Magic,4,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-170,63,1,0,20020119,0,MEM,ORL
+Shot Chart Detail,20100583,102,146,Jud Buechler,1610612753,Orlando Magic,2,10,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,0,20020122,0,ORL,ATL
+Shot Chart Detail,20100583,136,146,Jud Buechler,1610612753,Orlando Magic,2,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-166,61,1,0,20020122,0,ORL,ATL
+Shot Chart Detail,20100583,335,146,Jud Buechler,1610612753,Orlando Magic,4,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,119,137,1,0,20020122,0,ORL,ATL
+Shot Chart Detail,20100583,389,146,Jud Buechler,1610612753,Orlando Magic,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,93,1,1,20020122,1,ORL,ATL
+Shot Chart Detail,20100639,137,146,Jud Buechler,1610612753,Orlando Magic,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-19,1,0,20020130,0,ORL,LAL
+Shot Chart Detail,20100652,125,146,Jud Buechler,1610612753,Orlando Magic,2,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,11,1,1,20020201,0,DET,ORL
+Shot Chart Detail,20100652,139,146,Jud Buechler,1610612753,Orlando Magic,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,154,1,0,20020201,0,DET,ORL
+Shot Chart Detail,20100679,130,146,Jud Buechler,1610612753,Orlando Magic,2,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,0,1,1,20020205,0,ORL,CLE
+Shot Chart Detail,20100679,219,146,Jud Buechler,1610612753,Orlando Magic,2,0,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020205,1,ORL,CLE
+Shot Chart Detail,20100702,104,146,Jud Buechler,1610612753,Orlando Magic,2,10,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020212,0,ORL,NYK
+Shot Chart Detail,20100711,134,146,Jud Buechler,1610612753,Orlando Magic,2,9,41,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,23,70,228,1,0,20020213,0,MIA,ORL
+Shot Chart Detail,20100769,393,146,Jud Buechler,1610612753,Orlando Magic,4,8,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-19,1,0,20020221,0,ORL,LAC
+Shot Chart Detail,20100769,411,146,Jud Buechler,1610612753,Orlando Magic,4,7,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-202,99,1,1,20020221,1,ORL,LAC
+Shot Chart Detail,20100769,422,146,Jud Buechler,1610612753,Orlando Magic,4,6,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-2,1,1,20020221,1,ORL,LAC
+Shot Chart Detail,20100769,456,146,Jud Buechler,1610612753,Orlando Magic,4,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,153,133,1,0,20020221,0,ORL,LAC
+Shot Chart Detail,20100769,480,146,Jud Buechler,1610612753,Orlando Magic,4,2,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020221,1,ORL,LAC
+Shot Chart Detail,20100782,369,146,Jud Buechler,1610612753,Orlando Magic,4,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020223,1,ORL,PHI
+Shot Chart Detail,20100782,376,146,Jud Buechler,1610612753,Orlando Magic,4,9,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-19,1,1,20020223,1,ORL,PHI
+Shot Chart Detail,20100782,472,146,Jud Buechler,1610612753,Orlando Magic,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,181,1,1,20020223,1,ORL,PHI
+Shot Chart Detail,20100794,17,146,Jud Buechler,1610612753,Orlando Magic,1,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20020224,1,CLE,ORL
+Shot Chart Detail,20100794,20,146,Jud Buechler,1610612753,Orlando Magic,1,8,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-15,1,0,20020224,0,CLE,ORL
+Shot Chart Detail,20100804,126,146,Jud Buechler,1610612753,Orlando Magic,2,8,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,7,1,0,20020226,0,CHI,ORL
+Shot Chart Detail,20100804,333,146,Jud Buechler,1610612753,Orlando Magic,4,10,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-200,42,1,1,20020226,1,CHI,ORL
+Shot Chart Detail,20100804,359,146,Jud Buechler,1610612753,Orlando Magic,4,8,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,13,1,0,20020226,0,CHI,ORL
+Shot Chart Detail,20100862,363,146,Jud Buechler,1610612753,Orlando Magic,3,1,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,42,1,0,20020306,0,BOS,ORL
+Shot Chart Detail,20100862,403,146,Jud Buechler,1610612753,Orlando Magic,4,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,30,1,1,20020306,1,BOS,ORL
+Shot Chart Detail,20100862,504,146,Jud Buechler,1610612753,Orlando Magic,4,0,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,0,20020306,0,BOS,ORL
+Shot Chart Detail,20100916,155,146,Jud Buechler,1610612753,Orlando Magic,2,6,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020313,0,ORL,PHX
+Shot Chart Detail,20100928,175,146,Jud Buechler,1610612753,Orlando Magic,2,7,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020315,0,ORL,DEN
+Shot Chart Detail,20100928,333,146,Jud Buechler,1610612753,Orlando Magic,3,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,226,1,0,20020315,0,ORL,DEN
+Shot Chart Detail,20100928,504,146,Jud Buechler,1610612753,Orlando Magic,4,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-124,55,1,0,20020315,0,ORL,DEN
+Shot Chart Detail,20100958,141,146,Jud Buechler,1610612753,Orlando Magic,2,10,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020319,1,ORL,MIL
+Shot Chart Detail,20100996,74,146,Jud Buechler,1610612753,Orlando Magic,1,3,6,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-216,-6,1,0,20020324,0,MIL,ORL
+Shot Chart Detail,20100996,448,146,Jud Buechler,1610612753,Orlando Magic,4,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-8,1,0,20020324,0,MIL,ORL
+Shot Chart Detail,20100996,485,146,Jud Buechler,1610612753,Orlando Magic,4,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,186,1,0,20020324,0,MIL,ORL
+Shot Chart Detail,20101169,401,146,Jud Buechler,1610612753,Orlando Magic,4,11,40,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,108,97,1,0,20020416,0,ATL,ORL
+Shot Chart Detail,20101169,461,146,Jud Buechler,1610612753,Orlando Magic,4,6,41,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-238,0,1,0,20020416,0,ATL,ORL
+Shot Chart Detail,20101180,33,146,Jud Buechler,1610612753,Orlando Magic,1,6,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-19,1,0,20020417,0,ORL,MIA
+Shot Chart Detail,20101180,247,146,Jud Buechler,1610612753,Orlando Magic,3,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,-19,1,1,20020417,1,ORL,MIA
+Shot Chart Detail,20101180,432,146,Jud Buechler,1610612753,Orlando Magic,4,1,27,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-8,1,0,20020417,0,ORL,MIA

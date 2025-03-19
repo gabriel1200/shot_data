@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021600467,529,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,6,1,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,7,1,1,20161226,HOU,PHX
-Shot Chart Detail,0021600467,565,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,3,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20161226,HOU,PHX
-Shot Chart Detail,0021601182,378,1627778,Chinanu Onuaku,1610612745,Houston Rockets,3,2,33,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,62,1,0,20170407,HOU,DET
-Shot Chart Detail,0021601182,445,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,9,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170407,HOU,DET
-Shot Chart Detail,0021601200,424,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,9,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170409,SAC,HOU
-Shot Chart Detail,0021601210,29,1627778,Chinanu Onuaku,1610612745,Houston Rockets,1,9,22,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20170410,LAC,HOU
-Shot Chart Detail,0021601210,38,1627778,Chinanu Onuaku,1610612745,Houston Rockets,1,8,22,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,1,20170410,LAC,HOU
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21600467,529,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,6,1,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,33,7,1,1,20161226,1,HOU,PHX
+Shot Chart Detail,21600467,565,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,3,8,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20161226,0,HOU,PHX
+Shot Chart Detail,21601182,378,1627778,Chinanu Onuaku,1610612745,Houston Rockets,3,2,33,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,62,1,0,20170407,0,HOU,DET
+Shot Chart Detail,21601182,445,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,9,43,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170407,1,HOU,DET
+Shot Chart Detail,21601200,424,1627778,Chinanu Onuaku,1610612745,Houston Rockets,4,9,40,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170409,1,SAC,HOU
+Shot Chart Detail,21601210,29,1627778,Chinanu Onuaku,1610612745,Houston Rockets,1,9,22,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20170410,0,LAC,HOU
+Shot Chart Detail,21601210,38,1627778,Chinanu Onuaku,1610612745,Houston Rockets,1,8,22,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,1,20170410,1,LAC,HOU

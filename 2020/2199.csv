@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021900015,119,2199,Tyson Chandler,1610612745,Houston Rockets,1,4,39,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191024,HOU,MIL
-Shot Chart Detail,0021900015,141,2199,Tyson Chandler,1610612745,Houston Rockets,1,3,1,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20191024,HOU,MIL
-Shot Chart Detail,0021900015,181,2199,Tyson Chandler,1610612745,Houston Rockets,1,1,1,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,1,20191024,HOU,MIL
-Shot Chart Detail,0021900015,217,2199,Tyson Chandler,1610612745,Houston Rockets,2,11,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,10,1,1,20191024,HOU,MIL
-Shot Chart Detail,0021900015,537,2199,Tyson Chandler,1610612745,Houston Rockets,3,3,6,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,1,20191024,HOU,MIL
-Shot Chart Detail,0021900015,541,2199,Tyson Chandler,1610612745,Houston Rockets,3,2,42,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,-1,1,0,20191024,HOU,MIL
-Shot Chart Detail,0021900032,238,2199,Tyson Chandler,1610612745,Houston Rockets,2,6,50,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20191026,HOU,NOP
-Shot Chart Detail,0021900061,454,2199,Tyson Chandler,1610612745,Houston Rockets,3,3,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,17,1,1,20191030,WAS,HOU
-Shot Chart Detail,0021900142,151,2199,Tyson Chandler,1610612745,Houston Rockets,1,0,1,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,13,1,1,20191111,NOP,HOU
-Shot Chart Detail,0021900157,663,2199,Tyson Chandler,1610612745,Houston Rockets,4,0,37,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20191113,HOU,LAC
-Shot Chart Detail,0021900169,13,2199,Tyson Chandler,1610612745,Houston Rockets,1,11,12,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,0,20191115,HOU,IND
-Shot Chart Detail,0021900169,644,2199,Tyson Chandler,1610612745,Houston Rockets,4,1,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191115,HOU,IND
-Shot Chart Detail,0021900179,190,2199,Tyson Chandler,1610612745,Houston Rockets,2,9,19,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,0,20191116,MIN,HOU
-Shot Chart Detail,0021900179,349,2199,Tyson Chandler,1610612745,Houston Rockets,3,11,12,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20191116,MIN,HOU
-Shot Chart Detail,0021900211,256,2199,Tyson Chandler,1610612745,Houston Rockets,2,5,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20191120,DEN,HOU
-Shot Chart Detail,0021900282,7,2199,Tyson Chandler,1610612745,Houston Rockets,1,11,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20191130,HOU,ATL
-Shot Chart Detail,0021900303,532,2199,Tyson Chandler,1610612745,Houston Rockets,3,0,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20191203,SAS,HOU
-Shot Chart Detail,0021900478,223,2199,Tyson Chandler,1610612745,Houston Rockets,2,6,38,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20191228,HOU,BKN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21900015,119,2199,Tyson Chandler,1610612745,Houston Rockets,1,4,39,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191024,0,HOU,MIL
+Shot Chart Detail,21900015,141,2199,Tyson Chandler,1610612745,Houston Rockets,1,3,1,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20191024,1,HOU,MIL
+Shot Chart Detail,21900015,181,2199,Tyson Chandler,1610612745,Houston Rockets,1,1,1,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,1,20191024,1,HOU,MIL
+Shot Chart Detail,21900015,217,2199,Tyson Chandler,1610612745,Houston Rockets,2,11,14,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-3,10,1,1,20191024,1,HOU,MIL
+Shot Chart Detail,21900015,537,2199,Tyson Chandler,1610612745,Houston Rockets,3,3,6,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,1,20191024,1,HOU,MIL
+Shot Chart Detail,21900015,541,2199,Tyson Chandler,1610612745,Houston Rockets,3,2,42,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,-1,1,0,20191024,0,HOU,MIL
+Shot Chart Detail,21900032,238,2199,Tyson Chandler,1610612745,Houston Rockets,2,6,50,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20191026,1,HOU,NOP
+Shot Chart Detail,21900061,454,2199,Tyson Chandler,1610612745,Houston Rockets,3,3,35,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,17,1,1,20191030,1,WAS,HOU
+Shot Chart Detail,21900142,151,2199,Tyson Chandler,1610612745,Houston Rockets,1,0,1,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,13,1,1,20191111,1,NOP,HOU
+Shot Chart Detail,21900157,663,2199,Tyson Chandler,1610612745,Houston Rockets,4,0,37,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20191113,1,HOU,LAC
+Shot Chart Detail,21900169,13,2199,Tyson Chandler,1610612745,Houston Rockets,1,11,12,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,13,1,0,20191115,0,HOU,IND
+Shot Chart Detail,21900169,644,2199,Tyson Chandler,1610612745,Houston Rockets,4,1,1,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20191115,0,HOU,IND
+Shot Chart Detail,21900179,190,2199,Tyson Chandler,1610612745,Houston Rockets,2,9,19,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,0,20191116,0,MIN,HOU
+Shot Chart Detail,21900179,349,2199,Tyson Chandler,1610612745,Houston Rockets,3,11,12,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20191116,0,MIN,HOU
+Shot Chart Detail,21900211,256,2199,Tyson Chandler,1610612745,Houston Rockets,2,5,16,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20191120,1,DEN,HOU
+Shot Chart Detail,21900282,7,2199,Tyson Chandler,1610612745,Houston Rockets,1,11,40,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,5,1,1,20191130,1,HOU,ATL
+Shot Chart Detail,21900303,532,2199,Tyson Chandler,1610612745,Houston Rockets,3,0,0,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20191203,1,SAS,HOU
+Shot Chart Detail,21900478,223,2199,Tyson Chandler,1610612745,Houston Rockets,2,6,38,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20191228,1,HOU,BKN

@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021800230,589,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,200,1,1,20181117,CHI,TOR
-Shot Chart Detail,0021800230,661,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,133,229,1,1,20181117,CHI,TOR
-Shot Chart Detail,0021800254,685,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,84,1,1,20181121,ATL,TOR
-Shot Chart Detail,0021800684,633,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,3,44,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-8,1,0,20190119,TOR,MEM
-Shot Chart Detail,0021800702,711,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,41,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,0,20190122,TOR,SAC
-Shot Chart Detail,0021800789,669,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-206,130,1,0,20190203,TOR,LAC
-Shot Chart Detail,0021800789,679,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,33,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20190203,TOR,LAC
-Shot Chart Detail,0021800789,689,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,5,153,1,0,20190203,TOR,LAC
-Shot Chart Detail,0021800789,707,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,82,250,1,0,20190203,TOR,LAC
-Shot Chart Detail,0021800789,709,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,208,1,0,20190203,TOR,LAC
-Shot Chart Detail,0021800813,669,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20190207,ATL,TOR
-Shot Chart Detail,0021801023,712,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,127,1,0,20190314,TOR,LAL
-Shot Chart Detail,0021801156,634,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,5,1,0,20190401,TOR,ORL
-Shot Chart Detail,0021801156,665,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,203,1,1,20190401,TOR,ORL
-Shot Chart Detail,0021801214,557,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,7,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,178,1,1,20190409,MIN,TOR
-Shot Chart Detail,0021801214,608,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,57,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,145,1,0,20190409,MIN,TOR
-Shot Chart Detail,0021801214,616,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-42,250,1,1,20190409,MIN,TOR
-Shot Chart Detail,0021801214,623,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,29,1,0,20190409,MIN,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21800230,589,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,5,28,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,200,1,1,20181117,1,CHI,TOR
+Shot Chart Detail,21800230,661,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,32,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,133,229,1,1,20181117,0,CHI,TOR
+Shot Chart Detail,21800254,685,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,21,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,84,1,1,20181121,1,ATL,TOR
+Shot Chart Detail,21800684,633,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,3,44,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-135,-8,1,0,20190119,0,TOR,MEM
+Shot Chart Detail,21800702,711,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,41,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,6,1,0,20190122,0,TOR,SAC
+Shot Chart Detail,21800789,669,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,3,10,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-206,130,1,0,20190203,0,TOR,LAC
+Shot Chart Detail,21800789,679,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,33,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,-1,1,1,20190203,0,TOR,LAC
+Shot Chart Detail,21800789,689,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,51,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,5,153,1,0,20190203,0,TOR,LAC
+Shot Chart Detail,21800789,707,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,82,250,1,0,20190203,0,TOR,LAC
+Shot Chart Detail,21800789,709,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,208,1,0,20190203,0,TOR,LAC
+Shot Chart Detail,21800813,669,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20190207,0,ATL,TOR
+Shot Chart Detail,21801023,712,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-204,127,1,0,20190314,0,TOR,LAL
+Shot Chart Detail,21801156,634,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,16,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,5,1,0,20190401,0,TOR,ORL
+Shot Chart Detail,21801156,665,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,0,4,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,203,1,1,20190401,0,TOR,ORL
+Shot Chart Detail,21801214,557,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,7,9,Made Shot,Driving Floating Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,178,1,1,20190409,1,MIN,TOR
+Shot Chart Detail,21801214,608,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,57,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,145,1,0,20190409,0,MIN,TOR
+Shot Chart Detail,21801214,616,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,2,9,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-42,250,1,1,20190409,0,MIN,TOR
+Shot Chart Detail,21801214,623,1628070,Jordan Loyd,1610612761,Toronto Raptors,4,1,15,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-3,29,1,0,20190409,0,MIN,TOR

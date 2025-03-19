@@ -1,349 +1,175 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029600013,123,32,Clifford Rozier,1610612744,Golden State Warriors,2,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,0,19961101,GSW,LAC
-Shot Chart Detail,0029600596,78,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,50,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970125,CHI,TOR
-Shot Chart Detail,0029600609,158,32,Clifford Rozier,1610612761,Toronto Raptors,2,7,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,160,32,Clifford Rozier,1610612761,Toronto Raptors,2,7,52,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,TOR,POR
-Shot Chart Detail,0029600609,471,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,36,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,473,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,TOR,POR
-Shot Chart Detail,0029600617,130,32,Clifford Rozier,1610612761,Toronto Raptors,2,9,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970129,PHI,TOR
-Shot Chart Detail,0029600617,133,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,PHI,TOR
-Shot Chart Detail,0029600617,326,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,PHI,TOR
-Shot Chart Detail,0029600617,382,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,PHI,TOR
-Shot Chart Detail,0029600640,196,32,Clifford Rozier,1610612761,Toronto Raptors,2,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970201,TOR,PHX
-Shot Chart Detail,0029600656,117,32,Clifford Rozier,1610612761,Toronto Raptors,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-122,60,1,0,19970203,TOR,BOS
-Shot Chart Detail,0029600656,139,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,52,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,21,1,0,19970203,TOR,BOS
-Shot Chart Detail,0029600656,145,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970203,TOR,BOS
-Shot Chart Detail,0029600670,31,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,54,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,57,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,165,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,235,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,3,249,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,265,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,18,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,288,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,290,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,51,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,292,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,385,32,Clifford Rozier,1610612761,Toronto Raptors,4,5,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,392,32,Clifford Rozier,1610612761,Toronto Raptors,4,5,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,431,32,Clifford Rozier,1610612761,Toronto Raptors,4,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,433,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600687,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,MIL,TOR
-Shot Chart Detail,0029600687,49,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970211,MIL,TOR
-Shot Chart Detail,0029600687,190,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,45,1,0,19970211,MIL,TOR
-Shot Chart Detail,0029600687,273,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,MIL,TOR
-Shot Chart Detail,0029600695,19,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,38,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,168,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-7,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,170,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,221,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,223,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,230,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,262,32,Clifford Rozier,1610612761,Toronto Raptors,3,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-99,73,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,322,32,Clifford Rozier,1610612761,Toronto Raptors,4,9,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600710,17,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,TOR,MIL
-Shot Chart Detail,0029600710,19,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,TOR,MIL
-Shot Chart Detail,0029600710,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,TOR,MIL
-Shot Chart Detail,0029600710,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,TOR,MIL
-Shot Chart Detail,0029600710,204,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,TOR,MIL
-Shot Chart Detail,0029600724,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970216,TOR,DET
-Shot Chart Detail,0029600724,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,TOR,DET
-Shot Chart Detail,0029600724,70,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,TOR,DET
-Shot Chart Detail,0029600724,142,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,TOR,DET
-Shot Chart Detail,0029600733,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,65,1,0,19970217,IND,TOR
-Shot Chart Detail,0029600733,342,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,36,1,0,19970217,IND,TOR
-Shot Chart Detail,0029600733,351,32,Clifford Rozier,1610612761,Toronto Raptors,3,0,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970217,IND,TOR
-Shot Chart Detail,0029600733,375,32,Clifford Rozier,1610612761,Toronto Raptors,4,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970217,IND,TOR
-Shot Chart Detail,0029600755,80,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,30,1,0,19970220,HOU,TOR
-Shot Chart Detail,0029600755,101,32,Clifford Rozier,1610612761,Toronto Raptors,1,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600755,115,32,Clifford Rozier,1610612761,Toronto Raptors,2,11,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600755,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,18,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,13,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600755,305,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,21,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600772,95,32,Clifford Rozier,1610612761,Toronto Raptors,2,11,14,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,14,54,1,0,19970222,DAL,TOR
-Shot Chart Detail,0029600792,71,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970225,DEN,TOR
-Shot Chart Detail,0029600792,87,32,Clifford Rozier,1610612761,Toronto Raptors,1,0,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970225,DEN,TOR
-Shot Chart Detail,0029600808,132,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970227,UTA,TOR
-Shot Chart Detail,0029600834,76,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,TOR,BOS
-Shot Chart Detail,0029600834,115,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,TOR,BOS
-Shot Chart Detail,0029600848,3,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,TOR,NYK
-Shot Chart Detail,0029600848,279,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-42,62,1,1,19970305,TOR,NYK
-Shot Chart Detail,0029600848,334,32,Clifford Rozier,1610612761,Toronto Raptors,3,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,TOR,NYK
-Shot Chart Detail,0029600848,422,32,Clifford Rozier,1610612761,Toronto Raptors,4,6,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,TOR,NYK
-Shot Chart Detail,0029600864,20,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,TOR,SAS
-Shot Chart Detail,0029600864,27,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,39,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,TOR,SAS
-Shot Chart Detail,0029600864,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,TOR,SAS
-Shot Chart Detail,0029600864,200,32,Clifford Rozier,1610612761,Toronto Raptors,2,3,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,0,19970307,TOR,SAS
-Shot Chart Detail,0029600864,214,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,TOR,SAS
-Shot Chart Detail,0029600864,304,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,TOR,SAS
-Shot Chart Detail,0029600880,17,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,19,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,39,1,0,19970309,TOR,VAN
-Shot Chart Detail,0029600880,83,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,TOR,VAN
-Shot Chart Detail,0029600896,26,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,51,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,58,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,64,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,114,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,206,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,220,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,258,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,270,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,19,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,294,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,10,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,336,32,Clifford Rozier,1610612761,Toronto Raptors,3,0,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,353,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,357,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,374,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,405,32,Clifford Rozier,1610612761,Toronto Raptors,4,4,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,58,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,412,32,Clifford Rozier,1610612761,Toronto Raptors,4,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,411,32,Clifford Rozier,1610612761,Toronto Raptors,4,3,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600911,59,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970313,SAC,TOR
-Shot Chart Detail,0029600911,191,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,52,1,0,19970313,SAC,TOR
-Shot Chart Detail,0029600935,54,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,LAL,TOR
-Shot Chart Detail,0029600935,281,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAL,TOR
-Shot Chart Detail,0029600935,307,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAL,TOR
-Shot Chart Detail,0029600935,309,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,LAL,TOR
-Shot Chart Detail,0029600946,11,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,56,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970318,TOR,PHI
-Shot Chart Detail,0029600946,241,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970318,TOR,PHI
-Shot Chart Detail,0029600946,243,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,285,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,317,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,54,1,0,19970318,TOR,PHI
-Shot Chart Detail,0029600957,22,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,DET,TOR
-Shot Chart Detail,0029600957,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,DET,TOR
-Shot Chart Detail,0029600957,52,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,DET,TOR
-Shot Chart Detail,0029600957,75,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-16,1,0,19970319,DET,TOR
-Shot Chart Detail,0029600957,239,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,8,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,-1,1,1,19970319,DET,TOR
-Shot Chart Detail,0029600970,15,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970321,TOR,CHH
-Shot Chart Detail,0029600970,39,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,0,19970321,TOR,CHH
-Shot Chart Detail,0029600970,68,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,56,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,41,1,0,19970321,TOR,CHH
-Shot Chart Detail,0029600970,72,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970321,TOR,CHH
-Shot Chart Detail,0029600970,237,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970321,TOR,CHH
-Shot Chart Detail,0029600986,18,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970323,TOR,ATL
-Shot Chart Detail,0029600986,243,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970323,TOR,ATL
-Shot Chart Detail,0029600994,23,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,18,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,TOR,IND
-Shot Chart Detail,0029600994,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,44,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,TOR,IND
-Shot Chart Detail,0029600994,232,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,TOR,IND
-Shot Chart Detail,0029601011,4,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,242,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,80,10,805,1,0,19970327,TOR,CHI
-Shot Chart Detail,0029601011,272,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,28,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,339,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,348,32,Clifford Rozier,1610612761,Toronto Raptors,4,9,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,354,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970327,TOR,CHI
-Shot Chart Detail,0029601011,378,32,Clifford Rozier,1610612761,Toronto Raptors,4,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,39,1,0,19970327,TOR,CHI
-Shot Chart Detail,0029601017,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,WAS,TOR
-Shot Chart Detail,0029601031,62,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,TOR,MIA
-Shot Chart Detail,0029601031,197,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,TOR,MIA
-Shot Chart Detail,0029601031,263,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,TOR,MIA
-Shot Chart Detail,0029601031,271,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,TOR,MIA
-Shot Chart Detail,0029601049,9,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,2,1,0,19970402,PHI,TOR
-Shot Chart Detail,0029601049,61,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970402,PHI,TOR
-Shot Chart Detail,0029601073,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,43,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,MIA,TOR
-Shot Chart Detail,0029601073,76,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,2,1,1,19970405,MIA,TOR
-Shot Chart Detail,0029601073,222,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,136,550,1,0,19970405,MIA,TOR
-Shot Chart Detail,0029601093,5,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,12,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,60,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,52,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,30,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,251,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,319,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,321,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601108,4,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,29,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,18,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,TOR,ORL
-Shot Chart Detail,0029601108,234,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,236,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,37,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,238,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,TOR,ORL
-Shot Chart Detail,0029601108,255,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,257,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,58,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601126,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601126,214,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601126,216,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970412,TOR,IND
-Shot Chart Detail,0029601126,238,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970412,TOR,IND
-Shot Chart Detail,0029601126,234,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,15,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601126,249,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601142,26,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,CHI,TOR
-Shot Chart Detail,0029601142,241,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970414,CHI,TOR
-Shot Chart Detail,0029601142,261,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,CHI,TOR
-Shot Chart Detail,0029601142,265,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,CHI,TOR
-Shot Chart Detail,0029601142,343,32,Clifford Rozier,1610612761,Toronto Raptors,4,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,97,1,1,19970414,CHI,TOR
-Shot Chart Detail,0029601147,59,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-18,99,1,1,19970415,MIL,TOR
-Shot Chart Detail,0029601147,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,17,1,0,19970415,MIL,TOR
-Shot Chart Detail,0029601147,199,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,39,1,0,19970415,MIL,TOR
-Shot Chart Detail,0029601147,211,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970415,MIL,TOR
-Shot Chart Detail,0029601147,249,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,34,97,1,1,19970415,MIL,TOR
-Shot Chart Detail,0029601168,29,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970418,CHH,TOR
-Shot Chart Detail,0029601168,39,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970418,CHH,TOR
-Shot Chart Detail,0029601168,42,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970418,CHH,TOR
-Shot Chart Detail,0029601168,293,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970418,CHH,TOR
-Shot Chart Detail,0029601182,34,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970420,BOS,TOR
-Shot Chart Detail,0029600013,123,32,Clifford Rozier,1610612744,Golden State Warriors,2,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,0,19961101,GSW,LAC
-Shot Chart Detail,0029600596,78,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,50,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970125,CHI,TOR
-Shot Chart Detail,0029600609,158,32,Clifford Rozier,1610612761,Toronto Raptors,2,7,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,160,32,Clifford Rozier,1610612761,Toronto Raptors,2,7,52,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,TOR,POR
-Shot Chart Detail,0029600609,471,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,36,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,473,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,TOR,POR
-Shot Chart Detail,0029600617,130,32,Clifford Rozier,1610612761,Toronto Raptors,2,9,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970129,PHI,TOR
-Shot Chart Detail,0029600617,133,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,PHI,TOR
-Shot Chart Detail,0029600617,326,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,PHI,TOR
-Shot Chart Detail,0029600617,382,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,PHI,TOR
-Shot Chart Detail,0029600640,196,32,Clifford Rozier,1610612761,Toronto Raptors,2,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970201,TOR,PHX
-Shot Chart Detail,0029600656,117,32,Clifford Rozier,1610612761,Toronto Raptors,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-122,60,1,0,19970203,TOR,BOS
-Shot Chart Detail,0029600656,139,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,52,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,21,1,0,19970203,TOR,BOS
-Shot Chart Detail,0029600656,145,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970203,TOR,BOS
-Shot Chart Detail,0029600670,31,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,54,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,57,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,165,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,235,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,3,249,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,265,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,18,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,288,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,290,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,51,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,292,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,385,32,Clifford Rozier,1610612761,Toronto Raptors,4,5,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,TOR,CLE
-Shot Chart Detail,0029600670,392,32,Clifford Rozier,1610612761,Toronto Raptors,4,5,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,431,32,Clifford Rozier,1610612761,Toronto Raptors,4,1,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600670,433,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,TOR,CLE
-Shot Chart Detail,0029600687,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,MIL,TOR
-Shot Chart Detail,0029600687,49,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970211,MIL,TOR
-Shot Chart Detail,0029600687,190,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,45,1,0,19970211,MIL,TOR
-Shot Chart Detail,0029600687,273,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,MIL,TOR
-Shot Chart Detail,0029600695,19,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,38,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,168,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-7,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,170,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,221,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,223,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,230,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600695,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,262,32,Clifford Rozier,1610612761,Toronto Raptors,3,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-99,73,1,1,19970212,ATL,TOR
-Shot Chart Detail,0029600695,322,32,Clifford Rozier,1610612761,Toronto Raptors,4,9,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,ATL,TOR
-Shot Chart Detail,0029600710,17,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,TOR,MIL
-Shot Chart Detail,0029600710,19,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,TOR,MIL
-Shot Chart Detail,0029600710,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,TOR,MIL
-Shot Chart Detail,0029600710,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,TOR,MIL
-Shot Chart Detail,0029600710,204,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,TOR,MIL
-Shot Chart Detail,0029600724,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970216,TOR,DET
-Shot Chart Detail,0029600724,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,TOR,DET
-Shot Chart Detail,0029600724,70,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,TOR,DET
-Shot Chart Detail,0029600724,142,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,TOR,DET
-Shot Chart Detail,0029600733,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,65,1,0,19970217,IND,TOR
-Shot Chart Detail,0029600733,342,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,36,1,0,19970217,IND,TOR
-Shot Chart Detail,0029600733,351,32,Clifford Rozier,1610612761,Toronto Raptors,3,0,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970217,IND,TOR
-Shot Chart Detail,0029600733,375,32,Clifford Rozier,1610612761,Toronto Raptors,4,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970217,IND,TOR
-Shot Chart Detail,0029600755,80,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,30,1,0,19970220,HOU,TOR
-Shot Chart Detail,0029600755,101,32,Clifford Rozier,1610612761,Toronto Raptors,1,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600755,115,32,Clifford Rozier,1610612761,Toronto Raptors,2,11,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600755,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,18,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,13,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600755,305,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,21,1,1,19970220,HOU,TOR
-Shot Chart Detail,0029600772,95,32,Clifford Rozier,1610612761,Toronto Raptors,2,11,14,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,14,54,1,0,19970222,DAL,TOR
-Shot Chart Detail,0029600792,71,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970225,DEN,TOR
-Shot Chart Detail,0029600792,87,32,Clifford Rozier,1610612761,Toronto Raptors,1,0,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970225,DEN,TOR
-Shot Chart Detail,0029600808,132,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970227,UTA,TOR
-Shot Chart Detail,0029600834,76,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,TOR,BOS
-Shot Chart Detail,0029600834,115,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,TOR,BOS
-Shot Chart Detail,0029600848,3,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,TOR,NYK
-Shot Chart Detail,0029600848,279,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-42,62,1,1,19970305,TOR,NYK
-Shot Chart Detail,0029600848,334,32,Clifford Rozier,1610612761,Toronto Raptors,3,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,TOR,NYK
-Shot Chart Detail,0029600848,422,32,Clifford Rozier,1610612761,Toronto Raptors,4,6,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,TOR,NYK
-Shot Chart Detail,0029600864,20,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,TOR,SAS
-Shot Chart Detail,0029600864,27,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,39,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,TOR,SAS
-Shot Chart Detail,0029600864,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,TOR,SAS
-Shot Chart Detail,0029600864,200,32,Clifford Rozier,1610612761,Toronto Raptors,2,3,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,0,19970307,TOR,SAS
-Shot Chart Detail,0029600864,214,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,TOR,SAS
-Shot Chart Detail,0029600864,304,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,TOR,SAS
-Shot Chart Detail,0029600880,17,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,19,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,39,1,0,19970309,TOR,VAN
-Shot Chart Detail,0029600880,83,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,TOR,VAN
-Shot Chart Detail,0029600896,26,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,51,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,58,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,64,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,114,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,206,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,220,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,258,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,270,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,19,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,294,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,10,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,336,32,Clifford Rozier,1610612761,Toronto Raptors,3,0,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,353,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,357,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600896,374,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,405,32,Clifford Rozier,1610612761,Toronto Raptors,4,4,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,58,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,411,32,Clifford Rozier,1610612761,Toronto Raptors,4,3,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,PHX,TOR
-Shot Chart Detail,0029600896,412,32,Clifford Rozier,1610612761,Toronto Raptors,4,3,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,PHX,TOR
-Shot Chart Detail,0029600911,59,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970313,SAC,TOR
-Shot Chart Detail,0029600911,191,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,52,1,0,19970313,SAC,TOR
-Shot Chart Detail,0029600935,54,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,LAL,TOR
-Shot Chart Detail,0029600935,281,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAL,TOR
-Shot Chart Detail,0029600935,307,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAL,TOR
-Shot Chart Detail,0029600935,309,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,LAL,TOR
-Shot Chart Detail,0029600946,11,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,56,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970318,TOR,PHI
-Shot Chart Detail,0029600946,241,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970318,TOR,PHI
-Shot Chart Detail,0029600946,243,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,285,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,TOR,PHI
-Shot Chart Detail,0029600946,317,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,54,1,0,19970318,TOR,PHI
-Shot Chart Detail,0029600957,22,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,DET,TOR
-Shot Chart Detail,0029600957,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,DET,TOR
-Shot Chart Detail,0029600957,52,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,DET,TOR
-Shot Chart Detail,0029600957,75,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-16,1,0,19970319,DET,TOR
-Shot Chart Detail,0029600957,239,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,8,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,-1,1,1,19970319,DET,TOR
-Shot Chart Detail,0029600970,15,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970321,TOR,CHH
-Shot Chart Detail,0029600970,39,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,0,19970321,TOR,CHH
-Shot Chart Detail,0029600970,68,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,56,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,41,1,0,19970321,TOR,CHH
-Shot Chart Detail,0029600970,72,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970321,TOR,CHH
-Shot Chart Detail,0029600970,237,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970321,TOR,CHH
-Shot Chart Detail,0029600986,18,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970323,TOR,ATL
-Shot Chart Detail,0029600986,243,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970323,TOR,ATL
-Shot Chart Detail,0029600994,23,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,18,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,TOR,IND
-Shot Chart Detail,0029600994,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,44,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,TOR,IND
-Shot Chart Detail,0029600994,232,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,TOR,IND
-Shot Chart Detail,0029601011,4,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,242,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,80,10,805,1,0,19970327,TOR,CHI
-Shot Chart Detail,0029601011,272,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,28,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,339,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,348,32,Clifford Rozier,1610612761,Toronto Raptors,4,9,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,TOR,CHI
-Shot Chart Detail,0029601011,354,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970327,TOR,CHI
-Shot Chart Detail,0029601011,378,32,Clifford Rozier,1610612761,Toronto Raptors,4,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,39,1,0,19970327,TOR,CHI
-Shot Chart Detail,0029601017,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,WAS,TOR
-Shot Chart Detail,0029601031,62,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,TOR,MIA
-Shot Chart Detail,0029601031,197,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,TOR,MIA
-Shot Chart Detail,0029601031,263,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,TOR,MIA
-Shot Chart Detail,0029601031,271,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,TOR,MIA
-Shot Chart Detail,0029601049,9,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,2,1,0,19970402,PHI,TOR
-Shot Chart Detail,0029601049,61,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970402,PHI,TOR
-Shot Chart Detail,0029601073,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,43,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,MIA,TOR
-Shot Chart Detail,0029601073,76,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,2,1,1,19970405,MIA,TOR
-Shot Chart Detail,0029601073,222,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,136,550,1,0,19970405,MIA,TOR
-Shot Chart Detail,0029601093,5,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,12,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,60,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,52,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,30,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,251,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,319,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601093,321,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,TOR,WAS
-Shot Chart Detail,0029601108,4,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,29,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,18,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,TOR,ORL
-Shot Chart Detail,0029601108,234,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,236,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,37,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,238,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,TOR,ORL
-Shot Chart Detail,0029601108,255,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,257,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,58,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601108,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,TOR,ORL
-Shot Chart Detail,0029601126,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601126,216,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970412,TOR,IND
-Shot Chart Detail,0029601126,214,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601126,234,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,15,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601126,238,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970412,TOR,IND
-Shot Chart Detail,0029601126,249,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,TOR,IND
-Shot Chart Detail,0029601142,26,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,CHI,TOR
-Shot Chart Detail,0029601142,241,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970414,CHI,TOR
-Shot Chart Detail,0029601142,261,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,CHI,TOR
-Shot Chart Detail,0029601142,265,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,CHI,TOR
-Shot Chart Detail,0029601142,343,32,Clifford Rozier,1610612761,Toronto Raptors,4,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,97,1,1,19970414,CHI,TOR
-Shot Chart Detail,0029601147,59,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-18,99,1,1,19970415,MIL,TOR
-Shot Chart Detail,0029601147,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,17,1,0,19970415,MIL,TOR
-Shot Chart Detail,0029601147,199,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,39,1,0,19970415,MIL,TOR
-Shot Chart Detail,0029601147,211,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970415,MIL,TOR
-Shot Chart Detail,0029601147,249,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,34,97,1,1,19970415,MIL,TOR
-Shot Chart Detail,0029601168,29,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970418,CHH,TOR
-Shot Chart Detail,0029601168,39,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970418,CHH,TOR
-Shot Chart Detail,0029601168,42,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970418,CHH,TOR
-Shot Chart Detail,0029601168,293,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970418,CHH,TOR
-Shot Chart Detail,0029601182,34,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970420,BOS,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29600013,123,32,Clifford Rozier,1610612744,Golden State Warriors,2,9,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,0,19961101,0,GSW,LAC
+Shot Chart Detail,29600596,78,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,50,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970125,0,CHI,TOR
+Shot Chart Detail,29600609,158,32,Clifford Rozier,1610612761,Toronto Raptors,2,7,56,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,0,TOR,POR
+Shot Chart Detail,29600609,160,32,Clifford Rozier,1610612761,Toronto Raptors,2,7,52,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,0,TOR,POR
+Shot Chart Detail,29600609,471,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,36,Missed Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,0,TOR,POR
+Shot Chart Detail,29600609,473,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,0,TOR,POR
+Shot Chart Detail,29600617,130,32,Clifford Rozier,1610612761,Toronto Raptors,2,9,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970129,1,PHI,TOR
+Shot Chart Detail,29600617,133,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,PHI,TOR
+Shot Chart Detail,29600617,326,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,PHI,TOR
+Shot Chart Detail,29600617,382,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,PHI,TOR
+Shot Chart Detail,29600640,196,32,Clifford Rozier,1610612761,Toronto Raptors,2,3,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970201,1,TOR,PHX
+Shot Chart Detail,29600656,117,32,Clifford Rozier,1610612761,Toronto Raptors,2,9,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-122,60,1,0,19970203,0,TOR,BOS
+Shot Chart Detail,29600656,139,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,52,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,21,1,0,19970203,0,TOR,BOS
+Shot Chart Detail,29600656,145,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970203,1,TOR,BOS
+Shot Chart Detail,29600670,31,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,54,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,0,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,57,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,1,TOR,CLE
+Shot Chart Detail,29600670,165,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,8,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,1,TOR,CLE
+Shot Chart Detail,29600670,235,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,3,249,1,0,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,265,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,18,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,1,TOR,CLE
+Shot Chart Detail,29600670,288,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,290,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,51,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,292,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,385,32,Clifford Rozier,1610612761,Toronto Raptors,4,5,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,392,32,Clifford Rozier,1610612761,Toronto Raptors,4,5,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,1,TOR,CLE
+Shot Chart Detail,29600670,431,32,Clifford Rozier,1610612761,Toronto Raptors,4,1,26,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,0,TOR,CLE
+Shot Chart Detail,29600670,433,32,Clifford Rozier,1610612761,Toronto Raptors,4,0,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970205,1,TOR,CLE
+Shot Chart Detail,29600687,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,1,MIL,TOR
+Shot Chart Detail,29600687,49,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970211,0,MIL,TOR
+Shot Chart Detail,29600687,190,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,45,1,0,19970211,0,MIL,TOR
+Shot Chart Detail,29600687,273,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,34,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,1,MIL,TOR
+Shot Chart Detail,29600695,19,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,38,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,168,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-120,-7,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,170,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,221,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,13,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,223,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,11,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,230,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,262,32,Clifford Rozier,1610612761,Toronto Raptors,3,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-99,73,1,1,19970212,0,ATL,TOR
+Shot Chart Detail,29600695,322,32,Clifford Rozier,1610612761,Toronto Raptors,4,9,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970212,0,ATL,TOR
+Shot Chart Detail,29600710,17,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,0,TOR,MIL
+Shot Chart Detail,29600710,19,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,0,TOR,MIL
+Shot Chart Detail,29600710,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,0,TOR,MIL
+Shot Chart Detail,29600710,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,0,TOR,MIL
+Shot Chart Detail,29600710,204,32,Clifford Rozier,1610612761,Toronto Raptors,2,6,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,1,TOR,MIL
+Shot Chart Detail,29600724,41,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,29,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970216,0,TOR,DET
+Shot Chart Detail,29600724,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,0,TOR,DET
+Shot Chart Detail,29600724,70,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,0,TOR,DET
+Shot Chart Detail,29600724,142,32,Clifford Rozier,1610612761,Toronto Raptors,2,8,26,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,1,TOR,DET
+Shot Chart Detail,29600733,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,1,57,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,65,1,0,19970217,0,IND,TOR
+Shot Chart Detail,29600733,342,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,36,1,0,19970217,0,IND,TOR
+Shot Chart Detail,29600733,351,32,Clifford Rozier,1610612761,Toronto Raptors,3,0,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970217,0,IND,TOR
+Shot Chart Detail,29600733,375,32,Clifford Rozier,1610612761,Toronto Raptors,4,10,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970217,0,IND,TOR
+Shot Chart Detail,29600755,80,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,30,1,0,19970220,0,HOU,TOR
+Shot Chart Detail,29600755,101,32,Clifford Rozier,1610612761,Toronto Raptors,1,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970220,1,HOU,TOR
+Shot Chart Detail,29600755,115,32,Clifford Rozier,1610612761,Toronto Raptors,2,11,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970220,1,HOU,TOR
+Shot Chart Detail,29600755,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,18,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,13,1,1,19970220,1,HOU,TOR
+Shot Chart Detail,29600755,305,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,21,1,1,19970220,0,HOU,TOR
+Shot Chart Detail,29600772,95,32,Clifford Rozier,1610612761,Toronto Raptors,2,11,14,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,14,54,1,0,19970222,0,DAL,TOR
+Shot Chart Detail,29600792,71,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970225,1,DEN,TOR
+Shot Chart Detail,29600792,87,32,Clifford Rozier,1610612761,Toronto Raptors,1,0,44,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970225,0,DEN,TOR
+Shot Chart Detail,29600808,132,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970227,0,UTA,TOR
+Shot Chart Detail,29600834,76,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,1,TOR,BOS
+Shot Chart Detail,29600834,115,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,1,TOR,BOS
+Shot Chart Detail,29600848,3,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,0,TOR,NYK
+Shot Chart Detail,29600848,279,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-42,62,1,1,19970305,1,TOR,NYK
+Shot Chart Detail,29600848,334,32,Clifford Rozier,1610612761,Toronto Raptors,3,3,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,0,TOR,NYK
+Shot Chart Detail,29600848,422,32,Clifford Rozier,1610612761,Toronto Raptors,4,6,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,0,TOR,NYK
+Shot Chart Detail,29600864,20,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,0,TOR,SAS
+Shot Chart Detail,29600864,27,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,39,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,0,TOR,SAS
+Shot Chart Detail,29600864,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,1,TOR,SAS
+Shot Chart Detail,29600864,200,32,Clifford Rozier,1610612761,Toronto Raptors,2,3,37,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,0,19970307,0,TOR,SAS
+Shot Chart Detail,29600864,214,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,43,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,1,TOR,SAS
+Shot Chart Detail,29600864,304,32,Clifford Rozier,1610612761,Toronto Raptors,3,4,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,0,TOR,SAS
+Shot Chart Detail,29600880,17,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,19,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,39,1,0,19970309,0,TOR,VAN
+Shot Chart Detail,29600880,83,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,33,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,0,TOR,VAN
+Shot Chart Detail,29600896,26,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,1,PHX,TOR
+Shot Chart Detail,29600896,51,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,50,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,1,PHX,TOR
+Shot Chart Detail,29600896,58,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,1,PHX,TOR
+Shot Chart Detail,29600896,64,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,114,32,Clifford Rozier,1610612761,Toronto Raptors,2,10,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,206,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,52,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,1,PHX,TOR
+Shot Chart Detail,29600896,220,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,258,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,1,PHX,TOR
+Shot Chart Detail,29600896,270,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,29,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,19,1,1,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,294,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,10,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,336,32,Clifford Rozier,1610612761,Toronto Raptors,3,0,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,353,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,357,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,1,PHX,TOR
+Shot Chart Detail,29600896,374,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,405,32,Clifford Rozier,1610612761,Toronto Raptors,4,4,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,58,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,412,32,Clifford Rozier,1610612761,Toronto Raptors,4,3,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970311,0,PHX,TOR
+Shot Chart Detail,29600896,411,32,Clifford Rozier,1610612761,Toronto Raptors,4,3,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,PHX,TOR
+Shot Chart Detail,29600911,59,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970313,1,SAC,TOR
+Shot Chart Detail,29600911,191,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,9,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,52,1,0,19970313,0,SAC,TOR
+Shot Chart Detail,29600935,54,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,0,LAL,TOR
+Shot Chart Detail,29600935,281,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,54,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,0,LAL,TOR
+Shot Chart Detail,29600935,307,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,58,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,1,LAL,TOR
+Shot Chart Detail,29600935,309,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,0,LAL,TOR
+Shot Chart Detail,29600946,11,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,1,TOR,PHI
+Shot Chart Detail,29600946,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,1,TOR,PHI
+Shot Chart Detail,29600946,56,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970318,0,TOR,PHI
+Shot Chart Detail,29600946,241,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970318,0,TOR,PHI
+Shot Chart Detail,29600946,243,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,0,TOR,PHI
+Shot Chart Detail,29600946,285,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,0,TOR,PHI
+Shot Chart Detail,29600946,317,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-81,54,1,0,19970318,0,TOR,PHI
+Shot Chart Detail,29600957,22,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,1,DET,TOR
+Shot Chart Detail,29600957,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,50,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,0,DET,TOR
+Shot Chart Detail,29600957,52,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,1,DET,TOR
+Shot Chart Detail,29600957,75,32,Clifford Rozier,1610612761,Toronto Raptors,1,2,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-170,-16,1,0,19970319,0,DET,TOR
+Shot Chart Detail,29600957,239,32,Clifford Rozier,1610612761,Toronto Raptors,3,8,8,Made Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,90,-1,1,1,19970319,1,DET,TOR
+Shot Chart Detail,29600970,15,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970321,1,TOR,CHH
+Shot Chart Detail,29600970,39,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,48,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,0,19970321,0,TOR,CHH
+Shot Chart Detail,29600970,68,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,56,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-21,41,1,0,19970321,0,TOR,CHH
+Shot Chart Detail,29600970,72,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970321,1,TOR,CHH
+Shot Chart Detail,29600970,237,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970321,0,TOR,CHH
+Shot Chart Detail,29600986,18,32,Clifford Rozier,1610612761,Toronto Raptors,1,9,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970323,0,TOR,ATL
+Shot Chart Detail,29600986,243,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,12,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970323,1,TOR,ATL
+Shot Chart Detail,29600994,23,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,18,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,0,TOR,IND
+Shot Chart Detail,29600994,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,44,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,0,TOR,IND
+Shot Chart Detail,29600994,232,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,0,TOR,IND
+Shot Chart Detail,29601011,4,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,0,TOR,CHI
+Shot Chart Detail,29601011,242,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,80,10,805,1,0,19970327,0,TOR,CHI
+Shot Chart Detail,29601011,272,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,28,1,1,19970327,1,TOR,CHI
+Shot Chart Detail,29601011,339,32,Clifford Rozier,1610612761,Toronto Raptors,4,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,1,TOR,CHI
+Shot Chart Detail,29601011,348,32,Clifford Rozier,1610612761,Toronto Raptors,4,9,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970327,1,TOR,CHI
+Shot Chart Detail,29601011,354,32,Clifford Rozier,1610612761,Toronto Raptors,4,8,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970327,0,TOR,CHI
+Shot Chart Detail,29601011,378,32,Clifford Rozier,1610612761,Toronto Raptors,4,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,39,1,0,19970327,0,TOR,CHI
+Shot Chart Detail,29601017,43,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,0,WAS,TOR
+Shot Chart Detail,29601031,62,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,0,TOR,MIA
+Shot Chart Detail,29601031,197,32,Clifford Rozier,1610612761,Toronto Raptors,2,2,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,0,TOR,MIA
+Shot Chart Detail,29601031,263,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,1,TOR,MIA
+Shot Chart Detail,29601031,271,32,Clifford Rozier,1610612761,Toronto Raptors,3,5,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,0,TOR,MIA
+Shot Chart Detail,29601049,9,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,2,1,0,19970402,0,PHI,TOR
+Shot Chart Detail,29601049,61,32,Clifford Rozier,1610612761,Toronto Raptors,1,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970402,0,PHI,TOR
+Shot Chart Detail,29601073,36,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,43,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,0,MIA,TOR
+Shot Chart Detail,29601073,76,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,28,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-94,2,1,1,19970405,0,MIA,TOR
+Shot Chart Detail,29601073,222,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,56,136,550,1,0,19970405,0,MIA,TOR
+Shot Chart Detail,29601093,5,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,TOR,WAS
+Shot Chart Detail,29601093,12,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,TOR,WAS
+Shot Chart Detail,29601093,60,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,52,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,30,1,0,19970408,0,TOR,WAS
+Shot Chart Detail,29601093,251,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,16,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,TOR,WAS
+Shot Chart Detail,29601093,319,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,TOR,WAS
+Shot Chart Detail,29601093,321,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,28,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,TOR,WAS
+Shot Chart Detail,29601108,4,32,Clifford Rozier,1610612761,Toronto Raptors,1,11,29,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,TOR,ORL
+Shot Chart Detail,29601108,18,32,Clifford Rozier,1610612761,Toronto Raptors,1,10,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,1,TOR,ORL
+Shot Chart Detail,29601108,234,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,TOR,ORL
+Shot Chart Detail,29601108,236,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,37,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,TOR,ORL
+Shot Chart Detail,29601108,238,32,Clifford Rozier,1610612761,Toronto Raptors,3,11,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,0,TOR,ORL
+Shot Chart Detail,29601108,255,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,TOR,ORL
+Shot Chart Detail,29601108,257,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,58,1,0,19970410,0,TOR,ORL
+Shot Chart Detail,29601108,259,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,TOR,ORL
+Shot Chart Detail,29601126,38,32,Clifford Rozier,1610612761,Toronto Raptors,1,6,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,0,TOR,IND
+Shot Chart Detail,29601126,216,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970412,0,TOR,IND
+Shot Chart Detail,29601126,214,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,0,TOR,IND
+Shot Chart Detail,29601126,234,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,15,1,0,19970412,0,TOR,IND
+Shot Chart Detail,29601126,238,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970412,0,TOR,IND
+Shot Chart Detail,29601126,249,32,Clifford Rozier,1610612761,Toronto Raptors,3,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970412,0,TOR,IND
+Shot Chart Detail,29601142,26,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,0,CHI,TOR
+Shot Chart Detail,29601142,241,32,Clifford Rozier,1610612761,Toronto Raptors,3,9,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970414,1,CHI,TOR
+Shot Chart Detail,29601142,261,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,0,CHI,TOR
+Shot Chart Detail,29601142,265,32,Clifford Rozier,1610612761,Toronto Raptors,3,6,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,0,CHI,TOR
+Shot Chart Detail,29601142,343,32,Clifford Rozier,1610612761,Toronto Raptors,4,10,13,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,125,97,1,1,19970414,1,CHI,TOR
+Shot Chart Detail,29601147,59,32,Clifford Rozier,1610612761,Toronto Raptors,1,5,6,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-18,99,1,1,19970415,0,MIL,TOR
+Shot Chart Detail,29601147,82,32,Clifford Rozier,1610612761,Toronto Raptors,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,17,1,0,19970415,0,MIL,TOR
+Shot Chart Detail,29601147,199,32,Clifford Rozier,1610612761,Toronto Raptors,2,1,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,94,39,1,0,19970415,0,MIL,TOR
+Shot Chart Detail,29601147,211,32,Clifford Rozier,1610612761,Toronto Raptors,2,0,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970415,0,MIL,TOR
+Shot Chart Detail,29601147,249,32,Clifford Rozier,1610612761,Toronto Raptors,3,7,47,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,34,97,1,1,19970415,1,MIL,TOR
+Shot Chart Detail,29601168,29,32,Clifford Rozier,1610612761,Toronto Raptors,1,8,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970418,0,CHH,TOR
+Shot Chart Detail,29601168,39,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970418,0,CHH,TOR
+Shot Chart Detail,29601168,42,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970418,1,CHH,TOR
+Shot Chart Detail,29601168,293,32,Clifford Rozier,1610612761,Toronto Raptors,3,2,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970418,0,CHH,TOR
+Shot Chart Detail,29601182,34,32,Clifford Rozier,1610612761,Toronto Raptors,1,7,49,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970420,0,BOS,TOR

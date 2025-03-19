@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041800115,613,1627775,Patrick McCaw,1610612761,Toronto Raptors,4,3,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-7,1,0,20190423,TOR,ORL
-Shot Chart Detail,0041800214,180,1627775,Patrick McCaw,1610612761,Toronto Raptors,2,9,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,72,1,0,20190505,PHI,TOR
-Shot Chart Detail,0041800215,634,1627775,Patrick McCaw,1610612761,Toronto Raptors,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,11,1,0,20190507,TOR,PHI
-Shot Chart Detail,0041800401,493,1627775,Patrick McCaw,1610612761,Toronto Raptors,3,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,198,1,1,20190530,TOR,GSW
-Shot Chart Detail,0041800401,523,1627775,Patrick McCaw,1610612761,Toronto Raptors,4,11,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,8,1,0,20190530,TOR,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41800115,613,1627775,Patrick McCaw,1610612761,Toronto Raptors,4,3,56,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,-7,1,0,20190423,0,TOR,ORL
+Shot Chart Detail,41800214,180,1627775,Patrick McCaw,1610612761,Toronto Raptors,2,9,59,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,72,1,0,20190505,0,PHI,TOR
+Shot Chart Detail,41800215,634,1627775,Patrick McCaw,1610612761,Toronto Raptors,4,1,37,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,11,1,0,20190507,0,TOR,PHI
+Shot Chart Detail,41800401,493,1627775,Patrick McCaw,1610612761,Toronto Raptors,3,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,198,1,1,20190530,1,TOR,GSW
+Shot Chart Detail,41800401,523,1627775,Patrick McCaw,1610612761,Toronto Raptors,4,11,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,8,1,0,20190530,0,TOR,GSW

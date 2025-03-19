@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040500164,447,101132,Linas Kleiza,1610612743,Denver Nuggets,4,3,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,28,1,1,20060429,DEN,LAC
-Shot Chart Detail,0040500164,464,101132,Linas Kleiza,1610612743,Denver Nuggets,4,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,150,1,0,20060429,DEN,LAC
-Shot Chart Detail,0040500164,478,101132,Linas Kleiza,1610612743,Denver Nuggets,4,0,34,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,63,1,0,20060429,DEN,LAC
-Shot Chart Detail,0040500165,389,101132,Linas Kleiza,1610612743,Denver Nuggets,4,8,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,86,1,0,20060501,LAC,DEN
-Shot Chart Detail,0040500165,405,101132,Linas Kleiza,1610612743,Denver Nuggets,4,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-67,209,1,1,20060501,LAC,DEN
-Shot Chart Detail,0040500165,410,101132,Linas Kleiza,1610612743,Denver Nuggets,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20060501,LAC,DEN
-Shot Chart Detail,0040500165,413,101132,Linas Kleiza,1610612743,Denver Nuggets,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-31,184,1,1,20060501,LAC,DEN
-Shot Chart Detail,0040500165,461,101132,Linas Kleiza,1610612743,Denver Nuggets,4,0,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,110,1,0,20060501,LAC,DEN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40500164,447,101132,Linas Kleiza,1610612743,Denver Nuggets,4,3,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,28,1,1,20060429,1,DEN,LAC
+Shot Chart Detail,40500164,464,101132,Linas Kleiza,1610612743,Denver Nuggets,4,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,150,1,0,20060429,0,DEN,LAC
+Shot Chart Detail,40500164,478,101132,Linas Kleiza,1610612743,Denver Nuggets,4,0,34,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,63,1,0,20060429,0,DEN,LAC
+Shot Chart Detail,40500165,389,101132,Linas Kleiza,1610612743,Denver Nuggets,4,8,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,86,1,0,20060501,0,LAC,DEN
+Shot Chart Detail,40500165,405,101132,Linas Kleiza,1610612743,Denver Nuggets,4,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-67,209,1,1,20060501,1,LAC,DEN
+Shot Chart Detail,40500165,410,101132,Linas Kleiza,1610612743,Denver Nuggets,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20060501,0,LAC,DEN
+Shot Chart Detail,40500165,413,101132,Linas Kleiza,1610612743,Denver Nuggets,4,5,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-31,184,1,1,20060501,1,LAC,DEN
+Shot Chart Detail,40500165,461,101132,Linas Kleiza,1610612743,Denver Nuggets,4,0,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,110,1,0,20060501,0,LAC,DEN

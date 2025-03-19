@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021100093,319,202399,Jeff Adrien,1610612745,Houston Rockets,3,1,23,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,25,1,0,20120104,LAC,HOU
-Shot Chart Detail,0021100093,359,202399,Jeff Adrien,1610612745,Houston Rockets,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,167,1,0,20120104,LAC,HOU
-Shot Chart Detail,0021100093,364,202399,Jeff Adrien,1610612745,Houston Rockets,4,8,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,52,1,0,20120104,LAC,HOU
-Shot Chart Detail,0021100093,390,202399,Jeff Adrien,1610612745,Houston Rockets,4,6,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,0,20120104,LAC,HOU
-Shot Chart Detail,0021100093,421,202399,Jeff Adrien,1610612745,Houston Rockets,4,4,16,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20120104,LAC,HOU
-Shot Chart Detail,0021100105,458,202399,Jeff Adrien,1610612745,Houston Rockets,4,6,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20120106,OKC,HOU
-Shot Chart Detail,0021100105,483,202399,Jeff Adrien,1610612745,Houston Rockets,4,3,52,Missed Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,1,1,0,20120106,OKC,HOU
-Shot Chart Detail,0021100105,494,202399,Jeff Adrien,1610612745,Houston Rockets,4,3,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,145,1,1,20120106,OKC,HOU
-Shot Chart Detail,0021100105,520,202399,Jeff Adrien,1610612745,Houston Rockets,4,0,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,74,1,1,20120106,OKC,HOU
-Shot Chart Detail,0021100200,465,202399,Jeff Adrien,1610612745,Houston Rockets,4,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,82,1,1,20120117,HOU,DET
-Shot Chart Detail,0021100279,529,202399,Jeff Adrien,1610612745,Houston Rockets,4,4,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20120127,HOU,WAS
-Shot Chart Detail,0021100279,546,202399,Jeff Adrien,1610612745,Houston Rockets,4,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-56,197,1,0,20120127,HOU,WAS
-Shot Chart Detail,0021100287,479,202399,Jeff Adrien,1610612745,Houston Rockets,4,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,21,198,1,0,20120128,HOU,NYK
-Shot Chart Detail,0021100365,349,202399,Jeff Adrien,1610612745,Houston Rockets,3,6,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,0,20120206,DEN,HOU
-Shot Chart Detail,0021100365,420,202399,Jeff Adrien,1610612745,Houston Rockets,3,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,64,197,1,1,20120206,DEN,HOU
-Shot Chart Detail,0021100365,457,202399,Jeff Adrien,1610612745,Houston Rockets,4,10,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,0,20120206,DEN,HOU
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21100093,319,202399,Jeff Adrien,1610612745,Houston Rockets,3,1,23,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-23,25,1,0,20120104,0,LAC,HOU
+Shot Chart Detail,21100093,359,202399,Jeff Adrien,1610612745,Houston Rockets,4,9,44,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,0,167,1,0,20120104,0,LAC,HOU
+Shot Chart Detail,21100093,364,202399,Jeff Adrien,1610612745,Houston Rockets,4,8,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,52,1,0,20120104,0,LAC,HOU
+Shot Chart Detail,21100093,390,202399,Jeff Adrien,1610612745,Houston Rockets,4,6,56,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,0,20120104,0,LAC,HOU
+Shot Chart Detail,21100093,421,202399,Jeff Adrien,1610612745,Houston Rockets,4,4,16,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20120104,0,LAC,HOU
+Shot Chart Detail,21100105,458,202399,Jeff Adrien,1610612745,Houston Rockets,4,6,28,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20120106,0,OKC,HOU
+Shot Chart Detail,21100105,483,202399,Jeff Adrien,1610612745,Houston Rockets,4,3,52,Missed Shot,Jump Bank Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,1,1,0,20120106,0,OKC,HOU
+Shot Chart Detail,21100105,494,202399,Jeff Adrien,1610612745,Houston Rockets,4,3,18,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-4,145,1,1,20120106,1,OKC,HOU
+Shot Chart Detail,21100105,520,202399,Jeff Adrien,1610612745,Houston Rockets,4,0,49,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,74,1,1,20120106,1,OKC,HOU
+Shot Chart Detail,21100200,465,202399,Jeff Adrien,1610612745,Houston Rockets,4,0,36,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,82,1,1,20120117,0,HOU,DET
+Shot Chart Detail,21100279,529,202399,Jeff Adrien,1610612745,Houston Rockets,4,4,18,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20120127,0,HOU,WAS
+Shot Chart Detail,21100279,546,202399,Jeff Adrien,1610612745,Houston Rockets,4,2,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-56,197,1,0,20120127,0,HOU,WAS
+Shot Chart Detail,21100287,479,202399,Jeff Adrien,1610612745,Houston Rockets,4,0,11,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,21,198,1,0,20120128,0,HOU,NYK
+Shot Chart Detail,21100365,349,202399,Jeff Adrien,1610612745,Houston Rockets,3,6,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,0,20120206,0,DEN,HOU
+Shot Chart Detail,21100365,420,202399,Jeff Adrien,1610612745,Houston Rockets,3,1,0,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,64,197,1,1,20120206,1,DEN,HOU
+Shot Chart Detail,21100365,457,202399,Jeff Adrien,1610612745,Houston Rockets,4,10,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,0,20120206,0,DEN,HOU

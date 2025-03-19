@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041900171,433,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,4,31,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,1,20200818,HOU,OKC
-Shot Chart Detail,0041900171,439,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,3,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,139,1,1,0,20200818,HOU,OKC
-Shot Chart Detail,0041900171,483,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,0,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200818,HOU,OKC
-Shot Chart Detail,0041900172,114,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,4,26,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,0,20200820,HOU,OKC
-Shot Chart Detail,0041900172,134,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,1,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20200820,HOU,OKC
-Shot Chart Detail,0041900172,434,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,2,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20200820,HOU,OKC
-Shot Chart Detail,0041900172,529,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,4,6,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-51,116,1,0,20200820,HOU,OKC
-Shot Chart Detail,0041900174,90,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,4,31,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20200824,OKC,HOU
-Shot Chart Detail,0041900174,452,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,0,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20200824,OKC,HOU
-Shot Chart Detail,0041900174,519,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,4,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,20,1,0,20200824,OKC,HOU
-Shot Chart Detail,0041900175,109,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,4,27,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20200829,HOU,OKC
-Shot Chart Detail,0041900175,142,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,2,30,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200829,HOU,OKC
-Shot Chart Detail,0041900175,171,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,0,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,67,-5,672,1,0,20200829,HOU,OKC
-Shot Chart Detail,0041900175,567,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,4,8,33,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,0,20200829,HOU,OKC
-Shot Chart Detail,0041900176,150,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,0,58,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,16,1,1,20200831,OKC,HOU
-Shot Chart Detail,0041900176,171,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,2,11,32,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-1,138,1,0,20200831,OKC,HOU
-Shot Chart Detail,0041900177,456,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20200902,HOU,OKC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41900171,433,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,4,31,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,1,20200818,1,HOU,OKC
+Shot Chart Detail,41900171,439,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,3,54,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,139,1,1,0,20200818,0,HOU,OKC
+Shot Chart Detail,41900171,483,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,0,0,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200818,0,HOU,OKC
+Shot Chart Detail,41900172,114,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,4,26,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,0,20200820,0,HOU,OKC
+Shot Chart Detail,41900172,134,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,1,15,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20200820,0,HOU,OKC
+Shot Chart Detail,41900172,434,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,2,52,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20200820,0,HOU,OKC
+Shot Chart Detail,41900172,529,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,4,6,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-51,116,1,0,20200820,0,HOU,OKC
+Shot Chart Detail,41900174,90,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,4,31,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20200824,1,OKC,HOU
+Shot Chart Detail,41900174,452,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,0,27,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,5,1,1,20200824,1,OKC,HOU
+Shot Chart Detail,41900174,519,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,4,7,23,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,20,1,0,20200824,0,OKC,HOU
+Shot Chart Detail,41900175,109,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,4,27,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20200829,1,HOU,OKC
+Shot Chart Detail,41900175,142,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,2,30,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200829,0,HOU,OKC
+Shot Chart Detail,41900175,171,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,0,0,Missed Shot,Pullup Jump shot,,Backcourt,Back Court(BC),Back Court Shot,67,-5,672,1,0,20200829,0,HOU,OKC
+Shot Chart Detail,41900175,567,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,4,8,33,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,0,20200829,0,HOU,OKC
+Shot Chart Detail,41900176,150,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,1,0,58,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,16,1,1,20200831,1,OKC,HOU
+Shot Chart Detail,41900176,171,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,2,11,32,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-1,138,1,0,20200831,0,OKC,HOU
+Shot Chart Detail,41900177,456,203457,Nerlens Noel,1610612760,Oklahoma City Thunder,3,1,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20200902,1,HOU,OKC

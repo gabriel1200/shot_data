@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041800204,89,203935,Marcus Smart,1610612738,Boston Celtics,1,5,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,211,1,0,20190506,BOS,MIL
-Shot Chart Detail,0041800204,115,203935,Marcus Smart,1610612738,Boston Celtics,1,3,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,105,1,0,20190506,BOS,MIL
-Shot Chart Detail,0041800204,123,203935,Marcus Smart,1610612738,Boston Celtics,1,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,205,1,1,20190506,BOS,MIL
-Shot Chart Detail,0041800204,261,203935,Marcus Smart,1610612738,Boston Celtics,2,6,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,185,176,1,0,20190506,BOS,MIL
-Shot Chart Detail,0041800204,274,203935,Marcus Smart,1610612738,Boston Celtics,2,5,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,34,1,0,20190506,BOS,MIL
-Shot Chart Detail,0041800204,584,203935,Marcus Smart,1610612738,Boston Celtics,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,63,4,630,1,0,20190506,BOS,MIL
-Shot Chart Detail,0041800204,606,203935,Marcus Smart,1610612738,Boston Celtics,4,10,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,215,1,0,20190506,BOS,MIL
-Shot Chart Detail,0041800205,264,203935,Marcus Smart,1610612738,Boston Celtics,2,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,234,1,0,20190508,MIL,BOS
-Shot Chart Detail,0041800205,269,203935,Marcus Smart,1610612738,Boston Celtics,2,7,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,149,239,1,0,20190508,MIL,BOS
-Shot Chart Detail,0041800205,295,203935,Marcus Smart,1610612738,Boston Celtics,2,5,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-2,1,0,20190508,MIL,BOS
-Shot Chart Detail,0041800205,513,203935,Marcus Smart,1610612738,Boston Celtics,3,3,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-5,1,0,20190508,MIL,BOS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41800204,89,203935,Marcus Smart,1610612738,Boston Celtics,1,5,28,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,211,1,0,20190506,0,BOS,MIL
+Shot Chart Detail,41800204,115,203935,Marcus Smart,1610612738,Boston Celtics,1,3,43,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,105,1,0,20190506,0,BOS,MIL
+Shot Chart Detail,41800204,123,203935,Marcus Smart,1610612738,Boston Celtics,1,2,42,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,205,1,1,20190506,1,BOS,MIL
+Shot Chart Detail,41800204,261,203935,Marcus Smart,1610612738,Boston Celtics,2,6,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,185,176,1,0,20190506,0,BOS,MIL
+Shot Chart Detail,41800204,274,203935,Marcus Smart,1610612738,Boston Celtics,2,5,16,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,34,1,0,20190506,0,BOS,MIL
+Shot Chart Detail,41800204,584,203935,Marcus Smart,1610612738,Boston Celtics,3,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,63,4,630,1,0,20190506,0,BOS,MIL
+Shot Chart Detail,41800204,606,203935,Marcus Smart,1610612738,Boston Celtics,4,10,31,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,215,1,0,20190506,0,BOS,MIL
+Shot Chart Detail,41800205,264,203935,Marcus Smart,1610612738,Boston Celtics,2,7,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,234,1,0,20190508,0,MIL,BOS
+Shot Chart Detail,41800205,269,203935,Marcus Smart,1610612738,Boston Celtics,2,7,9,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,149,239,1,0,20190508,0,MIL,BOS
+Shot Chart Detail,41800205,295,203935,Marcus Smart,1610612738,Boston Celtics,2,5,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,-2,1,0,20190508,0,MIL,BOS
+Shot Chart Detail,41800205,513,203935,Marcus Smart,1610612738,Boston Celtics,3,3,56,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-5,1,0,20190508,0,MIL,BOS

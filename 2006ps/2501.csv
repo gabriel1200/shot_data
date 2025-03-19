@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040500161,130,2501,Reggie Evans,1610612743,Denver Nuggets,1,0,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060422,LAC,DEN
-Shot Chart Detail,0040500161,180,2501,Reggie Evans,1610612743,Denver Nuggets,2,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,13,1,0,20060422,LAC,DEN
-Shot Chart Detail,0040500163,281,2501,Reggie Evans,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,35,-200,288,1,0,20060427,DEN,LAC
-Shot Chart Detail,0040500163,418,2501,Reggie Evans,1610612743,Denver Nuggets,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060427,DEN,LAC
-Shot Chart Detail,0040500164,104,2501,Reggie Evans,1610612743,Denver Nuggets,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,71,10,717,1,0,20060429,DEN,LAC
-Shot Chart Detail,0040500164,112,2501,Reggie Evans,1610612743,Denver Nuggets,2,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060429,DEN,LAC
-Shot Chart Detail,0040500165,160,2501,Reggie Evans,1610612743,Denver Nuggets,2,8,12,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060501,LAC,DEN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40500161,130,2501,Reggie Evans,1610612743,Denver Nuggets,1,0,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060422,0,LAC,DEN
+Shot Chart Detail,40500161,180,2501,Reggie Evans,1610612743,Denver Nuggets,2,6,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-171,13,1,0,20060422,0,LAC,DEN
+Shot Chart Detail,40500163,281,2501,Reggie Evans,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,35,-200,288,1,0,20060427,0,DEN,LAC
+Shot Chart Detail,40500163,418,2501,Reggie Evans,1610612743,Denver Nuggets,3,0,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060427,1,DEN,LAC
+Shot Chart Detail,40500164,104,2501,Reggie Evans,1610612743,Denver Nuggets,1,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,71,10,717,1,0,20060429,0,DEN,LAC
+Shot Chart Detail,40500164,112,2501,Reggie Evans,1610612743,Denver Nuggets,2,11,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060429,0,DEN,LAC
+Shot Chart Detail,40500165,160,2501,Reggie Evans,1610612743,Denver Nuggets,2,8,12,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060501,1,LAC,DEN

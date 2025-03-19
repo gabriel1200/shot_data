@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0022100522,669,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,0,48,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,34,1,0,20211229,PHX,OKC
-Shot Chart Detail,0022100522,667,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,0,46,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,32,1,0,20211229,PHX,OKC
-Shot Chart Detail,0022100522,676,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,0,44,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,0,20211229,PHX,OKC
-Shot Chart Detail,0022100529,402,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,5,19,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20211231,BOS,PHX
-Shot Chart Detail,0022100549,661,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,2,14,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20220102,CHA,PHX
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22100522,669,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,0,48,Missed Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,34,1,0,20211229,0,PHX,OKC
+Shot Chart Detail,22100522,667,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,0,46,Missed Shot,Putback Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,32,1,0,20211229,0,PHX,OKC
+Shot Chart Detail,22100522,676,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,0,44,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,17,1,0,20211229,0,PHX,OKC
+Shot Chart Detail,22100529,402,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,5,19,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20211231,0,BOS,PHX
+Shot Chart Detail,22100549,661,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,2,14,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20220102,0,CHA,PHX

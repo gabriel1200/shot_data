@@ -1,601 +1,301 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021400007,15,200761,Shawne Williams,1610612748,Miami Heat,1,10,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,33,200761,Shawne Williams,1610612748,Miami Heat,1,8,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,249,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,45,200761,Shawne Williams,1610612748,Miami Heat,1,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,206,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,159,200761,Shawne Williams,1610612748,Miami Heat,2,7,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,15,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,166,200761,Shawne Williams,1610612748,Miami Heat,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,25,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,197,200761,Shawne Williams,1610612748,Miami Heat,2,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-84,238,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,246,200761,Shawne Williams,1610612748,Miami Heat,3,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,257,200761,Shawne Williams,1610612748,Miami Heat,3,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20141029,MIA,WAS
-Shot Chart Detail,0021400007,404,200761,Shawne Williams,1610612748,Miami Heat,4,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,184,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400030,45,200761,Shawne Williams,1610612748,Miami Heat,1,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400030,80,200761,Shawne Williams,1610612748,Miami Heat,1,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,126,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,212,200761,Shawne Williams,1610612748,Miami Heat,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,176,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,233,200761,Shawne Williams,1610612748,Miami Heat,2,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-160,220,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,316,200761,Shawne Williams,1610612748,Miami Heat,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,20,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,319,200761,Shawne Williams,1610612748,Miami Heat,3,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,133,220,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400030,332,200761,Shawne Williams,1610612748,Miami Heat,3,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400030,521,200761,Shawne Williams,1610612748,Miami Heat,4,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,82,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,542,200761,Shawne Williams,1610612748,Miami Heat,4,1,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,224,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400040,21,200761,Shawne Williams,1610612748,Miami Heat,1,9,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,6,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,30,200761,Shawne Williams,1610612748,Miami Heat,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,44,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,156,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,195,200761,Shawne Williams,1610612748,Miami Heat,2,7,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,135,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,321,200761,Shawne Williams,1610612748,Miami Heat,3,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,360,200761,Shawne Williams,1610612748,Miami Heat,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,12,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,477,200761,Shawne Williams,1610612748,Miami Heat,4,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,131,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,492,200761,Shawne Williams,1610612748,Miami Heat,4,5,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,502,200761,Shawne Williams,1610612748,Miami Heat,4,4,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,0,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,547,200761,Shawne Williams,1610612748,Miami Heat,4,1,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,-2,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400050,21,200761,Shawne Williams,1610612748,Miami Heat,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,0,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400050,38,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,183,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400050,171,200761,Shawne Williams,1610612748,Miami Heat,2,7,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,14,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400050,187,200761,Shawne Williams,1610612748,Miami Heat,2,6,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20141104,MIA,HOU
-Shot Chart Detail,0021400050,320,200761,Shawne Williams,1610612748,Miami Heat,3,7,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,206,1,0,20141104,MIA,HOU
-Shot Chart Detail,0021400050,525,200761,Shawne Williams,1610612748,Miami Heat,4,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,160,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400057,10,200761,Shawne Williams,1610612748,Miami Heat,1,10,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,1,20141105,CHA,MIA
-Shot Chart Detail,0021400057,177,200761,Shawne Williams,1610612748,Miami Heat,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,39,1,1,20141105,CHA,MIA
-Shot Chart Detail,0021400057,209,200761,Shawne Williams,1610612748,Miami Heat,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,36,1,1,20141105,CHA,MIA
-Shot Chart Detail,0021400057,321,200761,Shawne Williams,1610612748,Miami Heat,3,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,88,1,0,20141105,CHA,MIA
-Shot Chart Detail,0021400057,482,200761,Shawne Williams,1610612748,Miami Heat,4,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,0,20141105,CHA,MIA
-Shot Chart Detail,0021400085,21,200761,Shawne Williams,1610612748,Miami Heat,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20141108,MIA,MIN
-Shot Chart Detail,0021400085,64,200761,Shawne Williams,1610612748,Miami Heat,1,3,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,181,200761,Shawne Williams,1610612748,Miami Heat,2,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,164,1,1,20141108,MIA,MIN
-Shot Chart Detail,0021400085,199,200761,Shawne Williams,1610612748,Miami Heat,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,12,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,205,200761,Shawne Williams,1610612748,Miami Heat,2,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,194,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,255,200761,Shawne Williams,1610612748,Miami Heat,3,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,116,1,1,20141108,MIA,MIN
-Shot Chart Detail,0021400085,263,200761,Shawne Williams,1610612748,Miami Heat,3,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,69,167,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,449,200761,Shawne Williams,1610612748,Miami Heat,4,5,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,17,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,481,200761,Shawne Williams,1610612748,Miami Heat,4,3,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-2,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400094,5,200761,Shawne Williams,1610612748,Miami Heat,1,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,12,1,1,20141109,DAL,MIA
-Shot Chart Detail,0021400094,13,200761,Shawne Williams,1610612748,Miami Heat,1,9,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,20,1,0,20141109,DAL,MIA
-Shot Chart Detail,0021400094,270,200761,Shawne Williams,1610612748,Miami Heat,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,14,1,1,20141109,DAL,MIA
-Shot Chart Detail,0021400094,275,200761,Shawne Williams,1610612748,Miami Heat,3,9,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,9,1,0,20141109,DAL,MIA
-Shot Chart Detail,0021400094,278,200761,Shawne Williams,1610612748,Miami Heat,3,9,8,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141109,DAL,MIA
-Shot Chart Detail,0021400112,20,200761,Shawne Williams,1610612748,Miami Heat,1,9,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,20,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,43,200761,Shawne Williams,1610612748,Miami Heat,1,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,80,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,182,200761,Shawne Williams,1610612748,Miami Heat,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,0,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,233,200761,Shawne Williams,1610612748,Miami Heat,3,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,200,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,256,200761,Shawne Williams,1610612748,Miami Heat,3,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,146,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,264,200761,Shawne Williams,1610612748,Miami Heat,3,6,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,0,20141112,MIA,IND
-Shot Chart Detail,0021400124,40,200761,Shawne Williams,1610612748,Miami Heat,1,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,14,1,0,20141114,ATL,MIA
-Shot Chart Detail,0021400124,53,200761,Shawne Williams,1610612748,Miami Heat,1,6,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,78,200761,Shawne Williams,1610612748,Miami Heat,1,4,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,37,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,185,200761,Shawne Williams,1610612748,Miami Heat,2,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,119,170,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,209,200761,Shawne Williams,1610612748,Miami Heat,2,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,220,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,212,200761,Shawne Williams,1610612748,Miami Heat,2,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,203,1,0,20141114,ATL,MIA
-Shot Chart Detail,0021400124,232,200761,Shawne Williams,1610612748,Miami Heat,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-213,3,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,297,200761,Shawne Williams,1610612748,Miami Heat,3,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,306,200761,Shawne Williams,1610612748,Miami Heat,3,6,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,28,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,324,200761,Shawne Williams,1610612748,Miami Heat,3,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,91,1,0,20141114,ATL,MIA
-Shot Chart Detail,0021400124,515,200761,Shawne Williams,1610612748,Miami Heat,4,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,230,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400143,7,200761,Shawne Williams,1610612748,Miami Heat,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,39,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400143,16,200761,Shawne Williams,1610612748,Miami Heat,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-11,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,187,200761,Shawne Williams,1610612748,Miami Heat,2,4,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,44,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400143,189,200761,Shawne Williams,1610612748,Miami Heat,2,4,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,30,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400143,390,200761,Shawne Williams,1610612748,Miami Heat,4,10,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-3,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,415,200761,Shawne Williams,1610612748,Miami Heat,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,209,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,433,200761,Shawne Williams,1610612748,Miami Heat,4,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,469,200761,Shawne Williams,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,480,200761,Shawne Williams,1610612748,Miami Heat,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,208,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400149,72,200761,Shawne Williams,1610612748,Miami Heat,1,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-11,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400149,225,200761,Shawne Williams,1610612748,Miami Heat,2,0,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-131,200,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400149,351,200761,Shawne Williams,1610612748,Miami Heat,3,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,153,1,1,20141117,BKN,MIA
-Shot Chart Detail,0021400149,412,200761,Shawne Williams,1610612748,Miami Heat,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,179,110,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400149,455,200761,Shawne Williams,1610612748,Miami Heat,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400170,33,200761,Shawne Williams,1610612748,Miami Heat,1,7,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,99,172,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400170,188,200761,Shawne Williams,1610612748,Miami Heat,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400170,190,200761,Shawne Williams,1610612748,Miami Heat,2,3,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,0,1,1,20141120,MIA,LAC
-Shot Chart Detail,0021400170,192,200761,Shawne Williams,1610612748,Miami Heat,2,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,20,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400170,483,200761,Shawne Williams,1610612748,Miami Heat,4,0,39,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,1,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400185,25,200761,Shawne Williams,1610612748,Miami Heat,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,134,1,1,20141122,ORL,MIA
-Shot Chart Detail,0021400185,39,200761,Shawne Williams,1610612748,Miami Heat,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,203,1,1,20141122,ORL,MIA
-Shot Chart Detail,0021400185,63,200761,Shawne Williams,1610612748,Miami Heat,1,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,206,1,0,20141122,ORL,MIA
-Shot Chart Detail,0021400185,166,200761,Shawne Williams,1610612748,Miami Heat,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,164,1,1,20141122,ORL,MIA
-Shot Chart Detail,0021400185,246,200761,Shawne Williams,1610612748,Miami Heat,2,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,4,271,1,0,20141122,ORL,MIA
-Shot Chart Detail,0021400185,335,200761,Shawne Williams,1610612748,Miami Heat,3,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-11,1,0,20141122,ORL,MIA
-Shot Chart Detail,0021400195,149,200761,Shawne Williams,1610612748,Miami Heat,2,6,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-2,1,1,20141123,MIA,CHA
-Shot Chart Detail,0021400195,243,200761,Shawne Williams,1610612748,Miami Heat,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,4,1,0,20141123,MIA,CHA
-Shot Chart Detail,0021400195,246,200761,Shawne Williams,1610612748,Miami Heat,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,140,1,1,20141123,MIA,CHA
-Shot Chart Detail,0021400195,274,200761,Shawne Williams,1610612748,Miami Heat,3,4,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,3,1,0,20141123,MIA,CHA
-Shot Chart Detail,0021400206,11,200761,Shawne Williams,1610612748,Miami Heat,1,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,25,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,27,200761,Shawne Williams,1610612748,Miami Heat,1,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,69,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400206,297,200761,Shawne Williams,1610612748,Miami Heat,3,7,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400206,298,200761,Shawne Williams,1610612748,Miami Heat,3,7,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-3,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,312,200761,Shawne Williams,1610612748,Miami Heat,3,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,138,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,315,200761,Shawne Williams,1610612748,Miami Heat,3,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,108,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,523,200761,Shawne Williams,1610612748,Miami Heat,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,36,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400206,534,200761,Shawne Williams,1610612748,Miami Heat,4,0,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-202,126,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400245,199,200761,Shawne Williams,1610612748,Miami Heat,2,5,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-6,1,0,20141130,NYK,MIA
-Shot Chart Detail,0021400245,294,200761,Shawne Williams,1610612748,Miami Heat,3,9,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,179,1,0,20141130,NYK,MIA
-Shot Chart Detail,0021400245,317,200761,Shawne Williams,1610612748,Miami Heat,3,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-226,107,1,1,20141130,NYK,MIA
-Shot Chart Detail,0021400245,327,200761,Shawne Williams,1610612748,Miami Heat,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-16,1,0,20141130,NYK,MIA
-Shot Chart Detail,0021400250,43,200761,Shawne Williams,1610612748,Miami Heat,1,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,220,1,0,20141201,WAS,MIA
-Shot Chart Detail,0021400250,290,200761,Shawne Williams,1610612748,Miami Heat,3,8,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,9,1,0,20141201,WAS,MIA
-Shot Chart Detail,0021400250,327,200761,Shawne Williams,1610612748,Miami Heat,3,4,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,1,1,1,20141201,WAS,MIA
-Shot Chart Detail,0021400267,179,200761,Shawne Williams,1610612748,Miami Heat,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,47,1,1,20141203,MIA,ATL
-Shot Chart Detail,0021400267,185,200761,Shawne Williams,1610612748,Miami Heat,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,1,20141203,MIA,ATL
-Shot Chart Detail,0021400267,189,200761,Shawne Williams,1610612748,Miami Heat,2,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,0,1,0,20141203,MIA,ATL
-Shot Chart Detail,0021400267,335,200761,Shawne Williams,1610612748,Miami Heat,3,4,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-16,1,0,20141203,MIA,ATL
-Shot Chart Detail,0021400267,374,200761,Shawne Williams,1610612748,Miami Heat,3,0,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,0,20141203,MIA,ATL
-Shot Chart Detail,0021400285,450,200761,Shawne Williams,1610612748,Miami Heat,4,3,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-5,1,0,20141205,MIL,MIA
-Shot Chart Detail,0021400285,474,200761,Shawne Williams,1610612748,Miami Heat,4,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141205,MIL,MIA
-Shot Chart Detail,0021400285,477,200761,Shawne Williams,1610612748,Miami Heat,4,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,83,247,1,0,20141205,MIL,MIA
-Shot Chart Detail,0021400296,83,200761,Shawne Williams,1610612748,Miami Heat,1,1,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,119,200761,Shawne Williams,1610612748,Miami Heat,2,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,34,1,1,20141207,MEM,MIA
-Shot Chart Detail,0021400296,128,200761,Shawne Williams,1610612748,Miami Heat,2,8,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,130,200761,Shawne Williams,1610612748,Miami Heat,2,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-8,1,1,20141207,MEM,MIA
-Shot Chart Detail,0021400296,137,200761,Shawne Williams,1610612748,Miami Heat,2,7,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,12,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,319,200761,Shawne Williams,1610612748,Miami Heat,4,8,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-16,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,326,200761,Shawne Williams,1610612748,Miami Heat,4,8,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-17,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400325,163,200761,Shawne Williams,1610612748,Miami Heat,2,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,195,1,1,20141210,DEN,MIA
-Shot Chart Detail,0021400325,178,200761,Shawne Williams,1610612748,Miami Heat,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,206,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,181,200761,Shawne Williams,1610612748,Miami Heat,2,6,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,30,1,1,20141210,DEN,MIA
-Shot Chart Detail,0021400325,197,200761,Shawne Williams,1610612748,Miami Heat,2,4,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,204,200761,Shawne Williams,1610612748,Miami Heat,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,183,1,1,20141210,DEN,MIA
-Shot Chart Detail,0021400325,210,200761,Shawne Williams,1610612748,Miami Heat,2,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,10,225,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,385,200761,Shawne Williams,1610612748,Miami Heat,3,0,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,3,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,487,200761,Shawne Williams,1610612748,Miami Heat,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,60,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,525,200761,Shawne Williams,1610612748,Miami Heat,4,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,198,28,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400338,149,200761,Shawne Williams,1610612748,Miami Heat,2,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,1,20141212,UTA,MIA
-Shot Chart Detail,0021400349,64,200761,Shawne Williams,1610612748,Miami Heat,1,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,190,1,1,20141214,MIA,CHI
-Shot Chart Detail,0021400349,148,200761,Shawne Williams,1610612748,Miami Heat,2,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,183,1,0,20141214,MIA,CHI
-Shot Chart Detail,0021400349,269,200761,Shawne Williams,1610612748,Miami Heat,3,10,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,172,1,0,20141214,MIA,CHI
-Shot Chart Detail,0021400349,294,200761,Shawne Williams,1610612748,Miami Heat,3,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-100,121,1,0,20141214,MIA,CHI
-Shot Chart Detail,0021400364,122,200761,Shawne Williams,1610612748,Miami Heat,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-17,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,130,200761,Shawne Williams,1610612748,Miami Heat,1,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,168,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,138,200761,Shawne Williams,1610612748,Miami Heat,2,11,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-30,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,141,200761,Shawne Williams,1610612748,Miami Heat,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,1,20141216,BKN,MIA
-Shot Chart Detail,0021400364,143,200761,Shawne Williams,1610612748,Miami Heat,2,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,-25,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,166,200761,Shawne Williams,1610612748,Miami Heat,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-157,113,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,173,200761,Shawne Williams,1610612748,Miami Heat,2,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-24,1,1,20141216,BKN,MIA
-Shot Chart Detail,0021400364,383,200761,Shawne Williams,1610612748,Miami Heat,3,0,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-16,1,1,20141216,BKN,MIA
-Shot Chart Detail,0021400373,115,200761,Shawne Williams,1610612748,Miami Heat,1,0,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-5,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,152,200761,Shawne Williams,1610612748,Miami Heat,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,194,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,277,200761,Shawne Williams,1610612748,Miami Heat,3,11,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-8,1,1,20141217,MIA,UTA
-Shot Chart Detail,0021400373,313,200761,Shawne Williams,1610612748,Miami Heat,3,7,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-8,1,1,20141217,MIA,UTA
-Shot Chart Detail,0021400373,345,200761,Shawne Williams,1610612748,Miami Heat,3,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,416,200761,Shawne Williams,1610612748,Miami Heat,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,58,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,442,200761,Shawne Williams,1610612748,Miami Heat,4,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,165,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400388,18,200761,Shawne Williams,1610612748,Miami Heat,1,9,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,4,1,0,20141219,MIA,WAS
-Shot Chart Detail,0021400388,24,200761,Shawne Williams,1610612748,Miami Heat,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,170,1,1,20141219,MIA,WAS
-Shot Chart Detail,0021400388,66,200761,Shawne Williams,1610612748,Miami Heat,1,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,0,1,1,20141219,MIA,WAS
-Shot Chart Detail,0021400388,212,200761,Shawne Williams,1610612748,Miami Heat,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,7,1,1,20141219,MIA,WAS
-Shot Chart Detail,0021400388,271,200761,Shawne Williams,1610612748,Miami Heat,3,9,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,37,1,0,20141219,MIA,WAS
-Shot Chart Detail,0021400388,313,200761,Shawne Williams,1610612748,Miami Heat,3,3,48,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-119,164,1,0,20141219,MIA,WAS
-Shot Chart Detail,0021400404,15,200761,Shawne Williams,1610612748,Miami Heat,1,10,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,1,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,23,200761,Shawne Williams,1610612748,Miami Heat,1,9,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,25,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,26,200761,Shawne Williams,1610612748,Miami Heat,1,8,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,6,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,36,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,15,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,64,200761,Shawne Williams,1610612748,Miami Heat,1,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,28,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,250,200761,Shawne Williams,1610612748,Miami Heat,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,43,-202,388,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,263,200761,Shawne Williams,1610612748,Miami Heat,3,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,205,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,300,200761,Shawne Williams,1610612748,Miami Heat,3,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,123,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,380,200761,Shawne Williams,1610612748,Miami Heat,4,10,46,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,36,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,383,200761,Shawne Williams,1610612748,Miami Heat,4,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-65,239,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,425,200761,Shawne Williams,1610612748,Miami Heat,4,6,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,6,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400422,13,200761,Shawne Williams,1610612748,Miami Heat,1,10,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,19,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,19,200761,Shawne Williams,1610612748,Miami Heat,1,9,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,194,1,0,20141223,MIA,PHI
-Shot Chart Detail,0021400422,51,200761,Shawne Williams,1610612748,Miami Heat,1,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,9,1,0,20141223,MIA,PHI
-Shot Chart Detail,0021400422,268,200761,Shawne Williams,1610612748,Miami Heat,2,0,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,23,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,287,200761,Shawne Williams,1610612748,Miami Heat,3,10,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,7,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,289,200761,Shawne Williams,1610612748,Miami Heat,3,9,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,293,200761,Shawne Williams,1610612748,Miami Heat,3,9,23,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,305,200761,Shawne Williams,1610612748,Miami Heat,3,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,545,200761,Shawne Williams,1610612748,Miami Heat,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,14,1,0,20141223,MIA,PHI
-Shot Chart Detail,0021400429,39,200761,Shawne Williams,1610612748,Miami Heat,1,7,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400429,154,200761,Shawne Williams,1610612748,Miami Heat,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,160,1,1,20141225,MIA,CLE
-Shot Chart Detail,0021400429,161,200761,Shawne Williams,1610612748,Miami Heat,2,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,170,99,1,1,20141225,MIA,CLE
-Shot Chart Detail,0021400429,163,200761,Shawne Williams,1610612748,Miami Heat,2,8,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,160,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400429,276,200761,Shawne Williams,1610612748,Miami Heat,3,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,203,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400429,362,200761,Shawne Williams,1610612748,Miami Heat,3,3,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-142,192,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400446,14,200761,Shawne Williams,1610612748,Miami Heat,1,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-180,71,1,0,20141227,MIA,MEM
-Shot Chart Detail,0021400446,17,200761,Shawne Williams,1610612748,Miami Heat,1,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20141227,MIA,MEM
-Shot Chart Detail,0021400446,252,200761,Shawne Williams,1610612748,Miami Heat,3,9,48,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,41,1,0,20141227,MIA,MEM
-Shot Chart Detail,0021400446,278,200761,Shawne Williams,1610612748,Miami Heat,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,208,1,1,20141227,MIA,MEM
-Shot Chart Detail,0021400446,281,200761,Shawne Williams,1610612748,Miami Heat,3,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20141227,MIA,MEM
-Shot Chart Detail,0021400497,141,200761,Shawne Williams,1610612748,Miami Heat,2,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,43,258,1,0,20150103,HOU,MIA
-Shot Chart Detail,0021400497,419,200761,Shawne Williams,1610612748,Miami Heat,3,1,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,203,1,0,20150103,HOU,MIA
-Shot Chart Detail,0021400497,458,200761,Shawne Williams,1610612748,Miami Heat,4,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,217,1,0,20150103,HOU,MIA
-Shot Chart Detail,0021400537,493,200761,Shawne Williams,1610612748,Miami Heat,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,9,1,0,20150108,POR,MIA
-Shot Chart Detail,0021400537,504,200761,Shawne Williams,1610612748,Miami Heat,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,115,1,0,20150108,POR,MIA
-Shot Chart Detail,0021400573,350,200761,Shawne Williams,1610612748,Miami Heat,3,3,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-8,1,1,20150113,LAL,MIA
-Shot Chart Detail,0021400582,154,200761,Shawne Williams,1610612748,Miami Heat,2,5,49,Missed Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,0,20150114,GSW,MIA
-Shot Chart Detail,0021400582,367,200761,Shawne Williams,1610612748,Miami Heat,4,10,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,113,102,1,1,20150114,GSW,MIA
-Shot Chart Detail,0021400582,370,200761,Shawne Williams,1610612748,Miami Heat,4,9,46,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,151,224,1,0,20150114,GSW,MIA
-Shot Chart Detail,0021400582,376,200761,Shawne Williams,1610612748,Miami Heat,4,9,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,186,1,1,20150114,GSW,MIA
-Shot Chart Detail,0021400598,142,200761,Shawne Williams,1610612748,Miami Heat,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,30,1,1,20150116,SAC,MIA
-Shot Chart Detail,0021400598,239,200761,Shawne Williams,1610612748,Miami Heat,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,6,1,1,20150116,SAC,MIA
-Shot Chart Detail,0021400623,400,200761,Shawne Williams,1610612748,Miami Heat,4,11,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,4,1,0,20150120,MIA,OKC
-Shot Chart Detail,0021400623,405,200761,Shawne Williams,1610612748,Miami Heat,4,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,129,1,1,20150120,MIA,OKC
-Shot Chart Detail,0021400623,418,200761,Shawne Williams,1610612748,Miami Heat,4,9,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,20,1,0,20150120,MIA,OKC
-Shot Chart Detail,0021400623,450,200761,Shawne Williams,1610612748,Miami Heat,4,5,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,132,208,1,0,20150120,MIA,OKC
-Shot Chart Detail,0021400625,124,200761,Shawne Williams,1610612748,Miami Heat,1,1,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,44,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,170,200761,Shawne Williams,1610612748,Miami Heat,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,192,200761,Shawne Williams,1610612748,Miami Heat,2,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,220,1,1,20150121,CHA,MIA
-Shot Chart Detail,0021400625,381,200761,Shawne Williams,1610612748,Miami Heat,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,85,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,409,200761,Shawne Williams,1610612748,Miami Heat,4,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,410,200761,Shawne Williams,1610612748,Miami Heat,4,9,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20150121,CHA,MIA
-Shot Chart Detail,0021400625,414,200761,Shawne Williams,1610612748,Miami Heat,4,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-111,268,1,1,20150121,CHA,MIA
-Shot Chart Detail,0021400625,420,200761,Shawne Williams,1610612748,Miami Heat,4,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,47,261,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,513,200761,Shawne Williams,1610612748,Miami Heat,4,0,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400644,105,200761,Shawne Williams,1610612748,Miami Heat,1,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20150123,MIA,IND
-Shot Chart Detail,0021400644,119,200761,Shawne Williams,1610612748,Miami Heat,1,0,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,136,200761,Shawne Williams,1610612748,Miami Heat,2,10,52,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,101,1,1,20150123,MIA,IND
-Shot Chart Detail,0021400644,152,200761,Shawne Williams,1610612748,Miami Heat,2,8,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,45,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,367,200761,Shawne Williams,1610612748,Miami Heat,3,1,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-3,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,389,200761,Shawne Williams,1610612748,Miami Heat,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,42,1,1,20150123,MIA,IND
-Shot Chart Detail,0021400644,415,200761,Shawne Williams,1610612748,Miami Heat,4,10,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,471,200761,Shawne Williams,1610612748,Miami Heat,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,189,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400657,133,200761,Shawne Williams,1610612748,Miami Heat,2,9,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,0,20150125,CHI,MIA
-Shot Chart Detail,0021400657,138,200761,Shawne Williams,1610612748,Miami Heat,2,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20150125,CHI,MIA
-Shot Chart Detail,0021400657,141,200761,Shawne Williams,1610612748,Miami Heat,2,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,54,239,1,0,20150125,CHI,MIA
-Shot Chart Detail,0021400677,122,200761,Shawne Williams,1610612748,Miami Heat,2,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,179,1,0,20150127,MIA,MIL
-Shot Chart Detail,0021400677,390,200761,Shawne Williams,1610612748,Miami Heat,4,9,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,20150127,MIA,MIL
-Shot Chart Detail,0021400702,111,200761,Shawne Williams,1610612748,Miami Heat,1,2,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,9,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,113,200761,Shawne Williams,1610612748,Miami Heat,1,2,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-3,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,117,200761,Shawne Williams,1610612748,Miami Heat,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,108,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,223,200761,Shawne Williams,1610612748,Miami Heat,2,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20150130,MIA,DAL
-Shot Chart Detail,0021400702,400,200761,Shawne Williams,1610612748,Miami Heat,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,438,200761,Shawne Williams,1610612748,Miami Heat,4,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,157,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400716,69,200761,Shawne Williams,1610612748,Miami Heat,1,4,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,1,1,0,20150201,BOS,MIA
-Shot Chart Detail,0021400860,204,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,159,1,0,20150227,DET,NYK
-Shot Chart Detail,0021400860,211,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20150227,DET,NYK
-Shot Chart Detail,0021400860,234,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,224,1,0,20150227,DET,NYK
-Shot Chart Detail,0021400870,202,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,154,1,0,20150228,WAS,DET
-Shot Chart Detail,0021400903,182,200761,Shawne Williams,1610612765,Detroit Pistons,2,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20150304,NOP,DET
-Shot Chart Detail,0021400917,214,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,17,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,232,200761,Shawne Williams,1610612765,Detroit Pistons,2,3,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-5,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,247,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,270,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,4,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,276,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,446,200761,Shawne Williams,1610612765,Detroit Pistons,4,10,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,39,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,515,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,525,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,156,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,544,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,39,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,582,200761,Shawne Williams,1610612765,Detroit Pistons,4,1,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,622,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,230,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400934,127,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,42,1,0,20150308,DET,CHA
-Shot Chart Detail,0021400934,155,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,31,1,1,20150308,DET,CHA
-Shot Chart Detail,0021400934,183,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,63,1,1,20150308,DET,CHA
-Shot Chart Detail,0021400934,186,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,34,263,1,0,20150308,DET,CHA
-Shot Chart Detail,0021400951,208,200761,Shawne Williams,1610612765,Detroit Pistons,2,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-133,168,1,1,20150310,LAL,DET
-Shot Chart Detail,0021400951,210,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,222,1,0,20150310,LAL,DET
-Shot Chart Detail,0021400975,421,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,0,1,0,20150313,POR,DET
-Shot Chart Detail,0021401000,104,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,230,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,136,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,235,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,1,20150317,DET,MEM
-Shot Chart Detail,0021401000,373,200761,Shawne Williams,1610612765,Detroit Pistons,4,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,238,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,402,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,156,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,416,200761,Shawne Williams,1610612765,Detroit Pistons,4,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,82,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401054,136,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,252,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401054,158,200761,Shawne Williams,1610612765,Detroit Pistons,2,6,32,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401054,169,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,143,1,1,20150324,DET,TOR
-Shot Chart Detail,0021401054,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-111,233,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401054,329,200761,Shawne Williams,1610612765,Detroit Pistons,3,4,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,19,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401074,114,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-16,1,0,20150327,ORL,DET
-Shot Chart Detail,0021401074,126,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-144,53,1,0,20150327,ORL,DET
-Shot Chart Detail,0021401074,161,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20150327,ORL,DET
-Shot Chart Detail,0021401096,148,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,123,1,0,20150329,MIA,DET
-Shot Chart Detail,0021401096,153,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20150329,MIA,DET
-Shot Chart Detail,0021401096,182,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,0,20150329,MIA,DET
-Shot Chart Detail,0021401109,87,200761,Shawne Williams,1610612765,Detroit Pistons,1,1,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,26,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401109,105,200761,Shawne Williams,1610612765,Detroit Pistons,2,11,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401109,123,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,50,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401109,156,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401112,178,200761,Shawne Williams,1610612765,Detroit Pistons,2,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,173,127,1,1,20150401,CHA,DET
-Shot Chart Detail,0021401112,181,200761,Shawne Williams,1610612765,Detroit Pistons,2,9,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,31,1,0,20150401,CHA,DET
-Shot Chart Detail,0021401112,506,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,0,20150401,CHA,DET
-Shot Chart Detail,0021401112,541,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-152,119,1,1,20150401,CHA,DET
-Shot Chart Detail,0021401131,143,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-8,1,0,20150403,CHI,DET
-Shot Chart Detail,0021401131,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,23,1,1,20150403,CHI,DET
-Shot Chart Detail,0021401131,246,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,0,1,0,20150403,CHI,DET
-Shot Chart Detail,0021401139,237,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,52,1,1,20150404,DET,MIA
-Shot Chart Detail,0021401195,231,200761,Shawne Williams,1610612765,Detroit Pistons,2,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-149,164,1,0,20150412,DET,CHA
-Shot Chart Detail,0021401195,247,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20150412,DET,CHA
-Shot Chart Detail,0021401195,440,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,189,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401195,465,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-231,116,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401195,468,200761,Shawne Williams,1610612765,Detroit Pistons,4,1,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,30,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401195,488,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401203,439,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,9,1,0,20150413,CLE,DET
-Shot Chart Detail,0021401226,483,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,0,20150415,NYK,DET
-Shot Chart Detail,0021400007,15,200761,Shawne Williams,1610612748,Miami Heat,1,10,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,33,200761,Shawne Williams,1610612748,Miami Heat,1,8,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,249,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,45,200761,Shawne Williams,1610612748,Miami Heat,1,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,206,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,159,200761,Shawne Williams,1610612748,Miami Heat,2,7,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,15,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,166,200761,Shawne Williams,1610612748,Miami Heat,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,25,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,197,200761,Shawne Williams,1610612748,Miami Heat,2,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-84,238,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,246,200761,Shawne Williams,1610612748,Miami Heat,3,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400007,257,200761,Shawne Williams,1610612748,Miami Heat,3,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20141029,MIA,WAS
-Shot Chart Detail,0021400007,404,200761,Shawne Williams,1610612748,Miami Heat,4,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,184,1,0,20141029,MIA,WAS
-Shot Chart Detail,0021400030,45,200761,Shawne Williams,1610612748,Miami Heat,1,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400030,80,200761,Shawne Williams,1610612748,Miami Heat,1,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,126,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,212,200761,Shawne Williams,1610612748,Miami Heat,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,176,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,233,200761,Shawne Williams,1610612748,Miami Heat,2,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-160,220,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,316,200761,Shawne Williams,1610612748,Miami Heat,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,20,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,319,200761,Shawne Williams,1610612748,Miami Heat,3,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,133,220,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400030,332,200761,Shawne Williams,1610612748,Miami Heat,3,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400030,521,200761,Shawne Williams,1610612748,Miami Heat,4,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,82,1,1,20141101,PHI,MIA
-Shot Chart Detail,0021400030,542,200761,Shawne Williams,1610612748,Miami Heat,4,1,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,224,1,0,20141101,PHI,MIA
-Shot Chart Detail,0021400040,21,200761,Shawne Williams,1610612748,Miami Heat,1,9,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,6,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,30,200761,Shawne Williams,1610612748,Miami Heat,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,44,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,156,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,195,200761,Shawne Williams,1610612748,Miami Heat,2,7,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,135,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,321,200761,Shawne Williams,1610612748,Miami Heat,3,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,360,200761,Shawne Williams,1610612748,Miami Heat,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,12,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,477,200761,Shawne Williams,1610612748,Miami Heat,4,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,131,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400040,492,200761,Shawne Williams,1610612748,Miami Heat,4,5,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,502,200761,Shawne Williams,1610612748,Miami Heat,4,4,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,0,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400040,547,200761,Shawne Williams,1610612748,Miami Heat,4,1,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,-2,1,0,20141102,MIA,TOR
-Shot Chart Detail,0021400050,21,200761,Shawne Williams,1610612748,Miami Heat,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,0,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400050,38,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,183,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400050,171,200761,Shawne Williams,1610612748,Miami Heat,2,7,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,14,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400050,187,200761,Shawne Williams,1610612748,Miami Heat,2,6,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20141104,MIA,HOU
-Shot Chart Detail,0021400050,320,200761,Shawne Williams,1610612748,Miami Heat,3,7,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,206,1,0,20141104,MIA,HOU
-Shot Chart Detail,0021400050,525,200761,Shawne Williams,1610612748,Miami Heat,4,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,160,1,1,20141104,MIA,HOU
-Shot Chart Detail,0021400057,10,200761,Shawne Williams,1610612748,Miami Heat,1,10,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,1,20141105,CHA,MIA
-Shot Chart Detail,0021400057,177,200761,Shawne Williams,1610612748,Miami Heat,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,39,1,1,20141105,CHA,MIA
-Shot Chart Detail,0021400057,209,200761,Shawne Williams,1610612748,Miami Heat,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,36,1,1,20141105,CHA,MIA
-Shot Chart Detail,0021400057,321,200761,Shawne Williams,1610612748,Miami Heat,3,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,88,1,0,20141105,CHA,MIA
-Shot Chart Detail,0021400057,482,200761,Shawne Williams,1610612748,Miami Heat,4,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,0,20141105,CHA,MIA
-Shot Chart Detail,0021400085,21,200761,Shawne Williams,1610612748,Miami Heat,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20141108,MIA,MIN
-Shot Chart Detail,0021400085,64,200761,Shawne Williams,1610612748,Miami Heat,1,3,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,181,200761,Shawne Williams,1610612748,Miami Heat,2,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,164,1,1,20141108,MIA,MIN
-Shot Chart Detail,0021400085,199,200761,Shawne Williams,1610612748,Miami Heat,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,12,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,205,200761,Shawne Williams,1610612748,Miami Heat,2,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,194,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,255,200761,Shawne Williams,1610612748,Miami Heat,3,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,116,1,1,20141108,MIA,MIN
-Shot Chart Detail,0021400085,263,200761,Shawne Williams,1610612748,Miami Heat,3,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,69,167,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,449,200761,Shawne Williams,1610612748,Miami Heat,4,5,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,17,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400085,481,200761,Shawne Williams,1610612748,Miami Heat,4,3,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-2,1,0,20141108,MIA,MIN
-Shot Chart Detail,0021400094,5,200761,Shawne Williams,1610612748,Miami Heat,1,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,12,1,1,20141109,DAL,MIA
-Shot Chart Detail,0021400094,13,200761,Shawne Williams,1610612748,Miami Heat,1,9,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,20,1,0,20141109,DAL,MIA
-Shot Chart Detail,0021400094,270,200761,Shawne Williams,1610612748,Miami Heat,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,14,1,1,20141109,DAL,MIA
-Shot Chart Detail,0021400094,275,200761,Shawne Williams,1610612748,Miami Heat,3,9,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,9,1,0,20141109,DAL,MIA
-Shot Chart Detail,0021400094,278,200761,Shawne Williams,1610612748,Miami Heat,3,9,8,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141109,DAL,MIA
-Shot Chart Detail,0021400112,20,200761,Shawne Williams,1610612748,Miami Heat,1,9,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,20,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,43,200761,Shawne Williams,1610612748,Miami Heat,1,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,80,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,182,200761,Shawne Williams,1610612748,Miami Heat,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,0,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,233,200761,Shawne Williams,1610612748,Miami Heat,3,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,200,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,256,200761,Shawne Williams,1610612748,Miami Heat,3,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,146,1,1,20141112,MIA,IND
-Shot Chart Detail,0021400112,264,200761,Shawne Williams,1610612748,Miami Heat,3,6,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,0,20141112,MIA,IND
-Shot Chart Detail,0021400124,40,200761,Shawne Williams,1610612748,Miami Heat,1,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,14,1,0,20141114,ATL,MIA
-Shot Chart Detail,0021400124,53,200761,Shawne Williams,1610612748,Miami Heat,1,6,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,78,200761,Shawne Williams,1610612748,Miami Heat,1,4,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,37,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,185,200761,Shawne Williams,1610612748,Miami Heat,2,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,119,170,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,209,200761,Shawne Williams,1610612748,Miami Heat,2,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,220,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,212,200761,Shawne Williams,1610612748,Miami Heat,2,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,203,1,0,20141114,ATL,MIA
-Shot Chart Detail,0021400124,232,200761,Shawne Williams,1610612748,Miami Heat,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-213,3,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,297,200761,Shawne Williams,1610612748,Miami Heat,3,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,306,200761,Shawne Williams,1610612748,Miami Heat,3,6,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,28,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400124,324,200761,Shawne Williams,1610612748,Miami Heat,3,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,91,1,0,20141114,ATL,MIA
-Shot Chart Detail,0021400124,515,200761,Shawne Williams,1610612748,Miami Heat,4,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,230,1,1,20141114,ATL,MIA
-Shot Chart Detail,0021400143,7,200761,Shawne Williams,1610612748,Miami Heat,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,39,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400143,16,200761,Shawne Williams,1610612748,Miami Heat,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-11,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,187,200761,Shawne Williams,1610612748,Miami Heat,2,4,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,44,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400143,189,200761,Shawne Williams,1610612748,Miami Heat,2,4,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,30,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400143,390,200761,Shawne Williams,1610612748,Miami Heat,4,10,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-3,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,415,200761,Shawne Williams,1610612748,Miami Heat,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,209,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,433,200761,Shawne Williams,1610612748,Miami Heat,4,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,469,200761,Shawne Williams,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,1,20141116,MIA,MIL
-Shot Chart Detail,0021400143,480,200761,Shawne Williams,1610612748,Miami Heat,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,208,1,0,20141116,MIA,MIL
-Shot Chart Detail,0021400149,72,200761,Shawne Williams,1610612748,Miami Heat,1,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-11,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400149,225,200761,Shawne Williams,1610612748,Miami Heat,2,0,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-131,200,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400149,351,200761,Shawne Williams,1610612748,Miami Heat,3,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,153,1,1,20141117,BKN,MIA
-Shot Chart Detail,0021400149,412,200761,Shawne Williams,1610612748,Miami Heat,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,179,110,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400149,455,200761,Shawne Williams,1610612748,Miami Heat,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20141117,BKN,MIA
-Shot Chart Detail,0021400170,33,200761,Shawne Williams,1610612748,Miami Heat,1,7,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,99,172,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400170,188,200761,Shawne Williams,1610612748,Miami Heat,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400170,190,200761,Shawne Williams,1610612748,Miami Heat,2,3,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,0,1,1,20141120,MIA,LAC
-Shot Chart Detail,0021400170,192,200761,Shawne Williams,1610612748,Miami Heat,2,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,20,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400170,483,200761,Shawne Williams,1610612748,Miami Heat,4,0,39,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,1,1,0,20141120,MIA,LAC
-Shot Chart Detail,0021400185,25,200761,Shawne Williams,1610612748,Miami Heat,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,134,1,1,20141122,ORL,MIA
-Shot Chart Detail,0021400185,39,200761,Shawne Williams,1610612748,Miami Heat,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,203,1,1,20141122,ORL,MIA
-Shot Chart Detail,0021400185,63,200761,Shawne Williams,1610612748,Miami Heat,1,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,206,1,0,20141122,ORL,MIA
-Shot Chart Detail,0021400185,166,200761,Shawne Williams,1610612748,Miami Heat,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,164,1,1,20141122,ORL,MIA
-Shot Chart Detail,0021400185,246,200761,Shawne Williams,1610612748,Miami Heat,2,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,4,271,1,0,20141122,ORL,MIA
-Shot Chart Detail,0021400185,335,200761,Shawne Williams,1610612748,Miami Heat,3,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-11,1,0,20141122,ORL,MIA
-Shot Chart Detail,0021400195,149,200761,Shawne Williams,1610612748,Miami Heat,2,6,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-2,1,1,20141123,MIA,CHA
-Shot Chart Detail,0021400195,243,200761,Shawne Williams,1610612748,Miami Heat,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,4,1,0,20141123,MIA,CHA
-Shot Chart Detail,0021400195,246,200761,Shawne Williams,1610612748,Miami Heat,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,140,1,1,20141123,MIA,CHA
-Shot Chart Detail,0021400195,274,200761,Shawne Williams,1610612748,Miami Heat,3,4,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,3,1,0,20141123,MIA,CHA
-Shot Chart Detail,0021400206,11,200761,Shawne Williams,1610612748,Miami Heat,1,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,25,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,27,200761,Shawne Williams,1610612748,Miami Heat,1,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,69,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400206,297,200761,Shawne Williams,1610612748,Miami Heat,3,7,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400206,298,200761,Shawne Williams,1610612748,Miami Heat,3,7,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-3,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,312,200761,Shawne Williams,1610612748,Miami Heat,3,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,138,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,315,200761,Shawne Williams,1610612748,Miami Heat,3,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,108,1,1,20141125,MIA,GSW
-Shot Chart Detail,0021400206,523,200761,Shawne Williams,1610612748,Miami Heat,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,36,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400206,534,200761,Shawne Williams,1610612748,Miami Heat,4,0,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-202,126,1,0,20141125,MIA,GSW
-Shot Chart Detail,0021400245,199,200761,Shawne Williams,1610612748,Miami Heat,2,5,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-6,1,0,20141130,NYK,MIA
-Shot Chart Detail,0021400245,294,200761,Shawne Williams,1610612748,Miami Heat,3,9,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,179,1,0,20141130,NYK,MIA
-Shot Chart Detail,0021400245,317,200761,Shawne Williams,1610612748,Miami Heat,3,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-226,107,1,1,20141130,NYK,MIA
-Shot Chart Detail,0021400245,327,200761,Shawne Williams,1610612748,Miami Heat,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-16,1,0,20141130,NYK,MIA
-Shot Chart Detail,0021400250,43,200761,Shawne Williams,1610612748,Miami Heat,1,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,220,1,0,20141201,WAS,MIA
-Shot Chart Detail,0021400250,290,200761,Shawne Williams,1610612748,Miami Heat,3,8,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,9,1,0,20141201,WAS,MIA
-Shot Chart Detail,0021400250,327,200761,Shawne Williams,1610612748,Miami Heat,3,4,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,1,1,1,20141201,WAS,MIA
-Shot Chart Detail,0021400267,179,200761,Shawne Williams,1610612748,Miami Heat,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,47,1,1,20141203,MIA,ATL
-Shot Chart Detail,0021400267,185,200761,Shawne Williams,1610612748,Miami Heat,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,1,20141203,MIA,ATL
-Shot Chart Detail,0021400267,189,200761,Shawne Williams,1610612748,Miami Heat,2,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,0,1,0,20141203,MIA,ATL
-Shot Chart Detail,0021400267,335,200761,Shawne Williams,1610612748,Miami Heat,3,4,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-16,1,0,20141203,MIA,ATL
-Shot Chart Detail,0021400267,374,200761,Shawne Williams,1610612748,Miami Heat,3,0,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,0,20141203,MIA,ATL
-Shot Chart Detail,0021400285,450,200761,Shawne Williams,1610612748,Miami Heat,4,3,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-5,1,0,20141205,MIL,MIA
-Shot Chart Detail,0021400285,474,200761,Shawne Williams,1610612748,Miami Heat,4,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141205,MIL,MIA
-Shot Chart Detail,0021400285,477,200761,Shawne Williams,1610612748,Miami Heat,4,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,83,247,1,0,20141205,MIL,MIA
-Shot Chart Detail,0021400296,83,200761,Shawne Williams,1610612748,Miami Heat,1,1,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,119,200761,Shawne Williams,1610612748,Miami Heat,2,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,34,1,1,20141207,MEM,MIA
-Shot Chart Detail,0021400296,128,200761,Shawne Williams,1610612748,Miami Heat,2,8,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,130,200761,Shawne Williams,1610612748,Miami Heat,2,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-8,1,1,20141207,MEM,MIA
-Shot Chart Detail,0021400296,137,200761,Shawne Williams,1610612748,Miami Heat,2,7,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,12,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,319,200761,Shawne Williams,1610612748,Miami Heat,4,8,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-16,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400296,326,200761,Shawne Williams,1610612748,Miami Heat,4,8,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-17,1,0,20141207,MEM,MIA
-Shot Chart Detail,0021400325,163,200761,Shawne Williams,1610612748,Miami Heat,2,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,195,1,1,20141210,DEN,MIA
-Shot Chart Detail,0021400325,178,200761,Shawne Williams,1610612748,Miami Heat,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,206,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,181,200761,Shawne Williams,1610612748,Miami Heat,2,6,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,30,1,1,20141210,DEN,MIA
-Shot Chart Detail,0021400325,197,200761,Shawne Williams,1610612748,Miami Heat,2,4,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,204,200761,Shawne Williams,1610612748,Miami Heat,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,183,1,1,20141210,DEN,MIA
-Shot Chart Detail,0021400325,210,200761,Shawne Williams,1610612748,Miami Heat,2,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,10,225,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,385,200761,Shawne Williams,1610612748,Miami Heat,3,0,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,3,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,487,200761,Shawne Williams,1610612748,Miami Heat,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,60,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400325,525,200761,Shawne Williams,1610612748,Miami Heat,4,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,198,28,1,0,20141210,DEN,MIA
-Shot Chart Detail,0021400338,149,200761,Shawne Williams,1610612748,Miami Heat,2,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,1,20141212,UTA,MIA
-Shot Chart Detail,0021400349,64,200761,Shawne Williams,1610612748,Miami Heat,1,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,190,1,1,20141214,MIA,CHI
-Shot Chart Detail,0021400349,148,200761,Shawne Williams,1610612748,Miami Heat,2,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,183,1,0,20141214,MIA,CHI
-Shot Chart Detail,0021400349,269,200761,Shawne Williams,1610612748,Miami Heat,3,10,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,172,1,0,20141214,MIA,CHI
-Shot Chart Detail,0021400349,294,200761,Shawne Williams,1610612748,Miami Heat,3,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-100,121,1,0,20141214,MIA,CHI
-Shot Chart Detail,0021400364,122,200761,Shawne Williams,1610612748,Miami Heat,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-17,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,130,200761,Shawne Williams,1610612748,Miami Heat,1,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,168,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,138,200761,Shawne Williams,1610612748,Miami Heat,2,11,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-30,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,141,200761,Shawne Williams,1610612748,Miami Heat,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,1,20141216,BKN,MIA
-Shot Chart Detail,0021400364,143,200761,Shawne Williams,1610612748,Miami Heat,2,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,-25,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,166,200761,Shawne Williams,1610612748,Miami Heat,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-157,113,1,0,20141216,BKN,MIA
-Shot Chart Detail,0021400364,173,200761,Shawne Williams,1610612748,Miami Heat,2,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-24,1,1,20141216,BKN,MIA
-Shot Chart Detail,0021400364,383,200761,Shawne Williams,1610612748,Miami Heat,3,0,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-16,1,1,20141216,BKN,MIA
-Shot Chart Detail,0021400373,115,200761,Shawne Williams,1610612748,Miami Heat,1,0,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-5,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,152,200761,Shawne Williams,1610612748,Miami Heat,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,194,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,277,200761,Shawne Williams,1610612748,Miami Heat,3,11,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-8,1,1,20141217,MIA,UTA
-Shot Chart Detail,0021400373,313,200761,Shawne Williams,1610612748,Miami Heat,3,7,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-8,1,1,20141217,MIA,UTA
-Shot Chart Detail,0021400373,345,200761,Shawne Williams,1610612748,Miami Heat,3,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,416,200761,Shawne Williams,1610612748,Miami Heat,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,58,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400373,442,200761,Shawne Williams,1610612748,Miami Heat,4,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,165,1,0,20141217,MIA,UTA
-Shot Chart Detail,0021400388,18,200761,Shawne Williams,1610612748,Miami Heat,1,9,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,4,1,0,20141219,MIA,WAS
-Shot Chart Detail,0021400388,24,200761,Shawne Williams,1610612748,Miami Heat,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,170,1,1,20141219,MIA,WAS
-Shot Chart Detail,0021400388,66,200761,Shawne Williams,1610612748,Miami Heat,1,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,0,1,1,20141219,MIA,WAS
-Shot Chart Detail,0021400388,212,200761,Shawne Williams,1610612748,Miami Heat,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,7,1,1,20141219,MIA,WAS
-Shot Chart Detail,0021400388,271,200761,Shawne Williams,1610612748,Miami Heat,3,9,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,37,1,0,20141219,MIA,WAS
-Shot Chart Detail,0021400388,313,200761,Shawne Williams,1610612748,Miami Heat,3,3,48,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-119,164,1,0,20141219,MIA,WAS
-Shot Chart Detail,0021400404,15,200761,Shawne Williams,1610612748,Miami Heat,1,10,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,1,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,23,200761,Shawne Williams,1610612748,Miami Heat,1,9,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,25,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,26,200761,Shawne Williams,1610612748,Miami Heat,1,8,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,6,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,36,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,15,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,64,200761,Shawne Williams,1610612748,Miami Heat,1,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,28,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,250,200761,Shawne Williams,1610612748,Miami Heat,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,43,-202,388,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,263,200761,Shawne Williams,1610612748,Miami Heat,3,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,205,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,300,200761,Shawne Williams,1610612748,Miami Heat,3,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,123,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,380,200761,Shawne Williams,1610612748,Miami Heat,4,10,46,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,36,1,1,20141221,MIA,BOS
-Shot Chart Detail,0021400404,383,200761,Shawne Williams,1610612748,Miami Heat,4,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-65,239,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400404,425,200761,Shawne Williams,1610612748,Miami Heat,4,6,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,6,1,0,20141221,MIA,BOS
-Shot Chart Detail,0021400422,13,200761,Shawne Williams,1610612748,Miami Heat,1,10,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,19,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,19,200761,Shawne Williams,1610612748,Miami Heat,1,9,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,194,1,0,20141223,MIA,PHI
-Shot Chart Detail,0021400422,51,200761,Shawne Williams,1610612748,Miami Heat,1,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,9,1,0,20141223,MIA,PHI
-Shot Chart Detail,0021400422,268,200761,Shawne Williams,1610612748,Miami Heat,2,0,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,23,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,287,200761,Shawne Williams,1610612748,Miami Heat,3,10,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,7,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,289,200761,Shawne Williams,1610612748,Miami Heat,3,9,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,293,200761,Shawne Williams,1610612748,Miami Heat,3,9,23,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,305,200761,Shawne Williams,1610612748,Miami Heat,3,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20141223,MIA,PHI
-Shot Chart Detail,0021400422,545,200761,Shawne Williams,1610612748,Miami Heat,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,14,1,0,20141223,MIA,PHI
-Shot Chart Detail,0021400429,39,200761,Shawne Williams,1610612748,Miami Heat,1,7,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400429,154,200761,Shawne Williams,1610612748,Miami Heat,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,160,1,1,20141225,MIA,CLE
-Shot Chart Detail,0021400429,161,200761,Shawne Williams,1610612748,Miami Heat,2,9,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,170,99,1,1,20141225,MIA,CLE
-Shot Chart Detail,0021400429,163,200761,Shawne Williams,1610612748,Miami Heat,2,8,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,160,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400429,276,200761,Shawne Williams,1610612748,Miami Heat,3,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,203,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400429,362,200761,Shawne Williams,1610612748,Miami Heat,3,3,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-142,192,1,0,20141225,MIA,CLE
-Shot Chart Detail,0021400446,14,200761,Shawne Williams,1610612748,Miami Heat,1,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-180,71,1,0,20141227,MIA,MEM
-Shot Chart Detail,0021400446,17,200761,Shawne Williams,1610612748,Miami Heat,1,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20141227,MIA,MEM
-Shot Chart Detail,0021400446,252,200761,Shawne Williams,1610612748,Miami Heat,3,9,48,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,41,1,0,20141227,MIA,MEM
-Shot Chart Detail,0021400446,278,200761,Shawne Williams,1610612748,Miami Heat,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,208,1,1,20141227,MIA,MEM
-Shot Chart Detail,0021400446,281,200761,Shawne Williams,1610612748,Miami Heat,3,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20141227,MIA,MEM
-Shot Chart Detail,0021400497,141,200761,Shawne Williams,1610612748,Miami Heat,2,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,43,258,1,0,20150103,HOU,MIA
-Shot Chart Detail,0021400497,419,200761,Shawne Williams,1610612748,Miami Heat,3,1,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,203,1,0,20150103,HOU,MIA
-Shot Chart Detail,0021400497,458,200761,Shawne Williams,1610612748,Miami Heat,4,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,217,1,0,20150103,HOU,MIA
-Shot Chart Detail,0021400537,493,200761,Shawne Williams,1610612748,Miami Heat,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,9,1,0,20150108,POR,MIA
-Shot Chart Detail,0021400537,504,200761,Shawne Williams,1610612748,Miami Heat,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,115,1,0,20150108,POR,MIA
-Shot Chart Detail,0021400573,350,200761,Shawne Williams,1610612748,Miami Heat,3,3,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-8,1,1,20150113,LAL,MIA
-Shot Chart Detail,0021400582,154,200761,Shawne Williams,1610612748,Miami Heat,2,5,49,Missed Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,0,20150114,GSW,MIA
-Shot Chart Detail,0021400582,367,200761,Shawne Williams,1610612748,Miami Heat,4,10,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,113,102,1,1,20150114,GSW,MIA
-Shot Chart Detail,0021400582,370,200761,Shawne Williams,1610612748,Miami Heat,4,9,46,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,151,224,1,0,20150114,GSW,MIA
-Shot Chart Detail,0021400582,376,200761,Shawne Williams,1610612748,Miami Heat,4,9,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,186,1,1,20150114,GSW,MIA
-Shot Chart Detail,0021400598,142,200761,Shawne Williams,1610612748,Miami Heat,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,30,1,1,20150116,SAC,MIA
-Shot Chart Detail,0021400598,239,200761,Shawne Williams,1610612748,Miami Heat,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,6,1,1,20150116,SAC,MIA
-Shot Chart Detail,0021400623,400,200761,Shawne Williams,1610612748,Miami Heat,4,11,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,4,1,0,20150120,MIA,OKC
-Shot Chart Detail,0021400623,405,200761,Shawne Williams,1610612748,Miami Heat,4,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,129,1,1,20150120,MIA,OKC
-Shot Chart Detail,0021400623,418,200761,Shawne Williams,1610612748,Miami Heat,4,9,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,20,1,0,20150120,MIA,OKC
-Shot Chart Detail,0021400623,450,200761,Shawne Williams,1610612748,Miami Heat,4,5,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,132,208,1,0,20150120,MIA,OKC
-Shot Chart Detail,0021400625,124,200761,Shawne Williams,1610612748,Miami Heat,1,1,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,44,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,170,200761,Shawne Williams,1610612748,Miami Heat,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,192,200761,Shawne Williams,1610612748,Miami Heat,2,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,220,1,1,20150121,CHA,MIA
-Shot Chart Detail,0021400625,381,200761,Shawne Williams,1610612748,Miami Heat,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,85,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,409,200761,Shawne Williams,1610612748,Miami Heat,4,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,410,200761,Shawne Williams,1610612748,Miami Heat,4,9,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20150121,CHA,MIA
-Shot Chart Detail,0021400625,414,200761,Shawne Williams,1610612748,Miami Heat,4,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-111,268,1,1,20150121,CHA,MIA
-Shot Chart Detail,0021400625,420,200761,Shawne Williams,1610612748,Miami Heat,4,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,47,261,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400625,513,200761,Shawne Williams,1610612748,Miami Heat,4,0,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,0,20150121,CHA,MIA
-Shot Chart Detail,0021400644,105,200761,Shawne Williams,1610612748,Miami Heat,1,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20150123,MIA,IND
-Shot Chart Detail,0021400644,119,200761,Shawne Williams,1610612748,Miami Heat,1,0,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,136,200761,Shawne Williams,1610612748,Miami Heat,2,10,52,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,101,1,1,20150123,MIA,IND
-Shot Chart Detail,0021400644,152,200761,Shawne Williams,1610612748,Miami Heat,2,8,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,45,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,367,200761,Shawne Williams,1610612748,Miami Heat,3,1,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-3,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,389,200761,Shawne Williams,1610612748,Miami Heat,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,42,1,1,20150123,MIA,IND
-Shot Chart Detail,0021400644,415,200761,Shawne Williams,1610612748,Miami Heat,4,10,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400644,471,200761,Shawne Williams,1610612748,Miami Heat,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,189,1,0,20150123,MIA,IND
-Shot Chart Detail,0021400657,133,200761,Shawne Williams,1610612748,Miami Heat,2,9,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,0,20150125,CHI,MIA
-Shot Chart Detail,0021400657,138,200761,Shawne Williams,1610612748,Miami Heat,2,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20150125,CHI,MIA
-Shot Chart Detail,0021400657,141,200761,Shawne Williams,1610612748,Miami Heat,2,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,54,239,1,0,20150125,CHI,MIA
-Shot Chart Detail,0021400677,122,200761,Shawne Williams,1610612748,Miami Heat,2,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,179,1,0,20150127,MIA,MIL
-Shot Chart Detail,0021400677,390,200761,Shawne Williams,1610612748,Miami Heat,4,9,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,20150127,MIA,MIL
-Shot Chart Detail,0021400702,111,200761,Shawne Williams,1610612748,Miami Heat,1,2,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,9,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,113,200761,Shawne Williams,1610612748,Miami Heat,1,2,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-3,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,117,200761,Shawne Williams,1610612748,Miami Heat,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,108,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,223,200761,Shawne Williams,1610612748,Miami Heat,2,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20150130,MIA,DAL
-Shot Chart Detail,0021400702,400,200761,Shawne Williams,1610612748,Miami Heat,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400702,438,200761,Shawne Williams,1610612748,Miami Heat,4,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,157,1,0,20150130,MIA,DAL
-Shot Chart Detail,0021400716,69,200761,Shawne Williams,1610612748,Miami Heat,1,4,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,1,1,0,20150201,BOS,MIA
-Shot Chart Detail,0021400860,204,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,159,1,0,20150227,DET,NYK
-Shot Chart Detail,0021400860,211,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20150227,DET,NYK
-Shot Chart Detail,0021400860,234,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,224,1,0,20150227,DET,NYK
-Shot Chart Detail,0021400870,202,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,154,1,0,20150228,WAS,DET
-Shot Chart Detail,0021400903,182,200761,Shawne Williams,1610612765,Detroit Pistons,2,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20150304,NOP,DET
-Shot Chart Detail,0021400917,214,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,17,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,232,200761,Shawne Williams,1610612765,Detroit Pistons,2,3,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-5,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,247,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,270,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,4,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,276,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,446,200761,Shawne Williams,1610612765,Detroit Pistons,4,10,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,39,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,515,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,525,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,156,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,544,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,39,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400917,582,200761,Shawne Williams,1610612765,Detroit Pistons,4,1,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150306,HOU,DET
-Shot Chart Detail,0021400917,622,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,230,1,0,20150306,HOU,DET
-Shot Chart Detail,0021400934,127,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,42,1,0,20150308,DET,CHA
-Shot Chart Detail,0021400934,155,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,31,1,1,20150308,DET,CHA
-Shot Chart Detail,0021400934,183,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,63,1,1,20150308,DET,CHA
-Shot Chart Detail,0021400934,186,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,34,263,1,0,20150308,DET,CHA
-Shot Chart Detail,0021400951,208,200761,Shawne Williams,1610612765,Detroit Pistons,2,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-133,168,1,1,20150310,LAL,DET
-Shot Chart Detail,0021400951,210,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,222,1,0,20150310,LAL,DET
-Shot Chart Detail,0021400975,421,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,0,1,0,20150313,POR,DET
-Shot Chart Detail,0021401000,104,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,230,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,136,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,235,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,1,20150317,DET,MEM
-Shot Chart Detail,0021401000,373,200761,Shawne Williams,1610612765,Detroit Pistons,4,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,238,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,402,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,156,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401000,416,200761,Shawne Williams,1610612765,Detroit Pistons,4,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,82,1,0,20150317,DET,MEM
-Shot Chart Detail,0021401054,136,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,252,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401054,158,200761,Shawne Williams,1610612765,Detroit Pistons,2,6,32,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401054,169,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,143,1,1,20150324,DET,TOR
-Shot Chart Detail,0021401054,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-111,233,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401054,329,200761,Shawne Williams,1610612765,Detroit Pistons,3,4,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,19,1,0,20150324,DET,TOR
-Shot Chart Detail,0021401074,114,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-16,1,0,20150327,ORL,DET
-Shot Chart Detail,0021401074,126,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-144,53,1,0,20150327,ORL,DET
-Shot Chart Detail,0021401074,161,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20150327,ORL,DET
-Shot Chart Detail,0021401096,148,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,123,1,0,20150329,MIA,DET
-Shot Chart Detail,0021401096,153,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20150329,MIA,DET
-Shot Chart Detail,0021401096,182,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,0,20150329,MIA,DET
-Shot Chart Detail,0021401109,87,200761,Shawne Williams,1610612765,Detroit Pistons,1,1,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,26,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401109,105,200761,Shawne Williams,1610612765,Detroit Pistons,2,11,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401109,123,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,50,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401109,156,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20150331,DET,ATL
-Shot Chart Detail,0021401112,178,200761,Shawne Williams,1610612765,Detroit Pistons,2,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,173,127,1,1,20150401,CHA,DET
-Shot Chart Detail,0021401112,181,200761,Shawne Williams,1610612765,Detroit Pistons,2,9,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,31,1,0,20150401,CHA,DET
-Shot Chart Detail,0021401112,506,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,0,20150401,CHA,DET
-Shot Chart Detail,0021401112,541,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-152,119,1,1,20150401,CHA,DET
-Shot Chart Detail,0021401131,143,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-8,1,0,20150403,CHI,DET
-Shot Chart Detail,0021401131,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,23,1,1,20150403,CHI,DET
-Shot Chart Detail,0021401131,246,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,0,1,0,20150403,CHI,DET
-Shot Chart Detail,0021401139,237,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,52,1,1,20150404,DET,MIA
-Shot Chart Detail,0021401195,231,200761,Shawne Williams,1610612765,Detroit Pistons,2,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-149,164,1,0,20150412,DET,CHA
-Shot Chart Detail,0021401195,247,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20150412,DET,CHA
-Shot Chart Detail,0021401195,440,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,189,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401195,465,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-231,116,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401195,468,200761,Shawne Williams,1610612765,Detroit Pistons,4,1,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,30,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401195,488,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20150412,DET,CHA
-Shot Chart Detail,0021401203,439,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,9,1,0,20150413,CLE,DET
-Shot Chart Detail,0021401226,483,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,0,20150415,NYK,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21400860,204,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,159,1,0,20150227,0,DET,NYK
+Shot Chart Detail,21400860,211,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20150227,1,DET,NYK
+Shot Chart Detail,21400860,234,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,224,1,0,20150227,0,DET,NYK
+Shot Chart Detail,21400870,202,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,154,1,0,20150228,0,WAS,DET
+Shot Chart Detail,21400903,182,200761,Shawne Williams,1610612765,Detroit Pistons,2,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20150304,0,NOP,DET
+Shot Chart Detail,21400917,214,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,17,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400917,232,200761,Shawne Williams,1610612765,Detroit Pistons,2,3,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-5,1,1,20150306,1,HOU,DET
+Shot Chart Detail,21400917,247,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400917,270,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,36,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,4,1,1,20150306,1,HOU,DET
+Shot Chart Detail,21400917,276,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400917,446,200761,Shawne Williams,1610612765,Detroit Pistons,4,10,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,39,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400917,515,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,20,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400917,525,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,156,1,1,20150306,1,HOU,DET
+Shot Chart Detail,21400917,544,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,39,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400917,582,200761,Shawne Williams,1610612765,Detroit Pistons,4,1,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150306,1,HOU,DET
+Shot Chart Detail,21400917,622,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,230,1,0,20150306,0,HOU,DET
+Shot Chart Detail,21400934,127,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,143,42,1,0,20150308,0,DET,CHA
+Shot Chart Detail,21400934,155,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,23,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,181,31,1,1,20150308,1,DET,CHA
+Shot Chart Detail,21400934,183,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,57,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-78,63,1,1,20150308,1,DET,CHA
+Shot Chart Detail,21400934,186,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,30,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,34,263,1,0,20150308,0,DET,CHA
+Shot Chart Detail,21400951,208,200761,Shawne Williams,1610612765,Detroit Pistons,2,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-133,168,1,1,20150310,0,LAL,DET
+Shot Chart Detail,21400951,210,200761,Shawne Williams,1610612765,Detroit Pistons,2,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,222,1,0,20150310,0,LAL,DET
+Shot Chart Detail,21400975,421,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,0,1,0,20150313,0,POR,DET
+Shot Chart Detail,21401000,104,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,230,1,0,20150317,0,DET,MEM
+Shot Chart Detail,21401000,136,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,235,1,0,20150317,0,DET,MEM
+Shot Chart Detail,21401000,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,1,20150317,1,DET,MEM
+Shot Chart Detail,21401000,373,200761,Shawne Williams,1610612765,Detroit Pistons,4,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,238,1,0,20150317,0,DET,MEM
+Shot Chart Detail,21401000,402,200761,Shawne Williams,1610612765,Detroit Pistons,4,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,156,1,0,20150317,0,DET,MEM
+Shot Chart Detail,21401000,416,200761,Shawne Williams,1610612765,Detroit Pistons,4,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,82,1,0,20150317,0,DET,MEM
+Shot Chart Detail,21401054,136,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,252,1,0,20150324,0,DET,TOR
+Shot Chart Detail,21401054,158,200761,Shawne Williams,1610612765,Detroit Pistons,2,6,32,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20150324,0,DET,TOR
+Shot Chart Detail,21401054,169,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,143,1,1,20150324,1,DET,TOR
+Shot Chart Detail,21401054,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-111,233,1,0,20150324,0,DET,TOR
+Shot Chart Detail,21401054,329,200761,Shawne Williams,1610612765,Detroit Pistons,3,4,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,19,1,0,20150324,0,DET,TOR
+Shot Chart Detail,21401074,114,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-16,1,0,20150327,0,ORL,DET
+Shot Chart Detail,21401074,126,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-144,53,1,0,20150327,0,ORL,DET
+Shot Chart Detail,21401074,161,200761,Shawne Williams,1610612765,Detroit Pistons,2,4,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20150327,0,ORL,DET
+Shot Chart Detail,21401096,148,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,123,1,0,20150329,0,MIA,DET
+Shot Chart Detail,21401096,153,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20150329,0,MIA,DET
+Shot Chart Detail,21401096,182,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,0,20150329,0,MIA,DET
+Shot Chart Detail,21401109,87,200761,Shawne Williams,1610612765,Detroit Pistons,1,1,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,26,1,0,20150331,0,DET,ATL
+Shot Chart Detail,21401109,105,200761,Shawne Williams,1610612765,Detroit Pistons,2,11,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,0,20150331,0,DET,ATL
+Shot Chart Detail,21401109,123,200761,Shawne Williams,1610612765,Detroit Pistons,2,8,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,50,1,0,20150331,0,DET,ATL
+Shot Chart Detail,21401109,156,200761,Shawne Williams,1610612765,Detroit Pistons,2,5,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20150331,0,DET,ATL
+Shot Chart Detail,21401112,178,200761,Shawne Williams,1610612765,Detroit Pistons,2,9,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,173,127,1,1,20150401,0,CHA,DET
+Shot Chart Detail,21401112,181,200761,Shawne Williams,1610612765,Detroit Pistons,2,9,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,31,1,0,20150401,0,CHA,DET
+Shot Chart Detail,21401112,506,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,38,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,0,20150401,0,CHA,DET
+Shot Chart Detail,21401112,541,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,26,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-152,119,1,1,20150401,1,CHA,DET
+Shot Chart Detail,21401131,143,200761,Shawne Williams,1610612765,Detroit Pistons,2,10,56,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-8,1,0,20150403,0,CHI,DET
+Shot Chart Detail,21401131,176,200761,Shawne Williams,1610612765,Detroit Pistons,2,7,25,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-204,23,1,1,20150403,1,CHI,DET
+Shot Chart Detail,21401131,246,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,204,0,1,0,20150403,0,CHI,DET
+Shot Chart Detail,21401139,237,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,52,1,1,20150404,1,DET,MIA
+Shot Chart Detail,21401195,231,200761,Shawne Williams,1610612765,Detroit Pistons,2,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-149,164,1,0,20150412,0,DET,CHA
+Shot Chart Detail,21401195,247,200761,Shawne Williams,1610612765,Detroit Pistons,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20150412,0,DET,CHA
+Shot Chart Detail,21401195,440,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,7,189,1,1,20150412,1,DET,CHA
+Shot Chart Detail,21401195,465,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,29,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-231,116,1,1,20150412,1,DET,CHA
+Shot Chart Detail,21401195,468,200761,Shawne Williams,1610612765,Detroit Pistons,4,1,59,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,30,1,1,20150412,1,DET,CHA
+Shot Chart Detail,21401195,488,200761,Shawne Williams,1610612765,Detroit Pistons,4,0,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20150412,0,DET,CHA
+Shot Chart Detail,21401203,439,200761,Shawne Williams,1610612765,Detroit Pistons,4,4,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,9,1,0,20150413,0,CLE,DET
+Shot Chart Detail,21401226,483,200761,Shawne Williams,1610612765,Detroit Pistons,4,2,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,0,20150415,0,NYK,DET
+Shot Chart Detail,21400007,15,200761,Shawne Williams,1610612748,Miami Heat,1,10,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,33,200761,Shawne Williams,1610612748,Miami Heat,1,8,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,249,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,45,200761,Shawne Williams,1610612748,Miami Heat,1,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,206,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,159,200761,Shawne Williams,1610612748,Miami Heat,2,7,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,15,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,166,200761,Shawne Williams,1610612748,Miami Heat,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,25,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,197,200761,Shawne Williams,1610612748,Miami Heat,2,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-84,238,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,246,200761,Shawne Williams,1610612748,Miami Heat,3,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400007,257,200761,Shawne Williams,1610612748,Miami Heat,3,9,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20141029,1,MIA,WAS
+Shot Chart Detail,21400007,404,200761,Shawne Williams,1610612748,Miami Heat,4,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,184,1,0,20141029,0,MIA,WAS
+Shot Chart Detail,21400030,45,200761,Shawne Williams,1610612748,Miami Heat,1,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,12,1,0,20141101,0,PHI,MIA
+Shot Chart Detail,21400030,80,200761,Shawne Williams,1610612748,Miami Heat,1,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,126,1,1,20141101,1,PHI,MIA
+Shot Chart Detail,21400030,212,200761,Shawne Williams,1610612748,Miami Heat,2,6,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,176,1,1,20141101,1,PHI,MIA
+Shot Chart Detail,21400030,233,200761,Shawne Williams,1610612748,Miami Heat,2,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-160,220,1,1,20141101,1,PHI,MIA
+Shot Chart Detail,21400030,316,200761,Shawne Williams,1610612748,Miami Heat,3,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,20,1,1,20141101,1,PHI,MIA
+Shot Chart Detail,21400030,319,200761,Shawne Williams,1610612748,Miami Heat,3,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,133,220,1,0,20141101,0,PHI,MIA
+Shot Chart Detail,21400030,332,200761,Shawne Williams,1610612748,Miami Heat,3,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20141101,0,PHI,MIA
+Shot Chart Detail,21400030,521,200761,Shawne Williams,1610612748,Miami Heat,4,2,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,82,1,1,20141101,1,PHI,MIA
+Shot Chart Detail,21400030,542,200761,Shawne Williams,1610612748,Miami Heat,4,1,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,224,1,0,20141101,0,PHI,MIA
+Shot Chart Detail,21400040,21,200761,Shawne Williams,1610612748,Miami Heat,1,9,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,6,1,0,20141102,0,MIA,TOR
+Shot Chart Detail,21400040,30,200761,Shawne Williams,1610612748,Miami Heat,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,20141102,1,MIA,TOR
+Shot Chart Detail,21400040,44,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,156,1,1,20141102,1,MIA,TOR
+Shot Chart Detail,21400040,195,200761,Shawne Williams,1610612748,Miami Heat,2,7,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,135,1,0,20141102,0,MIA,TOR
+Shot Chart Detail,21400040,321,200761,Shawne Williams,1610612748,Miami Heat,3,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20141102,0,MIA,TOR
+Shot Chart Detail,21400040,360,200761,Shawne Williams,1610612748,Miami Heat,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,12,1,1,20141102,1,MIA,TOR
+Shot Chart Detail,21400040,477,200761,Shawne Williams,1610612748,Miami Heat,4,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,215,131,1,0,20141102,0,MIA,TOR
+Shot Chart Detail,21400040,492,200761,Shawne Williams,1610612748,Miami Heat,4,5,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20141102,0,MIA,TOR
+Shot Chart Detail,21400040,502,200761,Shawne Williams,1610612748,Miami Heat,4,4,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,0,1,1,20141102,1,MIA,TOR
+Shot Chart Detail,21400040,547,200761,Shawne Williams,1610612748,Miami Heat,4,1,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,-2,1,0,20141102,0,MIA,TOR
+Shot Chart Detail,21400050,21,200761,Shawne Williams,1610612748,Miami Heat,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,247,0,1,1,20141104,1,MIA,HOU
+Shot Chart Detail,21400050,38,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,183,1,1,20141104,1,MIA,HOU
+Shot Chart Detail,21400050,171,200761,Shawne Williams,1610612748,Miami Heat,2,7,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,14,1,1,20141104,1,MIA,HOU
+Shot Chart Detail,21400050,187,200761,Shawne Williams,1610612748,Miami Heat,2,6,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20141104,0,MIA,HOU
+Shot Chart Detail,21400050,320,200761,Shawne Williams,1610612748,Miami Heat,3,7,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,206,1,0,20141104,0,MIA,HOU
+Shot Chart Detail,21400050,525,200761,Shawne Williams,1610612748,Miami Heat,4,1,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,160,1,1,20141104,0,MIA,HOU
+Shot Chart Detail,21400057,10,200761,Shawne Williams,1610612748,Miami Heat,1,10,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,1,20141105,1,CHA,MIA
+Shot Chart Detail,21400057,177,200761,Shawne Williams,1610612748,Miami Heat,2,5,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,39,1,1,20141105,1,CHA,MIA
+Shot Chart Detail,21400057,209,200761,Shawne Williams,1610612748,Miami Heat,2,2,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,36,1,1,20141105,1,CHA,MIA
+Shot Chart Detail,21400057,321,200761,Shawne Williams,1610612748,Miami Heat,3,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,88,1,0,20141105,0,CHA,MIA
+Shot Chart Detail,21400057,482,200761,Shawne Williams,1610612748,Miami Heat,4,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,0,20141105,0,CHA,MIA
+Shot Chart Detail,21400085,21,200761,Shawne Williams,1610612748,Miami Heat,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20141108,1,MIA,MIN
+Shot Chart Detail,21400085,64,200761,Shawne Williams,1610612748,Miami Heat,1,3,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,0,20141108,0,MIA,MIN
+Shot Chart Detail,21400085,181,200761,Shawne Williams,1610612748,Miami Heat,2,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,164,1,1,20141108,1,MIA,MIN
+Shot Chart Detail,21400085,199,200761,Shawne Williams,1610612748,Miami Heat,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,12,1,0,20141108,0,MIA,MIN
+Shot Chart Detail,21400085,205,200761,Shawne Williams,1610612748,Miami Heat,2,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,160,194,1,0,20141108,0,MIA,MIN
+Shot Chart Detail,21400085,255,200761,Shawne Williams,1610612748,Miami Heat,3,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,116,1,1,20141108,1,MIA,MIN
+Shot Chart Detail,21400085,263,200761,Shawne Williams,1610612748,Miami Heat,3,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,69,167,1,0,20141108,0,MIA,MIN
+Shot Chart Detail,21400085,449,200761,Shawne Williams,1610612748,Miami Heat,4,5,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,17,1,0,20141108,0,MIA,MIN
+Shot Chart Detail,21400085,481,200761,Shawne Williams,1610612748,Miami Heat,4,3,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-2,1,0,20141108,0,MIA,MIN
+Shot Chart Detail,21400094,5,200761,Shawne Williams,1610612748,Miami Heat,1,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,12,1,1,20141109,1,DAL,MIA
+Shot Chart Detail,21400094,13,200761,Shawne Williams,1610612748,Miami Heat,1,9,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,20,1,0,20141109,0,DAL,MIA
+Shot Chart Detail,21400094,270,200761,Shawne Williams,1610612748,Miami Heat,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,14,1,1,20141109,1,DAL,MIA
+Shot Chart Detail,21400094,275,200761,Shawne Williams,1610612748,Miami Heat,3,9,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,9,1,0,20141109,0,DAL,MIA
+Shot Chart Detail,21400094,278,200761,Shawne Williams,1610612748,Miami Heat,3,9,8,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141109,1,DAL,MIA
+Shot Chart Detail,21400112,20,200761,Shawne Williams,1610612748,Miami Heat,1,9,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,20,1,1,20141112,1,MIA,IND
+Shot Chart Detail,21400112,43,200761,Shawne Williams,1610612748,Miami Heat,1,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,80,1,1,20141112,1,MIA,IND
+Shot Chart Detail,21400112,182,200761,Shawne Williams,1610612748,Miami Heat,2,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,0,1,1,20141112,1,MIA,IND
+Shot Chart Detail,21400112,233,200761,Shawne Williams,1610612748,Miami Heat,3,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,149,200,1,1,20141112,1,MIA,IND
+Shot Chart Detail,21400112,256,200761,Shawne Williams,1610612748,Miami Heat,3,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,146,1,1,20141112,1,MIA,IND
+Shot Chart Detail,21400112,264,200761,Shawne Williams,1610612748,Miami Heat,3,6,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,0,20141112,0,MIA,IND
+Shot Chart Detail,21400124,40,200761,Shawne Williams,1610612748,Miami Heat,1,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,14,1,0,20141114,0,ATL,MIA
+Shot Chart Detail,21400124,53,200761,Shawne Williams,1610612748,Miami Heat,1,6,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,78,200761,Shawne Williams,1610612748,Miami Heat,1,4,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,37,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,185,200761,Shawne Williams,1610612748,Miami Heat,2,7,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,119,170,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,209,200761,Shawne Williams,1610612748,Miami Heat,2,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,220,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,212,200761,Shawne Williams,1610612748,Miami Heat,2,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,203,1,0,20141114,0,ATL,MIA
+Shot Chart Detail,21400124,232,200761,Shawne Williams,1610612748,Miami Heat,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-213,3,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,297,200761,Shawne Williams,1610612748,Miami Heat,3,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,306,200761,Shawne Williams,1610612748,Miami Heat,3,6,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,28,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400124,324,200761,Shawne Williams,1610612748,Miami Heat,3,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,91,1,0,20141114,0,ATL,MIA
+Shot Chart Detail,21400124,515,200761,Shawne Williams,1610612748,Miami Heat,4,0,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,230,1,1,20141114,1,ATL,MIA
+Shot Chart Detail,21400143,7,200761,Shawne Williams,1610612748,Miami Heat,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,39,1,0,20141116,0,MIA,MIL
+Shot Chart Detail,21400143,16,200761,Shawne Williams,1610612748,Miami Heat,1,10,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,-11,1,1,20141116,0,MIA,MIL
+Shot Chart Detail,21400143,187,200761,Shawne Williams,1610612748,Miami Heat,2,4,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,44,1,0,20141116,0,MIA,MIL
+Shot Chart Detail,21400143,189,200761,Shawne Williams,1610612748,Miami Heat,2,4,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,30,1,0,20141116,0,MIA,MIL
+Shot Chart Detail,21400143,390,200761,Shawne Williams,1610612748,Miami Heat,4,10,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-3,1,1,20141116,1,MIA,MIL
+Shot Chart Detail,21400143,415,200761,Shawne Williams,1610612748,Miami Heat,4,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,209,1,1,20141116,1,MIA,MIL
+Shot Chart Detail,21400143,433,200761,Shawne Williams,1610612748,Miami Heat,4,6,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20141116,0,MIA,MIL
+Shot Chart Detail,21400143,469,200761,Shawne Williams,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,1,20141116,1,MIA,MIL
+Shot Chart Detail,21400143,480,200761,Shawne Williams,1610612748,Miami Heat,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,208,1,0,20141116,0,MIA,MIL
+Shot Chart Detail,21400149,72,200761,Shawne Williams,1610612748,Miami Heat,1,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-11,1,0,20141117,0,BKN,MIA
+Shot Chart Detail,21400149,225,200761,Shawne Williams,1610612748,Miami Heat,2,0,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,23,-131,200,1,0,20141117,0,BKN,MIA
+Shot Chart Detail,21400149,351,200761,Shawne Williams,1610612748,Miami Heat,3,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,153,1,1,20141117,1,BKN,MIA
+Shot Chart Detail,21400149,412,200761,Shawne Williams,1610612748,Miami Heat,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,179,110,1,0,20141117,0,BKN,MIA
+Shot Chart Detail,21400149,455,200761,Shawne Williams,1610612748,Miami Heat,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20141117,0,BKN,MIA
+Shot Chart Detail,21400170,33,200761,Shawne Williams,1610612748,Miami Heat,1,7,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,99,172,1,0,20141120,0,MIA,LAC
+Shot Chart Detail,21400170,188,200761,Shawne Williams,1610612748,Miami Heat,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20141120,0,MIA,LAC
+Shot Chart Detail,21400170,190,200761,Shawne Williams,1610612748,Miami Heat,2,3,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,0,1,1,20141120,1,MIA,LAC
+Shot Chart Detail,21400170,192,200761,Shawne Williams,1610612748,Miami Heat,2,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,20,1,0,20141120,0,MIA,LAC
+Shot Chart Detail,21400170,483,200761,Shawne Williams,1610612748,Miami Heat,4,0,39,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,1,1,0,20141120,0,MIA,LAC
+Shot Chart Detail,21400185,25,200761,Shawne Williams,1610612748,Miami Heat,1,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,134,1,1,20141122,1,ORL,MIA
+Shot Chart Detail,21400185,39,200761,Shawne Williams,1610612748,Miami Heat,1,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,203,1,1,20141122,0,ORL,MIA
+Shot Chart Detail,21400185,63,200761,Shawne Williams,1610612748,Miami Heat,1,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,206,1,0,20141122,0,ORL,MIA
+Shot Chart Detail,21400185,166,200761,Shawne Williams,1610612748,Miami Heat,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,164,1,1,20141122,0,ORL,MIA
+Shot Chart Detail,21400185,246,200761,Shawne Williams,1610612748,Miami Heat,2,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,4,271,1,0,20141122,0,ORL,MIA
+Shot Chart Detail,21400185,335,200761,Shawne Williams,1610612748,Miami Heat,3,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-11,1,0,20141122,0,ORL,MIA
+Shot Chart Detail,21400195,149,200761,Shawne Williams,1610612748,Miami Heat,2,6,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-2,1,1,20141123,1,MIA,CHA
+Shot Chart Detail,21400195,243,200761,Shawne Williams,1610612748,Miami Heat,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,4,1,0,20141123,0,MIA,CHA
+Shot Chart Detail,21400195,246,200761,Shawne Williams,1610612748,Miami Heat,3,8,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,108,140,1,1,20141123,1,MIA,CHA
+Shot Chart Detail,21400195,274,200761,Shawne Williams,1610612748,Miami Heat,3,4,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,3,1,0,20141123,0,MIA,CHA
+Shot Chart Detail,21400206,11,200761,Shawne Williams,1610612748,Miami Heat,1,10,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,25,1,1,20141125,1,MIA,GSW
+Shot Chart Detail,21400206,27,200761,Shawne Williams,1610612748,Miami Heat,1,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,69,1,0,20141125,0,MIA,GSW
+Shot Chart Detail,21400206,297,200761,Shawne Williams,1610612748,Miami Heat,3,7,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,0,20141125,0,MIA,GSW
+Shot Chart Detail,21400206,298,200761,Shawne Williams,1610612748,Miami Heat,3,7,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-3,1,1,20141125,0,MIA,GSW
+Shot Chart Detail,21400206,312,200761,Shawne Williams,1610612748,Miami Heat,3,5,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-205,138,1,1,20141125,1,MIA,GSW
+Shot Chart Detail,21400206,315,200761,Shawne Williams,1610612748,Miami Heat,3,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,108,1,1,20141125,1,MIA,GSW
+Shot Chart Detail,21400206,523,200761,Shawne Williams,1610612748,Miami Heat,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,36,1,0,20141125,0,MIA,GSW
+Shot Chart Detail,21400206,534,200761,Shawne Williams,1610612748,Miami Heat,4,0,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-202,126,1,0,20141125,0,MIA,GSW
+Shot Chart Detail,21400245,199,200761,Shawne Williams,1610612748,Miami Heat,2,5,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-6,1,0,20141130,0,NYK,MIA
+Shot Chart Detail,21400245,294,200761,Shawne Williams,1610612748,Miami Heat,3,9,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,179,1,0,20141130,0,NYK,MIA
+Shot Chart Detail,21400245,317,200761,Shawne Williams,1610612748,Miami Heat,3,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-226,107,1,1,20141130,1,NYK,MIA
+Shot Chart Detail,21400245,327,200761,Shawne Williams,1610612748,Miami Heat,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-16,1,0,20141130,0,NYK,MIA
+Shot Chart Detail,21400250,43,200761,Shawne Williams,1610612748,Miami Heat,1,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,220,1,0,20141201,0,WAS,MIA
+Shot Chart Detail,21400250,290,200761,Shawne Williams,1610612748,Miami Heat,3,8,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,9,1,0,20141201,0,WAS,MIA
+Shot Chart Detail,21400250,327,200761,Shawne Williams,1610612748,Miami Heat,3,4,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,1,1,1,20141201,1,WAS,MIA
+Shot Chart Detail,21400267,179,200761,Shawne Williams,1610612748,Miami Heat,2,4,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,47,1,1,20141203,1,MIA,ATL
+Shot Chart Detail,21400267,185,200761,Shawne Williams,1610612748,Miami Heat,2,3,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,1,20141203,1,MIA,ATL
+Shot Chart Detail,21400267,189,200761,Shawne Williams,1610612748,Miami Heat,2,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,0,1,0,20141203,0,MIA,ATL
+Shot Chart Detail,21400267,335,200761,Shawne Williams,1610612748,Miami Heat,3,4,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-16,1,0,20141203,0,MIA,ATL
+Shot Chart Detail,21400267,374,200761,Shawne Williams,1610612748,Miami Heat,3,0,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,0,20141203,0,MIA,ATL
+Shot Chart Detail,21400285,450,200761,Shawne Williams,1610612748,Miami Heat,4,3,43,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,-5,1,0,20141205,0,MIL,MIA
+Shot Chart Detail,21400285,474,200761,Shawne Williams,1610612748,Miami Heat,4,2,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20141205,0,MIL,MIA
+Shot Chart Detail,21400285,477,200761,Shawne Williams,1610612748,Miami Heat,4,2,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,83,247,1,0,20141205,0,MIL,MIA
+Shot Chart Detail,21400296,83,200761,Shawne Williams,1610612748,Miami Heat,1,1,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20141207,0,MEM,MIA
+Shot Chart Detail,21400296,119,200761,Shawne Williams,1610612748,Miami Heat,2,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,34,1,1,20141207,0,MEM,MIA
+Shot Chart Detail,21400296,128,200761,Shawne Williams,1610612748,Miami Heat,2,8,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,20141207,0,MEM,MIA
+Shot Chart Detail,21400296,130,200761,Shawne Williams,1610612748,Miami Heat,2,8,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-8,1,1,20141207,0,MEM,MIA
+Shot Chart Detail,21400296,137,200761,Shawne Williams,1610612748,Miami Heat,2,7,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,12,1,0,20141207,0,MEM,MIA
+Shot Chart Detail,21400296,319,200761,Shawne Williams,1610612748,Miami Heat,4,8,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-16,1,0,20141207,0,MEM,MIA
+Shot Chart Detail,21400296,326,200761,Shawne Williams,1610612748,Miami Heat,4,8,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-17,1,0,20141207,0,MEM,MIA
+Shot Chart Detail,21400325,163,200761,Shawne Williams,1610612748,Miami Heat,2,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,195,1,1,20141210,1,DEN,MIA
+Shot Chart Detail,21400325,178,200761,Shawne Williams,1610612748,Miami Heat,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,206,1,0,20141210,0,DEN,MIA
+Shot Chart Detail,21400325,181,200761,Shawne Williams,1610612748,Miami Heat,2,6,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,30,1,1,20141210,1,DEN,MIA
+Shot Chart Detail,21400325,197,200761,Shawne Williams,1610612748,Miami Heat,2,4,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20141210,0,DEN,MIA
+Shot Chart Detail,21400325,204,200761,Shawne Williams,1610612748,Miami Heat,2,3,57,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,183,1,1,20141210,1,DEN,MIA
+Shot Chart Detail,21400325,210,200761,Shawne Williams,1610612748,Miami Heat,2,2,42,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,10,225,1,0,20141210,0,DEN,MIA
+Shot Chart Detail,21400325,385,200761,Shawne Williams,1610612748,Miami Heat,3,0,28,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,3,1,0,20141210,0,DEN,MIA
+Shot Chart Detail,21400325,487,200761,Shawne Williams,1610612748,Miami Heat,4,4,56,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-226,60,1,0,20141210,0,DEN,MIA
+Shot Chart Detail,21400325,525,200761,Shawne Williams,1610612748,Miami Heat,4,0,49,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,198,28,1,0,20141210,0,DEN,MIA
+Shot Chart Detail,21400338,149,200761,Shawne Williams,1610612748,Miami Heat,2,7,55,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,-8,1,1,20141212,1,UTA,MIA
+Shot Chart Detail,21400349,64,200761,Shawne Williams,1610612748,Miami Heat,1,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,190,1,1,20141214,1,MIA,CHI
+Shot Chart Detail,21400349,148,200761,Shawne Williams,1610612748,Miami Heat,2,9,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,183,1,0,20141214,0,MIA,CHI
+Shot Chart Detail,21400349,269,200761,Shawne Williams,1610612748,Miami Heat,3,10,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-175,172,1,0,20141214,0,MIA,CHI
+Shot Chart Detail,21400349,294,200761,Shawne Williams,1610612748,Miami Heat,3,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-100,121,1,0,20141214,0,MIA,CHI
+Shot Chart Detail,21400364,122,200761,Shawne Williams,1610612748,Miami Heat,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-17,1,0,20141216,0,BKN,MIA
+Shot Chart Detail,21400364,130,200761,Shawne Williams,1610612748,Miami Heat,1,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,168,1,0,20141216,0,BKN,MIA
+Shot Chart Detail,21400364,138,200761,Shawne Williams,1610612748,Miami Heat,2,11,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-30,1,0,20141216,0,BKN,MIA
+Shot Chart Detail,21400364,141,200761,Shawne Williams,1610612748,Miami Heat,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,1,20141216,1,BKN,MIA
+Shot Chart Detail,21400364,143,200761,Shawne Williams,1610612748,Miami Heat,2,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,-25,1,0,20141216,0,BKN,MIA
+Shot Chart Detail,21400364,166,200761,Shawne Williams,1610612748,Miami Heat,2,8,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-157,113,1,0,20141216,0,BKN,MIA
+Shot Chart Detail,21400364,173,200761,Shawne Williams,1610612748,Miami Heat,2,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-24,1,1,20141216,1,BKN,MIA
+Shot Chart Detail,21400364,383,200761,Shawne Williams,1610612748,Miami Heat,3,0,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-16,1,1,20141216,1,BKN,MIA
+Shot Chart Detail,21400373,115,200761,Shawne Williams,1610612748,Miami Heat,1,0,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-5,1,0,20141217,0,MIA,UTA
+Shot Chart Detail,21400373,152,200761,Shawne Williams,1610612748,Miami Heat,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,194,1,0,20141217,0,MIA,UTA
+Shot Chart Detail,21400373,277,200761,Shawne Williams,1610612748,Miami Heat,3,11,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-8,1,1,20141217,1,MIA,UTA
+Shot Chart Detail,21400373,313,200761,Shawne Williams,1610612748,Miami Heat,3,7,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-8,1,1,20141217,0,MIA,UTA
+Shot Chart Detail,21400373,345,200761,Shawne Williams,1610612748,Miami Heat,3,5,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,0,20141217,0,MIA,UTA
+Shot Chart Detail,21400373,416,200761,Shawne Williams,1610612748,Miami Heat,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,58,1,0,20141217,0,MIA,UTA
+Shot Chart Detail,21400373,442,200761,Shawne Williams,1610612748,Miami Heat,4,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,165,1,0,20141217,0,MIA,UTA
+Shot Chart Detail,21400388,18,200761,Shawne Williams,1610612748,Miami Heat,1,9,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,4,1,0,20141219,0,MIA,WAS
+Shot Chart Detail,21400388,24,200761,Shawne Williams,1610612748,Miami Heat,1,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,170,1,1,20141219,1,MIA,WAS
+Shot Chart Detail,21400388,66,200761,Shawne Williams,1610612748,Miami Heat,1,4,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,0,1,1,20141219,1,MIA,WAS
+Shot Chart Detail,21400388,212,200761,Shawne Williams,1610612748,Miami Heat,2,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,7,1,1,20141219,1,MIA,WAS
+Shot Chart Detail,21400388,271,200761,Shawne Williams,1610612748,Miami Heat,3,9,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,37,1,0,20141219,0,MIA,WAS
+Shot Chart Detail,21400388,313,200761,Shawne Williams,1610612748,Miami Heat,3,3,48,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-119,164,1,0,20141219,0,MIA,WAS
+Shot Chart Detail,21400404,15,200761,Shawne Williams,1610612748,Miami Heat,1,10,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,1,1,1,20141221,1,MIA,BOS
+Shot Chart Detail,21400404,23,200761,Shawne Williams,1610612748,Miami Heat,1,9,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,25,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400404,26,200761,Shawne Williams,1610612748,Miami Heat,1,8,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,6,1,1,20141221,1,MIA,BOS
+Shot Chart Detail,21400404,36,200761,Shawne Williams,1610612748,Miami Heat,1,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,15,1,1,20141221,1,MIA,BOS
+Shot Chart Detail,21400404,64,200761,Shawne Williams,1610612748,Miami Heat,1,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,28,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400404,250,200761,Shawne Williams,1610612748,Miami Heat,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,43,-202,388,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400404,263,200761,Shawne Williams,1610612748,Miami Heat,3,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,205,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400404,300,200761,Shawne Williams,1610612748,Miami Heat,3,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,123,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400404,380,200761,Shawne Williams,1610612748,Miami Heat,4,10,46,Made Shot,Jump Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,15,36,1,1,20141221,1,MIA,BOS
+Shot Chart Detail,21400404,383,200761,Shawne Williams,1610612748,Miami Heat,4,10,23,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-65,239,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400404,425,200761,Shawne Williams,1610612748,Miami Heat,4,6,48,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,6,1,0,20141221,0,MIA,BOS
+Shot Chart Detail,21400422,13,200761,Shawne Williams,1610612748,Miami Heat,1,10,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,19,1,1,20141223,1,MIA,PHI
+Shot Chart Detail,21400422,19,200761,Shawne Williams,1610612748,Miami Heat,1,9,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-146,194,1,0,20141223,0,MIA,PHI
+Shot Chart Detail,21400422,51,200761,Shawne Williams,1610612748,Miami Heat,1,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,9,1,0,20141223,0,MIA,PHI
+Shot Chart Detail,21400422,268,200761,Shawne Williams,1610612748,Miami Heat,2,0,1,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,23,1,1,20141223,0,MIA,PHI
+Shot Chart Detail,21400422,287,200761,Shawne Williams,1610612748,Miami Heat,3,10,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,7,1,1,20141223,1,MIA,PHI
+Shot Chart Detail,21400422,289,200761,Shawne Williams,1610612748,Miami Heat,3,9,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,1,20141223,1,MIA,PHI
+Shot Chart Detail,21400422,293,200761,Shawne Williams,1610612748,Miami Heat,3,9,23,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141223,0,MIA,PHI
+Shot Chart Detail,21400422,305,200761,Shawne Williams,1610612748,Miami Heat,3,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20141223,1,MIA,PHI
+Shot Chart Detail,21400422,545,200761,Shawne Williams,1610612748,Miami Heat,4,0,4,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-226,14,1,0,20141223,0,MIA,PHI
+Shot Chart Detail,21400429,39,200761,Shawne Williams,1610612748,Miami Heat,1,7,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,0,20141225,0,MIA,CLE
+Shot Chart Detail,21400429,154,200761,Shawne Williams,1610612748,Miami Heat,2,9,38,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,160,1,1,20141225,1,MIA,CLE
+Shot Chart Detail,21400429,161,200761,Shawne Williams,1610612748,Miami Heat,2,9,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,170,99,1,1,20141225,0,MIA,CLE
+Shot Chart Detail,21400429,163,200761,Shawne Williams,1610612748,Miami Heat,2,8,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,160,1,0,20141225,0,MIA,CLE
+Shot Chart Detail,21400429,276,200761,Shawne Williams,1610612748,Miami Heat,3,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,203,1,0,20141225,0,MIA,CLE
+Shot Chart Detail,21400429,362,200761,Shawne Williams,1610612748,Miami Heat,3,3,6,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,23,-142,192,1,0,20141225,0,MIA,CLE
+Shot Chart Detail,21400446,14,200761,Shawne Williams,1610612748,Miami Heat,1,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-180,71,1,0,20141227,0,MIA,MEM
+Shot Chart Detail,21400446,17,200761,Shawne Williams,1610612748,Miami Heat,1,8,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20141227,1,MIA,MEM
+Shot Chart Detail,21400446,252,200761,Shawne Williams,1610612748,Miami Heat,3,9,48,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,41,1,0,20141227,0,MIA,MEM
+Shot Chart Detail,21400446,278,200761,Shawne Williams,1610612748,Miami Heat,3,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,208,1,1,20141227,1,MIA,MEM
+Shot Chart Detail,21400446,281,200761,Shawne Williams,1610612748,Miami Heat,3,6,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,14,1,1,20141227,1,MIA,MEM
+Shot Chart Detail,21400497,141,200761,Shawne Williams,1610612748,Miami Heat,2,10,13,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,43,258,1,0,20150103,0,HOU,MIA
+Shot Chart Detail,21400497,419,200761,Shawne Williams,1610612748,Miami Heat,3,1,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-134,203,1,0,20150103,0,HOU,MIA
+Shot Chart Detail,21400497,458,200761,Shawne Williams,1610612748,Miami Heat,4,9,54,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,217,1,0,20150103,0,HOU,MIA
+Shot Chart Detail,21400537,493,200761,Shawne Williams,1610612748,Miami Heat,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,9,1,0,20150108,0,POR,MIA
+Shot Chart Detail,21400537,504,200761,Shawne Williams,1610612748,Miami Heat,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,115,1,0,20150108,0,POR,MIA
+Shot Chart Detail,21400573,350,200761,Shawne Williams,1610612748,Miami Heat,3,3,9,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-8,1,1,20150113,1,LAL,MIA
+Shot Chart Detail,21400582,154,200761,Shawne Williams,1610612748,Miami Heat,2,5,49,Missed Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,0,20150114,0,GSW,MIA
+Shot Chart Detail,21400582,367,200761,Shawne Williams,1610612748,Miami Heat,4,10,16,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,113,102,1,1,20150114,1,GSW,MIA
+Shot Chart Detail,21400582,370,200761,Shawne Williams,1610612748,Miami Heat,4,9,46,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,151,224,1,0,20150114,0,GSW,MIA
+Shot Chart Detail,21400582,376,200761,Shawne Williams,1610612748,Miami Heat,4,9,20,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,186,1,1,20150114,1,GSW,MIA
+Shot Chart Detail,21400598,142,200761,Shawne Williams,1610612748,Miami Heat,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,30,1,1,20150116,1,SAC,MIA
+Shot Chart Detail,21400598,239,200761,Shawne Williams,1610612748,Miami Heat,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,6,1,1,20150116,1,SAC,MIA
+Shot Chart Detail,21400623,400,200761,Shawne Williams,1610612748,Miami Heat,4,11,12,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,4,1,0,20150120,0,MIA,OKC
+Shot Chart Detail,21400623,405,200761,Shawne Williams,1610612748,Miami Heat,4,10,44,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-209,129,1,1,20150120,1,MIA,OKC
+Shot Chart Detail,21400623,418,200761,Shawne Williams,1610612748,Miami Heat,4,9,15,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,239,20,1,0,20150120,0,MIA,OKC
+Shot Chart Detail,21400623,450,200761,Shawne Williams,1610612748,Miami Heat,4,5,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,132,208,1,0,20150120,0,MIA,OKC
+Shot Chart Detail,21400625,124,200761,Shawne Williams,1610612748,Miami Heat,1,1,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,44,1,0,20150121,0,CHA,MIA
+Shot Chart Detail,21400625,170,200761,Shawne Williams,1610612748,Miami Heat,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,0,20150121,0,CHA,MIA
+Shot Chart Detail,21400625,192,200761,Shawne Williams,1610612748,Miami Heat,2,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,220,1,1,20150121,1,CHA,MIA
+Shot Chart Detail,21400625,381,200761,Shawne Williams,1610612748,Miami Heat,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,85,1,0,20150121,0,CHA,MIA
+Shot Chart Detail,21400625,409,200761,Shawne Williams,1610612748,Miami Heat,4,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,0,20150121,0,CHA,MIA
+Shot Chart Detail,21400625,410,200761,Shawne Williams,1610612748,Miami Heat,4,9,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20150121,0,CHA,MIA
+Shot Chart Detail,21400625,414,200761,Shawne Williams,1610612748,Miami Heat,4,9,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-111,268,1,1,20150121,1,CHA,MIA
+Shot Chart Detail,21400625,420,200761,Shawne Williams,1610612748,Miami Heat,4,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,47,261,1,0,20150121,0,CHA,MIA
+Shot Chart Detail,21400625,513,200761,Shawne Williams,1610612748,Miami Heat,4,0,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,0,20150121,0,CHA,MIA
+Shot Chart Detail,21400644,105,200761,Shawne Williams,1610612748,Miami Heat,1,2,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,7,1,1,20150123,1,MIA,IND
+Shot Chart Detail,21400644,119,200761,Shawne Williams,1610612748,Miami Heat,1,0,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,0,20150123,0,MIA,IND
+Shot Chart Detail,21400644,136,200761,Shawne Williams,1610612748,Miami Heat,2,10,52,Made Shot,Driving Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,101,1,1,20150123,0,MIA,IND
+Shot Chart Detail,21400644,152,200761,Shawne Williams,1610612748,Miami Heat,2,8,56,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-81,45,1,0,20150123,0,MIA,IND
+Shot Chart Detail,21400644,367,200761,Shawne Williams,1610612748,Miami Heat,3,1,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-3,1,0,20150123,0,MIA,IND
+Shot Chart Detail,21400644,389,200761,Shawne Williams,1610612748,Miami Heat,4,10,49,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,195,42,1,1,20150123,0,MIA,IND
+Shot Chart Detail,21400644,415,200761,Shawne Williams,1610612748,Miami Heat,4,10,21,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,0,20150123,0,MIA,IND
+Shot Chart Detail,21400644,471,200761,Shawne Williams,1610612748,Miami Heat,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,189,1,0,20150123,0,MIA,IND
+Shot Chart Detail,21400657,133,200761,Shawne Williams,1610612748,Miami Heat,2,9,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,0,20150125,0,CHI,MIA
+Shot Chart Detail,21400657,138,200761,Shawne Williams,1610612748,Miami Heat,2,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20150125,0,CHI,MIA
+Shot Chart Detail,21400657,141,200761,Shawne Williams,1610612748,Miami Heat,2,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,54,239,1,0,20150125,0,CHI,MIA
+Shot Chart Detail,21400677,122,200761,Shawne Williams,1610612748,Miami Heat,2,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,179,1,0,20150127,0,MIA,MIL
+Shot Chart Detail,21400677,390,200761,Shawne Williams,1610612748,Miami Heat,4,9,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,20150127,0,MIA,MIL
+Shot Chart Detail,21400702,111,200761,Shawne Williams,1610612748,Miami Heat,1,2,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,9,1,0,20150130,0,MIA,DAL
+Shot Chart Detail,21400702,113,200761,Shawne Williams,1610612748,Miami Heat,1,2,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-3,1,0,20150130,0,MIA,DAL
+Shot Chart Detail,21400702,117,200761,Shawne Williams,1610612748,Miami Heat,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,108,1,0,20150130,0,MIA,DAL
+Shot Chart Detail,21400702,223,200761,Shawne Williams,1610612748,Miami Heat,2,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20150130,1,MIA,DAL
+Shot Chart Detail,21400702,400,200761,Shawne Williams,1610612748,Miami Heat,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,0,20150130,0,MIA,DAL
+Shot Chart Detail,21400702,438,200761,Shawne Williams,1610612748,Miami Heat,4,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,119,157,1,0,20150130,0,MIA,DAL
+Shot Chart Detail,21400716,69,200761,Shawne Williams,1610612748,Miami Heat,1,4,50,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,1,1,0,20150201,0,BOS,MIA

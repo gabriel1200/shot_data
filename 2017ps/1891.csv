@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041600121,132,1891,Jason Terry,1610612749,Milwaukee Bucks,2,10,40,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,3,1,0,20170415,TOR,MIL
-Shot Chart Detail,0041600122,154,1891,Jason Terry,1610612749,Milwaukee Bucks,2,9,26,Made Shot,No Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,7,1,1,20170418,TOR,MIL
-Shot Chart Detail,0041600123,134,1891,Jason Terry,1610612749,Milwaukee Bucks,2,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,0,20170420,MIL,TOR
-Shot Chart Detail,0041600123,162,1891,Jason Terry,1610612749,Milwaukee Bucks,2,5,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,0,20170420,MIL,TOR
-Shot Chart Detail,0041600123,348,1891,Jason Terry,1610612749,Milwaukee Bucks,3,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,169,1,0,20170420,MIL,TOR
-Shot Chart Detail,0041600123,370,1891,Jason Terry,1610612749,Milwaukee Bucks,3,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,240,95,1,0,20170420,MIL,TOR
-Shot Chart Detail,0041600124,160,1891,Jason Terry,1610612749,Milwaukee Bucks,2,8,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20170422,MIL,TOR
-Shot Chart Detail,0041600124,402,1891,Jason Terry,1610612749,Milwaukee Bucks,4,9,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,213,1,0,20170422,MIL,TOR
-Shot Chart Detail,0041600124,408,1891,Jason Terry,1610612749,Milwaukee Bucks,4,8,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-1,1,0,20170422,MIL,TOR
-Shot Chart Detail,0041600124,421,1891,Jason Terry,1610612749,Milwaukee Bucks,4,7,50,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-14,75,1,1,20170422,MIL,TOR
-Shot Chart Detail,0041600125,127,1891,Jason Terry,1610612749,Milwaukee Bucks,2,10,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-1,1,0,20170424,TOR,MIL
-Shot Chart Detail,0041600126,146,1891,Jason Terry,1610612749,Milwaukee Bucks,2,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,232,1,0,20170427,MIL,TOR
-Shot Chart Detail,0041600126,162,1891,Jason Terry,1610612749,Milwaukee Bucks,2,7,14,Missed Shot,Jump Shot,2PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,52,1,0,20170427,MIL,TOR
-Shot Chart Detail,0041600126,167,1891,Jason Terry,1610612749,Milwaukee Bucks,2,6,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,56,1,0,20170427,MIL,TOR
-Shot Chart Detail,0041600126,390,1891,Jason Terry,1610612749,Milwaukee Bucks,4,7,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,46,1,1,20170427,MIL,TOR
-Shot Chart Detail,0041600126,416,1891,Jason Terry,1610612749,Milwaukee Bucks,4,5,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-225,156,1,0,20170427,MIL,TOR
-Shot Chart Detail,0041600126,465,1891,Jason Terry,1610612749,Milwaukee Bucks,4,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-106,247,1,1,20170427,MIL,TOR
-Shot Chart Detail,0041600126,517,1891,Jason Terry,1610612749,Milwaukee Bucks,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,132,237,1,1,20170427,MIL,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41600121,132,1891,Jason Terry,1610612749,Milwaukee Bucks,2,10,40,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,3,1,0,20170415,0,TOR,MIL
+Shot Chart Detail,41600122,154,1891,Jason Terry,1610612749,Milwaukee Bucks,2,9,26,Made Shot,No Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,7,1,1,20170418,1,TOR,MIL
+Shot Chart Detail,41600123,134,1891,Jason Terry,1610612749,Milwaukee Bucks,2,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,0,20170420,0,MIL,TOR
+Shot Chart Detail,41600123,162,1891,Jason Terry,1610612749,Milwaukee Bucks,2,5,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,0,20170420,0,MIL,TOR
+Shot Chart Detail,41600123,348,1891,Jason Terry,1610612749,Milwaukee Bucks,3,2,38,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,181,169,1,0,20170420,0,MIL,TOR
+Shot Chart Detail,41600123,370,1891,Jason Terry,1610612749,Milwaukee Bucks,3,0,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,240,95,1,0,20170420,0,MIL,TOR
+Shot Chart Detail,41600124,160,1891,Jason Terry,1610612749,Milwaukee Bucks,2,8,20,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20170422,0,MIL,TOR
+Shot Chart Detail,41600124,402,1891,Jason Terry,1610612749,Milwaukee Bucks,4,9,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,213,1,0,20170422,0,MIL,TOR
+Shot Chart Detail,41600124,408,1891,Jason Terry,1610612749,Milwaukee Bucks,4,8,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-1,1,0,20170422,0,MIL,TOR
+Shot Chart Detail,41600124,421,1891,Jason Terry,1610612749,Milwaukee Bucks,4,7,50,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-14,75,1,1,20170422,1,MIL,TOR
+Shot Chart Detail,41600125,127,1891,Jason Terry,1610612749,Milwaukee Bucks,2,10,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-1,1,0,20170424,0,TOR,MIL
+Shot Chart Detail,41600126,146,1891,Jason Terry,1610612749,Milwaukee Bucks,2,9,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,232,1,0,20170427,0,MIL,TOR
+Shot Chart Detail,41600126,162,1891,Jason Terry,1610612749,Milwaukee Bucks,2,7,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-220,52,1,0,20170427,0,MIL,TOR
+Shot Chart Detail,41600126,167,1891,Jason Terry,1610612749,Milwaukee Bucks,2,6,41,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,86,56,1,0,20170427,0,MIL,TOR
+Shot Chart Detail,41600126,390,1891,Jason Terry,1610612749,Milwaukee Bucks,4,7,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,46,1,1,20170427,0,MIL,TOR
+Shot Chart Detail,41600126,416,1891,Jason Terry,1610612749,Milwaukee Bucks,4,5,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-225,156,1,0,20170427,0,MIL,TOR
+Shot Chart Detail,41600126,465,1891,Jason Terry,1610612749,Milwaukee Bucks,4,3,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-106,247,1,1,20170427,1,MIL,TOR
+Shot Chart Detail,41600126,517,1891,Jason Terry,1610612749,Milwaukee Bucks,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,132,237,1,1,20170427,1,MIL,TOR

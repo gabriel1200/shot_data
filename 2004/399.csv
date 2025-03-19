@@ -1,303 +1,152 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300006,85,399,Sean Rooks,1610612740,New Orleans Hornets,1,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,54,189,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300006,94,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,22,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300006,100,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,41,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-108,91,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,227,399,Sean Rooks,1610612740,New Orleans Hornets,2,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,145,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,315,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,71,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,317,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,31,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,358,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,514,399,Sean Rooks,1610612740,New Orleans Hornets,5,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,122,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300016,95,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,61,1,0,20031030,ORL,NOH
-Shot Chart Detail,0020300016,105,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031030,ORL,NOH
-Shot Chart Detail,0020300016,375,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-97,183,1,0,20031030,ORL,NOH
-Shot Chart Detail,0020300030,88,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,155,1,1,20031101,NOH,BOS
-Shot Chart Detail,0020300030,373,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,183,1,0,20031101,NOH,BOS
-Shot Chart Detail,0020300030,396,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-80,176,1,0,20031101,NOH,BOS
-Shot Chart Detail,0020300042,82,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-126,92,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,86,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,11,146,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300052,108,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,166,1,0,20031105,PHI,NOH
-Shot Chart Detail,0020300070,115,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,114,1,1,20031107,NOH,LAL
-Shot Chart Detail,0020300070,327,399,Sean Rooks,1610612740,New Orleans Hornets,3,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,161,1,1,20031107,NOH,LAL
-Shot Chart Detail,0020300079,86,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,100,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300079,91,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300079,94,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,138,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300079,99,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,5,191,1,1,20031108,NOH,CHI
-Shot Chart Detail,0020300079,137,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-66,143,1,1,20031108,NOH,CHI
-Shot Chart Detail,0020300079,144,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300107,155,399,Sean Rooks,1610612740,New Orleans Hornets,2,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-67,196,1,0,20031112,NOH,UTA
-Shot Chart Detail,0020300107,271,399,Sean Rooks,1610612740,New Orleans Hornets,3,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,31,1,1,20031112,NOH,UTA
-Shot Chart Detail,0020300107,303,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,46,118,1,1,20031112,NOH,UTA
-Shot Chart Detail,0020300126,155,399,Sean Rooks,1610612740,New Orleans Hornets,2,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,143,1,0,20031115,NOH,POR
-Shot Chart Detail,0020300126,413,399,Sean Rooks,1610612740,New Orleans Hornets,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,58,1,0,20031115,NOH,POR
-Shot Chart Detail,0020300126,426,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,184,1,1,20031115,NOH,POR
-Shot Chart Detail,0020300126,431,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,178,1,0,20031115,NOH,POR
-Shot Chart Detail,0020300145,280,399,Sean Rooks,1610612740,New Orleans Hornets,3,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-82,171,1,1,20031118,NJN,NOH
-Shot Chart Detail,0020300145,295,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,23,199,1,0,20031118,NJN,NOH
-Shot Chart Detail,0020300165,350,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-108,173,1,0,20031121,NOH,IND
-Shot Chart Detail,0020300193,100,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,0,20031125,MIA,NOH
-Shot Chart Detail,0020300203,114,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,160,1,1,20031126,NOH,CLE
-Shot Chart Detail,0020300223,118,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,140,1,1,20031129,NYK,NOH
-Shot Chart Detail,0020300223,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,46,1,1,20031129,NYK,NOH
-Shot Chart Detail,0020300223,153,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-77,135,1,0,20031129,NYK,NOH
-Shot Chart Detail,0020300223,357,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,102,1,1,20031129,NYK,NOH
-Shot Chart Detail,0020300223,373,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,NYK,NOH
-Shot Chart Detail,0020300242,83,399,Sean Rooks,1610612740,New Orleans Hornets,1,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-179,95,1,0,20031202,ORL,NOH
-Shot Chart Detail,0020300242,145,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031202,ORL,NOH
-Shot Chart Detail,0020300242,149,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,114,1,0,20031202,ORL,NOH
-Shot Chart Detail,0020300249,124,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,59,1,0,20031203,NOH,ORL
-Shot Chart Detail,0020300264,112,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,117,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300264,120,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,6,194,1,1,20031205,NOH,HOU
-Shot Chart Detail,0020300264,129,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,174,1,1,20031205,NOH,HOU
-Shot Chart Detail,0020300264,282,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,155,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300264,285,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-61,130,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300264,306,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,72,160,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300337,366,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,166,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,392,399,Sean Rooks,1610612740,New Orleans Hornets,4,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-23,155,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,399,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-44,156,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300344,431,399,Sean Rooks,1610612740,New Orleans Hornets,4,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-8,1,1,20031216,DEN,NOH
-Shot Chart Detail,0020300344,444,399,Sean Rooks,1610612740,New Orleans Hornets,4,2,38,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,49,1,0,20031216,DEN,NOH
-Shot Chart Detail,0020300344,456,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,52,204,1,0,20031216,DEN,NOH
-Shot Chart Detail,0020300358,119,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,86,1,1,20031218,NOH,SAC
-Shot Chart Detail,0020300358,140,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,34,194,1,0,20031218,NOH,SAC
-Shot Chart Detail,0020300372,125,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,74,127,1,0,20031220,NOH,MEM
-Shot Chart Detail,0020300372,138,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,61,1,1,20031220,NOH,MEM
-Shot Chart Detail,0020300372,336,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-31,196,1,0,20031220,NOH,MEM
-Shot Chart Detail,0020300389,115,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-26,189,1,0,20031223,CLE,NOH
-Shot Chart Detail,0020300389,121,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,7,1,1,20031223,CLE,NOH
-Shot Chart Detail,0020300389,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,91,1,1,20031223,CLE,NOH
-Shot Chart Detail,0020300389,135,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,0,1,1,20031223,CLE,NOH
-Shot Chart Detail,0020300406,97,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-117,174,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,99,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,52,201,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,122,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-5,204,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,192,399,Sean Rooks,1610612740,New Orleans Hornets,2,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-140,104,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,287,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,91,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,341,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,35,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300466,98,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,149,123,1,0,20040103,IND,NOH
-Shot Chart Detail,0020300466,117,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-21,1,1,20040103,IND,NOH
-Shot Chart Detail,0020300466,390,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,109,1,0,20040103,IND,NOH
-Shot Chart Detail,0020300497,488,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-46,206,1,0,20040107,NOH,WAS
-Shot Chart Detail,0020300570,337,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-39,179,1,0,20040117,NOH,ORL
-Shot Chart Detail,0020300570,349,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-90,174,1,1,20040117,NOH,ORL
-Shot Chart Detail,0020300570,365,399,Sean Rooks,1610612740,New Orleans Hornets,4,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,187,1,0,20040117,NOH,ORL
-Shot Chart Detail,0020300586,145,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,122,1,0,20040119,MIN,NOH
-Shot Chart Detail,0020300612,120,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,156,1,1,20040123,NOH,DEN
-Shot Chart Detail,0020300612,122,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-192,81,1,0,20040123,NOH,DEN
-Shot Chart Detail,0020300612,140,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,21,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,53,1,1,20040123,NOH,DEN
-Shot Chart Detail,0020300612,342,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040123,NOH,DEN
-Shot Chart Detail,0020300612,358,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,135,1,1,20040123,NOH,DEN
-Shot Chart Detail,0020300624,91,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,164,1,0,20040124,SAS,NOH
-Shot Chart Detail,0020300624,117,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,54,206,1,0,20040124,SAS,NOH
-Shot Chart Detail,0020300624,357,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,46,1,1,20040124,SAS,NOH
-Shot Chart Detail,0020300624,381,399,Sean Rooks,1610612740,New Orleans Hornets,4,7,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-57,171,1,0,20040124,SAS,NOH
-Shot Chart Detail,0020300650,134,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040128,NOH,MIL
-Shot Chart Detail,0020300686,419,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,191,1,0,20040202,NOH,NJN
-Shot Chart Detail,0020300686,421,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,155,1,1,20040202,NOH,NJN
-Shot Chart Detail,0020300807,136,399,Sean Rooks,1610612753,Orlando Magic,2,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-67,169,1,1,20040222,DET,ORL
-Shot Chart Detail,0020300815,101,399,Sean Rooks,1610612753,Orlando Magic,2,11,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040224,ORL,POR
-Shot Chart Detail,0020300815,108,399,Sean Rooks,1610612753,Orlando Magic,2,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,44,196,1,1,20040224,ORL,POR
-Shot Chart Detail,0020300815,159,399,Sean Rooks,1610612753,Orlando Magic,2,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,56,1,0,20040224,ORL,POR
-Shot Chart Detail,0020300815,351,399,Sean Rooks,1610612753,Orlando Magic,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-103,181,1,1,20040224,ORL,POR
-Shot Chart Detail,0020300815,381,399,Sean Rooks,1610612753,Orlando Magic,4,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-33,206,1,0,20040224,ORL,POR
-Shot Chart Detail,0020300838,107,399,Sean Rooks,1610612753,Orlando Magic,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-8,220,1,0,20040227,ORL,CLE
-Shot Chart Detail,0020300838,288,399,Sean Rooks,1610612753,Orlando Magic,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-66,209,1,1,20040227,ORL,CLE
-Shot Chart Detail,0020300838,308,399,Sean Rooks,1610612753,Orlando Magic,3,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040227,ORL,CLE
-Shot Chart Detail,0020300849,138,399,Sean Rooks,1610612753,Orlando Magic,2,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,166,1,1,20040228,ATL,ORL
-Shot Chart Detail,0020300849,204,399,Sean Rooks,1610612753,Orlando Magic,2,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,151,1,0,20040228,ATL,ORL
-Shot Chart Detail,0020300849,394,399,Sean Rooks,1610612753,Orlando Magic,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-62,94,1,0,20040228,ATL,ORL
-Shot Chart Detail,0020300863,73,399,Sean Rooks,1610612753,Orlando Magic,1,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,158,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,93,399,Sean Rooks,1610612753,Orlando Magic,1,2,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,1,20040301,BOS,ORL
-Shot Chart Detail,0020300863,113,399,Sean Rooks,1610612753,Orlando Magic,1,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20040301,BOS,ORL
-Shot Chart Detail,0020300863,197,399,Sean Rooks,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,114,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,300,399,Sean Rooks,1610612753,Orlando Magic,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-49,183,1,1,20040301,BOS,ORL
-Shot Chart Detail,0020300863,327,399,Sean Rooks,1610612753,Orlando Magic,3,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,94,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,354,399,Sean Rooks,1610612753,Orlando Magic,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-159,68,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,390,399,Sean Rooks,1610612753,Orlando Magic,4,8,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,409,399,Sean Rooks,1610612753,Orlando Magic,4,6,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-72,166,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,416,399,Sean Rooks,1610612753,Orlando Magic,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,153,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300887,332,399,Sean Rooks,1610612753,Orlando Magic,3,2,9,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,54,1,0,20040305,ORL,ATL
-Shot Chart Detail,0020300907,106,399,Sean Rooks,1610612753,Orlando Magic,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-90,183,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300907,154,399,Sean Rooks,1610612753,Orlando Magic,2,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,148,1,1,20040307,ORL,SAC
-Shot Chart Detail,0020300907,181,399,Sean Rooks,1610612753,Orlando Magic,2,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-94,69,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300907,268,399,Sean Rooks,1610612753,Orlando Magic,3,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040307,ORL,SAC
-Shot Chart Detail,0020300907,299,399,Sean Rooks,1610612753,Orlando Magic,3,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-11,202,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300907,309,399,Sean Rooks,1610612753,Orlando Magic,3,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,115,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300920,86,399,Sean Rooks,1610612753,Orlando Magic,1,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,184,1,1,20040309,MIA,ORL
-Shot Chart Detail,0020300920,114,399,Sean Rooks,1610612753,Orlando Magic,1,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040309,MIA,ORL
-Shot Chart Detail,0020300920,138,399,Sean Rooks,1610612753,Orlando Magic,2,9,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040309,MIA,ORL
-Shot Chart Detail,0020300920,151,399,Sean Rooks,1610612753,Orlando Magic,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,183,1,0,20040309,MIA,ORL
-Shot Chart Detail,0020300920,355,399,Sean Rooks,1610612753,Orlando Magic,4,8,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,18,1,1,20040309,MIA,ORL
-Shot Chart Detail,0020300920,387,399,Sean Rooks,1610612753,Orlando Magic,4,4,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-39,114,1,0,20040309,MIA,ORL
-Shot Chart Detail,0020300927,81,399,Sean Rooks,1610612753,Orlando Magic,1,3,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040310,ORL,WAS
-Shot Chart Detail,0020300927,84,399,Sean Rooks,1610612753,Orlando Magic,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,151,1,0,20040310,ORL,WAS
-Shot Chart Detail,0020300950,157,399,Sean Rooks,1610612753,Orlando Magic,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-49,194,1,0,20040313,ORL,SEA
-Shot Chart Detail,0020300950,160,399,Sean Rooks,1610612753,Orlando Magic,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,8,197,1,0,20040313,ORL,SEA
-Shot Chart Detail,0020300950,171,399,Sean Rooks,1610612753,Orlando Magic,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,181,1,0,20040313,ORL,SEA
-Shot Chart Detail,0020300966,105,399,Sean Rooks,1610612753,Orlando Magic,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-107,169,1,0,20040315,LAL,ORL
-Shot Chart Detail,0020300966,300,399,Sean Rooks,1610612753,Orlando Magic,3,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-10,196,1,1,20040315,LAL,ORL
-Shot Chart Detail,0020300966,355,399,Sean Rooks,1610612753,Orlando Magic,3,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,184,1,1,20040315,LAL,ORL
-Shot Chart Detail,0020300982,59,399,Sean Rooks,1610612753,Orlando Magic,1,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-39,201,1,0,20040317,GSW,ORL
-Shot Chart Detail,0020300982,75,399,Sean Rooks,1610612753,Orlando Magic,1,2,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,GSW,ORL
-Shot Chart Detail,0020301003,149,399,Sean Rooks,1610612753,Orlando Magic,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-18,194,1,0,20040320,POR,ORL
-Shot Chart Detail,0020301011,117,399,Sean Rooks,1610612753,Orlando Magic,2,11,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,74,1,0,20040321,SEA,ORL
-Shot Chart Detail,0020301011,171,399,Sean Rooks,1610612753,Orlando Magic,2,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,0,20040321,SEA,ORL
-Shot Chart Detail,0020301057,365,399,Sean Rooks,1610612753,Orlando Magic,4,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,257,1,0,20040328,ORL,DAL
-Shot Chart Detail,0020301057,408,399,Sean Rooks,1610612753,Orlando Magic,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2,160,1,0,20040328,ORL,DAL
-Shot Chart Detail,0020301057,468,399,Sean Rooks,1610612753,Orlando Magic,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,120,1,1,20040328,ORL,DAL
-Shot Chart Detail,0020301057,477,399,Sean Rooks,1610612753,Orlando Magic,4,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,87,187,1,0,20040328,ORL,DAL
-Shot Chart Detail,0020301078,109,399,Sean Rooks,1610612753,Orlando Magic,2,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,1,210,1,1,20040331,ORL,CHI
-Shot Chart Detail,0020301078,143,399,Sean Rooks,1610612753,Orlando Magic,2,8,1,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,45,1,0,20040331,ORL,CHI
-Shot Chart Detail,0020301078,298,399,Sean Rooks,1610612753,Orlando Magic,3,6,44,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,-8,1,0,20040331,ORL,CHI
-Shot Chart Detail,0020301078,349,399,Sean Rooks,1610612753,Orlando Magic,3,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040331,ORL,CHI
-Shot Chart Detail,0020301133,132,399,Sean Rooks,1610612753,Orlando Magic,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-6,212,1,1,20040408,NJN,ORL
-Shot Chart Detail,0020300006,85,399,Sean Rooks,1610612740,New Orleans Hornets,1,3,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,54,189,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300006,94,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,22,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300006,100,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,41,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-108,91,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,227,399,Sean Rooks,1610612740,New Orleans Hornets,2,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,145,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,315,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,71,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,317,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,31,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,358,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,514,399,Sean Rooks,1610612740,New Orleans Hornets,5,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,122,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300016,95,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,103,61,1,0,20031030,ORL,NOH
-Shot Chart Detail,0020300016,105,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031030,ORL,NOH
-Shot Chart Detail,0020300016,375,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-97,183,1,0,20031030,ORL,NOH
-Shot Chart Detail,0020300030,88,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,155,1,1,20031101,NOH,BOS
-Shot Chart Detail,0020300030,373,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,1,183,1,0,20031101,NOH,BOS
-Shot Chart Detail,0020300030,396,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-80,176,1,0,20031101,NOH,BOS
-Shot Chart Detail,0020300042,82,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-126,92,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,86,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,11,146,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300052,108,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,166,1,0,20031105,PHI,NOH
-Shot Chart Detail,0020300070,115,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,114,1,1,20031107,NOH,LAL
-Shot Chart Detail,0020300070,327,399,Sean Rooks,1610612740,New Orleans Hornets,3,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,161,1,1,20031107,NOH,LAL
-Shot Chart Detail,0020300079,86,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,100,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300079,91,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300079,94,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,138,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300079,99,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,5,191,1,1,20031108,NOH,CHI
-Shot Chart Detail,0020300079,137,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-66,143,1,1,20031108,NOH,CHI
-Shot Chart Detail,0020300079,144,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,NOH,CHI
-Shot Chart Detail,0020300107,155,399,Sean Rooks,1610612740,New Orleans Hornets,2,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-67,196,1,0,20031112,NOH,UTA
-Shot Chart Detail,0020300107,271,399,Sean Rooks,1610612740,New Orleans Hornets,3,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,31,1,1,20031112,NOH,UTA
-Shot Chart Detail,0020300107,303,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,46,118,1,1,20031112,NOH,UTA
-Shot Chart Detail,0020300126,155,399,Sean Rooks,1610612740,New Orleans Hornets,2,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,143,1,0,20031115,NOH,POR
-Shot Chart Detail,0020300126,413,399,Sean Rooks,1610612740,New Orleans Hornets,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,58,1,0,20031115,NOH,POR
-Shot Chart Detail,0020300126,426,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,184,1,1,20031115,NOH,POR
-Shot Chart Detail,0020300126,431,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,178,1,0,20031115,NOH,POR
-Shot Chart Detail,0020300145,280,399,Sean Rooks,1610612740,New Orleans Hornets,3,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-82,171,1,1,20031118,NJN,NOH
-Shot Chart Detail,0020300145,295,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,23,199,1,0,20031118,NJN,NOH
-Shot Chart Detail,0020300165,350,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-108,173,1,0,20031121,NOH,IND
-Shot Chart Detail,0020300193,100,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,0,20031125,MIA,NOH
-Shot Chart Detail,0020300203,114,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,160,1,1,20031126,NOH,CLE
-Shot Chart Detail,0020300223,118,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,140,1,1,20031129,NYK,NOH
-Shot Chart Detail,0020300223,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,46,1,1,20031129,NYK,NOH
-Shot Chart Detail,0020300223,153,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-77,135,1,0,20031129,NYK,NOH
-Shot Chart Detail,0020300223,357,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,102,1,1,20031129,NYK,NOH
-Shot Chart Detail,0020300223,373,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,NYK,NOH
-Shot Chart Detail,0020300242,83,399,Sean Rooks,1610612740,New Orleans Hornets,1,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-179,95,1,0,20031202,ORL,NOH
-Shot Chart Detail,0020300242,145,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031202,ORL,NOH
-Shot Chart Detail,0020300242,149,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,114,1,0,20031202,ORL,NOH
-Shot Chart Detail,0020300249,124,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,59,1,0,20031203,NOH,ORL
-Shot Chart Detail,0020300264,112,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-87,117,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300264,120,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,6,194,1,1,20031205,NOH,HOU
-Shot Chart Detail,0020300264,129,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,174,1,1,20031205,NOH,HOU
-Shot Chart Detail,0020300264,282,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,155,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300264,285,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-61,130,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300264,306,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,72,160,1,0,20031205,NOH,HOU
-Shot Chart Detail,0020300337,366,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,166,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,392,399,Sean Rooks,1610612740,New Orleans Hornets,4,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-23,155,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,399,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-44,156,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300344,431,399,Sean Rooks,1610612740,New Orleans Hornets,4,4,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-8,1,1,20031216,DEN,NOH
-Shot Chart Detail,0020300344,444,399,Sean Rooks,1610612740,New Orleans Hornets,4,2,38,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,49,1,0,20031216,DEN,NOH
-Shot Chart Detail,0020300344,456,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,52,204,1,0,20031216,DEN,NOH
-Shot Chart Detail,0020300358,119,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,44,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,86,1,1,20031218,NOH,SAC
-Shot Chart Detail,0020300358,140,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,34,194,1,0,20031218,NOH,SAC
-Shot Chart Detail,0020300372,125,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,74,127,1,0,20031220,NOH,MEM
-Shot Chart Detail,0020300372,138,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,105,61,1,1,20031220,NOH,MEM
-Shot Chart Detail,0020300372,336,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-31,196,1,0,20031220,NOH,MEM
-Shot Chart Detail,0020300389,115,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-26,189,1,0,20031223,CLE,NOH
-Shot Chart Detail,0020300389,121,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,7,1,1,20031223,CLE,NOH
-Shot Chart Detail,0020300389,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,91,1,1,20031223,CLE,NOH
-Shot Chart Detail,0020300389,135,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,0,1,1,20031223,CLE,NOH
-Shot Chart Detail,0020300406,97,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-117,174,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,99,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,52,201,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,122,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-5,204,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,192,399,Sean Rooks,1610612740,New Orleans Hornets,2,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-140,104,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,287,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,91,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,341,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,35,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300466,98,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,149,123,1,0,20040103,IND,NOH
-Shot Chart Detail,0020300466,117,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-21,1,1,20040103,IND,NOH
-Shot Chart Detail,0020300466,390,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,109,1,0,20040103,IND,NOH
-Shot Chart Detail,0020300497,488,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-46,206,1,0,20040107,NOH,WAS
-Shot Chart Detail,0020300570,337,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-39,179,1,0,20040117,NOH,ORL
-Shot Chart Detail,0020300570,349,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-90,174,1,1,20040117,NOH,ORL
-Shot Chart Detail,0020300570,365,399,Sean Rooks,1610612740,New Orleans Hornets,4,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,187,1,0,20040117,NOH,ORL
-Shot Chart Detail,0020300586,145,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,122,1,0,20040119,MIN,NOH
-Shot Chart Detail,0020300612,120,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,156,1,1,20040123,NOH,DEN
-Shot Chart Detail,0020300612,122,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-192,81,1,0,20040123,NOH,DEN
-Shot Chart Detail,0020300612,140,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,21,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,53,1,1,20040123,NOH,DEN
-Shot Chart Detail,0020300612,342,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040123,NOH,DEN
-Shot Chart Detail,0020300612,358,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,135,1,1,20040123,NOH,DEN
-Shot Chart Detail,0020300624,91,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,164,1,0,20040124,SAS,NOH
-Shot Chart Detail,0020300624,117,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,54,206,1,0,20040124,SAS,NOH
-Shot Chart Detail,0020300624,357,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,46,1,1,20040124,SAS,NOH
-Shot Chart Detail,0020300624,381,399,Sean Rooks,1610612740,New Orleans Hornets,4,7,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-57,171,1,0,20040124,SAS,NOH
-Shot Chart Detail,0020300650,134,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040128,NOH,MIL
-Shot Chart Detail,0020300686,419,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,191,1,0,20040202,NOH,NJN
-Shot Chart Detail,0020300686,421,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,155,1,1,20040202,NOH,NJN
-Shot Chart Detail,0020300807,136,399,Sean Rooks,1610612753,Orlando Magic,2,9,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-67,169,1,1,20040222,DET,ORL
-Shot Chart Detail,0020300815,101,399,Sean Rooks,1610612753,Orlando Magic,2,11,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040224,ORL,POR
-Shot Chart Detail,0020300815,108,399,Sean Rooks,1610612753,Orlando Magic,2,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,44,196,1,1,20040224,ORL,POR
-Shot Chart Detail,0020300815,159,399,Sean Rooks,1610612753,Orlando Magic,2,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,56,1,0,20040224,ORL,POR
-Shot Chart Detail,0020300815,351,399,Sean Rooks,1610612753,Orlando Magic,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-103,181,1,1,20040224,ORL,POR
-Shot Chart Detail,0020300815,381,399,Sean Rooks,1610612753,Orlando Magic,4,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-33,206,1,0,20040224,ORL,POR
-Shot Chart Detail,0020300838,107,399,Sean Rooks,1610612753,Orlando Magic,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-8,220,1,0,20040227,ORL,CLE
-Shot Chart Detail,0020300838,288,399,Sean Rooks,1610612753,Orlando Magic,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-66,209,1,1,20040227,ORL,CLE
-Shot Chart Detail,0020300838,308,399,Sean Rooks,1610612753,Orlando Magic,3,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040227,ORL,CLE
-Shot Chart Detail,0020300849,138,399,Sean Rooks,1610612753,Orlando Magic,2,9,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,166,1,1,20040228,ATL,ORL
-Shot Chart Detail,0020300849,204,399,Sean Rooks,1610612753,Orlando Magic,2,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,151,1,0,20040228,ATL,ORL
-Shot Chart Detail,0020300849,394,399,Sean Rooks,1610612753,Orlando Magic,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-62,94,1,0,20040228,ATL,ORL
-Shot Chart Detail,0020300863,73,399,Sean Rooks,1610612753,Orlando Magic,1,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,158,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,93,399,Sean Rooks,1610612753,Orlando Magic,1,2,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,1,20040301,BOS,ORL
-Shot Chart Detail,0020300863,113,399,Sean Rooks,1610612753,Orlando Magic,1,1,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20040301,BOS,ORL
-Shot Chart Detail,0020300863,197,399,Sean Rooks,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,114,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,300,399,Sean Rooks,1610612753,Orlando Magic,3,5,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-49,183,1,1,20040301,BOS,ORL
-Shot Chart Detail,0020300863,327,399,Sean Rooks,1610612753,Orlando Magic,3,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-145,94,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,354,399,Sean Rooks,1610612753,Orlando Magic,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-159,68,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,390,399,Sean Rooks,1610612753,Orlando Magic,4,8,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,409,399,Sean Rooks,1610612753,Orlando Magic,4,6,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-72,166,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300863,416,399,Sean Rooks,1610612753,Orlando Magic,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,153,1,0,20040301,BOS,ORL
-Shot Chart Detail,0020300887,332,399,Sean Rooks,1610612753,Orlando Magic,3,2,9,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,54,1,0,20040305,ORL,ATL
-Shot Chart Detail,0020300907,106,399,Sean Rooks,1610612753,Orlando Magic,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-90,183,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300907,154,399,Sean Rooks,1610612753,Orlando Magic,2,7,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,148,1,1,20040307,ORL,SAC
-Shot Chart Detail,0020300907,181,399,Sean Rooks,1610612753,Orlando Magic,2,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-94,69,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300907,268,399,Sean Rooks,1610612753,Orlando Magic,3,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040307,ORL,SAC
-Shot Chart Detail,0020300907,299,399,Sean Rooks,1610612753,Orlando Magic,3,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-11,202,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300907,309,399,Sean Rooks,1610612753,Orlando Magic,3,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,115,1,0,20040307,ORL,SAC
-Shot Chart Detail,0020300920,86,399,Sean Rooks,1610612753,Orlando Magic,1,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,184,1,1,20040309,MIA,ORL
-Shot Chart Detail,0020300920,114,399,Sean Rooks,1610612753,Orlando Magic,1,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040309,MIA,ORL
-Shot Chart Detail,0020300920,138,399,Sean Rooks,1610612753,Orlando Magic,2,9,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040309,MIA,ORL
-Shot Chart Detail,0020300920,151,399,Sean Rooks,1610612753,Orlando Magic,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,183,1,0,20040309,MIA,ORL
-Shot Chart Detail,0020300920,355,399,Sean Rooks,1610612753,Orlando Magic,4,8,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,18,1,1,20040309,MIA,ORL
-Shot Chart Detail,0020300920,387,399,Sean Rooks,1610612753,Orlando Magic,4,4,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-39,114,1,0,20040309,MIA,ORL
-Shot Chart Detail,0020300927,81,399,Sean Rooks,1610612753,Orlando Magic,1,3,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040310,ORL,WAS
-Shot Chart Detail,0020300927,84,399,Sean Rooks,1610612753,Orlando Magic,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,151,1,0,20040310,ORL,WAS
-Shot Chart Detail,0020300950,157,399,Sean Rooks,1610612753,Orlando Magic,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-49,194,1,0,20040313,ORL,SEA
-Shot Chart Detail,0020300950,160,399,Sean Rooks,1610612753,Orlando Magic,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,8,197,1,0,20040313,ORL,SEA
-Shot Chart Detail,0020300950,171,399,Sean Rooks,1610612753,Orlando Magic,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,181,1,0,20040313,ORL,SEA
-Shot Chart Detail,0020300966,105,399,Sean Rooks,1610612753,Orlando Magic,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-107,169,1,0,20040315,LAL,ORL
-Shot Chart Detail,0020300966,300,399,Sean Rooks,1610612753,Orlando Magic,3,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-10,196,1,1,20040315,LAL,ORL
-Shot Chart Detail,0020300966,355,399,Sean Rooks,1610612753,Orlando Magic,3,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,184,1,1,20040315,LAL,ORL
-Shot Chart Detail,0020300982,59,399,Sean Rooks,1610612753,Orlando Magic,1,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-39,201,1,0,20040317,GSW,ORL
-Shot Chart Detail,0020300982,75,399,Sean Rooks,1610612753,Orlando Magic,1,2,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,GSW,ORL
-Shot Chart Detail,0020301003,149,399,Sean Rooks,1610612753,Orlando Magic,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-18,194,1,0,20040320,POR,ORL
-Shot Chart Detail,0020301011,117,399,Sean Rooks,1610612753,Orlando Magic,2,11,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,74,1,0,20040321,SEA,ORL
-Shot Chart Detail,0020301011,171,399,Sean Rooks,1610612753,Orlando Magic,2,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,0,20040321,SEA,ORL
-Shot Chart Detail,0020301057,365,399,Sean Rooks,1610612753,Orlando Magic,4,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,257,1,0,20040328,ORL,DAL
-Shot Chart Detail,0020301057,408,399,Sean Rooks,1610612753,Orlando Magic,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-2,160,1,0,20040328,ORL,DAL
-Shot Chart Detail,0020301057,468,399,Sean Rooks,1610612753,Orlando Magic,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,120,1,1,20040328,ORL,DAL
-Shot Chart Detail,0020301057,477,399,Sean Rooks,1610612753,Orlando Magic,4,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,87,187,1,0,20040328,ORL,DAL
-Shot Chart Detail,0020301078,109,399,Sean Rooks,1610612753,Orlando Magic,2,10,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,1,210,1,1,20040331,ORL,CHI
-Shot Chart Detail,0020301078,143,399,Sean Rooks,1610612753,Orlando Magic,2,8,1,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,45,1,0,20040331,ORL,CHI
-Shot Chart Detail,0020301078,298,399,Sean Rooks,1610612753,Orlando Magic,3,6,44,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-99,-8,1,0,20040331,ORL,CHI
-Shot Chart Detail,0020301078,349,399,Sean Rooks,1610612753,Orlando Magic,3,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040331,ORL,CHI
-Shot Chart Detail,0020301133,132,399,Sean Rooks,1610612753,Orlando Magic,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-6,212,1,1,20040408,NJN,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300807,136,399,Sean Rooks,1610612753,Orlando Magic,2,9,46,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-67,169,1,1,20040222,1,DET,ORL
+Shot Chart Detail,20300815,101,399,Sean Rooks,1610612753,Orlando Magic,2,11,24,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040224,0,ORL,POR
+Shot Chart Detail,20300815,108,399,Sean Rooks,1610612753,Orlando Magic,2,10,52,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,44,196,1,1,20040224,1,ORL,POR
+Shot Chart Detail,20300815,159,399,Sean Rooks,1610612753,Orlando Magic,2,6,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-148,56,1,0,20040224,0,ORL,POR
+Shot Chart Detail,20300815,351,399,Sean Rooks,1610612753,Orlando Magic,4,10,26,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-103,181,1,1,20040224,1,ORL,POR
+Shot Chart Detail,20300815,381,399,Sean Rooks,1610612753,Orlando Magic,4,7,10,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-33,206,1,0,20040224,0,ORL,POR
+Shot Chart Detail,20300838,107,399,Sean Rooks,1610612753,Orlando Magic,2,11,36,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,-8,220,1,0,20040227,0,ORL,CLE
+Shot Chart Detail,20300838,288,399,Sean Rooks,1610612753,Orlando Magic,3,4,3,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-66,209,1,1,20040227,1,ORL,CLE
+Shot Chart Detail,20300838,308,399,Sean Rooks,1610612753,Orlando Magic,3,2,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040227,0,ORL,CLE
+Shot Chart Detail,20300849,138,399,Sean Rooks,1610612753,Orlando Magic,2,9,31,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-11,166,1,1,20040228,1,ATL,ORL
+Shot Chart Detail,20300849,204,399,Sean Rooks,1610612753,Orlando Magic,2,3,39,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-33,151,1,0,20040228,0,ATL,ORL
+Shot Chart Detail,20300849,394,399,Sean Rooks,1610612753,Orlando Magic,4,9,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-62,94,1,0,20040228,0,ATL,ORL
+Shot Chart Detail,20300863,73,399,Sean Rooks,1610612753,Orlando Magic,1,5,9,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,158,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300863,93,399,Sean Rooks,1610612753,Orlando Magic,1,2,44,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,1,20040301,1,BOS,ORL
+Shot Chart Detail,20300863,113,399,Sean Rooks,1610612753,Orlando Magic,1,1,7,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20040301,1,BOS,ORL
+Shot Chart Detail,20300863,197,399,Sean Rooks,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,114,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300863,300,399,Sean Rooks,1610612753,Orlando Magic,3,5,30,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-49,183,1,1,20040301,1,BOS,ORL
+Shot Chart Detail,20300863,327,399,Sean Rooks,1610612753,Orlando Magic,3,2,36,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-145,94,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300863,354,399,Sean Rooks,1610612753,Orlando Magic,3,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-159,68,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300863,390,399,Sean Rooks,1610612753,Orlando Magic,4,8,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300863,409,399,Sean Rooks,1610612753,Orlando Magic,4,6,53,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-72,166,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300863,416,399,Sean Rooks,1610612753,Orlando Magic,4,6,26,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-108,153,1,0,20040301,0,BOS,ORL
+Shot Chart Detail,20300887,332,399,Sean Rooks,1610612753,Orlando Magic,3,2,9,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-8,54,1,0,20040305,0,ORL,ATL
+Shot Chart Detail,20300907,106,399,Sean Rooks,1610612753,Orlando Magic,1,0,3,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-90,183,1,0,20040307,0,ORL,SAC
+Shot Chart Detail,20300907,154,399,Sean Rooks,1610612753,Orlando Magic,2,7,24,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,148,1,1,20040307,1,ORL,SAC
+Shot Chart Detail,20300907,181,399,Sean Rooks,1610612753,Orlando Magic,2,4,44,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-94,69,1,0,20040307,0,ORL,SAC
+Shot Chart Detail,20300907,268,399,Sean Rooks,1610612753,Orlando Magic,3,7,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040307,1,ORL,SAC
+Shot Chart Detail,20300907,299,399,Sean Rooks,1610612753,Orlando Magic,3,3,19,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-11,202,1,0,20040307,0,ORL,SAC
+Shot Chart Detail,20300907,309,399,Sean Rooks,1610612753,Orlando Magic,3,1,45,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-138,115,1,0,20040307,0,ORL,SAC
+Shot Chart Detail,20300920,86,399,Sean Rooks,1610612753,Orlando Magic,1,2,57,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-44,184,1,1,20040309,1,MIA,ORL
+Shot Chart Detail,20300920,114,399,Sean Rooks,1610612753,Orlando Magic,1,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040309,0,MIA,ORL
+Shot Chart Detail,20300920,138,399,Sean Rooks,1610612753,Orlando Magic,2,9,10,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040309,1,MIA,ORL
+Shot Chart Detail,20300920,151,399,Sean Rooks,1610612753,Orlando Magic,2,8,10,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,28,183,1,0,20040309,0,MIA,ORL
+Shot Chart Detail,20300920,355,399,Sean Rooks,1610612753,Orlando Magic,4,8,33,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,125,18,1,1,20040309,1,MIA,ORL
+Shot Chart Detail,20300920,387,399,Sean Rooks,1610612753,Orlando Magic,4,4,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-39,114,1,0,20040309,0,MIA,ORL
+Shot Chart Detail,20300927,81,399,Sean Rooks,1610612753,Orlando Magic,1,3,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040310,0,ORL,WAS
+Shot Chart Detail,20300927,84,399,Sean Rooks,1610612753,Orlando Magic,1,3,21,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-131,151,1,0,20040310,0,ORL,WAS
+Shot Chart Detail,20300950,157,399,Sean Rooks,1610612753,Orlando Magic,2,7,49,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-49,194,1,0,20040313,0,ORL,SEA
+Shot Chart Detail,20300950,160,399,Sean Rooks,1610612753,Orlando Magic,2,7,5,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,8,197,1,0,20040313,0,ORL,SEA
+Shot Chart Detail,20300950,171,399,Sean Rooks,1610612753,Orlando Magic,2,6,25,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,181,1,0,20040313,0,ORL,SEA
+Shot Chart Detail,20300966,105,399,Sean Rooks,1610612753,Orlando Magic,1,1,29,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-107,169,1,0,20040315,0,LAL,ORL
+Shot Chart Detail,20300966,300,399,Sean Rooks,1610612753,Orlando Magic,3,8,46,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-10,196,1,1,20040315,1,LAL,ORL
+Shot Chart Detail,20300966,355,399,Sean Rooks,1610612753,Orlando Magic,3,3,48,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-44,184,1,1,20040315,1,LAL,ORL
+Shot Chart Detail,20300982,59,399,Sean Rooks,1610612753,Orlando Magic,1,4,30,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-39,201,1,0,20040317,0,GSW,ORL
+Shot Chart Detail,20300982,75,399,Sean Rooks,1610612753,Orlando Magic,1,2,29,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,1,GSW,ORL
+Shot Chart Detail,20301003,149,399,Sean Rooks,1610612753,Orlando Magic,2,8,23,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-18,194,1,0,20040320,0,POR,ORL
+Shot Chart Detail,20301011,117,399,Sean Rooks,1610612753,Orlando Magic,2,11,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,74,1,0,20040321,0,SEA,ORL
+Shot Chart Detail,20301011,171,399,Sean Rooks,1610612753,Orlando Magic,2,5,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,0,20040321,0,SEA,ORL
+Shot Chart Detail,20301057,365,399,Sean Rooks,1610612753,Orlando Magic,4,11,42,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,23,257,1,0,20040328,0,ORL,DAL
+Shot Chart Detail,20301057,408,399,Sean Rooks,1610612753,Orlando Magic,4,6,52,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-2,160,1,0,20040328,0,ORL,DAL
+Shot Chart Detail,20301057,468,399,Sean Rooks,1610612753,Orlando Magic,4,1,53,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,120,1,1,20040328,1,ORL,DAL
+Shot Chart Detail,20301057,477,399,Sean Rooks,1610612753,Orlando Magic,4,0,41,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,87,187,1,0,20040328,0,ORL,DAL
+Shot Chart Detail,20301078,109,399,Sean Rooks,1610612753,Orlando Magic,2,10,36,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,1,210,1,1,20040331,1,ORL,CHI
+Shot Chart Detail,20301078,143,399,Sean Rooks,1610612753,Orlando Magic,2,8,1,Missed Shot,Jump Bank Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-69,45,1,0,20040331,0,ORL,CHI
+Shot Chart Detail,20301078,298,399,Sean Rooks,1610612753,Orlando Magic,3,6,44,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-99,-8,1,0,20040331,0,ORL,CHI
+Shot Chart Detail,20301078,349,399,Sean Rooks,1610612753,Orlando Magic,3,2,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040331,0,ORL,CHI
+Shot Chart Detail,20301133,132,399,Sean Rooks,1610612753,Orlando Magic,2,11,38,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-6,212,1,1,20040408,1,NJN,ORL
+Shot Chart Detail,20300006,85,399,Sean Rooks,1610612740,New Orleans Hornets,1,3,37,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,54,189,1,1,20031029,1,NOH,ATL
+Shot Chart Detail,20300006,94,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,48,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,22,1,1,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,100,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,41,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,47,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-108,91,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,227,399,Sean Rooks,1610612740,New Orleans Hornets,2,1,16,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,84,145,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,315,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,33,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-158,71,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,317,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,26,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,31,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,358,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,514,399,Sean Rooks,1610612740,New Orleans Hornets,5,4,12,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,107,122,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300016,95,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,103,61,1,0,20031030,0,ORL,NOH
+Shot Chart Detail,20300016,105,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031030,0,ORL,NOH
+Shot Chart Detail,20300016,375,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,24,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-97,183,1,0,20031030,0,ORL,NOH
+Shot Chart Detail,20300030,88,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,15,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,155,1,1,20031101,1,NOH,BOS
+Shot Chart Detail,20300030,373,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,20,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,1,183,1,0,20031101,0,NOH,BOS
+Shot Chart Detail,20300030,396,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,44,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-80,176,1,0,20031101,0,NOH,BOS
+Shot Chart Detail,20300042,82,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-126,92,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,86,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,32,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,11,146,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300052,108,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,55,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-56,166,1,0,20031105,0,PHI,NOH
+Shot Chart Detail,20300070,115,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,17,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-146,114,1,1,20031107,1,NOH,LAL
+Shot Chart Detail,20300070,327,399,Sean Rooks,1610612740,New Orleans Hornets,3,2,0,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,161,1,1,20031107,1,NOH,LAL
+Shot Chart Detail,20300079,86,399,Sean Rooks,1610612740,New Orleans Hornets,1,2,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-156,100,1,0,20031108,0,NOH,CHI
+Shot Chart Detail,20300079,91,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,0,NOH,CHI
+Shot Chart Detail,20300079,94,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,138,1,0,20031108,0,NOH,CHI
+Shot Chart Detail,20300079,99,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,45,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,5,191,1,1,20031108,1,NOH,CHI
+Shot Chart Detail,20300079,137,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,7,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-66,143,1,1,20031108,1,NOH,CHI
+Shot Chart Detail,20300079,144,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,0,NOH,CHI
+Shot Chart Detail,20300107,155,399,Sean Rooks,1610612740,New Orleans Hornets,2,3,37,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-67,196,1,0,20031112,0,NOH,UTA
+Shot Chart Detail,20300107,271,399,Sean Rooks,1610612740,New Orleans Hornets,3,2,29,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,179,31,1,1,20031112,1,NOH,UTA
+Shot Chart Detail,20300107,303,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,59,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,46,118,1,1,20031112,1,NOH,UTA
+Shot Chart Detail,20300126,155,399,Sean Rooks,1610612740,New Orleans Hornets,2,7,21,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,143,1,0,20031115,0,NOH,POR
+Shot Chart Detail,20300126,413,399,Sean Rooks,1610612740,New Orleans Hornets,4,3,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,58,1,0,20031115,0,NOH,POR
+Shot Chart Detail,20300126,426,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,55,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,184,1,1,20031115,1,NOH,POR
+Shot Chart Detail,20300126,431,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,25,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,178,1,0,20031115,0,NOH,POR
+Shot Chart Detail,20300145,280,399,Sean Rooks,1610612740,New Orleans Hornets,3,6,12,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-82,171,1,1,20031118,1,NJN,NOH
+Shot Chart Detail,20300145,295,399,Sean Rooks,1610612740,New Orleans Hornets,3,4,21,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,23,199,1,0,20031118,0,NJN,NOH
+Shot Chart Detail,20300165,350,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,28,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-108,173,1,0,20031121,0,NOH,IND
+Shot Chart Detail,20300193,100,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,153,1,0,20031125,0,MIA,NOH
+Shot Chart Detail,20300203,114,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,0,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,160,1,1,20031126,1,NOH,CLE
+Shot Chart Detail,20300223,118,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,8,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-103,140,1,1,20031129,1,NYK,NOH
+Shot Chart Detail,20300223,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,10,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,46,1,1,20031129,0,NYK,NOH
+Shot Chart Detail,20300223,153,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,-77,135,1,0,20031129,0,NYK,NOH
+Shot Chart Detail,20300223,357,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,4,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,102,1,1,20031129,1,NYK,NOH
+Shot Chart Detail,20300223,373,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,0,NYK,NOH
+Shot Chart Detail,20300242,83,399,Sean Rooks,1610612740,New Orleans Hornets,1,3,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-179,95,1,0,20031202,0,ORL,NOH
+Shot Chart Detail,20300242,145,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,26,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031202,0,ORL,NOH
+Shot Chart Detail,20300242,149,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,2,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,114,1,0,20031202,0,ORL,NOH
+Shot Chart Detail,20300249,124,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-168,59,1,0,20031203,0,NOH,ORL
+Shot Chart Detail,20300264,112,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-87,117,1,0,20031205,0,NOH,HOU
+Shot Chart Detail,20300264,120,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,13,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,6,194,1,1,20031205,1,NOH,HOU
+Shot Chart Detail,20300264,129,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,38,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,174,1,1,20031205,1,NOH,HOU
+Shot Chart Detail,20300264,282,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,43,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,155,1,0,20031205,0,NOH,HOU
+Shot Chart Detail,20300264,285,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,-61,130,1,0,20031205,0,NOH,HOU
+Shot Chart Detail,20300264,306,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,2,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,72,160,1,0,20031205,0,NOH,HOU
+Shot Chart Detail,20300337,366,399,Sean Rooks,1610612740,New Orleans Hornets,4,11,31,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,1,166,1,0,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,392,399,Sean Rooks,1610612740,New Orleans Hornets,4,9,39,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-23,155,1,0,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,399,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,21,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-44,156,1,1,20031215,1,LAC,NOH
+Shot Chart Detail,20300344,431,399,Sean Rooks,1610612740,New Orleans Hornets,4,4,13,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,-8,1,1,20031216,1,DEN,NOH
+Shot Chart Detail,20300344,444,399,Sean Rooks,1610612740,New Orleans Hornets,4,2,38,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,49,1,0,20031216,0,DEN,NOH
+Shot Chart Detail,20300344,456,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,41,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,52,204,1,0,20031216,0,DEN,NOH
+Shot Chart Detail,20300358,119,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,44,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-128,86,1,1,20031218,1,NOH,SAC
+Shot Chart Detail,20300358,140,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,48,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,34,194,1,0,20031218,0,NOH,SAC
+Shot Chart Detail,20300372,125,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,38,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,74,127,1,0,20031220,0,NOH,MEM
+Shot Chart Detail,20300372,138,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,41,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,105,61,1,1,20031220,1,NOH,MEM
+Shot Chart Detail,20300372,336,399,Sean Rooks,1610612740,New Orleans Hornets,3,1,11,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-31,196,1,0,20031220,0,NOH,MEM
+Shot Chart Detail,20300389,115,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,49,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-26,189,1,0,20031223,0,CLE,NOH
+Shot Chart Detail,20300389,121,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,7,1,1,20031223,0,CLE,NOH
+Shot Chart Detail,20300389,127,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,54,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,144,91,1,1,20031223,1,CLE,NOH
+Shot Chart Detail,20300389,135,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-151,0,1,1,20031223,1,CLE,NOH
+Shot Chart Detail,20300406,97,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,40,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-117,174,1,1,20031226,1,NOH,ATL
+Shot Chart Detail,20300406,99,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,15,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,52,201,1,0,20031226,0,NOH,ATL
+Shot Chart Detail,20300406,122,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,51,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-5,204,1,0,20031226,0,NOH,ATL
+Shot Chart Detail,20300406,192,399,Sean Rooks,1610612740,New Orleans Hornets,2,0,31,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-140,104,1,1,20031226,1,NOH,ATL
+Shot Chart Detail,20300406,287,399,Sean Rooks,1610612740,New Orleans Hornets,3,3,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,140,91,1,0,20031226,0,NOH,ATL
+Shot Chart Detail,20300406,341,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,85,35,1,0,20031226,0,NOH,ATL
+Shot Chart Detail,20300466,98,399,Sean Rooks,1610612740,New Orleans Hornets,1,1,13,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,149,123,1,0,20040103,0,IND,NOH
+Shot Chart Detail,20300466,117,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,2,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-128,-21,1,1,20040103,1,IND,NOH
+Shot Chart Detail,20300466,390,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,39,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,109,1,0,20040103,0,IND,NOH
+Shot Chart Detail,20300497,488,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,27,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-46,206,1,0,20040107,0,NOH,WAS
+Shot Chart Detail,20300570,337,399,Sean Rooks,1610612740,New Orleans Hornets,3,0,1,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-39,179,1,0,20040117,0,NOH,ORL
+Shot Chart Detail,20300570,349,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,26,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-90,174,1,1,20040117,1,NOH,ORL
+Shot Chart Detail,20300570,365,399,Sean Rooks,1610612740,New Orleans Hornets,4,9,14,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,187,1,0,20040117,0,NOH,ORL
+Shot Chart Detail,20300586,145,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,0,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,122,1,0,20040119,0,MIN,NOH
+Shot Chart Detail,20300612,120,399,Sean Rooks,1610612740,New Orleans Hornets,2,11,13,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-102,156,1,1,20040123,1,NOH,DEN
+Shot Chart Detail,20300612,122,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-192,81,1,0,20040123,0,NOH,DEN
+Shot Chart Detail,20300612,140,399,Sean Rooks,1610612740,New Orleans Hornets,2,8,21,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-148,53,1,1,20040123,1,NOH,DEN
+Shot Chart Detail,20300612,342,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040123,0,NOH,DEN
+Shot Chart Detail,20300612,358,399,Sean Rooks,1610612740,New Orleans Hornets,4,8,47,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,135,1,1,20040123,1,NOH,DEN
+Shot Chart Detail,20300624,91,399,Sean Rooks,1610612740,New Orleans Hornets,1,0,40,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-130,164,1,0,20040124,0,SAS,NOH
+Shot Chart Detail,20300624,117,399,Sean Rooks,1610612740,New Orleans Hornets,2,10,17,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,54,206,1,0,20040124,0,SAS,NOH
+Shot Chart Detail,20300624,357,399,Sean Rooks,1610612740,New Orleans Hornets,4,10,23,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-143,46,1,1,20040124,1,SAS,NOH
+Shot Chart Detail,20300624,381,399,Sean Rooks,1610612740,New Orleans Hornets,4,7,59,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-57,171,1,0,20040124,0,SAS,NOH
+Shot Chart Detail,20300650,134,399,Sean Rooks,1610612740,New Orleans Hornets,2,9,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040128,1,NOH,MIL
+Shot Chart Detail,20300686,419,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,8,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,191,1,0,20040202,0,NOH,NJN
+Shot Chart Detail,20300686,421,399,Sean Rooks,1610612740,New Orleans Hornets,4,1,1,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,155,1,1,20040202,1,NOH,NJN

@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500111,47,202730,Lavoy Allen,1610612754,Indiana Pacers,1,8,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160416,TOR,IND
-Shot Chart Detail,0041500111,50,202730,Lavoy Allen,1610612754,Indiana Pacers,1,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-135,151,1,0,20160416,TOR,IND
-Shot Chart Detail,0041500111,303,202730,Lavoy Allen,1610612754,Indiana Pacers,3,10,10,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,41,1,0,20160416,TOR,IND
-Shot Chart Detail,0041500111,306,202730,Lavoy Allen,1610612754,Indiana Pacers,3,9,44,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,26,1,1,20160416,TOR,IND
-Shot Chart Detail,0041500111,343,202730,Lavoy Allen,1610612754,Indiana Pacers,3,7,10,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,0,20160416,TOR,IND
-Shot Chart Detail,0041500111,361,202730,Lavoy Allen,1610612754,Indiana Pacers,3,5,56,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,0,20160416,TOR,IND
-Shot Chart Detail,0041500112,429,202730,Lavoy Allen,1610612754,Indiana Pacers,4,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,9,178,1,1,20160418,TOR,IND
-Shot Chart Detail,0041500112,488,202730,Lavoy Allen,1610612754,Indiana Pacers,4,4,45,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,13,1,0,20160418,TOR,IND
-Shot Chart Detail,0041500113,31,202730,Lavoy Allen,1610612754,Indiana Pacers,1,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,169,1,0,20160421,IND,TOR
-Shot Chart Detail,0041500113,67,202730,Lavoy Allen,1610612754,Indiana Pacers,1,4,40,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,0,20160421,IND,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500111,47,202730,Lavoy Allen,1610612754,Indiana Pacers,1,8,43,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160416,1,TOR,IND
+Shot Chart Detail,41500111,50,202730,Lavoy Allen,1610612754,Indiana Pacers,1,8,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-135,151,1,0,20160416,0,TOR,IND
+Shot Chart Detail,41500111,303,202730,Lavoy Allen,1610612754,Indiana Pacers,3,10,10,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,41,1,0,20160416,0,TOR,IND
+Shot Chart Detail,41500111,306,202730,Lavoy Allen,1610612754,Indiana Pacers,3,9,44,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,26,1,1,20160416,1,TOR,IND
+Shot Chart Detail,41500111,343,202730,Lavoy Allen,1610612754,Indiana Pacers,3,7,10,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,0,20160416,0,TOR,IND
+Shot Chart Detail,41500111,361,202730,Lavoy Allen,1610612754,Indiana Pacers,3,5,56,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,0,20160416,0,TOR,IND
+Shot Chart Detail,41500112,429,202730,Lavoy Allen,1610612754,Indiana Pacers,4,10,2,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,9,178,1,1,20160418,1,TOR,IND
+Shot Chart Detail,41500112,488,202730,Lavoy Allen,1610612754,Indiana Pacers,4,4,45,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,13,1,0,20160418,0,TOR,IND
+Shot Chart Detail,41500113,31,202730,Lavoy Allen,1610612754,Indiana Pacers,1,8,10,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,169,1,0,20160421,0,IND,TOR
+Shot Chart Detail,41500113,67,202730,Lavoy Allen,1610612754,Indiana Pacers,1,4,40,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,0,20160421,0,IND,TOR

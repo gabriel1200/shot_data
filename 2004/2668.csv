@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300932,111,2668,Josh Davis,1610612737,Atlanta Hawks,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,-23,1,0,20040310,MIL,ATL
-Shot Chart Detail,0020300932,142,2668,Josh Davis,1610612737,Atlanta Hawks,2,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,209,1,0,20040310,MIL,ATL
-Shot Chart Detail,0020300980,15,2668,Josh Davis,1610612737,Atlanta Hawks,1,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,DAL,ATL
-Shot Chart Detail,0020300980,41,2668,Josh Davis,1610612737,Atlanta Hawks,1,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,36,243,1,0,20040317,DAL,ATL
-Shot Chart Detail,0020300980,336,2668,Josh Davis,1610612737,Atlanta Hawks,3,0,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,DAL,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300932,111,2668,Josh Davis,1610612737,Atlanta Hawks,1,0,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,136,-23,1,0,20040310,0,MIL,ATL
+Shot Chart Detail,20300932,142,2668,Josh Davis,1610612737,Atlanta Hawks,2,9,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,209,1,0,20040310,0,MIL,ATL
+Shot Chart Detail,20300980,15,2668,Josh Davis,1610612737,Atlanta Hawks,1,10,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,1,DAL,ATL
+Shot Chart Detail,20300980,41,2668,Josh Davis,1610612737,Atlanta Hawks,1,7,3,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,36,243,1,0,20040317,0,DAL,ATL
+Shot Chart Detail,20300980,336,2668,Josh Davis,1610612737,Atlanta Hawks,3,0,25,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040317,1,DAL,ATL

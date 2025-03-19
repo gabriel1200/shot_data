@@ -1,671 +1,336 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000001,76,164,Chris Childs,1610612752,New York Knicks,1,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001031,NYK,PHI
-Shot Chart Detail,0020000001,118,164,Chris Childs,1610612752,New York Knicks,2,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001031,NYK,PHI
-Shot Chart Detail,0020000001,122,164,Chris Childs,1610612752,New York Knicks,2,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,171,1,0,20001031,NYK,PHI
-Shot Chart Detail,0020000001,152,164,Chris Childs,1610612752,New York Knicks,2,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,157,167,1,1,20001031,NYK,PHI
-Shot Chart Detail,0020000021,145,164,Chris Childs,1610612752,New York Knicks,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-200,129,1,0,20001102,NYK,ATL
-Shot Chart Detail,0020000021,189,164,Chris Childs,1610612752,New York Knicks,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,125,1,0,20001102,NYK,ATL
-Shot Chart Detail,0020000021,200,164,Chris Childs,1610612752,New York Knicks,2,3,16,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-23,1,1,20001102,NYK,ATL
-Shot Chart Detail,0020000021,342,164,Chris Childs,1610612752,New York Knicks,4,11,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001102,NYK,ATL
-Shot Chart Detail,0020000029,128,164,Chris Childs,1610612752,New York Knicks,2,10,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,148,1,0,20001103,WAS,NYK
-Shot Chart Detail,0020000029,137,164,Chris Childs,1610612752,New York Knicks,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,4,1,1,20001103,WAS,NYK
-Shot Chart Detail,0020000029,140,164,Chris Childs,1610612752,New York Knicks,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,104,196,1,1,20001103,WAS,NYK
-Shot Chart Detail,0020000029,333,164,Chris Childs,1610612752,New York Knicks,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,39,-79,382,1,0,20001103,WAS,NYK
-Shot Chart Detail,0020000029,377,164,Chris Childs,1610612752,New York Knicks,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,230,1,1,20001103,WAS,NYK
-Shot Chart Detail,0020000029,414,164,Chris Childs,1610612752,New York Knicks,4,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,196,1,0,20001103,WAS,NYK
-Shot Chart Detail,0020000057,170,164,Chris Childs,1610612752,New York Knicks,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,133,1,0,20001107,MIL,NYK
-Shot Chart Detail,0020000061,111,164,Chris Childs,1610612752,New York Knicks,2,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,9,1,0,20001108,NYK,CLE
-Shot Chart Detail,0020000061,154,164,Chris Childs,1610612752,New York Knicks,2,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,186,1,1,20001108,NYK,CLE
-Shot Chart Detail,0020000061,161,164,Chris Childs,1610612752,New York Knicks,2,4,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001108,NYK,CLE
-Shot Chart Detail,0020000110,407,164,Chris Childs,1610612752,New York Knicks,4,8,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,135,1,0,20001114,SEA,NYK
-Shot Chart Detail,0020000110,480,164,Chris Childs,1610612752,New York Knicks,4,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,108,68,1,0,20001114,SEA,NYK
-Shot Chart Detail,0020000118,149,164,Chris Childs,1610612752,New York Knicks,2,8,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,-2,1,0,20001115,LAC,NYK
-Shot Chart Detail,0020000118,209,164,Chris Childs,1610612752,New York Knicks,2,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20001115,LAC,NYK
-Shot Chart Detail,0020000118,367,164,Chris Childs,1610612752,New York Knicks,4,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-48,173,1,1,20001115,LAC,NYK
-Shot Chart Detail,0020000118,429,164,Chris Childs,1610612752,New York Knicks,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,38,1,0,20001115,LAC,NYK
-Shot Chart Detail,0020000132,152,164,Chris Childs,1610612752,New York Knicks,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,40,1,1,20001117,PHX,NYK
-Shot Chart Detail,0020000132,172,164,Chris Childs,1610612752,New York Knicks,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,178,91,1,1,20001117,PHX,NYK
-Shot Chart Detail,0020000132,177,164,Chris Childs,1610612752,New York Knicks,2,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,181,1,0,20001117,PHX,NYK
-Shot Chart Detail,0020000132,362,164,Chris Childs,1610612752,New York Knicks,4,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,175,1,1,20001117,PHX,NYK
-Shot Chart Detail,0020000144,112,164,Chris Childs,1610612752,New York Knicks,2,11,23,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,196,1,1,20001119,NYK,GSW
-Shot Chart Detail,0020000144,153,164,Chris Childs,1610612752,New York Knicks,2,7,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,0,20001119,NYK,GSW
-Shot Chart Detail,0020000144,327,164,Chris Childs,1610612752,New York Knicks,3,0,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-27,1,0,20001119,NYK,GSW
-Shot Chart Detail,0020000144,366,164,Chris Childs,1610612752,New York Knicks,4,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,0,1,1,20001119,NYK,GSW
-Shot Chart Detail,0020000144,420,164,Chris Childs,1610612752,New York Knicks,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,200,1,0,20001119,NYK,GSW
-Shot Chart Detail,0020000144,438,164,Chris Childs,1610612752,New York Knicks,4,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,87,1,1,20001119,NYK,GSW
-Shot Chart Detail,0020000154,159,164,Chris Childs,1610612752,New York Knicks,2,8,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3,257,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,174,164,Chris Childs,1610612752,New York Knicks,2,6,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,233,164,Chris Childs,1610612752,New York Knicks,2,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001121,ORL,NYK
-Shot Chart Detail,0020000154,352,164,Chris Childs,1610612752,New York Knicks,3,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,47,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,361,164,Chris Childs,1610612752,New York Knicks,3,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,200,1,1,20001121,ORL,NYK
-Shot Chart Detail,0020000154,388,164,Chris Childs,1610612752,New York Knicks,4,9,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,169,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,491,164,Chris Childs,1610612752,New York Knicks,4,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001121,ORL,NYK
-Shot Chart Detail,0020000162,20,164,Chris Childs,1610612752,New York Knicks,1,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,28,164,Chris Childs,1610612752,New York Knicks,1,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,53,164,Chris Childs,1610612752,New York Knicks,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,0,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,76,164,Chris Childs,1610612752,New York Knicks,1,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,7,1,1,20001122,ATL,NYK
-Shot Chart Detail,0020000162,81,164,Chris Childs,1610612752,New York Knicks,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,57,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,156,164,Chris Childs,1610612752,New York Knicks,2,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,68,1,1,20001122,ATL,NYK
-Shot Chart Detail,0020000162,176,164,Chris Childs,1610612752,New York Knicks,2,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,295,164,Chris Childs,1610612752,New York Knicks,3,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,243,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,299,164,Chris Childs,1610612752,New York Knicks,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,118,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000182,22,164,Chris Childs,1610612752,New York Knicks,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-128,179,1,1,20001125,NYK,TOR
-Shot Chart Detail,0020000182,63,164,Chris Childs,1610612752,New York Knicks,1,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,207,1,1,20001125,NYK,TOR
-Shot Chart Detail,0020000182,84,164,Chris Childs,1610612752,New York Knicks,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,196,1,0,20001125,NYK,TOR
-Shot Chart Detail,0020000182,181,164,Chris Childs,1610612752,New York Knicks,2,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,4,1,1,20001125,NYK,TOR
-Shot Chart Detail,0020000182,279,164,Chris Childs,1610612752,New York Knicks,3,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,91,1,0,20001125,NYK,TOR
-Shot Chart Detail,0020000196,108,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,22,179,1,0,20001127,NYK,VAN
-Shot Chart Detail,0020000196,340,164,Chris Childs,1610612752,New York Knicks,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,123,148,1,1,20001127,NYK,VAN
-Shot Chart Detail,0020000196,361,164,Chris Childs,1610612752,New York Knicks,4,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,186,1,0,20001127,NYK,VAN
-Shot Chart Detail,0020000208,101,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,45,231,394,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,270,164,Chris Childs,1610612752,New York Knicks,3,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-15,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,294,164,Chris Childs,1610612752,New York Knicks,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001129,NYK,MIA
-Shot Chart Detail,0020000208,327,164,Chris Childs,1610612752,New York Knicks,4,11,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,457,164,Chris Childs,1610612752,New York Knicks,4,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-155,215,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,465,164,Chris Childs,1610612752,New York Knicks,4,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,122,1,1,20001129,NYK,MIA
-Shot Chart Detail,0020000208,471,164,Chris Childs,1610612752,New York Knicks,4,0,2,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,171,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000229,161,164,Chris Childs,1610612752,New York Knicks,2,6,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,79,228,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000229,354,164,Chris Childs,1610612752,New York Knicks,4,10,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000229,368,164,Chris Childs,1610612752,New York Knicks,4,8,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,-6,1,1,20001201,CHI,NYK
-Shot Chart Detail,0020000229,380,164,Chris Childs,1610612752,New York Knicks,4,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,177,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000229,416,164,Chris Childs,1610612752,New York Knicks,4,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,26,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000233,110,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,171,1,1,20001202,NYK,MIN
-Shot Chart Detail,0020000233,178,164,Chris Childs,1610612752,New York Knicks,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,49,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,192,164,Chris Childs,1610612752,New York Knicks,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-63,89,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,278,164,Chris Childs,1610612752,New York Knicks,3,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20001202,NYK,MIN
-Shot Chart Detail,0020000233,300,164,Chris Childs,1610612752,New York Knicks,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,165,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,328,164,Chris Childs,1610612752,New York Knicks,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,198,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,371,164,Chris Childs,1610612752,New York Knicks,4,2,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000249,89,164,Chris Childs,1610612752,New York Knicks,2,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,51,205,1,0,20001204,NYK,LAC
-Shot Chart Detail,0020000249,132,164,Chris Childs,1610612752,New York Knicks,2,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,148,1,1,20001204,NYK,LAC
-Shot Chart Detail,0020000249,169,164,Chris Childs,1610612752,New York Knicks,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,175,1,1,20001204,NYK,LAC
-Shot Chart Detail,0020000266,74,164,Chris Childs,1610612752,New York Knicks,1,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-6,1,1,20001206,DAL,NYK
-Shot Chart Detail,0020000266,96,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,51,119,506,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,112,164,Chris Childs,1610612752,New York Knicks,2,10,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,120,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,162,164,Chris Childs,1610612752,New York Knicks,2,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,160,1,1,20001206,DAL,NYK
-Shot Chart Detail,0020000266,185,164,Chris Childs,1610612752,New York Knicks,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,93,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,327,164,Chris Childs,1610612752,New York Knicks,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,356,164,Chris Childs,1610612752,New York Knicks,4,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,93,1,1,20001206,DAL,NYK
-Shot Chart Detail,0020000273,90,164,Chris Childs,1610612752,New York Knicks,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,4,1,0,20001207,SAS,NYK
-Shot Chart Detail,0020000284,71,164,Chris Childs,1610612752,New York Knicks,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-4,1,1,20001209,NYK,DEN
-Shot Chart Detail,0020000284,105,164,Chris Childs,1610612752,New York Knicks,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,150,1,1,20001209,NYK,DEN
-Shot Chart Detail,0020000284,151,164,Chris Childs,1610612752,New York Knicks,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,51,154,1,0,20001209,NYK,DEN
-Shot Chart Detail,0020000284,307,164,Chris Childs,1610612752,New York Knicks,3,2,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,NYK,DEN
-Shot Chart Detail,0020000284,426,164,Chris Childs,1610612752,New York Knicks,4,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-134,160,1,0,20001209,NYK,DEN
-Shot Chart Detail,0020000322,82,164,Chris Childs,1610612752,New York Knicks,1,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-206,0,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,91,164,Chris Childs,1610612752,New York Knicks,1,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,194,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,128,164,Chris Childs,1610612752,New York Knicks,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-185,122,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,130,164,Chris Childs,1610612752,New York Knicks,2,8,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,303,164,Chris Childs,1610612752,New York Knicks,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-134,137,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,337,164,Chris Childs,1610612752,New York Knicks,3,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,423,164,Chris Childs,1610612752,New York Knicks,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-141,144,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,466,164,Chris Childs,1610612752,New York Knicks,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,11,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,478,164,Chris Childs,1610612752,New York Knicks,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-134,171,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000326,83,164,Chris Childs,1610612752,New York Knicks,1,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,232,1,0,20001215,NYK,UTA
-Shot Chart Detail,0020000326,121,164,Chris Childs,1610612752,New York Knicks,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,154,1,0,20001215,NYK,UTA
-Shot Chart Detail,0020000326,143,164,Chris Childs,1610612752,New York Knicks,2,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-8,1,0,20001215,NYK,UTA
-Shot Chart Detail,0020000326,374,164,Chris Childs,1610612752,New York Knicks,4,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001215,NYK,UTA
-Shot Chart Detail,0020000345,343,164,Chris Childs,1610612752,New York Knicks,3,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,NYK,MIL
-Shot Chart Detail,0020000345,363,164,Chris Childs,1610612752,New York Knicks,3,2,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,201,144,1,0,20001217,NYK,MIL
-Shot Chart Detail,0020000353,127,164,Chris Childs,1610612752,New York Knicks,2,10,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-147,139,1,0,20001219,ATL,NYK
-Shot Chart Detail,0020000353,151,164,Chris Childs,1610612752,New York Knicks,2,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001219,ATL,NYK
-Shot Chart Detail,0020000353,202,164,Chris Childs,1610612752,New York Knicks,2,1,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,146,1,0,20001219,ATL,NYK
-Shot Chart Detail,0020000353,263,164,Chris Childs,1610612752,New York Knicks,3,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-88,207,1,0,20001219,ATL,NYK
-Shot Chart Detail,0020000370,119,164,Chris Childs,1610612752,New York Knicks,1,0,1,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-176,205,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000370,159,164,Chris Childs,1610612752,New York Knicks,2,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,198,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000370,329,164,Chris Childs,1610612752,New York Knicks,3,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,55,1,1,20001221,NYK,BOS
-Shot Chart Detail,0020000370,358,164,Chris Childs,1610612752,New York Knicks,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,148,78,1,1,20001221,NYK,BOS
-Shot Chart Detail,0020000370,389,164,Chris Childs,1610612752,New York Knicks,4,6,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000370,422,164,Chris Childs,1610612752,New York Knicks,4,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,45,1,1,20001221,NYK,BOS
-Shot Chart Detail,0020000370,425,164,Chris Childs,1610612752,New York Knicks,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,0,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000374,189,164,Chris Childs,1610612752,New York Knicks,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,262,1,1,20001222,PHI,NYK
-Shot Chart Detail,0020000374,197,164,Chris Childs,1610612752,New York Knicks,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-101,82,1,0,20001222,PHI,NYK
-Shot Chart Detail,0020000374,400,164,Chris Childs,1610612752,New York Knicks,4,7,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,217,1,0,20001222,PHI,NYK
-Shot Chart Detail,0020000374,422,164,Chris Childs,1610612752,New York Knicks,4,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,82,1,1,20001222,PHI,NYK
-Shot Chart Detail,0020000408,102,164,Chris Childs,1610612752,New York Knicks,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,190,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,385,164,Chris Childs,1610612752,New York Knicks,4,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,63,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000408,408,164,Chris Childs,1610612752,New York Knicks,4,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,3,200,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,412,164,Chris Childs,1610612752,New York Knicks,4,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-193,169,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000422,79,164,Chris Childs,1610612752,New York Knicks,1,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,62,184,1,0,20001229,NYK,CHI
-Shot Chart Detail,0020000422,180,164,Chris Childs,1610612752,New York Knicks,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,NYK,CHI
-Shot Chart Detail,0020000422,247,164,Chris Childs,1610612752,New York Knicks,3,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-132,209,1,0,20001229,NYK,CHI
-Shot Chart Detail,0020000422,282,164,Chris Childs,1610612752,New York Knicks,3,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-38,1,0,20001229,NYK,CHI
-Shot Chart Detail,0020000430,60,164,Chris Childs,1610612752,New York Knicks,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,127,211,1,1,20001230,MIN,NYK
-Shot Chart Detail,0020000430,116,164,Chris Childs,1610612752,New York Knicks,2,9,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,167,1,1,20001230,MIN,NYK
-Shot Chart Detail,0020000430,171,164,Chris Childs,1610612752,New York Knicks,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-178,72,1,0,20001230,MIN,NYK
-Shot Chart Detail,0020000430,294,164,Chris Childs,1610612752,New York Knicks,3,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,148,99,1,0,20001230,MIN,NYK
-Shot Chart Detail,0020000430,414,164,Chris Childs,1610612752,New York Knicks,4,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-25,1,0,20001230,MIN,NYK
-Shot Chart Detail,0020000451,70,164,Chris Childs,1610612752,New York Knicks,1,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-103,93,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,187,164,Chris Childs,1610612752,New York Knicks,2,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,250,164,Chris Childs,1610612752,New York Knicks,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-162,226,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,302,164,Chris Childs,1610612752,New York Knicks,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,213,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,425,164,Chris Childs,1610612752,New York Knicks,4,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,192,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000460,31,164,Chris Childs,1610612752,New York Knicks,1,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,-48,1,0,20010104,NYK,ORL
-Shot Chart Detail,0020000460,200,164,Chris Childs,1610612752,New York Knicks,2,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-176,99,1,1,20010104,NYK,ORL
-Shot Chart Detail,0020000460,205,164,Chris Childs,1610612752,New York Knicks,2,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,205,1,0,20010104,NYK,ORL
-Shot Chart Detail,0020000460,282,164,Chris Childs,1610612752,New York Knicks,3,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,28,1,0,20010104,NYK,ORL
-Shot Chart Detail,0020000460,331,164,Chris Childs,1610612752,New York Knicks,4,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,99,1,1,20010104,NYK,ORL
-Shot Chart Detail,0020000480,89,164,Chris Childs,1610612752,New York Knicks,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,106,165,1,1,20010107,NYK,WAS
-Shot Chart Detail,0020000480,215,164,Chris Childs,1610612752,New York Knicks,2,0,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-248,-8,1,0,20010107,NYK,WAS
-Shot Chart Detail,0020000480,218,164,Chris Childs,1610612752,New York Knicks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,45,-233,394,1,0,20010107,NYK,WAS
-Shot Chart Detail,0020000480,341,164,Chris Childs,1610612752,New York Knicks,4,11,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010107,NYK,WAS
-Shot Chart Detail,0020000507,116,164,Chris Childs,1610612752,New York Knicks,2,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,98,171,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,126,164,Chris Childs,1610612752,New York Knicks,2,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,215,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,171,164,Chris Childs,1610612752,New York Knicks,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-103,184,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,173,164,Chris Childs,1610612752,New York Knicks,2,4,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,116,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,201,164,Chris Childs,1610612752,New York Knicks,2,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,238,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,292,164,Chris Childs,1610612752,New York Knicks,3,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,144,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,318,164,Chris Childs,1610612752,New York Knicks,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,11,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,338,164,Chris Childs,1610612752,New York Knicks,4,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,222,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,384,164,Chris Childs,1610612752,New York Knicks,4,6,37,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,402,164,Chris Childs,1610612752,New York Knicks,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,243,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,426,164,Chris Childs,1610612752,New York Knicks,4,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,137,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000521,112,164,Chris Childs,1610612752,New York Knicks,2,11,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,55,1,0,20010113,NYK,POR
-Shot Chart Detail,0020000535,434,164,Chris Childs,1610612752,New York Knicks,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,0,1,1,20010115,NYK,SAS
-Shot Chart Detail,0020000568,175,164,Chris Childs,1610612752,New York Knicks,2,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-4,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000568,222,164,Chris Childs,1610612752,New York Knicks,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,206,565,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000568,366,164,Chris Childs,1610612752,New York Knicks,4,9,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,78,1,1,20010119,DET,NYK
-Shot Chart Detail,0020000568,406,164,Chris Childs,1610612752,New York Knicks,4,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,1,20010119,DET,NYK
-Shot Chart Detail,0020000568,412,164,Chris Childs,1610612752,New York Knicks,4,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,226,137,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000568,426,164,Chris Childs,1610612752,New York Knicks,4,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000578,63,164,Chris Childs,1610612752,New York Knicks,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20010121,NYK,IND
-Shot Chart Detail,0020000578,86,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-8,1,0,20010121,NYK,IND
-Shot Chart Detail,0020000578,132,164,Chris Childs,1610612752,New York Knicks,2,7,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010121,NYK,IND
-Shot Chart Detail,0020000592,140,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-29,1,1,20010123,MIL,NYK
-Shot Chart Detail,0020000601,222,164,Chris Childs,1610612752,New York Knicks,2,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010124,CHH,NYK
-Shot Chart Detail,0020000601,384,164,Chris Childs,1610612752,New York Knicks,4,6,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,129,1,0,20010124,CHH,NYK
-Shot Chart Detail,0020000629,112,164,Chris Childs,1610612752,New York Knicks,2,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010128,NYK,LAL
-Shot Chart Detail,0020000629,118,164,Chris Childs,1610612752,New York Knicks,2,8,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,198,1,0,20010128,NYK,LAL
-Shot Chart Detail,0020000629,359,164,Chris Childs,1610612752,New York Knicks,4,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,55,1,0,20010128,NYK,LAL
-Shot Chart Detail,0020000629,372,164,Chris Childs,1610612752,New York Knicks,4,6,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,11,247,1,0,20010128,NYK,LAL
-Shot Chart Detail,0020000654,129,164,Chris Childs,1610612752,New York Knicks,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,160,1,0,20010201,NYK,PHI
-Shot Chart Detail,0020000654,177,164,Chris Childs,1610612752,New York Knicks,2,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010201,NYK,PHI
-Shot Chart Detail,0020000654,301,164,Chris Childs,1610612752,New York Knicks,3,1,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010201,NYK,PHI
-Shot Chart Detail,0020000661,121,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,167,1,1,20010202,NJN,NYK
-Shot Chart Detail,0020000661,177,164,Chris Childs,1610612752,New York Knicks,2,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,251,1,1,20010202,NJN,NYK
-Shot Chart Detail,0020000661,334,164,Chris Childs,1610612752,New York Knicks,4,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,0,1,0,20010202,NJN,NYK
-Shot Chart Detail,0020000680,170,164,Chris Childs,1610612752,New York Knicks,2,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-86,133,1,1,20010204,MIA,NYK
-Shot Chart Detail,0020000680,379,164,Chris Childs,1610612752,New York Knicks,4,4,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010204,MIA,NYK
-Shot Chart Detail,0020000680,429,164,Chris Childs,1610612752,New York Knicks,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,0,20010204,MIA,NYK
-Shot Chart Detail,0020000686,169,164,Chris Childs,1610612752,New York Knicks,2,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-6,217,1,1,20010205,HOU,NYK
-Shot Chart Detail,0020000686,187,164,Chris Childs,1610612752,New York Knicks,2,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,186,1,0,20010205,HOU,NYK
-Shot Chart Detail,0020000686,213,164,Chris Childs,1610612752,New York Knicks,2,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-77,169,1,1,20010205,HOU,NYK
-Shot Chart Detail,0020000686,236,164,Chris Childs,1610612752,New York Knicks,2,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,217,1,1,20010205,HOU,NYK
-Shot Chart Detail,0020000697,118,164,Chris Childs,1610612752,New York Knicks,2,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,243,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,147,164,Chris Childs,1610612752,New York Knicks,2,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,137,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000697,237,164,Chris Childs,1610612752,New York Knicks,3,4,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000697,242,164,Chris Childs,1610612752,New York Knicks,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-58,209,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,257,164,Chris Childs,1610612752,New York Knicks,3,1,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000697,266,164,Chris Childs,1610612752,New York Knicks,3,0,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,150,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,280,164,Chris Childs,1610612752,New York Knicks,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-176,116,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,350,164,Chris Childs,1610612752,New York Knicks,4,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,192,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000718,71,164,Chris Childs,1610612752,New York Knicks,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-2,1,0,20010213,DEN,NYK
-Shot Chart Detail,0020000736,156,164,Chris Childs,1610612752,New York Knicks,2,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,236,1,0,20010216,NYK,NJN
-Shot Chart Detail,0020000736,197,164,Chris Childs,1610612752,New York Knicks,2,1,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,144,1,0,20010216,NYK,NJN
-Shot Chart Detail,0020000736,208,164,Chris Childs,1610612752,New York Knicks,2,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20010216,NYK,NJN
-Shot Chart Detail,0020000736,343,164,Chris Childs,1610612752,New York Knicks,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,133,1,0,20010216,NYK,NJN
-Shot Chart Detail,0020000751,182,164,Chris Childs,1610612752,New York Knicks,2,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,18,165,1,0,20010218,ORL,NYK
-Shot Chart Detail,0020000751,340,164,Chris Childs,1610612752,New York Knicks,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,89,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,342,164,Chris Childs,1610612752,New York Knicks,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,21,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,364,164,Chris Childs,1610612752,New York Knicks,4,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,61,1,0,20010218,ORL,NYK
-Shot Chart Detail,0020000751,377,164,Chris Childs,1610612752,New York Knicks,4,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,144,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,379,164,Chris Childs,1610612752,New York Knicks,4,8,40,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,112,1,0,20010218,ORL,NYK
-Shot Chart Detail,0020000751,383,164,Chris Childs,1610612752,New York Knicks,4,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,177,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,393,164,Chris Childs,1610612752,New York Knicks,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,194,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000762,317,164,Chris Childs,1610612752,New York Knicks,4,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010220,NYK,MIA
-Shot Chart Detail,0020000775,140,164,Chris Childs,1610612752,New York Knicks,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,13,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000775,172,164,Chris Childs,1610612752,New York Knicks,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-79,152,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,209,164,Chris Childs,1610612752,New York Knicks,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,219,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,339,164,Chris Childs,1610612752,New York Knicks,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-166,219,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000775,355,164,Chris Childs,1610612752,New York Knicks,3,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000775,412,164,Chris Childs,1610612752,New York Knicks,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,173,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,448,164,Chris Childs,1610612752,New York Knicks,4,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,114,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,475,164,Chris Childs,1610612752,New York Knicks,4,0,47,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000794,113,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,40,125,382,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,156,164,Chris Childs,1610612761,Toronto Raptors,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,32,207,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,219,164,Chris Childs,1610612761,Toronto Raptors,2,0,16,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,1,20010224,WAS,TOR
-Shot Chart Detail,0020000794,229,164,Chris Childs,1610612761,Toronto Raptors,2,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,370,164,Chris Childs,1610612761,Toronto Raptors,4,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20010224,WAS,TOR
-Shot Chart Detail,0020000794,408,164,Chris Childs,1610612761,Toronto Raptors,4,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,62,207,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,450,164,Chris Childs,1610612761,Toronto Raptors,4,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-101,80,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000818,389,164,Chris Childs,1610612761,Toronto Raptors,4,8,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,224,1,0,20010227,TOR,CLE
-Shot Chart Detail,0020000818,426,164,Chris Childs,1610612761,Toronto Raptors,4,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,135,1,1,20010227,TOR,CLE
-Shot Chart Detail,0020000818,443,164,Chris Childs,1610612761,Toronto Raptors,4,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,123,245,1,0,20010227,TOR,CLE
-Shot Chart Detail,0020000824,122,164,Chris Childs,1610612761,Toronto Raptors,2,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010228,ATL,TOR
-Shot Chart Detail,0020000824,171,164,Chris Childs,1610612761,Toronto Raptors,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-4,1,0,20010228,ATL,TOR
-Shot Chart Detail,0020000824,342,164,Chris Childs,1610612761,Toronto Raptors,4,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,249,1,0,20010228,ATL,TOR
-Shot Chart Detail,0020000824,388,164,Chris Childs,1610612761,Toronto Raptors,4,7,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-71,78,1,1,20010228,ATL,TOR
-Shot Chart Detail,0020000841,143,164,Chris Childs,1610612761,Toronto Raptors,2,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,85,169,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000841,147,164,Chris Childs,1610612761,Toronto Raptors,2,10,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010302,TOR,NJN
-Shot Chart Detail,0020000841,192,164,Chris Childs,1610612761,Toronto Raptors,2,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,196,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000841,210,164,Chris Childs,1610612761,Toronto Raptors,2,4,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,9,1,0,20010302,TOR,NJN
-Shot Chart Detail,0020000841,472,164,Chris Childs,1610612761,Toronto Raptors,4,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,234,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000841,474,164,Chris Childs,1610612761,Toronto Raptors,4,0,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000855,109,164,Chris Childs,1610612761,Toronto Raptors,2,11,7,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000855,139,164,Chris Childs,1610612761,Toronto Raptors,2,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,135,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000855,153,164,Chris Childs,1610612761,Toronto Raptors,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,169,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000855,167,164,Chris Childs,1610612761,Toronto Raptors,2,5,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,185,164,Chris Childs,1610612761,Toronto Raptors,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,167,76,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,369,164,Chris Childs,1610612761,Toronto Raptors,4,11,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,76,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,402,164,Chris Childs,1610612761,Toronto Raptors,4,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,435,164,Chris Childs,1610612761,Toronto Raptors,4,4,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,53,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000872,160,164,Chris Childs,1610612761,Toronto Raptors,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-176,87,1,0,20010306,SAC,TOR
-Shot Chart Detail,0020000872,408,164,Chris Childs,1610612761,Toronto Raptors,3,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,26,1,0,20010306,SAC,TOR
-Shot Chart Detail,0020000872,486,164,Chris Childs,1610612761,Toronto Raptors,4,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,190,1,1,20010306,SAC,TOR
-Shot Chart Detail,0020000872,496,164,Chris Childs,1610612761,Toronto Raptors,4,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,247,1,1,20010306,SAC,TOR
-Shot Chart Detail,0020000872,561,164,Chris Childs,1610612761,Toronto Raptors,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,236,1,0,20010306,SAC,TOR
-Shot Chart Detail,0020000884,152,164,Chris Childs,1610612761,Toronto Raptors,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,192,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000884,189,164,Chris Childs,1610612761,Toronto Raptors,2,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,34,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000884,192,164,Chris Childs,1610612761,Toronto Raptors,2,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,247,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000884,451,164,Chris Childs,1610612761,Toronto Raptors,4,1,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000898,449,164,Chris Childs,1610612761,Toronto Raptors,4,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,251,1,1,20010309,SEA,TOR
-Shot Chart Detail,0020000898,497,164,Chris Childs,1610612761,Toronto Raptors,4,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,-13,1,0,20010309,SEA,TOR
-Shot Chart Detail,0020000913,138,164,Chris Childs,1610612761,Toronto Raptors,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,196,1,1,20010311,VAN,TOR
-Shot Chart Detail,0020000913,144,164,Chris Childs,1610612761,Toronto Raptors,2,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-69,241,1,1,20010311,VAN,TOR
-Shot Chart Detail,0020000913,187,164,Chris Childs,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-39,97,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000913,288,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,68,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000913,408,164,Chris Childs,1610612761,Toronto Raptors,4,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-6,203,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000913,423,164,Chris Childs,1610612761,Toronto Raptors,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,155,91,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000921,146,164,Chris Childs,1610612761,Toronto Raptors,2,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,87,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000921,174,164,Chris Childs,1610612761,Toronto Raptors,2,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,64,230,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000921,401,164,Chris Childs,1610612761,Toronto Raptors,4,7,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000921,473,164,Chris Childs,1610612761,Toronto Raptors,4,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,169,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000935,91,164,Chris Childs,1610612761,Toronto Raptors,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,178,78,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000935,106,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,44,228,384,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000935,185,164,Chris Childs,1610612761,Toronto Raptors,2,3,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,192,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000935,341,164,Chris Childs,1610612761,Toronto Raptors,4,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,34,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000969,142,164,Chris Childs,1610612761,Toronto Raptors,2,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010320,TOR,IND
-Shot Chart Detail,0020000969,162,164,Chris Childs,1610612761,Toronto Raptors,2,8,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010320,TOR,IND
-Shot Chart Detail,0020000969,176,164,Chris Childs,1610612761,Toronto Raptors,2,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010320,TOR,IND
-Shot Chart Detail,0020000969,371,164,Chris Childs,1610612761,Toronto Raptors,3,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-98,169,1,0,20010320,TOR,IND
-Shot Chart Detail,0020000969,508,164,Chris Childs,1610612761,Toronto Raptors,4,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-4,224,1,0,20010320,TOR,IND
-Shot Chart Detail,0020000979,180,164,Chris Childs,1610612761,Toronto Raptors,2,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,CHH,TOR
-Shot Chart Detail,0020000979,322,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,73,-162,715,1,0,20010321,CHH,TOR
-Shot Chart Detail,0020000979,329,164,Chris Childs,1610612761,Toronto Raptors,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,26,1,0,20010321,CHH,TOR
-Shot Chart Detail,0020001019,122,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,247,1,0,20010327,MIA,TOR
-Shot Chart Detail,0020001041,141,164,Chris Childs,1610612761,Toronto Raptors,2,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,22,257,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,174,164,Chris Childs,1610612761,Toronto Raptors,2,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,47,1,1,20010330,TOR,NJN
-Shot Chart Detail,0020001041,306,164,Chris Childs,1610612761,Toronto Raptors,3,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,325,164,Chris Childs,1610612761,Toronto Raptors,3,2,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,366,164,Chris Childs,1610612761,Toronto Raptors,4,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-56,207,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001056,164,164,Chris Childs,1610612761,Toronto Raptors,2,6,25,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,9,1,0,20010401,TOR,ORL
-Shot Chart Detail,0020001056,398,164,Chris Childs,1610612761,Toronto Raptors,4,5,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,179,1,0,20010401,TOR,ORL
-Shot Chart Detail,0020001066,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,80,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001066,215,164,Chris Childs,1610612761,Toronto Raptors,2,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,230,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001066,449,164,Chris Childs,1610612761,Toronto Raptors,4,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,251,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001066,467,164,Chris Childs,1610612761,Toronto Raptors,4,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7,251,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001077,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,236,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001077,374,164,Chris Childs,1610612761,Toronto Raptors,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,171,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001077,378,164,Chris Childs,1610612761,Toronto Raptors,4,10,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,165,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001077,388,164,Chris Childs,1610612761,Toronto Raptors,4,8,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001090,161,164,Chris Childs,1610612761,Toronto Raptors,2,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-50,188,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001090,211,164,Chris Childs,1610612761,Toronto Raptors,2,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,28,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,332,164,Chris Childs,1610612761,Toronto Raptors,3,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-4,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001090,364,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-157,127,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001090,395,164,Chris Childs,1610612761,Toronto Raptors,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,255,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,433,164,Chris Childs,1610612761,Toronto Raptors,4,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,232,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,446,164,Chris Childs,1610612761,Toronto Raptors,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,127,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,475,164,Chris Childs,1610612761,Toronto Raptors,4,0,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001106,109,164,Chris Childs,1610612761,Toronto Raptors,2,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,173,1,1,20010408,TOR,CHI
-Shot Chart Detail,0020001106,112,164,Chris Childs,1610612761,Toronto Raptors,2,9,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,251,1,0,20010408,TOR,CHI
-Shot Chart Detail,0020001106,365,164,Chris Childs,1610612761,Toronto Raptors,4,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010408,TOR,CHI
-Shot Chart Detail,0020001106,368,164,Chris Childs,1610612761,Toronto Raptors,4,9,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,0,20010408,TOR,CHI
-Shot Chart Detail,0020001106,468,164,Chris Childs,1610612761,Toronto Raptors,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,43,272,1,0,20010408,TOR,CHI
-Shot Chart Detail,0020001128,233,164,Chris Childs,1610612761,Toronto Raptors,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,19,1,1,20010411,DET,TOR
-Shot Chart Detail,0020001128,355,164,Chris Childs,1610612761,Toronto Raptors,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,178,34,1,0,20010411,DET,TOR
-Shot Chart Detail,0020001141,155,164,Chris Childs,1610612761,Toronto Raptors,2,7,51,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,TOR,MIA
-Shot Chart Detail,0020001141,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,4,1,1,20010413,TOR,MIA
-Shot Chart Detail,0020001141,194,164,Chris Childs,1610612761,Toronto Raptors,2,4,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,224,1,0,20010413,TOR,MIA
-Shot Chart Detail,0020001141,406,164,Chris Childs,1610612761,Toronto Raptors,4,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,129,1,1,20010413,TOR,MIA
-Shot Chart Detail,0020001141,470,164,Chris Childs,1610612761,Toronto Raptors,4,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-155,219,1,0,20010413,TOR,MIA
-Shot Chart Detail,0020001150,170,164,Chris Childs,1610612761,Toronto Raptors,2,7,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,211,1,0,20010414,MIL,TOR
-Shot Chart Detail,0020001173,145,164,Chris Childs,1610612761,Toronto Raptors,2,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,37,186,1,1,20010417,TOR,DET
-Shot Chart Detail,0020001173,154,164,Chris Childs,1610612761,Toronto Raptors,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-170,97,1,1,20010417,TOR,DET
-Shot Chart Detail,0020001173,176,164,Chris Childs,1610612761,Toronto Raptors,2,7,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-63,135,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001173,402,164,Chris Childs,1610612761,Toronto Raptors,4,11,16,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,47,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001173,428,164,Chris Childs,1610612761,Toronto Raptors,4,8,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,179,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001173,451,164,Chris Childs,1610612761,Toronto Raptors,4,6,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,85,179,1,1,20010417,TOR,DET
-Shot Chart Detail,0020001173,504,164,Chris Childs,1610612761,Toronto Raptors,4,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,174,125,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001182,133,164,Chris Childs,1610612761,Toronto Raptors,2,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,39,257,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,157,164,Chris Childs,1610612761,Toronto Raptors,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,158,1,0,20010418,WAS,TOR
-Shot Chart Detail,0020001182,190,164,Chris Childs,1610612761,Toronto Raptors,2,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,30,1,0,20010418,WAS,TOR
-Shot Chart Detail,0020001182,207,164,Chris Childs,1610612761,Toronto Raptors,2,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,9,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,375,164,Chris Childs,1610612761,Toronto Raptors,4,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,179,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,377,164,Chris Childs,1610612761,Toronto Raptors,4,8,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,380,164,Chris Childs,1610612761,Toronto Raptors,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,39,272,1,0,20010418,WAS,TOR
-Shot Chart Detail,0020001182,387,164,Chris Childs,1610612761,Toronto Raptors,4,6,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020000001,76,164,Chris Childs,1610612752,New York Knicks,1,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001031,NYK,PHI
-Shot Chart Detail,0020000001,118,164,Chris Childs,1610612752,New York Knicks,2,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001031,NYK,PHI
-Shot Chart Detail,0020000001,122,164,Chris Childs,1610612752,New York Knicks,2,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,171,1,0,20001031,NYK,PHI
-Shot Chart Detail,0020000001,152,164,Chris Childs,1610612752,New York Knicks,2,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,157,167,1,1,20001031,NYK,PHI
-Shot Chart Detail,0020000021,145,164,Chris Childs,1610612752,New York Knicks,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-200,129,1,0,20001102,NYK,ATL
-Shot Chart Detail,0020000021,189,164,Chris Childs,1610612752,New York Knicks,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,125,1,0,20001102,NYK,ATL
-Shot Chart Detail,0020000021,200,164,Chris Childs,1610612752,New York Knicks,2,3,16,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-23,1,1,20001102,NYK,ATL
-Shot Chart Detail,0020000021,342,164,Chris Childs,1610612752,New York Knicks,4,11,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001102,NYK,ATL
-Shot Chart Detail,0020000029,128,164,Chris Childs,1610612752,New York Knicks,2,10,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,148,1,0,20001103,WAS,NYK
-Shot Chart Detail,0020000029,137,164,Chris Childs,1610612752,New York Knicks,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,4,1,1,20001103,WAS,NYK
-Shot Chart Detail,0020000029,140,164,Chris Childs,1610612752,New York Knicks,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,104,196,1,1,20001103,WAS,NYK
-Shot Chart Detail,0020000029,333,164,Chris Childs,1610612752,New York Knicks,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,39,-79,382,1,0,20001103,WAS,NYK
-Shot Chart Detail,0020000029,377,164,Chris Childs,1610612752,New York Knicks,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,230,1,1,20001103,WAS,NYK
-Shot Chart Detail,0020000029,414,164,Chris Childs,1610612752,New York Knicks,4,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,196,1,0,20001103,WAS,NYK
-Shot Chart Detail,0020000057,170,164,Chris Childs,1610612752,New York Knicks,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,133,1,0,20001107,MIL,NYK
-Shot Chart Detail,0020000061,111,164,Chris Childs,1610612752,New York Knicks,2,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,9,1,0,20001108,NYK,CLE
-Shot Chart Detail,0020000061,154,164,Chris Childs,1610612752,New York Knicks,2,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,186,1,1,20001108,NYK,CLE
-Shot Chart Detail,0020000061,161,164,Chris Childs,1610612752,New York Knicks,2,4,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001108,NYK,CLE
-Shot Chart Detail,0020000110,407,164,Chris Childs,1610612752,New York Knicks,4,8,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,135,1,0,20001114,SEA,NYK
-Shot Chart Detail,0020000110,480,164,Chris Childs,1610612752,New York Knicks,4,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,108,68,1,0,20001114,SEA,NYK
-Shot Chart Detail,0020000118,149,164,Chris Childs,1610612752,New York Knicks,2,8,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,-2,1,0,20001115,LAC,NYK
-Shot Chart Detail,0020000118,209,164,Chris Childs,1610612752,New York Knicks,2,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20001115,LAC,NYK
-Shot Chart Detail,0020000118,367,164,Chris Childs,1610612752,New York Knicks,4,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-48,173,1,1,20001115,LAC,NYK
-Shot Chart Detail,0020000118,429,164,Chris Childs,1610612752,New York Knicks,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,38,1,0,20001115,LAC,NYK
-Shot Chart Detail,0020000132,152,164,Chris Childs,1610612752,New York Knicks,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,40,1,1,20001117,PHX,NYK
-Shot Chart Detail,0020000132,172,164,Chris Childs,1610612752,New York Knicks,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,178,91,1,1,20001117,PHX,NYK
-Shot Chart Detail,0020000132,177,164,Chris Childs,1610612752,New York Knicks,2,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,181,1,0,20001117,PHX,NYK
-Shot Chart Detail,0020000132,362,164,Chris Childs,1610612752,New York Knicks,4,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,175,1,1,20001117,PHX,NYK
-Shot Chart Detail,0020000144,112,164,Chris Childs,1610612752,New York Knicks,2,11,23,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,196,1,1,20001119,NYK,GSW
-Shot Chart Detail,0020000144,153,164,Chris Childs,1610612752,New York Knicks,2,7,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,0,20001119,NYK,GSW
-Shot Chart Detail,0020000144,327,164,Chris Childs,1610612752,New York Knicks,3,0,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-27,1,0,20001119,NYK,GSW
-Shot Chart Detail,0020000144,366,164,Chris Childs,1610612752,New York Knicks,4,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,0,1,1,20001119,NYK,GSW
-Shot Chart Detail,0020000144,420,164,Chris Childs,1610612752,New York Knicks,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,200,1,0,20001119,NYK,GSW
-Shot Chart Detail,0020000144,438,164,Chris Childs,1610612752,New York Knicks,4,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,87,1,1,20001119,NYK,GSW
-Shot Chart Detail,0020000154,159,164,Chris Childs,1610612752,New York Knicks,2,8,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3,257,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,174,164,Chris Childs,1610612752,New York Knicks,2,6,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,233,164,Chris Childs,1610612752,New York Knicks,2,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001121,ORL,NYK
-Shot Chart Detail,0020000154,352,164,Chris Childs,1610612752,New York Knicks,3,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,47,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,361,164,Chris Childs,1610612752,New York Knicks,3,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,200,1,1,20001121,ORL,NYK
-Shot Chart Detail,0020000154,388,164,Chris Childs,1610612752,New York Knicks,4,9,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,169,1,0,20001121,ORL,NYK
-Shot Chart Detail,0020000154,491,164,Chris Childs,1610612752,New York Knicks,4,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001121,ORL,NYK
-Shot Chart Detail,0020000162,20,164,Chris Childs,1610612752,New York Knicks,1,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,28,164,Chris Childs,1610612752,New York Knicks,1,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,53,164,Chris Childs,1610612752,New York Knicks,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,0,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,76,164,Chris Childs,1610612752,New York Knicks,1,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,7,1,1,20001122,ATL,NYK
-Shot Chart Detail,0020000162,81,164,Chris Childs,1610612752,New York Knicks,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,57,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,156,164,Chris Childs,1610612752,New York Knicks,2,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,68,1,1,20001122,ATL,NYK
-Shot Chart Detail,0020000162,176,164,Chris Childs,1610612752,New York Knicks,2,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,295,164,Chris Childs,1610612752,New York Knicks,3,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,243,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000162,299,164,Chris Childs,1610612752,New York Knicks,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,118,1,0,20001122,ATL,NYK
-Shot Chart Detail,0020000182,22,164,Chris Childs,1610612752,New York Knicks,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-128,179,1,1,20001125,NYK,TOR
-Shot Chart Detail,0020000182,63,164,Chris Childs,1610612752,New York Knicks,1,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,207,1,1,20001125,NYK,TOR
-Shot Chart Detail,0020000182,84,164,Chris Childs,1610612752,New York Knicks,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,196,1,0,20001125,NYK,TOR
-Shot Chart Detail,0020000182,181,164,Chris Childs,1610612752,New York Knicks,2,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,4,1,1,20001125,NYK,TOR
-Shot Chart Detail,0020000182,279,164,Chris Childs,1610612752,New York Knicks,3,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,91,1,0,20001125,NYK,TOR
-Shot Chart Detail,0020000196,108,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,22,179,1,0,20001127,NYK,VAN
-Shot Chart Detail,0020000196,340,164,Chris Childs,1610612752,New York Knicks,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,123,148,1,1,20001127,NYK,VAN
-Shot Chart Detail,0020000196,361,164,Chris Childs,1610612752,New York Knicks,4,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,186,1,0,20001127,NYK,VAN
-Shot Chart Detail,0020000208,101,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,45,231,394,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,270,164,Chris Childs,1610612752,New York Knicks,3,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-15,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,294,164,Chris Childs,1610612752,New York Knicks,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001129,NYK,MIA
-Shot Chart Detail,0020000208,327,164,Chris Childs,1610612752,New York Knicks,4,11,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,457,164,Chris Childs,1610612752,New York Knicks,4,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-155,215,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000208,465,164,Chris Childs,1610612752,New York Knicks,4,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,122,1,1,20001129,NYK,MIA
-Shot Chart Detail,0020000208,471,164,Chris Childs,1610612752,New York Knicks,4,0,2,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,171,1,0,20001129,NYK,MIA
-Shot Chart Detail,0020000229,161,164,Chris Childs,1610612752,New York Knicks,2,6,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,79,228,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000229,354,164,Chris Childs,1610612752,New York Knicks,4,10,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000229,368,164,Chris Childs,1610612752,New York Knicks,4,8,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,-6,1,1,20001201,CHI,NYK
-Shot Chart Detail,0020000229,380,164,Chris Childs,1610612752,New York Knicks,4,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,177,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000229,416,164,Chris Childs,1610612752,New York Knicks,4,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,26,1,0,20001201,CHI,NYK
-Shot Chart Detail,0020000233,110,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,171,1,1,20001202,NYK,MIN
-Shot Chart Detail,0020000233,178,164,Chris Childs,1610612752,New York Knicks,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,49,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,192,164,Chris Childs,1610612752,New York Knicks,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-63,89,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,278,164,Chris Childs,1610612752,New York Knicks,3,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20001202,NYK,MIN
-Shot Chart Detail,0020000233,300,164,Chris Childs,1610612752,New York Knicks,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,165,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,328,164,Chris Childs,1610612752,New York Knicks,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,198,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000233,371,164,Chris Childs,1610612752,New York Knicks,4,2,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,0,20001202,NYK,MIN
-Shot Chart Detail,0020000249,89,164,Chris Childs,1610612752,New York Knicks,2,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,51,205,1,0,20001204,NYK,LAC
-Shot Chart Detail,0020000249,132,164,Chris Childs,1610612752,New York Knicks,2,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,148,1,1,20001204,NYK,LAC
-Shot Chart Detail,0020000249,169,164,Chris Childs,1610612752,New York Knicks,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,175,1,1,20001204,NYK,LAC
-Shot Chart Detail,0020000266,74,164,Chris Childs,1610612752,New York Knicks,1,2,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-6,1,1,20001206,DAL,NYK
-Shot Chart Detail,0020000266,96,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,51,119,506,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,112,164,Chris Childs,1610612752,New York Knicks,2,10,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,120,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,162,164,Chris Childs,1610612752,New York Knicks,2,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,160,1,1,20001206,DAL,NYK
-Shot Chart Detail,0020000266,185,164,Chris Childs,1610612752,New York Knicks,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,93,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,327,164,Chris Childs,1610612752,New York Knicks,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,0,20001206,DAL,NYK
-Shot Chart Detail,0020000266,356,164,Chris Childs,1610612752,New York Knicks,4,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,93,1,1,20001206,DAL,NYK
-Shot Chart Detail,0020000273,90,164,Chris Childs,1610612752,New York Knicks,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,4,1,0,20001207,SAS,NYK
-Shot Chart Detail,0020000284,71,164,Chris Childs,1610612752,New York Knicks,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-4,1,1,20001209,NYK,DEN
-Shot Chart Detail,0020000284,105,164,Chris Childs,1610612752,New York Knicks,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,150,1,1,20001209,NYK,DEN
-Shot Chart Detail,0020000284,151,164,Chris Childs,1610612752,New York Knicks,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,51,154,1,0,20001209,NYK,DEN
-Shot Chart Detail,0020000284,307,164,Chris Childs,1610612752,New York Knicks,3,2,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,NYK,DEN
-Shot Chart Detail,0020000284,426,164,Chris Childs,1610612752,New York Knicks,4,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-134,160,1,0,20001209,NYK,DEN
-Shot Chart Detail,0020000322,82,164,Chris Childs,1610612752,New York Knicks,1,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-206,0,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,91,164,Chris Childs,1610612752,New York Knicks,1,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,194,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,128,164,Chris Childs,1610612752,New York Knicks,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-185,122,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,130,164,Chris Childs,1610612752,New York Knicks,2,8,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,303,164,Chris Childs,1610612752,New York Knicks,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-134,137,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,337,164,Chris Childs,1610612752,New York Knicks,3,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001214,TOR,NYK
-Shot Chart Detail,0020000322,423,164,Chris Childs,1610612752,New York Knicks,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-141,144,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,466,164,Chris Childs,1610612752,New York Knicks,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,11,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000322,478,164,Chris Childs,1610612752,New York Knicks,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-134,171,1,0,20001214,TOR,NYK
-Shot Chart Detail,0020000326,83,164,Chris Childs,1610612752,New York Knicks,1,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,232,1,0,20001215,NYK,UTA
-Shot Chart Detail,0020000326,121,164,Chris Childs,1610612752,New York Knicks,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,154,1,0,20001215,NYK,UTA
-Shot Chart Detail,0020000326,143,164,Chris Childs,1610612752,New York Knicks,2,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-8,1,0,20001215,NYK,UTA
-Shot Chart Detail,0020000326,374,164,Chris Childs,1610612752,New York Knicks,4,3,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001215,NYK,UTA
-Shot Chart Detail,0020000345,343,164,Chris Childs,1610612752,New York Knicks,3,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,NYK,MIL
-Shot Chart Detail,0020000345,363,164,Chris Childs,1610612752,New York Knicks,3,2,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,201,144,1,0,20001217,NYK,MIL
-Shot Chart Detail,0020000353,127,164,Chris Childs,1610612752,New York Knicks,2,10,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-147,139,1,0,20001219,ATL,NYK
-Shot Chart Detail,0020000353,151,164,Chris Childs,1610612752,New York Knicks,2,7,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001219,ATL,NYK
-Shot Chart Detail,0020000353,202,164,Chris Childs,1610612752,New York Knicks,2,1,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,146,1,0,20001219,ATL,NYK
-Shot Chart Detail,0020000353,263,164,Chris Childs,1610612752,New York Knicks,3,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-88,207,1,0,20001219,ATL,NYK
-Shot Chart Detail,0020000370,119,164,Chris Childs,1610612752,New York Knicks,1,0,1,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-176,205,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000370,159,164,Chris Childs,1610612752,New York Knicks,2,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,198,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000370,329,164,Chris Childs,1610612752,New York Knicks,3,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,55,1,1,20001221,NYK,BOS
-Shot Chart Detail,0020000370,358,164,Chris Childs,1610612752,New York Knicks,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,148,78,1,1,20001221,NYK,BOS
-Shot Chart Detail,0020000370,389,164,Chris Childs,1610612752,New York Knicks,4,6,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000370,422,164,Chris Childs,1610612752,New York Knicks,4,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,45,1,1,20001221,NYK,BOS
-Shot Chart Detail,0020000370,425,164,Chris Childs,1610612752,New York Knicks,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,0,1,0,20001221,NYK,BOS
-Shot Chart Detail,0020000374,189,164,Chris Childs,1610612752,New York Knicks,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,262,1,1,20001222,PHI,NYK
-Shot Chart Detail,0020000374,197,164,Chris Childs,1610612752,New York Knicks,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-101,82,1,0,20001222,PHI,NYK
-Shot Chart Detail,0020000374,400,164,Chris Childs,1610612752,New York Knicks,4,7,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,217,1,0,20001222,PHI,NYK
-Shot Chart Detail,0020000374,422,164,Chris Childs,1610612752,New York Knicks,4,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,82,1,1,20001222,PHI,NYK
-Shot Chart Detail,0020000408,102,164,Chris Childs,1610612752,New York Knicks,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,190,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,385,164,Chris Childs,1610612752,New York Knicks,4,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,63,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000408,408,164,Chris Childs,1610612752,New York Knicks,4,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,3,200,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,412,164,Chris Childs,1610612752,New York Knicks,4,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-193,169,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000422,79,164,Chris Childs,1610612752,New York Knicks,1,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,62,184,1,0,20001229,NYK,CHI
-Shot Chart Detail,0020000422,180,164,Chris Childs,1610612752,New York Knicks,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,NYK,CHI
-Shot Chart Detail,0020000422,247,164,Chris Childs,1610612752,New York Knicks,3,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-132,209,1,0,20001229,NYK,CHI
-Shot Chart Detail,0020000422,282,164,Chris Childs,1610612752,New York Knicks,3,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-38,1,0,20001229,NYK,CHI
-Shot Chart Detail,0020000430,60,164,Chris Childs,1610612752,New York Knicks,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,127,211,1,1,20001230,MIN,NYK
-Shot Chart Detail,0020000430,116,164,Chris Childs,1610612752,New York Knicks,2,9,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,167,1,1,20001230,MIN,NYK
-Shot Chart Detail,0020000430,171,164,Chris Childs,1610612752,New York Knicks,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-178,72,1,0,20001230,MIN,NYK
-Shot Chart Detail,0020000430,294,164,Chris Childs,1610612752,New York Knicks,3,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,148,99,1,0,20001230,MIN,NYK
-Shot Chart Detail,0020000430,414,164,Chris Childs,1610612752,New York Knicks,4,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-25,1,0,20001230,MIN,NYK
-Shot Chart Detail,0020000451,70,164,Chris Childs,1610612752,New York Knicks,1,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-103,93,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,187,164,Chris Childs,1610612752,New York Knicks,2,4,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,250,164,Chris Childs,1610612752,New York Knicks,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-162,226,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,302,164,Chris Childs,1610612752,New York Knicks,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,213,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000451,425,164,Chris Childs,1610612752,New York Knicks,4,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,192,1,1,20010103,BOS,NYK
-Shot Chart Detail,0020000460,31,164,Chris Childs,1610612752,New York Knicks,1,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,-48,1,0,20010104,NYK,ORL
-Shot Chart Detail,0020000460,200,164,Chris Childs,1610612752,New York Knicks,2,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-176,99,1,1,20010104,NYK,ORL
-Shot Chart Detail,0020000460,205,164,Chris Childs,1610612752,New York Knicks,2,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,205,1,0,20010104,NYK,ORL
-Shot Chart Detail,0020000460,282,164,Chris Childs,1610612752,New York Knicks,3,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,28,1,0,20010104,NYK,ORL
-Shot Chart Detail,0020000460,331,164,Chris Childs,1610612752,New York Knicks,4,10,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,99,1,1,20010104,NYK,ORL
-Shot Chart Detail,0020000480,89,164,Chris Childs,1610612752,New York Knicks,1,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,106,165,1,1,20010107,NYK,WAS
-Shot Chart Detail,0020000480,215,164,Chris Childs,1610612752,New York Knicks,2,0,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-248,-8,1,0,20010107,NYK,WAS
-Shot Chart Detail,0020000480,218,164,Chris Childs,1610612752,New York Knicks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,45,-233,394,1,0,20010107,NYK,WAS
-Shot Chart Detail,0020000480,341,164,Chris Childs,1610612752,New York Knicks,4,11,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010107,NYK,WAS
-Shot Chart Detail,0020000507,116,164,Chris Childs,1610612752,New York Knicks,2,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,98,171,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,126,164,Chris Childs,1610612752,New York Knicks,2,10,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,215,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,171,164,Chris Childs,1610612752,New York Knicks,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-103,184,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,173,164,Chris Childs,1610612752,New York Knicks,2,4,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,116,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,201,164,Chris Childs,1610612752,New York Knicks,2,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,238,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,292,164,Chris Childs,1610612752,New York Knicks,3,3,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,144,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,318,164,Chris Childs,1610612752,New York Knicks,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,11,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,338,164,Chris Childs,1610612752,New York Knicks,4,11,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,222,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,384,164,Chris Childs,1610612752,New York Knicks,4,6,37,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,1,20010111,NYK,HOU
-Shot Chart Detail,0020000507,402,164,Chris Childs,1610612752,New York Knicks,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,243,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000507,426,164,Chris Childs,1610612752,New York Knicks,4,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,137,1,0,20010111,NYK,HOU
-Shot Chart Detail,0020000521,112,164,Chris Childs,1610612752,New York Knicks,2,11,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,55,1,0,20010113,NYK,POR
-Shot Chart Detail,0020000535,434,164,Chris Childs,1610612752,New York Knicks,4,0,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,0,1,1,20010115,NYK,SAS
-Shot Chart Detail,0020000568,175,164,Chris Childs,1610612752,New York Knicks,2,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-4,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000568,222,164,Chris Childs,1610612752,New York Knicks,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,206,565,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000568,366,164,Chris Childs,1610612752,New York Knicks,4,9,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,78,1,1,20010119,DET,NYK
-Shot Chart Detail,0020000568,406,164,Chris Childs,1610612752,New York Knicks,4,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,1,20010119,DET,NYK
-Shot Chart Detail,0020000568,412,164,Chris Childs,1610612752,New York Knicks,4,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,226,137,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000568,426,164,Chris Childs,1610612752,New York Knicks,4,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,0,20010119,DET,NYK
-Shot Chart Detail,0020000578,63,164,Chris Childs,1610612752,New York Knicks,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20010121,NYK,IND
-Shot Chart Detail,0020000578,86,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-8,1,0,20010121,NYK,IND
-Shot Chart Detail,0020000578,132,164,Chris Childs,1610612752,New York Knicks,2,7,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010121,NYK,IND
-Shot Chart Detail,0020000592,140,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-29,1,1,20010123,MIL,NYK
-Shot Chart Detail,0020000601,222,164,Chris Childs,1610612752,New York Knicks,2,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010124,CHH,NYK
-Shot Chart Detail,0020000601,384,164,Chris Childs,1610612752,New York Knicks,4,6,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,129,1,0,20010124,CHH,NYK
-Shot Chart Detail,0020000629,112,164,Chris Childs,1610612752,New York Knicks,2,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010128,NYK,LAL
-Shot Chart Detail,0020000629,118,164,Chris Childs,1610612752,New York Knicks,2,8,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,198,1,0,20010128,NYK,LAL
-Shot Chart Detail,0020000629,359,164,Chris Childs,1610612752,New York Knicks,4,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,55,1,0,20010128,NYK,LAL
-Shot Chart Detail,0020000629,372,164,Chris Childs,1610612752,New York Knicks,4,6,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,11,247,1,0,20010128,NYK,LAL
-Shot Chart Detail,0020000654,129,164,Chris Childs,1610612752,New York Knicks,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,160,1,0,20010201,NYK,PHI
-Shot Chart Detail,0020000654,177,164,Chris Childs,1610612752,New York Knicks,2,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010201,NYK,PHI
-Shot Chart Detail,0020000654,301,164,Chris Childs,1610612752,New York Knicks,3,1,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010201,NYK,PHI
-Shot Chart Detail,0020000661,121,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,167,1,1,20010202,NJN,NYK
-Shot Chart Detail,0020000661,177,164,Chris Childs,1610612752,New York Knicks,2,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,251,1,1,20010202,NJN,NYK
-Shot Chart Detail,0020000661,334,164,Chris Childs,1610612752,New York Knicks,4,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,0,1,0,20010202,NJN,NYK
-Shot Chart Detail,0020000680,170,164,Chris Childs,1610612752,New York Knicks,2,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-86,133,1,1,20010204,MIA,NYK
-Shot Chart Detail,0020000680,379,164,Chris Childs,1610612752,New York Knicks,4,4,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010204,MIA,NYK
-Shot Chart Detail,0020000680,429,164,Chris Childs,1610612752,New York Knicks,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,0,20010204,MIA,NYK
-Shot Chart Detail,0020000686,169,164,Chris Childs,1610612752,New York Knicks,2,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-6,217,1,1,20010205,HOU,NYK
-Shot Chart Detail,0020000686,187,164,Chris Childs,1610612752,New York Knicks,2,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,186,1,0,20010205,HOU,NYK
-Shot Chart Detail,0020000686,213,164,Chris Childs,1610612752,New York Knicks,2,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-77,169,1,1,20010205,HOU,NYK
-Shot Chart Detail,0020000686,236,164,Chris Childs,1610612752,New York Knicks,2,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,217,1,1,20010205,HOU,NYK
-Shot Chart Detail,0020000697,118,164,Chris Childs,1610612752,New York Knicks,2,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,243,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,147,164,Chris Childs,1610612752,New York Knicks,2,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,137,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000697,237,164,Chris Childs,1610612752,New York Knicks,3,4,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000697,242,164,Chris Childs,1610612752,New York Knicks,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-58,209,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,257,164,Chris Childs,1610612752,New York Knicks,3,1,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000697,266,164,Chris Childs,1610612752,New York Knicks,3,0,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,150,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,280,164,Chris Childs,1610612752,New York Knicks,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-176,116,1,1,20010207,NYK,DAL
-Shot Chart Detail,0020000697,350,164,Chris Childs,1610612752,New York Knicks,4,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,192,1,0,20010207,NYK,DAL
-Shot Chart Detail,0020000718,71,164,Chris Childs,1610612752,New York Knicks,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-2,1,0,20010213,DEN,NYK
-Shot Chart Detail,0020000736,156,164,Chris Childs,1610612752,New York Knicks,2,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,236,1,0,20010216,NYK,NJN
-Shot Chart Detail,0020000736,197,164,Chris Childs,1610612752,New York Knicks,2,1,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,144,1,0,20010216,NYK,NJN
-Shot Chart Detail,0020000736,208,164,Chris Childs,1610612752,New York Knicks,2,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20010216,NYK,NJN
-Shot Chart Detail,0020000736,343,164,Chris Childs,1610612752,New York Knicks,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,133,1,0,20010216,NYK,NJN
-Shot Chart Detail,0020000751,182,164,Chris Childs,1610612752,New York Knicks,2,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,18,165,1,0,20010218,ORL,NYK
-Shot Chart Detail,0020000751,340,164,Chris Childs,1610612752,New York Knicks,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,89,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,342,164,Chris Childs,1610612752,New York Knicks,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,21,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,364,164,Chris Childs,1610612752,New York Knicks,4,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,61,1,0,20010218,ORL,NYK
-Shot Chart Detail,0020000751,377,164,Chris Childs,1610612752,New York Knicks,4,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,144,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,379,164,Chris Childs,1610612752,New York Knicks,4,8,40,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,112,1,0,20010218,ORL,NYK
-Shot Chart Detail,0020000751,383,164,Chris Childs,1610612752,New York Knicks,4,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,177,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000751,393,164,Chris Childs,1610612752,New York Knicks,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,194,1,1,20010218,ORL,NYK
-Shot Chart Detail,0020000762,317,164,Chris Childs,1610612752,New York Knicks,4,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010220,NYK,MIA
-Shot Chart Detail,0020000775,140,164,Chris Childs,1610612752,New York Knicks,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,13,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000775,172,164,Chris Childs,1610612752,New York Knicks,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-79,152,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,209,164,Chris Childs,1610612752,New York Knicks,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,219,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,339,164,Chris Childs,1610612752,New York Knicks,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-166,219,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000775,355,164,Chris Childs,1610612752,New York Knicks,3,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000775,412,164,Chris Childs,1610612752,New York Knicks,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,173,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,448,164,Chris Childs,1610612752,New York Knicks,4,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,114,1,1,20010221,DET,NYK
-Shot Chart Detail,0020000775,475,164,Chris Childs,1610612752,New York Knicks,4,0,47,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,0,20010221,DET,NYK
-Shot Chart Detail,0020000794,113,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,40,125,382,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,156,164,Chris Childs,1610612761,Toronto Raptors,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,32,207,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,219,164,Chris Childs,1610612761,Toronto Raptors,2,0,16,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,1,20010224,WAS,TOR
-Shot Chart Detail,0020000794,229,164,Chris Childs,1610612761,Toronto Raptors,2,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,370,164,Chris Childs,1610612761,Toronto Raptors,4,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20010224,WAS,TOR
-Shot Chart Detail,0020000794,408,164,Chris Childs,1610612761,Toronto Raptors,4,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,62,207,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000794,450,164,Chris Childs,1610612761,Toronto Raptors,4,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-101,80,1,0,20010224,WAS,TOR
-Shot Chart Detail,0020000818,389,164,Chris Childs,1610612761,Toronto Raptors,4,8,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,224,1,0,20010227,TOR,CLE
-Shot Chart Detail,0020000818,426,164,Chris Childs,1610612761,Toronto Raptors,4,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,135,1,1,20010227,TOR,CLE
-Shot Chart Detail,0020000818,443,164,Chris Childs,1610612761,Toronto Raptors,4,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,123,245,1,0,20010227,TOR,CLE
-Shot Chart Detail,0020000824,122,164,Chris Childs,1610612761,Toronto Raptors,2,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010228,ATL,TOR
-Shot Chart Detail,0020000824,171,164,Chris Childs,1610612761,Toronto Raptors,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-4,1,0,20010228,ATL,TOR
-Shot Chart Detail,0020000824,342,164,Chris Childs,1610612761,Toronto Raptors,4,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,249,1,0,20010228,ATL,TOR
-Shot Chart Detail,0020000824,388,164,Chris Childs,1610612761,Toronto Raptors,4,7,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-71,78,1,1,20010228,ATL,TOR
-Shot Chart Detail,0020000841,143,164,Chris Childs,1610612761,Toronto Raptors,2,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,85,169,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000841,147,164,Chris Childs,1610612761,Toronto Raptors,2,10,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010302,TOR,NJN
-Shot Chart Detail,0020000841,192,164,Chris Childs,1610612761,Toronto Raptors,2,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,196,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000841,210,164,Chris Childs,1610612761,Toronto Raptors,2,4,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,9,1,0,20010302,TOR,NJN
-Shot Chart Detail,0020000841,472,164,Chris Childs,1610612761,Toronto Raptors,4,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,234,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000841,474,164,Chris Childs,1610612761,Toronto Raptors,4,0,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010302,TOR,NJN
-Shot Chart Detail,0020000855,109,164,Chris Childs,1610612761,Toronto Raptors,2,11,7,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000855,139,164,Chris Childs,1610612761,Toronto Raptors,2,8,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,135,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000855,153,164,Chris Childs,1610612761,Toronto Raptors,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,169,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000855,167,164,Chris Childs,1610612761,Toronto Raptors,2,5,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,185,164,Chris Childs,1610612761,Toronto Raptors,2,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,167,76,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,369,164,Chris Childs,1610612761,Toronto Raptors,4,11,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,76,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,402,164,Chris Childs,1610612761,Toronto Raptors,4,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010304,TOR,NYK
-Shot Chart Detail,0020000855,435,164,Chris Childs,1610612761,Toronto Raptors,4,4,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,53,1,0,20010304,TOR,NYK
-Shot Chart Detail,0020000872,160,164,Chris Childs,1610612761,Toronto Raptors,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-176,87,1,0,20010306,SAC,TOR
-Shot Chart Detail,0020000872,408,164,Chris Childs,1610612761,Toronto Raptors,3,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,26,1,0,20010306,SAC,TOR
-Shot Chart Detail,0020000872,486,164,Chris Childs,1610612761,Toronto Raptors,4,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,190,1,1,20010306,SAC,TOR
-Shot Chart Detail,0020000872,496,164,Chris Childs,1610612761,Toronto Raptors,4,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,247,1,1,20010306,SAC,TOR
-Shot Chart Detail,0020000872,561,164,Chris Childs,1610612761,Toronto Raptors,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,236,1,0,20010306,SAC,TOR
-Shot Chart Detail,0020000884,152,164,Chris Childs,1610612761,Toronto Raptors,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,192,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000884,189,164,Chris Childs,1610612761,Toronto Raptors,2,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,34,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000884,192,164,Chris Childs,1610612761,Toronto Raptors,2,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,247,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000884,451,164,Chris Childs,1610612761,Toronto Raptors,4,1,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010307,LAL,TOR
-Shot Chart Detail,0020000898,449,164,Chris Childs,1610612761,Toronto Raptors,4,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,251,1,1,20010309,SEA,TOR
-Shot Chart Detail,0020000898,497,164,Chris Childs,1610612761,Toronto Raptors,4,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,-13,1,0,20010309,SEA,TOR
-Shot Chart Detail,0020000913,138,164,Chris Childs,1610612761,Toronto Raptors,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,196,1,1,20010311,VAN,TOR
-Shot Chart Detail,0020000913,144,164,Chris Childs,1610612761,Toronto Raptors,2,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-69,241,1,1,20010311,VAN,TOR
-Shot Chart Detail,0020000913,187,164,Chris Childs,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-39,97,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000913,288,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,68,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000913,408,164,Chris Childs,1610612761,Toronto Raptors,4,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-6,203,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000913,423,164,Chris Childs,1610612761,Toronto Raptors,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,155,91,1,0,20010311,VAN,TOR
-Shot Chart Detail,0020000921,146,164,Chris Childs,1610612761,Toronto Raptors,2,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,87,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000921,174,164,Chris Childs,1610612761,Toronto Raptors,2,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,64,230,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000921,401,164,Chris Childs,1610612761,Toronto Raptors,4,7,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000921,473,164,Chris Childs,1610612761,Toronto Raptors,4,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,169,1,0,20010313,TOR,MIL
-Shot Chart Detail,0020000935,91,164,Chris Childs,1610612761,Toronto Raptors,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,178,78,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000935,106,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,44,228,384,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000935,185,164,Chris Childs,1610612761,Toronto Raptors,2,3,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,192,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000935,341,164,Chris Childs,1610612761,Toronto Raptors,4,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,34,1,0,20010315,NYK,TOR
-Shot Chart Detail,0020000969,142,164,Chris Childs,1610612761,Toronto Raptors,2,9,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010320,TOR,IND
-Shot Chart Detail,0020000969,162,164,Chris Childs,1610612761,Toronto Raptors,2,8,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010320,TOR,IND
-Shot Chart Detail,0020000969,176,164,Chris Childs,1610612761,Toronto Raptors,2,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010320,TOR,IND
-Shot Chart Detail,0020000969,371,164,Chris Childs,1610612761,Toronto Raptors,3,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-98,169,1,0,20010320,TOR,IND
-Shot Chart Detail,0020000969,508,164,Chris Childs,1610612761,Toronto Raptors,4,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-4,224,1,0,20010320,TOR,IND
-Shot Chart Detail,0020000979,180,164,Chris Childs,1610612761,Toronto Raptors,2,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,CHH,TOR
-Shot Chart Detail,0020000979,322,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,73,-162,715,1,0,20010321,CHH,TOR
-Shot Chart Detail,0020000979,329,164,Chris Childs,1610612761,Toronto Raptors,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,26,1,0,20010321,CHH,TOR
-Shot Chart Detail,0020001019,122,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,247,1,0,20010327,MIA,TOR
-Shot Chart Detail,0020001041,141,164,Chris Childs,1610612761,Toronto Raptors,2,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,22,257,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,174,164,Chris Childs,1610612761,Toronto Raptors,2,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,47,1,1,20010330,TOR,NJN
-Shot Chart Detail,0020001041,306,164,Chris Childs,1610612761,Toronto Raptors,3,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,325,164,Chris Childs,1610612761,Toronto Raptors,3,2,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,366,164,Chris Childs,1610612761,Toronto Raptors,4,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-56,207,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001056,164,164,Chris Childs,1610612761,Toronto Raptors,2,6,25,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,9,1,0,20010401,TOR,ORL
-Shot Chart Detail,0020001056,398,164,Chris Childs,1610612761,Toronto Raptors,4,5,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,179,1,0,20010401,TOR,ORL
-Shot Chart Detail,0020001066,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,80,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001066,215,164,Chris Childs,1610612761,Toronto Raptors,2,2,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,230,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001066,449,164,Chris Childs,1610612761,Toronto Raptors,4,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,251,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001066,467,164,Chris Childs,1610612761,Toronto Raptors,4,0,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7,251,1,1,20010403,TOR,PHI
-Shot Chart Detail,0020001077,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,236,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001077,374,164,Chris Childs,1610612761,Toronto Raptors,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,171,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001077,378,164,Chris Childs,1610612761,Toronto Raptors,4,10,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,165,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001077,388,164,Chris Childs,1610612761,Toronto Raptors,4,8,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,0,20010404,CLE,TOR
-Shot Chart Detail,0020001090,161,164,Chris Childs,1610612761,Toronto Raptors,2,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-50,188,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001090,211,164,Chris Childs,1610612761,Toronto Raptors,2,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,28,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,332,164,Chris Childs,1610612761,Toronto Raptors,3,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-4,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001090,364,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-157,127,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001090,395,164,Chris Childs,1610612761,Toronto Raptors,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,255,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,433,164,Chris Childs,1610612761,Toronto Raptors,4,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,232,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,446,164,Chris Childs,1610612761,Toronto Raptors,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,127,1,1,20010406,ORL,TOR
-Shot Chart Detail,0020001090,475,164,Chris Childs,1610612761,Toronto Raptors,4,0,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010406,ORL,TOR
-Shot Chart Detail,0020001106,109,164,Chris Childs,1610612761,Toronto Raptors,2,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,173,1,1,20010408,TOR,CHI
-Shot Chart Detail,0020001106,112,164,Chris Childs,1610612761,Toronto Raptors,2,9,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,251,1,0,20010408,TOR,CHI
-Shot Chart Detail,0020001106,365,164,Chris Childs,1610612761,Toronto Raptors,4,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010408,TOR,CHI
-Shot Chart Detail,0020001106,368,164,Chris Childs,1610612761,Toronto Raptors,4,9,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,0,20010408,TOR,CHI
-Shot Chart Detail,0020001106,468,164,Chris Childs,1610612761,Toronto Raptors,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,43,272,1,0,20010408,TOR,CHI
-Shot Chart Detail,0020001128,233,164,Chris Childs,1610612761,Toronto Raptors,2,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,19,1,1,20010411,DET,TOR
-Shot Chart Detail,0020001128,355,164,Chris Childs,1610612761,Toronto Raptors,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,178,34,1,0,20010411,DET,TOR
-Shot Chart Detail,0020001141,155,164,Chris Childs,1610612761,Toronto Raptors,2,7,51,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,TOR,MIA
-Shot Chart Detail,0020001141,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,4,1,1,20010413,TOR,MIA
-Shot Chart Detail,0020001141,194,164,Chris Childs,1610612761,Toronto Raptors,2,4,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,224,1,0,20010413,TOR,MIA
-Shot Chart Detail,0020001141,406,164,Chris Childs,1610612761,Toronto Raptors,4,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,129,1,1,20010413,TOR,MIA
-Shot Chart Detail,0020001141,470,164,Chris Childs,1610612761,Toronto Raptors,4,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-155,219,1,0,20010413,TOR,MIA
-Shot Chart Detail,0020001150,170,164,Chris Childs,1610612761,Toronto Raptors,2,7,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,211,1,0,20010414,MIL,TOR
-Shot Chart Detail,0020001173,145,164,Chris Childs,1610612761,Toronto Raptors,2,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,37,186,1,1,20010417,TOR,DET
-Shot Chart Detail,0020001173,154,164,Chris Childs,1610612761,Toronto Raptors,2,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-170,97,1,1,20010417,TOR,DET
-Shot Chart Detail,0020001173,176,164,Chris Childs,1610612761,Toronto Raptors,2,7,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-63,135,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001173,402,164,Chris Childs,1610612761,Toronto Raptors,4,11,16,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,47,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001173,428,164,Chris Childs,1610612761,Toronto Raptors,4,8,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,179,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001173,451,164,Chris Childs,1610612761,Toronto Raptors,4,6,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,85,179,1,1,20010417,TOR,DET
-Shot Chart Detail,0020001173,504,164,Chris Childs,1610612761,Toronto Raptors,4,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,174,125,1,0,20010417,TOR,DET
-Shot Chart Detail,0020001182,133,164,Chris Childs,1610612761,Toronto Raptors,2,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,39,257,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,157,164,Chris Childs,1610612761,Toronto Raptors,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,158,1,0,20010418,WAS,TOR
-Shot Chart Detail,0020001182,190,164,Chris Childs,1610612761,Toronto Raptors,2,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,30,1,0,20010418,WAS,TOR
-Shot Chart Detail,0020001182,207,164,Chris Childs,1610612761,Toronto Raptors,2,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,9,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,375,164,Chris Childs,1610612761,Toronto Raptors,4,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,179,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,377,164,Chris Childs,1610612761,Toronto Raptors,4,8,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010418,WAS,TOR
-Shot Chart Detail,0020001182,380,164,Chris Childs,1610612761,Toronto Raptors,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,39,272,1,0,20010418,WAS,TOR
-Shot Chart Detail,0020001182,387,164,Chris Childs,1610612761,Toronto Raptors,4,6,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010418,WAS,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000001,76,164,Chris Childs,1610612752,New York Knicks,1,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001031,0,NYK,PHI
+Shot Chart Detail,20000001,118,164,Chris Childs,1610612752,New York Knicks,2,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001031,0,NYK,PHI
+Shot Chart Detail,20000001,122,164,Chris Childs,1610612752,New York Knicks,2,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,171,1,0,20001031,0,NYK,PHI
+Shot Chart Detail,20000001,152,164,Chris Childs,1610612752,New York Knicks,2,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,157,167,1,1,20001031,1,NYK,PHI
+Shot Chart Detail,20000021,145,164,Chris Childs,1610612752,New York Knicks,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-200,129,1,0,20001102,0,NYK,ATL
+Shot Chart Detail,20000021,189,164,Chris Childs,1610612752,New York Knicks,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,125,1,0,20001102,0,NYK,ATL
+Shot Chart Detail,20000021,200,164,Chris Childs,1610612752,New York Knicks,2,3,16,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,-23,1,1,20001102,0,NYK,ATL
+Shot Chart Detail,20000021,342,164,Chris Childs,1610612752,New York Knicks,4,11,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001102,0,NYK,ATL
+Shot Chart Detail,20000029,128,164,Chris Childs,1610612752,New York Knicks,2,10,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,148,1,0,20001103,0,WAS,NYK
+Shot Chart Detail,20000029,137,164,Chris Childs,1610612752,New York Knicks,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,4,1,1,20001103,1,WAS,NYK
+Shot Chart Detail,20000029,140,164,Chris Childs,1610612752,New York Knicks,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,104,196,1,1,20001103,0,WAS,NYK
+Shot Chart Detail,20000029,333,164,Chris Childs,1610612752,New York Knicks,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,39,-79,382,1,0,20001103,0,WAS,NYK
+Shot Chart Detail,20000029,377,164,Chris Childs,1610612752,New York Knicks,4,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,230,1,1,20001103,1,WAS,NYK
+Shot Chart Detail,20000029,414,164,Chris Childs,1610612752,New York Knicks,4,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,196,1,0,20001103,0,WAS,NYK
+Shot Chart Detail,20000057,170,164,Chris Childs,1610612752,New York Knicks,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,133,1,0,20001107,0,MIL,NYK
+Shot Chart Detail,20000061,111,164,Chris Childs,1610612752,New York Knicks,2,10,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-191,9,1,0,20001108,0,NYK,CLE
+Shot Chart Detail,20000061,154,164,Chris Childs,1610612752,New York Knicks,2,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,186,1,1,20001108,1,NYK,CLE
+Shot Chart Detail,20000061,161,164,Chris Childs,1610612752,New York Knicks,2,4,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001108,1,NYK,CLE
+Shot Chart Detail,20000110,407,164,Chris Childs,1610612752,New York Knicks,4,8,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,135,1,0,20001114,0,SEA,NYK
+Shot Chart Detail,20000110,480,164,Chris Childs,1610612752,New York Knicks,4,1,28,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,108,68,1,0,20001114,0,SEA,NYK
+Shot Chart Detail,20000118,149,164,Chris Childs,1610612752,New York Knicks,2,8,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,-2,1,0,20001115,0,LAC,NYK
+Shot Chart Detail,20000118,209,164,Chris Childs,1610612752,New York Knicks,2,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20001115,0,LAC,NYK
+Shot Chart Detail,20000118,367,164,Chris Childs,1610612752,New York Knicks,4,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-48,173,1,1,20001115,0,LAC,NYK
+Shot Chart Detail,20000118,429,164,Chris Childs,1610612752,New York Knicks,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,38,1,0,20001115,0,LAC,NYK
+Shot Chart Detail,20000132,152,164,Chris Childs,1610612752,New York Knicks,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,40,1,1,20001117,0,PHX,NYK
+Shot Chart Detail,20000132,172,164,Chris Childs,1610612752,New York Knicks,2,4,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,178,91,1,1,20001117,0,PHX,NYK
+Shot Chart Detail,20000132,177,164,Chris Childs,1610612752,New York Knicks,2,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,181,1,0,20001117,0,PHX,NYK
+Shot Chart Detail,20000132,362,164,Chris Childs,1610612752,New York Knicks,4,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-33,175,1,1,20001117,1,PHX,NYK
+Shot Chart Detail,20000144,112,164,Chris Childs,1610612752,New York Knicks,2,11,23,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,196,1,1,20001119,0,NYK,GSW
+Shot Chart Detail,20000144,153,164,Chris Childs,1610612752,New York Knicks,2,7,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,0,20001119,0,NYK,GSW
+Shot Chart Detail,20000144,327,164,Chris Childs,1610612752,New York Knicks,3,0,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-27,1,0,20001119,0,NYK,GSW
+Shot Chart Detail,20000144,366,164,Chris Childs,1610612752,New York Knicks,4,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,0,1,1,20001119,1,NYK,GSW
+Shot Chart Detail,20000144,420,164,Chris Childs,1610612752,New York Knicks,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,200,1,0,20001119,0,NYK,GSW
+Shot Chart Detail,20000144,438,164,Chris Childs,1610612752,New York Knicks,4,1,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,87,1,1,20001119,0,NYK,GSW
+Shot Chart Detail,20000154,159,164,Chris Childs,1610612752,New York Knicks,2,8,5,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,3,257,1,0,20001121,0,ORL,NYK
+Shot Chart Detail,20000154,174,164,Chris Childs,1610612752,New York Knicks,2,6,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001121,0,ORL,NYK
+Shot Chart Detail,20000154,233,164,Chris Childs,1610612752,New York Knicks,2,0,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001121,1,ORL,NYK
+Shot Chart Detail,20000154,352,164,Chris Childs,1610612752,New York Knicks,3,1,18,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-157,47,1,0,20001121,0,ORL,NYK
+Shot Chart Detail,20000154,361,164,Chris Childs,1610612752,New York Knicks,3,0,22,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,200,1,1,20001121,1,ORL,NYK
+Shot Chart Detail,20000154,388,164,Chris Childs,1610612752,New York Knicks,4,9,26,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,169,1,0,20001121,0,ORL,NYK
+Shot Chart Detail,20000154,491,164,Chris Childs,1610612752,New York Knicks,4,0,12,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001121,0,ORL,NYK
+Shot Chart Detail,20000162,20,164,Chris Childs,1610612752,New York Knicks,1,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,28,164,Chris Childs,1610612752,New York Knicks,1,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,53,164,Chris Childs,1610612752,New York Knicks,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,0,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,76,164,Chris Childs,1610612752,New York Knicks,1,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,7,1,1,20001122,1,ATL,NYK
+Shot Chart Detail,20000162,81,164,Chris Childs,1610612752,New York Knicks,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,132,57,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,156,164,Chris Childs,1610612752,New York Knicks,2,3,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,68,1,1,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,176,164,Chris Childs,1610612752,New York Knicks,2,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,295,164,Chris Childs,1610612752,New York Knicks,3,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,77,243,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000162,299,164,Chris Childs,1610612752,New York Knicks,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,77,118,1,0,20001122,0,ATL,NYK
+Shot Chart Detail,20000182,22,164,Chris Childs,1610612752,New York Knicks,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-128,179,1,1,20001125,1,NYK,TOR
+Shot Chart Detail,20000182,63,164,Chris Childs,1610612752,New York Knicks,1,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,207,1,1,20001125,1,NYK,TOR
+Shot Chart Detail,20000182,84,164,Chris Childs,1610612752,New York Knicks,1,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,196,1,0,20001125,0,NYK,TOR
+Shot Chart Detail,20000182,181,164,Chris Childs,1610612752,New York Knicks,2,2,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,4,1,1,20001125,1,NYK,TOR
+Shot Chart Detail,20000182,279,164,Chris Childs,1610612752,New York Knicks,3,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,91,1,0,20001125,0,NYK,TOR
+Shot Chart Detail,20000196,108,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,22,179,1,0,20001127,0,NYK,VAN
+Shot Chart Detail,20000196,340,164,Chris Childs,1610612752,New York Knicks,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,123,148,1,1,20001127,0,NYK,VAN
+Shot Chart Detail,20000196,361,164,Chris Childs,1610612752,New York Knicks,4,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,186,1,0,20001127,0,NYK,VAN
+Shot Chart Detail,20000208,101,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,45,231,394,1,0,20001129,0,NYK,MIA
+Shot Chart Detail,20000208,270,164,Chris Childs,1610612752,New York Knicks,3,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-15,1,0,20001129,0,NYK,MIA
+Shot Chart Detail,20000208,294,164,Chris Childs,1610612752,New York Knicks,3,2,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001129,0,NYK,MIA
+Shot Chart Detail,20000208,327,164,Chris Childs,1610612752,New York Knicks,4,11,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001129,0,NYK,MIA
+Shot Chart Detail,20000208,457,164,Chris Childs,1610612752,New York Knicks,4,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-155,215,1,0,20001129,0,NYK,MIA
+Shot Chart Detail,20000208,465,164,Chris Childs,1610612752,New York Knicks,4,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,122,1,1,20001129,1,NYK,MIA
+Shot Chart Detail,20000208,471,164,Chris Childs,1610612752,New York Knicks,4,0,2,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,171,1,0,20001129,0,NYK,MIA
+Shot Chart Detail,20000229,161,164,Chris Childs,1610612752,New York Knicks,2,6,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,79,228,1,0,20001201,0,CHI,NYK
+Shot Chart Detail,20000229,354,164,Chris Childs,1610612752,New York Knicks,4,10,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001201,0,CHI,NYK
+Shot Chart Detail,20000229,368,164,Chris Childs,1610612752,New York Knicks,4,8,58,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,-6,1,1,20001201,0,CHI,NYK
+Shot Chart Detail,20000229,380,164,Chris Childs,1610612752,New York Knicks,4,7,56,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,177,1,0,20001201,0,CHI,NYK
+Shot Chart Detail,20000229,416,164,Chris Childs,1610612752,New York Knicks,4,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,26,1,0,20001201,0,CHI,NYK
+Shot Chart Detail,20000233,110,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,171,1,1,20001202,0,NYK,MIN
+Shot Chart Detail,20000233,178,164,Chris Childs,1610612752,New York Knicks,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,49,1,0,20001202,0,NYK,MIN
+Shot Chart Detail,20000233,192,164,Chris Childs,1610612752,New York Knicks,2,0,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-63,89,1,0,20001202,0,NYK,MIN
+Shot Chart Detail,20000233,278,164,Chris Childs,1610612752,New York Knicks,3,1,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20001202,1,NYK,MIN
+Shot Chart Detail,20000233,300,164,Chris Childs,1610612752,New York Knicks,4,10,34,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,165,1,0,20001202,0,NYK,MIN
+Shot Chart Detail,20000233,328,164,Chris Childs,1610612752,New York Knicks,4,7,27,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,198,1,0,20001202,0,NYK,MIN
+Shot Chart Detail,20000233,371,164,Chris Childs,1610612752,New York Knicks,4,2,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,198,1,0,20001202,0,NYK,MIN
+Shot Chart Detail,20000249,89,164,Chris Childs,1610612752,New York Knicks,2,11,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,51,205,1,0,20001204,0,NYK,LAC
+Shot Chart Detail,20000249,132,164,Chris Childs,1610612752,New York Knicks,2,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,0,148,1,1,20001204,0,NYK,LAC
+Shot Chart Detail,20000249,169,164,Chris Childs,1610612752,New York Knicks,2,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-44,175,1,1,20001204,0,NYK,LAC
+Shot Chart Detail,20000266,74,164,Chris Childs,1610612752,New York Knicks,1,2,38,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,153,-6,1,1,20001206,1,DAL,NYK
+Shot Chart Detail,20000266,96,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,51,119,506,1,0,20001206,0,DAL,NYK
+Shot Chart Detail,20000266,112,164,Chris Childs,1610612752,New York Knicks,2,10,27,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-166,120,1,0,20001206,0,DAL,NYK
+Shot Chart Detail,20000266,162,164,Chris Childs,1610612752,New York Knicks,2,4,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,160,1,1,20001206,1,DAL,NYK
+Shot Chart Detail,20000266,185,164,Chris Childs,1610612752,New York Knicks,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,93,1,0,20001206,0,DAL,NYK
+Shot Chart Detail,20000266,327,164,Chris Childs,1610612752,New York Knicks,4,9,12,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,0,20001206,0,DAL,NYK
+Shot Chart Detail,20000266,356,164,Chris Childs,1610612752,New York Knicks,4,6,36,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,167,93,1,1,20001206,0,DAL,NYK
+Shot Chart Detail,20000273,90,164,Chris Childs,1610612752,New York Knicks,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,4,1,0,20001207,0,SAS,NYK
+Shot Chart Detail,20000284,71,164,Chris Childs,1610612752,New York Knicks,1,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-4,1,1,20001209,1,NYK,DEN
+Shot Chart Detail,20000284,105,164,Chris Childs,1610612752,New York Knicks,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,150,1,1,20001209,1,NYK,DEN
+Shot Chart Detail,20000284,151,164,Chris Childs,1610612752,New York Knicks,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,51,154,1,0,20001209,0,NYK,DEN
+Shot Chart Detail,20000284,307,164,Chris Childs,1610612752,New York Knicks,3,2,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,0,NYK,DEN
+Shot Chart Detail,20000284,426,164,Chris Childs,1610612752,New York Knicks,4,2,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-134,160,1,0,20001209,0,NYK,DEN
+Shot Chart Detail,20000322,82,164,Chris Childs,1610612752,New York Knicks,1,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-206,0,1,1,20001214,1,TOR,NYK
+Shot Chart Detail,20000322,91,164,Chris Childs,1610612752,New York Knicks,1,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,194,1,1,20001214,0,TOR,NYK
+Shot Chart Detail,20000322,128,164,Chris Childs,1610612752,New York Knicks,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-185,122,1,1,20001214,0,TOR,NYK
+Shot Chart Detail,20000322,130,164,Chris Childs,1610612752,New York Knicks,2,8,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001214,0,TOR,NYK
+Shot Chart Detail,20000322,303,164,Chris Childs,1610612752,New York Knicks,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-134,137,1,0,20001214,0,TOR,NYK
+Shot Chart Detail,20000322,337,164,Chris Childs,1610612752,New York Knicks,3,0,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001214,1,TOR,NYK
+Shot Chart Detail,20000322,423,164,Chris Childs,1610612752,New York Knicks,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-141,144,1,0,20001214,0,TOR,NYK
+Shot Chart Detail,20000322,466,164,Chris Childs,1610612752,New York Knicks,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,11,1,0,20001214,0,TOR,NYK
+Shot Chart Detail,20000322,478,164,Chris Childs,1610612752,New York Knicks,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-134,171,1,0,20001214,0,TOR,NYK
+Shot Chart Detail,20000326,83,164,Chris Childs,1610612752,New York Knicks,1,0,57,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-71,232,1,0,20001215,0,NYK,UTA
+Shot Chart Detail,20000326,121,164,Chris Childs,1610612752,New York Knicks,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,154,1,0,20001215,0,NYK,UTA
+Shot Chart Detail,20000326,143,164,Chris Childs,1610612752,New York Knicks,2,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-8,1,0,20001215,0,NYK,UTA
+Shot Chart Detail,20000326,374,164,Chris Childs,1610612752,New York Knicks,4,3,32,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001215,1,NYK,UTA
+Shot Chart Detail,20000345,343,164,Chris Childs,1610612752,New York Knicks,3,3,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,0,NYK,MIL
+Shot Chart Detail,20000345,363,164,Chris Childs,1610612752,New York Knicks,3,2,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,201,144,1,0,20001217,0,NYK,MIL
+Shot Chart Detail,20000353,127,164,Chris Childs,1610612752,New York Knicks,2,10,5,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-147,139,1,0,20001219,0,ATL,NYK
+Shot Chart Detail,20000353,151,164,Chris Childs,1610612752,New York Knicks,2,7,41,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001219,0,ATL,NYK
+Shot Chart Detail,20000353,202,164,Chris Childs,1610612752,New York Knicks,2,1,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,146,1,0,20001219,0,ATL,NYK
+Shot Chart Detail,20000353,263,164,Chris Childs,1610612752,New York Knicks,3,6,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-88,207,1,0,20001219,0,ATL,NYK
+Shot Chart Detail,20000370,119,164,Chris Childs,1610612752,New York Knicks,1,0,1,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-176,205,1,0,20001221,0,NYK,BOS
+Shot Chart Detail,20000370,159,164,Chris Childs,1610612752,New York Knicks,2,6,59,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,198,1,0,20001221,0,NYK,BOS
+Shot Chart Detail,20000370,329,164,Chris Childs,1610612752,New York Knicks,3,1,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,55,1,1,20001221,0,NYK,BOS
+Shot Chart Detail,20000370,358,164,Chris Childs,1610612752,New York Knicks,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,148,78,1,1,20001221,0,NYK,BOS
+Shot Chart Detail,20000370,389,164,Chris Childs,1610612752,New York Knicks,4,6,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001221,0,NYK,BOS
+Shot Chart Detail,20000370,422,164,Chris Childs,1610612752,New York Knicks,4,2,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,45,1,1,20001221,1,NYK,BOS
+Shot Chart Detail,20000370,425,164,Chris Childs,1610612752,New York Knicks,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,0,1,0,20001221,0,NYK,BOS
+Shot Chart Detail,20000374,189,164,Chris Childs,1610612752,New York Knicks,2,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,262,1,1,20001222,1,PHI,NYK
+Shot Chart Detail,20000374,197,164,Chris Childs,1610612752,New York Knicks,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-101,82,1,0,20001222,0,PHI,NYK
+Shot Chart Detail,20000374,400,164,Chris Childs,1610612752,New York Knicks,4,7,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,217,1,0,20001222,0,PHI,NYK
+Shot Chart Detail,20000374,422,164,Chris Childs,1610612752,New York Knicks,4,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,82,1,1,20001222,1,PHI,NYK
+Shot Chart Detail,20000408,102,164,Chris Childs,1610612752,New York Knicks,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,190,1,1,20001227,1,WAS,NYK
+Shot Chart Detail,20000408,385,164,Chris Childs,1610612752,New York Knicks,4,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,63,1,0,20001227,0,WAS,NYK
+Shot Chart Detail,20000408,408,164,Chris Childs,1610612752,New York Knicks,4,5,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,3,200,1,1,20001227,0,WAS,NYK
+Shot Chart Detail,20000408,412,164,Chris Childs,1610612752,New York Knicks,4,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-193,169,1,0,20001227,0,WAS,NYK
+Shot Chart Detail,20000422,79,164,Chris Childs,1610612752,New York Knicks,1,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,62,184,1,0,20001229,0,NYK,CHI
+Shot Chart Detail,20000422,180,164,Chris Childs,1610612752,New York Knicks,2,5,12,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,0,NYK,CHI
+Shot Chart Detail,20000422,247,164,Chris Childs,1610612752,New York Knicks,3,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-132,209,1,0,20001229,0,NYK,CHI
+Shot Chart Detail,20000422,282,164,Chris Childs,1610612752,New York Knicks,3,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-38,1,0,20001229,0,NYK,CHI
+Shot Chart Detail,20000430,60,164,Chris Childs,1610612752,New York Knicks,1,3,13,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,127,211,1,1,20001230,1,MIN,NYK
+Shot Chart Detail,20000430,116,164,Chris Childs,1610612752,New York Knicks,2,9,35,Made Shot,Running Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,39,167,1,1,20001230,0,MIN,NYK
+Shot Chart Detail,20000430,171,164,Chris Childs,1610612752,New York Knicks,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-178,72,1,0,20001230,0,MIN,NYK
+Shot Chart Detail,20000430,294,164,Chris Childs,1610612752,New York Knicks,3,1,14,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,148,99,1,0,20001230,0,MIN,NYK
+Shot Chart Detail,20000430,414,164,Chris Childs,1610612752,New York Knicks,4,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-25,1,0,20001230,0,MIN,NYK
+Shot Chart Detail,20000451,70,164,Chris Childs,1610612752,New York Knicks,1,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-103,93,1,1,20010103,0,BOS,NYK
+Shot Chart Detail,20000451,187,164,Chris Childs,1610612752,New York Knicks,2,4,0,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,1,20010103,0,BOS,NYK
+Shot Chart Detail,20000451,250,164,Chris Childs,1610612752,New York Knicks,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-162,226,1,1,20010103,1,BOS,NYK
+Shot Chart Detail,20000451,302,164,Chris Childs,1610612752,New York Knicks,3,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,213,1,1,20010103,1,BOS,NYK
+Shot Chart Detail,20000451,425,164,Chris Childs,1610612752,New York Knicks,4,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,192,1,1,20010103,1,BOS,NYK
+Shot Chart Detail,20000460,31,164,Chris Childs,1610612752,New York Knicks,1,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-82,-48,1,0,20010104,0,NYK,ORL
+Shot Chart Detail,20000460,200,164,Chris Childs,1610612752,New York Knicks,2,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-176,99,1,1,20010104,1,NYK,ORL
+Shot Chart Detail,20000460,205,164,Chris Childs,1610612752,New York Knicks,2,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-138,205,1,0,20010104,0,NYK,ORL
+Shot Chart Detail,20000460,282,164,Chris Childs,1610612752,New York Knicks,3,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,28,1,0,20010104,0,NYK,ORL
+Shot Chart Detail,20000460,331,164,Chris Childs,1610612752,New York Knicks,4,10,17,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,163,99,1,1,20010104,1,NYK,ORL
+Shot Chart Detail,20000480,89,164,Chris Childs,1610612752,New York Knicks,1,1,12,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,106,165,1,1,20010107,1,NYK,WAS
+Shot Chart Detail,20000480,215,164,Chris Childs,1610612752,New York Knicks,2,0,7,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-248,-8,1,0,20010107,0,NYK,WAS
+Shot Chart Detail,20000480,218,164,Chris Childs,1610612752,New York Knicks,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,45,-233,394,1,0,20010107,0,NYK,WAS
+Shot Chart Detail,20000480,341,164,Chris Childs,1610612752,New York Knicks,4,11,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010107,1,NYK,WAS
+Shot Chart Detail,20000507,116,164,Chris Childs,1610612752,New York Knicks,2,11,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,98,171,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,126,164,Chris Childs,1610612752,New York Knicks,2,10,0,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,215,1,1,20010111,1,NYK,HOU
+Shot Chart Detail,20000507,171,164,Chris Childs,1610612752,New York Knicks,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-103,184,1,1,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,173,164,Chris Childs,1610612752,New York Knicks,2,4,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,77,116,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,201,164,Chris Childs,1610612752,New York Knicks,2,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,238,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,292,164,Chris Childs,1610612752,New York Knicks,3,3,34,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-138,144,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,318,164,Chris Childs,1610612752,New York Knicks,3,0,44,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,193,11,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,338,164,Chris Childs,1610612752,New York Knicks,4,11,15,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-132,222,1,1,20010111,1,NYK,HOU
+Shot Chart Detail,20000507,384,164,Chris Childs,1610612752,New York Knicks,4,6,37,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,1,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,402,164,Chris Childs,1610612752,New York Knicks,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,243,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000507,426,164,Chris Childs,1610612752,New York Knicks,4,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-132,137,1,0,20010111,0,NYK,HOU
+Shot Chart Detail,20000521,112,164,Chris Childs,1610612752,New York Knicks,2,11,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,55,1,0,20010113,0,NYK,POR
+Shot Chart Detail,20000535,434,164,Chris Childs,1610612752,New York Knicks,4,0,52,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,0,1,1,20010115,1,NYK,SAS
+Shot Chart Detail,20000568,175,164,Chris Childs,1610612752,New York Knicks,2,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-4,1,0,20010119,0,DET,NYK
+Shot Chart Detail,20000568,222,164,Chris Childs,1610612752,New York Knicks,2,0,1,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,60,206,565,1,0,20010119,0,DET,NYK
+Shot Chart Detail,20000568,366,164,Chris Childs,1610612752,New York Knicks,4,9,11,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,78,1,1,20010119,0,DET,NYK
+Shot Chart Detail,20000568,406,164,Chris Childs,1610612752,New York Knicks,4,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,1,20010119,0,DET,NYK
+Shot Chart Detail,20000568,412,164,Chris Childs,1610612752,New York Knicks,4,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,226,137,1,0,20010119,0,DET,NYK
+Shot Chart Detail,20000568,426,164,Chris Childs,1610612752,New York Knicks,4,3,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,93,1,0,20010119,0,DET,NYK
+Shot Chart Detail,20000578,63,164,Chris Childs,1610612752,New York Knicks,1,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20010121,0,NYK,IND
+Shot Chart Detail,20000578,86,164,Chris Childs,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-8,1,0,20010121,0,NYK,IND
+Shot Chart Detail,20000578,132,164,Chris Childs,1610612752,New York Knicks,2,7,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010121,0,NYK,IND
+Shot Chart Detail,20000592,140,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,-29,1,1,20010123,0,MIL,NYK
+Shot Chart Detail,20000601,222,164,Chris Childs,1610612752,New York Knicks,2,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010124,0,CHH,NYK
+Shot Chart Detail,20000601,384,164,Chris Childs,1610612752,New York Knicks,4,6,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-105,129,1,0,20010124,0,CHH,NYK
+Shot Chart Detail,20000629,112,164,Chris Childs,1610612752,New York Knicks,2,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010128,0,NYK,LAL
+Shot Chart Detail,20000629,118,164,Chris Childs,1610612752,New York Knicks,2,8,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,198,1,0,20010128,0,NYK,LAL
+Shot Chart Detail,20000629,359,164,Chris Childs,1610612752,New York Knicks,4,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,55,1,0,20010128,0,NYK,LAL
+Shot Chart Detail,20000629,372,164,Chris Childs,1610612752,New York Knicks,4,6,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,11,247,1,0,20010128,0,NYK,LAL
+Shot Chart Detail,20000654,129,164,Chris Childs,1610612752,New York Knicks,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,160,1,0,20010201,0,NYK,PHI
+Shot Chart Detail,20000654,177,164,Chris Childs,1610612752,New York Knicks,2,4,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010201,0,NYK,PHI
+Shot Chart Detail,20000654,301,164,Chris Childs,1610612752,New York Knicks,3,1,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010201,0,NYK,PHI
+Shot Chart Detail,20000661,121,164,Chris Childs,1610612752,New York Knicks,2,10,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,167,1,1,20010202,1,NJN,NYK
+Shot Chart Detail,20000661,177,164,Chris Childs,1610612752,New York Knicks,2,3,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,64,251,1,1,20010202,1,NJN,NYK
+Shot Chart Detail,20000661,334,164,Chris Childs,1610612752,New York Knicks,4,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,0,1,0,20010202,0,NJN,NYK
+Shot Chart Detail,20000680,170,164,Chris Childs,1610612752,New York Knicks,2,4,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-86,133,1,1,20010204,1,MIA,NYK
+Shot Chart Detail,20000680,379,164,Chris Childs,1610612752,New York Knicks,4,4,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010204,0,MIA,NYK
+Shot Chart Detail,20000680,429,164,Chris Childs,1610612752,New York Knicks,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,0,20010204,0,MIA,NYK
+Shot Chart Detail,20000686,169,164,Chris Childs,1610612752,New York Knicks,2,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-6,217,1,1,20010205,1,HOU,NYK
+Shot Chart Detail,20000686,187,164,Chris Childs,1610612752,New York Knicks,2,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,186,1,0,20010205,0,HOU,NYK
+Shot Chart Detail,20000686,213,164,Chris Childs,1610612752,New York Knicks,2,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-77,169,1,1,20010205,0,HOU,NYK
+Shot Chart Detail,20000686,236,164,Chris Childs,1610612752,New York Knicks,2,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,217,1,1,20010205,1,HOU,NYK
+Shot Chart Detail,20000697,118,164,Chris Childs,1610612752,New York Knicks,2,8,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,243,1,1,20010207,1,NYK,DAL
+Shot Chart Detail,20000697,147,164,Chris Childs,1610612752,New York Knicks,2,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,137,1,0,20010207,0,NYK,DAL
+Shot Chart Detail,20000697,237,164,Chris Childs,1610612752,New York Knicks,3,4,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010207,0,NYK,DAL
+Shot Chart Detail,20000697,242,164,Chris Childs,1610612752,New York Knicks,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-58,209,1,1,20010207,1,NYK,DAL
+Shot Chart Detail,20000697,257,164,Chris Childs,1610612752,New York Knicks,3,1,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010207,0,NYK,DAL
+Shot Chart Detail,20000697,266,164,Chris Childs,1610612752,New York Knicks,3,0,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-147,150,1,1,20010207,0,NYK,DAL
+Shot Chart Detail,20000697,280,164,Chris Childs,1610612752,New York Knicks,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-176,116,1,1,20010207,0,NYK,DAL
+Shot Chart Detail,20000697,350,164,Chris Childs,1610612752,New York Knicks,4,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,192,1,0,20010207,0,NYK,DAL
+Shot Chart Detail,20000718,71,164,Chris Childs,1610612752,New York Knicks,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-2,1,0,20010213,0,DEN,NYK
+Shot Chart Detail,20000736,156,164,Chris Childs,1610612752,New York Knicks,2,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,236,1,0,20010216,0,NYK,NJN
+Shot Chart Detail,20000736,197,164,Chris Childs,1610612752,New York Knicks,2,1,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,144,1,0,20010216,0,NYK,NJN
+Shot Chart Detail,20000736,208,164,Chris Childs,1610612752,New York Knicks,2,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,127,1,1,20010216,0,NYK,NJN
+Shot Chart Detail,20000736,343,164,Chris Childs,1610612752,New York Knicks,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,133,1,0,20010216,0,NYK,NJN
+Shot Chart Detail,20000751,182,164,Chris Childs,1610612752,New York Knicks,2,6,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,18,165,1,0,20010218,0,ORL,NYK
+Shot Chart Detail,20000751,340,164,Chris Childs,1610612752,New York Knicks,3,1,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,161,89,1,1,20010218,0,ORL,NYK
+Shot Chart Detail,20000751,342,164,Chris Childs,1610612752,New York Knicks,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,21,1,1,20010218,1,ORL,NYK
+Shot Chart Detail,20000751,364,164,Chris Childs,1610612752,New York Knicks,4,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,61,1,0,20010218,0,ORL,NYK
+Shot Chart Detail,20000751,377,164,Chris Childs,1610612752,New York Knicks,4,9,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-115,144,1,1,20010218,0,ORL,NYK
+Shot Chart Detail,20000751,379,164,Chris Childs,1610612752,New York Knicks,4,8,40,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,112,1,0,20010218,0,ORL,NYK
+Shot Chart Detail,20000751,383,164,Chris Childs,1610612752,New York Knicks,4,8,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,177,1,1,20010218,1,ORL,NYK
+Shot Chart Detail,20000751,393,164,Chris Childs,1610612752,New York Knicks,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,194,1,1,20010218,1,ORL,NYK
+Shot Chart Detail,20000762,317,164,Chris Childs,1610612752,New York Knicks,4,9,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010220,1,NYK,MIA
+Shot Chart Detail,20000775,140,164,Chris Childs,1610612752,New York Knicks,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,13,1,0,20010221,0,DET,NYK
+Shot Chart Detail,20000775,172,164,Chris Childs,1610612752,New York Knicks,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-79,152,1,1,20010221,0,DET,NYK
+Shot Chart Detail,20000775,209,164,Chris Childs,1610612752,New York Knicks,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,219,1,1,20010221,1,DET,NYK
+Shot Chart Detail,20000775,339,164,Chris Childs,1610612752,New York Knicks,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-166,219,1,0,20010221,0,DET,NYK
+Shot Chart Detail,20000775,355,164,Chris Childs,1610612752,New York Knicks,3,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010221,0,DET,NYK
+Shot Chart Detail,20000775,412,164,Chris Childs,1610612752,New York Knicks,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,39,173,1,1,20010221,0,DET,NYK
+Shot Chart Detail,20000775,448,164,Chris Childs,1610612752,New York Knicks,4,3,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,114,1,1,20010221,0,DET,NYK
+Shot Chart Detail,20000775,475,164,Chris Childs,1610612752,New York Knicks,4,0,47,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,0,20010221,0,DET,NYK
+Shot Chart Detail,20000794,113,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,40,125,382,1,0,20010224,0,WAS,TOR
+Shot Chart Detail,20000794,156,164,Chris Childs,1610612761,Toronto Raptors,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,32,207,1,0,20010224,0,WAS,TOR
+Shot Chart Detail,20000794,219,164,Chris Childs,1610612761,Toronto Raptors,2,0,16,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,1,20010224,0,WAS,TOR
+Shot Chart Detail,20000794,229,164,Chris Childs,1610612761,Toronto Raptors,2,0,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20010224,0,WAS,TOR
+Shot Chart Detail,20000794,370,164,Chris Childs,1610612761,Toronto Raptors,4,10,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,1,20010224,1,WAS,TOR
+Shot Chart Detail,20000794,408,164,Chris Childs,1610612761,Toronto Raptors,4,6,33,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,62,207,1,0,20010224,0,WAS,TOR
+Shot Chart Detail,20000794,450,164,Chris Childs,1610612761,Toronto Raptors,4,2,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-101,80,1,0,20010224,0,WAS,TOR
+Shot Chart Detail,20000818,389,164,Chris Childs,1610612761,Toronto Raptors,4,8,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,224,1,0,20010227,0,TOR,CLE
+Shot Chart Detail,20000818,426,164,Chris Childs,1610612761,Toronto Raptors,4,5,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,135,1,1,20010227,0,TOR,CLE
+Shot Chart Detail,20000818,443,164,Chris Childs,1610612761,Toronto Raptors,4,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,123,245,1,0,20010227,0,TOR,CLE
+Shot Chart Detail,20000824,122,164,Chris Childs,1610612761,Toronto Raptors,2,11,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010228,0,ATL,TOR
+Shot Chart Detail,20000824,171,164,Chris Childs,1610612761,Toronto Raptors,2,5,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,-4,1,0,20010228,0,ATL,TOR
+Shot Chart Detail,20000824,342,164,Chris Childs,1610612761,Toronto Raptors,4,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,249,1,0,20010228,0,ATL,TOR
+Shot Chart Detail,20000824,388,164,Chris Childs,1610612761,Toronto Raptors,4,7,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-71,78,1,1,20010228,0,ATL,TOR
+Shot Chart Detail,20000841,143,164,Chris Childs,1610612761,Toronto Raptors,2,10,57,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,85,169,1,1,20010302,1,TOR,NJN
+Shot Chart Detail,20000841,147,164,Chris Childs,1610612761,Toronto Raptors,2,10,25,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010302,0,TOR,NJN
+Shot Chart Detail,20000841,192,164,Chris Childs,1610612761,Toronto Raptors,2,5,59,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,196,1,1,20010302,1,TOR,NJN
+Shot Chart Detail,20000841,210,164,Chris Childs,1610612761,Toronto Raptors,2,4,6,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-221,9,1,0,20010302,0,TOR,NJN
+Shot Chart Detail,20000841,472,164,Chris Childs,1610612761,Toronto Raptors,4,0,45,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,153,234,1,1,20010302,1,TOR,NJN
+Shot Chart Detail,20000841,474,164,Chris Childs,1610612761,Toronto Raptors,4,0,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010302,0,TOR,NJN
+Shot Chart Detail,20000855,109,164,Chris Childs,1610612761,Toronto Raptors,2,11,7,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,139,164,Chris Childs,1610612761,Toronto Raptors,2,8,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,135,1,0,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,153,164,Chris Childs,1610612761,Toronto Raptors,2,7,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,169,1,0,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,167,164,Chris Childs,1610612761,Toronto Raptors,2,5,55,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,185,164,Chris Childs,1610612761,Toronto Raptors,2,4,2,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,167,76,1,1,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,369,164,Chris Childs,1610612761,Toronto Raptors,4,11,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,76,1,1,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,402,164,Chris Childs,1610612761,Toronto Raptors,4,7,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010304,0,TOR,NYK
+Shot Chart Detail,20000855,435,164,Chris Childs,1610612761,Toronto Raptors,4,4,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,53,1,0,20010304,0,TOR,NYK
+Shot Chart Detail,20000872,160,164,Chris Childs,1610612761,Toronto Raptors,2,8,39,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-176,87,1,0,20010306,0,SAC,TOR
+Shot Chart Detail,20000872,408,164,Chris Childs,1610612761,Toronto Raptors,3,0,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-103,26,1,0,20010306,0,SAC,TOR
+Shot Chart Detail,20000872,486,164,Chris Childs,1610612761,Toronto Raptors,4,5,49,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,190,1,1,20010306,1,SAC,TOR
+Shot Chart Detail,20000872,496,164,Chris Childs,1610612761,Toronto Raptors,4,4,38,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-58,247,1,1,20010306,1,SAC,TOR
+Shot Chart Detail,20000872,561,164,Chris Childs,1610612761,Toronto Raptors,4,0,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-88,236,1,0,20010306,0,SAC,TOR
+Shot Chart Detail,20000884,152,164,Chris Childs,1610612761,Toronto Raptors,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,192,1,0,20010307,0,LAL,TOR
+Shot Chart Detail,20000884,189,164,Chris Childs,1610612761,Toronto Raptors,2,3,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-132,34,1,0,20010307,0,LAL,TOR
+Shot Chart Detail,20000884,192,164,Chris Childs,1610612761,Toronto Raptors,2,3,27,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-48,247,1,0,20010307,0,LAL,TOR
+Shot Chart Detail,20000884,451,164,Chris Childs,1610612761,Toronto Raptors,4,1,18,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010307,0,LAL,TOR
+Shot Chart Detail,20000898,449,164,Chris Childs,1610612761,Toronto Raptors,4,4,36,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,43,251,1,1,20010309,0,SEA,TOR
+Shot Chart Detail,20000898,497,164,Chris Childs,1610612761,Toronto Raptors,4,0,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,150,-13,1,0,20010309,0,SEA,TOR
+Shot Chart Detail,20000913,138,164,Chris Childs,1610612761,Toronto Raptors,2,5,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,85,196,1,1,20010311,0,VAN,TOR
+Shot Chart Detail,20000913,144,164,Chris Childs,1610612761,Toronto Raptors,2,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-69,241,1,1,20010311,1,VAN,TOR
+Shot Chart Detail,20000913,187,164,Chris Childs,1610612761,Toronto Raptors,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-39,97,1,0,20010311,0,VAN,TOR
+Shot Chart Detail,20000913,288,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,115,68,1,0,20010311,0,VAN,TOR
+Shot Chart Detail,20000913,408,164,Chris Childs,1610612761,Toronto Raptors,4,2,45,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-6,203,1,0,20010311,0,VAN,TOR
+Shot Chart Detail,20000913,423,164,Chris Childs,1610612761,Toronto Raptors,4,1,14,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,155,91,1,0,20010311,0,VAN,TOR
+Shot Chart Detail,20000921,146,164,Chris Childs,1610612761,Toronto Raptors,2,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,87,1,0,20010313,0,TOR,MIL
+Shot Chart Detail,20000921,174,164,Chris Childs,1610612761,Toronto Raptors,2,4,38,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,23,64,230,1,0,20010313,0,TOR,MIL
+Shot Chart Detail,20000921,401,164,Chris Childs,1610612761,Toronto Raptors,4,7,54,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010313,0,TOR,MIL
+Shot Chart Detail,20000921,473,164,Chris Childs,1610612761,Toronto Raptors,4,1,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,169,1,0,20010313,0,TOR,MIL
+Shot Chart Detail,20000935,91,164,Chris Childs,1610612761,Toronto Raptors,1,1,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,178,78,1,0,20010315,0,NYK,TOR
+Shot Chart Detail,20000935,106,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,44,228,384,1,0,20010315,0,NYK,TOR
+Shot Chart Detail,20000935,185,164,Chris Childs,1610612761,Toronto Raptors,2,3,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,192,1,0,20010315,0,NYK,TOR
+Shot Chart Detail,20000935,341,164,Chris Childs,1610612761,Toronto Raptors,4,11,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,34,1,0,20010315,0,NYK,TOR
+Shot Chart Detail,20000969,142,164,Chris Childs,1610612761,Toronto Raptors,2,9,32,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010320,0,TOR,IND
+Shot Chart Detail,20000969,162,164,Chris Childs,1610612761,Toronto Raptors,2,8,0,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010320,0,TOR,IND
+Shot Chart Detail,20000969,176,164,Chris Childs,1610612761,Toronto Raptors,2,6,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010320,0,TOR,IND
+Shot Chart Detail,20000969,371,164,Chris Childs,1610612761,Toronto Raptors,3,1,8,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-98,169,1,0,20010320,0,TOR,IND
+Shot Chart Detail,20000969,508,164,Chris Childs,1610612761,Toronto Raptors,4,1,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,-4,224,1,0,20010320,0,TOR,IND
+Shot Chart Detail,20000979,180,164,Chris Childs,1610612761,Toronto Raptors,2,4,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,0,CHH,TOR
+Shot Chart Detail,20000979,322,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,73,-162,715,1,0,20010321,0,CHH,TOR
+Shot Chart Detail,20000979,329,164,Chris Childs,1610612761,Toronto Raptors,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,26,1,0,20010321,0,CHH,TOR
+Shot Chart Detail,20001019,122,164,Chris Childs,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,247,1,0,20010327,0,MIA,TOR
+Shot Chart Detail,20001041,141,164,Chris Childs,1610612761,Toronto Raptors,2,10,44,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,22,257,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,174,164,Chris Childs,1610612761,Toronto Raptors,2,6,39,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,174,47,1,1,20010330,1,TOR,NJN
+Shot Chart Detail,20001041,306,164,Chris Childs,1610612761,Toronto Raptors,3,5,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,325,164,Chris Childs,1610612761,Toronto Raptors,3,2,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,366,164,Chris Childs,1610612761,Toronto Raptors,4,11,4,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-56,207,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001056,164,164,Chris Childs,1610612761,Toronto Raptors,2,6,25,Missed Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,94,9,1,0,20010401,0,TOR,ORL
+Shot Chart Detail,20001056,398,164,Chris Childs,1610612761,Toronto Raptors,4,5,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,179,1,0,20010401,0,TOR,ORL
+Shot Chart Detail,20001066,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,46,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-141,80,1,1,20010403,1,TOR,PHI
+Shot Chart Detail,20001066,215,164,Chris Childs,1610612761,Toronto Raptors,2,2,32,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,230,1,1,20010403,1,TOR,PHI
+Shot Chart Detail,20001066,449,164,Chris Childs,1610612761,Toronto Raptors,4,1,56,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,16,251,1,1,20010403,1,TOR,PHI
+Shot Chart Detail,20001066,467,164,Chris Childs,1610612761,Toronto Raptors,4,0,34,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,7,251,1,1,20010403,1,TOR,PHI
+Shot Chart Detail,20001077,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,236,1,0,20010404,0,CLE,TOR
+Shot Chart Detail,20001077,374,164,Chris Childs,1610612761,Toronto Raptors,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,171,1,0,20010404,0,CLE,TOR
+Shot Chart Detail,20001077,378,164,Chris Childs,1610612761,Toronto Raptors,4,10,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,165,1,0,20010404,0,CLE,TOR
+Shot Chart Detail,20001077,388,164,Chris Childs,1610612761,Toronto Raptors,4,8,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,0,20010404,0,CLE,TOR
+Shot Chart Detail,20001090,161,164,Chris Childs,1610612761,Toronto Raptors,2,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-50,188,1,0,20010406,0,ORL,TOR
+Shot Chart Detail,20001090,211,164,Chris Childs,1610612761,Toronto Raptors,2,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,28,1,1,20010406,1,ORL,TOR
+Shot Chart Detail,20001090,332,164,Chris Childs,1610612761,Toronto Raptors,3,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-4,1,0,20010406,0,ORL,TOR
+Shot Chart Detail,20001090,364,164,Chris Childs,1610612761,Toronto Raptors,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-157,127,1,0,20010406,0,ORL,TOR
+Shot Chart Detail,20001090,395,164,Chris Childs,1610612761,Toronto Raptors,4,9,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,255,1,1,20010406,0,ORL,TOR
+Shot Chart Detail,20001090,433,164,Chris Childs,1610612761,Toronto Raptors,4,5,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,232,1,1,20010406,1,ORL,TOR
+Shot Chart Detail,20001090,446,164,Chris Childs,1610612761,Toronto Raptors,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-124,127,1,1,20010406,1,ORL,TOR
+Shot Chart Detail,20001090,475,164,Chris Childs,1610612761,Toronto Raptors,4,0,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010406,0,ORL,TOR
+Shot Chart Detail,20001106,109,164,Chris Childs,1610612761,Toronto Raptors,2,9,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,173,1,1,20010408,1,TOR,CHI
+Shot Chart Detail,20001106,112,164,Chris Childs,1610612761,Toronto Raptors,2,9,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,16,251,1,0,20010408,0,TOR,CHI
+Shot Chart Detail,20001106,365,164,Chris Childs,1610612761,Toronto Raptors,4,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010408,1,TOR,CHI
+Shot Chart Detail,20001106,368,164,Chris Childs,1610612761,Toronto Raptors,4,9,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,152,1,0,20010408,0,TOR,CHI
+Shot Chart Detail,20001106,468,164,Chris Childs,1610612761,Toronto Raptors,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,43,272,1,0,20010408,0,TOR,CHI
+Shot Chart Detail,20001128,233,164,Chris Childs,1610612761,Toronto Raptors,2,0,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,19,1,1,20010411,0,DET,TOR
+Shot Chart Detail,20001128,355,164,Chris Childs,1610612761,Toronto Raptors,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,178,34,1,0,20010411,0,DET,TOR
+Shot Chart Detail,20001141,155,164,Chris Childs,1610612761,Toronto Raptors,2,7,51,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,0,TOR,MIA
+Shot Chart Detail,20001141,157,164,Chris Childs,1610612761,Toronto Raptors,2,7,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,4,1,1,20010413,1,TOR,MIA
+Shot Chart Detail,20001141,194,164,Chris Childs,1610612761,Toronto Raptors,2,4,10,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,224,1,0,20010413,0,TOR,MIA
+Shot Chart Detail,20001141,406,164,Chris Childs,1610612761,Toronto Raptors,4,8,26,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,129,129,1,1,20010413,0,TOR,MIA
+Shot Chart Detail,20001141,470,164,Chris Childs,1610612761,Toronto Raptors,4,1,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-155,219,1,0,20010413,0,TOR,MIA
+Shot Chart Detail,20001150,170,164,Chris Childs,1610612761,Toronto Raptors,2,7,15,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,211,1,0,20010414,0,MIL,TOR
+Shot Chart Detail,20001173,145,164,Chris Childs,1610612761,Toronto Raptors,2,10,33,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,37,186,1,1,20010417,1,TOR,DET
+Shot Chart Detail,20001173,154,164,Chris Childs,1610612761,Toronto Raptors,2,9,41,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-170,97,1,1,20010417,1,TOR,DET
+Shot Chart Detail,20001173,176,164,Chris Childs,1610612761,Toronto Raptors,2,7,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-63,135,1,0,20010417,0,TOR,DET
+Shot Chart Detail,20001173,402,164,Chris Childs,1610612761,Toronto Raptors,4,11,16,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,47,1,0,20010417,0,TOR,DET
+Shot Chart Detail,20001173,428,164,Chris Childs,1610612761,Toronto Raptors,4,8,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,179,1,0,20010417,0,TOR,DET
+Shot Chart Detail,20001173,451,164,Chris Childs,1610612761,Toronto Raptors,4,6,27,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,85,179,1,1,20010417,1,TOR,DET
+Shot Chart Detail,20001173,504,164,Chris Childs,1610612761,Toronto Raptors,4,3,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,174,125,1,0,20010417,0,TOR,DET
+Shot Chart Detail,20001182,133,164,Chris Childs,1610612761,Toronto Raptors,2,9,18,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,39,257,1,1,20010418,0,WAS,TOR
+Shot Chart Detail,20001182,157,164,Chris Childs,1610612761,Toronto Raptors,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,205,158,1,0,20010418,0,WAS,TOR
+Shot Chart Detail,20001182,190,164,Chris Childs,1610612761,Toronto Raptors,2,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,197,30,1,0,20010418,0,WAS,TOR
+Shot Chart Detail,20001182,207,164,Chris Childs,1610612761,Toronto Raptors,2,1,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,9,1,1,20010418,0,WAS,TOR
+Shot Chart Detail,20001182,375,164,Chris Childs,1610612761,Toronto Raptors,4,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,179,1,1,20010418,1,WAS,TOR
+Shot Chart Detail,20001182,377,164,Chris Childs,1610612761,Toronto Raptors,4,8,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010418,0,WAS,TOR
+Shot Chart Detail,20001182,380,164,Chris Childs,1610612761,Toronto Raptors,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,39,272,1,0,20010418,0,WAS,TOR
+Shot Chart Detail,20001182,387,164,Chris Childs,1610612761,Toronto Raptors,4,6,54,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010418,1,WAS,TOR

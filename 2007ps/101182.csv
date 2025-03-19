@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040600111,477,101182,Donell Taylor,1610612764,Washington Wizards,4,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,38,155,1,0,20070422,CLE,WAS
-Shot Chart Detail,0040600111,491,101182,Donell Taylor,1610612764,Washington Wizards,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,102,1,0,20070422,CLE,WAS
-Shot Chart Detail,0040600114,152,101182,Donell Taylor,1610612764,Washington Wizards,2,7,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,53,1,0,20070430,WAS,CLE
-Shot Chart Detail,0040600114,187,101182,Donell Taylor,1610612764,Washington Wizards,2,4,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-8,1,1,20070430,WAS,CLE
-Shot Chart Detail,0040600114,197,101182,Donell Taylor,1610612764,Washington Wizards,2,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-67,148,1,0,20070430,WAS,CLE
-Shot Chart Detail,0040600114,364,101182,Donell Taylor,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,13,192,1,0,20070430,WAS,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40600111,477,101182,Donell Taylor,1610612764,Washington Wizards,4,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,38,155,1,0,20070422,0,CLE,WAS
+Shot Chart Detail,40600111,491,101182,Donell Taylor,1610612764,Washington Wizards,4,0,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-172,102,1,0,20070422,0,CLE,WAS
+Shot Chart Detail,40600114,152,101182,Donell Taylor,1610612764,Washington Wizards,2,7,6,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,53,1,0,20070430,0,WAS,CLE
+Shot Chart Detail,40600114,187,101182,Donell Taylor,1610612764,Washington Wizards,2,4,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-8,1,1,20070430,0,WAS,CLE
+Shot Chart Detail,40600114,197,101182,Donell Taylor,1610612764,Washington Wizards,2,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-67,148,1,0,20070430,0,WAS,CLE
+Shot Chart Detail,40600114,364,101182,Donell Taylor,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,13,192,1,0,20070430,0,WAS,CLE

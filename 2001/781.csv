@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000095,381,781,Will Perdue,1610612757,Portland Trail Blazers,4,2,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,4,1,0,20001111,POR,HOU
-Shot Chart Detail,0020000095,391,781,Will Perdue,1610612757,Portland Trail Blazers,4,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001111,POR,HOU
-Shot Chart Detail,0020000291,110,781,Will Perdue,1610612757,Portland Trail Blazers,1,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-4,1,0,20001209,POR,DET
-Shot Chart Detail,0020000291,359,781,Will Perdue,1610612757,Portland Trail Blazers,3,5,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,POR,DET
-Shot Chart Detail,0020000291,370,781,Will Perdue,1610612757,Portland Trail Blazers,3,4,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,POR,DET
-Shot Chart Detail,0020000426,395,781,Will Perdue,1610612757,Portland Trail Blazers,4,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,POR,VAN
-Shot Chart Detail,0020000441,409,781,Will Perdue,1610612757,Portland Trail Blazers,4,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010101,POR,CHH
-Shot Chart Detail,0020000458,454,781,Will Perdue,1610612757,Portland Trail Blazers,4,0,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-15,1,0,20010103,POR,IND
-Shot Chart Detail,0020000721,434,781,Will Perdue,1610612757,Portland Trail Blazers,4,0,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010213,POR,MIN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000095,381,781,Will Perdue,1610612757,Portland Trail Blazers,4,2,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,4,1,0,20001111,0,POR,HOU
+Shot Chart Detail,20000095,391,781,Will Perdue,1610612757,Portland Trail Blazers,4,1,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001111,0,POR,HOU
+Shot Chart Detail,20000291,110,781,Will Perdue,1610612757,Portland Trail Blazers,1,0,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,-4,1,0,20001209,0,POR,DET
+Shot Chart Detail,20000291,359,781,Will Perdue,1610612757,Portland Trail Blazers,3,5,13,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,0,POR,DET
+Shot Chart Detail,20000291,370,781,Will Perdue,1610612757,Portland Trail Blazers,3,4,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,1,POR,DET
+Shot Chart Detail,20000426,395,781,Will Perdue,1610612757,Portland Trail Blazers,4,1,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,0,POR,VAN
+Shot Chart Detail,20000441,409,781,Will Perdue,1610612757,Portland Trail Blazers,4,4,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010101,0,POR,CHH
+Shot Chart Detail,20000458,454,781,Will Perdue,1610612757,Portland Trail Blazers,4,0,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-130,-15,1,0,20010103,0,POR,IND
+Shot Chart Detail,20000721,434,781,Will Perdue,1610612757,Portland Trail Blazers,4,0,32,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010213,1,POR,MIN

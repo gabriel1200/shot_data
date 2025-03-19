@@ -1,435 +1,218 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020400032,275,1000,Shandon Anderson,1610612752,New York Knicks,3,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-31,1,0,20041106,NYK,BOS
-Shot Chart Detail,0020400032,437,1000,Shandon Anderson,1610612752,New York Knicks,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,0,20041106,NYK,BOS
-Shot Chart Detail,0020400093,228,1000,Shandon Anderson,1610612748,Miami Heat,2,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041114,MIA,MIL
-Shot Chart Detail,0020400093,402,1000,Shandon Anderson,1610612748,Miami Heat,4,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-16,1,0,20041114,MIA,MIL
-Shot Chart Detail,0020400101,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041116,MIN,MIA
-Shot Chart Detail,0020400101,179,1000,Shandon Anderson,1610612748,Miami Heat,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-33,143,1,0,20041116,MIN,MIA
-Shot Chart Detail,0020400101,211,1000,Shandon Anderson,1610612748,Miami Heat,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,8,1,0,20041116,MIN,MIA
-Shot Chart Detail,0020400112,109,1000,Shandon Anderson,1610612748,Miami Heat,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,12,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,148,1000,Shandon Anderson,1610612748,Miami Heat,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,1,20041117,MIL,MIA
-Shot Chart Detail,0020400112,151,1000,Shandon Anderson,1610612748,Miami Heat,2,7,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,188,1000,Shandon Anderson,1610612748,Miami Heat,2,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,202,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,195,1000,Shandon Anderson,1610612748,Miami Heat,2,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,MIL,MIA
-Shot Chart Detail,0020400112,336,1000,Shandon Anderson,1610612748,Miami Heat,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,35,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400122,194,1000,Shandon Anderson,1610612748,Miami Heat,2,4,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400122,249,1000,Shandon Anderson,1610612748,Miami Heat,2,1,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400122,438,1000,Shandon Anderson,1610612748,Miami Heat,4,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,10,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400122,509,1000,Shandon Anderson,1610612748,Miami Heat,4,2,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,174,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400139,155,1000,Shandon Anderson,1610612748,Miami Heat,2,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,84,110,1,0,20041121,MIA,PHI
-Shot Chart Detail,0020400139,391,1000,Shandon Anderson,1610612748,Miami Heat,4,8,25,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041121,MIA,PHI
-Shot Chart Detail,0020400154,16,1000,Shandon Anderson,1610612748,Miami Heat,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,145,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,33,1000,Shandon Anderson,1610612748,Miami Heat,1,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,125,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,38,1000,Shandon Anderson,1610612748,Miami Heat,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-3,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,42,1000,Shandon Anderson,1610612748,Miami Heat,1,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,153,1,0,20041123,MIA,POR
-Shot Chart Detail,0020400154,131,1000,Shandon Anderson,1610612748,Miami Heat,2,9,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,46,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,163,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,346,1000,Shandon Anderson,1610612748,Miami Heat,3,1,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,81,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,365,1000,Shandon Anderson,1610612748,Miami Heat,4,11,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,69,1,0,20041123,MIA,POR
-Shot Chart Detail,0020400164,107,1000,Shandon Anderson,1610612748,Miami Heat,1,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,26,1,0,20041124,ATL,MIA
-Shot Chart Detail,0020400164,334,1000,Shandon Anderson,1610612748,Miami Heat,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-9,1,1,20041124,ATL,MIA
-Shot Chart Detail,0020400164,339,1000,Shandon Anderson,1610612748,Miami Heat,3,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-5,1,0,20041124,ATL,MIA
-Shot Chart Detail,0020400175,171,1000,Shandon Anderson,1610612748,Miami Heat,2,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-8,1,0,20041126,DET,MIA
-Shot Chart Detail,0020400194,344,1000,Shandon Anderson,1610612748,Miami Heat,3,6,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,20,1,1,20041128,MIA,BOS
-Shot Chart Detail,0020400204,306,1000,Shandon Anderson,1610612748,Miami Heat,3,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041130,MIA,TOR
-Shot Chart Detail,0020400204,312,1000,Shandon Anderson,1610612748,Miami Heat,3,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,140,1,0,20041130,MIA,TOR
-Shot Chart Detail,0020400229,454,1000,Shandon Anderson,1610612748,Miami Heat,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-9,1,0,20041203,CHI,MIA
-Shot Chart Detail,0020400253,221,1000,Shandon Anderson,1610612748,Miami Heat,2,0,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,12,1,0,20041206,UTA,MIA
-Shot Chart Detail,0020400302,405,1000,Shandon Anderson,1610612748,Miami Heat,4,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,MIA,WAS
-Shot Chart Detail,0020400363,148,1000,Shandon Anderson,1610612748,Miami Heat,2,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041221,MIA,BOS
-Shot Chart Detail,0020400363,156,1000,Shandon Anderson,1610612748,Miami Heat,2,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,43,1,0,20041221,MIA,BOS
-Shot Chart Detail,0020400363,169,1000,Shandon Anderson,1610612748,Miami Heat,2,6,58,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041221,MIA,BOS
-Shot Chart Detail,0020400363,356,1000,Shandon Anderson,1610612748,Miami Heat,4,11,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,77,1,0,20041221,MIA,BOS
-Shot Chart Detail,0020400382,320,1000,Shandon Anderson,1610612748,Miami Heat,3,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,0,20041225,LAL,MIA
-Shot Chart Detail,0020400382,337,1000,Shandon Anderson,1610612748,Miami Heat,4,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,0,1,0,20041225,LAL,MIA
-Shot Chart Detail,0020400428,477,1000,Shandon Anderson,1610612748,Miami Heat,4,1,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,49,1,0,20050101,MIA,CHA
-Shot Chart Detail,0020400443,146,1000,Shandon Anderson,1610612748,Miami Heat,2,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050103,MIA,SEA
-Shot Chart Detail,0020400443,158,1000,Shandon Anderson,1610612748,Miami Heat,2,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,151,1,0,20050103,MIA,SEA
-Shot Chart Detail,0020400443,385,1000,Shandon Anderson,1610612748,Miami Heat,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-184,164,1,0,20050103,MIA,SEA
-Shot Chart Detail,0020400458,131,1000,Shandon Anderson,1610612748,Miami Heat,2,9,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400458,132,1000,Shandon Anderson,1610612748,Miami Heat,2,9,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,164,1000,Shandon Anderson,1610612748,Miami Heat,2,7,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,211,1000,Shandon Anderson,1610612748,Miami Heat,2,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,311,1000,Shandon Anderson,1610612748,Miami Heat,3,2,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,361,1000,Shandon Anderson,1610612748,Miami Heat,4,9,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,69,0,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400458,382,1000,Shandon Anderson,1610612748,Miami Heat,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,120,114,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400458,419,1000,Shandon Anderson,1610612748,Miami Heat,4,4,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-11,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400490,116,1000,Shandon Anderson,1610612748,Miami Heat,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,76,1,0,20050109,SEA,MIA
-Shot Chart Detail,0020400490,163,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,46,1,1,20050109,SEA,MIA
-Shot Chart Detail,0020400502,124,1000,Shandon Anderson,1610612748,Miami Heat,1,0,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,10,1,0,20050111,PHX,MIA
-Shot Chart Detail,0020400502,309,1000,Shandon Anderson,1610612748,Miami Heat,3,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,102,72,1,0,20050111,PHX,MIA
-Shot Chart Detail,0020400502,358,1000,Shandon Anderson,1610612748,Miami Heat,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050111,PHX,MIA
-Shot Chart Detail,0020400502,461,1000,Shandon Anderson,1610612748,Miami Heat,4,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050111,PHX,MIA
-Shot Chart Detail,0020400515,41,1000,Shandon Anderson,1610612748,Miami Heat,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,5,1,1,20050112,GSW,MIA
-Shot Chart Detail,0020400515,75,1000,Shandon Anderson,1610612748,Miami Heat,1,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-19,1,1,20050112,GSW,MIA
-Shot Chart Detail,0020400515,222,1000,Shandon Anderson,1610612748,Miami Heat,2,1,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,0,1,1,20050112,GSW,MIA
-Shot Chart Detail,0020400515,225,1000,Shandon Anderson,1610612748,Miami Heat,2,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-21,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400515,292,1000,Shandon Anderson,1610612748,Miami Heat,3,5,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400528,24,1000,Shandon Anderson,1610612748,Miami Heat,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,179,1000,Shandon Anderson,1610612748,Miami Heat,2,6,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,194,1000,Shandon Anderson,1610612748,Miami Heat,2,6,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050114,LAC,MIA
-Shot Chart Detail,0020400528,229,1000,Shandon Anderson,1610612748,Miami Heat,2,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,252,1000,Shandon Anderson,1610612748,Miami Heat,3,11,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050114,LAC,MIA
-Shot Chart Detail,0020400528,263,1000,Shandon Anderson,1610612748,Miami Heat,3,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,20,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,287,1000,Shandon Anderson,1610612748,Miami Heat,3,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400595,150,1000,Shandon Anderson,1610612748,Miami Heat,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400595,374,1000,Shandon Anderson,1610612748,Miami Heat,3,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400595,377,1000,Shandon Anderson,1610612748,Miami Heat,3,1,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-16,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400595,399,1000,Shandon Anderson,1610612748,Miami Heat,4,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400601,287,1000,Shandon Anderson,1610612748,Miami Heat,3,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050123,MIA,NOH
-Shot Chart Detail,0020400601,376,1000,Shandon Anderson,1610612748,Miami Heat,4,3,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-9,1,0,20050123,MIA,NOH
-Shot Chart Detail,0020400601,389,1000,Shandon Anderson,1610612748,Miami Heat,4,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,48,1,0,20050123,MIA,NOH
-Shot Chart Detail,0020400613,152,1000,Shandon Anderson,1610612748,Miami Heat,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,72,1,0,20050126,TOR,MIA
-Shot Chart Detail,0020400613,408,1000,Shandon Anderson,1610612748,Miami Heat,4,11,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050126,TOR,MIA
-Shot Chart Detail,0020400613,436,1000,Shandon Anderson,1610612748,Miami Heat,4,8,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-8,1,0,20050126,TOR,MIA
-Shot Chart Detail,0020400631,24,1000,Shandon Anderson,1610612748,Miami Heat,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,2,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,100,1000,Shandon Anderson,1610612748,Miami Heat,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,5,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400631,102,1000,Shandon Anderson,1610612748,Miami Heat,1,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,211,1000,Shandon Anderson,1610612748,Miami Heat,2,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400631,224,1000,Shandon Anderson,1610612748,Miami Heat,2,1,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,48,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,264,1000,Shandon Anderson,1610612748,Miami Heat,3,10,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,56,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,275,1000,Shandon Anderson,1610612748,Miami Heat,3,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,5,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,366,1000,Shandon Anderson,1610612748,Miami Heat,3,0,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,378,1000,Shandon Anderson,1610612748,Miami Heat,4,10,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,122,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,469,1000,Shandon Anderson,1610612748,Miami Heat,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-9,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400631,482,1000,Shandon Anderson,1610612748,Miami Heat,4,0,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400648,87,1000,Shandon Anderson,1610612748,Miami Heat,1,1,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,49,1,0,20050130,MIA,HOU
-Shot Chart Detail,0020400648,145,1000,Shandon Anderson,1610612748,Miami Heat,2,7,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,46,68,1,1,20050130,MIA,HOU
-Shot Chart Detail,0020400664,140,1000,Shandon Anderson,1610612748,Miami Heat,2,10,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,36,1,0,20050201,DAL,MIA
-Shot Chart Detail,0020400677,164,1000,Shandon Anderson,1610612748,Miami Heat,2,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,172,105,1,0,20050203,MIA,CLE
-Shot Chart Detail,0020400723,175,1000,Shandon Anderson,1610612748,Miami Heat,2,2,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050209,NYK,MIA
-Shot Chart Detail,0020400723,335,1000,Shandon Anderson,1610612748,Miami Heat,4,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050209,NYK,MIA
-Shot Chart Detail,0020400732,334,1000,Shandon Anderson,1610612748,Miami Heat,3,2,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,CHA,MIA
-Shot Chart Detail,0020400732,347,1000,Shandon Anderson,1610612748,Miami Heat,3,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,CHA,MIA
-Shot Chart Detail,0020400732,430,1000,Shandon Anderson,1610612748,Miami Heat,4,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,CHA,MIA
-Shot Chart Detail,0020400745,197,1000,Shandon Anderson,1610612748,Miami Heat,2,3,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,72,1,1,20050213,MIA,SAS
-Shot Chart Detail,0020400745,215,1000,Shandon Anderson,1610612748,Miami Heat,2,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050213,MIA,SAS
-Shot Chart Detail,0020400777,100,1000,Shandon Anderson,1610612748,Miami Heat,2,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,90,135,1,0,20050216,MIA,LAC
-Shot Chart Detail,0020400777,121,1000,Shandon Anderson,1610612748,Miami Heat,2,9,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050216,MIA,LAC
-Shot Chart Detail,0020400777,171,1000,Shandon Anderson,1610612748,Miami Heat,2,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,15,1,1,20050216,MIA,LAC
-Shot Chart Detail,0020400777,290,1000,Shandon Anderson,1610612748,Miami Heat,3,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050216,MIA,LAC
-Shot Chart Detail,0020400777,304,1000,Shandon Anderson,1610612748,Miami Heat,3,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,109,1,0,20050216,MIA,LAC
-Shot Chart Detail,0020400777,369,1000,Shandon Anderson,1610612748,Miami Heat,4,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,56,155,1,1,20050216,MIA,LAC
-Shot Chart Detail,0020400786,153,1000,Shandon Anderson,1610612748,Miami Heat,2,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,125,1,0,20050222,CHI,MIA
-Shot Chart Detail,0020400786,372,1000,Shandon Anderson,1610612748,Miami Heat,4,10,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20050222,CHI,MIA
-Shot Chart Detail,0020400786,445,1000,Shandon Anderson,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,51,1,1,20050222,CHI,MIA
-Shot Chart Detail,0020400786,453,1000,Shandon Anderson,1610612748,Miami Heat,4,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,178,1,1,20050222,CHI,MIA
-Shot Chart Detail,0020400786,500,1000,Shandon Anderson,1610612748,Miami Heat,5,1,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20050222,CHI,MIA
-Shot Chart Detail,0020400792,258,1000,Shandon Anderson,1610612748,Miami Heat,3,7,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20050223,IND,MIA
-Shot Chart Detail,0020400792,263,1000,Shandon Anderson,1610612748,Miami Heat,3,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,46,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400792,275,1000,Shandon Anderson,1610612748,Miami Heat,3,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,71,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400792,299,1000,Shandon Anderson,1610612748,Miami Heat,3,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400792,409,1000,Shandon Anderson,1610612748,Miami Heat,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,-5,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400813,94,1000,Shandon Anderson,1610612748,Miami Heat,1,1,40,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050226,MIA,ORL
-Shot Chart Detail,0020400813,96,1000,Shandon Anderson,1610612748,Miami Heat,1,1,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050226,MIA,ORL
-Shot Chart Detail,0020400813,108,1000,Shandon Anderson,1610612748,Miami Heat,1,0,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050226,MIA,ORL
-Shot Chart Detail,0020400813,242,1000,Shandon Anderson,1610612748,Miami Heat,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,209,-6,1,0,20050226,MIA,ORL
-Shot Chart Detail,0020400825,122,1000,Shandon Anderson,1610612748,Miami Heat,2,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,12,1,1,20050227,ORL,MIA
-Shot Chart Detail,0020400851,119,1000,Shandon Anderson,1610612748,Miami Heat,2,10,34,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050303,NJN,MIA
-Shot Chart Detail,0020400851,355,1000,Shandon Anderson,1610612748,Miami Heat,3,0,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050303,NJN,MIA
-Shot Chart Detail,0020400851,401,1000,Shandon Anderson,1610612748,Miami Heat,4,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050303,NJN,MIA
-Shot Chart Detail,0020400851,455,1000,Shandon Anderson,1610612748,Miami Heat,4,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,117,1,0,20050303,NJN,MIA
-Shot Chart Detail,0020400851,476,1000,Shandon Anderson,1610612748,Miami Heat,4,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050303,NJN,MIA
-Shot Chart Detail,0020400858,113,1000,Shandon Anderson,1610612748,Miami Heat,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,163,118,1,0,20050304,MIA,SAC
-Shot Chart Detail,0020400858,190,1000,Shandon Anderson,1610612748,Miami Heat,2,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050304,MIA,SAC
-Shot Chart Detail,0020400858,192,1000,Shandon Anderson,1610612748,Miami Heat,2,3,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,46,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400858,294,1000,Shandon Anderson,1610612748,Miami Heat,3,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,49,1,0,20050304,MIA,SAC
-Shot Chart Detail,0020400858,341,1000,Shandon Anderson,1610612748,Miami Heat,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,38,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400858,367,1000,Shandon Anderson,1610612748,Miami Heat,4,7,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400858,384,1000,Shandon Anderson,1610612748,Miami Heat,4,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,5,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400878,149,1000,Shandon Anderson,1610612748,Miami Heat,2,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20050306,CLE,MIA
-Shot Chart Detail,0020400878,176,1000,Shandon Anderson,1610612748,Miami Heat,2,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20050306,CLE,MIA
-Shot Chart Detail,0020400878,389,1000,Shandon Anderson,1610612748,Miami Heat,4,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,1,20050306,CLE,MIA
-Shot Chart Detail,0020400878,418,1000,Shandon Anderson,1610612748,Miami Heat,4,7,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,110,1,0,20050306,CLE,MIA
-Shot Chart Detail,0020400878,428,1000,Shandon Anderson,1610612748,Miami Heat,4,6,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,2,1,0,20050306,CLE,MIA
-Shot Chart Detail,0020400881,55,1000,Shandon Anderson,1610612748,Miami Heat,1,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,135,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,82,1000,Shandon Anderson,1610612748,Miami Heat,1,2,15,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050307,MIA,PHI
-Shot Chart Detail,0020400881,119,1000,Shandon Anderson,1610612748,Miami Heat,2,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,130,1000,Shandon Anderson,1610612748,Miami Heat,2,8,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,2,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,154,1000,Shandon Anderson,1610612748,Miami Heat,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,117,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,270,1000,Shandon Anderson,1610612748,Miami Heat,3,8,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050307,MIA,PHI
-Shot Chart Detail,0020400881,390,1000,Shandon Anderson,1610612748,Miami Heat,4,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-41,158,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400902,140,1000,Shandon Anderson,1610612748,Miami Heat,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-52,146,1,0,20050310,MIA,MIN
-Shot Chart Detail,0020400902,147,1000,Shandon Anderson,1610612748,Miami Heat,2,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050310,MIA,MIN
-Shot Chart Detail,0020400902,174,1000,Shandon Anderson,1610612748,Miami Heat,2,4,7,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,59,1,0,20050310,MIA,MIN
-Shot Chart Detail,0020400902,396,1000,Shandon Anderson,1610612748,Miami Heat,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-3,1,0,20050310,MIA,MIN
-Shot Chart Detail,0020400902,411,1000,Shandon Anderson,1610612748,Miami Heat,4,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050310,MIA,MIN
-Shot Chart Detail,0020400914,117,1000,Shandon Anderson,1610612748,Miami Heat,2,10,56,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,26,1,0,20050312,MIA,NJN
-Shot Chart Detail,0020400914,247,1000,Shandon Anderson,1610612748,Miami Heat,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,240,1,1,20050312,MIA,NJN
-Shot Chart Detail,0020400914,347,1000,Shandon Anderson,1610612748,Miami Heat,4,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,127,1,1,20050312,MIA,NJN
-Shot Chart Detail,0020400914,394,1000,Shandon Anderson,1610612748,Miami Heat,4,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050312,MIA,NJN
-Shot Chart Detail,0020400933,154,1000,Shandon Anderson,1610612748,Miami Heat,2,8,16,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050314,MIA,MIL
-Shot Chart Detail,0020400933,182,1000,Shandon Anderson,1610612748,Miami Heat,2,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050314,MIA,MIL
-Shot Chart Detail,0020400933,216,1000,Shandon Anderson,1610612748,Miami Heat,2,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,161,120,1,0,20050314,MIA,MIL
-Shot Chart Detail,0020400933,392,1000,Shandon Anderson,1610612748,Miami Heat,4,7,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,22,1,0,20050314,MIA,MIL
-Shot Chart Detail,0020400939,147,1000,Shandon Anderson,1610612748,Miami Heat,2,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,71,1,1,20050315,NYK,MIA
-Shot Chart Detail,0020400939,338,1000,Shandon Anderson,1610612748,Miami Heat,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,12,1,0,20050315,NYK,MIA
-Shot Chart Detail,0020400939,376,1000,Shandon Anderson,1610612748,Miami Heat,4,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050315,NYK,MIA
-Shot Chart Detail,0020400954,177,1000,Shandon Anderson,1610612748,Miami Heat,2,7,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,1,20050317,MIA,LAL
-Shot Chart Detail,0020400954,202,1000,Shandon Anderson,1610612748,Miami Heat,2,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050317,MIA,LAL
-Shot Chart Detail,0020400972,88,1000,Shandon Anderson,1610612748,Miami Heat,1,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,123,1000,Shandon Anderson,1610612748,Miami Heat,2,10,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,165,1000,Shandon Anderson,1610612748,Miami Heat,2,6,13,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,51,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,204,1000,Shandon Anderson,1610612748,Miami Heat,2,1,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,442,1000,Shandon Anderson,1610612748,Miami Heat,4,4,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,18,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400995,101,1000,Shandon Anderson,1610612748,Miami Heat,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,22,1,0,20050322,HOU,MIA
-Shot Chart Detail,0020400995,151,1000,Shandon Anderson,1610612748,Miami Heat,2,7,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,43,1,0,20050322,HOU,MIA
-Shot Chart Detail,0020400995,418,1000,Shandon Anderson,1610612748,Miami Heat,4,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050322,HOU,MIA
-Shot Chart Detail,0020400995,420,1000,Shandon Anderson,1610612748,Miami Heat,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050322,HOU,MIA
-Shot Chart Detail,0020401015,118,1000,Shandon Anderson,1610612748,Miami Heat,1,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,145,1000,Shandon Anderson,1610612748,Miami Heat,2,8,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,154,1000,Shandon Anderson,1610612748,Miami Heat,2,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,175,1000,Shandon Anderson,1610612748,Miami Heat,2,5,15,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,0,20050325,MIA,PHX
-Shot Chart Detail,0020401015,335,1000,Shandon Anderson,1610612748,Miami Heat,3,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,461,1000,Shandon Anderson,1610612748,Miami Heat,4,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,45,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,468,1000,Shandon Anderson,1610612748,Miami Heat,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,15,1,0,20050325,MIA,PHX
-Shot Chart Detail,0020401049,98,1000,Shandon Anderson,1610612748,Miami Heat,1,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,51,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,113,1000,Shandon Anderson,1610612748,Miami Heat,2,11,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,321,1000,Shandon Anderson,1610612748,Miami Heat,3,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,61,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,324,1000,Shandon Anderson,1610612748,Miami Heat,3,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,332,1000,Shandon Anderson,1610612748,Miami Heat,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050329,MIA,TOR
-Shot Chart Detail,0020401049,478,1000,Shandon Anderson,1610612748,Miami Heat,4,0,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,143,1,0,20050329,MIA,TOR
-Shot Chart Detail,0020401063,190,1000,Shandon Anderson,1610612748,Miami Heat,2,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20050331,IND,MIA
-Shot Chart Detail,0020401063,255,1000,Shandon Anderson,1610612748,Miami Heat,3,7,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,22,1,1,20050331,IND,MIA
-Shot Chart Detail,0020401080,290,1000,Shandon Anderson,1610612748,Miami Heat,3,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050402,NOH,MIA
-Shot Chart Detail,0020401080,350,1000,Shandon Anderson,1610612748,Miami Heat,4,9,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-6,1,0,20050402,NOH,MIA
-Shot Chart Detail,0020401080,368,1000,Shandon Anderson,1610612748,Miami Heat,4,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,10,1,0,20050402,NOH,MIA
-Shot Chart Detail,0020401080,412,1000,Shandon Anderson,1610612748,Miami Heat,4,2,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050402,NOH,MIA
-Shot Chart Detail,0020401099,323,1000,Shandon Anderson,1610612748,Miami Heat,3,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,155,1,1,20050405,MIA,CHI
-Shot Chart Detail,0020401099,336,1000,Shandon Anderson,1610612748,Miami Heat,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050405,MIA,CHI
-Shot Chart Detail,0020401124,324,1000,Shandon Anderson,1610612748,Miami Heat,4,10,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,MEM,MIA
-Shot Chart Detail,0020401124,350,1000,Shandon Anderson,1610612748,Miami Heat,4,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,MEM,MIA
-Shot Chart Detail,0020401124,352,1000,Shandon Anderson,1610612748,Miami Heat,4,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,MEM,MIA
-Shot Chart Detail,0020401140,123,1000,Shandon Anderson,1610612748,Miami Heat,2,10,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401140,146,1000,Shandon Anderson,1610612748,Miami Heat,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-8,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401140,347,1000,Shandon Anderson,1610612748,Miami Heat,3,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-184,100,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401140,360,1000,Shandon Anderson,1610612748,Miami Heat,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,204,138,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401170,178,1000,Shandon Anderson,1610612748,Miami Heat,2,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-9,1,0,20050414,PHI,MIA
-Shot Chart Detail,0020401170,377,1000,Shandon Anderson,1610612748,Miami Heat,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,82,1,0,20050414,PHI,MIA
-Shot Chart Detail,0020401170,403,1000,Shandon Anderson,1610612748,Miami Heat,4,6,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,0,1,0,20050414,PHI,MIA
-Shot Chart Detail,0020401175,64,1000,Shandon Anderson,1610612748,Miami Heat,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,2,1,0,20050415,BOS,MIA
-Shot Chart Detail,0020401175,70,1000,Shandon Anderson,1610612748,Miami Heat,1,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20050415,BOS,MIA
-Shot Chart Detail,0020401193,335,1000,Shandon Anderson,1610612748,Miami Heat,3,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,115,1,0,20050417,MIA,IND
-Shot Chart Detail,0020401212,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050419,MIA,CHA
-Shot Chart Detail,0020401212,388,1000,Shandon Anderson,1610612748,Miami Heat,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,-3,1,0,20050419,MIA,CHA
-Shot Chart Detail,0020401221,26,1000,Shandon Anderson,1610612748,Miami Heat,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,17,1,1,20050420,ORL,MIA
-Shot Chart Detail,0020401221,223,1000,Shandon Anderson,1610612748,Miami Heat,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,45,1,1,20050420,ORL,MIA
-Shot Chart Detail,0020401221,235,1000,Shandon Anderson,1610612748,Miami Heat,3,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,23,1,0,20050420,ORL,MIA
-Shot Chart Detail,0020400032,275,1000,Shandon Anderson,1610612752,New York Knicks,3,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-31,1,0,20041106,NYK,BOS
-Shot Chart Detail,0020400032,437,1000,Shandon Anderson,1610612752,New York Knicks,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,0,20041106,NYK,BOS
-Shot Chart Detail,0020400093,228,1000,Shandon Anderson,1610612748,Miami Heat,2,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041114,MIA,MIL
-Shot Chart Detail,0020400093,402,1000,Shandon Anderson,1610612748,Miami Heat,4,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-16,1,0,20041114,MIA,MIL
-Shot Chart Detail,0020400101,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041116,MIN,MIA
-Shot Chart Detail,0020400101,179,1000,Shandon Anderson,1610612748,Miami Heat,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-33,143,1,0,20041116,MIN,MIA
-Shot Chart Detail,0020400101,211,1000,Shandon Anderson,1610612748,Miami Heat,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,8,1,0,20041116,MIN,MIA
-Shot Chart Detail,0020400112,109,1000,Shandon Anderson,1610612748,Miami Heat,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,12,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,148,1000,Shandon Anderson,1610612748,Miami Heat,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,1,20041117,MIL,MIA
-Shot Chart Detail,0020400112,151,1000,Shandon Anderson,1610612748,Miami Heat,2,7,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,188,1000,Shandon Anderson,1610612748,Miami Heat,2,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,202,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,195,1000,Shandon Anderson,1610612748,Miami Heat,2,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,MIL,MIA
-Shot Chart Detail,0020400112,336,1000,Shandon Anderson,1610612748,Miami Heat,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,35,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400122,194,1000,Shandon Anderson,1610612748,Miami Heat,2,4,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400122,249,1000,Shandon Anderson,1610612748,Miami Heat,2,1,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400122,438,1000,Shandon Anderson,1610612748,Miami Heat,4,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,10,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400122,509,1000,Shandon Anderson,1610612748,Miami Heat,4,2,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,174,1,0,20041119,MIA,UTA
-Shot Chart Detail,0020400139,155,1000,Shandon Anderson,1610612748,Miami Heat,2,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,84,110,1,0,20041121,MIA,PHI
-Shot Chart Detail,0020400139,391,1000,Shandon Anderson,1610612748,Miami Heat,4,8,25,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041121,MIA,PHI
-Shot Chart Detail,0020400154,16,1000,Shandon Anderson,1610612748,Miami Heat,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,145,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,33,1000,Shandon Anderson,1610612748,Miami Heat,1,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,125,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,38,1000,Shandon Anderson,1610612748,Miami Heat,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-3,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,42,1000,Shandon Anderson,1610612748,Miami Heat,1,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,153,1,0,20041123,MIA,POR
-Shot Chart Detail,0020400154,131,1000,Shandon Anderson,1610612748,Miami Heat,2,9,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,46,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,163,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,346,1000,Shandon Anderson,1610612748,Miami Heat,3,1,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,81,1,1,20041123,MIA,POR
-Shot Chart Detail,0020400154,365,1000,Shandon Anderson,1610612748,Miami Heat,4,11,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,69,1,0,20041123,MIA,POR
-Shot Chart Detail,0020400164,107,1000,Shandon Anderson,1610612748,Miami Heat,1,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,26,1,0,20041124,ATL,MIA
-Shot Chart Detail,0020400164,334,1000,Shandon Anderson,1610612748,Miami Heat,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-9,1,1,20041124,ATL,MIA
-Shot Chart Detail,0020400164,339,1000,Shandon Anderson,1610612748,Miami Heat,3,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-5,1,0,20041124,ATL,MIA
-Shot Chart Detail,0020400175,171,1000,Shandon Anderson,1610612748,Miami Heat,2,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-8,1,0,20041126,DET,MIA
-Shot Chart Detail,0020400194,344,1000,Shandon Anderson,1610612748,Miami Heat,3,6,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,20,1,1,20041128,MIA,BOS
-Shot Chart Detail,0020400204,306,1000,Shandon Anderson,1610612748,Miami Heat,3,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041130,MIA,TOR
-Shot Chart Detail,0020400204,312,1000,Shandon Anderson,1610612748,Miami Heat,3,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,140,1,0,20041130,MIA,TOR
-Shot Chart Detail,0020400229,454,1000,Shandon Anderson,1610612748,Miami Heat,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-9,1,0,20041203,CHI,MIA
-Shot Chart Detail,0020400253,221,1000,Shandon Anderson,1610612748,Miami Heat,2,0,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,12,1,0,20041206,UTA,MIA
-Shot Chart Detail,0020400302,405,1000,Shandon Anderson,1610612748,Miami Heat,4,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,MIA,WAS
-Shot Chart Detail,0020400363,148,1000,Shandon Anderson,1610612748,Miami Heat,2,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041221,MIA,BOS
-Shot Chart Detail,0020400363,156,1000,Shandon Anderson,1610612748,Miami Heat,2,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,43,1,0,20041221,MIA,BOS
-Shot Chart Detail,0020400363,169,1000,Shandon Anderson,1610612748,Miami Heat,2,6,58,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041221,MIA,BOS
-Shot Chart Detail,0020400363,356,1000,Shandon Anderson,1610612748,Miami Heat,4,11,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,77,1,0,20041221,MIA,BOS
-Shot Chart Detail,0020400382,320,1000,Shandon Anderson,1610612748,Miami Heat,3,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,0,20041225,LAL,MIA
-Shot Chart Detail,0020400382,337,1000,Shandon Anderson,1610612748,Miami Heat,4,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,0,1,0,20041225,LAL,MIA
-Shot Chart Detail,0020400428,477,1000,Shandon Anderson,1610612748,Miami Heat,4,1,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,49,1,0,20050101,MIA,CHA
-Shot Chart Detail,0020400443,146,1000,Shandon Anderson,1610612748,Miami Heat,2,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050103,MIA,SEA
-Shot Chart Detail,0020400443,158,1000,Shandon Anderson,1610612748,Miami Heat,2,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,151,1,0,20050103,MIA,SEA
-Shot Chart Detail,0020400443,385,1000,Shandon Anderson,1610612748,Miami Heat,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-184,164,1,0,20050103,MIA,SEA
-Shot Chart Detail,0020400458,131,1000,Shandon Anderson,1610612748,Miami Heat,2,9,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400458,132,1000,Shandon Anderson,1610612748,Miami Heat,2,9,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,164,1000,Shandon Anderson,1610612748,Miami Heat,2,7,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,211,1000,Shandon Anderson,1610612748,Miami Heat,2,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,311,1000,Shandon Anderson,1610612748,Miami Heat,3,2,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,MIA,NYK
-Shot Chart Detail,0020400458,361,1000,Shandon Anderson,1610612748,Miami Heat,4,9,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,69,0,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400458,382,1000,Shandon Anderson,1610612748,Miami Heat,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,120,114,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400458,419,1000,Shandon Anderson,1610612748,Miami Heat,4,4,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-11,1,0,20050105,MIA,NYK
-Shot Chart Detail,0020400490,116,1000,Shandon Anderson,1610612748,Miami Heat,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,76,1,0,20050109,SEA,MIA
-Shot Chart Detail,0020400490,163,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,46,1,1,20050109,SEA,MIA
-Shot Chart Detail,0020400502,124,1000,Shandon Anderson,1610612748,Miami Heat,1,0,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,10,1,0,20050111,PHX,MIA
-Shot Chart Detail,0020400502,309,1000,Shandon Anderson,1610612748,Miami Heat,3,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,102,72,1,0,20050111,PHX,MIA
-Shot Chart Detail,0020400502,358,1000,Shandon Anderson,1610612748,Miami Heat,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050111,PHX,MIA
-Shot Chart Detail,0020400502,461,1000,Shandon Anderson,1610612748,Miami Heat,4,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050111,PHX,MIA
-Shot Chart Detail,0020400515,41,1000,Shandon Anderson,1610612748,Miami Heat,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,5,1,1,20050112,GSW,MIA
-Shot Chart Detail,0020400515,75,1000,Shandon Anderson,1610612748,Miami Heat,1,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-19,1,1,20050112,GSW,MIA
-Shot Chart Detail,0020400515,222,1000,Shandon Anderson,1610612748,Miami Heat,2,1,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,0,1,1,20050112,GSW,MIA
-Shot Chart Detail,0020400515,225,1000,Shandon Anderson,1610612748,Miami Heat,2,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-21,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400515,292,1000,Shandon Anderson,1610612748,Miami Heat,3,5,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400528,24,1000,Shandon Anderson,1610612748,Miami Heat,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,179,1000,Shandon Anderson,1610612748,Miami Heat,2,6,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,194,1000,Shandon Anderson,1610612748,Miami Heat,2,6,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050114,LAC,MIA
-Shot Chart Detail,0020400528,229,1000,Shandon Anderson,1610612748,Miami Heat,2,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,252,1000,Shandon Anderson,1610612748,Miami Heat,3,11,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050114,LAC,MIA
-Shot Chart Detail,0020400528,263,1000,Shandon Anderson,1610612748,Miami Heat,3,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,20,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400528,287,1000,Shandon Anderson,1610612748,Miami Heat,3,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,LAC,MIA
-Shot Chart Detail,0020400595,150,1000,Shandon Anderson,1610612748,Miami Heat,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400595,374,1000,Shandon Anderson,1610612748,Miami Heat,3,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400595,377,1000,Shandon Anderson,1610612748,Miami Heat,3,1,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-16,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400595,399,1000,Shandon Anderson,1610612748,Miami Heat,4,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,PHI,MIA
-Shot Chart Detail,0020400601,287,1000,Shandon Anderson,1610612748,Miami Heat,3,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050123,MIA,NOH
-Shot Chart Detail,0020400601,376,1000,Shandon Anderson,1610612748,Miami Heat,4,3,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-9,1,0,20050123,MIA,NOH
-Shot Chart Detail,0020400601,389,1000,Shandon Anderson,1610612748,Miami Heat,4,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,48,1,0,20050123,MIA,NOH
-Shot Chart Detail,0020400613,152,1000,Shandon Anderson,1610612748,Miami Heat,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,72,1,0,20050126,TOR,MIA
-Shot Chart Detail,0020400613,408,1000,Shandon Anderson,1610612748,Miami Heat,4,11,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050126,TOR,MIA
-Shot Chart Detail,0020400613,436,1000,Shandon Anderson,1610612748,Miami Heat,4,8,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-8,1,0,20050126,TOR,MIA
-Shot Chart Detail,0020400631,24,1000,Shandon Anderson,1610612748,Miami Heat,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,2,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,100,1000,Shandon Anderson,1610612748,Miami Heat,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,5,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400631,102,1000,Shandon Anderson,1610612748,Miami Heat,1,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,211,1000,Shandon Anderson,1610612748,Miami Heat,2,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400631,224,1000,Shandon Anderson,1610612748,Miami Heat,2,1,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,48,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,264,1000,Shandon Anderson,1610612748,Miami Heat,3,10,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,56,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,275,1000,Shandon Anderson,1610612748,Miami Heat,3,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,5,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,366,1000,Shandon Anderson,1610612748,Miami Heat,3,0,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,378,1000,Shandon Anderson,1610612748,Miami Heat,4,10,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,122,1,1,20050128,ATL,MIA
-Shot Chart Detail,0020400631,469,1000,Shandon Anderson,1610612748,Miami Heat,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-9,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400631,482,1000,Shandon Anderson,1610612748,Miami Heat,4,0,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,0,20050128,ATL,MIA
-Shot Chart Detail,0020400648,87,1000,Shandon Anderson,1610612748,Miami Heat,1,1,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,49,1,0,20050130,MIA,HOU
-Shot Chart Detail,0020400648,145,1000,Shandon Anderson,1610612748,Miami Heat,2,7,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,46,68,1,1,20050130,MIA,HOU
-Shot Chart Detail,0020400664,140,1000,Shandon Anderson,1610612748,Miami Heat,2,10,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,36,1,0,20050201,DAL,MIA
-Shot Chart Detail,0020400677,164,1000,Shandon Anderson,1610612748,Miami Heat,2,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,172,105,1,0,20050203,MIA,CLE
-Shot Chart Detail,0020400723,175,1000,Shandon Anderson,1610612748,Miami Heat,2,2,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050209,NYK,MIA
-Shot Chart Detail,0020400723,335,1000,Shandon Anderson,1610612748,Miami Heat,4,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050209,NYK,MIA
-Shot Chart Detail,0020400732,334,1000,Shandon Anderson,1610612748,Miami Heat,3,2,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,CHA,MIA
-Shot Chart Detail,0020400732,347,1000,Shandon Anderson,1610612748,Miami Heat,3,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,CHA,MIA
-Shot Chart Detail,0020400732,430,1000,Shandon Anderson,1610612748,Miami Heat,4,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,CHA,MIA
-Shot Chart Detail,0020400745,197,1000,Shandon Anderson,1610612748,Miami Heat,2,3,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,72,1,1,20050213,MIA,SAS
-Shot Chart Detail,0020400745,215,1000,Shandon Anderson,1610612748,Miami Heat,2,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050213,MIA,SAS
-Shot Chart Detail,0020400777,100,1000,Shandon Anderson,1610612748,Miami Heat,2,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,90,135,1,0,20050216,MIA,LAC
-Shot Chart Detail,0020400777,121,1000,Shandon Anderson,1610612748,Miami Heat,2,9,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050216,MIA,LAC
-Shot Chart Detail,0020400777,171,1000,Shandon Anderson,1610612748,Miami Heat,2,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,15,1,1,20050216,MIA,LAC
-Shot Chart Detail,0020400777,290,1000,Shandon Anderson,1610612748,Miami Heat,3,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050216,MIA,LAC
-Shot Chart Detail,0020400777,304,1000,Shandon Anderson,1610612748,Miami Heat,3,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,109,1,0,20050216,MIA,LAC
-Shot Chart Detail,0020400777,369,1000,Shandon Anderson,1610612748,Miami Heat,4,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,56,155,1,1,20050216,MIA,LAC
-Shot Chart Detail,0020400786,153,1000,Shandon Anderson,1610612748,Miami Heat,2,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,125,1,0,20050222,CHI,MIA
-Shot Chart Detail,0020400786,372,1000,Shandon Anderson,1610612748,Miami Heat,4,10,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20050222,CHI,MIA
-Shot Chart Detail,0020400786,445,1000,Shandon Anderson,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,51,1,1,20050222,CHI,MIA
-Shot Chart Detail,0020400786,453,1000,Shandon Anderson,1610612748,Miami Heat,4,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,178,1,1,20050222,CHI,MIA
-Shot Chart Detail,0020400786,500,1000,Shandon Anderson,1610612748,Miami Heat,5,1,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20050222,CHI,MIA
-Shot Chart Detail,0020400792,258,1000,Shandon Anderson,1610612748,Miami Heat,3,7,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20050223,IND,MIA
-Shot Chart Detail,0020400792,263,1000,Shandon Anderson,1610612748,Miami Heat,3,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,46,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400792,275,1000,Shandon Anderson,1610612748,Miami Heat,3,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,71,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400792,299,1000,Shandon Anderson,1610612748,Miami Heat,3,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400792,409,1000,Shandon Anderson,1610612748,Miami Heat,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,-5,1,0,20050223,IND,MIA
-Shot Chart Detail,0020400813,94,1000,Shandon Anderson,1610612748,Miami Heat,1,1,40,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050226,MIA,ORL
-Shot Chart Detail,0020400813,96,1000,Shandon Anderson,1610612748,Miami Heat,1,1,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050226,MIA,ORL
-Shot Chart Detail,0020400813,108,1000,Shandon Anderson,1610612748,Miami Heat,1,0,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050226,MIA,ORL
-Shot Chart Detail,0020400813,242,1000,Shandon Anderson,1610612748,Miami Heat,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,209,-6,1,0,20050226,MIA,ORL
-Shot Chart Detail,0020400825,122,1000,Shandon Anderson,1610612748,Miami Heat,2,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,12,1,1,20050227,ORL,MIA
-Shot Chart Detail,0020400851,119,1000,Shandon Anderson,1610612748,Miami Heat,2,10,34,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050303,NJN,MIA
-Shot Chart Detail,0020400851,355,1000,Shandon Anderson,1610612748,Miami Heat,3,0,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050303,NJN,MIA
-Shot Chart Detail,0020400851,401,1000,Shandon Anderson,1610612748,Miami Heat,4,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050303,NJN,MIA
-Shot Chart Detail,0020400851,455,1000,Shandon Anderson,1610612748,Miami Heat,4,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,117,1,0,20050303,NJN,MIA
-Shot Chart Detail,0020400851,476,1000,Shandon Anderson,1610612748,Miami Heat,4,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050303,NJN,MIA
-Shot Chart Detail,0020400858,113,1000,Shandon Anderson,1610612748,Miami Heat,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,163,118,1,0,20050304,MIA,SAC
-Shot Chart Detail,0020400858,190,1000,Shandon Anderson,1610612748,Miami Heat,2,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050304,MIA,SAC
-Shot Chart Detail,0020400858,192,1000,Shandon Anderson,1610612748,Miami Heat,2,3,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,46,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400858,294,1000,Shandon Anderson,1610612748,Miami Heat,3,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,49,1,0,20050304,MIA,SAC
-Shot Chart Detail,0020400858,341,1000,Shandon Anderson,1610612748,Miami Heat,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,38,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400858,367,1000,Shandon Anderson,1610612748,Miami Heat,4,7,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400858,384,1000,Shandon Anderson,1610612748,Miami Heat,4,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,5,1,1,20050304,MIA,SAC
-Shot Chart Detail,0020400878,149,1000,Shandon Anderson,1610612748,Miami Heat,2,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20050306,CLE,MIA
-Shot Chart Detail,0020400878,176,1000,Shandon Anderson,1610612748,Miami Heat,2,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20050306,CLE,MIA
-Shot Chart Detail,0020400878,389,1000,Shandon Anderson,1610612748,Miami Heat,4,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,1,20050306,CLE,MIA
-Shot Chart Detail,0020400878,418,1000,Shandon Anderson,1610612748,Miami Heat,4,7,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,110,1,0,20050306,CLE,MIA
-Shot Chart Detail,0020400878,428,1000,Shandon Anderson,1610612748,Miami Heat,4,6,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,2,1,0,20050306,CLE,MIA
-Shot Chart Detail,0020400881,55,1000,Shandon Anderson,1610612748,Miami Heat,1,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,135,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,82,1000,Shandon Anderson,1610612748,Miami Heat,1,2,15,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050307,MIA,PHI
-Shot Chart Detail,0020400881,119,1000,Shandon Anderson,1610612748,Miami Heat,2,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,130,1000,Shandon Anderson,1610612748,Miami Heat,2,8,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,2,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,154,1000,Shandon Anderson,1610612748,Miami Heat,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,117,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400881,270,1000,Shandon Anderson,1610612748,Miami Heat,3,8,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050307,MIA,PHI
-Shot Chart Detail,0020400881,390,1000,Shandon Anderson,1610612748,Miami Heat,4,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-41,158,1,1,20050307,MIA,PHI
-Shot Chart Detail,0020400902,140,1000,Shandon Anderson,1610612748,Miami Heat,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-52,146,1,0,20050310,MIA,MIN
-Shot Chart Detail,0020400902,147,1000,Shandon Anderson,1610612748,Miami Heat,2,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050310,MIA,MIN
-Shot Chart Detail,0020400902,174,1000,Shandon Anderson,1610612748,Miami Heat,2,4,7,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,59,1,0,20050310,MIA,MIN
-Shot Chart Detail,0020400902,396,1000,Shandon Anderson,1610612748,Miami Heat,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-3,1,0,20050310,MIA,MIN
-Shot Chart Detail,0020400902,411,1000,Shandon Anderson,1610612748,Miami Heat,4,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050310,MIA,MIN
-Shot Chart Detail,0020400914,117,1000,Shandon Anderson,1610612748,Miami Heat,2,10,56,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,26,1,0,20050312,MIA,NJN
-Shot Chart Detail,0020400914,247,1000,Shandon Anderson,1610612748,Miami Heat,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,240,1,1,20050312,MIA,NJN
-Shot Chart Detail,0020400914,347,1000,Shandon Anderson,1610612748,Miami Heat,4,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,127,1,1,20050312,MIA,NJN
-Shot Chart Detail,0020400914,394,1000,Shandon Anderson,1610612748,Miami Heat,4,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050312,MIA,NJN
-Shot Chart Detail,0020400933,154,1000,Shandon Anderson,1610612748,Miami Heat,2,8,16,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050314,MIA,MIL
-Shot Chart Detail,0020400933,182,1000,Shandon Anderson,1610612748,Miami Heat,2,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050314,MIA,MIL
-Shot Chart Detail,0020400933,216,1000,Shandon Anderson,1610612748,Miami Heat,2,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,161,120,1,0,20050314,MIA,MIL
-Shot Chart Detail,0020400933,392,1000,Shandon Anderson,1610612748,Miami Heat,4,7,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,22,1,0,20050314,MIA,MIL
-Shot Chart Detail,0020400939,147,1000,Shandon Anderson,1610612748,Miami Heat,2,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,71,1,1,20050315,NYK,MIA
-Shot Chart Detail,0020400939,338,1000,Shandon Anderson,1610612748,Miami Heat,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,12,1,0,20050315,NYK,MIA
-Shot Chart Detail,0020400939,376,1000,Shandon Anderson,1610612748,Miami Heat,4,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050315,NYK,MIA
-Shot Chart Detail,0020400954,177,1000,Shandon Anderson,1610612748,Miami Heat,2,7,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,1,20050317,MIA,LAL
-Shot Chart Detail,0020400954,202,1000,Shandon Anderson,1610612748,Miami Heat,2,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050317,MIA,LAL
-Shot Chart Detail,0020400972,88,1000,Shandon Anderson,1610612748,Miami Heat,1,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,123,1000,Shandon Anderson,1610612748,Miami Heat,2,10,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,165,1000,Shandon Anderson,1610612748,Miami Heat,2,6,13,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,51,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,204,1000,Shandon Anderson,1610612748,Miami Heat,2,1,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400972,442,1000,Shandon Anderson,1610612748,Miami Heat,4,4,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,18,1,0,20050319,MIA,NYK
-Shot Chart Detail,0020400995,101,1000,Shandon Anderson,1610612748,Miami Heat,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,22,1,0,20050322,HOU,MIA
-Shot Chart Detail,0020400995,151,1000,Shandon Anderson,1610612748,Miami Heat,2,7,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,43,1,0,20050322,HOU,MIA
-Shot Chart Detail,0020400995,418,1000,Shandon Anderson,1610612748,Miami Heat,4,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050322,HOU,MIA
-Shot Chart Detail,0020400995,420,1000,Shandon Anderson,1610612748,Miami Heat,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050322,HOU,MIA
-Shot Chart Detail,0020401015,118,1000,Shandon Anderson,1610612748,Miami Heat,1,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,145,1000,Shandon Anderson,1610612748,Miami Heat,2,8,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,154,1000,Shandon Anderson,1610612748,Miami Heat,2,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,175,1000,Shandon Anderson,1610612748,Miami Heat,2,5,15,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,0,20050325,MIA,PHX
-Shot Chart Detail,0020401015,335,1000,Shandon Anderson,1610612748,Miami Heat,3,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,461,1000,Shandon Anderson,1610612748,Miami Heat,4,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,45,1,1,20050325,MIA,PHX
-Shot Chart Detail,0020401015,468,1000,Shandon Anderson,1610612748,Miami Heat,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,15,1,0,20050325,MIA,PHX
-Shot Chart Detail,0020401049,98,1000,Shandon Anderson,1610612748,Miami Heat,1,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,51,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,113,1000,Shandon Anderson,1610612748,Miami Heat,2,11,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,321,1000,Shandon Anderson,1610612748,Miami Heat,3,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,61,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,324,1000,Shandon Anderson,1610612748,Miami Heat,3,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050329,MIA,TOR
-Shot Chart Detail,0020401049,332,1000,Shandon Anderson,1610612748,Miami Heat,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050329,MIA,TOR
-Shot Chart Detail,0020401049,478,1000,Shandon Anderson,1610612748,Miami Heat,4,0,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,143,1,0,20050329,MIA,TOR
-Shot Chart Detail,0020401063,190,1000,Shandon Anderson,1610612748,Miami Heat,2,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20050331,IND,MIA
-Shot Chart Detail,0020401063,255,1000,Shandon Anderson,1610612748,Miami Heat,3,7,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,22,1,1,20050331,IND,MIA
-Shot Chart Detail,0020401080,290,1000,Shandon Anderson,1610612748,Miami Heat,3,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050402,NOH,MIA
-Shot Chart Detail,0020401080,350,1000,Shandon Anderson,1610612748,Miami Heat,4,9,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-6,1,0,20050402,NOH,MIA
-Shot Chart Detail,0020401080,368,1000,Shandon Anderson,1610612748,Miami Heat,4,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,10,1,0,20050402,NOH,MIA
-Shot Chart Detail,0020401080,412,1000,Shandon Anderson,1610612748,Miami Heat,4,2,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050402,NOH,MIA
-Shot Chart Detail,0020401099,323,1000,Shandon Anderson,1610612748,Miami Heat,3,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,155,1,1,20050405,MIA,CHI
-Shot Chart Detail,0020401099,336,1000,Shandon Anderson,1610612748,Miami Heat,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050405,MIA,CHI
-Shot Chart Detail,0020401124,324,1000,Shandon Anderson,1610612748,Miami Heat,4,10,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,MEM,MIA
-Shot Chart Detail,0020401124,350,1000,Shandon Anderson,1610612748,Miami Heat,4,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,MEM,MIA
-Shot Chart Detail,0020401124,352,1000,Shandon Anderson,1610612748,Miami Heat,4,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,MEM,MIA
-Shot Chart Detail,0020401140,123,1000,Shandon Anderson,1610612748,Miami Heat,2,10,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401140,146,1000,Shandon Anderson,1610612748,Miami Heat,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-8,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401140,347,1000,Shandon Anderson,1610612748,Miami Heat,3,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-184,100,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401140,360,1000,Shandon Anderson,1610612748,Miami Heat,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,204,138,1,0,20050410,MIA,DET
-Shot Chart Detail,0020401170,178,1000,Shandon Anderson,1610612748,Miami Heat,2,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-9,1,0,20050414,PHI,MIA
-Shot Chart Detail,0020401170,377,1000,Shandon Anderson,1610612748,Miami Heat,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,82,1,0,20050414,PHI,MIA
-Shot Chart Detail,0020401170,403,1000,Shandon Anderson,1610612748,Miami Heat,4,6,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,0,1,0,20050414,PHI,MIA
-Shot Chart Detail,0020401175,64,1000,Shandon Anderson,1610612748,Miami Heat,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,2,1,0,20050415,BOS,MIA
-Shot Chart Detail,0020401175,70,1000,Shandon Anderson,1610612748,Miami Heat,1,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20050415,BOS,MIA
-Shot Chart Detail,0020401193,335,1000,Shandon Anderson,1610612748,Miami Heat,3,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,115,1,0,20050417,MIA,IND
-Shot Chart Detail,0020401212,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050419,MIA,CHA
-Shot Chart Detail,0020401212,388,1000,Shandon Anderson,1610612748,Miami Heat,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,-3,1,0,20050419,MIA,CHA
-Shot Chart Detail,0020401221,26,1000,Shandon Anderson,1610612748,Miami Heat,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,17,1,1,20050420,ORL,MIA
-Shot Chart Detail,0020401221,223,1000,Shandon Anderson,1610612748,Miami Heat,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,45,1,1,20050420,ORL,MIA
-Shot Chart Detail,0020401221,235,1000,Shandon Anderson,1610612748,Miami Heat,3,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,23,1,0,20050420,ORL,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20400093,228,1000,Shandon Anderson,1610612748,Miami Heat,2,2,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041114,1,MIA,MIL
+Shot Chart Detail,20400093,402,1000,Shandon Anderson,1610612748,Miami Heat,4,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-16,1,0,20041114,0,MIA,MIL
+Shot Chart Detail,20400101,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041116,0,MIN,MIA
+Shot Chart Detail,20400101,179,1000,Shandon Anderson,1610612748,Miami Heat,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-33,143,1,0,20041116,0,MIN,MIA
+Shot Chart Detail,20400101,211,1000,Shandon Anderson,1610612748,Miami Heat,2,3,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,8,1,0,20041116,0,MIN,MIA
+Shot Chart Detail,20400112,109,1000,Shandon Anderson,1610612748,Miami Heat,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,12,1,0,20041117,0,MIL,MIA
+Shot Chart Detail,20400112,148,1000,Shandon Anderson,1610612748,Miami Heat,2,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,1,20041117,1,MIL,MIA
+Shot Chart Detail,20400112,151,1000,Shandon Anderson,1610612748,Miami Heat,2,7,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041117,0,MIL,MIA
+Shot Chart Detail,20400112,188,1000,Shandon Anderson,1610612748,Miami Heat,2,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,202,1,0,20041117,0,MIL,MIA
+Shot Chart Detail,20400112,195,1000,Shandon Anderson,1610612748,Miami Heat,2,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,1,MIL,MIA
+Shot Chart Detail,20400112,336,1000,Shandon Anderson,1610612748,Miami Heat,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,35,1,0,20041117,0,MIL,MIA
+Shot Chart Detail,20400122,194,1000,Shandon Anderson,1610612748,Miami Heat,2,4,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041119,0,MIA,UTA
+Shot Chart Detail,20400122,249,1000,Shandon Anderson,1610612748,Miami Heat,2,1,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,0,20041119,0,MIA,UTA
+Shot Chart Detail,20400122,438,1000,Shandon Anderson,1610612748,Miami Heat,4,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,10,1,0,20041119,0,MIA,UTA
+Shot Chart Detail,20400122,509,1000,Shandon Anderson,1610612748,Miami Heat,4,2,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,174,1,0,20041119,0,MIA,UTA
+Shot Chart Detail,20400139,155,1000,Shandon Anderson,1610612748,Miami Heat,2,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,84,110,1,0,20041121,0,MIA,PHI
+Shot Chart Detail,20400139,391,1000,Shandon Anderson,1610612748,Miami Heat,4,8,25,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041121,0,MIA,PHI
+Shot Chart Detail,20400154,16,1000,Shandon Anderson,1610612748,Miami Heat,1,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,145,1,1,20041123,1,MIA,POR
+Shot Chart Detail,20400154,33,1000,Shandon Anderson,1610612748,Miami Heat,1,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,125,1,1,20041123,0,MIA,POR
+Shot Chart Detail,20400154,38,1000,Shandon Anderson,1610612748,Miami Heat,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-3,1,1,20041123,1,MIA,POR
+Shot Chart Detail,20400154,42,1000,Shandon Anderson,1610612748,Miami Heat,1,6,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,153,1,0,20041123,0,MIA,POR
+Shot Chart Detail,20400154,131,1000,Shandon Anderson,1610612748,Miami Heat,2,9,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,46,1,1,20041123,1,MIA,POR
+Shot Chart Detail,20400154,163,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,1,MIA,POR
+Shot Chart Detail,20400154,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,0,MIA,POR
+Shot Chart Detail,20400154,346,1000,Shandon Anderson,1610612748,Miami Heat,3,1,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,81,1,1,20041123,1,MIA,POR
+Shot Chart Detail,20400154,365,1000,Shandon Anderson,1610612748,Miami Heat,4,11,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,69,1,0,20041123,0,MIA,POR
+Shot Chart Detail,20400164,107,1000,Shandon Anderson,1610612748,Miami Heat,1,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,26,1,0,20041124,0,ATL,MIA
+Shot Chart Detail,20400164,334,1000,Shandon Anderson,1610612748,Miami Heat,3,3,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-9,1,1,20041124,1,ATL,MIA
+Shot Chart Detail,20400164,339,1000,Shandon Anderson,1610612748,Miami Heat,3,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-5,1,0,20041124,0,ATL,MIA
+Shot Chart Detail,20400175,171,1000,Shandon Anderson,1610612748,Miami Heat,2,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-8,1,0,20041126,0,DET,MIA
+Shot Chart Detail,20400194,344,1000,Shandon Anderson,1610612748,Miami Heat,3,6,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,20,1,1,20041128,0,MIA,BOS
+Shot Chart Detail,20400204,306,1000,Shandon Anderson,1610612748,Miami Heat,3,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041130,1,MIA,TOR
+Shot Chart Detail,20400204,312,1000,Shandon Anderson,1610612748,Miami Heat,3,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,140,1,0,20041130,0,MIA,TOR
+Shot Chart Detail,20400229,454,1000,Shandon Anderson,1610612748,Miami Heat,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-9,1,0,20041203,0,CHI,MIA
+Shot Chart Detail,20400253,221,1000,Shandon Anderson,1610612748,Miami Heat,2,0,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,12,1,0,20041206,0,UTA,MIA
+Shot Chart Detail,20400302,405,1000,Shandon Anderson,1610612748,Miami Heat,4,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,1,MIA,WAS
+Shot Chart Detail,20400363,148,1000,Shandon Anderson,1610612748,Miami Heat,2,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041221,0,MIA,BOS
+Shot Chart Detail,20400363,156,1000,Shandon Anderson,1610612748,Miami Heat,2,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,43,1,0,20041221,0,MIA,BOS
+Shot Chart Detail,20400363,169,1000,Shandon Anderson,1610612748,Miami Heat,2,6,58,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041221,0,MIA,BOS
+Shot Chart Detail,20400363,356,1000,Shandon Anderson,1610612748,Miami Heat,4,11,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,77,1,0,20041221,0,MIA,BOS
+Shot Chart Detail,20400382,320,1000,Shandon Anderson,1610612748,Miami Heat,3,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,0,20041225,0,LAL,MIA
+Shot Chart Detail,20400382,337,1000,Shandon Anderson,1610612748,Miami Heat,4,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,0,1,0,20041225,0,LAL,MIA
+Shot Chart Detail,20400428,477,1000,Shandon Anderson,1610612748,Miami Heat,4,1,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-97,49,1,0,20050101,0,MIA,CHA
+Shot Chart Detail,20400443,146,1000,Shandon Anderson,1610612748,Miami Heat,2,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050103,1,MIA,SEA
+Shot Chart Detail,20400443,158,1000,Shandon Anderson,1610612748,Miami Heat,2,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,151,1,0,20050103,0,MIA,SEA
+Shot Chart Detail,20400443,385,1000,Shandon Anderson,1610612748,Miami Heat,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-184,164,1,0,20050103,0,MIA,SEA
+Shot Chart Detail,20400458,131,1000,Shandon Anderson,1610612748,Miami Heat,2,9,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050105,0,MIA,NYK
+Shot Chart Detail,20400458,132,1000,Shandon Anderson,1610612748,Miami Heat,2,9,46,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,0,MIA,NYK
+Shot Chart Detail,20400458,164,1000,Shandon Anderson,1610612748,Miami Heat,2,7,17,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,1,MIA,NYK
+Shot Chart Detail,20400458,211,1000,Shandon Anderson,1610612748,Miami Heat,2,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,1,MIA,NYK
+Shot Chart Detail,20400458,311,1000,Shandon Anderson,1610612748,Miami Heat,3,2,57,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050105,1,MIA,NYK
+Shot Chart Detail,20400458,361,1000,Shandon Anderson,1610612748,Miami Heat,4,9,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,69,0,1,0,20050105,0,MIA,NYK
+Shot Chart Detail,20400458,382,1000,Shandon Anderson,1610612748,Miami Heat,4,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,120,114,1,0,20050105,0,MIA,NYK
+Shot Chart Detail,20400458,419,1000,Shandon Anderson,1610612748,Miami Heat,4,4,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-11,1,0,20050105,0,MIA,NYK
+Shot Chart Detail,20400490,116,1000,Shandon Anderson,1610612748,Miami Heat,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,76,1,0,20050109,0,SEA,MIA
+Shot Chart Detail,20400490,163,1000,Shandon Anderson,1610612748,Miami Heat,2,6,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,46,1,1,20050109,1,SEA,MIA
+Shot Chart Detail,20400502,124,1000,Shandon Anderson,1610612748,Miami Heat,1,0,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,10,1,0,20050111,0,PHX,MIA
+Shot Chart Detail,20400502,309,1000,Shandon Anderson,1610612748,Miami Heat,3,5,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,102,72,1,0,20050111,0,PHX,MIA
+Shot Chart Detail,20400502,358,1000,Shandon Anderson,1610612748,Miami Heat,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050111,1,PHX,MIA
+Shot Chart Detail,20400502,461,1000,Shandon Anderson,1610612748,Miami Heat,4,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050111,0,PHX,MIA
+Shot Chart Detail,20400515,41,1000,Shandon Anderson,1610612748,Miami Heat,1,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,5,1,1,20050112,1,GSW,MIA
+Shot Chart Detail,20400515,75,1000,Shandon Anderson,1610612748,Miami Heat,1,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-19,1,1,20050112,1,GSW,MIA
+Shot Chart Detail,20400515,222,1000,Shandon Anderson,1610612748,Miami Heat,2,1,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,0,1,1,20050112,1,GSW,MIA
+Shot Chart Detail,20400515,225,1000,Shandon Anderson,1610612748,Miami Heat,2,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-21,1,0,20050112,0,GSW,MIA
+Shot Chart Detail,20400515,292,1000,Shandon Anderson,1610612748,Miami Heat,3,5,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,0,20050112,0,GSW,MIA
+Shot Chart Detail,20400528,24,1000,Shandon Anderson,1610612748,Miami Heat,1,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,0,LAC,MIA
+Shot Chart Detail,20400528,179,1000,Shandon Anderson,1610612748,Miami Heat,2,6,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,0,LAC,MIA
+Shot Chart Detail,20400528,194,1000,Shandon Anderson,1610612748,Miami Heat,2,6,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050114,0,LAC,MIA
+Shot Chart Detail,20400528,229,1000,Shandon Anderson,1610612748,Miami Heat,2,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,0,LAC,MIA
+Shot Chart Detail,20400528,252,1000,Shandon Anderson,1610612748,Miami Heat,3,11,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050114,0,LAC,MIA
+Shot Chart Detail,20400528,263,1000,Shandon Anderson,1610612748,Miami Heat,3,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,20,1,0,20050114,0,LAC,MIA
+Shot Chart Detail,20400528,287,1000,Shandon Anderson,1610612748,Miami Heat,3,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050114,0,LAC,MIA
+Shot Chart Detail,20400595,150,1000,Shandon Anderson,1610612748,Miami Heat,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,0,PHI,MIA
+Shot Chart Detail,20400595,374,1000,Shandon Anderson,1610612748,Miami Heat,3,1,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,0,PHI,MIA
+Shot Chart Detail,20400595,377,1000,Shandon Anderson,1610612748,Miami Heat,3,1,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-16,1,1,20050124,1,PHI,MIA
+Shot Chart Detail,20400595,399,1000,Shandon Anderson,1610612748,Miami Heat,4,10,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050124,1,PHI,MIA
+Shot Chart Detail,20400601,287,1000,Shandon Anderson,1610612748,Miami Heat,3,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050123,0,MIA,NOH
+Shot Chart Detail,20400601,376,1000,Shandon Anderson,1610612748,Miami Heat,4,3,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-9,1,0,20050123,0,MIA,NOH
+Shot Chart Detail,20400601,389,1000,Shandon Anderson,1610612748,Miami Heat,4,2,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-143,48,1,0,20050123,0,MIA,NOH
+Shot Chart Detail,20400613,152,1000,Shandon Anderson,1610612748,Miami Heat,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,72,1,0,20050126,0,TOR,MIA
+Shot Chart Detail,20400613,408,1000,Shandon Anderson,1610612748,Miami Heat,4,11,41,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050126,1,TOR,MIA
+Shot Chart Detail,20400613,436,1000,Shandon Anderson,1610612748,Miami Heat,4,8,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-8,1,0,20050126,0,TOR,MIA
+Shot Chart Detail,20400631,24,1000,Shandon Anderson,1610612748,Miami Heat,1,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,2,1,1,20050128,1,ATL,MIA
+Shot Chart Detail,20400631,100,1000,Shandon Anderson,1610612748,Miami Heat,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,5,1,0,20050128,0,ATL,MIA
+Shot Chart Detail,20400631,102,1000,Shandon Anderson,1610612748,Miami Heat,1,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050128,0,ATL,MIA
+Shot Chart Detail,20400631,211,1000,Shandon Anderson,1610612748,Miami Heat,2,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050128,0,ATL,MIA
+Shot Chart Detail,20400631,224,1000,Shandon Anderson,1610612748,Miami Heat,2,1,39,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,48,1,1,20050128,1,ATL,MIA
+Shot Chart Detail,20400631,264,1000,Shandon Anderson,1610612748,Miami Heat,3,10,33,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,56,1,1,20050128,1,ATL,MIA
+Shot Chart Detail,20400631,275,1000,Shandon Anderson,1610612748,Miami Heat,3,9,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,5,1,1,20050128,1,ATL,MIA
+Shot Chart Detail,20400631,366,1000,Shandon Anderson,1610612748,Miami Heat,3,0,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050128,1,ATL,MIA
+Shot Chart Detail,20400631,378,1000,Shandon Anderson,1610612748,Miami Heat,4,10,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,122,1,1,20050128,1,ATL,MIA
+Shot Chart Detail,20400631,469,1000,Shandon Anderson,1610612748,Miami Heat,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-9,1,0,20050128,0,ATL,MIA
+Shot Chart Detail,20400631,482,1000,Shandon Anderson,1610612748,Miami Heat,4,0,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-5,1,0,20050128,0,ATL,MIA
+Shot Chart Detail,20400648,87,1000,Shandon Anderson,1610612748,Miami Heat,1,1,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,49,1,0,20050130,0,MIA,HOU
+Shot Chart Detail,20400648,145,1000,Shandon Anderson,1610612748,Miami Heat,2,7,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,46,68,1,1,20050130,0,MIA,HOU
+Shot Chart Detail,20400664,140,1000,Shandon Anderson,1610612748,Miami Heat,2,10,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,36,1,0,20050201,0,DAL,MIA
+Shot Chart Detail,20400677,164,1000,Shandon Anderson,1610612748,Miami Heat,2,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,172,105,1,0,20050203,0,MIA,CLE
+Shot Chart Detail,20400723,175,1000,Shandon Anderson,1610612748,Miami Heat,2,2,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050209,0,NYK,MIA
+Shot Chart Detail,20400723,335,1000,Shandon Anderson,1610612748,Miami Heat,4,8,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050209,1,NYK,MIA
+Shot Chart Detail,20400732,334,1000,Shandon Anderson,1610612748,Miami Heat,3,2,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,1,CHA,MIA
+Shot Chart Detail,20400732,347,1000,Shandon Anderson,1610612748,Miami Heat,3,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,1,CHA,MIA
+Shot Chart Detail,20400732,430,1000,Shandon Anderson,1610612748,Miami Heat,4,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050211,1,CHA,MIA
+Shot Chart Detail,20400745,197,1000,Shandon Anderson,1610612748,Miami Heat,2,3,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,72,1,1,20050213,0,MIA,SAS
+Shot Chart Detail,20400745,215,1000,Shandon Anderson,1610612748,Miami Heat,2,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050213,1,MIA,SAS
+Shot Chart Detail,20400777,100,1000,Shandon Anderson,1610612748,Miami Heat,2,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,90,135,1,0,20050216,0,MIA,LAC
+Shot Chart Detail,20400777,121,1000,Shandon Anderson,1610612748,Miami Heat,2,9,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050216,0,MIA,LAC
+Shot Chart Detail,20400777,171,1000,Shandon Anderson,1610612748,Miami Heat,2,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,15,1,1,20050216,1,MIA,LAC
+Shot Chart Detail,20400777,290,1000,Shandon Anderson,1610612748,Miami Heat,3,7,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050216,1,MIA,LAC
+Shot Chart Detail,20400777,304,1000,Shandon Anderson,1610612748,Miami Heat,3,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,54,109,1,0,20050216,0,MIA,LAC
+Shot Chart Detail,20400777,369,1000,Shandon Anderson,1610612748,Miami Heat,4,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,56,155,1,1,20050216,0,MIA,LAC
+Shot Chart Detail,20400786,153,1000,Shandon Anderson,1610612748,Miami Heat,2,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,110,125,1,0,20050222,0,CHI,MIA
+Shot Chart Detail,20400786,372,1000,Shandon Anderson,1610612748,Miami Heat,4,10,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20050222,0,CHI,MIA
+Shot Chart Detail,20400786,445,1000,Shandon Anderson,1610612748,Miami Heat,4,3,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,51,1,1,20050222,1,CHI,MIA
+Shot Chart Detail,20400786,453,1000,Shandon Anderson,1610612748,Miami Heat,4,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,178,1,1,20050222,1,CHI,MIA
+Shot Chart Detail,20400786,500,1000,Shandon Anderson,1610612748,Miami Heat,5,1,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20050222,0,CHI,MIA
+Shot Chart Detail,20400792,258,1000,Shandon Anderson,1610612748,Miami Heat,3,7,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20050223,0,IND,MIA
+Shot Chart Detail,20400792,263,1000,Shandon Anderson,1610612748,Miami Heat,3,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,100,46,1,0,20050223,0,IND,MIA
+Shot Chart Detail,20400792,275,1000,Shandon Anderson,1610612748,Miami Heat,3,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,107,71,1,0,20050223,0,IND,MIA
+Shot Chart Detail,20400792,299,1000,Shandon Anderson,1610612748,Miami Heat,3,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,0,20050223,0,IND,MIA
+Shot Chart Detail,20400792,409,1000,Shandon Anderson,1610612748,Miami Heat,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,-5,1,0,20050223,0,IND,MIA
+Shot Chart Detail,20400813,94,1000,Shandon Anderson,1610612748,Miami Heat,1,1,40,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050226,0,MIA,ORL
+Shot Chart Detail,20400813,96,1000,Shandon Anderson,1610612748,Miami Heat,1,1,38,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050226,0,MIA,ORL
+Shot Chart Detail,20400813,108,1000,Shandon Anderson,1610612748,Miami Heat,1,0,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050226,0,MIA,ORL
+Shot Chart Detail,20400813,242,1000,Shandon Anderson,1610612748,Miami Heat,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,209,-6,1,0,20050226,0,MIA,ORL
+Shot Chart Detail,20400825,122,1000,Shandon Anderson,1610612748,Miami Heat,2,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,12,1,1,20050227,1,ORL,MIA
+Shot Chart Detail,20400851,119,1000,Shandon Anderson,1610612748,Miami Heat,2,10,34,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050303,0,NJN,MIA
+Shot Chart Detail,20400851,355,1000,Shandon Anderson,1610612748,Miami Heat,3,0,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050303,0,NJN,MIA
+Shot Chart Detail,20400851,401,1000,Shandon Anderson,1610612748,Miami Heat,4,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050303,1,NJN,MIA
+Shot Chart Detail,20400851,455,1000,Shandon Anderson,1610612748,Miami Heat,4,2,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,117,1,0,20050303,0,NJN,MIA
+Shot Chart Detail,20400851,476,1000,Shandon Anderson,1610612748,Miami Heat,4,1,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050303,1,NJN,MIA
+Shot Chart Detail,20400858,113,1000,Shandon Anderson,1610612748,Miami Heat,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,163,118,1,0,20050304,0,MIA,SAC
+Shot Chart Detail,20400858,190,1000,Shandon Anderson,1610612748,Miami Heat,2,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050304,0,MIA,SAC
+Shot Chart Detail,20400858,192,1000,Shandon Anderson,1610612748,Miami Heat,2,3,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-108,46,1,1,20050304,0,MIA,SAC
+Shot Chart Detail,20400858,294,1000,Shandon Anderson,1610612748,Miami Heat,3,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,49,1,0,20050304,0,MIA,SAC
+Shot Chart Detail,20400858,341,1000,Shandon Anderson,1610612748,Miami Heat,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,38,1,1,20050304,1,MIA,SAC
+Shot Chart Detail,20400858,367,1000,Shandon Anderson,1610612748,Miami Heat,4,7,19,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050304,0,MIA,SAC
+Shot Chart Detail,20400858,384,1000,Shandon Anderson,1610612748,Miami Heat,4,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,5,1,1,20050304,1,MIA,SAC
+Shot Chart Detail,20400878,149,1000,Shandon Anderson,1610612748,Miami Heat,2,8,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20050306,1,CLE,MIA
+Shot Chart Detail,20400878,176,1000,Shandon Anderson,1610612748,Miami Heat,2,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20050306,1,CLE,MIA
+Shot Chart Detail,20400878,389,1000,Shandon Anderson,1610612748,Miami Heat,4,11,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,1,20050306,1,CLE,MIA
+Shot Chart Detail,20400878,418,1000,Shandon Anderson,1610612748,Miami Heat,4,7,46,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,110,1,0,20050306,0,CLE,MIA
+Shot Chart Detail,20400878,428,1000,Shandon Anderson,1610612748,Miami Heat,4,6,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,2,1,0,20050306,0,CLE,MIA
+Shot Chart Detail,20400881,55,1000,Shandon Anderson,1610612748,Miami Heat,1,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,135,1,1,20050307,1,MIA,PHI
+Shot Chart Detail,20400881,82,1000,Shandon Anderson,1610612748,Miami Heat,1,2,15,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050307,0,MIA,PHI
+Shot Chart Detail,20400881,119,1000,Shandon Anderson,1610612748,Miami Heat,2,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050307,1,MIA,PHI
+Shot Chart Detail,20400881,130,1000,Shandon Anderson,1610612748,Miami Heat,2,8,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,2,1,1,20050307,1,MIA,PHI
+Shot Chart Detail,20400881,154,1000,Shandon Anderson,1610612748,Miami Heat,2,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,130,117,1,1,20050307,1,MIA,PHI
+Shot Chart Detail,20400881,270,1000,Shandon Anderson,1610612748,Miami Heat,3,8,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050307,0,MIA,PHI
+Shot Chart Detail,20400881,390,1000,Shandon Anderson,1610612748,Miami Heat,4,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-41,158,1,1,20050307,0,MIA,PHI
+Shot Chart Detail,20400902,140,1000,Shandon Anderson,1610612748,Miami Heat,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-52,146,1,0,20050310,0,MIA,MIN
+Shot Chart Detail,20400902,147,1000,Shandon Anderson,1610612748,Miami Heat,2,6,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050310,1,MIA,MIN
+Shot Chart Detail,20400902,174,1000,Shandon Anderson,1610612748,Miami Heat,2,4,7,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,59,1,0,20050310,0,MIA,MIN
+Shot Chart Detail,20400902,396,1000,Shandon Anderson,1610612748,Miami Heat,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-3,1,0,20050310,0,MIA,MIN
+Shot Chart Detail,20400902,411,1000,Shandon Anderson,1610612748,Miami Heat,4,3,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050310,1,MIA,MIN
+Shot Chart Detail,20400914,117,1000,Shandon Anderson,1610612748,Miami Heat,2,10,56,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,26,1,0,20050312,0,MIA,NJN
+Shot Chart Detail,20400914,247,1000,Shandon Anderson,1610612748,Miami Heat,3,8,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,240,1,1,20050312,1,MIA,NJN
+Shot Chart Detail,20400914,347,1000,Shandon Anderson,1610612748,Miami Heat,4,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,123,127,1,1,20050312,0,MIA,NJN
+Shot Chart Detail,20400914,394,1000,Shandon Anderson,1610612748,Miami Heat,4,6,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050312,1,MIA,NJN
+Shot Chart Detail,20400933,154,1000,Shandon Anderson,1610612748,Miami Heat,2,8,16,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050314,0,MIA,MIL
+Shot Chart Detail,20400933,182,1000,Shandon Anderson,1610612748,Miami Heat,2,5,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050314,1,MIA,MIL
+Shot Chart Detail,20400933,216,1000,Shandon Anderson,1610612748,Miami Heat,2,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,161,120,1,0,20050314,0,MIA,MIL
+Shot Chart Detail,20400933,392,1000,Shandon Anderson,1610612748,Miami Heat,4,7,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,22,1,0,20050314,0,MIA,MIL
+Shot Chart Detail,20400939,147,1000,Shandon Anderson,1610612748,Miami Heat,2,6,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,166,71,1,1,20050315,1,NYK,MIA
+Shot Chart Detail,20400939,338,1000,Shandon Anderson,1610612748,Miami Heat,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,12,1,0,20050315,0,NYK,MIA
+Shot Chart Detail,20400939,376,1000,Shandon Anderson,1610612748,Miami Heat,4,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050315,0,NYK,MIA
+Shot Chart Detail,20400954,177,1000,Shandon Anderson,1610612748,Miami Heat,2,7,6,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,1,20050317,0,MIA,LAL
+Shot Chart Detail,20400954,202,1000,Shandon Anderson,1610612748,Miami Heat,2,5,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050317,1,MIA,LAL
+Shot Chart Detail,20400972,88,1000,Shandon Anderson,1610612748,Miami Heat,1,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050319,0,MIA,NYK
+Shot Chart Detail,20400972,123,1000,Shandon Anderson,1610612748,Miami Heat,2,10,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-1,1,0,20050319,0,MIA,NYK
+Shot Chart Detail,20400972,165,1000,Shandon Anderson,1610612748,Miami Heat,2,6,13,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,51,51,1,0,20050319,0,MIA,NYK
+Shot Chart Detail,20400972,204,1000,Shandon Anderson,1610612748,Miami Heat,2,1,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050319,0,MIA,NYK
+Shot Chart Detail,20400972,442,1000,Shandon Anderson,1610612748,Miami Heat,4,4,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,18,1,0,20050319,0,MIA,NYK
+Shot Chart Detail,20400995,101,1000,Shandon Anderson,1610612748,Miami Heat,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,22,1,0,20050322,0,HOU,MIA
+Shot Chart Detail,20400995,151,1000,Shandon Anderson,1610612748,Miami Heat,2,7,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,43,1,0,20050322,0,HOU,MIA
+Shot Chart Detail,20400995,418,1000,Shandon Anderson,1610612748,Miami Heat,4,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050322,0,HOU,MIA
+Shot Chart Detail,20400995,420,1000,Shandon Anderson,1610612748,Miami Heat,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050322,0,HOU,MIA
+Shot Chart Detail,20401015,118,1000,Shandon Anderson,1610612748,Miami Heat,1,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,0,MIA,PHX
+Shot Chart Detail,20401015,145,1000,Shandon Anderson,1610612748,Miami Heat,2,8,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,1,MIA,PHX
+Shot Chart Detail,20401015,154,1000,Shandon Anderson,1610612748,Miami Heat,2,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,1,MIA,PHX
+Shot Chart Detail,20401015,175,1000,Shandon Anderson,1610612748,Miami Heat,2,5,15,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,0,20050325,0,MIA,PHX
+Shot Chart Detail,20401015,335,1000,Shandon Anderson,1610612748,Miami Heat,3,3,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050325,1,MIA,PHX
+Shot Chart Detail,20401015,461,1000,Shandon Anderson,1610612748,Miami Heat,4,1,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,45,1,1,20050325,1,MIA,PHX
+Shot Chart Detail,20401015,468,1000,Shandon Anderson,1610612748,Miami Heat,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,15,1,0,20050325,0,MIA,PHX
+Shot Chart Detail,20401049,98,1000,Shandon Anderson,1610612748,Miami Heat,1,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,51,1,1,20050329,1,MIA,TOR
+Shot Chart Detail,20401049,113,1000,Shandon Anderson,1610612748,Miami Heat,2,11,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050329,1,MIA,TOR
+Shot Chart Detail,20401049,321,1000,Shandon Anderson,1610612748,Miami Heat,3,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,61,1,1,20050329,1,MIA,TOR
+Shot Chart Detail,20401049,324,1000,Shandon Anderson,1610612748,Miami Heat,3,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050329,1,MIA,TOR
+Shot Chart Detail,20401049,332,1000,Shandon Anderson,1610612748,Miami Heat,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050329,0,MIA,TOR
+Shot Chart Detail,20401049,478,1000,Shandon Anderson,1610612748,Miami Heat,4,0,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,143,1,0,20050329,0,MIA,TOR
+Shot Chart Detail,20401063,190,1000,Shandon Anderson,1610612748,Miami Heat,2,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20050331,0,IND,MIA
+Shot Chart Detail,20401063,255,1000,Shandon Anderson,1610612748,Miami Heat,3,7,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,22,1,1,20050331,0,IND,MIA
+Shot Chart Detail,20401080,290,1000,Shandon Anderson,1610612748,Miami Heat,3,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050402,0,NOH,MIA
+Shot Chart Detail,20401080,350,1000,Shandon Anderson,1610612748,Miami Heat,4,9,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-6,1,0,20050402,0,NOH,MIA
+Shot Chart Detail,20401080,368,1000,Shandon Anderson,1610612748,Miami Heat,4,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,10,1,0,20050402,0,NOH,MIA
+Shot Chart Detail,20401080,412,1000,Shandon Anderson,1610612748,Miami Heat,4,2,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050402,1,NOH,MIA
+Shot Chart Detail,20401099,323,1000,Shandon Anderson,1610612748,Miami Heat,3,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,155,1,1,20050405,1,MIA,CHI
+Shot Chart Detail,20401099,336,1000,Shandon Anderson,1610612748,Miami Heat,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050405,0,MIA,CHI
+Shot Chart Detail,20401124,324,1000,Shandon Anderson,1610612748,Miami Heat,4,10,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,0,MEM,MIA
+Shot Chart Detail,20401124,350,1000,Shandon Anderson,1610612748,Miami Heat,4,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,0,MEM,MIA
+Shot Chart Detail,20401124,352,1000,Shandon Anderson,1610612748,Miami Heat,4,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050408,0,MEM,MIA
+Shot Chart Detail,20401140,123,1000,Shandon Anderson,1610612748,Miami Heat,2,10,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,0,20050410,0,MIA,DET
+Shot Chart Detail,20401140,146,1000,Shandon Anderson,1610612748,Miami Heat,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,-8,1,0,20050410,0,MIA,DET
+Shot Chart Detail,20401140,347,1000,Shandon Anderson,1610612748,Miami Heat,3,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-184,100,1,0,20050410,0,MIA,DET
+Shot Chart Detail,20401140,360,1000,Shandon Anderson,1610612748,Miami Heat,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,204,138,1,0,20050410,0,MIA,DET
+Shot Chart Detail,20401170,178,1000,Shandon Anderson,1610612748,Miami Heat,2,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,-9,1,0,20050414,0,PHI,MIA
+Shot Chart Detail,20401170,377,1000,Shandon Anderson,1610612748,Miami Heat,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,138,82,1,0,20050414,0,PHI,MIA
+Shot Chart Detail,20401170,403,1000,Shandon Anderson,1610612748,Miami Heat,4,6,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,0,1,0,20050414,0,PHI,MIA
+Shot Chart Detail,20401175,64,1000,Shandon Anderson,1610612748,Miami Heat,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,2,1,0,20050415,0,BOS,MIA
+Shot Chart Detail,20401175,70,1000,Shandon Anderson,1610612748,Miami Heat,1,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20050415,1,BOS,MIA
+Shot Chart Detail,20401193,335,1000,Shandon Anderson,1610612748,Miami Heat,3,0,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-140,115,1,0,20050417,0,MIA,IND
+Shot Chart Detail,20401212,175,1000,Shandon Anderson,1610612748,Miami Heat,2,6,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050419,0,MIA,CHA
+Shot Chart Detail,20401212,388,1000,Shandon Anderson,1610612748,Miami Heat,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,-3,1,0,20050419,0,MIA,CHA
+Shot Chart Detail,20401221,26,1000,Shandon Anderson,1610612748,Miami Heat,1,7,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,17,1,1,20050420,1,ORL,MIA
+Shot Chart Detail,20401221,223,1000,Shandon Anderson,1610612748,Miami Heat,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,45,1,1,20050420,0,ORL,MIA
+Shot Chart Detail,20401221,235,1000,Shandon Anderson,1610612748,Miami Heat,3,9,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,23,1,0,20050420,0,ORL,MIA
+Shot Chart Detail,20400032,275,1000,Shandon Anderson,1610612752,New York Knicks,3,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-31,1,0,20041106,0,NYK,BOS
+Shot Chart Detail,20400032,437,1000,Shandon Anderson,1610612752,New York Knicks,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,0,20041106,0,NYK,BOS

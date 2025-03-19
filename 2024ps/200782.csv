@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,42300175,597,200782,P.J. Tucker,1610612746,LA Clippers,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,32,1,1,20240501,LAC,DAL
-Shot Chart Detail,42300176,27,200782,P.J. Tucker,1610612746,LA Clippers,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-4,1,1,20240503,DAL,LAC
-Shot Chart Detail,42300176,44,200782,P.J. Tucker,1610612746,LA Clippers,1,8,18,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,88,1,0,20240503,DAL,LAC
-Shot Chart Detail,42300176,374,200782,P.J. Tucker,1610612746,LA Clippers,3,9,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,9,1,0,20240503,DAL,LAC
-Shot Chart Detail,42300176,424,200782,P.J. Tucker,1610612746,LA Clippers,3,4,52,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20240503,DAL,LAC
-Shot Chart Detail,42300176,607,200782,P.J. Tucker,1610612746,LA Clippers,4,3,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,15,1,1,20240503,DAL,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,42300175,597,200782,P.J. Tucker,1610612746,LA Clippers,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,32,1,1,20240501,1,LAC,DAL
+Shot Chart Detail,42300176,27,200782,P.J. Tucker,1610612746,LA Clippers,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-4,1,1,20240503,1,DAL,LAC
+Shot Chart Detail,42300176,44,200782,P.J. Tucker,1610612746,LA Clippers,1,8,18,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,42,88,1,0,20240503,0,DAL,LAC
+Shot Chart Detail,42300176,374,200782,P.J. Tucker,1610612746,LA Clippers,3,9,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,9,1,0,20240503,0,DAL,LAC
+Shot Chart Detail,42300176,424,200782,P.J. Tucker,1610612746,LA Clippers,3,4,52,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20240503,1,DAL,LAC
+Shot Chart Detail,42300176,607,200782,P.J. Tucker,1610612746,LA Clippers,4,3,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,15,1,1,20240503,1,DAL,LAC

@@ -1,211 +1,106 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300122,427,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031114,SAC,TOR
-Shot Chart Detail,0020300122,435,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,92,1,1,20031114,SAC,TOR
-Shot Chart Detail,0020300182,449,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,58,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031123,TOR,MIL
-Shot Chart Detail,0020300182,455,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-48,84,1,1,20031123,TOR,MIL
-Shot Chart Detail,0020300343,201,1594,Rick Brunson,1610612741,Chicago Bulls,2,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,140,1,0,20031216,CHI,ORL
-Shot Chart Detail,0020300343,225,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-9,1,1,20031216,CHI,ORL
-Shot Chart Detail,0020300343,426,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,122,1,0,20031216,CHI,ORL
-Shot Chart Detail,0020300343,441,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,18,1,0,20031216,CHI,ORL
-Shot Chart Detail,0020300343,458,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,79,1,1,20031216,CHI,ORL
-Shot Chart Detail,0020300352,60,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,36,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300352,100,1594,Rick Brunson,1610612741,Chicago Bulls,2,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,89,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300352,205,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,314,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,41,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,370,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,48,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,375,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,146,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,383,1594,Rick Brunson,1610612741,Chicago Bulls,4,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,120,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300352,385,1594,Rick Brunson,1610612741,Chicago Bulls,4,6,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,56,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,438,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-66,240,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300374,116,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-89,99,1,1,20031220,CHI,CLE
-Shot Chart Detail,0020300374,157,1594,Rick Brunson,1610612741,Chicago Bulls,2,6,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300374,356,1594,Rick Brunson,1610612741,Chicago Bulls,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,158,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300374,451,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,46,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300374,470,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-95,112,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300387,29,1594,Rick Brunson,1610612741,Chicago Bulls,1,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,135,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,58,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,201,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,113,1594,Rick Brunson,1610612741,Chicago Bulls,2,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-189,82,1,1,20031222,CHI,UTA
-Shot Chart Detail,0020300387,119,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031222,CHI,UTA
-Shot Chart Detail,0020300387,195,1594,Rick Brunson,1610612741,Chicago Bulls,2,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,72,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,299,1594,Rick Brunson,1610612741,Chicago Bulls,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,45,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,339,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-25,141,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,462,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,3,210,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300391,275,1594,Rick Brunson,1610612741,Chicago Bulls,3,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300391,372,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-164,84,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300391,387,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300391,390,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-16,1,1,20031223,NJN,CHI
-Shot Chart Detail,0020300391,399,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,196,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300405,206,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-117,197,1,0,20031226,CLE,CHI
-Shot Chart Detail,0020300420,135,1594,Rick Brunson,1610612741,Chicago Bulls,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,161,1,0,20031227,CHI,WAS
-Shot Chart Detail,0020300434,222,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031229,CHI,MIA
-Shot Chart Detail,0020300454,60,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,72,196,1,0,20040102,NYK,CHI
-Shot Chart Detail,0020300454,93,1594,Rick Brunson,1610612741,Chicago Bulls,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,141,1,0,20040102,NYK,CHI
-Shot Chart Detail,0020300480,135,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-1,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,296,1594,Rick Brunson,1610612741,Chicago Bulls,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,82,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,322,1594,Rick Brunson,1610612741,Chicago Bulls,3,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,148,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,404,1594,Rick Brunson,1610612741,Chicago Bulls,4,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-176,135,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,413,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,202,1,1,20040105,CHI,PHX
-Shot Chart Detail,0020300520,232,1594,Rick Brunson,1610612741,Chicago Bulls,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,46,1,0,20040110,CHI,NOH
-Shot Chart Detail,0020300520,398,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040110,CHI,NOH
-Shot Chart Detail,0020300537,367,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,13,1,1,20040113,CHI,DET
-Shot Chart Detail,0020300537,454,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-16,1,1,20040113,CHI,DET
-Shot Chart Detail,0020300553,298,1594,Rick Brunson,1610612741,Chicago Bulls,3,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040115,MEM,CHI
-Shot Chart Detail,0020300553,345,1594,Rick Brunson,1610612741,Chicago Bulls,3,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040115,MEM,CHI
-Shot Chart Detail,0020300553,372,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,140,1,0,20040115,MEM,CHI
-Shot Chart Detail,0020300597,262,1594,Rick Brunson,1610612741,Chicago Bulls,3,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,179,1,1,20040121,ATL,CHI
-Shot Chart Detail,0020300597,310,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,34,186,1,1,20040121,ATL,CHI
-Shot Chart Detail,0020300616,336,1594,Rick Brunson,1610612741,Chicago Bulls,4,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-209,12,1,1,20040123,CHI,DAL
-Shot Chart Detail,0020300616,353,1594,Rick Brunson,1610612741,Chicago Bulls,4,8,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-6,1,1,20040123,CHI,DAL
-Shot Chart Detail,0020300644,73,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,13,207,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,82,1594,Rick Brunson,1610612741,Chicago Bulls,1,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,229,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,174,1,1,20040127,LAC,CHI
-Shot Chart Detail,0020300644,235,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,382,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,384,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,224,1,1,20040127,LAC,CHI
-Shot Chart Detail,0020300653,19,1594,Rick Brunson,1610612741,Chicago Bulls,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-5,1,1,20040128,DEN,CHI
-Shot Chart Detail,0020300653,117,1594,Rick Brunson,1610612741,Chicago Bulls,1,2,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-1,1,1,20040128,DEN,CHI
-Shot Chart Detail,0020300653,121,1594,Rick Brunson,1610612741,Chicago Bulls,1,1,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-16,1,0,20040128,DEN,CHI
-Shot Chart Detail,0020300653,191,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,38,1,1,20040128,DEN,CHI
-Shot Chart Detail,0020300653,212,1594,Rick Brunson,1610612741,Chicago Bulls,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,136,137,1,0,20040128,DEN,CHI
-Shot Chart Detail,0020300668,129,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,-14,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300668,131,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,22,1,0,20040130,GSW,CHI
-Shot Chart Detail,0020300668,247,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,148,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300668,395,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,132,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300668,429,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,94,146,1,0,20040130,GSW,CHI
-Shot Chart Detail,0020300668,466,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300691,475,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,18,1,1,20040202,SEA,CHI
-Shot Chart Detail,0020300706,147,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040204,UTA,CHI
-Shot Chart Detail,0020300706,162,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-39,199,1,1,20040204,UTA,CHI
-Shot Chart Detail,0020300706,169,1594,Rick Brunson,1610612741,Chicago Bulls,2,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,59,232,1,1,20040204,UTA,CHI
-Shot Chart Detail,0020300706,239,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040204,UTA,CHI
-Shot Chart Detail,0020300706,448,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-123,183,1,0,20040204,UTA,CHI
-Shot Chart Detail,0020300745,118,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,26,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,137,1594,Rick Brunson,1610612741,Chicago Bulls,2,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,370,1594,Rick Brunson,1610612741,Chicago Bulls,4,8,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,408,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,122,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,417,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-194,189,1,1,20040210,CHI,IND
-Shot Chart Detail,0020300745,431,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,23,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300759,469,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-1,1,0,20040212,CHI,BOS
-Shot Chart Detail,0020300792,117,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,112,145,1,0,20040220,CHI,SAC
-Shot Chart Detail,0020300829,450,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,46,1,0,20040225,CHI,DET
-Shot Chart Detail,0020300829,468,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,117,1,1,20040225,CHI,DET
-Shot Chart Detail,0020300829,486,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,76,1,0,20040225,CHI,DET
-Shot Chart Detail,0020300829,506,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040225,CHI,DET
-Shot Chart Detail,0020300834,464,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,-34,1,0,20040226,WAS,CHI
-Shot Chart Detail,0020300834,468,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,74,1,1,20040226,WAS,CHI
-Shot Chart Detail,0020300878,454,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,46,1,0,20040303,NOH,CHI
-Shot Chart Detail,0020300878,507,1594,Rick Brunson,1610612741,Chicago Bulls,5,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040303,NOH,CHI
-Shot Chart Detail,0020300898,160,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-9,1,0,20040306,PHI,CHI
-Shot Chart Detail,0020300898,486,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-15,248,1,1,20040306,PHI,CHI
-Shot Chart Detail,0020300930,82,1594,Rick Brunson,1610612741,Chicago Bulls,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,158,89,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,117,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040310,DET,CHI
-Shot Chart Detail,0020300930,321,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,214,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,363,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,186,201,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,366,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,396,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,40,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,418,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,215,148,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300122,427,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031114,SAC,TOR
-Shot Chart Detail,0020300122,435,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,92,1,1,20031114,SAC,TOR
-Shot Chart Detail,0020300182,449,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,58,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031123,TOR,MIL
-Shot Chart Detail,0020300182,455,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-48,84,1,1,20031123,TOR,MIL
-Shot Chart Detail,0020300343,201,1594,Rick Brunson,1610612741,Chicago Bulls,2,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,140,1,0,20031216,CHI,ORL
-Shot Chart Detail,0020300343,225,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-9,1,1,20031216,CHI,ORL
-Shot Chart Detail,0020300343,426,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,122,1,0,20031216,CHI,ORL
-Shot Chart Detail,0020300343,441,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,18,1,0,20031216,CHI,ORL
-Shot Chart Detail,0020300343,458,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,79,1,1,20031216,CHI,ORL
-Shot Chart Detail,0020300352,60,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,36,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300352,100,1594,Rick Brunson,1610612741,Chicago Bulls,2,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,89,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300352,205,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,314,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,41,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,370,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,48,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,375,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,146,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,383,1594,Rick Brunson,1610612741,Chicago Bulls,4,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,120,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300352,385,1594,Rick Brunson,1610612741,Chicago Bulls,4,6,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,56,1,1,20031217,DET,CHI
-Shot Chart Detail,0020300352,438,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-66,240,1,0,20031217,DET,CHI
-Shot Chart Detail,0020300374,116,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-89,99,1,1,20031220,CHI,CLE
-Shot Chart Detail,0020300374,157,1594,Rick Brunson,1610612741,Chicago Bulls,2,6,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300374,356,1594,Rick Brunson,1610612741,Chicago Bulls,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,158,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300374,451,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,46,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300374,470,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-95,112,1,0,20031220,CHI,CLE
-Shot Chart Detail,0020300387,29,1594,Rick Brunson,1610612741,Chicago Bulls,1,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,135,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,58,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,201,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,113,1594,Rick Brunson,1610612741,Chicago Bulls,2,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-189,82,1,1,20031222,CHI,UTA
-Shot Chart Detail,0020300387,119,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031222,CHI,UTA
-Shot Chart Detail,0020300387,195,1594,Rick Brunson,1610612741,Chicago Bulls,2,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,72,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,299,1594,Rick Brunson,1610612741,Chicago Bulls,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,45,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,339,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-25,141,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300387,462,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,3,210,1,0,20031222,CHI,UTA
-Shot Chart Detail,0020300391,275,1594,Rick Brunson,1610612741,Chicago Bulls,3,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300391,372,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-164,84,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300391,387,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300391,390,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-16,1,1,20031223,NJN,CHI
-Shot Chart Detail,0020300391,399,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,196,1,0,20031223,NJN,CHI
-Shot Chart Detail,0020300405,206,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-117,197,1,0,20031226,CLE,CHI
-Shot Chart Detail,0020300420,135,1594,Rick Brunson,1610612741,Chicago Bulls,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,161,1,0,20031227,CHI,WAS
-Shot Chart Detail,0020300434,222,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031229,CHI,MIA
-Shot Chart Detail,0020300454,60,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,72,196,1,0,20040102,NYK,CHI
-Shot Chart Detail,0020300454,93,1594,Rick Brunson,1610612741,Chicago Bulls,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,141,1,0,20040102,NYK,CHI
-Shot Chart Detail,0020300480,135,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-1,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,296,1594,Rick Brunson,1610612741,Chicago Bulls,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,82,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,322,1594,Rick Brunson,1610612741,Chicago Bulls,3,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,148,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,404,1594,Rick Brunson,1610612741,Chicago Bulls,4,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-176,135,1,0,20040105,CHI,PHX
-Shot Chart Detail,0020300480,413,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,202,1,1,20040105,CHI,PHX
-Shot Chart Detail,0020300520,232,1594,Rick Brunson,1610612741,Chicago Bulls,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,46,1,0,20040110,CHI,NOH
-Shot Chart Detail,0020300520,398,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040110,CHI,NOH
-Shot Chart Detail,0020300537,367,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,13,1,1,20040113,CHI,DET
-Shot Chart Detail,0020300537,454,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-16,1,1,20040113,CHI,DET
-Shot Chart Detail,0020300553,298,1594,Rick Brunson,1610612741,Chicago Bulls,3,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040115,MEM,CHI
-Shot Chart Detail,0020300553,345,1594,Rick Brunson,1610612741,Chicago Bulls,3,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040115,MEM,CHI
-Shot Chart Detail,0020300553,372,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,140,1,0,20040115,MEM,CHI
-Shot Chart Detail,0020300597,262,1594,Rick Brunson,1610612741,Chicago Bulls,3,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,179,1,1,20040121,ATL,CHI
-Shot Chart Detail,0020300597,310,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,34,186,1,1,20040121,ATL,CHI
-Shot Chart Detail,0020300616,336,1594,Rick Brunson,1610612741,Chicago Bulls,4,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-209,12,1,1,20040123,CHI,DAL
-Shot Chart Detail,0020300616,353,1594,Rick Brunson,1610612741,Chicago Bulls,4,8,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-6,1,1,20040123,CHI,DAL
-Shot Chart Detail,0020300644,73,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,13,207,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,82,1594,Rick Brunson,1610612741,Chicago Bulls,1,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,229,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,174,1,1,20040127,LAC,CHI
-Shot Chart Detail,0020300644,235,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,382,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,LAC,CHI
-Shot Chart Detail,0020300644,384,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,224,1,1,20040127,LAC,CHI
-Shot Chart Detail,0020300653,19,1594,Rick Brunson,1610612741,Chicago Bulls,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-5,1,1,20040128,DEN,CHI
-Shot Chart Detail,0020300653,117,1594,Rick Brunson,1610612741,Chicago Bulls,1,2,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-1,1,1,20040128,DEN,CHI
-Shot Chart Detail,0020300653,121,1594,Rick Brunson,1610612741,Chicago Bulls,1,1,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-16,1,0,20040128,DEN,CHI
-Shot Chart Detail,0020300653,191,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,38,1,1,20040128,DEN,CHI
-Shot Chart Detail,0020300653,212,1594,Rick Brunson,1610612741,Chicago Bulls,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,136,137,1,0,20040128,DEN,CHI
-Shot Chart Detail,0020300668,129,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,-14,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300668,131,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,22,1,0,20040130,GSW,CHI
-Shot Chart Detail,0020300668,247,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,148,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300668,395,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,132,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300668,429,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,94,146,1,0,20040130,GSW,CHI
-Shot Chart Detail,0020300668,466,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20040130,GSW,CHI
-Shot Chart Detail,0020300691,475,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,18,1,1,20040202,SEA,CHI
-Shot Chart Detail,0020300706,147,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040204,UTA,CHI
-Shot Chart Detail,0020300706,162,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-39,199,1,1,20040204,UTA,CHI
-Shot Chart Detail,0020300706,169,1594,Rick Brunson,1610612741,Chicago Bulls,2,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,59,232,1,1,20040204,UTA,CHI
-Shot Chart Detail,0020300706,239,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040204,UTA,CHI
-Shot Chart Detail,0020300706,448,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-123,183,1,0,20040204,UTA,CHI
-Shot Chart Detail,0020300745,118,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,26,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,137,1594,Rick Brunson,1610612741,Chicago Bulls,2,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,370,1594,Rick Brunson,1610612741,Chicago Bulls,4,8,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,408,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,122,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300745,417,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-194,189,1,1,20040210,CHI,IND
-Shot Chart Detail,0020300745,431,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,23,1,0,20040210,CHI,IND
-Shot Chart Detail,0020300759,469,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-1,1,0,20040212,CHI,BOS
-Shot Chart Detail,0020300792,117,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,112,145,1,0,20040220,CHI,SAC
-Shot Chart Detail,0020300829,450,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,46,1,0,20040225,CHI,DET
-Shot Chart Detail,0020300829,468,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,117,1,1,20040225,CHI,DET
-Shot Chart Detail,0020300829,486,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,76,1,0,20040225,CHI,DET
-Shot Chart Detail,0020300829,506,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040225,CHI,DET
-Shot Chart Detail,0020300834,464,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,-34,1,0,20040226,WAS,CHI
-Shot Chart Detail,0020300834,468,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,74,1,1,20040226,WAS,CHI
-Shot Chart Detail,0020300878,454,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,46,1,0,20040303,NOH,CHI
-Shot Chart Detail,0020300878,507,1594,Rick Brunson,1610612741,Chicago Bulls,5,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040303,NOH,CHI
-Shot Chart Detail,0020300898,160,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-9,1,0,20040306,PHI,CHI
-Shot Chart Detail,0020300898,486,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-15,248,1,1,20040306,PHI,CHI
-Shot Chart Detail,0020300930,82,1594,Rick Brunson,1610612741,Chicago Bulls,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,158,89,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,117,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040310,DET,CHI
-Shot Chart Detail,0020300930,321,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,214,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,363,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,186,201,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,366,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,396,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,40,1,0,20040310,DET,CHI
-Shot Chart Detail,0020300930,418,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,215,148,1,0,20040310,DET,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300343,201,1594,Rick Brunson,1610612741,Chicago Bulls,2,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-126,140,1,0,20031216,0,CHI,ORL
+Shot Chart Detail,20300343,225,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-9,1,1,20031216,1,CHI,ORL
+Shot Chart Detail,20300343,426,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,122,1,0,20031216,0,CHI,ORL
+Shot Chart Detail,20300343,441,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,18,1,0,20031216,0,CHI,ORL
+Shot Chart Detail,20300343,458,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,79,1,1,20031216,1,CHI,ORL
+Shot Chart Detail,20300352,60,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,36,1,0,20031217,0,DET,CHI
+Shot Chart Detail,20300352,100,1594,Rick Brunson,1610612741,Chicago Bulls,2,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-172,89,1,0,20031217,0,DET,CHI
+Shot Chart Detail,20300352,205,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,0,DET,CHI
+Shot Chart Detail,20300352,314,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,41,1,1,20031217,1,DET,CHI
+Shot Chart Detail,20300352,370,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,48,1,1,20031217,1,DET,CHI
+Shot Chart Detail,20300352,375,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,146,1,1,20031217,0,DET,CHI
+Shot Chart Detail,20300352,383,1594,Rick Brunson,1610612741,Chicago Bulls,4,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,120,1,0,20031217,0,DET,CHI
+Shot Chart Detail,20300352,385,1594,Rick Brunson,1610612741,Chicago Bulls,4,6,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,56,1,1,20031217,1,DET,CHI
+Shot Chart Detail,20300352,438,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-66,240,1,0,20031217,0,DET,CHI
+Shot Chart Detail,20300374,116,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-89,99,1,1,20031220,0,CHI,CLE
+Shot Chart Detail,20300374,157,1594,Rick Brunson,1610612741,Chicago Bulls,2,6,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,0,20031220,0,CHI,CLE
+Shot Chart Detail,20300374,356,1594,Rick Brunson,1610612741,Chicago Bulls,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,117,158,1,0,20031220,0,CHI,CLE
+Shot Chart Detail,20300374,451,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,46,1,0,20031220,0,CHI,CLE
+Shot Chart Detail,20300374,470,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-95,112,1,0,20031220,0,CHI,CLE
+Shot Chart Detail,20300387,29,1594,Rick Brunson,1610612741,Chicago Bulls,1,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,135,1,0,20031222,0,CHI,UTA
+Shot Chart Detail,20300387,58,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,201,1,0,20031222,0,CHI,UTA
+Shot Chart Detail,20300387,113,1594,Rick Brunson,1610612741,Chicago Bulls,2,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-189,82,1,1,20031222,1,CHI,UTA
+Shot Chart Detail,20300387,119,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031222,0,CHI,UTA
+Shot Chart Detail,20300387,195,1594,Rick Brunson,1610612741,Chicago Bulls,2,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,72,1,0,20031222,0,CHI,UTA
+Shot Chart Detail,20300387,299,1594,Rick Brunson,1610612741,Chicago Bulls,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,45,1,0,20031222,0,CHI,UTA
+Shot Chart Detail,20300387,339,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-25,141,1,0,20031222,0,CHI,UTA
+Shot Chart Detail,20300387,462,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,3,210,1,0,20031222,0,CHI,UTA
+Shot Chart Detail,20300391,275,1594,Rick Brunson,1610612741,Chicago Bulls,3,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031223,0,NJN,CHI
+Shot Chart Detail,20300391,372,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-164,84,1,0,20031223,0,NJN,CHI
+Shot Chart Detail,20300391,387,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,0,20031223,0,NJN,CHI
+Shot Chart Detail,20300391,390,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-16,1,1,20031223,1,NJN,CHI
+Shot Chart Detail,20300391,399,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,196,1,0,20031223,0,NJN,CHI
+Shot Chart Detail,20300405,206,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-117,197,1,0,20031226,0,CLE,CHI
+Shot Chart Detail,20300420,135,1594,Rick Brunson,1610612741,Chicago Bulls,2,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,161,1,0,20031227,0,CHI,WAS
+Shot Chart Detail,20300434,222,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031229,0,CHI,MIA
+Shot Chart Detail,20300454,60,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,72,196,1,0,20040102,0,NYK,CHI
+Shot Chart Detail,20300454,93,1594,Rick Brunson,1610612741,Chicago Bulls,1,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,141,1,0,20040102,0,NYK,CHI
+Shot Chart Detail,20300480,135,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-1,1,0,20040105,0,CHI,PHX
+Shot Chart Detail,20300480,296,1594,Rick Brunson,1610612741,Chicago Bulls,3,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,82,1,0,20040105,0,CHI,PHX
+Shot Chart Detail,20300480,322,1594,Rick Brunson,1610612741,Chicago Bulls,3,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,148,1,0,20040105,0,CHI,PHX
+Shot Chart Detail,20300480,404,1594,Rick Brunson,1610612741,Chicago Bulls,4,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-176,135,1,0,20040105,0,CHI,PHX
+Shot Chart Detail,20300480,413,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,202,1,1,20040105,1,CHI,PHX
+Shot Chart Detail,20300520,232,1594,Rick Brunson,1610612741,Chicago Bulls,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,46,1,0,20040110,0,CHI,NOH
+Shot Chart Detail,20300520,398,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040110,0,CHI,NOH
+Shot Chart Detail,20300537,367,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,13,1,1,20040113,1,CHI,DET
+Shot Chart Detail,20300537,454,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,-16,1,1,20040113,0,CHI,DET
+Shot Chart Detail,20300553,298,1594,Rick Brunson,1610612741,Chicago Bulls,3,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040115,0,MEM,CHI
+Shot Chart Detail,20300553,345,1594,Rick Brunson,1610612741,Chicago Bulls,3,2,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040115,0,MEM,CHI
+Shot Chart Detail,20300553,372,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,140,1,0,20040115,0,MEM,CHI
+Shot Chart Detail,20300597,262,1594,Rick Brunson,1610612741,Chicago Bulls,3,6,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,179,1,1,20040121,0,ATL,CHI
+Shot Chart Detail,20300597,310,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,34,186,1,1,20040121,0,ATL,CHI
+Shot Chart Detail,20300616,336,1594,Rick Brunson,1610612741,Chicago Bulls,4,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-209,12,1,1,20040123,1,CHI,DAL
+Shot Chart Detail,20300616,353,1594,Rick Brunson,1610612741,Chicago Bulls,4,8,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-6,1,1,20040123,1,CHI,DAL
+Shot Chart Detail,20300644,73,1594,Rick Brunson,1610612741,Chicago Bulls,1,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,13,207,1,0,20040127,0,LAC,CHI
+Shot Chart Detail,20300644,82,1594,Rick Brunson,1610612741,Chicago Bulls,1,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,0,LAC,CHI
+Shot Chart Detail,20300644,229,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,174,1,1,20040127,1,LAC,CHI
+Shot Chart Detail,20300644,235,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,0,LAC,CHI
+Shot Chart Detail,20300644,382,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040127,0,LAC,CHI
+Shot Chart Detail,20300644,384,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,224,1,1,20040127,1,LAC,CHI
+Shot Chart Detail,20300653,19,1594,Rick Brunson,1610612741,Chicago Bulls,1,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-5,1,1,20040128,1,DEN,CHI
+Shot Chart Detail,20300653,117,1594,Rick Brunson,1610612741,Chicago Bulls,1,2,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,117,-1,1,1,20040128,1,DEN,CHI
+Shot Chart Detail,20300653,121,1594,Rick Brunson,1610612741,Chicago Bulls,1,1,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-16,1,0,20040128,0,DEN,CHI
+Shot Chart Detail,20300653,191,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,38,1,1,20040128,1,DEN,CHI
+Shot Chart Detail,20300653,212,1594,Rick Brunson,1610612741,Chicago Bulls,2,4,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,136,137,1,0,20040128,0,DEN,CHI
+Shot Chart Detail,20300668,129,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,-14,1,1,20040130,0,GSW,CHI
+Shot Chart Detail,20300668,131,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,22,1,0,20040130,0,GSW,CHI
+Shot Chart Detail,20300668,247,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,148,1,1,20040130,1,GSW,CHI
+Shot Chart Detail,20300668,395,1594,Rick Brunson,1610612741,Chicago Bulls,4,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,132,1,1,20040130,0,GSW,CHI
+Shot Chart Detail,20300668,429,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,94,146,1,0,20040130,0,GSW,CHI
+Shot Chart Detail,20300668,466,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,1,20040130,0,GSW,CHI
+Shot Chart Detail,20300691,475,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,18,1,1,20040202,1,SEA,CHI
+Shot Chart Detail,20300706,147,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040204,0,UTA,CHI
+Shot Chart Detail,20300706,162,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-39,199,1,1,20040204,0,UTA,CHI
+Shot Chart Detail,20300706,169,1594,Rick Brunson,1610612741,Chicago Bulls,2,6,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,59,232,1,1,20040204,0,UTA,CHI
+Shot Chart Detail,20300706,239,1594,Rick Brunson,1610612741,Chicago Bulls,2,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040204,1,UTA,CHI
+Shot Chart Detail,20300706,448,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-123,183,1,0,20040204,0,UTA,CHI
+Shot Chart Detail,20300745,118,1594,Rick Brunson,1610612741,Chicago Bulls,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,26,1,0,20040210,0,CHI,IND
+Shot Chart Detail,20300745,137,1594,Rick Brunson,1610612741,Chicago Bulls,2,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040210,0,CHI,IND
+Shot Chart Detail,20300745,370,1594,Rick Brunson,1610612741,Chicago Bulls,4,8,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,7,1,0,20040210,0,CHI,IND
+Shot Chart Detail,20300745,408,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,128,122,1,0,20040210,0,CHI,IND
+Shot Chart Detail,20300745,417,1594,Rick Brunson,1610612741,Chicago Bulls,4,2,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-194,189,1,1,20040210,1,CHI,IND
+Shot Chart Detail,20300745,431,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,23,1,0,20040210,0,CHI,IND
+Shot Chart Detail,20300759,469,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-1,1,0,20040212,0,CHI,BOS
+Shot Chart Detail,20300792,117,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,112,145,1,0,20040220,0,CHI,SAC
+Shot Chart Detail,20300829,450,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-103,46,1,0,20040225,0,CHI,DET
+Shot Chart Detail,20300829,468,1594,Rick Brunson,1610612741,Chicago Bulls,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,117,1,1,20040225,1,CHI,DET
+Shot Chart Detail,20300829,486,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,76,1,0,20040225,0,CHI,DET
+Shot Chart Detail,20300829,506,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040225,0,CHI,DET
+Shot Chart Detail,20300834,464,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,-34,1,0,20040226,0,WAS,CHI
+Shot Chart Detail,20300834,468,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-77,74,1,1,20040226,0,WAS,CHI
+Shot Chart Detail,20300878,454,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,46,1,0,20040303,0,NOH,CHI
+Shot Chart Detail,20300878,507,1594,Rick Brunson,1610612741,Chicago Bulls,5,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040303,0,NOH,CHI
+Shot Chart Detail,20300898,160,1594,Rick Brunson,1610612741,Chicago Bulls,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,-9,1,0,20040306,0,PHI,CHI
+Shot Chart Detail,20300898,486,1594,Rick Brunson,1610612741,Chicago Bulls,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-15,248,1,1,20040306,0,PHI,CHI
+Shot Chart Detail,20300930,82,1594,Rick Brunson,1610612741,Chicago Bulls,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,158,89,1,0,20040310,0,DET,CHI
+Shot Chart Detail,20300930,117,1594,Rick Brunson,1610612741,Chicago Bulls,2,10,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040310,0,DET,CHI
+Shot Chart Detail,20300930,321,1594,Rick Brunson,1610612741,Chicago Bulls,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,214,1,0,20040310,0,DET,CHI
+Shot Chart Detail,20300930,363,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,186,201,1,0,20040310,0,DET,CHI
+Shot Chart Detail,20300930,366,1594,Rick Brunson,1610612741,Chicago Bulls,4,7,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040310,0,DET,CHI
+Shot Chart Detail,20300930,396,1594,Rick Brunson,1610612741,Chicago Bulls,4,4,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,40,1,0,20040310,0,DET,CHI
+Shot Chart Detail,20300930,418,1594,Rick Brunson,1610612741,Chicago Bulls,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,215,148,1,0,20040310,0,DET,CHI
+Shot Chart Detail,20300122,427,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,50,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031114,0,SAC,TOR
+Shot Chart Detail,20300122,435,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,4,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,92,1,1,20031114,1,SAC,TOR
+Shot Chart Detail,20300182,449,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,58,Missed Shot,Driving Finger Roll Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031123,0,TOR,MIL
+Shot Chart Detail,20300182,455,1594,Rick Brunson,1610612761,Toronto Raptors,4,0,27,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-48,84,1,1,20031123,0,TOR,MIL

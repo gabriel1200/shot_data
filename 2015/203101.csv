@@ -1,509 +1,255 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021400013,2,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,14,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,182,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,39,1,0,20141029,PHX,LAL
-Shot Chart Detail,0021400013,281,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,457,203101,Miles Plumlee,1610612756,Phoenix Suns,4,8,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,71,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,463,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,19,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,26,1,0,20141029,PHX,LAL
-Shot Chart Detail,0021400013,489,203101,Miles Plumlee,1610612756,Phoenix Suns,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,28,154,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400024,12,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,26,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,61,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,34,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,23,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,1,20141031,PHX,SAS
-Shot Chart Detail,0021400024,58,203101,Miles Plumlee,1610612756,Phoenix Suns,1,5,30,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,14,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,292,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,10,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,4,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,298,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,343,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20141031,PHX,SAS
-Shot Chart Detail,0021400037,167,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,6,1,1,20141101,UTA,PHX
-Shot Chart Detail,0021400037,281,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20141101,UTA,PHX
-Shot Chart Detail,0021400037,285,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,67,1,0,20141101,UTA,PHX
-Shot Chart Detail,0021400037,305,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20141101,UTA,PHX
-Shot Chart Detail,0021400056,8,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,0,20141104,LAL,PHX
-Shot Chart Detail,0021400056,21,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,0,20141104,LAL,PHX
-Shot Chart Detail,0021400056,245,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141104,LAL,PHX
-Shot Chart Detail,0021400056,360,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20141104,LAL,PHX
-Shot Chart Detail,0021400065,173,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,30,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20141105,PHX,MEM
-Shot Chart Detail,0021400065,237,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,8,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,69,1,0,20141105,PHX,MEM
-Shot Chart Detail,0021400065,238,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20141105,PHX,MEM
-Shot Chart Detail,0021400079,2,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,42,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,50,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,49,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-21,149,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,62,203101,Miles Plumlee,1610612756,Phoenix Suns,1,5,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,72,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,167,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,38,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,203,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,367,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,379,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,455,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,504,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,43,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,74,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,638,203101,Miles Plumlee,1610612756,Phoenix Suns,6,2,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,6,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,624,203101,Miles Plumlee,1610612756,Phoenix Suns,6,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,635,203101,Miles Plumlee,1610612756,Phoenix Suns,6,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,-6,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400095,57,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-19,61,1,1,20141109,PHX,GSW
-Shot Chart Detail,0021400095,209,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,99,1,0,20141109,PHX,GSW
-Shot Chart Detail,0021400095,528,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,6,1,0,20141109,PHX,GSW
-Shot Chart Detail,0021400116,15,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,14,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,34,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,49,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,65,129,1,0,20141112,PHX,BKN
-Shot Chart Detail,0021400116,211,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,47,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,0,20141112,PHX,BKN
-Shot Chart Detail,0021400116,314,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,458,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-3,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,516,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,541,203101,Miles Plumlee,1610612756,Phoenix Suns,4,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,1,1,0,20141112,PHX,BKN
-Shot Chart Detail,0021400130,57,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,6,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,200,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,67,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,241,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,47,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,113,1,0,20141114,PHX,CHA
-Shot Chart Detail,0021400130,246,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,-3,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,270,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,310,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20141114,PHX,CHA
-Shot Chart Detail,0021400130,312,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,459,203101,Miles Plumlee,1610612756,Phoenix Suns,4,5,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,462,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,0,20141114,PHX,CHA
-Shot Chart Detail,0021400141,18,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400141,25,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,6,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,157,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,39,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,163,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,171,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,7,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400141,267,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400141,299,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,19,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,329,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,63,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400148,6,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,13,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-8,1,0,20141117,BOS,PHX
-Shot Chart Detail,0021400148,208,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,37,1,0,20141117,BOS,PHX
-Shot Chart Detail,0021400165,10,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,28,1,0,20141119,DET,PHX
-Shot Chart Detail,0021400165,301,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,45,1,1,20141119,DET,PHX
-Shot Chart Detail,0021400165,418,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,49,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,52,1,0,20141119,DET,PHX
-Shot Chart Detail,0021400173,31,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,5,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,6,1,1,20141121,PHI,PHX
-Shot Chart Detail,0021400173,288,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,0,20141121,PHI,PHX
-Shot Chart Detail,0021400173,293,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20141121,PHI,PHX
-Shot Chart Detail,0021400184,15,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,9,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,74,1,1,20141122,IND,PHX
-Shot Chart Detail,0021400184,24,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20141122,IND,PHX
-Shot Chart Detail,0021400184,150,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,47,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,7,1,1,20141122,IND,PHX
-Shot Chart Detail,0021400201,11,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20141124,TOR,PHX
-Shot Chart Detail,0021400221,14,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,78,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,19,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20141126,PHX,DEN
-Shot Chart Detail,0021400221,65,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,51,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,73,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,50,1,1,20141126,PHX,DEN
-Shot Chart Detail,0021400221,219,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,311,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,35,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,499,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,12,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,56,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,515,203101,Miles Plumlee,1610612756,Phoenix Suns,4,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20141126,PHX,DEN
-Shot Chart Detail,0021400232,347,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20141128,DEN,PHX
-Shot Chart Detail,0021400246,4,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,22,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,47,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,11,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5,156,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,193,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,3,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,268,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,280,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,294,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400260,26,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20141202,PHX,IND
-Shot Chart Detail,0021400260,127,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,57,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20141202,PHX,IND
-Shot Chart Detail,0021400260,212,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,57,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,42,1,0,20141202,PHX,IND
-Shot Chart Detail,0021400260,391,203101,Miles Plumlee,1610612756,Phoenix Suns,4,11,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,1,20141202,PHX,IND
-Shot Chart Detail,0021400284,38,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141205,DAL,PHX
-Shot Chart Detail,0021400284,40,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,19,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,34,1,1,20141205,DAL,PHX
-Shot Chart Detail,0021400290,21,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,42,1,1,20141206,HOU,PHX
-Shot Chart Detail,0021400290,141,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141206,HOU,PHX
-Shot Chart Detail,0021400290,144,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,51,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,14,1,0,20141206,HOU,PHX
-Shot Chart Detail,0021400307,25,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,55,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,44,1,0,20141208,LAC,PHX
-Shot Chart Detail,0021400307,454,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20141208,LAC,PHX
-Shot Chart Detail,0021400313,37,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141209,PHX,MIA
-Shot Chart Detail,0021400313,165,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,27,1,0,20141209,PHX,MIA
-Shot Chart Detail,0021400313,211,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,1,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,0,20141209,PHX,MIA
-Shot Chart Detail,0021400337,6,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,11,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,10,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,0,20141212,PHX,DET
-Shot Chart Detail,0021400337,13,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,0,20141212,PHX,DET
-Shot Chart Detail,0021400337,18,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,31,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,54,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,35,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20141212,PHX,DET
-Shot Chart Detail,0021400337,44,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,282,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,21,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400352,9,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,34,1,1,20141214,OKC,PHX
-Shot Chart Detail,0021400352,84,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141214,OKC,PHX
-Shot Chart Detail,0021400352,216,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,3,Missed Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,20,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400352,234,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20141214,OKC,PHX
-Shot Chart Detail,0021400352,300,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,47,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,45,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400352,334,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,47,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400352,336,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,46,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400360,400,203101,Miles Plumlee,1610612756,Phoenix Suns,3,0,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,48,1,1,20141215,PHX,MIL
-Shot Chart Detail,0021400369,98,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,28,1,1,20141217,CHA,PHX
-Shot Chart Detail,0021400369,360,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20141217,CHA,PHX
-Shot Chart Detail,0021400406,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,15,176,1,1,20141221,WAS,PHX
-Shot Chart Detail,0021400406,448,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20141221,WAS,PHX
-Shot Chart Detail,0021400425,82,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,35,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,0,20141223,PHX,DAL
-Shot Chart Detail,0021400425,173,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,0,20141223,PHX,DAL
-Shot Chart Detail,0021400425,377,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,19,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,15,1,0,20141223,PHX,DAL
-Shot Chart Detail,0021400425,485,203101,Miles Plumlee,1610612756,Phoenix Suns,4,9,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141223,PHX,DAL
-Shot Chart Detail,0021400442,325,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,20141226,SAC,PHX
-Shot Chart Detail,0021400442,327,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20141226,SAC,PHX
-Shot Chart Detail,0021400442,341,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,0,20141226,SAC,PHX
-Shot Chart Detail,0021400458,111,203101,Miles Plumlee,1610612756,Phoenix Suns,1,0,47,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,41,1,1,20141228,LAL,PHX
-Shot Chart Detail,0021400458,358,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20141228,LAL,PHX
-Shot Chart Detail,0021400458,398,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-6,1,1,20141228,LAL,PHX
-Shot Chart Detail,0021400469,91,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,27,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,0,20141230,NOP,PHX
-Shot Chart Detail,0021400469,127,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,NOP,PHX
-Shot Chart Detail,0021400469,144,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,0,20141230,NOP,PHX
-Shot Chart Detail,0021400469,374,203101,Miles Plumlee,1610612756,Phoenix Suns,4,11,20,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,14,1,1,20141230,NOP,PHX
-Shot Chart Detail,0021400469,384,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,12,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,NOP,PHX
-Shot Chart Detail,0021400480,87,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,31,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,20,1,0,20141231,OKC,PHX
-Shot Chart Detail,0021400480,151,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141231,OKC,PHX
-Shot Chart Detail,0021400480,382,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-2,1,1,20141231,OKC,PHX
-Shot Chart Detail,0021400480,432,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20141231,OKC,PHX
-Shot Chart Detail,0021400491,180,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400491,325,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400491,363,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400491,406,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,44,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400507,134,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400507,290,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,319,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,339,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,349,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,43,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400507,435,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,31,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400520,142,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150106,MIL,PHX
-Shot Chart Detail,0021400520,306,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,12,1,0,20150106,MIL,PHX
-Shot Chart Detail,0021400520,330,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150106,MIL,PHX
-Shot Chart Detail,0021400520,332,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,0,20150106,MIL,PHX
-Shot Chart Detail,0021400531,83,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,53,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,0,20150107,MIN,PHX
-Shot Chart Detail,0021400531,137,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,55,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,15,1,0,20150107,MIN,PHX
-Shot Chart Detail,0021400596,318,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,36,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20150116,PHX,MIN
-Shot Chart Detail,0021400596,332,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,1,1,1,20150116,PHX,MIN
-Shot Chart Detail,0021400596,334,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,PHX,MIN
-Shot Chart Detail,0021400622,116,203101,Miles Plumlee,1610612756,Phoenix Suns,1,2,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-3,1,1,20150119,PHX,LAL
-Shot Chart Detail,0021400634,143,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,53,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,50,1,0,20150121,PHX,POR
-Shot Chart Detail,0021400634,169,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,6,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,-48,64,1,1,20150121,PHX,POR
-Shot Chart Detail,0021400634,187,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20150121,PHX,POR
-Shot Chart Detail,0021400634,192,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150121,PHX,POR
-Shot Chart Detail,0021400650,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150123,PHX,HOU
-Shot Chart Detail,0021400659,81,203101,Miles Plumlee,1610612756,Phoenix Suns,1,2,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,0,1,1,20150125,PHX,LAC
-Shot Chart Detail,0021400659,100,203101,Miles Plumlee,1610612756,Phoenix Suns,1,0,29,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,0,20150125,PHX,LAC
-Shot Chart Detail,0021400659,547,203101,Miles Plumlee,1610612756,Phoenix Suns,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,0,1,0,20150125,PHX,LAC
-Shot Chart Detail,0021400704,229,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150130,PHX,CHI
-Shot Chart Detail,0021400704,306,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,33,1,0,20150130,PHX,CHI
-Shot Chart Detail,0021400704,313,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,146,1,0,20150130,PHX,CHI
-Shot Chart Detail,0021400704,345,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150130,PHX,CHI
-Shot Chart Detail,0021400715,110,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,38,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150131,GSW,PHX
-Shot Chart Detail,0021400725,373,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,27,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150202,PHX,MEM
-Shot Chart Detail,0021400745,215,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,33,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400745,232,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400745,323,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400745,361,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400756,22,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,12,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,6,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400756,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,58,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,37,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400756,180,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,PHX,UTA
-Shot Chart Detail,0021400756,182,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,PHX,UTA
-Shot Chart Detail,0021400756,252,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400756,262,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,57,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,PHX,UTA
-Shot Chart Detail,0021400756,437,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,27,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400773,256,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,SAC,PHX
-Shot Chart Detail,0021400773,432,203101,Miles Plumlee,1610612756,Phoenix Suns,4,6,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,SAC,PHX
-Shot Chart Detail,0021400773,502,203101,Miles Plumlee,1610612756,Phoenix Suns,4,0,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-19,34,1,0,20150208,SAC,PHX
-Shot Chart Detail,0021400784,9,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,49,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,0,20150210,PHX,HOU
-Shot Chart Detail,0021400784,39,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,47,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150210,PHX,HOU
-Shot Chart Detail,0021400784,393,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20150210,PHX,HOU
-Shot Chart Detail,0021400784,561,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,48,71,1,0,20150210,PHX,HOU
-Shot Chart Detail,0021400822,425,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,8,11,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,1,20150222,MIL,ATL
-Shot Chart Detail,0021400822,479,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,40,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,26,1,0,20150222,MIL,ATL
-Shot Chart Detail,0021400822,504,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,0,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20150222,MIL,ATL
-Shot Chart Detail,0021400831,176,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,36,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20150223,CHI,MIL
-Shot Chart Detail,0021400831,198,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150223,CHI,MIL
-Shot Chart Detail,0021400831,214,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,14,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,33,1,0,20150223,CHI,MIL
-Shot Chart Detail,0021400831,463,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,5,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,31,1,1,20150223,CHI,MIL
-Shot Chart Detail,0021400831,496,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,45,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,45,1,0,20150223,CHI,MIL
-Shot Chart Detail,0021400868,183,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,1,20150227,LAL,MIL
-Shot Chart Detail,0021400868,188,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,0,20150227,LAL,MIL
-Shot Chart Detail,0021400868,190,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,9,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,19,1,1,20150227,LAL,MIL
-Shot Chart Detail,0021400868,210,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,33,1,0,20150227,LAL,MIL
-Shot Chart Detail,0021400868,221,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,10,1,0,20150227,LAL,MIL
-Shot Chart Detail,0021400868,236,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20150227,LAL,MIL
-Shot Chart Detail,0021400876,130,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,10,31,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,15,1,0,20150228,UTA,MIL
-Shot Chart Detail,0021400876,133,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,9,58,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150228,UTA,MIL
-Shot Chart Detail,0021400895,186,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,7,55,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-8,1,0,20150303,DEN,MIL
-Shot Chart Detail,0021400895,434,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,2,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20150303,DEN,MIL
-Shot Chart Detail,0021400956,92,203101,Miles Plumlee,1610612749,Milwaukee Bucks,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20150311,MIL,ORL
-Shot Chart Detail,0021400956,111,203101,Miles Plumlee,1610612749,Milwaukee Bucks,1,0,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-35,48,1,0,20150311,MIL,ORL
-Shot Chart Detail,0021400962,138,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,32,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-19,1,1,20150312,IND,MIL
-Shot Chart Detail,0021400979,142,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,0,20150314,MEM,MIL
-Shot Chart Detail,0021400979,378,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,19,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-3,1,0,20150314,MEM,MIL
-Shot Chart Detail,0021400979,388,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150314,MEM,MIL
-Shot Chart Detail,0021400979,399,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,9,11,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,1,20150314,MEM,MIL
-Shot Chart Detail,0021401010,300,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20150318,MIL,SAS
-Shot Chart Detail,0021401010,420,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,2,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,44,1,0,20150318,MIL,SAS
-Shot Chart Detail,0021401010,497,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,4,28,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20150318,MIL,SAS
-Shot Chart Detail,0021401010,523,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150318,MIL,SAS
-Shot Chart Detail,0021401022,150,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,7,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,166,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,10,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,-8,1,1,20150320,BKN,MIL
-Shot Chart Detail,0021401022,176,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,8,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,48,1,1,20150320,BKN,MIL
-Shot Chart Detail,0021401022,215,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,19,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,383,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,2,11,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,397,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,47,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,437,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,36,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,BKN,MIL
-Shot Chart Detail,0021401037,431,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150322,MIL,CLE
-Shot Chart Detail,0021401037,438,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,63,1,0,20150322,MIL,CLE
-Shot Chart Detail,0021401055,155,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-1,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401055,174,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,9,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,9,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401055,214,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,236,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,371,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,3,5,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,377,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,2,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,387,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,0,40,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401055,413,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401167,180,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,44,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150408,MIL,CLE
-Shot Chart Detail,0021401167,200,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,4,18,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,0,20150408,MIL,CLE
-Shot Chart Detail,0021401180,161,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,7,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,0,20150410,NYK,MIL
-Shot Chart Detail,0021401193,455,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,4,43,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20150412,MIL,BKN
-Shot Chart Detail,0021401193,468,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,3,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,0,20150412,MIL,BKN
-Shot Chart Detail,0021401204,193,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,35,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150413,PHI,MIL
-Shot Chart Detail,0021401204,199,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,0,20150413,PHI,MIL
-Shot Chart Detail,0021401204,580,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150413,PHI,MIL
-Shot Chart Detail,0021401204,588,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,0,20150413,PHI,MIL
-Shot Chart Detail,0021401221,194,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,25,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021401221,196,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021401221,215,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,1,17,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021401221,387,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021400013,2,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,14,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,182,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,39,1,0,20141029,PHX,LAL
-Shot Chart Detail,0021400013,281,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,457,203101,Miles Plumlee,1610612756,Phoenix Suns,4,8,7,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-133,71,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400013,463,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,19,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,26,1,0,20141029,PHX,LAL
-Shot Chart Detail,0021400013,489,203101,Miles Plumlee,1610612756,Phoenix Suns,4,3,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,28,154,1,1,20141029,PHX,LAL
-Shot Chart Detail,0021400024,12,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,26,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,61,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,34,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,23,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,1,20141031,PHX,SAS
-Shot Chart Detail,0021400024,58,203101,Miles Plumlee,1610612756,Phoenix Suns,1,5,30,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,95,14,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,292,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,10,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,4,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,298,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,0,20141031,PHX,SAS
-Shot Chart Detail,0021400024,343,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20141031,PHX,SAS
-Shot Chart Detail,0021400037,167,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,6,1,1,20141101,UTA,PHX
-Shot Chart Detail,0021400037,281,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20141101,UTA,PHX
-Shot Chart Detail,0021400037,285,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,67,1,0,20141101,UTA,PHX
-Shot Chart Detail,0021400037,305,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20141101,UTA,PHX
-Shot Chart Detail,0021400056,8,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,0,20141104,LAL,PHX
-Shot Chart Detail,0021400056,21,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,0,20141104,LAL,PHX
-Shot Chart Detail,0021400056,245,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141104,LAL,PHX
-Shot Chart Detail,0021400056,360,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20141104,LAL,PHX
-Shot Chart Detail,0021400065,173,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,30,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20141105,PHX,MEM
-Shot Chart Detail,0021400065,237,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,8,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,69,1,0,20141105,PHX,MEM
-Shot Chart Detail,0021400065,238,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20141105,PHX,MEM
-Shot Chart Detail,0021400079,2,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,42,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,50,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,49,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-21,149,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,62,203101,Miles Plumlee,1610612756,Phoenix Suns,1,5,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,72,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,167,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,38,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,203,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,24,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,367,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,379,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,455,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,59,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,504,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,43,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,74,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,638,203101,Miles Plumlee,1610612756,Phoenix Suns,6,2,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,6,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400079,624,203101,Miles Plumlee,1610612756,Phoenix Suns,6,2,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20141107,PHX,SAC
-Shot Chart Detail,0021400079,635,203101,Miles Plumlee,1610612756,Phoenix Suns,6,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,-6,1,0,20141107,PHX,SAC
-Shot Chart Detail,0021400095,57,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-19,61,1,1,20141109,PHX,GSW
-Shot Chart Detail,0021400095,209,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,99,1,0,20141109,PHX,GSW
-Shot Chart Detail,0021400095,528,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,6,1,0,20141109,PHX,GSW
-Shot Chart Detail,0021400116,15,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,14,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,34,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,49,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,65,129,1,0,20141112,PHX,BKN
-Shot Chart Detail,0021400116,211,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,47,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,0,20141112,PHX,BKN
-Shot Chart Detail,0021400116,314,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,458,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-3,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,516,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141112,PHX,BKN
-Shot Chart Detail,0021400116,541,203101,Miles Plumlee,1610612756,Phoenix Suns,4,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,1,1,0,20141112,PHX,BKN
-Shot Chart Detail,0021400130,57,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,6,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,200,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,67,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,241,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,47,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,113,1,0,20141114,PHX,CHA
-Shot Chart Detail,0021400130,246,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,-3,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,270,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,310,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20141114,PHX,CHA
-Shot Chart Detail,0021400130,312,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,459,203101,Miles Plumlee,1610612756,Phoenix Suns,4,5,25,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20141114,PHX,CHA
-Shot Chart Detail,0021400130,462,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,0,20141114,PHX,CHA
-Shot Chart Detail,0021400141,18,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400141,25,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,6,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,157,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,39,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,163,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,171,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,7,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400141,267,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400141,299,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,19,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,0,20141115,LAC,PHX
-Shot Chart Detail,0021400141,329,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,63,1,1,20141115,LAC,PHX
-Shot Chart Detail,0021400148,6,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,13,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-8,1,0,20141117,BOS,PHX
-Shot Chart Detail,0021400148,208,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,37,1,0,20141117,BOS,PHX
-Shot Chart Detail,0021400165,10,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,28,1,0,20141119,DET,PHX
-Shot Chart Detail,0021400165,301,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,45,1,1,20141119,DET,PHX
-Shot Chart Detail,0021400165,418,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,49,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,52,1,0,20141119,DET,PHX
-Shot Chart Detail,0021400173,31,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,5,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,6,1,1,20141121,PHI,PHX
-Shot Chart Detail,0021400173,288,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,0,20141121,PHI,PHX
-Shot Chart Detail,0021400173,293,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20141121,PHI,PHX
-Shot Chart Detail,0021400184,15,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,9,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,74,1,1,20141122,IND,PHX
-Shot Chart Detail,0021400184,24,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20141122,IND,PHX
-Shot Chart Detail,0021400184,150,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,47,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,7,1,1,20141122,IND,PHX
-Shot Chart Detail,0021400201,11,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20141124,TOR,PHX
-Shot Chart Detail,0021400221,14,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,78,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,19,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20141126,PHX,DEN
-Shot Chart Detail,0021400221,65,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,51,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,73,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,19,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,50,1,1,20141126,PHX,DEN
-Shot Chart Detail,0021400221,219,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,311,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,35,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,499,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,12,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,56,1,0,20141126,PHX,DEN
-Shot Chart Detail,0021400221,515,203101,Miles Plumlee,1610612756,Phoenix Suns,4,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20141126,PHX,DEN
-Shot Chart Detail,0021400232,347,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20141128,DEN,PHX
-Shot Chart Detail,0021400246,4,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,22,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,47,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,11,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5,156,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,193,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,3,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,268,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,280,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400246,294,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20141130,PHX,ORL
-Shot Chart Detail,0021400260,26,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20141202,PHX,IND
-Shot Chart Detail,0021400260,127,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,57,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20141202,PHX,IND
-Shot Chart Detail,0021400260,212,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,57,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,42,1,0,20141202,PHX,IND
-Shot Chart Detail,0021400260,391,203101,Miles Plumlee,1610612756,Phoenix Suns,4,11,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,1,20141202,PHX,IND
-Shot Chart Detail,0021400284,38,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141205,DAL,PHX
-Shot Chart Detail,0021400284,40,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,19,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,34,1,1,20141205,DAL,PHX
-Shot Chart Detail,0021400290,21,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,42,1,1,20141206,HOU,PHX
-Shot Chart Detail,0021400290,141,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141206,HOU,PHX
-Shot Chart Detail,0021400290,144,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,51,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,14,1,0,20141206,HOU,PHX
-Shot Chart Detail,0021400307,25,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,55,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,44,1,0,20141208,LAC,PHX
-Shot Chart Detail,0021400307,454,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20141208,LAC,PHX
-Shot Chart Detail,0021400313,37,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141209,PHX,MIA
-Shot Chart Detail,0021400313,165,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,27,1,0,20141209,PHX,MIA
-Shot Chart Detail,0021400313,211,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,1,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,0,20141209,PHX,MIA
-Shot Chart Detail,0021400337,6,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,11,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,10,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,0,20141212,PHX,DET
-Shot Chart Detail,0021400337,13,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,0,20141212,PHX,DET
-Shot Chart Detail,0021400337,18,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,31,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,54,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,35,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20141212,PHX,DET
-Shot Chart Detail,0021400337,44,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400337,282,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,21,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,PHX,DET
-Shot Chart Detail,0021400352,9,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,34,1,1,20141214,OKC,PHX
-Shot Chart Detail,0021400352,84,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141214,OKC,PHX
-Shot Chart Detail,0021400352,216,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,3,Missed Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,20,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400352,234,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20141214,OKC,PHX
-Shot Chart Detail,0021400352,300,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,47,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,45,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400352,334,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,47,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400352,336,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,46,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,0,20141214,OKC,PHX
-Shot Chart Detail,0021400360,400,203101,Miles Plumlee,1610612756,Phoenix Suns,3,0,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,48,1,1,20141215,PHX,MIL
-Shot Chart Detail,0021400369,98,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,7,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,28,1,1,20141217,CHA,PHX
-Shot Chart Detail,0021400369,360,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20141217,CHA,PHX
-Shot Chart Detail,0021400406,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,4,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,15,176,1,1,20141221,WAS,PHX
-Shot Chart Detail,0021400406,448,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20141221,WAS,PHX
-Shot Chart Detail,0021400425,82,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,35,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,0,20141223,PHX,DAL
-Shot Chart Detail,0021400425,173,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,0,20141223,PHX,DAL
-Shot Chart Detail,0021400425,377,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,19,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,15,1,0,20141223,PHX,DAL
-Shot Chart Detail,0021400425,485,203101,Miles Plumlee,1610612756,Phoenix Suns,4,9,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141223,PHX,DAL
-Shot Chart Detail,0021400442,325,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,20141226,SAC,PHX
-Shot Chart Detail,0021400442,327,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20141226,SAC,PHX
-Shot Chart Detail,0021400442,341,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,0,20141226,SAC,PHX
-Shot Chart Detail,0021400458,111,203101,Miles Plumlee,1610612756,Phoenix Suns,1,0,47,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,41,1,1,20141228,LAL,PHX
-Shot Chart Detail,0021400458,358,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20141228,LAL,PHX
-Shot Chart Detail,0021400458,398,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-6,1,1,20141228,LAL,PHX
-Shot Chart Detail,0021400469,91,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,27,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,0,20141230,NOP,PHX
-Shot Chart Detail,0021400469,127,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,NOP,PHX
-Shot Chart Detail,0021400469,144,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,0,20141230,NOP,PHX
-Shot Chart Detail,0021400469,374,203101,Miles Plumlee,1610612756,Phoenix Suns,4,11,20,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,14,1,1,20141230,NOP,PHX
-Shot Chart Detail,0021400469,384,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,12,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,NOP,PHX
-Shot Chart Detail,0021400480,87,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,31,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,20,1,0,20141231,OKC,PHX
-Shot Chart Detail,0021400480,151,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141231,OKC,PHX
-Shot Chart Detail,0021400480,382,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-2,1,1,20141231,OKC,PHX
-Shot Chart Detail,0021400480,432,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20141231,OKC,PHX
-Shot Chart Detail,0021400491,180,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400491,325,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400491,363,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400491,406,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,44,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20150102,PHX,PHI
-Shot Chart Detail,0021400507,134,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400507,290,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,319,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,339,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,349,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,43,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400507,435,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,31,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400520,142,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150106,MIL,PHX
-Shot Chart Detail,0021400520,306,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,12,1,0,20150106,MIL,PHX
-Shot Chart Detail,0021400520,330,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150106,MIL,PHX
-Shot Chart Detail,0021400520,332,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,0,20150106,MIL,PHX
-Shot Chart Detail,0021400531,83,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,53,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,0,20150107,MIN,PHX
-Shot Chart Detail,0021400531,137,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,55,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,15,1,0,20150107,MIN,PHX
-Shot Chart Detail,0021400596,318,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,36,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20150116,PHX,MIN
-Shot Chart Detail,0021400596,332,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,17,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,1,1,1,20150116,PHX,MIN
-Shot Chart Detail,0021400596,334,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,55,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,PHX,MIN
-Shot Chart Detail,0021400622,116,203101,Miles Plumlee,1610612756,Phoenix Suns,1,2,33,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-3,1,1,20150119,PHX,LAL
-Shot Chart Detail,0021400634,143,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,53,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,50,1,0,20150121,PHX,POR
-Shot Chart Detail,0021400634,169,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,6,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,-48,64,1,1,20150121,PHX,POR
-Shot Chart Detail,0021400634,187,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20150121,PHX,POR
-Shot Chart Detail,0021400634,192,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150121,PHX,POR
-Shot Chart Detail,0021400650,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150123,PHX,HOU
-Shot Chart Detail,0021400659,81,203101,Miles Plumlee,1610612756,Phoenix Suns,1,2,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,0,1,1,20150125,PHX,LAC
-Shot Chart Detail,0021400659,100,203101,Miles Plumlee,1610612756,Phoenix Suns,1,0,29,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,0,20150125,PHX,LAC
-Shot Chart Detail,0021400659,547,203101,Miles Plumlee,1610612756,Phoenix Suns,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,0,1,0,20150125,PHX,LAC
-Shot Chart Detail,0021400704,229,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150130,PHX,CHI
-Shot Chart Detail,0021400704,306,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,33,1,0,20150130,PHX,CHI
-Shot Chart Detail,0021400704,313,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,146,1,0,20150130,PHX,CHI
-Shot Chart Detail,0021400704,345,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150130,PHX,CHI
-Shot Chart Detail,0021400715,110,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,38,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150131,GSW,PHX
-Shot Chart Detail,0021400725,373,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,27,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150202,PHX,MEM
-Shot Chart Detail,0021400745,215,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,33,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400745,232,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400745,323,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400745,361,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,0,20150205,POR,PHX
-Shot Chart Detail,0021400756,22,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,12,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,6,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400756,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,58,Missed Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,146,37,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400756,180,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,PHX,UTA
-Shot Chart Detail,0021400756,182,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,PHX,UTA
-Shot Chart Detail,0021400756,252,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400756,262,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,57,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,PHX,UTA
-Shot Chart Detail,0021400756,437,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,27,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20150206,PHX,UTA
-Shot Chart Detail,0021400773,256,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,SAC,PHX
-Shot Chart Detail,0021400773,432,203101,Miles Plumlee,1610612756,Phoenix Suns,4,6,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,SAC,PHX
-Shot Chart Detail,0021400773,502,203101,Miles Plumlee,1610612756,Phoenix Suns,4,0,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-19,34,1,0,20150208,SAC,PHX
-Shot Chart Detail,0021400784,9,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,49,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,0,20150210,PHX,HOU
-Shot Chart Detail,0021400784,39,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,47,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150210,PHX,HOU
-Shot Chart Detail,0021400784,393,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20150210,PHX,HOU
-Shot Chart Detail,0021400784,561,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,48,71,1,0,20150210,PHX,HOU
-Shot Chart Detail,0021400822,425,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,8,11,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,1,20150222,MIL,ATL
-Shot Chart Detail,0021400822,479,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,40,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,26,1,0,20150222,MIL,ATL
-Shot Chart Detail,0021400822,504,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,0,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20150222,MIL,ATL
-Shot Chart Detail,0021400831,176,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,36,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20150223,CHI,MIL
-Shot Chart Detail,0021400831,198,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150223,CHI,MIL
-Shot Chart Detail,0021400831,214,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,14,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,33,1,0,20150223,CHI,MIL
-Shot Chart Detail,0021400831,463,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,5,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,31,1,1,20150223,CHI,MIL
-Shot Chart Detail,0021400831,496,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,45,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,45,1,0,20150223,CHI,MIL
-Shot Chart Detail,0021400868,183,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,1,20150227,LAL,MIL
-Shot Chart Detail,0021400868,188,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,0,20150227,LAL,MIL
-Shot Chart Detail,0021400868,190,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,9,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,19,1,1,20150227,LAL,MIL
-Shot Chart Detail,0021400868,210,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,33,1,0,20150227,LAL,MIL
-Shot Chart Detail,0021400868,221,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,2,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,10,1,0,20150227,LAL,MIL
-Shot Chart Detail,0021400868,236,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20150227,LAL,MIL
-Shot Chart Detail,0021400876,130,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,10,31,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,15,1,0,20150228,UTA,MIL
-Shot Chart Detail,0021400876,133,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,9,58,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150228,UTA,MIL
-Shot Chart Detail,0021400895,186,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,7,55,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-8,1,0,20150303,DEN,MIL
-Shot Chart Detail,0021400895,434,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,2,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20150303,DEN,MIL
-Shot Chart Detail,0021400956,92,203101,Miles Plumlee,1610612749,Milwaukee Bucks,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20150311,MIL,ORL
-Shot Chart Detail,0021400956,111,203101,Miles Plumlee,1610612749,Milwaukee Bucks,1,0,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-35,48,1,0,20150311,MIL,ORL
-Shot Chart Detail,0021400962,138,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,32,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-19,1,1,20150312,IND,MIL
-Shot Chart Detail,0021400979,142,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,0,20150314,MEM,MIL
-Shot Chart Detail,0021400979,378,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,19,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-3,1,0,20150314,MEM,MIL
-Shot Chart Detail,0021400979,388,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150314,MEM,MIL
-Shot Chart Detail,0021400979,399,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,9,11,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,1,20150314,MEM,MIL
-Shot Chart Detail,0021401010,300,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,8,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20150318,MIL,SAS
-Shot Chart Detail,0021401010,420,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,2,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,44,1,0,20150318,MIL,SAS
-Shot Chart Detail,0021401010,497,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,4,28,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20150318,MIL,SAS
-Shot Chart Detail,0021401010,523,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150318,MIL,SAS
-Shot Chart Detail,0021401022,150,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,7,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,166,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,10,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,-8,1,1,20150320,BKN,MIL
-Shot Chart Detail,0021401022,176,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,8,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,48,1,1,20150320,BKN,MIL
-Shot Chart Detail,0021401022,215,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,19,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,383,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,2,11,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,397,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,47,1,0,20150320,BKN,MIL
-Shot Chart Detail,0021401022,437,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,36,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,BKN,MIL
-Shot Chart Detail,0021401037,431,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150322,MIL,CLE
-Shot Chart Detail,0021401037,438,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,63,1,0,20150322,MIL,CLE
-Shot Chart Detail,0021401055,155,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-1,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401055,174,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,9,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,9,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401055,214,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,236,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,371,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,3,5,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,377,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,2,15,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20150324,MIL,MIA
-Shot Chart Detail,0021401055,387,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,0,40,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401055,413,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20150324,MIL,MIA
-Shot Chart Detail,0021401167,180,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,44,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150408,MIL,CLE
-Shot Chart Detail,0021401167,200,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,4,18,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,0,20150408,MIL,CLE
-Shot Chart Detail,0021401180,161,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,7,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,0,20150410,NYK,MIL
-Shot Chart Detail,0021401193,455,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,4,43,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20150412,MIL,BKN
-Shot Chart Detail,0021401193,468,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,3,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,0,20150412,MIL,BKN
-Shot Chart Detail,0021401204,193,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,35,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150413,PHI,MIL
-Shot Chart Detail,0021401204,199,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,0,20150413,PHI,MIL
-Shot Chart Detail,0021401204,580,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150413,PHI,MIL
-Shot Chart Detail,0021401204,588,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,0,20150413,PHI,MIL
-Shot Chart Detail,0021401221,194,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,25,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021401221,196,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021401221,215,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,1,17,Made Shot,Reverse Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150415,MIL,BOS
-Shot Chart Detail,0021401221,387,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20150415,MIL,BOS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21400013,2,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,43,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,1,PHX,LAL
+Shot Chart Detail,21400013,14,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,31,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,1,PHX,LAL
+Shot Chart Detail,21400013,182,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,39,1,0,20141029,0,PHX,LAL
+Shot Chart Detail,21400013,281,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,27,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141029,1,PHX,LAL
+Shot Chart Detail,21400013,457,203101,Miles Plumlee,1610612756,Phoenix Suns,4,8,7,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-133,71,1,1,20141029,0,PHX,LAL
+Shot Chart Detail,21400013,463,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,19,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,26,1,0,20141029,0,PHX,LAL
+Shot Chart Detail,21400013,489,203101,Miles Plumlee,1610612756,Phoenix Suns,4,3,57,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,28,154,1,1,20141029,1,PHX,LAL
+Shot Chart Detail,21400024,12,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,26,Missed Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-136,61,1,0,20141031,0,PHX,SAS
+Shot Chart Detail,21400024,34,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,23,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,1,20141031,0,PHX,SAS
+Shot Chart Detail,21400024,58,203101,Miles Plumlee,1610612756,Phoenix Suns,1,5,30,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,95,14,1,0,20141031,0,PHX,SAS
+Shot Chart Detail,21400024,292,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,10,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,39,4,1,0,20141031,0,PHX,SAS
+Shot Chart Detail,21400024,298,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,27,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,0,20141031,0,PHX,SAS
+Shot Chart Detail,21400024,343,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,54,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20141031,1,PHX,SAS
+Shot Chart Detail,21400037,167,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-30,6,1,1,20141101,1,UTA,PHX
+Shot Chart Detail,21400037,281,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,58,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20141101,0,UTA,PHX
+Shot Chart Detail,21400037,285,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,21,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-11,67,1,0,20141101,0,UTA,PHX
+Shot Chart Detail,21400037,305,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,45,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20141101,0,UTA,PHX
+Shot Chart Detail,21400056,8,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,53,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,0,20141104,0,LAL,PHX
+Shot Chart Detail,21400056,21,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,0,20141104,0,LAL,PHX
+Shot Chart Detail,21400056,245,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,51,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141104,0,LAL,PHX
+Shot Chart Detail,21400056,360,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,24,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20141104,0,LAL,PHX
+Shot Chart Detail,21400065,173,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,30,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20141105,0,PHX,MEM
+Shot Chart Detail,21400065,237,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,8,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,69,1,0,20141105,0,PHX,MEM
+Shot Chart Detail,21400065,238,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20141105,0,PHX,MEM
+Shot Chart Detail,21400079,2,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,42,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,80,50,1,1,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,49,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,27,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-21,149,1,1,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,62,203101,Miles Plumlee,1610612756,Phoenix Suns,1,5,41,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,72,1,1,20141107,1,PHX,SAC
+Shot Chart Detail,21400079,167,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,38,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,203,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,24,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,0,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,367,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,1,1,1,20141107,1,PHX,SAC
+Shot Chart Detail,21400079,379,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,33,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,1,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,455,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,59,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,0,1,1,20141107,1,PHX,SAC
+Shot Chart Detail,21400079,504,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,43,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,74,1,0,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,638,203101,Miles Plumlee,1610612756,Phoenix Suns,6,2,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,6,1,0,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,624,203101,Miles Plumlee,1610612756,Phoenix Suns,6,2,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20141107,0,PHX,SAC
+Shot Chart Detail,21400079,635,203101,Miles Plumlee,1610612756,Phoenix Suns,6,1,24,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,99,-6,1,0,20141107,0,PHX,SAC
+Shot Chart Detail,21400095,57,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,19,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-19,61,1,1,20141109,1,PHX,GSW
+Shot Chart Detail,21400095,209,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,24,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,99,1,0,20141109,0,PHX,GSW
+Shot Chart Detail,21400095,528,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,147,6,1,0,20141109,0,PHX,GSW
+Shot Chart Detail,21400116,15,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,14,Made Shot,Running Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,21,34,1,1,20141112,0,PHX,BKN
+Shot Chart Detail,21400116,49,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,65,129,1,0,20141112,0,PHX,BKN
+Shot Chart Detail,21400116,211,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,47,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,7,1,0,20141112,0,PHX,BKN
+Shot Chart Detail,21400116,314,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,-2,1,1,20141112,0,PHX,BKN
+Shot Chart Detail,21400116,458,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,27,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-3,1,1,20141112,1,PHX,BKN
+Shot Chart Detail,21400116,516,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,53,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141112,1,PHX,BKN
+Shot Chart Detail,21400116,541,203101,Miles Plumlee,1610612756,Phoenix Suns,4,0,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-29,1,1,0,20141112,0,PHX,BKN
+Shot Chart Detail,21400130,57,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,43,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,6,1,1,20141114,1,PHX,CHA
+Shot Chart Detail,21400130,200,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,86,67,1,1,20141114,0,PHX,CHA
+Shot Chart Detail,21400130,241,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,47,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,113,1,0,20141114,0,PHX,CHA
+Shot Chart Detail,21400130,246,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,50,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,116,-3,1,1,20141114,0,PHX,CHA
+Shot Chart Detail,21400130,270,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,20,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20141114,1,PHX,CHA
+Shot Chart Detail,21400130,310,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,0,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20141114,0,PHX,CHA
+Shot Chart Detail,21400130,312,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,59,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20141114,0,PHX,CHA
+Shot Chart Detail,21400130,459,203101,Miles Plumlee,1610612756,Phoenix Suns,4,5,25,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,-6,1,1,20141114,1,PHX,CHA
+Shot Chart Detail,21400130,462,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,0,20141114,0,PHX,CHA
+Shot Chart Detail,21400141,18,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20141115,0,LAC,PHX
+Shot Chart Detail,21400141,25,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,6,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20141115,0,LAC,PHX
+Shot Chart Detail,21400141,157,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,51,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,39,1,0,20141115,0,LAC,PHX
+Shot Chart Detail,21400141,163,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,0,20141115,0,LAC,PHX
+Shot Chart Detail,21400141,171,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,0,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,7,1,1,20141115,1,LAC,PHX
+Shot Chart Detail,21400141,267,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141115,1,LAC,PHX
+Shot Chart Detail,21400141,299,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,19,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,0,20141115,0,LAC,PHX
+Shot Chart Detail,21400141,329,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,2,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,63,1,1,20141115,0,LAC,PHX
+Shot Chart Detail,21400148,6,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,13,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-8,1,0,20141117,0,BOS,PHX
+Shot Chart Detail,21400148,208,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,28,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,37,1,0,20141117,0,BOS,PHX
+Shot Chart Detail,21400165,10,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,45,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,28,1,0,20141119,0,DET,PHX
+Shot Chart Detail,21400165,301,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,27,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,45,1,1,20141119,1,DET,PHX
+Shot Chart Detail,21400165,418,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,49,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,9,52,1,0,20141119,0,DET,PHX
+Shot Chart Detail,21400173,31,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,5,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,6,1,1,20141121,1,PHI,PHX
+Shot Chart Detail,21400173,288,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,0,20141121,0,PHI,PHX
+Shot Chart Detail,21400173,293,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20141121,0,PHI,PHX
+Shot Chart Detail,21400184,15,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,9,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,15,74,1,1,20141122,0,IND,PHX
+Shot Chart Detail,21400184,24,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,58,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20141122,0,IND,PHX
+Shot Chart Detail,21400184,150,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,47,Made Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-90,7,1,1,20141122,0,IND,PHX
+Shot Chart Detail,21400201,11,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,47,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20141124,0,TOR,PHX
+Shot Chart Detail,21400221,14,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,21,Missed Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,78,1,0,20141126,0,PHX,DEN
+Shot Chart Detail,21400221,19,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,11,1,1,20141126,0,PHX,DEN
+Shot Chart Detail,21400221,65,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,51,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20141126,0,PHX,DEN
+Shot Chart Detail,21400221,73,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,19,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,50,1,1,20141126,1,PHX,DEN
+Shot Chart Detail,21400221,219,203101,Miles Plumlee,1610612756,Phoenix Suns,2,5,5,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,0,20141126,0,PHX,DEN
+Shot Chart Detail,21400221,311,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,35,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,0,20141126,0,PHX,DEN
+Shot Chart Detail,21400221,499,203101,Miles Plumlee,1610612756,Phoenix Suns,4,4,12,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,56,1,0,20141126,0,PHX,DEN
+Shot Chart Detail,21400221,515,203101,Miles Plumlee,1610612756,Phoenix Suns,4,3,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20141126,1,PHX,DEN
+Shot Chart Detail,21400232,347,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20141128,0,DEN,PHX
+Shot Chart Detail,21400246,4,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,22,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-155,47,1,1,20141130,1,PHX,ORL
+Shot Chart Detail,21400246,11,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,26,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-5,156,1,1,20141130,1,PHX,ORL
+Shot Chart Detail,21400246,193,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-26,3,1,1,20141130,0,PHX,ORL
+Shot Chart Detail,21400246,268,203101,Miles Plumlee,1610612756,Phoenix Suns,3,10,4,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141130,1,PHX,ORL
+Shot Chart Detail,21400246,280,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20141130,1,PHX,ORL
+Shot Chart Detail,21400246,294,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,52,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20141130,1,PHX,ORL
+Shot Chart Detail,21400260,26,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20141202,0,PHX,IND
+Shot Chart Detail,21400260,127,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,57,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20141202,0,PHX,IND
+Shot Chart Detail,21400260,212,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,57,Missed Shot,Turnaround Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-89,42,1,0,20141202,0,PHX,IND
+Shot Chart Detail,21400260,391,203101,Miles Plumlee,1610612756,Phoenix Suns,4,11,21,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,1,20141202,1,PHX,IND
+Shot Chart Detail,21400284,38,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,56,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141205,1,DAL,PHX
+Shot Chart Detail,21400284,40,203101,Miles Plumlee,1610612756,Phoenix Suns,1,6,19,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,13,34,1,1,20141205,1,DAL,PHX
+Shot Chart Detail,21400290,21,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,2,Made Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-70,42,1,1,20141206,1,HOU,PHX
+Shot Chart Detail,21400290,141,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,18,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141206,1,HOU,PHX
+Shot Chart Detail,21400290,144,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,51,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,32,14,1,0,20141206,0,HOU,PHX
+Shot Chart Detail,21400307,25,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,55,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,44,1,0,20141208,0,LAC,PHX
+Shot Chart Detail,21400307,454,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20141208,1,LAC,PHX
+Shot Chart Detail,21400313,37,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,48,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141209,1,PHX,MIA
+Shot Chart Detail,21400313,165,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,27,1,0,20141209,0,PHX,MIA
+Shot Chart Detail,21400313,211,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,1,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,0,20141209,0,PHX,MIA
+Shot Chart Detail,21400337,6,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,11,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,1,PHX,DET
+Shot Chart Detail,21400337,10,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,0,20141212,0,PHX,DET
+Shot Chart Detail,21400337,13,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,0,20141212,0,PHX,DET
+Shot Chart Detail,21400337,18,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,0,1,1,20141212,1,PHX,DET
+Shot Chart Detail,21400337,31,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,54,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,0,PHX,DET
+Shot Chart Detail,21400337,35,203101,Miles Plumlee,1610612756,Phoenix Suns,1,8,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20141212,0,PHX,DET
+Shot Chart Detail,21400337,44,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20141212,1,PHX,DET
+Shot Chart Detail,21400337,282,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,21,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141212,0,PHX,DET
+Shot Chart Detail,21400352,9,203101,Miles Plumlee,1610612756,Phoenix Suns,1,11,5,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,34,1,1,20141214,1,OKC,PHX
+Shot Chart Detail,21400352,84,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,58,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141214,1,OKC,PHX
+Shot Chart Detail,21400352,216,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,3,Missed Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,20,1,0,20141214,0,OKC,PHX
+Shot Chart Detail,21400352,234,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,11,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20141214,1,OKC,PHX
+Shot Chart Detail,21400352,300,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,47,Missed Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-128,45,1,0,20141214,0,OKC,PHX
+Shot Chart Detail,21400352,334,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,47,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,0,20141214,0,OKC,PHX
+Shot Chart Detail,21400352,336,203101,Miles Plumlee,1610612756,Phoenix Suns,3,9,46,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,0,20141214,0,OKC,PHX
+Shot Chart Detail,21400360,400,203101,Miles Plumlee,1610612756,Phoenix Suns,3,0,31,Made Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,48,1,1,20141215,1,PHX,MIL
+Shot Chart Detail,21400369,98,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,7,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,28,1,1,20141217,0,CHA,PHX
+Shot Chart Detail,21400369,360,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20141217,0,CHA,PHX
+Shot Chart Detail,21400406,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,4,Made Shot,Jump Bank Shot,,Mid-Range,Center(C),16-24 ft.,17,15,176,1,1,20141221,1,WAS,PHX
+Shot Chart Detail,21400406,448,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20141221,0,WAS,PHX
+Shot Chart Detail,21400425,82,203101,Miles Plumlee,1610612756,Phoenix Suns,1,4,35,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,0,20141223,0,PHX,DAL
+Shot Chart Detail,21400425,173,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,48,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,0,20141223,0,PHX,DAL
+Shot Chart Detail,21400425,377,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,19,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,15,1,0,20141223,0,PHX,DAL
+Shot Chart Detail,21400425,485,203101,Miles Plumlee,1610612756,Phoenix Suns,4,9,13,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141223,1,PHX,DAL
+Shot Chart Detail,21400442,325,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,20141226,0,SAC,PHX
+Shot Chart Detail,21400442,327,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20141226,0,SAC,PHX
+Shot Chart Detail,21400442,341,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,0,20141226,0,SAC,PHX
+Shot Chart Detail,21400458,111,203101,Miles Plumlee,1610612756,Phoenix Suns,1,0,47,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,29,41,1,1,20141228,0,LAL,PHX
+Shot Chart Detail,21400458,358,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20141228,0,LAL,PHX
+Shot Chart Detail,21400458,398,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,21,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,-6,1,1,20141228,1,LAL,PHX
+Shot Chart Detail,21400469,91,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,27,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,0,20141230,0,NOP,PHX
+Shot Chart Detail,21400469,127,203101,Miles Plumlee,1610612756,Phoenix Suns,2,11,46,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,1,NOP,PHX
+Shot Chart Detail,21400469,144,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,5,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,0,20141230,0,NOP,PHX
+Shot Chart Detail,21400469,374,203101,Miles Plumlee,1610612756,Phoenix Suns,4,11,20,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,14,1,1,20141230,0,NOP,PHX
+Shot Chart Detail,21400469,384,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,12,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141230,0,NOP,PHX
+Shot Chart Detail,21400480,87,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,31,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,20,1,0,20141231,0,OKC,PHX
+Shot Chart Detail,21400480,151,203101,Miles Plumlee,1610612756,Phoenix Suns,2,7,59,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141231,1,OKC,PHX
+Shot Chart Detail,21400480,382,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-2,1,1,20141231,1,OKC,PHX
+Shot Chart Detail,21400480,432,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,23,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20141231,0,OKC,PHX
+Shot Chart Detail,21400491,180,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,53,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20150102,0,PHX,PHI
+Shot Chart Detail,21400491,325,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,15,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150102,0,PHX,PHI
+Shot Chart Detail,21400491,363,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,20,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150102,1,PHX,PHI
+Shot Chart Detail,21400491,406,203101,Miles Plumlee,1610612756,Phoenix Suns,4,10,44,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20150102,0,PHX,PHI
+Shot Chart Detail,21400507,134,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,0,20150104,0,PHX,TOR
+Shot Chart Detail,21400507,290,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,21,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150104,1,PHX,TOR
+Shot Chart Detail,21400507,319,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20150104,1,PHX,TOR
+Shot Chart Detail,21400507,339,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,37,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20150104,1,PHX,TOR
+Shot Chart Detail,21400507,349,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,43,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150104,0,PHX,TOR
+Shot Chart Detail,21400507,435,203101,Miles Plumlee,1610612756,Phoenix Suns,4,7,49,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-56,31,1,0,20150104,0,PHX,TOR
+Shot Chart Detail,21400520,142,203101,Miles Plumlee,1610612756,Phoenix Suns,2,9,57,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150106,1,MIL,PHX
+Shot Chart Detail,21400520,306,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,17,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,12,1,0,20150106,0,MIL,PHX
+Shot Chart Detail,21400520,330,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,16,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150106,1,MIL,PHX
+Shot Chart Detail,21400520,332,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,0,20150106,0,MIL,PHX
+Shot Chart Detail,21400531,83,203101,Miles Plumlee,1610612756,Phoenix Suns,1,3,53,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,0,20150107,0,MIN,PHX
+Shot Chart Detail,21400531,137,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,55,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,15,1,0,20150107,0,MIN,PHX
+Shot Chart Detail,21400596,318,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,36,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20150116,1,PHX,MIN
+Shot Chart Detail,21400596,332,203101,Miles Plumlee,1610612756,Phoenix Suns,3,3,17,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,1,1,1,20150116,0,PHX,MIN
+Shot Chart Detail,21400596,334,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,55,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,1,PHX,MIN
+Shot Chart Detail,21400622,116,203101,Miles Plumlee,1610612756,Phoenix Suns,1,2,33,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,-3,1,1,20150119,0,PHX,LAL
+Shot Chart Detail,21400634,143,203101,Miles Plumlee,1610612756,Phoenix Suns,2,10,53,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-92,50,1,0,20150121,0,PHX,POR
+Shot Chart Detail,21400634,169,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,6,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,-48,64,1,1,20150121,0,PHX,POR
+Shot Chart Detail,21400634,187,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,29,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20150121,0,PHX,POR
+Shot Chart Detail,21400634,192,203101,Miles Plumlee,1610612756,Phoenix Suns,2,6,8,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150121,1,PHX,POR
+Shot Chart Detail,21400650,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,8,46,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150123,1,PHX,HOU
+Shot Chart Detail,21400659,81,203101,Miles Plumlee,1610612756,Phoenix Suns,1,2,31,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,0,1,1,20150125,1,PHX,LAC
+Shot Chart Detail,21400659,100,203101,Miles Plumlee,1610612756,Phoenix Suns,1,0,29,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,0,20150125,0,PHX,LAC
+Shot Chart Detail,21400659,547,203101,Miles Plumlee,1610612756,Phoenix Suns,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,0,1,0,20150125,0,PHX,LAC
+Shot Chart Detail,21400704,229,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,28,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150130,1,PHX,CHI
+Shot Chart Detail,21400704,306,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,29,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-23,33,1,0,20150130,0,PHX,CHI
+Shot Chart Detail,21400704,313,203101,Miles Plumlee,1610612756,Phoenix Suns,3,8,5,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,146,1,0,20150130,0,PHX,CHI
+Shot Chart Detail,21400704,345,203101,Miles Plumlee,1610612756,Phoenix Suns,3,4,51,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20150130,0,PHX,CHI
+Shot Chart Detail,21400715,110,203101,Miles Plumlee,1610612756,Phoenix Suns,1,1,38,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150131,1,GSW,PHX
+Shot Chart Detail,21400725,373,203101,Miles Plumlee,1610612756,Phoenix Suns,3,1,27,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150202,0,PHX,MEM
+Shot Chart Detail,21400745,215,203101,Miles Plumlee,1610612756,Phoenix Suns,2,3,43,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,33,1,0,20150205,0,POR,PHX
+Shot Chart Detail,21400745,232,203101,Miles Plumlee,1610612756,Phoenix Suns,2,1,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,0,20150205,0,POR,PHX
+Shot Chart Detail,21400745,323,203101,Miles Plumlee,1610612756,Phoenix Suns,3,5,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,0,20150205,0,POR,PHX
+Shot Chart Detail,21400745,361,203101,Miles Plumlee,1610612756,Phoenix Suns,3,2,17,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,52,1,0,20150205,0,POR,PHX
+Shot Chart Detail,21400756,22,203101,Miles Plumlee,1610612756,Phoenix Suns,1,9,12,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,6,1,0,20150206,0,PHX,UTA
+Shot Chart Detail,21400756,158,203101,Miles Plumlee,1610612756,Phoenix Suns,2,4,58,Missed Shot,Turnaround Bank shot,,Mid-Range,Right Side(R),8-16 ft.,15,146,37,1,0,20150206,0,PHX,UTA
+Shot Chart Detail,21400756,180,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,52,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,1,PHX,UTA
+Shot Chart Detail,21400756,182,203101,Miles Plumlee,1610612756,Phoenix Suns,2,2,31,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,1,PHX,UTA
+Shot Chart Detail,21400756,252,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,0,20150206,0,PHX,UTA
+Shot Chart Detail,21400756,262,203101,Miles Plumlee,1610612756,Phoenix Suns,3,6,57,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150206,1,PHX,UTA
+Shot Chart Detail,21400756,437,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,27,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20150206,0,PHX,UTA
+Shot Chart Detail,21400773,256,203101,Miles Plumlee,1610612756,Phoenix Suns,3,11,10,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,1,SAC,PHX
+Shot Chart Detail,21400773,432,203101,Miles Plumlee,1610612756,Phoenix Suns,4,6,56,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150208,1,SAC,PHX
+Shot Chart Detail,21400773,502,203101,Miles Plumlee,1610612756,Phoenix Suns,4,0,2,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-19,34,1,0,20150208,0,SAC,PHX
+Shot Chart Detail,21400784,9,203101,Miles Plumlee,1610612756,Phoenix Suns,1,10,49,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,0,20150210,0,PHX,HOU
+Shot Chart Detail,21400784,39,203101,Miles Plumlee,1610612756,Phoenix Suns,1,7,47,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150210,1,PHX,HOU
+Shot Chart Detail,21400784,393,203101,Miles Plumlee,1610612756,Phoenix Suns,3,7,36,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20150210,0,PHX,HOU
+Shot Chart Detail,21400784,561,203101,Miles Plumlee,1610612756,Phoenix Suns,4,2,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,48,71,1,0,20150210,0,PHX,HOU
+Shot Chart Detail,21400822,425,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,8,11,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,1,20150222,1,MIL,ATL
+Shot Chart Detail,21400822,479,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,40,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,26,1,0,20150222,0,MIL,ATL
+Shot Chart Detail,21400822,504,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,0,52,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20150222,1,MIL,ATL
+Shot Chart Detail,21400831,176,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,36,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20150223,0,CHI,MIL
+Shot Chart Detail,21400831,198,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,18,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150223,1,CHI,MIL
+Shot Chart Detail,21400831,214,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,14,Missed Shot,Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,33,1,0,20150223,0,CHI,MIL
+Shot Chart Detail,21400831,463,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,5,28,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,31,1,1,20150223,1,CHI,MIL
+Shot Chart Detail,21400831,496,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,45,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,45,1,0,20150223,0,CHI,MIL
+Shot Chart Detail,21400868,183,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,1,20150227,1,LAL,MIL
+Shot Chart Detail,21400868,188,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,0,20150227,0,LAL,MIL
+Shot Chart Detail,21400868,190,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,9,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,19,1,1,20150227,0,LAL,MIL
+Shot Chart Detail,21400868,210,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,4,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,112,33,1,0,20150227,0,LAL,MIL
+Shot Chart Detail,21400868,221,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,2,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-115,10,1,0,20150227,0,LAL,MIL
+Shot Chart Detail,21400868,236,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,1,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20150227,1,LAL,MIL
+Shot Chart Detail,21400876,130,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,10,31,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,15,1,0,20150228,0,UTA,MIL
+Shot Chart Detail,21400876,133,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,9,58,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150228,0,UTA,MIL
+Shot Chart Detail,21400895,186,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,7,55,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,-8,1,0,20150303,0,DEN,MIL
+Shot Chart Detail,21400895,434,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,2,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20150303,0,DEN,MIL
+Shot Chart Detail,21400956,92,203101,Miles Plumlee,1610612749,Milwaukee Bucks,1,2,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20150311,1,MIL,ORL
+Shot Chart Detail,21400956,111,203101,Miles Plumlee,1610612749,Milwaukee Bucks,1,0,11,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-35,48,1,0,20150311,0,MIL,ORL
+Shot Chart Detail,21400962,138,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,32,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-19,1,1,20150312,1,IND,MIL
+Shot Chart Detail,21400979,142,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,8,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,0,20150314,0,MEM,MIL
+Shot Chart Detail,21400979,378,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,19,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,-3,1,0,20150314,0,MEM,MIL
+Shot Chart Detail,21400979,388,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,33,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150314,1,MEM,MIL
+Shot Chart Detail,21400979,399,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,9,11,Made Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,1,20150314,1,MEM,MIL
+Shot Chart Detail,21401010,300,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,8,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20150318,0,MIL,SAS
+Shot Chart Detail,21401010,420,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,2,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,44,1,0,20150318,0,MIL,SAS
+Shot Chart Detail,21401010,497,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,4,28,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20150318,1,MIL,SAS
+Shot Chart Detail,21401010,523,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150318,1,MIL,SAS
+Shot Chart Detail,21401022,150,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,7,1,0,20150320,0,BKN,MIL
+Shot Chart Detail,21401022,166,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,10,0,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,-8,1,1,20150320,0,BKN,MIL
+Shot Chart Detail,21401022,176,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,8,29,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,48,1,1,20150320,0,BKN,MIL
+Shot Chart Detail,21401022,215,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,19,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-29,0,1,0,20150320,0,BKN,MIL
+Shot Chart Detail,21401022,383,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,2,11,Missed Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150320,0,BKN,MIL
+Shot Chart Detail,21401022,397,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,1,12,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,106,47,1,0,20150320,0,BKN,MIL
+Shot Chart Detail,21401022,437,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,36,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,0,BKN,MIL
+Shot Chart Detail,21401037,431,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20150322,0,MIL,CLE
+Shot Chart Detail,21401037,438,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,18,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,63,1,0,20150322,0,MIL,CLE
+Shot Chart Detail,21401055,155,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,11,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-1,1,0,20150324,0,MIL,MIA
+Shot Chart Detail,21401055,174,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,9,34,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,9,1,0,20150324,0,MIL,MIA
+Shot Chart Detail,21401055,214,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20150324,1,MIL,MIA
+Shot Chart Detail,21401055,236,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150324,1,MIL,MIA
+Shot Chart Detail,21401055,371,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,3,5,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20150324,1,MIL,MIA
+Shot Chart Detail,21401055,377,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,2,15,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20150324,1,MIL,MIA
+Shot Chart Detail,21401055,387,203101,Miles Plumlee,1610612749,Milwaukee Bucks,3,0,40,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20150324,0,MIL,MIA
+Shot Chart Detail,21401055,413,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,10,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20150324,0,MIL,MIA
+Shot Chart Detail,21401167,180,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,6,44,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150408,1,MIL,CLE
+Shot Chart Detail,21401167,200,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,4,18,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,37,1,0,20150408,0,MIL,CLE
+Shot Chart Detail,21401180,161,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,7,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,0,20150410,0,NYK,MIL
+Shot Chart Detail,21401193,455,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,4,43,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20150412,1,MIL,BKN
+Shot Chart Detail,21401193,468,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,3,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,0,20150412,0,MIL,BKN
+Shot Chart Detail,21401204,193,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,35,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150413,1,PHI,MIL
+Shot Chart Detail,21401204,199,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,5,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,0,20150413,0,PHI,MIL
+Shot Chart Detail,21401204,580,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,51,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150413,1,PHI,MIL
+Shot Chart Detail,21401204,588,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,1,32,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,0,20150413,0,PHI,MIL
+Shot Chart Detail,21401221,194,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,3,25,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20150415,1,MIL,BOS
+Shot Chart Detail,21401221,196,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,2,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20150415,1,MIL,BOS
+Shot Chart Detail,21401221,215,203101,Miles Plumlee,1610612749,Milwaukee Bucks,2,1,17,Made Shot,Reverse Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150415,1,MIL,BOS
+Shot Chart Detail,21401221,387,203101,Miles Plumlee,1610612749,Milwaukee Bucks,4,11,35,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20150415,1,MIL,BOS

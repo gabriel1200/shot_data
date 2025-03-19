@@ -1,373 +1,187 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021000008,395,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,9,1,0,20101027,MEM,ATL
-Shot Chart Detail,0021000008,557,201151,Acie Law,1610612763,Memphis Grizzlies,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,222,1,0,20101027,MEM,ATL
-Shot Chart Detail,0021000028,168,201151,Acie Law,1610612763,Memphis Grizzlies,2,9,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,0,20101029,DAL,MEM
-Shot Chart Detail,0021000028,452,201151,Acie Law,1610612763,Memphis Grizzlies,4,10,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,0,20101029,DAL,MEM
-Shot Chart Detail,0021000036,136,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,224,1,0,20101030,MEM,MIN
-Shot Chart Detail,0021000053,166,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,75,1,1,20101102,LAL,MEM
-Shot Chart Detail,0021000053,182,201151,Acie Law,1610612763,Memphis Grizzlies,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,101,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000053,192,201151,Acie Law,1610612763,Memphis Grizzlies,2,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000053,421,201151,Acie Law,1610612763,Memphis Grizzlies,4,11,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,19,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000053,505,201151,Acie Law,1610612763,Memphis Grizzlies,4,4,19,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,34,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000076,405,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,17,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20101105,PHX,MEM
-Shot Chart Detail,0021000088,125,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,30,1,0,20101106,SAC,MEM
-Shot Chart Detail,0021000088,184,201151,Acie Law,1610612763,Memphis Grizzlies,2,5,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,12,1,0,20101106,SAC,MEM
-Shot Chart Detail,0021000099,128,201151,Acie Law,1610612763,Memphis Grizzlies,2,11,39,Missed Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,39,1,0,20101108,MEM,PHX
-Shot Chart Detail,0021000099,135,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,111,91,1,0,20101108,MEM,PHX
-Shot Chart Detail,0021000099,434,201151,Acie Law,1610612763,Memphis Grizzlies,4,9,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,77,1,0,20101108,MEM,PHX
-Shot Chart Detail,0021000114,110,201151,Acie Law,1610612763,Memphis Grizzlies,2,11,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,44,1,1,20101110,MEM,DAL
-Shot Chart Detail,0021000114,126,201151,Acie Law,1610612763,Memphis Grizzlies,2,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20101110,MEM,DAL
-Shot Chart Detail,0021000174,377,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,99,1,0,20101119,WAS,MEM
-Shot Chart Detail,0021000340,138,201151,Acie Law,1610612744,Golden State Warriors,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-101,260,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000340,213,201151,Acie Law,1610612744,Golden State Warriors,2,3,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,30,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000340,413,201151,Acie Law,1610612744,Golden State Warriors,4,9,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,23,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000340,418,201151,Acie Law,1610612744,Golden State Warriors,4,9,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000359,177,201151,Acie Law,1610612744,Golden State Warriors,2,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,12,1,1,20101213,UTA,GSW
-Shot Chart Detail,0021000359,392,201151,Acie Law,1610612744,Golden State Warriors,4,9,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,0,20101213,UTA,GSW
-Shot Chart Detail,0021000366,448,201151,Acie Law,1610612744,Golden State Warriors,4,7,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-2,1,0,20101214,GSW,MIN
-Shot Chart Detail,0021000366,452,201151,Acie Law,1610612744,Golden State Warriors,4,7,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20101214,GSW,MIN
-Shot Chart Detail,0021000366,521,201151,Acie Law,1610612744,Golden State Warriors,4,1,17,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20101214,GSW,MIN
-Shot Chart Detail,0021000366,539,201151,Acie Law,1610612744,Golden State Warriors,4,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20101214,GSW,MIN
-Shot Chart Detail,0021000399,178,201151,Acie Law,1610612744,Golden State Warriors,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20101218,POR,GSW
-Shot Chart Detail,0021000399,213,201151,Acie Law,1610612744,Golden State Warriors,2,4,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,0,20101218,POR,GSW
-Shot Chart Detail,0021000399,434,201151,Acie Law,1610612744,Golden State Warriors,4,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,7,1,0,20101218,POR,GSW
-Shot Chart Detail,0021000413,122,201151,Acie Law,1610612744,Golden State Warriors,2,11,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,241,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,126,201151,Acie Law,1610612744,Golden State Warriors,2,10,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-82,145,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,147,201151,Acie Law,1610612744,Golden State Warriors,2,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,202,201151,Acie Law,1610612744,Golden State Warriors,2,2,55,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,242,201151,Acie Law,1610612744,Golden State Warriors,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,254,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,371,201151,Acie Law,1610612744,Golden State Warriors,3,1,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,58,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,373,201151,Acie Law,1610612744,Golden State Warriors,3,1,36,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,409,201151,Acie Law,1610612744,Golden State Warriors,4,10,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,186,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,421,201151,Acie Law,1610612744,Golden State Warriors,4,9,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-19,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,487,201151,Acie Law,1610612744,Golden State Warriors,4,2,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000419,163,201151,Acie Law,1610612744,Golden State Warriors,2,8,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,93,1,0,20101221,SAC,GSW
-Shot Chart Detail,0021000419,197,201151,Acie Law,1610612744,Golden State Warriors,2,5,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,1,20101221,SAC,GSW
-Shot Chart Detail,0021000419,240,201151,Acie Law,1610612744,Golden State Warriors,2,2,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,19,1,1,20101221,SAC,GSW
-Shot Chart Detail,0021000419,408,201151,Acie Law,1610612744,Golden State Warriors,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,17,1,1,20101221,SAC,GSW
-Shot Chart Detail,0021000419,428,201151,Acie Law,1610612744,Golden State Warriors,3,0,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,66,1,0,20101221,SAC,GSW
-Shot Chart Detail,0021000419,430,201151,Acie Law,1610612744,Golden State Warriors,3,0,6,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,43,1,0,20101221,SAC,GSW
-Shot Chart Detail,0021000454,316,201151,Acie Law,1610612744,Golden State Warriors,3,5,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,7,1,1,20101227,GSW,PHI
-Shot Chart Detail,0021000454,355,201151,Acie Law,1610612744,Golden State Warriors,3,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,0,20101227,GSW,PHI
-Shot Chart Detail,0021000454,420,201151,Acie Law,1610612744,Golden State Warriors,4,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,0,20101227,GSW,PHI
-Shot Chart Detail,0021000477,119,201151,Acie Law,1610612744,Golden State Warriors,2,11,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,12,1,0,20101231,CHA,GSW
-Shot Chart Detail,0021000477,377,201151,Acie Law,1610612744,Golden State Warriors,4,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,15,1,1,20101231,CHA,GSW
-Shot Chart Detail,0021000477,387,201151,Acie Law,1610612744,Golden State Warriors,4,10,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20101231,CHA,GSW
-Shot Chart Detail,0021000486,67,201151,Acie Law,1610612744,Golden State Warriors,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,12,1,1,20110101,MIA,GSW
-Shot Chart Detail,0021000486,70,201151,Acie Law,1610612744,Golden State Warriors,1,2,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,14,1,0,20110101,MIA,GSW
-Shot Chart Detail,0021000486,125,201151,Acie Law,1610612744,Golden State Warriors,2,10,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20110101,MIA,GSW
-Shot Chart Detail,0021000486,136,201151,Acie Law,1610612744,Golden State Warriors,2,8,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20110101,MIA,GSW
-Shot Chart Detail,0021000486,162,201151,Acie Law,1610612744,Golden State Warriors,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,47,1,0,20110101,MIA,GSW
-Shot Chart Detail,0021000486,377,201151,Acie Law,1610612744,Golden State Warriors,3,0,23,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20110101,MIA,GSW
-Shot Chart Detail,0021000500,351,201151,Acie Law,1610612744,Golden State Warriors,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,41,1,0,20110103,ORL,GSW
-Shot Chart Detail,0021000500,367,201151,Acie Law,1610612744,Golden State Warriors,3,1,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,0,20110103,ORL,GSW
-Shot Chart Detail,0021000500,383,201151,Acie Law,1610612744,Golden State Warriors,3,0,45,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,44,1,0,20110103,ORL,GSW
-Shot Chart Detail,0021000518,120,201151,Acie Law,1610612744,Golden State Warriors,1,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,189,97,1,0,20110105,NOH,GSW
-Shot Chart Detail,0021000518,164,201151,Acie Law,1610612744,Golden State Warriors,2,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20110105,NOH,GSW
-Shot Chart Detail,0021000518,173,201151,Acie Law,1610612744,Golden State Warriors,2,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,0,1,1,20110105,NOH,GSW
-Shot Chart Detail,0021000518,230,201151,Acie Law,1610612744,Golden State Warriors,2,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,9,247,1,0,20110105,NOH,GSW
-Shot Chart Detail,0021000534,109,201151,Acie Law,1610612744,Golden State Warriors,2,11,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,15,1,0,20110107,GSW,CLE
-Shot Chart Detail,0021000534,232,201151,Acie Law,1610612744,Golden State Warriors,2,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20110107,GSW,CLE
-Shot Chart Detail,0021000534,411,201151,Acie Law,1610612744,Golden State Warriors,4,10,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,0,20110107,GSW,CLE
-Shot Chart Detail,0021000534,528,201151,Acie Law,1610612744,Golden State Warriors,4,1,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,159,1,1,20110107,GSW,CLE
-Shot Chart Detail,0021000545,44,201151,Acie Law,1610612744,Golden State Warriors,1,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,0,20110109,LAC,GSW
-Shot Chart Detail,0021000545,61,201151,Acie Law,1610612744,Golden State Warriors,1,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,149,1,0,20110109,LAC,GSW
-Shot Chart Detail,0021000545,66,201151,Acie Law,1610612744,Golden State Warriors,1,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20110109,LAC,GSW
-Shot Chart Detail,0021000545,96,201151,Acie Law,1610612744,Golden State Warriors,1,4,3,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,28,1,1,20110109,LAC,GSW
-Shot Chart Detail,0021000545,471,201151,Acie Law,1610612744,Golden State Warriors,3,1,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,0,20110109,LAC,GSW
-Shot Chart Detail,0021000585,335,201151,Acie Law,1610612744,Golden State Warriors,3,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,42,1,0,20110114,GSW,LAC
-Shot Chart Detail,0021000585,369,201151,Acie Law,1610612744,Golden State Warriors,3,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,66,1,1,20110114,GSW,LAC
-Shot Chart Detail,0021000607,155,201151,Acie Law,1610612744,Golden State Warriors,2,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,172,1,0,20110117,GSW,NJN
-Shot Chart Detail,0021000607,175,201151,Acie Law,1610612744,Golden State Warriors,2,7,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20110117,GSW,NJN
-Shot Chart Detail,0021000607,186,201151,Acie Law,1610612744,Golden State Warriors,2,7,8,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,119,1,1,20110117,GSW,NJN
-Shot Chart Detail,0021000607,431,201151,Acie Law,1610612744,Golden State Warriors,4,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20110117,GSW,NJN
-Shot Chart Detail,0021000607,449,201151,Acie Law,1610612744,Golden State Warriors,4,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-5,1,0,20110117,GSW,NJN
-Shot Chart Detail,0021000607,456,201151,Acie Law,1610612744,Golden State Warriors,4,5,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,17,1,0,20110117,GSW,NJN
-Shot Chart Detail,0021000624,115,201151,Acie Law,1610612744,Golden State Warriors,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-93,123,1,0,20110119,GSW,IND
-Shot Chart Detail,0021000624,395,201151,Acie Law,1610612744,Golden State Warriors,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,39,168,356,1,1,20110119,GSW,IND
-Shot Chart Detail,0021000624,435,201151,Acie Law,1610612744,Golden State Warriors,4,7,46,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,193,181,1,1,20110119,GSW,IND
-Shot Chart Detail,0021000624,444,201151,Acie Law,1610612744,Golden State Warriors,4,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,0,20110119,GSW,IND
-Shot Chart Detail,0021000638,143,201151,Acie Law,1610612744,Golden State Warriors,2,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110121,GSW,SAC
-Shot Chart Detail,0021000638,159,201151,Acie Law,1610612744,Golden State Warriors,2,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,22,1,1,20110121,GSW,SAC
-Shot Chart Detail,0021000638,163,201151,Acie Law,1610612744,Golden State Warriors,2,7,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-29,178,1,1,20110121,GSW,SAC
-Shot Chart Detail,0021000662,179,201151,Acie Law,1610612744,Golden State Warriors,2,7,29,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,82,1,1,20110124,GSW,SAS
-Shot Chart Detail,0021000662,367,201151,Acie Law,1610612744,Golden State Warriors,3,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,145,1,1,20110124,GSW,SAS
-Shot Chart Detail,0021000662,388,201151,Acie Law,1610612744,Golden State Warriors,3,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,0,20110124,GSW,SAS
-Shot Chart Detail,0021000662,408,201151,Acie Law,1610612744,Golden State Warriors,4,11,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-24,1,1,20110124,GSW,SAS
-Shot Chart Detail,0021000662,411,201151,Acie Law,1610612744,Golden State Warriors,4,10,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-185,105,1,0,20110124,GSW,SAS
-Shot Chart Detail,0021000662,423,201151,Acie Law,1610612744,Golden State Warriors,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,137,1,0,20110124,GSW,SAS
-Shot Chart Detail,0021000677,393,201151,Acie Law,1610612744,Golden State Warriors,4,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,0,20110126,GSW,NOH
-Shot Chart Detail,0021000677,395,201151,Acie Law,1610612744,Golden State Warriors,4,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20110126,GSW,NOH
-Shot Chart Detail,0021000677,460,201151,Acie Law,1610612744,Golden State Warriors,4,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20110126,GSW,NOH
-Shot Chart Detail,0021000691,158,201151,Acie Law,1610612744,Golden State Warriors,2,6,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20110128,GSW,CHA
-Shot Chart Detail,0021000691,165,201151,Acie Law,1610612744,Golden State Warriors,2,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20110128,GSW,CHA
-Shot Chart Detail,0021000691,173,201151,Acie Law,1610612744,Golden State Warriors,2,4,43,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20110128,GSW,CHA
-Shot Chart Detail,0021000691,194,201151,Acie Law,1610612744,Golden State Warriors,2,3,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,0,20110128,GSW,CHA
-Shot Chart Detail,0021000691,358,201151,Acie Law,1610612744,Golden State Warriors,4,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20110128,GSW,CHA
-Shot Chart Detail,0021000707,180,201151,Acie Law,1610612744,Golden State Warriors,2,4,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-25,1,0,20110130,GSW,UTA
-Shot Chart Detail,0021000707,460,201151,Acie Law,1610612744,Golden State Warriors,4,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,135,1,0,20110130,GSW,UTA
-Shot Chart Detail,0021000707,467,201151,Acie Law,1610612744,Golden State Warriors,4,1,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,20,1,1,20110130,GSW,UTA
-Shot Chart Detail,0021000845,88,201151,Acie Law,1610612744,Golden State Warriors,1,3,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,50,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,160,201151,Acie Law,1610612744,Golden State Warriors,2,9,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20110222,GSW,BOS
-Shot Chart Detail,0021000845,208,201151,Acie Law,1610612744,Golden State Warriors,2,5,39,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,381,201151,Acie Law,1610612744,Golden State Warriors,3,1,34,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,61,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,401,201151,Acie Law,1610612744,Golden State Warriors,4,10,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,25,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,441,201151,Acie Law,1610612744,Golden State Warriors,4,7,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-3,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,530,201151,Acie Law,1610612744,Golden State Warriors,4,0,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000870,352,201151,Acie Law,1610612744,Golden State Warriors,3,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,17,213,1,0,20110225,GSW,ATL
-Shot Chart Detail,0021000870,357,201151,Acie Law,1610612744,Golden State Warriors,3,1,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20110225,GSW,ATL
-Shot Chart Detail,0021000870,403,201151,Acie Law,1610612744,Golden State Warriors,4,7,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,0,20110225,GSW,ATL
-Shot Chart Detail,0021000870,425,201151,Acie Law,1610612744,Golden State Warriors,4,4,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,23,1,1,20110225,GSW,ATL
-Shot Chart Detail,0021000870,429,201151,Acie Law,1610612744,Golden State Warriors,4,4,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,3,1,1,20110225,GSW,ATL
-Shot Chart Detail,0021000870,462,201151,Acie Law,1610612744,Golden State Warriors,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,154,224,1,0,20110225,GSW,ATL
-Shot Chart Detail,0021000882,380,201151,Acie Law,1610612744,Golden State Warriors,3,4,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,15,1,0,20110227,MIN,GSW
-Shot Chart Detail,0021000882,426,201151,Acie Law,1610612744,Golden State Warriors,3,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20110227,MIN,GSW
-Shot Chart Detail,0021000882,435,201151,Acie Law,1610612744,Golden State Warriors,3,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,118,1,0,20110227,MIN,GSW
-Shot Chart Detail,0021000894,97,201151,Acie Law,1610612744,Golden State Warriors,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,17,1,0,20110301,IND,GSW
-Shot Chart Detail,0021000894,105,201151,Acie Law,1610612744,Golden State Warriors,1,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20110301,IND,GSW
-Shot Chart Detail,0021000894,150,201151,Acie Law,1610612744,Golden State Warriors,2,10,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20110301,IND,GSW
-Shot Chart Detail,0021000894,184,201151,Acie Law,1610612744,Golden State Warriors,2,7,11,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,132,104,1,1,20110301,IND,GSW
-Shot Chart Detail,0021000894,404,201151,Acie Law,1610612744,Golden State Warriors,3,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,0,20110301,IND,GSW
-Shot Chart Detail,0021000894,418,201151,Acie Law,1610612744,Golden State Warriors,4,11,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-34,258,1,0,20110301,IND,GSW
-Shot Chart Detail,0021000904,171,201151,Acie Law,1610612744,Golden State Warriors,2,11,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,0,20110302,WAS,GSW
-Shot Chart Detail,0021000904,208,201151,Acie Law,1610612744,Golden State Warriors,2,8,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20110302,WAS,GSW
-Shot Chart Detail,0021000904,224,201151,Acie Law,1610612744,Golden State Warriors,2,7,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20110302,WAS,GSW
-Shot Chart Detail,0021000904,479,201151,Acie Law,1610612744,Golden State Warriors,4,10,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,6,1,0,20110302,WAS,GSW
-Shot Chart Detail,0021000918,157,201151,Acie Law,1610612744,Golden State Warriors,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-27,1,1,20110304,BOS,GSW
-Shot Chart Detail,0021000918,292,201151,Acie Law,1610612744,Golden State Warriors,3,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20110304,BOS,GSW
-Shot Chart Detail,0021000918,363,201151,Acie Law,1610612744,Golden State Warriors,4,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,52,1,0,20110304,BOS,GSW
-Shot Chart Detail,0021000935,129,201151,Acie Law,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,250,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,155,201151,Acie Law,1610612744,Golden State Warriors,2,10,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,140,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,162,201151,Acie Law,1610612744,Golden State Warriors,2,9,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20110306,PHI,GSW
-Shot Chart Detail,0021000935,192,201151,Acie Law,1610612744,Golden State Warriors,2,7,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,132,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,423,201151,Acie Law,1610612744,Golden State Warriors,4,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20110306,PHI,GSW
-Shot Chart Detail,0021000935,430,201151,Acie Law,1610612744,Golden State Warriors,4,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-16,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,448,201151,Acie Law,1610612744,Golden State Warriors,4,6,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20110306,PHI,GSW
-Shot Chart Detail,0021000935,488,201151,Acie Law,1610612744,Golden State Warriors,4,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000948,108,201151,Acie Law,1610612744,Golden State Warriors,1,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20110308,CLE,GSW
-Shot Chart Detail,0021000948,113,201151,Acie Law,1610612744,Golden State Warriors,1,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,4,1,0,20110308,CLE,GSW
-Shot Chart Detail,0021000948,203,201151,Acie Law,1610612744,Golden State Warriors,2,6,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,63,1,0,20110308,CLE,GSW
-Shot Chart Detail,0021000948,394,201151,Acie Law,1610612744,Golden State Warriors,4,11,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,25,1,0,20110308,CLE,GSW
-Shot Chart Detail,0021000954,92,201151,Acie Law,1610612744,Golden State Warriors,1,1,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,17,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000954,123,201151,Acie Law,1610612744,Golden State Warriors,2,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000954,128,201151,Acie Law,1610612744,Golden State Warriors,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,25,1,0,20110309,NJN,GSW
-Shot Chart Detail,0021000954,274,201151,Acie Law,1610612744,Golden State Warriors,3,9,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000954,288,201151,Acie Law,1610612744,Golden State Warriors,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000975,109,201151,Acie Law,1610612744,Golden State Warriors,2,11,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,0,20110311,GSW,ORL
-Shot Chart Detail,0021000990,152,201151,Acie Law,1610612744,Golden State Warriors,2,8,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,69,101,1,1,20110313,GSW,MIN
-Shot Chart Detail,0021000990,169,201151,Acie Law,1610612744,Golden State Warriors,2,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20110313,GSW,MIN
-Shot Chart Detail,0021000990,455,201151,Acie Law,1610612744,Golden State Warriors,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,134,1,0,20110313,GSW,MIN
-Shot Chart Detail,0021000998,120,201151,Acie Law,1610612744,Golden State Warriors,1,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,156,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021000998,431,201151,Acie Law,1610612744,Golden State Warriors,3,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,20,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021000998,517,201151,Acie Law,1610612744,Golden State Warriors,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,150,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021000998,550,201151,Acie Law,1610612744,Golden State Warriors,4,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021001012,108,201151,Acie Law,1610612744,Golden State Warriors,2,11,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,178,1,0,20110316,GSW,DAL
-Shot Chart Detail,0021001012,158,201151,Acie Law,1610612744,Golden State Warriors,2,6,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,172,201151,Acie Law,1610612744,Golden State Warriors,2,5,33,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,7,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,366,201151,Acie Law,1610612744,Golden State Warriors,4,11,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,26,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,376,201151,Acie Law,1610612744,Golden State Warriors,4,10,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,416,201151,Acie Law,1610612744,Golden State Warriors,4,5,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,187,1,0,20110316,GSW,DAL
-Shot Chart Detail,0021001012,452,201151,Acie Law,1610612744,Golden State Warriors,4,1,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001026,187,201151,Acie Law,1610612744,Golden State Warriors,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20110318,PHX,GSW
-Shot Chart Detail,0021001026,422,201151,Acie Law,1610612744,Golden State Warriors,4,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20110318,PHX,GSW
-Shot Chart Detail,0021001042,129,201151,Acie Law,1610612744,Golden State Warriors,1,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,129,1,1,20110320,DAL,GSW
-Shot Chart Detail,0021001042,172,201151,Acie Law,1610612744,Golden State Warriors,2,7,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,0,20110320,DAL,GSW
-Shot Chart Detail,0021001049,90,201151,Acie Law,1610612744,Golden State Warriors,1,3,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,97,201151,Acie Law,1610612744,Golden State Warriors,1,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,108,201151,Acie Law,1610612744,Golden State Warriors,1,1,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,112,201151,Acie Law,1610612744,Golden State Warriors,1,0,39,Missed Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,37,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,125,201151,Acie Law,1610612744,Golden State Warriors,2,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,138,201151,Acie Law,1610612744,Golden State Warriors,2,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,151,201151,Acie Law,1610612744,Golden State Warriors,2,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,132,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,155,201151,Acie Law,1610612744,Golden State Warriors,2,6,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,302,201151,Acie Law,1610612744,Golden State Warriors,3,5,26,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,36,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,330,201151,Acie Law,1610612744,Golden State Warriors,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,375,201151,Acie Law,1610612744,Golden State Warriors,4,10,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,39,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001062,195,201151,Acie Law,1610612744,Golden State Warriors,2,4,22,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20110323,HOU,GSW
-Shot Chart Detail,0021001062,538,201151,Acie Law,1610612744,Golden State Warriors,4,1,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,0,20110323,HOU,GSW
-Shot Chart Detail,0021000008,395,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,9,1,0,20101027,MEM,ATL
-Shot Chart Detail,0021000008,557,201151,Acie Law,1610612763,Memphis Grizzlies,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,222,1,0,20101027,MEM,ATL
-Shot Chart Detail,0021000028,168,201151,Acie Law,1610612763,Memphis Grizzlies,2,9,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,0,20101029,DAL,MEM
-Shot Chart Detail,0021000028,452,201151,Acie Law,1610612763,Memphis Grizzlies,4,10,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,0,20101029,DAL,MEM
-Shot Chart Detail,0021000036,136,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,224,1,0,20101030,MEM,MIN
-Shot Chart Detail,0021000053,166,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,75,1,1,20101102,LAL,MEM
-Shot Chart Detail,0021000053,182,201151,Acie Law,1610612763,Memphis Grizzlies,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,101,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000053,192,201151,Acie Law,1610612763,Memphis Grizzlies,2,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000053,421,201151,Acie Law,1610612763,Memphis Grizzlies,4,11,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,19,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000053,505,201151,Acie Law,1610612763,Memphis Grizzlies,4,4,19,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,34,1,0,20101102,LAL,MEM
-Shot Chart Detail,0021000076,405,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,17,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20101105,PHX,MEM
-Shot Chart Detail,0021000088,125,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,30,1,0,20101106,SAC,MEM
-Shot Chart Detail,0021000088,184,201151,Acie Law,1610612763,Memphis Grizzlies,2,5,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,12,1,0,20101106,SAC,MEM
-Shot Chart Detail,0021000099,128,201151,Acie Law,1610612763,Memphis Grizzlies,2,11,39,Missed Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,39,1,0,20101108,MEM,PHX
-Shot Chart Detail,0021000099,135,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,111,91,1,0,20101108,MEM,PHX
-Shot Chart Detail,0021000099,434,201151,Acie Law,1610612763,Memphis Grizzlies,4,9,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,77,1,0,20101108,MEM,PHX
-Shot Chart Detail,0021000114,110,201151,Acie Law,1610612763,Memphis Grizzlies,2,11,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,44,1,1,20101110,MEM,DAL
-Shot Chart Detail,0021000114,126,201151,Acie Law,1610612763,Memphis Grizzlies,2,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20101110,MEM,DAL
-Shot Chart Detail,0021000174,377,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,99,1,0,20101119,WAS,MEM
-Shot Chart Detail,0021000340,138,201151,Acie Law,1610612744,Golden State Warriors,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-101,260,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000340,213,201151,Acie Law,1610612744,Golden State Warriors,2,3,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,30,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000340,413,201151,Acie Law,1610612744,Golden State Warriors,4,9,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,23,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000340,418,201151,Acie Law,1610612744,Golden State Warriors,4,9,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,0,20101210,GSW,MIA
-Shot Chart Detail,0021000359,177,201151,Acie Law,1610612744,Golden State Warriors,2,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,12,1,1,20101213,UTA,GSW
-Shot Chart Detail,0021000359,392,201151,Acie Law,1610612744,Golden State Warriors,4,9,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,0,20101213,UTA,GSW
-Shot Chart Detail,0021000366,448,201151,Acie Law,1610612744,Golden State Warriors,4,7,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-2,1,0,20101214,GSW,MIN
-Shot Chart Detail,0021000366,452,201151,Acie Law,1610612744,Golden State Warriors,4,7,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20101214,GSW,MIN
-Shot Chart Detail,0021000366,521,201151,Acie Law,1610612744,Golden State Warriors,4,1,17,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20101214,GSW,MIN
-Shot Chart Detail,0021000366,539,201151,Acie Law,1610612744,Golden State Warriors,4,0,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20101214,GSW,MIN
-Shot Chart Detail,0021000399,178,201151,Acie Law,1610612744,Golden State Warriors,2,8,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20101218,POR,GSW
-Shot Chart Detail,0021000399,213,201151,Acie Law,1610612744,Golden State Warriors,2,4,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,0,20101218,POR,GSW
-Shot Chart Detail,0021000399,434,201151,Acie Law,1610612744,Golden State Warriors,4,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,7,1,0,20101218,POR,GSW
-Shot Chart Detail,0021000413,122,201151,Acie Law,1610612744,Golden State Warriors,2,11,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,241,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,126,201151,Acie Law,1610612744,Golden State Warriors,2,10,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-82,145,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,147,201151,Acie Law,1610612744,Golden State Warriors,2,8,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,202,201151,Acie Law,1610612744,Golden State Warriors,2,2,55,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,242,201151,Acie Law,1610612744,Golden State Warriors,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,254,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,371,201151,Acie Law,1610612744,Golden State Warriors,3,1,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,58,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,373,201151,Acie Law,1610612744,Golden State Warriors,3,1,36,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,409,201151,Acie Law,1610612744,Golden State Warriors,4,10,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,186,1,1,20101220,GSW,HOU
-Shot Chart Detail,0021000413,421,201151,Acie Law,1610612744,Golden State Warriors,4,9,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,-19,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000413,487,201151,Acie Law,1610612744,Golden State Warriors,4,2,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20101220,GSW,HOU
-Shot Chart Detail,0021000419,163,201151,Acie Law,1610612744,Golden State Warriors,2,8,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,144,93,1,0,20101221,SAC,GSW
-Shot Chart Detail,0021000419,197,201151,Acie Law,1610612744,Golden State Warriors,2,5,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,1,20101221,SAC,GSW
-Shot Chart Detail,0021000419,240,201151,Acie Law,1610612744,Golden State Warriors,2,2,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,19,1,1,20101221,SAC,GSW
-Shot Chart Detail,0021000419,408,201151,Acie Law,1610612744,Golden State Warriors,3,2,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,17,1,1,20101221,SAC,GSW
-Shot Chart Detail,0021000419,428,201151,Acie Law,1610612744,Golden State Warriors,3,0,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,66,1,0,20101221,SAC,GSW
-Shot Chart Detail,0021000419,430,201151,Acie Law,1610612744,Golden State Warriors,3,0,6,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,43,1,0,20101221,SAC,GSW
-Shot Chart Detail,0021000454,316,201151,Acie Law,1610612744,Golden State Warriors,3,5,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,7,1,1,20101227,GSW,PHI
-Shot Chart Detail,0021000454,355,201151,Acie Law,1610612744,Golden State Warriors,3,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,0,20101227,GSW,PHI
-Shot Chart Detail,0021000454,420,201151,Acie Law,1610612744,Golden State Warriors,4,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,0,20101227,GSW,PHI
-Shot Chart Detail,0021000477,119,201151,Acie Law,1610612744,Golden State Warriors,2,11,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,12,1,0,20101231,CHA,GSW
-Shot Chart Detail,0021000477,377,201151,Acie Law,1610612744,Golden State Warriors,4,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,15,1,1,20101231,CHA,GSW
-Shot Chart Detail,0021000477,387,201151,Acie Law,1610612744,Golden State Warriors,4,10,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20101231,CHA,GSW
-Shot Chart Detail,0021000486,67,201151,Acie Law,1610612744,Golden State Warriors,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,12,1,1,20110101,MIA,GSW
-Shot Chart Detail,0021000486,70,201151,Acie Law,1610612744,Golden State Warriors,1,2,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,14,1,0,20110101,MIA,GSW
-Shot Chart Detail,0021000486,125,201151,Acie Law,1610612744,Golden State Warriors,2,10,16,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20110101,MIA,GSW
-Shot Chart Detail,0021000486,136,201151,Acie Law,1610612744,Golden State Warriors,2,8,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20110101,MIA,GSW
-Shot Chart Detail,0021000486,162,201151,Acie Law,1610612744,Golden State Warriors,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,47,1,0,20110101,MIA,GSW
-Shot Chart Detail,0021000486,377,201151,Acie Law,1610612744,Golden State Warriors,3,0,23,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20110101,MIA,GSW
-Shot Chart Detail,0021000500,351,201151,Acie Law,1610612744,Golden State Warriors,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,41,1,0,20110103,ORL,GSW
-Shot Chart Detail,0021000500,367,201151,Acie Law,1610612744,Golden State Warriors,3,1,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,0,20110103,ORL,GSW
-Shot Chart Detail,0021000500,383,201151,Acie Law,1610612744,Golden State Warriors,3,0,45,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,44,1,0,20110103,ORL,GSW
-Shot Chart Detail,0021000518,120,201151,Acie Law,1610612744,Golden State Warriors,1,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,189,97,1,0,20110105,NOH,GSW
-Shot Chart Detail,0021000518,164,201151,Acie Law,1610612744,Golden State Warriors,2,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20110105,NOH,GSW
-Shot Chart Detail,0021000518,173,201151,Acie Law,1610612744,Golden State Warriors,2,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,0,1,1,20110105,NOH,GSW
-Shot Chart Detail,0021000518,230,201151,Acie Law,1610612744,Golden State Warriors,2,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,9,247,1,0,20110105,NOH,GSW
-Shot Chart Detail,0021000534,109,201151,Acie Law,1610612744,Golden State Warriors,2,11,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,15,1,0,20110107,GSW,CLE
-Shot Chart Detail,0021000534,232,201151,Acie Law,1610612744,Golden State Warriors,2,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20110107,GSW,CLE
-Shot Chart Detail,0021000534,411,201151,Acie Law,1610612744,Golden State Warriors,4,10,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,0,20110107,GSW,CLE
-Shot Chart Detail,0021000534,528,201151,Acie Law,1610612744,Golden State Warriors,4,1,15,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,28,159,1,1,20110107,GSW,CLE
-Shot Chart Detail,0021000545,44,201151,Acie Law,1610612744,Golden State Warriors,1,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,0,20110109,LAC,GSW
-Shot Chart Detail,0021000545,61,201151,Acie Law,1610612744,Golden State Warriors,1,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,149,1,0,20110109,LAC,GSW
-Shot Chart Detail,0021000545,66,201151,Acie Law,1610612744,Golden State Warriors,1,6,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20110109,LAC,GSW
-Shot Chart Detail,0021000545,96,201151,Acie Law,1610612744,Golden State Warriors,1,4,3,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,28,1,1,20110109,LAC,GSW
-Shot Chart Detail,0021000545,471,201151,Acie Law,1610612744,Golden State Warriors,3,1,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,0,20110109,LAC,GSW
-Shot Chart Detail,0021000585,335,201151,Acie Law,1610612744,Golden State Warriors,3,5,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-84,42,1,0,20110114,GSW,LAC
-Shot Chart Detail,0021000585,369,201151,Acie Law,1610612744,Golden State Warriors,3,2,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,66,1,1,20110114,GSW,LAC
-Shot Chart Detail,0021000607,155,201151,Acie Law,1610612744,Golden State Warriors,2,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,172,1,0,20110117,GSW,NJN
-Shot Chart Detail,0021000607,175,201151,Acie Law,1610612744,Golden State Warriors,2,7,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20110117,GSW,NJN
-Shot Chart Detail,0021000607,186,201151,Acie Law,1610612744,Golden State Warriors,2,7,8,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,119,1,1,20110117,GSW,NJN
-Shot Chart Detail,0021000607,431,201151,Acie Law,1610612744,Golden State Warriors,4,8,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20110117,GSW,NJN
-Shot Chart Detail,0021000607,449,201151,Acie Law,1610612744,Golden State Warriors,4,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-5,1,0,20110117,GSW,NJN
-Shot Chart Detail,0021000607,456,201151,Acie Law,1610612744,Golden State Warriors,4,5,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,17,1,0,20110117,GSW,NJN
-Shot Chart Detail,0021000624,115,201151,Acie Law,1610612744,Golden State Warriors,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-93,123,1,0,20110119,GSW,IND
-Shot Chart Detail,0021000624,395,201151,Acie Law,1610612744,Golden State Warriors,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,39,168,356,1,1,20110119,GSW,IND
-Shot Chart Detail,0021000624,435,201151,Acie Law,1610612744,Golden State Warriors,4,7,46,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,193,181,1,1,20110119,GSW,IND
-Shot Chart Detail,0021000624,444,201151,Acie Law,1610612744,Golden State Warriors,4,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,0,20110119,GSW,IND
-Shot Chart Detail,0021000638,143,201151,Acie Law,1610612744,Golden State Warriors,2,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110121,GSW,SAC
-Shot Chart Detail,0021000638,159,201151,Acie Law,1610612744,Golden State Warriors,2,7,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,22,1,1,20110121,GSW,SAC
-Shot Chart Detail,0021000638,163,201151,Acie Law,1610612744,Golden State Warriors,2,7,7,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-29,178,1,1,20110121,GSW,SAC
-Shot Chart Detail,0021000662,179,201151,Acie Law,1610612744,Golden State Warriors,2,7,29,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,82,1,1,20110124,GSW,SAS
-Shot Chart Detail,0021000662,367,201151,Acie Law,1610612744,Golden State Warriors,3,1,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,145,1,1,20110124,GSW,SAS
-Shot Chart Detail,0021000662,388,201151,Acie Law,1610612744,Golden State Warriors,3,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,0,20110124,GSW,SAS
-Shot Chart Detail,0021000662,408,201151,Acie Law,1610612744,Golden State Warriors,4,11,23,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-24,1,1,20110124,GSW,SAS
-Shot Chart Detail,0021000662,411,201151,Acie Law,1610612744,Golden State Warriors,4,10,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-185,105,1,0,20110124,GSW,SAS
-Shot Chart Detail,0021000662,423,201151,Acie Law,1610612744,Golden State Warriors,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,137,1,0,20110124,GSW,SAS
-Shot Chart Detail,0021000677,393,201151,Acie Law,1610612744,Golden State Warriors,4,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,0,20110126,GSW,NOH
-Shot Chart Detail,0021000677,395,201151,Acie Law,1610612744,Golden State Warriors,4,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20110126,GSW,NOH
-Shot Chart Detail,0021000677,460,201151,Acie Law,1610612744,Golden State Warriors,4,3,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20110126,GSW,NOH
-Shot Chart Detail,0021000691,158,201151,Acie Law,1610612744,Golden State Warriors,2,6,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20110128,GSW,CHA
-Shot Chart Detail,0021000691,165,201151,Acie Law,1610612744,Golden State Warriors,2,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20110128,GSW,CHA
-Shot Chart Detail,0021000691,173,201151,Acie Law,1610612744,Golden State Warriors,2,4,43,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20110128,GSW,CHA
-Shot Chart Detail,0021000691,194,201151,Acie Law,1610612744,Golden State Warriors,2,3,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,0,20110128,GSW,CHA
-Shot Chart Detail,0021000691,358,201151,Acie Law,1610612744,Golden State Warriors,4,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20110128,GSW,CHA
-Shot Chart Detail,0021000707,180,201151,Acie Law,1610612744,Golden State Warriors,2,4,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-25,1,0,20110130,GSW,UTA
-Shot Chart Detail,0021000707,460,201151,Acie Law,1610612744,Golden State Warriors,4,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,135,1,0,20110130,GSW,UTA
-Shot Chart Detail,0021000707,467,201151,Acie Law,1610612744,Golden State Warriors,4,1,17,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,20,1,1,20110130,GSW,UTA
-Shot Chart Detail,0021000845,88,201151,Acie Law,1610612744,Golden State Warriors,1,3,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,50,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,160,201151,Acie Law,1610612744,Golden State Warriors,2,9,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20110222,GSW,BOS
-Shot Chart Detail,0021000845,208,201151,Acie Law,1610612744,Golden State Warriors,2,5,39,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,381,201151,Acie Law,1610612744,Golden State Warriors,3,1,34,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,61,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,401,201151,Acie Law,1610612744,Golden State Warriors,4,10,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,25,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,441,201151,Acie Law,1610612744,Golden State Warriors,4,7,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-3,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000845,530,201151,Acie Law,1610612744,Golden State Warriors,4,0,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,0,20110222,GSW,BOS
-Shot Chart Detail,0021000870,352,201151,Acie Law,1610612744,Golden State Warriors,3,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,17,213,1,0,20110225,GSW,ATL
-Shot Chart Detail,0021000870,357,201151,Acie Law,1610612744,Golden State Warriors,3,1,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20110225,GSW,ATL
-Shot Chart Detail,0021000870,403,201151,Acie Law,1610612744,Golden State Warriors,4,7,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,0,20110225,GSW,ATL
-Shot Chart Detail,0021000870,425,201151,Acie Law,1610612744,Golden State Warriors,4,4,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,23,1,1,20110225,GSW,ATL
-Shot Chart Detail,0021000870,429,201151,Acie Law,1610612744,Golden State Warriors,4,4,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,3,1,1,20110225,GSW,ATL
-Shot Chart Detail,0021000870,462,201151,Acie Law,1610612744,Golden State Warriors,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,154,224,1,0,20110225,GSW,ATL
-Shot Chart Detail,0021000882,380,201151,Acie Law,1610612744,Golden State Warriors,3,4,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,15,1,0,20110227,MIN,GSW
-Shot Chart Detail,0021000882,426,201151,Acie Law,1610612744,Golden State Warriors,3,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20110227,MIN,GSW
-Shot Chart Detail,0021000882,435,201151,Acie Law,1610612744,Golden State Warriors,3,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,118,1,0,20110227,MIN,GSW
-Shot Chart Detail,0021000894,97,201151,Acie Law,1610612744,Golden State Warriors,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,17,1,0,20110301,IND,GSW
-Shot Chart Detail,0021000894,105,201151,Acie Law,1610612744,Golden State Warriors,1,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20110301,IND,GSW
-Shot Chart Detail,0021000894,150,201151,Acie Law,1610612744,Golden State Warriors,2,10,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20110301,IND,GSW
-Shot Chart Detail,0021000894,184,201151,Acie Law,1610612744,Golden State Warriors,2,7,11,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,132,104,1,1,20110301,IND,GSW
-Shot Chart Detail,0021000894,404,201151,Acie Law,1610612744,Golden State Warriors,3,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,0,20110301,IND,GSW
-Shot Chart Detail,0021000894,418,201151,Acie Law,1610612744,Golden State Warriors,4,11,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-34,258,1,0,20110301,IND,GSW
-Shot Chart Detail,0021000904,171,201151,Acie Law,1610612744,Golden State Warriors,2,11,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,0,20110302,WAS,GSW
-Shot Chart Detail,0021000904,208,201151,Acie Law,1610612744,Golden State Warriors,2,8,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20110302,WAS,GSW
-Shot Chart Detail,0021000904,224,201151,Acie Law,1610612744,Golden State Warriors,2,7,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20110302,WAS,GSW
-Shot Chart Detail,0021000904,479,201151,Acie Law,1610612744,Golden State Warriors,4,10,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,6,1,0,20110302,WAS,GSW
-Shot Chart Detail,0021000918,157,201151,Acie Law,1610612744,Golden State Warriors,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-27,1,1,20110304,BOS,GSW
-Shot Chart Detail,0021000918,292,201151,Acie Law,1610612744,Golden State Warriors,3,6,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20110304,BOS,GSW
-Shot Chart Detail,0021000918,363,201151,Acie Law,1610612744,Golden State Warriors,4,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,52,1,0,20110304,BOS,GSW
-Shot Chart Detail,0021000935,129,201151,Acie Law,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,250,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,155,201151,Acie Law,1610612744,Golden State Warriors,2,10,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,140,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,162,201151,Acie Law,1610612744,Golden State Warriors,2,9,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20110306,PHI,GSW
-Shot Chart Detail,0021000935,192,201151,Acie Law,1610612744,Golden State Warriors,2,7,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,132,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,423,201151,Acie Law,1610612744,Golden State Warriors,4,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20110306,PHI,GSW
-Shot Chart Detail,0021000935,430,201151,Acie Law,1610612744,Golden State Warriors,4,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-16,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000935,448,201151,Acie Law,1610612744,Golden State Warriors,4,6,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20110306,PHI,GSW
-Shot Chart Detail,0021000935,488,201151,Acie Law,1610612744,Golden State Warriors,4,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,0,20110306,PHI,GSW
-Shot Chart Detail,0021000948,108,201151,Acie Law,1610612744,Golden State Warriors,1,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20110308,CLE,GSW
-Shot Chart Detail,0021000948,113,201151,Acie Law,1610612744,Golden State Warriors,1,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,4,1,0,20110308,CLE,GSW
-Shot Chart Detail,0021000948,203,201151,Acie Law,1610612744,Golden State Warriors,2,6,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,63,1,0,20110308,CLE,GSW
-Shot Chart Detail,0021000948,394,201151,Acie Law,1610612744,Golden State Warriors,4,11,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,25,1,0,20110308,CLE,GSW
-Shot Chart Detail,0021000954,92,201151,Acie Law,1610612744,Golden State Warriors,1,1,22,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,17,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000954,123,201151,Acie Law,1610612744,Golden State Warriors,2,10,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000954,128,201151,Acie Law,1610612744,Golden State Warriors,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,25,1,0,20110309,NJN,GSW
-Shot Chart Detail,0021000954,274,201151,Acie Law,1610612744,Golden State Warriors,3,9,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000954,288,201151,Acie Law,1610612744,Golden State Warriors,3,8,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20110309,NJN,GSW
-Shot Chart Detail,0021000975,109,201151,Acie Law,1610612744,Golden State Warriors,2,11,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,0,20110311,GSW,ORL
-Shot Chart Detail,0021000990,152,201151,Acie Law,1610612744,Golden State Warriors,2,8,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,69,101,1,1,20110313,GSW,MIN
-Shot Chart Detail,0021000990,169,201151,Acie Law,1610612744,Golden State Warriors,2,6,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20110313,GSW,MIN
-Shot Chart Detail,0021000990,455,201151,Acie Law,1610612744,Golden State Warriors,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,134,1,0,20110313,GSW,MIN
-Shot Chart Detail,0021000998,120,201151,Acie Law,1610612744,Golden State Warriors,1,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,156,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021000998,431,201151,Acie Law,1610612744,Golden State Warriors,3,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,20,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021000998,517,201151,Acie Law,1610612744,Golden State Warriors,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,150,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021000998,550,201151,Acie Law,1610612744,Golden State Warriors,4,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,0,20110314,SAC,GSW
-Shot Chart Detail,0021001012,108,201151,Acie Law,1610612744,Golden State Warriors,2,11,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,178,1,0,20110316,GSW,DAL
-Shot Chart Detail,0021001012,158,201151,Acie Law,1610612744,Golden State Warriors,2,6,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,172,201151,Acie Law,1610612744,Golden State Warriors,2,5,33,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,7,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,366,201151,Acie Law,1610612744,Golden State Warriors,4,11,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,26,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,376,201151,Acie Law,1610612744,Golden State Warriors,4,10,26,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001012,416,201151,Acie Law,1610612744,Golden State Warriors,4,5,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,187,1,0,20110316,GSW,DAL
-Shot Chart Detail,0021001012,452,201151,Acie Law,1610612744,Golden State Warriors,4,1,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20110316,GSW,DAL
-Shot Chart Detail,0021001026,187,201151,Acie Law,1610612744,Golden State Warriors,2,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20110318,PHX,GSW
-Shot Chart Detail,0021001026,422,201151,Acie Law,1610612744,Golden State Warriors,4,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20110318,PHX,GSW
-Shot Chart Detail,0021001042,129,201151,Acie Law,1610612744,Golden State Warriors,1,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,129,1,1,20110320,DAL,GSW
-Shot Chart Detail,0021001042,172,201151,Acie Law,1610612744,Golden State Warriors,2,7,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,0,20110320,DAL,GSW
-Shot Chart Detail,0021001049,90,201151,Acie Law,1610612744,Golden State Warriors,1,3,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,97,201151,Acie Law,1610612744,Golden State Warriors,1,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,108,201151,Acie Law,1610612744,Golden State Warriors,1,1,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,112,201151,Acie Law,1610612744,Golden State Warriors,1,0,39,Missed Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,37,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,125,201151,Acie Law,1610612744,Golden State Warriors,2,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,138,201151,Acie Law,1610612744,Golden State Warriors,2,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,151,201151,Acie Law,1610612744,Golden State Warriors,2,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,132,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001049,155,201151,Acie Law,1610612744,Golden State Warriors,2,6,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,302,201151,Acie Law,1610612744,Golden State Warriors,3,5,26,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,36,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,330,201151,Acie Law,1610612744,Golden State Warriors,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,0,20110321,SAS,GSW
-Shot Chart Detail,0021001049,375,201151,Acie Law,1610612744,Golden State Warriors,4,10,27,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,39,1,1,20110321,SAS,GSW
-Shot Chart Detail,0021001062,195,201151,Acie Law,1610612744,Golden State Warriors,2,4,22,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20110323,HOU,GSW
-Shot Chart Detail,0021001062,538,201151,Acie Law,1610612744,Golden State Warriors,4,1,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,0,20110323,HOU,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21000008,395,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,9,1,0,20101027,0,MEM,ATL
+Shot Chart Detail,21000008,557,201151,Acie Law,1610612763,Memphis Grizzlies,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,222,1,0,20101027,0,MEM,ATL
+Shot Chart Detail,21000028,168,201151,Acie Law,1610612763,Memphis Grizzlies,2,9,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,45,113,1,0,20101029,0,DAL,MEM
+Shot Chart Detail,21000028,452,201151,Acie Law,1610612763,Memphis Grizzlies,4,10,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,0,20101029,0,DAL,MEM
+Shot Chart Detail,21000036,136,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-95,224,1,0,20101030,0,MEM,MIN
+Shot Chart Detail,21000053,166,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,75,1,1,20101102,0,LAL,MEM
+Shot Chart Detail,21000053,182,201151,Acie Law,1610612763,Memphis Grizzlies,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,28,101,1,0,20101102,0,LAL,MEM
+Shot Chart Detail,21000053,192,201151,Acie Law,1610612763,Memphis Grizzlies,2,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,0,20101102,0,LAL,MEM
+Shot Chart Detail,21000053,421,201151,Acie Law,1610612763,Memphis Grizzlies,4,11,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,19,1,0,20101102,0,LAL,MEM
+Shot Chart Detail,21000053,505,201151,Acie Law,1610612763,Memphis Grizzlies,4,4,19,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,34,1,0,20101102,0,LAL,MEM
+Shot Chart Detail,21000076,405,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,17,Missed Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20101105,0,PHX,MEM
+Shot Chart Detail,21000088,125,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,30,1,0,20101106,0,SAC,MEM
+Shot Chart Detail,21000088,184,201151,Acie Law,1610612763,Memphis Grizzlies,2,5,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,12,1,0,20101106,0,SAC,MEM
+Shot Chart Detail,21000099,128,201151,Acie Law,1610612763,Memphis Grizzlies,2,11,39,Missed Shot,Running Bank shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,39,1,0,20101108,0,MEM,PHX
+Shot Chart Detail,21000099,135,201151,Acie Law,1610612763,Memphis Grizzlies,2,10,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,111,91,1,0,20101108,0,MEM,PHX
+Shot Chart Detail,21000099,434,201151,Acie Law,1610612763,Memphis Grizzlies,4,9,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,77,1,0,20101108,0,MEM,PHX
+Shot Chart Detail,21000114,110,201151,Acie Law,1610612763,Memphis Grizzlies,2,11,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-116,44,1,1,20101110,0,MEM,DAL
+Shot Chart Detail,21000114,126,201151,Acie Law,1610612763,Memphis Grizzlies,2,9,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20101110,0,MEM,DAL
+Shot Chart Detail,21000174,377,201151,Acie Law,1610612763,Memphis Grizzlies,3,2,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,99,1,0,20101119,0,WAS,MEM
+Shot Chart Detail,21000340,138,201151,Acie Law,1610612744,Golden State Warriors,2,9,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-101,260,1,0,20101210,0,GSW,MIA
+Shot Chart Detail,21000340,213,201151,Acie Law,1610612744,Golden State Warriors,2,3,7,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-4,30,1,0,20101210,0,GSW,MIA
+Shot Chart Detail,21000340,413,201151,Acie Law,1610612744,Golden State Warriors,4,9,56,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,23,1,0,20101210,0,GSW,MIA
+Shot Chart Detail,21000340,418,201151,Acie Law,1610612744,Golden State Warriors,4,9,35,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,0,20101210,0,GSW,MIA
+Shot Chart Detail,21000359,177,201151,Acie Law,1610612744,Golden State Warriors,2,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,12,1,1,20101213,1,UTA,GSW
+Shot Chart Detail,21000359,392,201151,Acie Law,1610612744,Golden State Warriors,4,9,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,0,20101213,0,UTA,GSW
+Shot Chart Detail,21000366,448,201151,Acie Law,1610612744,Golden State Warriors,4,7,18,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,237,-2,1,0,20101214,0,GSW,MIN
+Shot Chart Detail,21000366,452,201151,Acie Law,1610612744,Golden State Warriors,4,7,5,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,1,20101214,1,GSW,MIN
+Shot Chart Detail,21000366,521,201151,Acie Law,1610612744,Golden State Warriors,4,1,17,Made Shot,Step Back Jump shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20101214,1,GSW,MIN
+Shot Chart Detail,21000366,539,201151,Acie Law,1610612744,Golden State Warriors,4,0,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,1,20101214,0,GSW,MIN
+Shot Chart Detail,21000399,178,201151,Acie Law,1610612744,Golden State Warriors,2,8,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20101218,1,POR,GSW
+Shot Chart Detail,21000399,213,201151,Acie Law,1610612744,Golden State Warriors,2,4,16,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,0,20101218,0,POR,GSW
+Shot Chart Detail,21000399,434,201151,Acie Law,1610612744,Golden State Warriors,4,5,5,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,127,7,1,0,20101218,0,POR,GSW
+Shot Chart Detail,21000413,122,201151,Acie Law,1610612744,Golden State Warriors,2,11,27,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,241,1,0,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,126,201151,Acie Law,1610612744,Golden State Warriors,2,10,58,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-82,145,1,1,20101220,1,GSW,HOU
+Shot Chart Detail,21000413,147,201151,Acie Law,1610612744,Golden State Warriors,2,8,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,-3,1,1,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,202,201151,Acie Law,1610612744,Golden State Warriors,2,2,55,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,3,1,0,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,242,201151,Acie Law,1610612744,Golden State Warriors,2,0,5,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-51,254,1,0,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,371,201151,Acie Law,1610612744,Golden State Warriors,3,1,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,237,58,1,0,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,373,201151,Acie Law,1610612744,Golden State Warriors,3,1,36,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,409,201151,Acie Law,1610612744,Golden State Warriors,4,10,20,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,18,186,1,1,20101220,1,GSW,HOU
+Shot Chart Detail,21000413,421,201151,Acie Law,1610612744,Golden State Warriors,4,9,4,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,241,-19,1,0,20101220,0,GSW,HOU
+Shot Chart Detail,21000413,487,201151,Acie Law,1610612744,Golden State Warriors,4,2,23,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20101220,0,GSW,HOU
+Shot Chart Detail,21000419,163,201151,Acie Law,1610612744,Golden State Warriors,2,8,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,144,93,1,0,20101221,0,SAC,GSW
+Shot Chart Detail,21000419,197,201151,Acie Law,1610612744,Golden State Warriors,2,5,25,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,1,20101221,0,SAC,GSW
+Shot Chart Detail,21000419,240,201151,Acie Law,1610612744,Golden State Warriors,2,2,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,24,19,1,1,20101221,0,SAC,GSW
+Shot Chart Detail,21000419,408,201151,Acie Law,1610612744,Golden State Warriors,3,2,20,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,17,1,1,20101221,1,SAC,GSW
+Shot Chart Detail,21000419,428,201151,Acie Law,1610612744,Golden State Warriors,3,0,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,66,1,0,20101221,0,SAC,GSW
+Shot Chart Detail,21000419,430,201151,Acie Law,1610612744,Golden State Warriors,3,0,6,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,43,1,0,20101221,0,SAC,GSW
+Shot Chart Detail,21000454,316,201151,Acie Law,1610612744,Golden State Warriors,3,5,19,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),16-24 ft.,20,-201,7,1,1,20101227,1,GSW,PHI
+Shot Chart Detail,21000454,355,201151,Acie Law,1610612744,Golden State Warriors,3,0,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,0,20101227,0,GSW,PHI
+Shot Chart Detail,21000454,420,201151,Acie Law,1610612744,Golden State Warriors,4,7,37,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-71,242,1,0,20101227,0,GSW,PHI
+Shot Chart Detail,21000477,119,201151,Acie Law,1610612744,Golden State Warriors,2,11,25,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,12,1,0,20101231,0,CHA,GSW
+Shot Chart Detail,21000477,377,201151,Acie Law,1610612744,Golden State Warriors,4,11,36,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-168,15,1,1,20101231,1,CHA,GSW
+Shot Chart Detail,21000477,387,201151,Acie Law,1610612744,Golden State Warriors,4,10,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20101231,0,CHA,GSW
+Shot Chart Detail,21000486,67,201151,Acie Law,1610612744,Golden State Warriors,1,2,35,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,12,1,1,20110101,1,MIA,GSW
+Shot Chart Detail,21000486,70,201151,Acie Law,1610612744,Golden State Warriors,1,2,7,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-19,14,1,0,20110101,0,MIA,GSW
+Shot Chart Detail,21000486,125,201151,Acie Law,1610612744,Golden State Warriors,2,10,16,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20110101,1,MIA,GSW
+Shot Chart Detail,21000486,136,201151,Acie Law,1610612744,Golden State Warriors,2,8,59,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,1,20110101,1,MIA,GSW
+Shot Chart Detail,21000486,162,201151,Acie Law,1610612744,Golden State Warriors,2,6,25,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,47,1,0,20110101,0,MIA,GSW
+Shot Chart Detail,21000486,377,201151,Acie Law,1610612744,Golden State Warriors,3,0,23,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,11,1,0,20110101,0,MIA,GSW
+Shot Chart Detail,21000500,351,201151,Acie Law,1610612744,Golden State Warriors,3,3,6,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,143,41,1,0,20110103,0,ORL,GSW
+Shot Chart Detail,21000500,367,201151,Acie Law,1610612744,Golden State Warriors,3,1,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,0,20110103,0,ORL,GSW
+Shot Chart Detail,21000500,383,201151,Acie Law,1610612744,Golden State Warriors,3,0,45,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,44,1,0,20110103,0,ORL,GSW
+Shot Chart Detail,21000518,120,201151,Acie Law,1610612744,Golden State Warriors,1,0,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,189,97,1,0,20110105,0,NOH,GSW
+Shot Chart Detail,21000518,164,201151,Acie Law,1610612744,Golden State Warriors,2,9,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20110105,0,NOH,GSW
+Shot Chart Detail,21000518,173,201151,Acie Law,1610612744,Golden State Warriors,2,8,46,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,170,0,1,1,20110105,1,NOH,GSW
+Shot Chart Detail,21000518,230,201151,Acie Law,1610612744,Golden State Warriors,2,4,30,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,9,247,1,0,20110105,0,NOH,GSW
+Shot Chart Detail,21000534,109,201151,Acie Law,1610612744,Golden State Warriors,2,11,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,15,1,0,20110107,0,GSW,CLE
+Shot Chart Detail,21000534,232,201151,Acie Law,1610612744,Golden State Warriors,2,0,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20110107,0,GSW,CLE
+Shot Chart Detail,21000534,411,201151,Acie Law,1610612744,Golden State Warriors,4,10,18,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,0,20110107,0,GSW,CLE
+Shot Chart Detail,21000534,528,201151,Acie Law,1610612744,Golden State Warriors,4,1,15,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,28,159,1,1,20110107,0,GSW,CLE
+Shot Chart Detail,21000545,44,201151,Acie Law,1610612744,Golden State Warriors,1,8,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,0,20110109,0,LAC,GSW
+Shot Chart Detail,21000545,61,201151,Acie Law,1610612744,Golden State Warriors,1,7,31,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,149,1,0,20110109,0,LAC,GSW
+Shot Chart Detail,21000545,66,201151,Acie Law,1610612744,Golden State Warriors,1,6,37,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20110109,0,LAC,GSW
+Shot Chart Detail,21000545,96,201151,Acie Law,1610612744,Golden State Warriors,1,4,3,Made Shot,Floating Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,28,1,1,20110109,0,LAC,GSW
+Shot Chart Detail,21000545,471,201151,Acie Law,1610612744,Golden State Warriors,3,1,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,14,1,0,20110109,0,LAC,GSW
+Shot Chart Detail,21000585,335,201151,Acie Law,1610612744,Golden State Warriors,3,5,30,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-84,42,1,0,20110114,0,GSW,LAC
+Shot Chart Detail,21000585,369,201151,Acie Law,1610612744,Golden State Warriors,3,2,48,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,12,66,1,1,20110114,1,GSW,LAC
+Shot Chart Detail,21000607,155,201151,Acie Law,1610612744,Golden State Warriors,2,10,9,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,172,1,0,20110117,0,GSW,NJN
+Shot Chart Detail,21000607,175,201151,Acie Law,1610612744,Golden State Warriors,2,7,54,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20110117,0,GSW,NJN
+Shot Chart Detail,21000607,186,201151,Acie Law,1610612744,Golden State Warriors,2,7,8,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-67,119,1,1,20110117,0,GSW,NJN
+Shot Chart Detail,21000607,431,201151,Acie Law,1610612744,Golden State Warriors,4,8,30,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,1,1,1,20110117,0,GSW,NJN
+Shot Chart Detail,21000607,449,201151,Acie Law,1610612744,Golden State Warriors,4,6,33,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,-5,1,0,20110117,0,GSW,NJN
+Shot Chart Detail,21000607,456,201151,Acie Law,1610612744,Golden State Warriors,4,5,23,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,244,17,1,0,20110117,0,GSW,NJN
+Shot Chart Detail,21000624,115,201151,Acie Law,1610612744,Golden State Warriors,1,0,30,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-93,123,1,0,20110119,0,GSW,IND
+Shot Chart Detail,21000624,395,201151,Acie Law,1610612744,Golden State Warriors,3,0,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,39,168,356,1,1,20110119,0,GSW,IND
+Shot Chart Detail,21000624,435,201151,Acie Law,1610612744,Golden State Warriors,4,7,46,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,193,181,1,1,20110119,1,GSW,IND
+Shot Chart Detail,21000624,444,201151,Acie Law,1610612744,Golden State Warriors,4,6,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,0,20110119,0,GSW,IND
+Shot Chart Detail,21000638,143,201151,Acie Law,1610612744,Golden State Warriors,2,8,56,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110121,1,GSW,SAC
+Shot Chart Detail,21000638,159,201151,Acie Law,1610612744,Golden State Warriors,2,7,36,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-19,22,1,1,20110121,1,GSW,SAC
+Shot Chart Detail,21000638,163,201151,Acie Law,1610612744,Golden State Warriors,2,7,7,Made Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,18,-29,178,1,1,20110121,0,GSW,SAC
+Shot Chart Detail,21000662,179,201151,Acie Law,1610612744,Golden State Warriors,2,7,29,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,82,1,1,20110124,0,GSW,SAS
+Shot Chart Detail,21000662,367,201151,Acie Law,1610612744,Golden State Warriors,3,1,43,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,145,1,1,20110124,1,GSW,SAS
+Shot Chart Detail,21000662,388,201151,Acie Law,1610612744,Golden State Warriors,3,0,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,0,20110124,0,GSW,SAS
+Shot Chart Detail,21000662,408,201151,Acie Law,1610612744,Golden State Warriors,4,11,23,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,-24,1,1,20110124,1,GSW,SAS
+Shot Chart Detail,21000662,411,201151,Acie Law,1610612744,Golden State Warriors,4,10,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-185,105,1,0,20110124,0,GSW,SAS
+Shot Chart Detail,21000662,423,201151,Acie Law,1610612744,Golden State Warriors,4,9,37,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,137,1,0,20110124,0,GSW,SAS
+Shot Chart Detail,21000677,393,201151,Acie Law,1610612744,Golden State Warriors,4,9,8,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,0,20110126,0,GSW,NOH
+Shot Chart Detail,21000677,395,201151,Acie Law,1610612744,Golden State Warriors,4,9,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20110126,1,GSW,NOH
+Shot Chart Detail,21000677,460,201151,Acie Law,1610612744,Golden State Warriors,4,3,10,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,12,1,1,20110126,0,GSW,NOH
+Shot Chart Detail,21000691,158,201151,Acie Law,1610612744,Golden State Warriors,2,6,4,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20110128,0,GSW,CHA
+Shot Chart Detail,21000691,165,201151,Acie Law,1610612744,Golden State Warriors,2,5,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20110128,0,GSW,CHA
+Shot Chart Detail,21000691,173,201151,Acie Law,1610612744,Golden State Warriors,2,4,43,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,1,20110128,1,GSW,CHA
+Shot Chart Detail,21000691,194,201151,Acie Law,1610612744,Golden State Warriors,2,3,47,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,0,20110128,0,GSW,CHA
+Shot Chart Detail,21000691,358,201151,Acie Law,1610612744,Golden State Warriors,4,11,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20110128,0,GSW,CHA
+Shot Chart Detail,21000707,180,201151,Acie Law,1610612744,Golden State Warriors,2,4,32,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,-25,1,0,20110130,0,GSW,UTA
+Shot Chart Detail,21000707,460,201151,Acie Law,1610612744,Golden State Warriors,4,1,52,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,135,1,0,20110130,0,GSW,UTA
+Shot Chart Detail,21000707,467,201151,Acie Law,1610612744,Golden State Warriors,4,1,17,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,135,20,1,1,20110130,0,GSW,UTA
+Shot Chart Detail,21000845,88,201151,Acie Law,1610612744,Golden State Warriors,1,3,37,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,50,1,0,20110222,0,GSW,BOS
+Shot Chart Detail,21000845,160,201151,Acie Law,1610612744,Golden State Warriors,2,9,4,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,1,20110222,0,GSW,BOS
+Shot Chart Detail,21000845,208,201151,Acie Law,1610612744,Golden State Warriors,2,5,39,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,0,20110222,0,GSW,BOS
+Shot Chart Detail,21000845,381,201151,Acie Law,1610612744,Golden State Warriors,3,1,34,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-33,61,1,0,20110222,0,GSW,BOS
+Shot Chart Detail,21000845,401,201151,Acie Law,1610612744,Golden State Warriors,4,10,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,25,1,0,20110222,0,GSW,BOS
+Shot Chart Detail,21000845,441,201151,Acie Law,1610612744,Golden State Warriors,4,7,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-3,1,0,20110222,0,GSW,BOS
+Shot Chart Detail,21000845,530,201151,Acie Law,1610612744,Golden State Warriors,4,0,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,0,20110222,0,GSW,BOS
+Shot Chart Detail,21000870,352,201151,Acie Law,1610612744,Golden State Warriors,3,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,17,213,1,0,20110225,0,GSW,ATL
+Shot Chart Detail,21000870,357,201151,Acie Law,1610612744,Golden State Warriors,3,1,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20110225,1,GSW,ATL
+Shot Chart Detail,21000870,403,201151,Acie Law,1610612744,Golden State Warriors,4,7,10,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,0,20110225,0,GSW,ATL
+Shot Chart Detail,21000870,425,201151,Acie Law,1610612744,Golden State Warriors,4,4,43,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,10,99,23,1,1,20110225,1,GSW,ATL
+Shot Chart Detail,21000870,429,201151,Acie Law,1610612744,Golden State Warriors,4,4,9,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-188,3,1,1,20110225,1,GSW,ATL
+Shot Chart Detail,21000870,462,201151,Acie Law,1610612744,Golden State Warriors,4,0,36,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,154,224,1,0,20110225,0,GSW,ATL
+Shot Chart Detail,21000882,380,201151,Acie Law,1610612744,Golden State Warriors,3,4,40,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,185,15,1,0,20110227,0,MIN,GSW
+Shot Chart Detail,21000882,426,201151,Acie Law,1610612744,Golden State Warriors,3,1,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20110227,0,MIN,GSW
+Shot Chart Detail,21000882,435,201151,Acie Law,1610612744,Golden State Warriors,3,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,140,118,1,0,20110227,0,MIN,GSW
+Shot Chart Detail,21000894,97,201151,Acie Law,1610612744,Golden State Warriors,1,3,2,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-174,17,1,0,20110301,0,IND,GSW
+Shot Chart Detail,21000894,105,201151,Acie Law,1610612744,Golden State Warriors,1,2,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20110301,1,IND,GSW
+Shot Chart Detail,21000894,150,201151,Acie Law,1610612744,Golden State Warriors,2,10,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20110301,0,IND,GSW
+Shot Chart Detail,21000894,184,201151,Acie Law,1610612744,Golden State Warriors,2,7,11,Made Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,132,104,1,1,20110301,0,IND,GSW
+Shot Chart Detail,21000894,404,201151,Acie Law,1610612744,Golden State Warriors,3,0,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,0,20110301,0,IND,GSW
+Shot Chart Detail,21000894,418,201151,Acie Law,1610612744,Golden State Warriors,4,11,18,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-34,258,1,0,20110301,0,IND,GSW
+Shot Chart Detail,21000904,171,201151,Acie Law,1610612744,Golden State Warriors,2,11,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,33,1,0,20110302,0,WAS,GSW
+Shot Chart Detail,21000904,208,201151,Acie Law,1610612744,Golden State Warriors,2,8,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,0,1,1,20110302,1,WAS,GSW
+Shot Chart Detail,21000904,224,201151,Acie Law,1610612744,Golden State Warriors,2,7,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20110302,1,WAS,GSW
+Shot Chart Detail,21000904,479,201151,Acie Law,1610612744,Golden State Warriors,4,10,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,6,1,0,20110302,0,WAS,GSW
+Shot Chart Detail,21000918,157,201151,Acie Law,1610612744,Golden State Warriors,2,6,37,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,192,-27,1,1,20110304,1,BOS,GSW
+Shot Chart Detail,21000918,292,201151,Acie Law,1610612744,Golden State Warriors,3,6,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20110304,0,BOS,GSW
+Shot Chart Detail,21000918,363,201151,Acie Law,1610612744,Golden State Warriors,4,11,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,52,1,0,20110304,0,BOS,GSW
+Shot Chart Detail,21000935,129,201151,Acie Law,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,15,250,1,0,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,155,201151,Acie Law,1610612744,Golden State Warriors,2,10,23,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,1,140,1,0,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,162,201151,Acie Law,1610612744,Golden State Warriors,2,9,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,192,201151,Acie Law,1610612744,Golden State Warriors,2,7,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,132,1,0,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,423,201151,Acie Law,1610612744,Golden State Warriors,4,9,8,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,4,1,1,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,430,201151,Acie Law,1610612744,Golden State Warriors,4,8,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,-16,1,0,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,448,201151,Acie Law,1610612744,Golden State Warriors,4,6,41,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20110306,0,PHI,GSW
+Shot Chart Detail,21000935,488,201151,Acie Law,1610612744,Golden State Warriors,4,1,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,0,20110306,0,PHI,GSW
+Shot Chart Detail,21000948,108,201151,Acie Law,1610612744,Golden State Warriors,1,3,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-19,0,1,1,20110308,1,CLE,GSW
+Shot Chart Detail,21000948,113,201151,Acie Law,1610612744,Golden State Warriors,1,2,36,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,192,4,1,0,20110308,0,CLE,GSW
+Shot Chart Detail,21000948,203,201151,Acie Law,1610612744,Golden State Warriors,2,6,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,63,1,0,20110308,0,CLE,GSW
+Shot Chart Detail,21000948,394,201151,Acie Law,1610612744,Golden State Warriors,4,11,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,25,1,0,20110308,0,CLE,GSW
+Shot Chart Detail,21000954,92,201151,Acie Law,1610612744,Golden State Warriors,1,1,22,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,17,1,1,20110309,0,NJN,GSW
+Shot Chart Detail,21000954,123,201151,Acie Law,1610612744,Golden State Warriors,2,10,1,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20110309,0,NJN,GSW
+Shot Chart Detail,21000954,128,201151,Acie Law,1610612744,Golden State Warriors,2,9,24,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,122,25,1,0,20110309,0,NJN,GSW
+Shot Chart Detail,21000954,274,201151,Acie Law,1610612744,Golden State Warriors,3,9,45,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,1,20110309,1,NJN,GSW
+Shot Chart Detail,21000954,288,201151,Acie Law,1610612744,Golden State Warriors,3,8,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20110309,0,NJN,GSW
+Shot Chart Detail,21000975,109,201151,Acie Law,1610612744,Golden State Warriors,2,11,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,0,20110311,0,GSW,ORL
+Shot Chart Detail,21000990,152,201151,Acie Law,1610612744,Golden State Warriors,2,8,45,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,69,101,1,1,20110313,0,GSW,MIN
+Shot Chart Detail,21000990,169,201151,Acie Law,1610612744,Golden State Warriors,2,6,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20110313,0,GSW,MIN
+Shot Chart Detail,21000990,455,201151,Acie Law,1610612744,Golden State Warriors,4,6,52,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,134,1,0,20110313,0,GSW,MIN
+Shot Chart Detail,21000998,120,201151,Acie Law,1610612744,Golden State Warriors,1,0,35,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,156,1,0,20110314,0,SAC,GSW
+Shot Chart Detail,21000998,431,201151,Acie Law,1610612744,Golden State Warriors,3,0,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,20,1,0,20110314,0,SAC,GSW
+Shot Chart Detail,21000998,517,201151,Acie Law,1610612744,Golden State Warriors,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,73,150,1,0,20110314,0,SAC,GSW
+Shot Chart Detail,21000998,550,201151,Acie Law,1610612744,Golden State Warriors,4,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,208,1,0,20110314,0,SAC,GSW
+Shot Chart Detail,21001012,108,201151,Acie Law,1610612744,Golden State Warriors,2,11,2,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,178,1,0,20110316,0,GSW,DAL
+Shot Chart Detail,21001012,158,201151,Acie Law,1610612744,Golden State Warriors,2,6,56,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20110316,1,GSW,DAL
+Shot Chart Detail,21001012,172,201151,Acie Law,1610612744,Golden State Warriors,2,5,33,Made Shot,Driving Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,7,1,1,20110316,0,GSW,DAL
+Shot Chart Detail,21001012,366,201151,Acie Law,1610612744,Golden State Warriors,4,11,23,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,26,1,1,20110316,0,GSW,DAL
+Shot Chart Detail,21001012,376,201151,Acie Law,1610612744,Golden State Warriors,4,10,26,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20110316,0,GSW,DAL
+Shot Chart Detail,21001012,416,201151,Acie Law,1610612744,Golden State Warriors,4,5,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,187,1,0,20110316,0,GSW,DAL
+Shot Chart Detail,21001012,452,201151,Acie Law,1610612744,Golden State Warriors,4,1,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20110316,0,GSW,DAL
+Shot Chart Detail,21001026,187,201151,Acie Law,1610612744,Golden State Warriors,2,5,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20110318,0,PHX,GSW
+Shot Chart Detail,21001026,422,201151,Acie Law,1610612744,Golden State Warriors,4,9,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20110318,0,PHX,GSW
+Shot Chart Detail,21001042,129,201151,Acie Law,1610612744,Golden State Warriors,1,0,18,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,94,129,1,1,20110320,0,DAL,GSW
+Shot Chart Detail,21001042,172,201151,Acie Law,1610612744,Golden State Warriors,2,7,53,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,0,20110320,0,DAL,GSW
+Shot Chart Detail,21001049,90,201151,Acie Law,1610612744,Golden State Warriors,1,3,25,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,97,201151,Acie Law,1610612744,Golden State Warriors,1,2,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20110321,1,SAS,GSW
+Shot Chart Detail,21001049,108,201151,Acie Law,1610612744,Golden State Warriors,1,1,0,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,0,1,1,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,112,201151,Acie Law,1610612744,Golden State Warriors,1,0,39,Missed Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,37,1,0,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,125,201151,Acie Law,1610612744,Golden State Warriors,2,11,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-3,1,1,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,138,201151,Acie Law,1610612744,Golden State Warriors,2,9,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,151,201151,Acie Law,1610612744,Golden State Warriors,2,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,132,1,1,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,155,201151,Acie Law,1610612744,Golden State Warriors,2,6,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,302,201151,Acie Law,1610612744,Golden State Warriors,3,5,26,Missed Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,36,1,0,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,330,201151,Acie Law,1610612744,Golden State Warriors,3,2,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,0,20110321,0,SAS,GSW
+Shot Chart Detail,21001049,375,201151,Acie Law,1610612744,Golden State Warriors,4,10,27,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-116,39,1,1,20110321,0,SAS,GSW
+Shot Chart Detail,21001062,195,201151,Acie Law,1610612744,Golden State Warriors,2,4,22,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20110323,0,HOU,GSW
+Shot Chart Detail,21001062,538,201151,Acie Law,1610612744,Golden State Warriors,4,1,2,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,0,20110323,0,HOU,GSW

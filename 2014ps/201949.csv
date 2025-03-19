@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041300151,184,201949,James Johnson,1610612763,Memphis Grizzlies,2,10,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,119,64,1,0,20140419,OKC,MEM
-Shot Chart Detail,0041300151,205,201949,James Johnson,1610612763,Memphis Grizzlies,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,7,1,0,20140419,OKC,MEM
-Shot Chart Detail,0041300151,320,201949,James Johnson,1610612763,Memphis Grizzlies,2,0,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-111,258,1,1,20140419,OKC,MEM
-Shot Chart Detail,0041300154,188,201949,James Johnson,1610612763,Memphis Grizzlies,2,5,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,0,20140426,MEM,OKC
-Shot Chart Detail,0041300156,288,201949,James Johnson,1610612763,Memphis Grizzlies,3,5,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,206,1,0,20140501,MEM,OKC
-Shot Chart Detail,0041300156,313,201949,James Johnson,1610612763,Memphis Grizzlies,3,5,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,0,20140501,MEM,OKC
-Shot Chart Detail,0041300156,312,201949,James Johnson,1610612763,Memphis Grizzlies,3,4,55,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20140501,MEM,OKC
-Shot Chart Detail,0041300156,352,201949,James Johnson,1610612763,Memphis Grizzlies,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,47,1,0,20140501,MEM,OKC
-Shot Chart Detail,0041300156,368,201949,James Johnson,1610612763,Memphis Grizzlies,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,50,217,451,1,0,20140501,MEM,OKC
-Shot Chart Detail,0041300156,394,201949,James Johnson,1610612763,Memphis Grizzlies,4,9,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140501,MEM,OKC
-Shot Chart Detail,0041300156,417,201949,James Johnson,1610612763,Memphis Grizzlies,4,7,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20140501,MEM,OKC
-Shot Chart Detail,0041300156,444,201949,James Johnson,1610612763,Memphis Grizzlies,4,5,50,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-3,1,0,20140501,MEM,OKC
-Shot Chart Detail,0041300156,451,201949,James Johnson,1610612763,Memphis Grizzlies,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,1,20140501,MEM,OKC
-Shot Chart Detail,0041300156,488,201949,James Johnson,1610612763,Memphis Grizzlies,4,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140501,MEM,OKC
-Shot Chart Detail,0041300156,502,201949,James Johnson,1610612763,Memphis Grizzlies,4,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,217,1,0,20140501,MEM,OKC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41300151,184,201949,James Johnson,1610612763,Memphis Grizzlies,2,10,25,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,119,64,1,0,20140419,0,OKC,MEM
+Shot Chart Detail,41300151,205,201949,James Johnson,1610612763,Memphis Grizzlies,2,8,23,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,7,1,0,20140419,0,OKC,MEM
+Shot Chart Detail,41300151,320,201949,James Johnson,1610612763,Memphis Grizzlies,2,0,2,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-111,258,1,1,20140419,0,OKC,MEM
+Shot Chart Detail,41300154,188,201949,James Johnson,1610612763,Memphis Grizzlies,2,5,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,0,20140426,0,MEM,OKC
+Shot Chart Detail,41300156,288,201949,James Johnson,1610612763,Memphis Grizzlies,3,5,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,206,1,0,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,313,201949,James Johnson,1610612763,Memphis Grizzlies,3,5,4,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,0,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,312,201949,James Johnson,1610612763,Memphis Grizzlies,3,4,55,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,-2,1,1,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,352,201949,James Johnson,1610612763,Memphis Grizzlies,3,0,46,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,47,1,0,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,368,201949,James Johnson,1610612763,Memphis Grizzlies,3,0,1,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,50,217,451,1,0,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,394,201949,James Johnson,1610612763,Memphis Grizzlies,4,9,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,417,201949,James Johnson,1610612763,Memphis Grizzlies,4,7,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,444,201949,James Johnson,1610612763,Memphis Grizzlies,4,5,50,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,-3,1,0,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,451,201949,James Johnson,1610612763,Memphis Grizzlies,4,4,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,1,20140501,1,MEM,OKC
+Shot Chart Detail,41300156,488,201949,James Johnson,1610612763,Memphis Grizzlies,4,1,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140501,0,MEM,OKC
+Shot Chart Detail,41300156,502,201949,James Johnson,1610612763,Memphis Grizzlies,4,0,25,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,217,1,0,20140501,0,MEM,OKC

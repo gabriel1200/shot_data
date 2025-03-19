@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041100141,519,202341,James Anderson,1610612759,San Antonio Spurs,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,172,1,0,20120429,SAS,UTA
-Shot Chart Detail,0041100142,404,202341,James Anderson,1610612759,San Antonio Spurs,4,7,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,440,202341,James Anderson,1610612759,San Antonio Spurs,4,4,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,159,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,446,202341,James Anderson,1610612759,San Antonio Spurs,4,2,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,20,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,460,202341,James Anderson,1610612759,San Antonio Spurs,4,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,468,202341,James Anderson,1610612759,San Antonio Spurs,4,1,6,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100221,498,202341,James Anderson,1610612759,San Antonio Spurs,4,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,105,1,1,20120515,SAS,LAC
-Shot Chart Detail,0041100313,419,202341,James Anderson,1610612759,San Antonio Spurs,4,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,140,1,1,20120531,OKC,SAS
-Shot Chart Detail,0041100313,435,202341,James Anderson,1610612759,San Antonio Spurs,4,6,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,9,1,0,20120531,OKC,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41100141,519,202341,James Anderson,1610612759,San Antonio Spurs,4,1,27,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-54,172,1,0,20120429,0,SAS,UTA
+Shot Chart Detail,41100142,404,202341,James Anderson,1610612759,San Antonio Spurs,4,7,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,440,202341,James Anderson,1610612759,San Antonio Spurs,4,4,9,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,159,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,446,202341,James Anderson,1610612759,San Antonio Spurs,4,2,56,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-10,20,1,1,20120502,1,SAS,UTA
+Shot Chart Detail,41100142,460,202341,James Anderson,1610612759,San Antonio Spurs,4,1,45,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,468,202341,James Anderson,1610612759,San Antonio Spurs,4,1,6,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100221,498,202341,James Anderson,1610612759,San Antonio Spurs,4,0,29,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,105,1,1,20120515,1,SAS,LAC
+Shot Chart Detail,41100313,419,202341,James Anderson,1610612759,San Antonio Spurs,4,8,52,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,140,1,1,20120531,1,OKC,SAS
+Shot Chart Detail,41100313,435,202341,James Anderson,1610612759,San Antonio Spurs,4,6,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,9,1,0,20120531,0,OKC,SAS

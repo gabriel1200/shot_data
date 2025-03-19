@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041300205,426,202388,Donald Sloan,1610612754,Indiana Pacers,4,6,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,0,20140513,IND,WAS
-Shot Chart Detail,0041300205,487,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,48,1,1,20140513,IND,WAS
-Shot Chart Detail,0041300205,490,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,239,1,0,20140513,IND,WAS
-Shot Chart Detail,0041300205,493,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-75,254,1,0,20140513,IND,WAS
-Shot Chart Detail,0041300306,468,202388,Donald Sloan,1610612754,Indiana Pacers,4,1,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,165,1,0,20140530,MIA,IND
-Shot Chart Detail,0041300306,474,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,27,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,21,183,1,0,20140530,MIA,IND
-Shot Chart Detail,0041300306,477,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,0,Made Shot,Jump Bank Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,49,-114,479,1,1,20140530,MIA,IND
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41300205,426,202388,Donald Sloan,1610612754,Indiana Pacers,4,6,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,0,20140513,0,IND,WAS
+Shot Chart Detail,41300205,487,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,54,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,48,1,1,20140513,0,IND,WAS
+Shot Chart Detail,41300205,490,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,26,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-98,239,1,0,20140513,0,IND,WAS
+Shot Chart Detail,41300205,493,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-75,254,1,0,20140513,0,IND,WAS
+Shot Chart Detail,41300306,468,202388,Donald Sloan,1610612754,Indiana Pacers,4,1,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,165,1,0,20140530,0,MIA,IND
+Shot Chart Detail,41300306,474,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,27,Missed Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,18,21,183,1,0,20140530,0,MIA,IND
+Shot Chart Detail,41300306,477,202388,Donald Sloan,1610612754,Indiana Pacers,4,0,0,Made Shot,Jump Bank Shot,,Backcourt,Back Court(BC),Back Court Shot,49,-114,479,1,1,20140530,0,MIA,IND

@@ -1,15 +1,15 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041200122,495,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,196,192,1,1,20130424,IND,ATL
-Shot Chart Detail,0041200122,508,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,129,239,1,0,20130424,IND,ATL
-Shot Chart Detail,0041200122,512,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,0,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20130424,IND,ATL
-Shot Chart Detail,0041200123,119,201229,Anthony Tolliver,1610612737,Atlanta Hawks,1,1,29,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,0,20130427,ATL,IND
-Shot Chart Detail,0041200123,134,201229,Anthony Tolliver,1610612737,Atlanta Hawks,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,181,1,1,20130427,ATL,IND
-Shot Chart Detail,0041200123,215,201229,Anthony Tolliver,1610612737,Atlanta Hawks,2,6,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,138,1,1,20130427,ATL,IND
-Shot Chart Detail,0041200123,450,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,10,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-226,82,1,0,20130427,ATL,IND
-Shot Chart Detail,0041200124,114,201229,Anthony Tolliver,1610612737,Atlanta Hawks,2,11,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,33,1,1,20130429,ATL,IND
-Shot Chart Detail,0041200124,138,201229,Anthony Tolliver,1610612737,Atlanta Hawks,2,9,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,241,72,1,1,20130429,ATL,IND
-Shot Chart Detail,0041200124,452,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,8,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,80,1,1,20130429,ATL,IND
-Shot Chart Detail,0041200125,504,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,173,1,0,20130501,IND,ATL
-Shot Chart Detail,0041200125,516,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-18,263,1,1,20130501,IND,ATL
-Shot Chart Detail,0041200126,356,201229,Anthony Tolliver,1610612737,Atlanta Hawks,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,41,1,0,20130503,ATL,IND
-Shot Chart Detail,0041200126,380,201229,Anthony Tolliver,1610612737,Atlanta Hawks,3,0,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,0,20130503,ATL,IND
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41200122,495,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,196,192,1,1,20130424,1,IND,ATL
+Shot Chart Detail,41200122,508,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,129,239,1,0,20130424,0,IND,ATL
+Shot Chart Detail,41200122,512,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,0,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20130424,1,IND,ATL
+Shot Chart Detail,41200123,119,201229,Anthony Tolliver,1610612737,Atlanta Hawks,1,1,29,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,0,20130427,0,ATL,IND
+Shot Chart Detail,41200123,134,201229,Anthony Tolliver,1610612737,Atlanta Hawks,1,0,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,181,1,1,20130427,1,ATL,IND
+Shot Chart Detail,41200123,215,201229,Anthony Tolliver,1610612737,Atlanta Hawks,2,6,43,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,214,138,1,1,20130427,1,ATL,IND
+Shot Chart Detail,41200123,450,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,10,50,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-226,82,1,0,20130427,0,ATL,IND
+Shot Chart Detail,41200124,114,201229,Anthony Tolliver,1610612737,Atlanta Hawks,2,11,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,33,1,1,20130429,1,ATL,IND
+Shot Chart Detail,41200124,138,201229,Anthony Tolliver,1610612737,Atlanta Hawks,2,9,18,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,25,241,72,1,1,20130429,1,ATL,IND
+Shot Chart Detail,41200124,452,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,8,44,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-224,80,1,1,20130429,1,ATL,IND
+Shot Chart Detail,41200125,504,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,173,1,0,20130501,0,IND,ATL
+Shot Chart Detail,41200125,516,201229,Anthony Tolliver,1610612737,Atlanta Hawks,4,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-18,263,1,1,20130501,1,IND,ATL
+Shot Chart Detail,41200126,356,201229,Anthony Tolliver,1610612737,Atlanta Hawks,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,41,1,0,20130503,0,ATL,IND
+Shot Chart Detail,41200126,380,201229,Anthony Tolliver,1610612737,Atlanta Hawks,3,0,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,0,20130503,0,ATL,IND

@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020501027,478,452,Vin Baker,1610612746,Los Angeles Clippers,4,2,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-52,72,1,0,20060325,LAC,WAS
-Shot Chart Detail,0020501041,89,452,Vin Baker,1610612746,Los Angeles Clippers,1,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,POR,LAC
-Shot Chart Detail,0020501041,452,452,Vin Baker,1610612746,Los Angeles Clippers,4,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-5,1,0,20060326,POR,LAC
-Shot Chart Detail,0020501201,397,452,Vin Baker,1610612746,Los Angeles Clippers,4,8,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060416,LAC,SEA
-Shot Chart Detail,0020501201,411,452,Vin Baker,1610612746,Los Angeles Clippers,4,7,58,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,77,1,1,20060416,LAC,SEA
-Shot Chart Detail,0020501201,431,452,Vin Baker,1610612746,Los Angeles Clippers,4,6,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060416,LAC,SEA
-Shot Chart Detail,0020501215,215,452,Vin Baker,1610612746,Los Angeles Clippers,3,11,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,51,1,0,20060418,MEM,LAC
-Shot Chart Detail,0020501215,253,452,Vin Baker,1610612746,Los Angeles Clippers,3,6,32,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060418,MEM,LAC
-Shot Chart Detail,0020501215,277,452,Vin Baker,1610612746,Los Angeles Clippers,3,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060418,MEM,LAC
-Shot Chart Detail,0020501215,283,452,Vin Baker,1610612746,Los Angeles Clippers,3,2,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060418,MEM,LAC
-Shot Chart Detail,0020501226,142,452,Vin Baker,1610612746,Los Angeles Clippers,2,8,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20060419,DAL,LAC
-Shot Chart Detail,0020501226,188,452,Vin Baker,1610612746,Los Angeles Clippers,2,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,48,1,1,20060419,DAL,LAC
-Shot Chart Detail,0020501226,221,452,Vin Baker,1610612746,Los Angeles Clippers,2,1,11,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060419,DAL,LAC
-Shot Chart Detail,0020501226,368,452,Vin Baker,1610612746,Los Angeles Clippers,4,8,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,38,69,1,1,20060419,DAL,LAC
-Shot Chart Detail,0020501226,384,452,Vin Baker,1610612746,Los Angeles Clippers,4,5,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,68,1,0,20060419,DAL,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20501027,478,452,Vin Baker,1610612746,Los Angeles Clippers,4,2,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-52,72,1,0,20060325,0,LAC,WAS
+Shot Chart Detail,20501041,89,452,Vin Baker,1610612746,Los Angeles Clippers,1,1,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060326,1,POR,LAC
+Shot Chart Detail,20501041,452,452,Vin Baker,1610612746,Los Angeles Clippers,4,0,37,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-184,-5,1,0,20060326,0,POR,LAC
+Shot Chart Detail,20501201,397,452,Vin Baker,1610612746,Los Angeles Clippers,4,8,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060416,0,LAC,SEA
+Shot Chart Detail,20501201,411,452,Vin Baker,1610612746,Los Angeles Clippers,4,7,58,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-6,77,1,1,20060416,1,LAC,SEA
+Shot Chart Detail,20501201,431,452,Vin Baker,1610612746,Los Angeles Clippers,4,6,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060416,0,LAC,SEA
+Shot Chart Detail,20501215,215,452,Vin Baker,1610612746,Los Angeles Clippers,3,11,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,51,1,0,20060418,0,MEM,LAC
+Shot Chart Detail,20501215,253,452,Vin Baker,1610612746,Los Angeles Clippers,3,6,32,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060418,0,MEM,LAC
+Shot Chart Detail,20501215,277,452,Vin Baker,1610612746,Los Angeles Clippers,3,4,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060418,0,MEM,LAC
+Shot Chart Detail,20501215,283,452,Vin Baker,1610612746,Los Angeles Clippers,3,2,54,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060418,1,MEM,LAC
+Shot Chart Detail,20501226,142,452,Vin Baker,1610612746,Los Angeles Clippers,2,8,2,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20060419,0,DAL,LAC
+Shot Chart Detail,20501226,188,452,Vin Baker,1610612746,Los Angeles Clippers,2,3,49,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-115,48,1,1,20060419,0,DAL,LAC
+Shot Chart Detail,20501226,221,452,Vin Baker,1610612746,Los Angeles Clippers,2,1,11,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060419,0,DAL,LAC
+Shot Chart Detail,20501226,368,452,Vin Baker,1610612746,Los Angeles Clippers,4,8,5,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,38,69,1,1,20060419,0,DAL,LAC
+Shot Chart Detail,20501226,384,452,Vin Baker,1610612746,Los Angeles Clippers,4,5,59,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,68,1,0,20060419,0,DAL,LAC

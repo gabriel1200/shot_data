@@ -1,169 +1,85 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020800022,565,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,21,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,34,1,0,20081031,BOS,CHI
-Shot Chart Detail,0020800169,430,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,44,1,1,20081120,BOS,DET
-Shot Chart Detail,0020800169,442,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20081120,BOS,DET
-Shot Chart Detail,0020800169,455,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20081120,BOS,DET
-Shot Chart Detail,0020800176,504,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,39,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,26,1,0,20081121,MIN,BOS
-Shot Chart Detail,0020800226,405,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,14,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,0,20081128,BOS,PHI
-Shot Chart Detail,0020800226,437,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,170,1,0,20081128,BOS,PHI
-Shot Chart Detail,0020800226,461,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,12,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,19,1,1,20081128,BOS,PHI
-Shot Chart Detail,0020800269,475,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20081203,BOS,IND
-Shot Chart Detail,0020800281,496,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,0,20081205,BOS,POR
-Shot Chart Detail,0020800281,500,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,154,1,1,20081205,BOS,POR
-Shot Chart Detail,0020800323,481,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,0,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,50,1,1,20081211,WAS,BOS
-Shot Chart Detail,0020800400,490,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,8,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,53,1,1,20081221,BOS,NYK
-Shot Chart Detail,0020800413,529,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,4,1,0,20081223,BOS,PHI
-Shot Chart Detail,0020800413,532,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,19,1,1,20081223,BOS,PHI
-Shot Chart Detail,0020800448,439,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,60,1,1,20081228,SAC,BOS
-Shot Chart Detail,0020800448,492,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,157,1,1,20081228,SAC,BOS
-Shot Chart Detail,0020800475,427,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20090102,BOS,WAS
-Shot Chart Detail,0020800475,436,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,12,1,0,20090102,BOS,WAS
-Shot Chart Detail,0020800531,450,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-6,1,1,20090109,CLE,BOS
-Shot Chart Detail,0020800531,472,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,53,1,1,20090109,CLE,BOS
-Shot Chart Detail,0020800569,462,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,21,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20090114,BOS,NJN
-Shot Chart Detail,0020800569,472,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-97,112,1,0,20090114,BOS,NJN
-Shot Chart Detail,0020800569,476,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,47,1,0,20090114,BOS,NJN
-Shot Chart Detail,0020800646,443,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,200,1,1,20090125,BOS,DAL
-Shot Chart Detail,0020800646,445,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,24,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,71,1,0,20090125,BOS,DAL
-Shot Chart Detail,0020800646,481,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,6,1,0,20090125,BOS,DAL
-Shot Chart Detail,0020800668,462,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,13,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,67,1,0,20090128,BOS,SAC
-Shot Chart Detail,0020800668,498,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,23,1,0,20090128,BOS,SAC
-Shot Chart Detail,0020800716,155,200753,Patrick O'Bryant,1610612738,Boston Celtics,2,9,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,7,1,1,20090203,PHI,BOS
-Shot Chart Detail,0020800716,168,200753,Patrick O'Bryant,1610612738,Boston Celtics,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,28,1,0,20090203,PHI,BOS
-Shot Chart Detail,0020800990,510,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,11,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,1,20090315,TOR,IND
-Shot Chart Detail,0020800990,542,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-8,211,1,1,20090315,TOR,IND
-Shot Chart Detail,0020800996,502,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,83,173,1,0,20090316,CHA,TOR
-Shot Chart Detail,0020801044,455,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,179,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801044,475,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,2,19,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,75,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,480,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,192,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,493,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-198,61,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,495,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,250,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801075,170,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,3,1,1,20090327,TOR,OKC
-Shot Chart Detail,0020801075,181,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,7,209,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801075,370,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,61,523,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801075,452,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,TOR,OKC
-Shot Chart Detail,0020801075,460,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,135,176,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801075,494,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,19,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,14,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801154,364,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,159,1,1,20090407,TOR,ATL
-Shot Chart Detail,0020801154,412,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090407,TOR,ATL
-Shot Chart Detail,0020801163,16,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,10,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,20,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,26,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,65,189,1,0,20090408,IND,TOR
-Shot Chart Detail,0020801163,38,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,20,1,0,20090408,IND,TOR
-Shot Chart Detail,0020801163,182,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,10,195,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,272,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,60,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,288,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-155,126,1,0,20090408,IND,TOR
-Shot Chart Detail,0020801163,291,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,9,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,417,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,11,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,485,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,489,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-122,145,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,492,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-46,189,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801199,90,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,1,52,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,3,1,0,20090412,TOR,PHI
-Shot Chart Detail,0020801199,100,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,0,56,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,11,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,105,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,0,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,131,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,12,1,0,20090412,TOR,PHI
-Shot Chart Detail,0020801199,331,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,5,16,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,369,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,2,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,383,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,1,5,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,11,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801203,12,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,28,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,8,8,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,48,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,46,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,30,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,253,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,10,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,23,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,456,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,124,107,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,468,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,6,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,471,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,186,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,483,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,493,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,-24,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,510,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-16,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801218,2,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,11,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,14,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,17,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,12,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,33,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,7,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,63,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,3,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,64,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,3,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,236,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,159,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,243,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,286,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,30,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,295,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,0,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020800022,565,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,21,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,34,1,0,20081031,BOS,CHI
-Shot Chart Detail,0020800169,430,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,44,1,1,20081120,BOS,DET
-Shot Chart Detail,0020800169,442,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20081120,BOS,DET
-Shot Chart Detail,0020800169,455,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20081120,BOS,DET
-Shot Chart Detail,0020800176,504,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,39,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,26,1,0,20081121,MIN,BOS
-Shot Chart Detail,0020800226,405,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,14,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,0,20081128,BOS,PHI
-Shot Chart Detail,0020800226,437,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,170,1,0,20081128,BOS,PHI
-Shot Chart Detail,0020800226,461,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,12,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,19,1,1,20081128,BOS,PHI
-Shot Chart Detail,0020800269,475,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20081203,BOS,IND
-Shot Chart Detail,0020800281,496,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,0,20081205,BOS,POR
-Shot Chart Detail,0020800281,500,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,154,1,1,20081205,BOS,POR
-Shot Chart Detail,0020800323,481,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,0,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,50,1,1,20081211,WAS,BOS
-Shot Chart Detail,0020800400,490,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,8,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,53,1,1,20081221,BOS,NYK
-Shot Chart Detail,0020800413,529,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,4,1,0,20081223,BOS,PHI
-Shot Chart Detail,0020800413,532,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,19,1,1,20081223,BOS,PHI
-Shot Chart Detail,0020800448,439,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,60,1,1,20081228,SAC,BOS
-Shot Chart Detail,0020800448,492,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,157,1,1,20081228,SAC,BOS
-Shot Chart Detail,0020800475,427,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20090102,BOS,WAS
-Shot Chart Detail,0020800475,436,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,12,1,0,20090102,BOS,WAS
-Shot Chart Detail,0020800531,450,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-6,1,1,20090109,CLE,BOS
-Shot Chart Detail,0020800531,472,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,53,1,1,20090109,CLE,BOS
-Shot Chart Detail,0020800569,462,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,21,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20090114,BOS,NJN
-Shot Chart Detail,0020800569,472,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-97,112,1,0,20090114,BOS,NJN
-Shot Chart Detail,0020800569,476,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,47,1,0,20090114,BOS,NJN
-Shot Chart Detail,0020800646,443,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,200,1,1,20090125,BOS,DAL
-Shot Chart Detail,0020800646,445,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,24,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,71,1,0,20090125,BOS,DAL
-Shot Chart Detail,0020800646,481,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,6,1,0,20090125,BOS,DAL
-Shot Chart Detail,0020800668,462,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,13,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,67,1,0,20090128,BOS,SAC
-Shot Chart Detail,0020800668,498,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,23,1,0,20090128,BOS,SAC
-Shot Chart Detail,0020800716,155,200753,Patrick O'Bryant,1610612738,Boston Celtics,2,9,2,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,7,1,1,20090203,PHI,BOS
-Shot Chart Detail,0020800716,168,200753,Patrick O'Bryant,1610612738,Boston Celtics,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,28,1,0,20090203,PHI,BOS
-Shot Chart Detail,0020800990,510,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,11,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,1,20090315,TOR,IND
-Shot Chart Detail,0020800990,542,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-8,211,1,1,20090315,TOR,IND
-Shot Chart Detail,0020800996,502,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,83,173,1,0,20090316,CHA,TOR
-Shot Chart Detail,0020801044,455,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,179,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801044,475,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,2,19,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,75,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,480,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,192,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,493,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-198,61,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,495,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,250,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801075,170,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,5,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,3,1,1,20090327,TOR,OKC
-Shot Chart Detail,0020801075,181,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,7,209,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801075,370,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,61,523,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801075,452,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,TOR,OKC
-Shot Chart Detail,0020801075,460,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,135,176,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801075,494,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,19,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,14,1,0,20090327,TOR,OKC
-Shot Chart Detail,0020801154,364,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,0,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,159,1,1,20090407,TOR,ATL
-Shot Chart Detail,0020801154,412,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,7,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090407,TOR,ATL
-Shot Chart Detail,0020801163,16,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,10,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,20,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,26,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,65,189,1,0,20090408,IND,TOR
-Shot Chart Detail,0020801163,38,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,20,1,0,20090408,IND,TOR
-Shot Chart Detail,0020801163,182,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,6,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,10,195,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,272,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,60,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,288,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-155,126,1,0,20090408,IND,TOR
-Shot Chart Detail,0020801163,291,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,9,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,417,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,11,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,485,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,489,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-122,145,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801163,492,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-46,189,1,1,20090408,IND,TOR
-Shot Chart Detail,0020801199,90,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,1,52,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,3,1,0,20090412,TOR,PHI
-Shot Chart Detail,0020801199,100,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,0,56,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,11,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,105,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,0,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,131,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,12,1,0,20090412,TOR,PHI
-Shot Chart Detail,0020801199,331,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,5,16,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,369,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,2,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801199,383,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,1,5,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,11,1,1,20090412,TOR,PHI
-Shot Chart Detail,0020801203,12,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,28,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,8,8,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,48,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,46,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,5,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,30,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,253,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,10,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,23,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,456,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,124,107,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,468,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,6,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,6,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,471,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,186,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,483,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,1,20090413,WAS,TOR
-Shot Chart Detail,0020801203,493,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,168,-24,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801203,510,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-16,1,0,20090413,WAS,TOR
-Shot Chart Detail,0020801218,2,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,11,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,14,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,17,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,12,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,33,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,7,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,63,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,3,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,64,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,3,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,236,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,159,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,243,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,CHI,TOR
-Shot Chart Detail,0020801218,286,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,116,30,1,0,20090415,CHI,TOR
-Shot Chart Detail,0020801218,295,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,0,1,0,20090415,CHI,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20800022,565,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,21,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,34,1,0,20081031,0,BOS,CHI
+Shot Chart Detail,20800169,430,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,44,1,1,20081120,0,BOS,DET
+Shot Chart Detail,20800169,442,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,20081120,0,BOS,DET
+Shot Chart Detail,20800169,455,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20081120,1,BOS,DET
+Shot Chart Detail,20800176,504,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,39,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,26,1,0,20081121,0,MIN,BOS
+Shot Chart Detail,20800226,405,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,14,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,0,20081128,0,BOS,PHI
+Shot Chart Detail,20800226,437,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,170,1,0,20081128,0,BOS,PHI
+Shot Chart Detail,20800226,461,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,12,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,19,1,1,20081128,0,BOS,PHI
+Shot Chart Detail,20800269,475,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,2,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20081203,1,BOS,IND
+Shot Chart Detail,20800281,496,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,11,1,0,20081205,0,BOS,POR
+Shot Chart Detail,20800281,500,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,154,1,1,20081205,1,BOS,POR
+Shot Chart Detail,20800323,481,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,0,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,50,1,1,20081211,0,WAS,BOS
+Shot Chart Detail,20800400,490,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,8,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,53,1,1,20081221,0,BOS,NYK
+Shot Chart Detail,20800413,529,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,4,1,0,20081223,0,BOS,PHI
+Shot Chart Detail,20800413,532,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,19,1,1,20081223,0,BOS,PHI
+Shot Chart Detail,20800448,439,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,125,60,1,1,20081228,0,SAC,BOS
+Shot Chart Detail,20800448,492,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-84,157,1,1,20081228,1,SAC,BOS
+Shot Chart Detail,20800475,427,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,4,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20090102,1,BOS,WAS
+Shot Chart Detail,20800475,436,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,12,1,0,20090102,0,BOS,WAS
+Shot Chart Detail,20800531,450,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-6,1,1,20090109,1,CLE,BOS
+Shot Chart Detail,20800531,472,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,53,1,1,20090109,0,CLE,BOS
+Shot Chart Detail,20800569,462,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,21,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20090114,0,BOS,NJN
+Shot Chart Detail,20800569,472,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-97,112,1,0,20090114,0,BOS,NJN
+Shot Chart Detail,20800569,476,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,2,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,47,1,0,20090114,0,BOS,NJN
+Shot Chart Detail,20800646,443,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,10,200,1,1,20090125,1,BOS,DAL
+Shot Chart Detail,20800646,445,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,5,24,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,71,1,0,20090125,0,BOS,DAL
+Shot Chart Detail,20800646,481,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,6,1,0,20090125,0,BOS,DAL
+Shot Chart Detail,20800668,462,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,3,13,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,133,67,1,0,20090128,0,BOS,SAC
+Shot Chart Detail,20800668,498,200753,Patrick O'Bryant,1610612738,Boston Celtics,4,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,23,1,0,20090128,0,BOS,SAC
+Shot Chart Detail,20800716,155,200753,Patrick O'Bryant,1610612738,Boston Celtics,2,9,2,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,7,1,1,20090203,1,PHI,BOS
+Shot Chart Detail,20800716,168,200753,Patrick O'Bryant,1610612738,Boston Celtics,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,28,1,0,20090203,0,PHI,BOS
+Shot Chart Detail,20800990,510,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,11,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,1,20090315,1,TOR,IND
+Shot Chart Detail,20800990,542,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,17,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-8,211,1,1,20090315,1,TOR,IND
+Shot Chart Detail,20800996,502,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,50,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,83,173,1,0,20090316,0,CHA,TOR
+Shot Chart Detail,20801044,455,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,30,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,179,1,0,20090322,0,TOR,LAC
+Shot Chart Detail,20801044,475,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,2,19,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,75,1,1,20090322,0,TOR,LAC
+Shot Chart Detail,20801044,480,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,17,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-8,192,1,1,20090322,1,TOR,LAC
+Shot Chart Detail,20801044,493,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-198,61,1,1,20090322,1,TOR,LAC
+Shot Chart Detail,20801044,495,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,0,29,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,4,250,1,0,20090322,0,TOR,LAC
+Shot Chart Detail,20801075,170,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,5,8,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,133,3,1,1,20090327,1,TOR,OKC
+Shot Chart Detail,20801075,181,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,3,23,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,7,209,1,0,20090327,0,TOR,OKC
+Shot Chart Detail,20801075,370,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,0,0,Missed Shot,Running Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,52,61,523,1,0,20090327,0,TOR,OKC
+Shot Chart Detail,20801075,452,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,1,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090327,1,TOR,OKC
+Shot Chart Detail,20801075,460,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,55,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,135,176,1,0,20090327,0,TOR,OKC
+Shot Chart Detail,20801075,494,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,19,Missed Shot,Turnaround Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,12,124,14,1,0,20090327,0,TOR,OKC
+Shot Chart Detail,20801154,364,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,0,25,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,159,1,1,20090407,1,TOR,ATL
+Shot Chart Detail,20801154,412,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,7,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090407,0,TOR,ATL
+Shot Chart Detail,20801163,16,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,10,17,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,20,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,26,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,7,55,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,65,189,1,0,20090408,0,IND,TOR
+Shot Chart Detail,20801163,38,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,6,30,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,20,1,0,20090408,0,IND,TOR
+Shot Chart Detail,20801163,182,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,6,41,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,10,195,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,272,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,11,42,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-174,60,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,288,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,10,21,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-155,126,1,0,20090408,0,IND,TOR
+Shot Chart Detail,20801163,291,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,9,47,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,417,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,11,32,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,485,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,6,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,489,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,27,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-122,145,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801163,492,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,53,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-46,189,1,1,20090408,1,IND,TOR
+Shot Chart Detail,20801199,90,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,1,52,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,14,140,3,1,0,20090412,0,TOR,PHI
+Shot Chart Detail,20801199,100,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,0,56,Made Shot,Jump Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,11,1,1,20090412,1,TOR,PHI
+Shot Chart Detail,20801199,105,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,0,3,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,1,TOR,PHI
+Shot Chart Detail,20801199,131,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,10,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,155,12,1,0,20090412,0,TOR,PHI
+Shot Chart Detail,20801199,331,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,5,16,Made Shot,Driving Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,1,TOR,PHI
+Shot Chart Detail,20801199,369,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,2,6,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090412,1,TOR,PHI
+Shot Chart Detail,20801199,383,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,1,5,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,11,1,1,20090412,0,TOR,PHI
+Shot Chart Detail,20801203,12,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,10,23,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20090413,1,WAS,TOR
+Shot Chart Detail,20801203,28,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,8,8,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,48,1,1,20090413,1,WAS,TOR
+Shot Chart Detail,20801203,46,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,5,54,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,177,30,1,0,20090413,0,WAS,TOR
+Shot Chart Detail,20801203,253,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,10,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,23,1,0,20090413,0,WAS,TOR
+Shot Chart Detail,20801203,456,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,7,3,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,124,107,1,0,20090413,0,WAS,TOR
+Shot Chart Detail,20801203,468,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,6,12,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,6,1,1,20090413,1,WAS,TOR
+Shot Chart Detail,20801203,471,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,5,33,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,67,186,1,0,20090413,0,WAS,TOR
+Shot Chart Detail,20801203,483,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,4,26,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,-11,1,1,20090413,1,WAS,TOR
+Shot Chart Detail,20801203,493,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,3,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,168,-24,1,0,20090413,0,WAS,TOR
+Shot Chart Detail,20801203,510,200753,Patrick O'Bryant,1610612761,Toronto Raptors,4,1,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-16,1,0,20090413,0,WAS,TOR
+Shot Chart Detail,20801218,2,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,11,42,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,133,14,1,1,20090415,1,CHI,TOR
+Shot Chart Detail,20801218,17,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,9,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,12,1,0,20090415,0,CHI,TOR
+Shot Chart Detail,20801218,33,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,7,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,1,CHI,TOR
+Shot Chart Detail,20801218,63,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,3,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,CHI,TOR
+Shot Chart Detail,20801218,64,200753,Patrick O'Bryant,1610612761,Toronto Raptors,1,3,33,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,CHI,TOR
+Shot Chart Detail,20801218,236,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,1,49,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,159,1,1,20090415,1,CHI,TOR
+Shot Chart Detail,20801218,243,200753,Patrick O'Bryant,1610612761,Toronto Raptors,2,1,23,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,1,CHI,TOR
+Shot Chart Detail,20801218,286,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,9,31,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,116,30,1,0,20090415,0,CHI,TOR
+Shot Chart Detail,20801218,295,200753,Patrick O'Bryant,1610612761,Toronto Raptors,3,8,53,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,92,0,1,0,20090415,0,CHI,TOR

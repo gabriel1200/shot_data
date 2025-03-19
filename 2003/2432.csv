@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020200241,363,2432,Tito Maddox,1610612745,Houston Rockets,4,6,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,192,110,1,1,20021201,SAC,HOU
-Shot Chart Detail,0020200241,416,2432,Tito Maddox,1610612745,Houston Rockets,4,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20021201,SAC,HOU
-Shot Chart Detail,0020200789,446,2432,Tito Maddox,1610612745,Houston Rockets,4,2,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,64,1,0,20030221,HOU,DAL
-Shot Chart Detail,0020200789,463,2432,Tito Maddox,1610612745,Houston Rockets,4,1,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030221,HOU,DAL
-Shot Chart Detail,0020200789,471,2432,Tito Maddox,1610612745,Houston Rockets,4,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,168,1,0,20030221,HOU,DAL
-Shot Chart Detail,0020200795,113,2432,Tito Maddox,1610612745,Houston Rockets,2,11,15,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,25,1,0,20030222,HOU,MEM
-Shot Chart Detail,0020200795,152,2432,Tito Maddox,1610612745,Houston Rockets,2,7,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030222,HOU,MEM
-Shot Chart Detail,0020200795,163,2432,Tito Maddox,1610612745,Houston Rockets,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,217,1,0,20030222,HOU,MEM
-Shot Chart Detail,0020200795,346,2432,Tito Maddox,1610612745,Houston Rockets,4,11,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,155,1,0,20030222,HOU,MEM
-Shot Chart Detail,0020200795,369,2432,Tito Maddox,1610612745,Houston Rockets,4,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,20,1,0,20030222,HOU,MEM
-Shot Chart Detail,0020200939,415,2432,Tito Maddox,1610612745,Houston Rockets,4,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030314,HOU,CHI
-Shot Chart Detail,0020201110,455,2432,Tito Maddox,1610612745,Houston Rockets,4,1,49,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030406,HOU,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20200241,363,2432,Tito Maddox,1610612745,Houston Rockets,4,6,11,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,22,192,110,1,1,20021201,1,SAC,HOU
+Shot Chart Detail,20200241,416,2432,Tito Maddox,1610612745,Houston Rockets,4,0,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20021201,0,SAC,HOU
+Shot Chart Detail,20200789,446,2432,Tito Maddox,1610612745,Houston Rockets,4,2,46,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,64,1,0,20030221,0,HOU,DAL
+Shot Chart Detail,20200789,463,2432,Tito Maddox,1610612745,Houston Rockets,4,1,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030221,0,HOU,DAL
+Shot Chart Detail,20200789,471,2432,Tito Maddox,1610612745,Houston Rockets,4,0,25,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,168,1,0,20030221,0,HOU,DAL
+Shot Chart Detail,20200795,113,2432,Tito Maddox,1610612745,Houston Rockets,2,11,15,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,25,1,0,20030222,0,HOU,MEM
+Shot Chart Detail,20200795,152,2432,Tito Maddox,1610612745,Houston Rockets,2,7,20,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030222,0,HOU,MEM
+Shot Chart Detail,20200795,163,2432,Tito Maddox,1610612745,Houston Rockets,2,6,6,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,217,1,0,20030222,0,HOU,MEM
+Shot Chart Detail,20200795,346,2432,Tito Maddox,1610612745,Houston Rockets,4,11,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,155,1,0,20030222,0,HOU,MEM
+Shot Chart Detail,20200795,369,2432,Tito Maddox,1610612745,Houston Rockets,4,9,18,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-84,20,1,0,20030222,0,HOU,MEM
+Shot Chart Detail,20200939,415,2432,Tito Maddox,1610612745,Houston Rockets,4,2,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030314,0,HOU,CHI
+Shot Chart Detail,20201110,455,2432,Tito Maddox,1610612745,Houston Rockets,4,1,49,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030406,0,HOU,ORL

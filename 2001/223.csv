@@ -1,95 +1,48 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000067,455,223,Bill Curley,1610612742,Dallas Mavericks,4,4,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,0,1,0,20001108,DAL,VAN
-Shot Chart Detail,0020000067,479,223,Bill Curley,1610612742,Dallas Mavericks,4,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001108,DAL,VAN
-Shot Chart Detail,0020000102,485,223,Bill Curley,1610612742,Dallas Mavericks,4,0,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,4,1,0,20001113,LAC,DAL
-Shot Chart Detail,0020000187,450,223,Bill Curley,1610612742,Dallas Mavericks,4,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001125,DAL,DEN
-Shot Chart Detail,0020000241,463,223,Bill Curley,1610612744,Golden State Warriors,4,1,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,21,1,0,20001202,GSW,DAL
-Shot Chart Detail,0020000241,474,223,Bill Curley,1610612744,Golden State Warriors,4,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001202,GSW,DAL
-Shot Chart Detail,0020000281,392,223,Bill Curley,1610612744,Golden State Warriors,4,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-88,160,1,0,20001208,GSW,TOR
-Shot Chart Detail,0020000281,393,223,Bill Curley,1610612744,Golden State Warriors,4,11,28,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,28,1,1,20001208,GSW,TOR
-Shot Chart Detail,0020000290,137,223,Bill Curley,1610612744,Golden State Warriors,2,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,94,179,1,0,20001209,UTA,GSW
-Shot Chart Detail,0020000290,159,223,Bill Curley,1610612744,Golden State Warriors,2,7,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,28,1,0,20001209,UTA,GSW
-Shot Chart Detail,0020000380,479,223,Bill Curley,1610612744,Golden State Warriors,4,0,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,1,20001222,SAS,GSW
-Shot Chart Detail,0020000380,484,223,Bill Curley,1610612744,Golden State Warriors,4,0,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,0,20001222,SAS,GSW
-Shot Chart Detail,0020000437,184,223,Bill Curley,1610612744,Golden State Warriors,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,77,177,1,0,20001230,VAN,GSW
-Shot Chart Detail,0020000437,213,223,Bill Curley,1610612744,Golden State Warriors,2,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,28,1,1,20001230,VAN,GSW
-Shot Chart Detail,0020000437,364,223,Bill Curley,1610612744,Golden State Warriors,4,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,39,198,1,1,20001230,VAN,GSW
-Shot Chart Detail,0020000437,385,223,Bill Curley,1610612744,Golden State Warriors,4,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,34,1,0,20001230,VAN,GSW
-Shot Chart Detail,0020000437,405,223,Bill Curley,1610612744,Golden State Warriors,4,7,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,21,1,1,20001230,VAN,GSW
-Shot Chart Detail,0020000465,196,223,Bill Curley,1610612744,Golden State Warriors,2,4,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,28,1,0,20010105,BOS,GSW
-Shot Chart Detail,0020000487,107,223,Bill Curley,1610612744,Golden State Warriors,2,9,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010108,MIA,GSW
-Shot Chart Detail,0020000487,339,223,Bill Curley,1610612744,Golden State Warriors,4,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010108,MIA,GSW
-Shot Chart Detail,0020000487,370,223,Bill Curley,1610612744,Golden State Warriors,4,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,188,1,0,20010108,MIA,GSW
-Shot Chart Detail,0020000510,141,223,Bill Curley,1610612744,Golden State Warriors,2,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010111,ATL,GSW
-Shot Chart Detail,0020000510,147,223,Bill Curley,1610612744,Golden State Warriors,2,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,118,1,0,20010111,ATL,GSW
-Shot Chart Detail,0020000510,168,223,Bill Curley,1610612744,Golden State Warriors,2,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,42,1,1,20010111,ATL,GSW
-Shot Chart Detail,0020000510,179,223,Bill Curley,1610612744,Golden State Warriors,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,57,1,0,20010111,ATL,GSW
-Shot Chart Detail,0020000523,13,223,Bill Curley,1610612744,Golden State Warriors,1,10,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000523,271,223,Bill Curley,1610612744,Golden State Warriors,3,10,31,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,4,1,0,20010113,ORL,GSW
-Shot Chart Detail,0020000523,308,223,Bill Curley,1610612744,Golden State Warriors,3,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,42,1,0,20010113,ORL,GSW
-Shot Chart Detail,0020000523,456,223,Bill Curley,1610612744,Golden State Warriors,4,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,-23,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000523,460,223,Bill Curley,1610612744,Golden State Warriors,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,26,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000546,385,223,Bill Curley,1610612744,Golden State Warriors,4,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,17,1,1,20010115,GSW,CLE
-Shot Chart Detail,0020000570,102,223,Bill Curley,1610612744,Golden State Warriors,1,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,PHX,GSW
-Shot Chart Detail,0020000570,180,223,Bill Curley,1610612744,Golden State Warriors,2,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,21,1,1,20010119,PHX,GSW
-Shot Chart Detail,0020000570,185,223,Bill Curley,1610612744,Golden State Warriors,2,2,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,PHX,GSW
-Shot Chart Detail,0020000584,82,223,Bill Curley,1610612744,Golden State Warriors,1,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,117,112,1,0,20010121,GSW,BOS
-Shot Chart Detail,0020000584,127,223,Bill Curley,1610612744,Golden State Warriors,2,10,28,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,32,1,1,20010121,GSW,BOS
-Shot Chart Detail,0020000584,175,223,Bill Curley,1610612744,Golden State Warriors,2,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,0,20010121,GSW,BOS
-Shot Chart Detail,0020000597,98,223,Bill Curley,1610612744,Golden State Warriors,1,2,39,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,57,1,0,20010123,UTA,GSW
-Shot Chart Detail,0020000597,175,223,Bill Curley,1610612744,Golden State Warriors,2,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000597,448,223,Bill Curley,1610612744,Golden State Warriors,4,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000597,469,223,Bill Curley,1610612744,Golden State Warriors,4,2,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,74,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000597,487,223,Bill Curley,1610612744,Golden State Warriors,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,222,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000606,194,223,Bill Curley,1610612744,Golden State Warriors,2,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,GSW,NJN
-Shot Chart Detail,0020000606,214,223,Bill Curley,1610612744,Golden State Warriors,2,3,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,28,1,0,20010124,GSW,NJN
-Shot Chart Detail,0020000606,215,223,Bill Curley,1610612744,Golden State Warriors,2,3,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,GSW,NJN
-Shot Chart Detail,0020000606,403,223,Bill Curley,1610612744,Golden State Warriors,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,17,1,0,20010124,GSW,NJN
-Shot Chart Detail,0020000606,472,223,Bill Curley,1610612744,Golden State Warriors,4,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,GSW,NJN
-Shot Chart Detail,0020000067,455,223,Bill Curley,1610612742,Dallas Mavericks,4,4,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,0,1,0,20001108,DAL,VAN
-Shot Chart Detail,0020000067,479,223,Bill Curley,1610612742,Dallas Mavericks,4,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001108,DAL,VAN
-Shot Chart Detail,0020000102,485,223,Bill Curley,1610612742,Dallas Mavericks,4,0,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,4,1,0,20001113,LAC,DAL
-Shot Chart Detail,0020000187,450,223,Bill Curley,1610612742,Dallas Mavericks,4,0,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001125,DAL,DEN
-Shot Chart Detail,0020000241,463,223,Bill Curley,1610612744,Golden State Warriors,4,1,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,21,1,0,20001202,GSW,DAL
-Shot Chart Detail,0020000241,474,223,Bill Curley,1610612744,Golden State Warriors,4,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001202,GSW,DAL
-Shot Chart Detail,0020000281,392,223,Bill Curley,1610612744,Golden State Warriors,4,11,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-88,160,1,0,20001208,GSW,TOR
-Shot Chart Detail,0020000281,393,223,Bill Curley,1610612744,Golden State Warriors,4,11,28,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,28,1,1,20001208,GSW,TOR
-Shot Chart Detail,0020000290,137,223,Bill Curley,1610612744,Golden State Warriors,2,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,94,179,1,0,20001209,UTA,GSW
-Shot Chart Detail,0020000290,159,223,Bill Curley,1610612744,Golden State Warriors,2,7,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,28,1,0,20001209,UTA,GSW
-Shot Chart Detail,0020000380,479,223,Bill Curley,1610612744,Golden State Warriors,4,0,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,1,20001222,SAS,GSW
-Shot Chart Detail,0020000380,484,223,Bill Curley,1610612744,Golden State Warriors,4,0,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,0,20001222,SAS,GSW
-Shot Chart Detail,0020000437,184,223,Bill Curley,1610612744,Golden State Warriors,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,77,177,1,0,20001230,VAN,GSW
-Shot Chart Detail,0020000437,213,223,Bill Curley,1610612744,Golden State Warriors,2,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,28,1,1,20001230,VAN,GSW
-Shot Chart Detail,0020000437,364,223,Bill Curley,1610612744,Golden State Warriors,4,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,39,198,1,1,20001230,VAN,GSW
-Shot Chart Detail,0020000437,385,223,Bill Curley,1610612744,Golden State Warriors,4,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,34,1,0,20001230,VAN,GSW
-Shot Chart Detail,0020000437,405,223,Bill Curley,1610612744,Golden State Warriors,4,7,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,21,1,1,20001230,VAN,GSW
-Shot Chart Detail,0020000465,196,223,Bill Curley,1610612744,Golden State Warriors,2,4,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,28,1,0,20010105,BOS,GSW
-Shot Chart Detail,0020000487,107,223,Bill Curley,1610612744,Golden State Warriors,2,9,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010108,MIA,GSW
-Shot Chart Detail,0020000487,339,223,Bill Curley,1610612744,Golden State Warriors,4,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010108,MIA,GSW
-Shot Chart Detail,0020000487,370,223,Bill Curley,1610612744,Golden State Warriors,4,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,18,188,1,0,20010108,MIA,GSW
-Shot Chart Detail,0020000510,141,223,Bill Curley,1610612744,Golden State Warriors,2,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010111,ATL,GSW
-Shot Chart Detail,0020000510,147,223,Bill Curley,1610612744,Golden State Warriors,2,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,118,1,0,20010111,ATL,GSW
-Shot Chart Detail,0020000510,168,223,Bill Curley,1610612744,Golden State Warriors,2,5,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,42,1,1,20010111,ATL,GSW
-Shot Chart Detail,0020000510,179,223,Bill Curley,1610612744,Golden State Warriors,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,57,1,0,20010111,ATL,GSW
-Shot Chart Detail,0020000523,13,223,Bill Curley,1610612744,Golden State Warriors,1,10,45,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000523,271,223,Bill Curley,1610612744,Golden State Warriors,3,10,31,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,4,1,0,20010113,ORL,GSW
-Shot Chart Detail,0020000523,308,223,Bill Curley,1610612744,Golden State Warriors,3,6,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,42,1,0,20010113,ORL,GSW
-Shot Chart Detail,0020000523,456,223,Bill Curley,1610612744,Golden State Warriors,4,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,-23,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000523,460,223,Bill Curley,1610612744,Golden State Warriors,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,26,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000546,385,223,Bill Curley,1610612744,Golden State Warriors,4,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,17,1,1,20010115,GSW,CLE
-Shot Chart Detail,0020000570,102,223,Bill Curley,1610612744,Golden State Warriors,1,1,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,PHX,GSW
-Shot Chart Detail,0020000570,180,223,Bill Curley,1610612744,Golden State Warriors,2,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,21,1,1,20010119,PHX,GSW
-Shot Chart Detail,0020000570,185,223,Bill Curley,1610612744,Golden State Warriors,2,2,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,PHX,GSW
-Shot Chart Detail,0020000584,82,223,Bill Curley,1610612744,Golden State Warriors,1,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,117,112,1,0,20010121,GSW,BOS
-Shot Chart Detail,0020000584,127,223,Bill Curley,1610612744,Golden State Warriors,2,10,28,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,32,1,1,20010121,GSW,BOS
-Shot Chart Detail,0020000584,175,223,Bill Curley,1610612744,Golden State Warriors,2,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,0,20010121,GSW,BOS
-Shot Chart Detail,0020000597,98,223,Bill Curley,1610612744,Golden State Warriors,1,2,39,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,57,1,0,20010123,UTA,GSW
-Shot Chart Detail,0020000597,175,223,Bill Curley,1610612744,Golden State Warriors,2,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000597,448,223,Bill Curley,1610612744,Golden State Warriors,4,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000597,469,223,Bill Curley,1610612744,Golden State Warriors,4,2,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,74,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000597,487,223,Bill Curley,1610612744,Golden State Warriors,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,222,1,1,20010123,UTA,GSW
-Shot Chart Detail,0020000606,194,223,Bill Curley,1610612744,Golden State Warriors,2,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,GSW,NJN
-Shot Chart Detail,0020000606,214,223,Bill Curley,1610612744,Golden State Warriors,2,3,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,28,1,0,20010124,GSW,NJN
-Shot Chart Detail,0020000606,215,223,Bill Curley,1610612744,Golden State Warriors,2,3,36,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,GSW,NJN
-Shot Chart Detail,0020000606,403,223,Bill Curley,1610612744,Golden State Warriors,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,17,1,0,20010124,GSW,NJN
-Shot Chart Detail,0020000606,472,223,Bill Curley,1610612744,Golden State Warriors,4,3,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,GSW,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000067,455,223,Bill Curley,1610612742,Dallas Mavericks,4,4,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,0,1,0,20001108,0,DAL,VAN
+Shot Chart Detail,20000067,479,223,Bill Curley,1610612742,Dallas Mavericks,4,2,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001108,0,DAL,VAN
+Shot Chart Detail,20000102,485,223,Bill Curley,1610612742,Dallas Mavericks,4,0,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,4,1,0,20001113,0,LAC,DAL
+Shot Chart Detail,20000187,450,223,Bill Curley,1610612742,Dallas Mavericks,4,0,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001125,1,DAL,DEN
+Shot Chart Detail,20000241,463,223,Bill Curley,1610612744,Golden State Warriors,4,1,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,21,1,0,20001202,0,GSW,DAL
+Shot Chart Detail,20000241,474,223,Bill Curley,1610612744,Golden State Warriors,4,1,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001202,1,GSW,DAL
+Shot Chart Detail,20000281,392,223,Bill Curley,1610612744,Golden State Warriors,4,11,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-88,160,1,0,20001208,0,GSW,TOR
+Shot Chart Detail,20000281,393,223,Bill Curley,1610612744,Golden State Warriors,4,11,28,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-18,28,1,1,20001208,0,GSW,TOR
+Shot Chart Detail,20000290,137,223,Bill Curley,1610612744,Golden State Warriors,2,10,9,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,94,179,1,0,20001209,0,UTA,GSW
+Shot Chart Detail,20000290,159,223,Bill Curley,1610612744,Golden State Warriors,2,7,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,28,1,0,20001209,0,UTA,GSW
+Shot Chart Detail,20000380,479,223,Bill Curley,1610612744,Golden State Warriors,4,0,47,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,1,20001222,0,SAS,GSW
+Shot Chart Detail,20000380,484,223,Bill Curley,1610612744,Golden State Warriors,4,0,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,0,20001222,0,SAS,GSW
+Shot Chart Detail,20000437,184,223,Bill Curley,1610612744,Golden State Warriors,2,6,27,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,77,177,1,0,20001230,0,VAN,GSW
+Shot Chart Detail,20000437,213,223,Bill Curley,1610612744,Golden State Warriors,2,3,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,28,1,1,20001230,1,VAN,GSW
+Shot Chart Detail,20000437,364,223,Bill Curley,1610612744,Golden State Warriors,4,11,7,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,39,198,1,1,20001230,1,VAN,GSW
+Shot Chart Detail,20000437,385,223,Bill Curley,1610612744,Golden State Warriors,4,9,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,34,1,0,20001230,0,VAN,GSW
+Shot Chart Detail,20000437,405,223,Bill Curley,1610612744,Golden State Warriors,4,7,42,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,21,1,1,20001230,1,VAN,GSW
+Shot Chart Detail,20000465,196,223,Bill Curley,1610612744,Golden State Warriors,2,4,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-10,28,1,0,20010105,0,BOS,GSW
+Shot Chart Detail,20000487,107,223,Bill Curley,1610612744,Golden State Warriors,2,9,54,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010108,1,MIA,GSW
+Shot Chart Detail,20000487,339,223,Bill Curley,1610612744,Golden State Warriors,4,8,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010108,0,MIA,GSW
+Shot Chart Detail,20000487,370,223,Bill Curley,1610612744,Golden State Warriors,4,5,21,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,18,188,1,0,20010108,0,MIA,GSW
+Shot Chart Detail,20000510,141,223,Bill Curley,1610612744,Golden State Warriors,2,7,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010111,1,ATL,GSW
+Shot Chart Detail,20000510,147,223,Bill Curley,1610612744,Golden State Warriors,2,7,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,118,1,0,20010111,0,ATL,GSW
+Shot Chart Detail,20000510,168,223,Bill Curley,1610612744,Golden State Warriors,2,5,24,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,119,42,1,1,20010111,1,ATL,GSW
+Shot Chart Detail,20000510,179,223,Bill Curley,1610612744,Golden State Warriors,2,3,50,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-86,57,1,0,20010111,0,ATL,GSW
+Shot Chart Detail,20000523,13,223,Bill Curley,1610612744,Golden State Warriors,1,10,45,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,1,20010113,0,ORL,GSW
+Shot Chart Detail,20000523,271,223,Bill Curley,1610612744,Golden State Warriors,3,10,31,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-115,4,1,0,20010113,0,ORL,GSW
+Shot Chart Detail,20000523,308,223,Bill Curley,1610612744,Golden State Warriors,3,6,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-130,42,1,0,20010113,0,ORL,GSW
+Shot Chart Detail,20000523,456,223,Bill Curley,1610612744,Golden State Warriors,4,4,29,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,104,-23,1,1,20010113,1,ORL,GSW
+Shot Chart Detail,20000523,460,223,Bill Curley,1610612744,Golden State Warriors,4,3,53,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-94,26,1,1,20010113,1,ORL,GSW
+Shot Chart Detail,20000546,385,223,Bill Curley,1610612744,Golden State Warriors,4,8,5,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-117,17,1,1,20010115,1,GSW,CLE
+Shot Chart Detail,20000570,102,223,Bill Curley,1610612744,Golden State Warriors,1,1,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,1,PHX,GSW
+Shot Chart Detail,20000570,180,223,Bill Curley,1610612744,Golden State Warriors,2,3,27,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,21,1,1,20010119,0,PHX,GSW
+Shot Chart Detail,20000570,185,223,Bill Curley,1610612744,Golden State Warriors,2,2,44,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,1,PHX,GSW
+Shot Chart Detail,20000584,82,223,Bill Curley,1610612744,Golden State Warriors,1,3,15,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,117,112,1,0,20010121,0,GSW,BOS
+Shot Chart Detail,20000584,127,223,Bill Curley,1610612744,Golden State Warriors,2,10,28,Made Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-10,32,1,1,20010121,1,GSW,BOS
+Shot Chart Detail,20000584,175,223,Bill Curley,1610612744,Golden State Warriors,2,5,49,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,0,20010121,0,GSW,BOS
+Shot Chart Detail,20000597,98,223,Bill Curley,1610612744,Golden State Warriors,1,2,39,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,57,1,0,20010123,0,UTA,GSW
+Shot Chart Detail,20000597,175,223,Bill Curley,1610612744,Golden State Warriors,2,7,41,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010123,0,UTA,GSW
+Shot Chart Detail,20000597,448,223,Bill Curley,1610612744,Golden State Warriors,4,5,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010123,0,UTA,GSW
+Shot Chart Detail,20000597,469,223,Bill Curley,1610612744,Golden State Warriors,4,2,52,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,74,1,1,20010123,1,UTA,GSW
+Shot Chart Detail,20000597,487,223,Bill Curley,1610612744,Golden State Warriors,4,1,2,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,222,1,1,20010123,1,UTA,GSW
+Shot Chart Detail,20000606,194,223,Bill Curley,1610612744,Golden State Warriors,2,4,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,0,GSW,NJN
+Shot Chart Detail,20000606,214,223,Bill Curley,1610612744,Golden State Warriors,2,3,39,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,22,28,1,0,20010124,0,GSW,NJN
+Shot Chart Detail,20000606,215,223,Bill Curley,1610612744,Golden State Warriors,2,3,36,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,0,GSW,NJN
+Shot Chart Detail,20000606,403,223,Bill Curley,1610612744,Golden State Warriors,4,9,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,17,1,0,20010124,0,GSW,NJN
+Shot Chart Detail,20000606,472,223,Bill Curley,1610612744,Golden State Warriors,4,3,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010124,0,GSW,NJN

@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020400216,125,2421,Frank Williams,1610612741,Chicago Bulls,2,9,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041201,CHI,LAL
-Shot Chart Detail,0020400216,150,2421,Frank Williams,1610612741,Chicago Bulls,2,6,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,114,1,0,20041201,CHI,LAL
-Shot Chart Detail,0020400229,408,2421,Frank Williams,1610612741,Chicago Bulls,4,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,137,1,1,20041203,CHI,MIA
-Shot Chart Detail,0020400229,418,2421,Frank Williams,1610612741,Chicago Bulls,4,4,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041203,CHI,MIA
-Shot Chart Detail,0020400229,441,2421,Frank Williams,1610612741,Chicago Bulls,4,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,158,1,0,20041203,CHI,MIA
-Shot Chart Detail,0020400229,456,2421,Frank Williams,1610612741,Chicago Bulls,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,105,1,0,20041203,CHI,MIA
-Shot Chart Detail,0020400250,113,2421,Frank Williams,1610612741,Chicago Bulls,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,36,1,1,20041206,CHI,SAS
-Shot Chart Detail,0020400250,131,2421,Frank Williams,1610612741,Chicago Bulls,2,8,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-159,114,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,145,2421,Frank Williams,1610612741,Chicago Bulls,2,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-149,105,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,152,2421,Frank Williams,1610612741,Chicago Bulls,2,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,195,2421,Frank Williams,1610612741,Chicago Bulls,2,3,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,225,2421,Frank Williams,1610612741,Chicago Bulls,2,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,12,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,393,2421,Frank Williams,1610612741,Chicago Bulls,4,5,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,405,2421,Frank Williams,1610612741,Chicago Bulls,4,4,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,176,1,0,20041206,CHI,SAS
-Shot Chart Detail,0020400250,427,2421,Frank Williams,1610612741,Chicago Bulls,4,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041206,CHI,SAS
-Shot Chart Detail,0020400430,483,2421,Frank Williams,1610612741,Chicago Bulls,4,4,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,-5,1,0,20050101,CHI,ORL
-Shot Chart Detail,0020400475,85,2421,Frank Williams,1610612741,Chicago Bulls,1,2,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,15,1,0,20050107,CHI,UTA
-Shot Chart Detail,0020400475,98,2421,Frank Williams,1610612741,Chicago Bulls,1,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,CHI,UTA
-Shot Chart Detail,0020400901,130,2421,Frank Williams,1610612741,Chicago Bulls,2,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-168,168,1,0,20050309,POR,CHI
-Shot Chart Detail,0020400901,462,2421,Frank Williams,1610612741,Chicago Bulls,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,63,1,0,20050309,POR,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20400216,125,2421,Frank Williams,1610612741,Chicago Bulls,2,9,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041201,0,CHI,LAL
+Shot Chart Detail,20400216,150,2421,Frank Williams,1610612741,Chicago Bulls,2,6,7,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,113,114,1,0,20041201,0,CHI,LAL
+Shot Chart Detail,20400229,408,2421,Frank Williams,1610612741,Chicago Bulls,4,5,29,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,113,137,1,1,20041203,1,CHI,MIA
+Shot Chart Detail,20400229,418,2421,Frank Williams,1610612741,Chicago Bulls,4,4,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041203,0,CHI,MIA
+Shot Chart Detail,20400229,441,2421,Frank Williams,1610612741,Chicago Bulls,4,2,20,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-125,158,1,0,20041203,0,CHI,MIA
+Shot Chart Detail,20400229,456,2421,Frank Williams,1610612741,Chicago Bulls,4,0,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-146,105,1,0,20041203,0,CHI,MIA
+Shot Chart Detail,20400250,113,2421,Frank Williams,1610612741,Chicago Bulls,2,11,41,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-145,36,1,1,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,131,2421,Frank Williams,1610612741,Chicago Bulls,2,8,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-159,114,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,145,2421,Frank Williams,1610612741,Chicago Bulls,2,8,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-149,105,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,152,2421,Frank Williams,1610612741,Chicago Bulls,2,6,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,195,2421,Frank Williams,1610612741,Chicago Bulls,2,3,17,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,225,2421,Frank Williams,1610612741,Chicago Bulls,2,0,3,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-177,12,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,393,2421,Frank Williams,1610612741,Chicago Bulls,4,5,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,405,2421,Frank Williams,1610612741,Chicago Bulls,4,4,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,176,1,0,20041206,0,CHI,SAS
+Shot Chart Detail,20400250,427,2421,Frank Williams,1610612741,Chicago Bulls,4,2,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041206,0,CHI,SAS
+Shot Chart Detail,20400430,483,2421,Frank Williams,1610612741,Chicago Bulls,4,4,9,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,171,-5,1,0,20050101,0,CHI,ORL
+Shot Chart Detail,20400475,85,2421,Frank Williams,1610612741,Chicago Bulls,1,2,12,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,15,1,0,20050107,0,CHI,UTA
+Shot Chart Detail,20400475,98,2421,Frank Williams,1610612741,Chicago Bulls,1,1,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,0,CHI,UTA
+Shot Chart Detail,20400901,130,2421,Frank Williams,1610612741,Chicago Bulls,2,9,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,23,-168,168,1,0,20050309,0,POR,CHI
+Shot Chart Detail,20400901,462,2421,Frank Williams,1610612741,Chicago Bulls,4,1,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,110,63,1,0,20050309,0,POR,CHI

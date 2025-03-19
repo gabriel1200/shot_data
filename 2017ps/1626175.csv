@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041600302,452,1626175,Jordan Mickey,1610612738,Boston Celtics,4,6,17,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,31,1,0,20170519,BOS,CLE
-Shot Chart Detail,0041600302,461,1626175,Jordan Mickey,1610612738,Boston Celtics,4,5,22,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,0,20170519,BOS,CLE
-Shot Chart Detail,0041600302,500,1626175,Jordan Mickey,1610612738,Boston Celtics,4,1,8,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,-1,1,1,20170519,BOS,CLE
-Shot Chart Detail,0041600305,445,1626175,Jordan Mickey,1610612738,Boston Celtics,4,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-55,178,1,0,20170525,BOS,CLE
-Shot Chart Detail,0041600305,462,1626175,Jordan Mickey,1610612738,Boston Celtics,4,5,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20170525,BOS,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41600302,452,1626175,Jordan Mickey,1610612738,Boston Celtics,4,6,17,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,31,1,0,20170519,0,BOS,CLE
+Shot Chart Detail,41600302,461,1626175,Jordan Mickey,1610612738,Boston Celtics,4,5,22,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,0,20170519,0,BOS,CLE
+Shot Chart Detail,41600302,500,1626175,Jordan Mickey,1610612738,Boston Celtics,4,1,8,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,-1,1,1,20170519,0,BOS,CLE
+Shot Chart Detail,41600305,445,1626175,Jordan Mickey,1610612738,Boston Celtics,4,7,31,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-55,178,1,0,20170525,0,BOS,CLE
+Shot Chart Detail,41600305,462,1626175,Jordan Mickey,1610612738,Boston Celtics,4,5,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,1,20170525,0,BOS,CLE

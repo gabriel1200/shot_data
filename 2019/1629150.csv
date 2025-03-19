@@ -1,15 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021800743,326,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,1,56,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20190127,LAL,PHX
-Shot Chart Detail,0021800743,352,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,0,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190127,LAL,PHX
-Shot Chart Detail,0021800743,498,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,2,6,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20190127,LAL,PHX
-Shot Chart Detail,0021800743,516,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,0,44,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,14,1,0,20190127,LAL,PHX
-Shot Chart Detail,0021800754,173,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,11,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20190129,SAS,PHX
-Shot Chart Detail,0021800754,503,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,11,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20190129,SAS,PHX
-Shot Chart Detail,0021800888,618,1629150,Emanuel Terry,1610612748,Miami Heat,4,1,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,0,20190223,MIA,DET
-Shot Chart Detail,0021800743,326,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,1,56,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20190127,LAL,PHX
-Shot Chart Detail,0021800743,352,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,0,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190127,LAL,PHX
-Shot Chart Detail,0021800743,498,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,2,6,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20190127,LAL,PHX
-Shot Chart Detail,0021800743,516,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,0,44,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,14,1,0,20190127,LAL,PHX
-Shot Chart Detail,0021800754,173,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,11,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20190129,SAS,PHX
-Shot Chart Detail,0021800754,503,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,11,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20190129,SAS,PHX
-Shot Chart Detail,0021800888,618,1629150,Emanuel Terry,1610612748,Miami Heat,4,1,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,0,20190223,MIA,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21800743,326,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,1,56,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,1,20190127,1,LAL,PHX
+Shot Chart Detail,21800743,352,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,0,6,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190127,0,LAL,PHX
+Shot Chart Detail,21800743,498,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,2,6,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20190127,0,LAL,PHX
+Shot Chart Detail,21800743,516,1629150,Emanuel Terry,1610612756,Phoenix Suns,3,0,44,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-14,14,1,0,20190127,0,LAL,PHX
+Shot Chart Detail,21800754,173,1629150,Emanuel Terry,1610612756,Phoenix Suns,2,11,2,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20190129,1,SAS,PHX
+Shot Chart Detail,21800754,503,1629150,Emanuel Terry,1610612756,Phoenix Suns,4,11,26,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,2,1,1,20190129,1,SAS,PHX
+Shot Chart Detail,21800888,618,1629150,Emanuel Terry,1610612748,Miami Heat,4,1,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,0,20190223,0,MIA,DET

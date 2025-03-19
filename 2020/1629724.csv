@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021900694,574,1629724,Vic Law,1610612753,Orlando Magic,4,2,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,20,1,0,20200127,MIA,ORL
-Shot Chart Detail,0021900777,681,1629724,Vic Law,1610612753,Orlando Magic,4,0,32,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-93,171,1,0,20200208,ORL,MIL
-Shot Chart Detail,0021900953,668,1629724,Vic Law,1610612753,Orlando Magic,4,1,25,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,47,210,1,0,20200308,HOU,ORL
-Shot Chart Detail,0021901288,198,1629724,Vic Law,1610612753,Orlando Magic,2,9,25,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200809,BOS,ORL
-Shot Chart Detail,0021901297,163,1629724,Vic Law,1610612753,Orlando Magic,1,0,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,20,1,0,20200811,ORL,BKN
-Shot Chart Detail,0021901297,178,1629724,Vic Law,1610612753,Orlando Magic,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,66,-119,651,1,0,20200811,ORL,BKN
-Shot Chart Detail,0021901297,210,1629724,Vic Law,1610612753,Orlando Magic,2,9,15,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,27,1,0,20200811,ORL,BKN
-Shot Chart Detail,0021901297,485,1629724,Vic Law,1610612753,Orlando Magic,3,2,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,87,1,1,20200811,ORL,BKN
-Shot Chart Detail,0021901297,492,1629724,Vic Law,1610612753,Orlando Magic,3,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-5,251,1,0,20200811,ORL,BKN
-Shot Chart Detail,0021901297,608,1629724,Vic Law,1610612753,Orlando Magic,4,4,1,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-60,183,1,1,20200811,ORL,BKN
-Shot Chart Detail,0021901312,127,1629724,Vic Law,1610612753,Orlando Magic,1,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-51,257,1,1,20200813,ORL,NOP
-Shot Chart Detail,0021901312,131,1629724,Vic Law,1610612753,Orlando Magic,1,0,26,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20200813,ORL,NOP
-Shot Chart Detail,0021901312,409,1629724,Vic Law,1610612753,Orlando Magic,3,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,38,258,1,0,20200813,ORL,NOP
-Shot Chart Detail,0021901312,442,1629724,Vic Law,1610612753,Orlando Magic,4,11,33,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,134,1,0,20200813,ORL,NOP
-Shot Chart Detail,0021901312,553,1629724,Vic Law,1610612753,Orlando Magic,4,3,40,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,71,1,1,20200813,ORL,NOP
-Shot Chart Detail,0021901312,559,1629724,Vic Law,1610612753,Orlando Magic,4,3,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,230,125,1,0,20200813,ORL,NOP
-Shot Chart Detail,0021901312,579,1629724,Vic Law,1610612753,Orlando Magic,4,1,57,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,40,1,1,20200813,ORL,NOP
-Shot Chart Detail,0021901312,582,1629724,Vic Law,1610612753,Orlando Magic,4,1,23,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,50,124,1,1,20200813,ORL,NOP
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21900694,574,1629724,Vic Law,1610612753,Orlando Magic,4,2,18,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,20,1,0,20200127,0,MIA,ORL
+Shot Chart Detail,21900777,681,1629724,Vic Law,1610612753,Orlando Magic,4,0,32,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-93,171,1,0,20200208,0,ORL,MIL
+Shot Chart Detail,21900953,668,1629724,Vic Law,1610612753,Orlando Magic,4,1,25,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,21,47,210,1,0,20200308,0,HOU,ORL
+Shot Chart Detail,21901288,198,1629724,Vic Law,1610612753,Orlando Magic,2,9,25,Missed Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200809,0,BOS,ORL
+Shot Chart Detail,21901297,163,1629724,Vic Law,1610612753,Orlando Magic,1,0,50,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,220,20,1,0,20200811,0,ORL,BKN
+Shot Chart Detail,21901297,178,1629724,Vic Law,1610612753,Orlando Magic,1,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,66,-119,651,1,0,20200811,0,ORL,BKN
+Shot Chart Detail,21901297,210,1629724,Vic Law,1610612753,Orlando Magic,2,9,15,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-43,27,1,0,20200811,0,ORL,BKN
+Shot Chart Detail,21901297,485,1629724,Vic Law,1610612753,Orlando Magic,3,2,42,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,92,87,1,1,20200811,0,ORL,BKN
+Shot Chart Detail,21901297,492,1629724,Vic Law,1610612753,Orlando Magic,3,2,16,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-5,251,1,0,20200811,0,ORL,BKN
+Shot Chart Detail,21901297,608,1629724,Vic Law,1610612753,Orlando Magic,4,4,1,Made Shot,Running Pull-Up Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-60,183,1,1,20200811,0,ORL,BKN
+Shot Chart Detail,21901312,127,1629724,Vic Law,1610612753,Orlando Magic,1,0,52,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-51,257,1,1,20200813,1,ORL,NOP
+Shot Chart Detail,21901312,131,1629724,Vic Law,1610612753,Orlando Magic,1,0,26,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20200813,0,ORL,NOP
+Shot Chart Detail,21901312,409,1629724,Vic Law,1610612753,Orlando Magic,3,1,38,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,38,258,1,0,20200813,0,ORL,NOP
+Shot Chart Detail,21901312,442,1629724,Vic Law,1610612753,Orlando Magic,4,11,33,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,134,1,0,20200813,0,ORL,NOP
+Shot Chart Detail,21901312,553,1629724,Vic Law,1610612753,Orlando Magic,4,3,40,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,49,71,1,1,20200813,1,ORL,NOP
+Shot Chart Detail,21901312,559,1629724,Vic Law,1610612753,Orlando Magic,4,3,20,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,230,125,1,0,20200813,0,ORL,NOP
+Shot Chart Detail,21901312,579,1629724,Vic Law,1610612753,Orlando Magic,4,1,57,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,40,1,1,20200813,0,ORL,NOP
+Shot Chart Detail,21901312,582,1629724,Vic Law,1610612753,Orlando Magic,4,1,23,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,50,124,1,1,20200813,0,ORL,NOP

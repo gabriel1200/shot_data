@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041200112,386,200779,Steve Novak,1610612752,New York Knicks,4,9,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,257,1,0,20130423,NYK,BOS
-Shot Chart Detail,0041200112,483,200779,Steve Novak,1610612752,New York Knicks,4,0,39,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,135,164,1,1,20130423,NYK,BOS
-Shot Chart Detail,0041200113,133,200779,Steve Novak,1610612752,New York Knicks,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,37,1,1,20130426,BOS,NYK
-Shot Chart Detail,0041200113,355,200779,Steve Novak,1610612752,New York Knicks,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,11,1,1,20130426,BOS,NYK
-Shot Chart Detail,0041200113,382,200779,Steve Novak,1610612752,New York Knicks,4,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,233,1,1,20130426,BOS,NYK
-Shot Chart Detail,0041200113,413,200779,Steve Novak,1610612752,New York Knicks,4,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,235,1,0,20130426,BOS,NYK
-Shot Chart Detail,0041200114,76,200779,Steve Novak,1610612752,New York Knicks,1,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,42,250,1,1,20130428,BOS,NYK
-Shot Chart Detail,0041200114,90,200779,Steve Novak,1610612752,New York Knicks,1,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,52,1,0,20130428,BOS,NYK
-Shot Chart Detail,0041200114,118,200779,Steve Novak,1610612752,New York Knicks,2,10,19,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,3,1,0,20130428,BOS,NYK
-Shot Chart Detail,0041200115,120,200779,Steve Novak,1610612752,New York Knicks,2,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-175,97,1,1,20130501,NYK,BOS
-Shot Chart Detail,0041200212,455,200779,Steve Novak,1610612752,New York Knicks,4,2,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,220,1,0,20130507,NYK,IND
-Shot Chart Detail,0041200213,509,200779,Steve Novak,1610612752,New York Knicks,4,1,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-22,1,0,20130511,IND,NYK
-Shot Chart Detail,0041200214,490,200779,Steve Novak,1610612752,New York Knicks,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,238,1,1,20130514,IND,NYK
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41200112,386,200779,Steve Novak,1610612752,New York Knicks,4,9,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,257,1,0,20130423,0,NYK,BOS
+Shot Chart Detail,41200112,483,200779,Steve Novak,1610612752,New York Knicks,4,0,39,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,135,164,1,1,20130423,1,NYK,BOS
+Shot Chart Detail,41200113,133,200779,Steve Novak,1610612752,New York Knicks,2,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,37,1,1,20130426,1,BOS,NYK
+Shot Chart Detail,41200113,355,200779,Steve Novak,1610612752,New York Knicks,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,11,1,1,20130426,1,BOS,NYK
+Shot Chart Detail,41200113,382,200779,Steve Novak,1610612752,New York Knicks,4,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,233,1,1,20130426,1,BOS,NYK
+Shot Chart Detail,41200113,413,200779,Steve Novak,1610612752,New York Knicks,4,5,29,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,235,1,0,20130426,0,BOS,NYK
+Shot Chart Detail,41200114,76,200779,Steve Novak,1610612752,New York Knicks,1,3,4,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,42,250,1,1,20130428,1,BOS,NYK
+Shot Chart Detail,41200114,90,200779,Steve Novak,1610612752,New York Knicks,1,0,37,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,228,52,1,0,20130428,0,BOS,NYK
+Shot Chart Detail,41200114,118,200779,Steve Novak,1610612752,New York Knicks,2,10,19,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-198,3,1,0,20130428,0,BOS,NYK
+Shot Chart Detail,41200115,120,200779,Steve Novak,1610612752,New York Knicks,2,10,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-175,97,1,1,20130501,0,NYK,BOS
+Shot Chart Detail,41200212,455,200779,Steve Novak,1610612752,New York Knicks,4,2,22,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,220,1,0,20130507,0,NYK,IND
+Shot Chart Detail,41200213,509,200779,Steve Novak,1610612752,New York Knicks,4,1,7,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-22,1,0,20130511,0,IND,NYK
+Shot Chart Detail,41200214,490,200779,Steve Novak,1610612752,New York Knicks,4,0,57,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,238,1,1,20130514,1,IND,NYK

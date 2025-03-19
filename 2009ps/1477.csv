@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040800161,97,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,1,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-10,1,1,20090418,SAS,DAL
-Shot Chart Detail,0040800162,67,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,172,1,1,20090420,SAS,DAL
-Shot Chart Detail,0040800162,313,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,1,1,1,20090420,SAS,DAL
-Shot Chart Detail,0040800163,148,1477,Bruce Bowen,1610612759,San Antonio Spurs,2,10,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,4,1,0,20090423,DAL,SAS
-Shot Chart Detail,0040800163,294,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,7,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090423,DAL,SAS
-Shot Chart Detail,0040800163,487,1477,Bruce Bowen,1610612759,San Antonio Spurs,4,0,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-2,1,1,20090423,DAL,SAS
-Shot Chart Detail,0040800164,83,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,165,135,1,1,20090425,DAL,SAS
-Shot Chart Detail,0040800164,315,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,10,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,28,1,0,20090425,DAL,SAS
-Shot Chart Detail,0040800164,416,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,97,1,0,20090425,DAL,SAS
-Shot Chart Detail,0040800164,430,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,0,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,9,1,1,20090425,DAL,SAS
-Shot Chart Detail,0040800165,73,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20090428,SAS,DAL
-Shot Chart Detail,0040800165,104,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,0,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,22,1,1,20090428,SAS,DAL
-Shot Chart Detail,0040800165,333,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,0,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,45,1,0,20090428,SAS,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40800161,97,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,1,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-10,1,1,20090418,1,SAS,DAL
+Shot Chart Detail,40800162,67,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,3,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,172,1,1,20090420,1,SAS,DAL
+Shot Chart Detail,40800162,313,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,4,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,1,1,1,20090420,1,SAS,DAL
+Shot Chart Detail,40800163,148,1477,Bruce Bowen,1610612759,San Antonio Spurs,2,10,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,4,1,0,20090423,0,DAL,SAS
+Shot Chart Detail,40800163,294,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,7,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090423,0,DAL,SAS
+Shot Chart Detail,40800163,487,1477,Bruce Bowen,1610612759,San Antonio Spurs,4,0,36,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-221,-2,1,1,20090423,1,DAL,SAS
+Shot Chart Detail,40800164,83,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,5,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,165,135,1,1,20090425,1,DAL,SAS
+Shot Chart Detail,40800164,315,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,10,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,28,1,0,20090425,0,DAL,SAS
+Shot Chart Detail,40800164,416,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,97,1,0,20090425,0,DAL,SAS
+Shot Chart Detail,40800164,430,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,0,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,9,1,1,20090425,1,DAL,SAS
+Shot Chart Detail,40800165,73,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20090428,0,SAS,DAL
+Shot Chart Detail,40800165,104,1477,Bruce Bowen,1610612759,San Antonio Spurs,1,0,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,22,1,1,20090428,1,SAS,DAL
+Shot Chart Detail,40800165,333,1477,Bruce Bowen,1610612759,San Antonio Spurs,3,0,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,220,45,1,0,20090428,0,SAS,DAL

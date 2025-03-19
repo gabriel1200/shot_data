@@ -1,479 +1,240 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000020,160,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,19,1,1,20001101,SEA,DEN
-Shot Chart Detail,0020000020,262,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20001101,SEA,DEN
-Shot Chart Detail,0020000020,269,1110,Mark Strickland,1610612743,Denver Nuggets,2,1,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,19,1,1,20001101,SEA,DEN
-Shot Chart Detail,0020000020,534,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,40,1,0,20001101,SEA,DEN
-Shot Chart Detail,0020000043,73,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,120,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,114,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,11,Missed Shot,Running Tip Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,15,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,115,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,6,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,117,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,149,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,58,127,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,369,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,379,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,15,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,391,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,401,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,106,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,403,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,439,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000051,87,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,74,1,0,20001106,DEN,DAL
-Shot Chart Detail,0020000051,93,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,18,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001106,DEN,DAL
-Shot Chart Detail,0020000097,129,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,34,1,0,20001112,DEN,LAC
-Shot Chart Detail,0020000097,135,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,-19,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000097,144,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000097,173,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-2,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000097,377,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,108,1,0,20001112,DEN,LAC
-Shot Chart Detail,0020000097,508,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,91,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000122,140,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,51,1,1,20001116,DEN,CHI
-Shot Chart Detail,0020000122,185,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001116,DEN,CHI
-Shot Chart Detail,0020000122,191,1110,Mark Strickland,1610612743,Denver Nuggets,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,125,1,0,20001116,DEN,CHI
-Shot Chart Detail,0020000122,235,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,173,1,0,20001116,DEN,CHI
-Shot Chart Detail,0020000122,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,7,1,0,20001116,DEN,CHI
-Shot Chart Detail,0020000140,157,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-12,184,1,1,20001118,DEN,LAL
-Shot Chart Detail,0020000152,325,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,15,1,0,20001120,VAN,DEN
-Shot Chart Detail,0020000166,314,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,11,1,1,20001122,UTA,DEN
-Shot Chart Detail,0020000166,377,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-132,97,1,1,20001122,UTA,DEN
-Shot Chart Detail,0020000166,384,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,4,1,0,20001122,UTA,DEN
-Shot Chart Detail,0020000166,394,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,10,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,61,1,0,20001122,UTA,DEN
-Shot Chart Detail,0020000166,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,137,1,0,20001122,UTA,DEN
-Shot Chart Detail,0020000166,462,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,15,1,1,20001122,UTA,DEN
-Shot Chart Detail,0020000187,416,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001125,DAL,DEN
-Shot Chart Detail,0020000187,422,1110,Mark Strickland,1610612743,Denver Nuggets,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-86,93,1,0,20001125,DAL,DEN
-Shot Chart Detail,0020000187,443,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001125,DAL,DEN
-Shot Chart Detail,0020000187,451,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,9,1,0,20001125,DAL,DEN
-Shot Chart Detail,0020000219,356,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,3,207,1,0,20001130,DEN,HOU
-Shot Chart Detail,0020000263,335,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,MIA,DEN
-Shot Chart Detail,0020000263,394,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,23,1,0,20001206,MIA,DEN
-Shot Chart Detail,0020000263,400,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,144,1,0,20001206,MIA,DEN
-Shot Chart Detail,0020000263,431,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,MIA,DEN
-Shot Chart Detail,0020000263,465,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,MIA,DEN
-Shot Chart Detail,0020000263,483,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001206,MIA,DEN
-Shot Chart Detail,0020000270,197,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001207,ORL,DEN
-Shot Chart Detail,0020000308,301,1110,Mark Strickland,1610612743,Denver Nuggets,3,3,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001212,DEN,MIA
-Shot Chart Detail,0020000323,169,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,42,1,0,20001214,SAS,DEN
-Shot Chart Detail,0020000323,226,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,15,1,0,20001214,SAS,DEN
-Shot Chart Detail,0020000381,424,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001222,DEN,POR
-Shot Chart Detail,0020000381,452,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,42,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001222,DEN,POR
-Shot Chart Detail,0020000381,464,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,-2,1,0,20001222,DEN,POR
-Shot Chart Detail,0020000392,346,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001223,PHX,DEN
-Shot Chart Detail,0020000392,370,1110,Mark Strickland,1610612743,Denver Nuggets,4,11,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,125,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000392,462,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,68,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000392,466,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000392,484,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000405,113,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000405,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000405,318,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,63,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000405,362,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001226,DEN,LAC
-Shot Chart Detail,0020000405,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000418,139,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001228,DEN,TOR
-Shot Chart Detail,0020000468,225,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010105,DEN,UTA
-Shot Chart Detail,0020000468,361,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,-13,1,1,20010105,DEN,UTA
-Shot Chart Detail,0020000482,129,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,61,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,136,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,40,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-11,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,179,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-15,1,0,20010107,DEN,CHH
-Shot Chart Detail,0020000482,255,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,360,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000499,135,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,26,1,0,20010109,VAN,DEN
-Shot Chart Detail,0020000499,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,63,1,0,20010109,VAN,DEN
-Shot Chart Detail,0020000518,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010112,DEN,SAC
-Shot Chart Detail,0020000518,152,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010112,DEN,SAC
-Shot Chart Detail,0020000518,296,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,158,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,312,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,30,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,343,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,19,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,345,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-8,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,0,1,0,20010112,DEN,SAC
-Shot Chart Detail,0020000518,413,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000543,104,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010115,DEN,SEA
-Shot Chart Detail,0020000543,136,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-2,1,1,20010115,DEN,SEA
-Shot Chart Detail,0020000543,150,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,7,1,0,20010115,DEN,SEA
-Shot Chart Detail,0020000543,153,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,56,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010115,DEN,SEA
-Shot Chart Detail,0020000555,155,1110,Mark Strickland,1610612743,Denver Nuggets,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-141,141,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,414,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,19,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,416,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-8,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,423,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-63,198,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,444,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,451,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,30,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,454,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-33,203,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,472,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,30,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,473,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000569,176,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,20,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-4,1,0,20010119,DEN,CLE
-Shot Chart Detail,0020000575,374,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-6,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20010120,DAL,DEN
-Shot Chart Detail,0020000575,392,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,70,1,0,20010120,DAL,DEN
-Shot Chart Detail,0020000575,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,440,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,137,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,454,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,15,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,456,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,217,1,0,20010120,DAL,DEN
-Shot Chart Detail,0020000625,55,1110,Mark Strickland,1610612743,Denver Nuggets,1,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20010127,DEN,DAL
-Shot Chart Detail,0020000625,71,1110,Mark Strickland,1610612743,Denver Nuggets,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,40,1,0,20010127,DEN,DAL
-Shot Chart Detail,0020000625,78,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010127,DEN,DAL
-Shot Chart Detail,0020000625,158,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,18,203,1,0,20010127,DEN,DAL
-Shot Chart Detail,0020000625,195,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010127,DEN,DAL
-Shot Chart Detail,0020000635,80,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,11,1,0,20010129,DEN,UTA
-Shot Chart Detail,0020000635,185,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,180,68,1,0,20010129,DEN,UTA
-Shot Chart Detail,0020000635,278,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,15,1,0,20010129,DEN,UTA
-Shot Chart Detail,0020000668,370,1110,Mark Strickland,1610612743,Denver Nuggets,4,11,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,4,1,0,20010203,WAS,DEN
-Shot Chart Detail,0020000683,109,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,42,1,0,20010205,PHI,DEN
-Shot Chart Detail,0020000683,111,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,15,1,0,20010205,PHI,DEN
-Shot Chart Detail,0020000693,214,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,350,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010206,DET,DEN
-Shot Chart Detail,0020000693,363,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,368,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010206,DET,DEN
-Shot Chart Detail,0020000693,409,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-13,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,429,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000742,403,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,142,82,1,0,20010216,SAC,DEN
-Shot Chart Detail,0020000742,407,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,134,93,1,0,20010216,SAC,DEN
-Shot Chart Detail,0020000742,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,26,1,0,20010216,SAC,DEN
-Shot Chart Detail,0020000755,114,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,9,1,0,20010218,DEN,WAS
-Shot Chart Detail,0020000755,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010218,DEN,WAS
-Shot Chart Detail,0020000755,327,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010218,DEN,WAS
-Shot Chart Detail,0020000770,294,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,19,1,0,20010220,POR,DEN
-Shot Chart Detail,0020000770,296,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-77,194,1,0,20010220,POR,DEN
-Shot Chart Detail,0020000770,327,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,9,1,0,20010220,POR,DEN
-Shot Chart Detail,0020000778,300,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,80,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,302,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,178,0,1,0,20010221,SEA,DEN
-Shot Chart Detail,0020000778,316,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,375,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,157,97,1,0,20010221,SEA,DEN
-Shot Chart Detail,0020000778,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,91,1,0,20010221,SEA,DEN
-Shot Chart Detail,0020000778,425,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,432,1110,Mark Strickland,1610612743,Denver Nuggets,4,2,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,475,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000813,121,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20010226,DEN,ORL
-Shot Chart Detail,0020000813,124,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010226,DEN,ORL
-Shot Chart Detail,0020000845,289,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,34,1,0,20010302,DEN,MIN
-Shot Chart Detail,0020000845,305,1110,Mark Strickland,1610612743,Denver Nuggets,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,177,1,0,20010302,DEN,MIN
-Shot Chart Detail,0020000845,418,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010302,DEN,MIN
-Shot Chart Detail,0020000845,441,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010302,DEN,MIN
-Shot Chart Detail,0020000850,291,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,293,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,308,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,333,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,334,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,377,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,4,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,386,1110,Mark Strickland,1610612743,Denver Nuggets,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,4,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,445,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000865,59,1110,Mark Strickland,1610612743,Denver Nuggets,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,13,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,69,1110,Mark Strickland,1610612743,Denver Nuggets,1,3,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,72,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,34,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,89,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,119,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,153,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,183,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,207,1110,Mark Strickland,1610612743,Denver Nuggets,2,1,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,106,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,289,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,55,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,320,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,369,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000870,78,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,49,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,89,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-4,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,104,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,113,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,106,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,165,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,179,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,133,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,288,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-181,93,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,391,1110,Mark Strickland,1610612743,Denver Nuggets,4,5,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,469,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000897,82,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,0,20010309,SAC,DEN
-Shot Chart Detail,0020000897,98,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,13,1,0,20010309,SAC,DEN
-Shot Chart Detail,0020000897,116,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,7,1,0,20010309,SAC,DEN
-Shot Chart Detail,0020000897,408,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010309,SAC,DEN
-Shot Chart Detail,0020000917,183,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,0,20010312,GSW,DEN
-Shot Chart Detail,0020000917,188,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,8,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010312,GSW,DEN
-Shot Chart Detail,0020000932,34,1110,Mark Strickland,1610612743,Denver Nuggets,1,7,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,99,1,0,20010314,DEN,IND
-Shot Chart Detail,0020000932,269,1110,Mark Strickland,1610612743,Denver Nuggets,3,5,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,19,1,0,20010314,DEN,IND
-Shot Chart Detail,0020000932,272,1110,Mark Strickland,1610612743,Denver Nuggets,3,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,19,1,1,20010314,DEN,IND
-Shot Chart Detail,0020000948,122,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,59,1,1,20010316,DEN,BOS
-Shot Chart Detail,0020000948,129,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010316,DEN,BOS
-Shot Chart Detail,0020001025,153,1110,Mark Strickland,1610612751,New Jersey Nets,2,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,166,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,169,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,15,1,0,20010328,NJN,DEN
-Shot Chart Detail,0020001025,171,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-141,106,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,175,1110,Mark Strickland,1610612751,New Jersey Nets,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,210,82,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,350,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010328,NJN,DEN
-Shot Chart Detail,0020001025,409,1110,Mark Strickland,1610612751,New Jersey Nets,4,2,19,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20010328,NJN,DEN
-Shot Chart Detail,0020001041,113,1110,Mark Strickland,1610612751,New Jersey Nets,1,0,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,218,1110,Mark Strickland,1610612751,New Jersey Nets,2,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,220,1110,Mark Strickland,1610612751,New Jersey Nets,2,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,TOR,NJN
-Shot Chart Detail,0020001041,233,1110,Mark Strickland,1610612751,New Jersey Nets,2,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,414,1110,Mark Strickland,1610612751,New Jersey Nets,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-6,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001053,114,1110,Mark Strickland,1610612751,New Jersey Nets,2,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,146,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,30,167,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,148,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,160,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,151,1110,Mark Strickland,1610612751,New Jersey Nets,2,6,30,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,15,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,176,1110,Mark Strickland,1610612751,New Jersey Nets,2,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,99,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,203,1110,Mark Strickland,1610612751,New Jersey Nets,2,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-13,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,211,1110,Mark Strickland,1610612751,New Jersey Nets,2,0,3,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,47,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,351,1110,Mark Strickland,1610612751,New Jersey Nets,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-6,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,357,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,11,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001064,132,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,47,1,1,20010403,NJN,CHH
-Shot Chart Detail,0020001064,148,1110,Mark Strickland,1610612751,New Jersey Nets,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,141,1,0,20010403,NJN,CHH
-Shot Chart Detail,0020001064,301,1110,Mark Strickland,1610612751,New Jersey Nets,3,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,47,1,1,20010403,NJN,CHH
-Shot Chart Detail,0020001064,332,1110,Mark Strickland,1610612751,New Jersey Nets,3,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,63,1,0,20010403,NJN,CHH
-Shot Chart Detail,0020001064,339,1110,Mark Strickland,1610612751,New Jersey Nets,3,1,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,122,1,0,20010403,NJN,CHH
-Shot Chart Detail,0020001064,372,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010403,NJN,CHH
-Shot Chart Detail,0020001104,116,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010408,NJN,IND
-Shot Chart Detail,0020001104,296,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,0,1,0,20010408,NJN,IND
-Shot Chart Detail,0020001104,306,1110,Mark Strickland,1610612751,New Jersey Nets,3,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,116,1,0,20010408,NJN,IND
-Shot Chart Detail,0020001133,123,1110,Mark Strickland,1610612751,New Jersey Nets,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,118,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,130,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010412,CHH,NJN
-Shot Chart Detail,0020001133,150,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,76,1,1,20010412,CHH,NJN
-Shot Chart Detail,0020001133,156,1110,Mark Strickland,1610612751,New Jersey Nets,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,101,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,377,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,108,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,406,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,34,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,409,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,420,1110,Mark Strickland,1610612751,New Jersey Nets,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,15,1,1,20010412,CHH,NJN
-Shot Chart Detail,0020001133,434,1110,Mark Strickland,1610612751,New Jersey Nets,4,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,30,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001139,246,1110,Mark Strickland,1610612751,New Jersey Nets,3,8,31,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,15,1,0,20010413,NJN,CLE
-Shot Chart Detail,0020001139,296,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,NJN,CLE
-Shot Chart Detail,0020001139,308,1110,Mark Strickland,1610612751,New Jersey Nets,3,2,30,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,NJN,CLE
-Shot Chart Detail,0020001139,349,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,NJN,CLE
-Shot Chart Detail,0020001154,63,1110,Mark Strickland,1610612751,New Jersey Nets,1,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,4,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,136,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,129,1,1,20010415,BOS,NJN
-Shot Chart Detail,0020001154,155,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,142,108,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,279,1110,Mark Strickland,1610612751,New Jersey Nets,3,6,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,308,1110,Mark Strickland,1610612751,New Jersey Nets,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-6,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,316,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-6,1,1,20010415,BOS,NJN
-Shot Chart Detail,0020001154,357,1110,Mark Strickland,1610612751,New Jersey Nets,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,9,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,370,1110,Mark Strickland,1610612751,New Jersey Nets,4,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,85,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001170,87,1110,Mark Strickland,1610612751,New Jersey Nets,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-13,1,0,20010417,NJN,CHI
-Shot Chart Detail,0020001170,99,1110,Mark Strickland,1610612751,New Jersey Nets,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,28,1,0,20010417,NJN,CHI
-Shot Chart Detail,0020001170,311,1110,Mark Strickland,1610612751,New Jersey Nets,4,11,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010417,NJN,CHI
-Shot Chart Detail,0020000020,160,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,19,1,1,20001101,SEA,DEN
-Shot Chart Detail,0020000020,262,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20001101,SEA,DEN
-Shot Chart Detail,0020000020,269,1110,Mark Strickland,1610612743,Denver Nuggets,2,1,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,19,1,1,20001101,SEA,DEN
-Shot Chart Detail,0020000020,534,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,40,1,0,20001101,SEA,DEN
-Shot Chart Detail,0020000043,73,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,120,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,114,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,11,Missed Shot,Running Tip Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,15,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,115,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,6,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,117,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,149,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,58,127,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,369,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,379,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,15,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,391,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,401,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,106,1,0,20001104,DEN,PHX
-Shot Chart Detail,0020000043,403,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000043,439,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001104,DEN,PHX
-Shot Chart Detail,0020000051,87,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,74,1,0,20001106,DEN,DAL
-Shot Chart Detail,0020000051,93,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,18,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001106,DEN,DAL
-Shot Chart Detail,0020000097,129,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,34,1,0,20001112,DEN,LAC
-Shot Chart Detail,0020000097,135,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,-19,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000097,144,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000097,173,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-2,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000097,377,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,108,1,0,20001112,DEN,LAC
-Shot Chart Detail,0020000097,508,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,91,1,1,20001112,DEN,LAC
-Shot Chart Detail,0020000122,140,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,51,1,1,20001116,DEN,CHI
-Shot Chart Detail,0020000122,185,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001116,DEN,CHI
-Shot Chart Detail,0020000122,191,1110,Mark Strickland,1610612743,Denver Nuggets,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,125,1,0,20001116,DEN,CHI
-Shot Chart Detail,0020000122,235,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,173,1,0,20001116,DEN,CHI
-Shot Chart Detail,0020000122,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,7,1,0,20001116,DEN,CHI
-Shot Chart Detail,0020000140,157,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-12,184,1,1,20001118,DEN,LAL
-Shot Chart Detail,0020000152,325,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,15,1,0,20001120,VAN,DEN
-Shot Chart Detail,0020000166,314,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,11,1,1,20001122,UTA,DEN
-Shot Chart Detail,0020000166,377,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-132,97,1,1,20001122,UTA,DEN
-Shot Chart Detail,0020000166,384,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,4,1,0,20001122,UTA,DEN
-Shot Chart Detail,0020000166,394,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,10,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,61,1,0,20001122,UTA,DEN
-Shot Chart Detail,0020000166,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,137,1,0,20001122,UTA,DEN
-Shot Chart Detail,0020000166,462,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,15,1,1,20001122,UTA,DEN
-Shot Chart Detail,0020000187,416,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001125,DAL,DEN
-Shot Chart Detail,0020000187,422,1110,Mark Strickland,1610612743,Denver Nuggets,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-86,93,1,0,20001125,DAL,DEN
-Shot Chart Detail,0020000187,443,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001125,DAL,DEN
-Shot Chart Detail,0020000187,451,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,9,1,0,20001125,DAL,DEN
-Shot Chart Detail,0020000219,356,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,3,207,1,0,20001130,DEN,HOU
-Shot Chart Detail,0020000263,335,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,MIA,DEN
-Shot Chart Detail,0020000263,394,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,23,1,0,20001206,MIA,DEN
-Shot Chart Detail,0020000263,400,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,144,1,0,20001206,MIA,DEN
-Shot Chart Detail,0020000263,431,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,MIA,DEN
-Shot Chart Detail,0020000263,465,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,MIA,DEN
-Shot Chart Detail,0020000263,483,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001206,MIA,DEN
-Shot Chart Detail,0020000270,197,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001207,ORL,DEN
-Shot Chart Detail,0020000308,301,1110,Mark Strickland,1610612743,Denver Nuggets,3,3,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001212,DEN,MIA
-Shot Chart Detail,0020000323,169,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,42,1,0,20001214,SAS,DEN
-Shot Chart Detail,0020000323,226,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,15,1,0,20001214,SAS,DEN
-Shot Chart Detail,0020000381,424,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001222,DEN,POR
-Shot Chart Detail,0020000381,452,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,42,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001222,DEN,POR
-Shot Chart Detail,0020000381,464,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,-2,1,0,20001222,DEN,POR
-Shot Chart Detail,0020000392,346,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001223,PHX,DEN
-Shot Chart Detail,0020000392,370,1110,Mark Strickland,1610612743,Denver Nuggets,4,11,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,125,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000392,462,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,68,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000392,466,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000392,484,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001223,PHX,DEN
-Shot Chart Detail,0020000405,113,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000405,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000405,318,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,63,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000405,362,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001226,DEN,LAC
-Shot Chart Detail,0020000405,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,DEN,LAC
-Shot Chart Detail,0020000418,139,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001228,DEN,TOR
-Shot Chart Detail,0020000468,225,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010105,DEN,UTA
-Shot Chart Detail,0020000468,361,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,-13,1,1,20010105,DEN,UTA
-Shot Chart Detail,0020000482,129,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,61,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,136,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,40,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-11,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,179,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-15,1,0,20010107,DEN,CHH
-Shot Chart Detail,0020000482,255,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000482,360,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,1,20010107,DEN,CHH
-Shot Chart Detail,0020000499,135,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,26,1,0,20010109,VAN,DEN
-Shot Chart Detail,0020000499,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,63,1,0,20010109,VAN,DEN
-Shot Chart Detail,0020000518,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010112,DEN,SAC
-Shot Chart Detail,0020000518,152,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010112,DEN,SAC
-Shot Chart Detail,0020000518,296,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,158,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,312,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,30,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,343,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,19,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,345,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-8,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000518,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,0,1,0,20010112,DEN,SAC
-Shot Chart Detail,0020000518,413,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010112,DEN,SAC
-Shot Chart Detail,0020000543,104,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010115,DEN,SEA
-Shot Chart Detail,0020000543,136,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-2,1,1,20010115,DEN,SEA
-Shot Chart Detail,0020000543,150,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,7,1,0,20010115,DEN,SEA
-Shot Chart Detail,0020000543,153,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,56,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010115,DEN,SEA
-Shot Chart Detail,0020000555,155,1110,Mark Strickland,1610612743,Denver Nuggets,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-141,141,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,414,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,19,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,416,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-8,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,423,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-63,198,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,444,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,451,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,30,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,454,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-33,203,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,472,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,30,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,473,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000569,176,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,20,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-4,1,0,20010119,DEN,CLE
-Shot Chart Detail,0020000575,374,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-6,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20010120,DAL,DEN
-Shot Chart Detail,0020000575,392,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,70,1,0,20010120,DAL,DEN
-Shot Chart Detail,0020000575,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,440,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,137,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,454,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,15,1,1,20010120,DAL,DEN
-Shot Chart Detail,0020000575,456,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,217,1,0,20010120,DAL,DEN
-Shot Chart Detail,0020000625,55,1110,Mark Strickland,1610612743,Denver Nuggets,1,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20010127,DEN,DAL
-Shot Chart Detail,0020000625,71,1110,Mark Strickland,1610612743,Denver Nuggets,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,40,1,0,20010127,DEN,DAL
-Shot Chart Detail,0020000625,78,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010127,DEN,DAL
-Shot Chart Detail,0020000625,158,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,18,203,1,0,20010127,DEN,DAL
-Shot Chart Detail,0020000625,195,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010127,DEN,DAL
-Shot Chart Detail,0020000635,80,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,11,1,0,20010129,DEN,UTA
-Shot Chart Detail,0020000635,185,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,180,68,1,0,20010129,DEN,UTA
-Shot Chart Detail,0020000635,278,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,15,1,0,20010129,DEN,UTA
-Shot Chart Detail,0020000668,370,1110,Mark Strickland,1610612743,Denver Nuggets,4,11,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,4,1,0,20010203,WAS,DEN
-Shot Chart Detail,0020000683,109,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,42,1,0,20010205,PHI,DEN
-Shot Chart Detail,0020000683,111,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,15,1,0,20010205,PHI,DEN
-Shot Chart Detail,0020000693,214,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,350,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010206,DET,DEN
-Shot Chart Detail,0020000693,363,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,368,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010206,DET,DEN
-Shot Chart Detail,0020000693,409,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-13,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000693,429,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,0,1,0,20010206,DET,DEN
-Shot Chart Detail,0020000742,403,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,142,82,1,0,20010216,SAC,DEN
-Shot Chart Detail,0020000742,407,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,134,93,1,0,20010216,SAC,DEN
-Shot Chart Detail,0020000742,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,26,1,0,20010216,SAC,DEN
-Shot Chart Detail,0020000755,114,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,9,1,0,20010218,DEN,WAS
-Shot Chart Detail,0020000755,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010218,DEN,WAS
-Shot Chart Detail,0020000755,327,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010218,DEN,WAS
-Shot Chart Detail,0020000770,294,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,19,1,0,20010220,POR,DEN
-Shot Chart Detail,0020000770,296,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-77,194,1,0,20010220,POR,DEN
-Shot Chart Detail,0020000770,327,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,9,1,0,20010220,POR,DEN
-Shot Chart Detail,0020000778,300,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,80,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,302,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,178,0,1,0,20010221,SEA,DEN
-Shot Chart Detail,0020000778,316,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,375,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,157,97,1,0,20010221,SEA,DEN
-Shot Chart Detail,0020000778,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,91,1,0,20010221,SEA,DEN
-Shot Chart Detail,0020000778,425,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,432,1110,Mark Strickland,1610612743,Denver Nuggets,4,2,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000778,475,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20010221,SEA,DEN
-Shot Chart Detail,0020000813,121,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20010226,DEN,ORL
-Shot Chart Detail,0020000813,124,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010226,DEN,ORL
-Shot Chart Detail,0020000845,289,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,34,1,0,20010302,DEN,MIN
-Shot Chart Detail,0020000845,305,1110,Mark Strickland,1610612743,Denver Nuggets,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,177,1,0,20010302,DEN,MIN
-Shot Chart Detail,0020000845,418,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010302,DEN,MIN
-Shot Chart Detail,0020000845,441,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010302,DEN,MIN
-Shot Chart Detail,0020000850,291,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,293,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,308,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,333,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,334,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,377,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,4,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000850,386,1110,Mark Strickland,1610612743,Denver Nuggets,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,4,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,445,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010303,PHX,DEN
-Shot Chart Detail,0020000850,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,PHX,DEN
-Shot Chart Detail,0020000865,59,1110,Mark Strickland,1610612743,Denver Nuggets,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,13,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,69,1110,Mark Strickland,1610612743,Denver Nuggets,1,3,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,72,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,34,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,89,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,119,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,153,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,183,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,207,1110,Mark Strickland,1610612743,Denver Nuggets,2,1,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,106,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,289,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,55,1,0,20010305,LAC,DEN
-Shot Chart Detail,0020000865,320,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000865,369,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,LAC,DEN
-Shot Chart Detail,0020000870,78,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,49,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,89,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-4,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,104,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,113,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,106,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,165,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,179,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,133,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,288,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-181,93,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000870,391,1110,Mark Strickland,1610612743,Denver Nuggets,4,5,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010306,DEN,PHX
-Shot Chart Detail,0020000870,469,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010306,DEN,PHX
-Shot Chart Detail,0020000897,82,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,0,20010309,SAC,DEN
-Shot Chart Detail,0020000897,98,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,13,1,0,20010309,SAC,DEN
-Shot Chart Detail,0020000897,116,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,7,1,0,20010309,SAC,DEN
-Shot Chart Detail,0020000897,408,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010309,SAC,DEN
-Shot Chart Detail,0020000917,183,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,0,20010312,GSW,DEN
-Shot Chart Detail,0020000917,188,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,8,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010312,GSW,DEN
-Shot Chart Detail,0020000932,34,1110,Mark Strickland,1610612743,Denver Nuggets,1,7,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,99,1,0,20010314,DEN,IND
-Shot Chart Detail,0020000932,269,1110,Mark Strickland,1610612743,Denver Nuggets,3,5,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,19,1,0,20010314,DEN,IND
-Shot Chart Detail,0020000932,272,1110,Mark Strickland,1610612743,Denver Nuggets,3,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,19,1,1,20010314,DEN,IND
-Shot Chart Detail,0020000948,122,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,59,1,1,20010316,DEN,BOS
-Shot Chart Detail,0020000948,129,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010316,DEN,BOS
-Shot Chart Detail,0020001025,153,1110,Mark Strickland,1610612751,New Jersey Nets,2,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,166,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,169,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,15,1,0,20010328,NJN,DEN
-Shot Chart Detail,0020001025,171,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-141,106,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,175,1110,Mark Strickland,1610612751,New Jersey Nets,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,210,82,1,1,20010328,NJN,DEN
-Shot Chart Detail,0020001025,350,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010328,NJN,DEN
-Shot Chart Detail,0020001025,409,1110,Mark Strickland,1610612751,New Jersey Nets,4,2,19,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20010328,NJN,DEN
-Shot Chart Detail,0020001041,113,1110,Mark Strickland,1610612751,New Jersey Nets,1,0,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,218,1110,Mark Strickland,1610612751,New Jersey Nets,2,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,220,1110,Mark Strickland,1610612751,New Jersey Nets,2,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,TOR,NJN
-Shot Chart Detail,0020001041,233,1110,Mark Strickland,1610612751,New Jersey Nets,2,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001041,414,1110,Mark Strickland,1610612751,New Jersey Nets,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-6,1,0,20010330,TOR,NJN
-Shot Chart Detail,0020001053,114,1110,Mark Strickland,1610612751,New Jersey Nets,2,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,146,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,30,167,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,148,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,160,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,151,1110,Mark Strickland,1610612751,New Jersey Nets,2,6,30,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,15,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,176,1110,Mark Strickland,1610612751,New Jersey Nets,2,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,99,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,203,1110,Mark Strickland,1610612751,New Jersey Nets,2,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-13,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,211,1110,Mark Strickland,1610612751,New Jersey Nets,2,0,3,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,47,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001053,351,1110,Mark Strickland,1610612751,New Jersey Nets,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-6,1,1,20010401,NJN,HOU
-Shot Chart Detail,0020001053,357,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,11,1,0,20010401,NJN,HOU
-Shot Chart Detail,0020001064,132,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,47,1,1,20010403,NJN,CHH
-Shot Chart Detail,0020001064,148,1110,Mark Strickland,1610612751,New Jersey Nets,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,141,1,0,20010403,NJN,CHH
-Shot Chart Detail,0020001064,301,1110,Mark Strickland,1610612751,New Jersey Nets,3,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,47,1,1,20010403,NJN,CHH
-Shot Chart Detail,0020001064,332,1110,Mark Strickland,1610612751,New Jersey Nets,3,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,63,1,0,20010403,NJN,CHH
-Shot Chart Detail,0020001064,339,1110,Mark Strickland,1610612751,New Jersey Nets,3,1,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,122,1,0,20010403,NJN,CHH
-Shot Chart Detail,0020001064,372,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010403,NJN,CHH
-Shot Chart Detail,0020001104,116,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010408,NJN,IND
-Shot Chart Detail,0020001104,296,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,0,1,0,20010408,NJN,IND
-Shot Chart Detail,0020001104,306,1110,Mark Strickland,1610612751,New Jersey Nets,3,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,116,1,0,20010408,NJN,IND
-Shot Chart Detail,0020001133,123,1110,Mark Strickland,1610612751,New Jersey Nets,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,118,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,130,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010412,CHH,NJN
-Shot Chart Detail,0020001133,150,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,76,1,1,20010412,CHH,NJN
-Shot Chart Detail,0020001133,156,1110,Mark Strickland,1610612751,New Jersey Nets,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,101,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,377,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,108,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,406,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,34,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,409,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001133,420,1110,Mark Strickland,1610612751,New Jersey Nets,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,15,1,1,20010412,CHH,NJN
-Shot Chart Detail,0020001133,434,1110,Mark Strickland,1610612751,New Jersey Nets,4,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,30,1,0,20010412,CHH,NJN
-Shot Chart Detail,0020001139,246,1110,Mark Strickland,1610612751,New Jersey Nets,3,8,31,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,15,1,0,20010413,NJN,CLE
-Shot Chart Detail,0020001139,296,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,NJN,CLE
-Shot Chart Detail,0020001139,308,1110,Mark Strickland,1610612751,New Jersey Nets,3,2,30,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,NJN,CLE
-Shot Chart Detail,0020001139,349,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,NJN,CLE
-Shot Chart Detail,0020001154,63,1110,Mark Strickland,1610612751,New Jersey Nets,1,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,4,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,136,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,129,1,1,20010415,BOS,NJN
-Shot Chart Detail,0020001154,155,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,142,108,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,279,1110,Mark Strickland,1610612751,New Jersey Nets,3,6,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,308,1110,Mark Strickland,1610612751,New Jersey Nets,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-6,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,316,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-6,1,1,20010415,BOS,NJN
-Shot Chart Detail,0020001154,357,1110,Mark Strickland,1610612751,New Jersey Nets,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,9,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001154,370,1110,Mark Strickland,1610612751,New Jersey Nets,4,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,85,1,0,20010415,BOS,NJN
-Shot Chart Detail,0020001170,87,1110,Mark Strickland,1610612751,New Jersey Nets,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-13,1,0,20010417,NJN,CHI
-Shot Chart Detail,0020001170,99,1110,Mark Strickland,1610612751,New Jersey Nets,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,28,1,0,20010417,NJN,CHI
-Shot Chart Detail,0020001170,311,1110,Mark Strickland,1610612751,New Jersey Nets,4,11,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010417,NJN,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000020,160,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,19,1,1,20001101,1,SEA,DEN
+Shot Chart Detail,20000020,262,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20001101,0,SEA,DEN
+Shot Chart Detail,20000020,269,1110,Mark Strickland,1610612743,Denver Nuggets,2,1,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,19,1,1,20001101,1,SEA,DEN
+Shot Chart Detail,20000020,534,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,40,1,0,20001101,0,SEA,DEN
+Shot Chart Detail,20000043,73,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-105,120,1,1,20001104,1,DEN,PHX
+Shot Chart Detail,20000043,114,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,11,Missed Shot,Running Tip Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,15,1,0,20001104,0,DEN,PHX
+Shot Chart Detail,20000043,115,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,6,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001104,0,DEN,PHX
+Shot Chart Detail,20000043,117,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001104,0,DEN,PHX
+Shot Chart Detail,20000043,149,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,58,127,1,0,20001104,0,DEN,PHX
+Shot Chart Detail,20000043,369,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20001104,1,DEN,PHX
+Shot Chart Detail,20000043,379,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,15,1,0,20001104,0,DEN,PHX
+Shot Chart Detail,20000043,391,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,-6,1,1,20001104,1,DEN,PHX
+Shot Chart Detail,20000043,401,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,167,106,1,0,20001104,0,DEN,PHX
+Shot Chart Detail,20000043,403,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001104,1,DEN,PHX
+Shot Chart Detail,20000043,439,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001104,1,DEN,PHX
+Shot Chart Detail,20000051,87,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,127,74,1,0,20001106,0,DEN,DAL
+Shot Chart Detail,20000051,93,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,18,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001106,0,DEN,DAL
+Shot Chart Detail,20000097,129,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,34,1,0,20001112,0,DEN,LAC
+Shot Chart Detail,20000097,135,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,-19,1,1,20001112,1,DEN,LAC
+Shot Chart Detail,20000097,144,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001112,1,DEN,LAC
+Shot Chart Detail,20000097,173,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-2,1,1,20001112,1,DEN,LAC
+Shot Chart Detail,20000097,377,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,108,1,0,20001112,0,DEN,LAC
+Shot Chart Detail,20000097,508,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,91,1,1,20001112,1,DEN,LAC
+Shot Chart Detail,20000122,140,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,51,1,1,20001116,1,DEN,CHI
+Shot Chart Detail,20000122,185,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001116,1,DEN,CHI
+Shot Chart Detail,20000122,191,1110,Mark Strickland,1610612743,Denver Nuggets,2,3,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,144,125,1,0,20001116,0,DEN,CHI
+Shot Chart Detail,20000122,235,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,79,173,1,0,20001116,0,DEN,CHI
+Shot Chart Detail,20000122,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,7,1,0,20001116,0,DEN,CHI
+Shot Chart Detail,20000140,157,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-12,184,1,1,20001118,1,DEN,LAL
+Shot Chart Detail,20000152,325,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,15,1,0,20001120,0,VAN,DEN
+Shot Chart Detail,20000166,314,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,11,1,1,20001122,1,UTA,DEN
+Shot Chart Detail,20000166,377,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-132,97,1,1,20001122,1,UTA,DEN
+Shot Chart Detail,20000166,384,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,4,1,0,20001122,0,UTA,DEN
+Shot Chart Detail,20000166,394,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,10,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,61,1,0,20001122,0,UTA,DEN
+Shot Chart Detail,20000166,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,159,137,1,0,20001122,0,UTA,DEN
+Shot Chart Detail,20000166,462,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,15,1,1,20001122,0,UTA,DEN
+Shot Chart Detail,20000187,416,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001125,1,DAL,DEN
+Shot Chart Detail,20000187,422,1110,Mark Strickland,1610612743,Denver Nuggets,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-86,93,1,0,20001125,0,DAL,DEN
+Shot Chart Detail,20000187,443,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001125,0,DAL,DEN
+Shot Chart Detail,20000187,451,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,9,1,0,20001125,0,DAL,DEN
+Shot Chart Detail,20000219,356,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,3,207,1,0,20001130,0,DEN,HOU
+Shot Chart Detail,20000263,335,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,1,MIA,DEN
+Shot Chart Detail,20000263,394,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,23,1,0,20001206,0,MIA,DEN
+Shot Chart Detail,20000263,400,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-1,144,1,0,20001206,0,MIA,DEN
+Shot Chart Detail,20000263,431,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,0,MIA,DEN
+Shot Chart Detail,20000263,465,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001206,0,MIA,DEN
+Shot Chart Detail,20000263,483,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001206,0,MIA,DEN
+Shot Chart Detail,20000270,197,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001207,0,ORL,DEN
+Shot Chart Detail,20000308,301,1110,Mark Strickland,1610612743,Denver Nuggets,3,3,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001212,1,DEN,MIA
+Shot Chart Detail,20000323,169,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,42,1,0,20001214,0,SAS,DEN
+Shot Chart Detail,20000323,226,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,15,1,0,20001214,0,SAS,DEN
+Shot Chart Detail,20000381,424,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001222,0,DEN,POR
+Shot Chart Detail,20000381,452,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,42,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001222,0,DEN,POR
+Shot Chart Detail,20000381,464,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,-2,1,0,20001222,0,DEN,POR
+Shot Chart Detail,20000392,346,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001223,1,PHX,DEN
+Shot Chart Detail,20000392,370,1110,Mark Strickland,1610612743,Denver Nuggets,4,11,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,125,1,0,20001223,0,PHX,DEN
+Shot Chart Detail,20000392,462,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,68,1,0,20001223,0,PHX,DEN
+Shot Chart Detail,20000392,466,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001223,0,PHX,DEN
+Shot Chart Detail,20000392,484,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001223,0,PHX,DEN
+Shot Chart Detail,20000405,113,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,1,DEN,LAC
+Shot Chart Detail,20000405,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,1,DEN,LAC
+Shot Chart Detail,20000405,318,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,56,63,1,1,20001226,1,DEN,LAC
+Shot Chart Detail,20000405,362,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001226,0,DEN,LAC
+Shot Chart Detail,20000405,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001226,0,DEN,LAC
+Shot Chart Detail,20000418,139,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001228,0,DEN,TOR
+Shot Chart Detail,20000468,225,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010105,0,DEN,UTA
+Shot Chart Detail,20000468,361,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,-13,1,1,20010105,1,DEN,UTA
+Shot Chart Detail,20000482,129,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,28,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,61,1,1,20010107,0,DEN,CHH
+Shot Chart Detail,20000482,136,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,40,1,1,20010107,1,DEN,CHH
+Shot Chart Detail,20000482,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-11,1,1,20010107,1,DEN,CHH
+Shot Chart Detail,20000482,179,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-15,1,0,20010107,0,DEN,CHH
+Shot Chart Detail,20000482,255,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,1,20010107,1,DEN,CHH
+Shot Chart Detail,20000482,360,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,-27,1,1,20010107,1,DEN,CHH
+Shot Chart Detail,20000499,135,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,26,1,0,20010109,0,VAN,DEN
+Shot Chart Detail,20000499,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,63,1,0,20010109,0,VAN,DEN
+Shot Chart Detail,20000518,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010112,0,DEN,SAC
+Shot Chart Detail,20000518,152,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010112,0,DEN,SAC
+Shot Chart Detail,20000518,296,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,108,158,1,1,20010112,1,DEN,SAC
+Shot Chart Detail,20000518,312,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,30,1,1,20010112,1,DEN,SAC
+Shot Chart Detail,20000518,343,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,19,1,1,20010112,1,DEN,SAC
+Shot Chart Detail,20000518,345,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-8,1,1,20010112,1,DEN,SAC
+Shot Chart Detail,20000518,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,0,1,0,20010112,0,DEN,SAC
+Shot Chart Detail,20000518,413,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010112,1,DEN,SAC
+Shot Chart Detail,20000543,104,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010115,1,DEN,SEA
+Shot Chart Detail,20000543,136,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-2,1,1,20010115,1,DEN,SEA
+Shot Chart Detail,20000543,150,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,7,1,0,20010115,0,DEN,SEA
+Shot Chart Detail,20000543,153,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,56,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010115,1,DEN,SEA
+Shot Chart Detail,20000555,155,1110,Mark Strickland,1610612743,Denver Nuggets,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-141,141,1,0,20010117,0,DEN,VAN
+Shot Chart Detail,20000555,414,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,19,1,1,20010117,1,DEN,VAN
+Shot Chart Detail,20000555,416,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,-8,1,1,20010117,1,DEN,VAN
+Shot Chart Detail,20000555,423,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-63,198,1,0,20010117,0,DEN,VAN
+Shot Chart Detail,20000555,444,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010117,1,DEN,VAN
+Shot Chart Detail,20000555,451,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,30,1,1,20010117,1,DEN,VAN
+Shot Chart Detail,20000555,454,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-33,203,1,1,20010117,1,DEN,VAN
+Shot Chart Detail,20000555,472,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,30,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010117,0,DEN,VAN
+Shot Chart Detail,20000555,473,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010117,0,DEN,VAN
+Shot Chart Detail,20000569,176,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,20,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-4,1,0,20010119,0,DEN,CLE
+Shot Chart Detail,20000575,374,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-6,1,1,20010120,1,DAL,DEN
+Shot Chart Detail,20000575,383,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20010120,0,DAL,DEN
+Shot Chart Detail,20000575,392,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,70,1,0,20010120,0,DAL,DEN
+Shot Chart Detail,20000575,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010120,1,DAL,DEN
+Shot Chart Detail,20000575,440,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,125,137,1,1,20010120,0,DAL,DEN
+Shot Chart Detail,20000575,454,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,15,1,1,20010120,1,DAL,DEN
+Shot Chart Detail,20000575,456,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,110,217,1,0,20010120,0,DAL,DEN
+Shot Chart Detail,20000625,55,1110,Mark Strickland,1610612743,Denver Nuggets,1,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20010127,0,DEN,DAL
+Shot Chart Detail,20000625,71,1110,Mark Strickland,1610612743,Denver Nuggets,1,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,205,40,1,0,20010127,0,DEN,DAL
+Shot Chart Detail,20000625,78,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,36,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010127,1,DEN,DAL
+Shot Chart Detail,20000625,158,1110,Mark Strickland,1610612743,Denver Nuggets,2,5,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,18,203,1,0,20010127,0,DEN,DAL
+Shot Chart Detail,20000625,195,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010127,0,DEN,DAL
+Shot Chart Detail,20000635,80,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,11,1,0,20010129,0,DEN,UTA
+Shot Chart Detail,20000635,185,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,180,68,1,0,20010129,0,DEN,UTA
+Shot Chart Detail,20000635,278,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,15,1,0,20010129,0,DEN,UTA
+Shot Chart Detail,20000668,370,1110,Mark Strickland,1610612743,Denver Nuggets,4,11,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,4,1,0,20010203,0,WAS,DEN
+Shot Chart Detail,20000683,109,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,42,1,0,20010205,0,PHI,DEN
+Shot Chart Detail,20000683,111,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,15,1,0,20010205,0,PHI,DEN
+Shot Chart Detail,20000693,214,1110,Mark Strickland,1610612743,Denver Nuggets,2,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,0,DET,DEN
+Shot Chart Detail,20000693,350,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010206,1,DET,DEN
+Shot Chart Detail,20000693,363,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,0,DET,DEN
+Shot Chart Detail,20000693,368,1110,Mark Strickland,1610612743,Denver Nuggets,4,7,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010206,0,DET,DEN
+Shot Chart Detail,20000693,409,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-178,-13,1,0,20010206,0,DET,DEN
+Shot Chart Detail,20000693,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,1,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010206,0,DET,DEN
+Shot Chart Detail,20000693,429,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,0,1,0,20010206,0,DET,DEN
+Shot Chart Detail,20000742,403,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,142,82,1,0,20010216,0,SAC,DEN
+Shot Chart Detail,20000742,407,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,134,93,1,0,20010216,0,SAC,DEN
+Shot Chart Detail,20000742,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-58,26,1,0,20010216,0,SAC,DEN
+Shot Chart Detail,20000755,114,1110,Mark Strickland,1610612743,Denver Nuggets,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,9,1,0,20010218,0,DEN,WAS
+Shot Chart Detail,20000755,138,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010218,0,DEN,WAS
+Shot Chart Detail,20000755,327,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010218,1,DEN,WAS
+Shot Chart Detail,20000770,294,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,19,1,0,20010220,0,POR,DEN
+Shot Chart Detail,20000770,296,1110,Mark Strickland,1610612743,Denver Nuggets,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-77,194,1,0,20010220,0,POR,DEN
+Shot Chart Detail,20000770,327,1110,Mark Strickland,1610612743,Denver Nuggets,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-98,9,1,0,20010220,0,POR,DEN
+Shot Chart Detail,20000778,300,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,80,1,1,20010221,1,SEA,DEN
+Shot Chart Detail,20000778,302,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,178,0,1,0,20010221,0,SEA,DEN
+Shot Chart Detail,20000778,316,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20010221,0,SEA,DEN
+Shot Chart Detail,20000778,375,1110,Mark Strickland,1610612743,Denver Nuggets,4,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,157,97,1,0,20010221,0,SEA,DEN
+Shot Chart Detail,20000778,421,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,91,1,0,20010221,0,SEA,DEN
+Shot Chart Detail,20000778,425,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010221,1,SEA,DEN
+Shot Chart Detail,20000778,432,1110,Mark Strickland,1610612743,Denver Nuggets,4,2,46,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010221,1,SEA,DEN
+Shot Chart Detail,20000778,475,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,1,20010221,0,SEA,DEN
+Shot Chart Detail,20000813,121,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20010226,0,DEN,ORL
+Shot Chart Detail,20000813,124,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010226,0,DEN,ORL
+Shot Chart Detail,20000845,289,1110,Mark Strickland,1610612743,Denver Nuggets,3,4,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,34,1,0,20010302,0,DEN,MIN
+Shot Chart Detail,20000845,305,1110,Mark Strickland,1610612743,Denver Nuggets,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,115,177,1,0,20010302,0,DEN,MIN
+Shot Chart Detail,20000845,418,1110,Mark Strickland,1610612743,Denver Nuggets,4,3,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010302,0,DEN,MIN
+Shot Chart Detail,20000845,441,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010302,0,DEN,MIN
+Shot Chart Detail,20000850,291,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,1,PHX,DEN
+Shot Chart Detail,20000850,293,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,15,1,0,20010303,0,PHX,DEN
+Shot Chart Detail,20000850,308,1110,Mark Strickland,1610612743,Denver Nuggets,3,1,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,1,PHX,DEN
+Shot Chart Detail,20000850,333,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010303,0,PHX,DEN
+Shot Chart Detail,20000850,334,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,0,PHX,DEN
+Shot Chart Detail,20000850,377,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,4,1,1,20010303,1,PHX,DEN
+Shot Chart Detail,20000850,386,1110,Mark Strickland,1610612743,Denver Nuggets,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,4,1,0,20010303,0,PHX,DEN
+Shot Chart Detail,20000850,445,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010303,0,PHX,DEN
+Shot Chart Detail,20000850,449,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010303,1,PHX,DEN
+Shot Chart Detail,20000865,59,1110,Mark Strickland,1610612743,Denver Nuggets,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-132,13,1,0,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,69,1110,Mark Strickland,1610612743,Denver Nuggets,1,3,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,1,LAC,DEN
+Shot Chart Detail,20000865,72,1110,Mark Strickland,1610612743,Denver Nuggets,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,34,1,1,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,89,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,119,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,153,1110,Mark Strickland,1610612743,Denver Nuggets,2,6,56,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,1,LAC,DEN
+Shot Chart Detail,20000865,183,1110,Mark Strickland,1610612743,Denver Nuggets,2,4,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,1,LAC,DEN
+Shot Chart Detail,20000865,207,1110,Mark Strickland,1610612743,Denver Nuggets,2,1,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,106,1,0,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,289,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,55,1,0,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,320,1110,Mark Strickland,1610612743,Denver Nuggets,4,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,0,LAC,DEN
+Shot Chart Detail,20000865,369,1110,Mark Strickland,1610612743,Denver Nuggets,4,4,19,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010305,1,LAC,DEN
+Shot Chart Detail,20000870,78,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,49,1,0,20010306,0,DEN,PHX
+Shot Chart Detail,20000870,89,1110,Mark Strickland,1610612743,Denver Nuggets,1,0,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-4,1,1,20010306,1,DEN,PHX
+Shot Chart Detail,20000870,104,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010306,0,DEN,PHX
+Shot Chart Detail,20000870,113,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-166,106,1,1,20010306,1,DEN,PHX
+Shot Chart Detail,20000870,118,1110,Mark Strickland,1610612743,Denver Nuggets,2,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,165,1,0,20010306,0,DEN,PHX
+Shot Chart Detail,20000870,179,1110,Mark Strickland,1610612743,Denver Nuggets,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,133,1,0,20010306,0,DEN,PHX
+Shot Chart Detail,20000870,288,1110,Mark Strickland,1610612743,Denver Nuggets,3,2,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-181,93,1,0,20010306,0,DEN,PHX
+Shot Chart Detail,20000870,391,1110,Mark Strickland,1610612743,Denver Nuggets,4,5,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010306,1,DEN,PHX
+Shot Chart Detail,20000870,469,1110,Mark Strickland,1610612743,Denver Nuggets,4,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010306,0,DEN,PHX
+Shot Chart Detail,20000897,82,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,0,1,0,20010309,0,SAC,DEN
+Shot Chart Detail,20000897,98,1110,Mark Strickland,1610612743,Denver Nuggets,1,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,13,1,0,20010309,0,SAC,DEN
+Shot Chart Detail,20000897,116,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,7,1,0,20010309,0,SAC,DEN
+Shot Chart Detail,20000897,408,1110,Mark Strickland,1610612743,Denver Nuggets,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010309,1,SAC,DEN
+Shot Chart Detail,20000917,183,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,0,20010312,0,GSW,DEN
+Shot Chart Detail,20000917,188,1110,Mark Strickland,1610612743,Denver Nuggets,2,7,8,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010312,0,GSW,DEN
+Shot Chart Detail,20000932,34,1110,Mark Strickland,1610612743,Denver Nuggets,1,7,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,99,1,0,20010314,0,DEN,IND
+Shot Chart Detail,20000932,269,1110,Mark Strickland,1610612743,Denver Nuggets,3,5,55,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,19,1,0,20010314,0,DEN,IND
+Shot Chart Detail,20000932,272,1110,Mark Strickland,1610612743,Denver Nuggets,3,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,19,1,1,20010314,1,DEN,IND
+Shot Chart Detail,20000948,122,1110,Mark Strickland,1610612743,Denver Nuggets,2,10,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,59,1,1,20010316,1,DEN,BOS
+Shot Chart Detail,20000948,129,1110,Mark Strickland,1610612743,Denver Nuggets,2,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010316,0,DEN,BOS
+Shot Chart Detail,20001025,153,1110,Mark Strickland,1610612751,New Jersey Nets,2,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,0,NJN,DEN
+Shot Chart Detail,20001025,166,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,36,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,0,NJN,DEN
+Shot Chart Detail,20001025,169,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,15,1,0,20010328,0,NJN,DEN
+Shot Chart Detail,20001025,171,1110,Mark Strickland,1610612751,New Jersey Nets,2,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-141,106,1,1,20010328,0,NJN,DEN
+Shot Chart Detail,20001025,175,1110,Mark Strickland,1610612751,New Jersey Nets,2,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,210,82,1,1,20010328,1,NJN,DEN
+Shot Chart Detail,20001025,350,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010328,0,NJN,DEN
+Shot Chart Detail,20001025,409,1110,Mark Strickland,1610612751,New Jersey Nets,4,2,19,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20010328,0,NJN,DEN
+Shot Chart Detail,20001041,113,1110,Mark Strickland,1610612751,New Jersey Nets,1,0,48,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,218,1110,Mark Strickland,1610612751,New Jersey Nets,2,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,220,1110,Mark Strickland,1610612751,New Jersey Nets,2,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,233,1110,Mark Strickland,1610612751,New Jersey Nets,2,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001041,414,1110,Mark Strickland,1610612751,New Jersey Nets,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,129,-6,1,0,20010330,0,TOR,NJN
+Shot Chart Detail,20001053,114,1110,Mark Strickland,1610612751,New Jersey Nets,2,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,0,20010401,0,NJN,HOU
+Shot Chart Detail,20001053,146,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,30,167,1,1,20010401,1,NJN,HOU
+Shot Chart Detail,20001053,148,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,160,1,1,20010401,1,NJN,HOU
+Shot Chart Detail,20001053,151,1110,Mark Strickland,1610612751,New Jersey Nets,2,6,30,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,15,1,0,20010401,0,NJN,HOU
+Shot Chart Detail,20001053,176,1110,Mark Strickland,1610612751,New Jersey Nets,2,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,99,1,1,20010401,1,NJN,HOU
+Shot Chart Detail,20001053,203,1110,Mark Strickland,1610612751,New Jersey Nets,2,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-13,1,0,20010401,0,NJN,HOU
+Shot Chart Detail,20001053,211,1110,Mark Strickland,1610612751,New Jersey Nets,2,0,3,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,47,1,0,20010401,0,NJN,HOU
+Shot Chart Detail,20001053,351,1110,Mark Strickland,1610612751,New Jersey Nets,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,-6,1,1,20010401,1,NJN,HOU
+Shot Chart Detail,20001053,357,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,11,1,0,20010401,0,NJN,HOU
+Shot Chart Detail,20001064,132,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,180,47,1,1,20010403,0,NJN,CHH
+Shot Chart Detail,20001064,148,1110,Mark Strickland,1610612751,New Jersey Nets,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,100,141,1,0,20010403,0,NJN,CHH
+Shot Chart Detail,20001064,301,1110,Mark Strickland,1610612751,New Jersey Nets,3,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,47,1,1,20010403,1,NJN,CHH
+Shot Chart Detail,20001064,332,1110,Mark Strickland,1610612751,New Jersey Nets,3,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-128,63,1,0,20010403,0,NJN,CHH
+Shot Chart Detail,20001064,339,1110,Mark Strickland,1610612751,New Jersey Nets,3,1,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-84,122,1,0,20010403,0,NJN,CHH
+Shot Chart Detail,20001064,372,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010403,0,NJN,CHH
+Shot Chart Detail,20001104,116,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010408,0,NJN,IND
+Shot Chart Detail,20001104,296,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,0,1,0,20010408,0,NJN,IND
+Shot Chart Detail,20001104,306,1110,Mark Strickland,1610612751,New Jersey Nets,3,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,129,116,1,0,20010408,0,NJN,IND
+Shot Chart Detail,20001133,123,1110,Mark Strickland,1610612751,New Jersey Nets,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,118,1,0,20010412,0,CHH,NJN
+Shot Chart Detail,20001133,130,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010412,1,CHH,NJN
+Shot Chart Detail,20001133,150,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,76,1,1,20010412,1,CHH,NJN
+Shot Chart Detail,20001133,156,1110,Mark Strickland,1610612751,New Jersey Nets,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,101,1,0,20010412,0,CHH,NJN
+Shot Chart Detail,20001133,377,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,108,1,0,20010412,0,CHH,NJN
+Shot Chart Detail,20001133,406,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,34,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010412,0,CHH,NJN
+Shot Chart Detail,20001133,409,1110,Mark Strickland,1610612751,New Jersey Nets,4,7,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010412,0,CHH,NJN
+Shot Chart Detail,20001133,420,1110,Mark Strickland,1610612751,New Jersey Nets,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,15,1,1,20010412,1,CHH,NJN
+Shot Chart Detail,20001133,434,1110,Mark Strickland,1610612751,New Jersey Nets,4,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,30,1,0,20010412,0,CHH,NJN
+Shot Chart Detail,20001139,246,1110,Mark Strickland,1610612751,New Jersey Nets,3,8,31,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,15,1,0,20010413,0,NJN,CLE
+Shot Chart Detail,20001139,296,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,39,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,0,NJN,CLE
+Shot Chart Detail,20001139,308,1110,Mark Strickland,1610612751,New Jersey Nets,3,2,30,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,0,NJN,CLE
+Shot Chart Detail,20001139,349,1110,Mark Strickland,1610612751,New Jersey Nets,4,10,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,0,NJN,CLE
+Shot Chart Detail,20001154,63,1110,Mark Strickland,1610612751,New Jersey Nets,1,4,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,4,1,0,20010415,0,BOS,NJN
+Shot Chart Detail,20001154,136,1110,Mark Strickland,1610612751,New Jersey Nets,2,9,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,129,1,1,20010415,1,BOS,NJN
+Shot Chart Detail,20001154,155,1110,Mark Strickland,1610612751,New Jersey Nets,2,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,142,108,1,0,20010415,0,BOS,NJN
+Shot Chart Detail,20001154,279,1110,Mark Strickland,1610612751,New Jersey Nets,3,6,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,15,1,0,20010415,0,BOS,NJN
+Shot Chart Detail,20001154,308,1110,Mark Strickland,1610612751,New Jersey Nets,3,4,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-6,1,0,20010415,0,BOS,NJN
+Shot Chart Detail,20001154,316,1110,Mark Strickland,1610612751,New Jersey Nets,3,3,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-6,1,1,20010415,1,BOS,NJN
+Shot Chart Detail,20001154,357,1110,Mark Strickland,1610612751,New Jersey Nets,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,9,1,0,20010415,0,BOS,NJN
+Shot Chart Detail,20001154,370,1110,Mark Strickland,1610612751,New Jersey Nets,4,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,85,1,0,20010415,0,BOS,NJN
+Shot Chart Detail,20001170,87,1110,Mark Strickland,1610612751,New Jersey Nets,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-13,1,0,20010417,0,NJN,CHI
+Shot Chart Detail,20001170,99,1110,Mark Strickland,1610612751,New Jersey Nets,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,28,1,0,20010417,0,NJN,CHI
+Shot Chart Detail,20001170,311,1110,Mark Strickland,1610612751,New Jersey Nets,4,11,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010417,0,NJN,CHI

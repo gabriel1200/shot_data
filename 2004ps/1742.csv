@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040300132,487,1742,Shammond Williams,1610612740,New Orleans Hornets,4,0,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040421,MIA,NOH
-Shot Chart Detail,0040300137,361,1742,Shammond Williams,1610612740,New Orleans Hornets,4,6,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,33,114,1,0,20040504,MIA,NOH
-Shot Chart Detail,0040300137,382,1742,Shammond Williams,1610612740,New Orleans Hornets,4,5,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040504,MIA,NOH
-Shot Chart Detail,0040300137,431,1742,Shammond Williams,1610612740,New Orleans Hornets,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,213,120,1,0,20040504,MIA,NOH
-Shot Chart Detail,0040300137,444,1742,Shammond Williams,1610612740,New Orleans Hornets,4,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040504,MIA,NOH
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40300132,487,1742,Shammond Williams,1610612740,New Orleans Hornets,4,0,24,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040421,0,MIA,NOH
+Shot Chart Detail,40300137,361,1742,Shammond Williams,1610612740,New Orleans Hornets,4,6,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,33,114,1,0,20040504,0,MIA,NOH
+Shot Chart Detail,40300137,382,1742,Shammond Williams,1610612740,New Orleans Hornets,4,5,53,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040504,0,MIA,NOH
+Shot Chart Detail,40300137,431,1742,Shammond Williams,1610612740,New Orleans Hornets,4,0,51,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,213,120,1,0,20040504,0,MIA,NOH
+Shot Chart Detail,40300137,444,1742,Shammond Williams,1610612740,New Orleans Hornets,4,0,36,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040504,0,MIA,NOH

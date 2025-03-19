@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041600103,452,201627,Anthony Morrow,1610612741,Chicago Bulls,4,2,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,-11,1,1,20170421,CHI,BOS
-Shot Chart Detail,0041600103,469,201627,Anthony Morrow,1610612741,Chicago Bulls,4,1,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,36,1,1,20170421,CHI,BOS
-Shot Chart Detail,0041600105,137,201627,Anthony Morrow,1610612741,Chicago Bulls,2,10,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,11,1,1,20170426,BOS,CHI
-Shot Chart Detail,0041600105,154,201627,Anthony Morrow,1610612741,Chicago Bulls,2,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,139,1,1,20170426,BOS,CHI
-Shot Chart Detail,0041600105,200,201627,Anthony Morrow,1610612741,Chicago Bulls,2,4,14,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-1,1,1,20170426,BOS,CHI
-Shot Chart Detail,0041600105,203,201627,Anthony Morrow,1610612741,Chicago Bulls,2,3,31,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20170426,BOS,CHI
-Shot Chart Detail,0041600105,477,201627,Anthony Morrow,1610612741,Chicago Bulls,4,1,36,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,46,1,0,20170426,BOS,CHI
-Shot Chart Detail,0041600106,136,201627,Anthony Morrow,1610612741,Chicago Bulls,2,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-122,169,1,0,20170428,CHI,BOS
-Shot Chart Detail,0041600106,144,201627,Anthony Morrow,1610612741,Chicago Bulls,2,8,39,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,75,1,0,20170428,CHI,BOS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41600103,452,201627,Anthony Morrow,1610612741,Chicago Bulls,4,2,47,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,194,-11,1,1,20170421,1,CHI,BOS
+Shot Chart Detail,41600103,469,201627,Anthony Morrow,1610612741,Chicago Bulls,4,1,8,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,36,1,1,20170421,1,CHI,BOS
+Shot Chart Detail,41600105,137,201627,Anthony Morrow,1610612741,Chicago Bulls,2,10,16,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,150,11,1,1,20170426,0,BOS,CHI
+Shot Chart Detail,41600105,154,201627,Anthony Morrow,1610612741,Chicago Bulls,2,8,18,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,139,1,1,20170426,1,BOS,CHI
+Shot Chart Detail,41600105,200,201627,Anthony Morrow,1610612741,Chicago Bulls,2,4,14,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,-1,1,1,20170426,1,BOS,CHI
+Shot Chart Detail,41600105,203,201627,Anthony Morrow,1610612741,Chicago Bulls,2,3,31,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20170426,0,BOS,CHI
+Shot Chart Detail,41600105,477,201627,Anthony Morrow,1610612741,Chicago Bulls,4,1,36,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,46,1,0,20170426,0,BOS,CHI
+Shot Chart Detail,41600106,136,201627,Anthony Morrow,1610612741,Chicago Bulls,2,9,43,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-122,169,1,0,20170428,0,CHI,BOS
+Shot Chart Detail,41600106,144,201627,Anthony Morrow,1610612741,Chicago Bulls,2,8,39,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,4,75,1,0,20170428,0,CHI,BOS

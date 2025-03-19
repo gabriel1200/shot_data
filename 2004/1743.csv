@@ -1,21 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300153,125,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,49,1,0,20031119,WAS,CLE
-Shot Chart Detail,0020300153,137,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,49,158,1,1,20031119,WAS,CLE
-Shot Chart Detail,0020300177,442,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,163,1,1,20031122,ATL,CLE
-Shot Chart Detail,0020300177,463,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,28,1,1,20031122,ATL,CLE
-Shot Chart Detail,0020300203,128,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,206,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300203,350,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,9,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300203,356,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300203,379,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,8,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300334,110,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-23,1,0,20031215,IND,CLE
-Shot Chart Detail,0020300663,480,1743,Bruno Sundov,1610612752,New York Knicks,4,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20040130,BOS,NYK
-Shot Chart Detail,0020300153,125,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,49,1,0,20031119,WAS,CLE
-Shot Chart Detail,0020300153,137,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,49,158,1,1,20031119,WAS,CLE
-Shot Chart Detail,0020300177,442,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,163,1,1,20031122,ATL,CLE
-Shot Chart Detail,0020300177,463,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,28,1,1,20031122,ATL,CLE
-Shot Chart Detail,0020300203,128,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,206,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300203,350,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,9,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300203,356,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300203,379,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,8,5,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,NOH,CLE
-Shot Chart Detail,0020300334,110,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-23,1,0,20031215,IND,CLE
-Shot Chart Detail,0020300663,480,1743,Bruno Sundov,1610612752,New York Knicks,4,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20040130,BOS,NYK
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300663,480,1743,Bruno Sundov,1610612752,New York Knicks,4,2,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20040130,0,BOS,NYK
+Shot Chart Detail,20300153,125,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,11,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,49,1,0,20031119,0,WAS,CLE
+Shot Chart Detail,20300153,137,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,9,54,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,49,158,1,1,20031119,1,WAS,CLE
+Shot Chart Detail,20300177,442,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,163,1,1,20031122,1,ATL,CLE
+Shot Chart Detail,20300177,463,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,28,1,1,20031122,1,ATL,CLE
+Shot Chart Detail,20300203,128,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,9,12,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,1,206,1,0,20031126,0,NOH,CLE
+Shot Chart Detail,20300203,350,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,9,58,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,0,NOH,CLE
+Shot Chart Detail,20300203,356,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,9,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,0,NOH,CLE
+Shot Chart Detail,20300203,379,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,4,8,5,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031126,0,NOH,CLE
+Shot Chart Detail,20300334,110,1743,Bruno Sundov,1610612739,Cleveland Cavaliers,2,10,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-187,-23,1,0,20031215,0,IND,CLE

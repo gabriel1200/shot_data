@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040200153,172,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-21,1,1,20030426,UTA,SAC
-Shot Chart Detail,0040200153,179,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,130,1,0,20030426,UTA,SAC
-Shot Chart Detail,0040200153,182,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,5,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030426,UTA,SAC
-Shot Chart Detail,0040200154,313,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,40,1,0,20030428,UTA,SAC
-Shot Chart Detail,0040200154,329,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,171,1,0,20030428,UTA,SAC
-Shot Chart Detail,0040200154,342,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,71,166,699,1,0,20030428,UTA,SAC
-Shot Chart Detail,0040200154,461,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,1,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,120,1,0,20030428,UTA,SAC
-Shot Chart Detail,0040200155,214,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,3,27,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-11,100,1,1,20030430,SAC,UTA
-Shot Chart Detail,0040200155,225,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-110,181,1,1,20030430,SAC,UTA
-Shot Chart Detail,0040200155,360,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,1,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-8,1,0,20030430,SAC,UTA
-Shot Chart Detail,0040200155,413,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,9,25,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030430,SAC,UTA
-Shot Chart Detail,0040200155,419,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,8,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,125,1,1,20030430,SAC,UTA
-Shot Chart Detail,0040200155,445,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,5,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-181,58,1,0,20030430,SAC,UTA
-Shot Chart Detail,0040200155,478,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,28,1,1,20030430,SAC,UTA
-Shot Chart Detail,0040200155,482,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,191,1,0,20030430,SAC,UTA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40200153,172,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,6,7,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,-21,1,1,20030426,1,UTA,SAC
+Shot Chart Detail,40200153,179,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,5,8,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,138,130,1,0,20030426,0,UTA,SAC
+Shot Chart Detail,40200153,182,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,5,0,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030426,0,UTA,SAC
+Shot Chart Detail,40200154,313,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,2,32,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,166,40,1,0,20030428,0,UTA,SAC
+Shot Chart Detail,40200154,329,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,0,54,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,0,171,1,0,20030428,0,UTA,SAC
+Shot Chart Detail,40200154,342,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,71,166,699,1,0,20030428,0,UTA,SAC
+Shot Chart Detail,40200154,461,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,1,35,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,120,1,0,20030428,0,UTA,SAC
+Shot Chart Detail,40200155,214,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,3,27,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-11,100,1,1,20030430,0,SAC,UTA
+Shot Chart Detail,40200155,225,2052,DeShawn Stevenson,1610612762,Utah Jazz,2,1,31,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-110,181,1,1,20030430,1,SAC,UTA
+Shot Chart Detail,40200155,360,2052,DeShawn Stevenson,1610612762,Utah Jazz,3,1,2,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-220,-8,1,0,20030430,0,SAC,UTA
+Shot Chart Detail,40200155,413,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,9,25,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030430,0,SAC,UTA
+Shot Chart Detail,40200155,419,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,8,46,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-161,125,1,1,20030430,1,SAC,UTA
+Shot Chart Detail,40200155,445,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,5,59,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-181,58,1,0,20030430,0,SAC,UTA
+Shot Chart Detail,40200155,478,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,2,35,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,153,28,1,1,20030430,1,SAC,UTA
+Shot Chart Detail,40200155,482,2052,DeShawn Stevenson,1610612762,Utah Jazz,4,1,52,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,79,191,1,0,20030430,0,SAC,UTA

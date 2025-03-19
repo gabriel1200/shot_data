@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040400161,158,722,Corliss Williamson,1610612758,Sacramento Kings,2,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,179,1,1,20050423,SEA,SAC
-Shot Chart Detail,0040400161,185,722,Corliss Williamson,1610612758,Sacramento Kings,2,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-123,158,1,0,20050423,SEA,SAC
-Shot Chart Detail,0040400162,217,722,Corliss Williamson,1610612758,Sacramento Kings,2,2,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,79,1,1,20050426,SEA,SAC
-Shot Chart Detail,0040400163,371,722,Corliss Williamson,1610612758,Sacramento Kings,4,10,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-3,1,0,20050429,SAC,SEA
-Shot Chart Detail,0040400163,397,722,Corliss Williamson,1610612758,Sacramento Kings,4,8,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050429,SAC,SEA
-Shot Chart Detail,0040400163,399,722,Corliss Williamson,1610612758,Sacramento Kings,4,8,8,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050429,SAC,SEA
-Shot Chart Detail,0040400164,119,722,Corliss Williamson,1610612758,Sacramento Kings,2,10,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050501,SAC,SEA
-Shot Chart Detail,0040400164,127,722,Corliss Williamson,1610612758,Sacramento Kings,2,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050501,SAC,SEA
-Shot Chart Detail,0040400164,325,722,Corliss Williamson,1610612758,Sacramento Kings,3,2,48,Made Shot,Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,1,20050501,SAC,SEA
-Shot Chart Detail,0040400164,343,722,Corliss Williamson,1610612758,Sacramento Kings,3,0,1,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,54,1,0,20050501,SAC,SEA
-Shot Chart Detail,0040400164,357,722,Corliss Williamson,1610612758,Sacramento Kings,4,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-77,156,1,0,20050501,SAC,SEA
-Shot Chart Detail,0040400164,369,722,Corliss Williamson,1610612758,Sacramento Kings,4,8,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-6,1,0,20050501,SAC,SEA
-Shot Chart Detail,0040400165,118,722,Corliss Williamson,1610612758,Sacramento Kings,1,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-94,20,1,0,20050503,SEA,SAC
-Shot Chart Detail,0040400165,128,722,Corliss Williamson,1610612758,Sacramento Kings,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-189,179,1,0,20050503,SEA,SAC
-Shot Chart Detail,0040400165,386,722,Corliss Williamson,1610612758,Sacramento Kings,4,10,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,40,1,1,20050503,SEA,SAC
-Shot Chart Detail,0040400165,416,722,Corliss Williamson,1610612758,Sacramento Kings,4,7,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20050503,SEA,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40400161,158,722,Corliss Williamson,1610612758,Sacramento Kings,2,8,58,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-6,179,1,1,20050423,1,SEA,SAC
+Shot Chart Detail,40400161,185,722,Corliss Williamson,1610612758,Sacramento Kings,2,7,7,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-123,158,1,0,20050423,0,SEA,SAC
+Shot Chart Detail,40400162,217,722,Corliss Williamson,1610612758,Sacramento Kings,2,2,46,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,79,1,1,20050426,1,SEA,SAC
+Shot Chart Detail,40400163,371,722,Corliss Williamson,1610612758,Sacramento Kings,4,10,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,-3,1,0,20050429,0,SAC,SEA
+Shot Chart Detail,40400163,397,722,Corliss Williamson,1610612758,Sacramento Kings,4,8,9,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050429,0,SAC,SEA
+Shot Chart Detail,40400163,399,722,Corliss Williamson,1610612758,Sacramento Kings,4,8,8,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050429,0,SAC,SEA
+Shot Chart Detail,40400164,119,722,Corliss Williamson,1610612758,Sacramento Kings,2,10,18,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050501,1,SAC,SEA
+Shot Chart Detail,40400164,127,722,Corliss Williamson,1610612758,Sacramento Kings,2,9,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050501,0,SAC,SEA
+Shot Chart Detail,40400164,325,722,Corliss Williamson,1610612758,Sacramento Kings,3,2,48,Made Shot,Finger Roll Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,1,20050501,1,SAC,SEA
+Shot Chart Detail,40400164,343,722,Corliss Williamson,1610612758,Sacramento Kings,3,0,1,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,54,1,0,20050501,0,SAC,SEA
+Shot Chart Detail,40400164,357,722,Corliss Williamson,1610612758,Sacramento Kings,4,10,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-77,156,1,0,20050501,0,SAC,SEA
+Shot Chart Detail,40400164,369,722,Corliss Williamson,1610612758,Sacramento Kings,4,8,57,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,156,-6,1,0,20050501,0,SAC,SEA
+Shot Chart Detail,40400165,118,722,Corliss Williamson,1610612758,Sacramento Kings,1,0,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-94,20,1,0,20050503,0,SEA,SAC
+Shot Chart Detail,40400165,128,722,Corliss Williamson,1610612758,Sacramento Kings,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-189,179,1,0,20050503,0,SEA,SAC
+Shot Chart Detail,40400165,386,722,Corliss Williamson,1610612758,Sacramento Kings,4,10,27,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,40,1,1,20050503,1,SEA,SAC
+Shot Chart Detail,40400165,416,722,Corliss Williamson,1610612758,Sacramento Kings,4,7,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20050503,0,SEA,SAC

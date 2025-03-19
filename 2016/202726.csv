@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021500975,521,202726,Andrew Goudelock,1610612745,Houston Rockets,4,2,32,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,110,1,1,20160312,CHA,HOU
-Shot Chart Detail,0021500975,525,202726,Andrew Goudelock,1610612745,Houston Rockets,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,234,1,0,20160312,CHA,HOU
-Shot Chart Detail,0021500992,435,202726,Andrew Goudelock,1610612745,Houston Rockets,3,3,35,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-9,95,1,0,20160314,HOU,MEM
-Shot Chart Detail,0021500992,493,202726,Andrew Goudelock,1610612745,Houston Rockets,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-38,247,1,1,20160314,HOU,MEM
-Shot Chart Detail,0021500992,497,202726,Andrew Goudelock,1610612745,Houston Rockets,4,9,43,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,48,247,1,0,20160314,HOU,MEM
-Shot Chart Detail,0021500992,521,202726,Andrew Goudelock,1610612745,Houston Rockets,4,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-110,198,1,1,20160314,HOU,MEM
-Shot Chart Detail,0021500992,574,202726,Andrew Goudelock,1610612745,Houston Rockets,4,4,26,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,43,1,1,20160314,HOU,MEM
-Shot Chart Detail,0021500992,581,202726,Andrew Goudelock,1610612745,Houston Rockets,4,3,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,109,141,1,1,20160314,HOU,MEM
-Shot Chart Detail,0021500992,628,202726,Andrew Goudelock,1610612745,Houston Rockets,4,0,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,124,1,1,20160314,HOU,MEM
-Shot Chart Detail,0021501145,405,202726,Andrew Goudelock,1610612745,Houston Rockets,3,2,55,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,95,1,0,20160403,HOU,OKC
-Shot Chart Detail,0021501145,424,202726,Andrew Goudelock,1610612745,Houston Rockets,3,1,20,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,193,1,0,20160403,HOU,OKC
-Shot Chart Detail,0021501145,459,202726,Andrew Goudelock,1610612745,Houston Rockets,4,11,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,56,1,1,20160403,HOU,OKC
-Shot Chart Detail,0021501175,222,202726,Andrew Goudelock,1610612745,Houston Rockets,2,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,166,183,1,0,20160407,HOU,PHX
-Shot Chart Detail,0021501175,256,202726,Andrew Goudelock,1610612745,Houston Rockets,2,2,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,7,1,0,20160407,HOU,PHX
-Shot Chart Detail,0021501207,501,202726,Andrew Goudelock,1610612745,Houston Rockets,4,3,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,117,41,1,1,20160411,MIN,HOU
-Shot Chart Detail,0021501207,526,202726,Andrew Goudelock,1610612745,Houston Rockets,4,1,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,28,1,0,20160411,MIN,HOU
-Shot Chart Detail,0021501224,465,202726,Andrew Goudelock,1610612745,Houston Rockets,4,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,15,190,1,1,20160413,HOU,SAC
-Shot Chart Detail,0021501224,491,202726,Andrew Goudelock,1610612745,Houston Rockets,4,3,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,219,1,0,20160413,HOU,SAC
-Shot Chart Detail,0021501224,530,202726,Andrew Goudelock,1610612745,Houston Rockets,4,0,51,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,146,1,0,20160413,HOU,SAC
-Shot Chart Detail,0021501224,534,202726,Andrew Goudelock,1610612745,Houston Rockets,4,0,13,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,115,1,0,20160413,HOU,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21500975,521,202726,Andrew Goudelock,1610612745,Houston Rockets,4,2,32,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-56,110,1,1,20160312,0,CHA,HOU
+Shot Chart Detail,21500975,525,202726,Andrew Goudelock,1610612745,Houston Rockets,4,1,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,234,1,0,20160312,0,CHA,HOU
+Shot Chart Detail,21500992,435,202726,Andrew Goudelock,1610612745,Houston Rockets,3,3,35,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-9,95,1,0,20160314,0,HOU,MEM
+Shot Chart Detail,21500992,493,202726,Andrew Goudelock,1610612745,Houston Rockets,4,10,13,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-38,247,1,1,20160314,0,HOU,MEM
+Shot Chart Detail,21500992,497,202726,Andrew Goudelock,1610612745,Houston Rockets,4,9,43,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,48,247,1,0,20160314,0,HOU,MEM
+Shot Chart Detail,21500992,521,202726,Andrew Goudelock,1610612745,Houston Rockets,4,7,44,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-110,198,1,1,20160314,0,HOU,MEM
+Shot Chart Detail,21500992,574,202726,Andrew Goudelock,1610612745,Houston Rockets,4,4,26,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,43,1,1,20160314,0,HOU,MEM
+Shot Chart Detail,21500992,581,202726,Andrew Goudelock,1610612745,Houston Rockets,4,3,19,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,109,141,1,1,20160314,0,HOU,MEM
+Shot Chart Detail,21500992,628,202726,Andrew Goudelock,1610612745,Houston Rockets,4,0,32,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,124,1,1,20160314,0,HOU,MEM
+Shot Chart Detail,21501145,405,202726,Andrew Goudelock,1610612745,Houston Rockets,3,2,55,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,95,1,0,20160403,0,HOU,OKC
+Shot Chart Detail,21501145,424,202726,Andrew Goudelock,1610612745,Houston Rockets,3,1,20,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,193,1,0,20160403,0,HOU,OKC
+Shot Chart Detail,21501145,459,202726,Andrew Goudelock,1610612745,Houston Rockets,4,11,9,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,56,1,1,20160403,1,HOU,OKC
+Shot Chart Detail,21501175,222,202726,Andrew Goudelock,1610612745,Houston Rockets,2,4,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,166,183,1,0,20160407,0,HOU,PHX
+Shot Chart Detail,21501175,256,202726,Andrew Goudelock,1610612745,Houston Rockets,2,2,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,7,1,0,20160407,0,HOU,PHX
+Shot Chart Detail,21501207,501,202726,Andrew Goudelock,1610612745,Houston Rockets,4,3,26,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,117,41,1,1,20160411,0,MIN,HOU
+Shot Chart Detail,21501207,526,202726,Andrew Goudelock,1610612745,Houston Rockets,4,1,18,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-238,28,1,0,20160411,0,MIN,HOU
+Shot Chart Detail,21501224,465,202726,Andrew Goudelock,1610612745,Houston Rockets,4,5,4,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,19,15,190,1,1,20160413,0,HOU,SAC
+Shot Chart Detail,21501224,491,202726,Andrew Goudelock,1610612745,Houston Rockets,4,3,1,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,219,1,0,20160413,0,HOU,SAC
+Shot Chart Detail,21501224,530,202726,Andrew Goudelock,1610612745,Houston Rockets,4,0,51,Missed Shot,Floating Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,146,1,0,20160413,0,HOU,SAC
+Shot Chart Detail,21501224,534,202726,Andrew Goudelock,1610612745,Houston Rockets,4,0,13,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,230,115,1,0,20160413,0,HOU,SAC

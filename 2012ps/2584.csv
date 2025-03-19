@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041100131,117,2584,Willie Green,1610612737,Atlanta Hawks,2,11,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,184,1,1,20120429,ATL,BOS
-Shot Chart Detail,0041100131,121,2584,Willie Green,1610612737,Atlanta Hawks,2,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,148,1,0,20120429,ATL,BOS
-Shot Chart Detail,0041100132,137,2584,Willie Green,1610612737,Atlanta Hawks,2,10,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-68,247,1,0,20120501,ATL,BOS
-Shot Chart Detail,0041100132,250,2584,Willie Green,1610612737,Atlanta Hawks,2,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,33,165,287,1,0,20120501,ATL,BOS
-Shot Chart Detail,0041100132,567,2584,Willie Green,1610612737,Atlanta Hawks,4,0,24,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,25,1,1,20120501,ATL,BOS
-Shot Chart Detail,0041100133,142,2584,Willie Green,1610612737,Atlanta Hawks,2,11,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,19,1,0,20120504,BOS,ATL
-Shot Chart Detail,0041100133,485,2584,Willie Green,1610612737,Atlanta Hawks,4,2,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,55,1,1,20120504,BOS,ATL
-Shot Chart Detail,0041100133,503,2584,Willie Green,1610612737,Atlanta Hawks,4,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,131,1,0,20120504,BOS,ATL
-Shot Chart Detail,0041100133,524,2584,Willie Green,1610612737,Atlanta Hawks,5,4,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20120504,BOS,ATL
-Shot Chart Detail,0041100133,533,2584,Willie Green,1610612737,Atlanta Hawks,5,2,57,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-64,104,1,0,20120504,BOS,ATL
-Shot Chart Detail,0041100134,422,2584,Willie Green,1610612737,Atlanta Hawks,4,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-175,55,1,1,20120506,BOS,ATL
-Shot Chart Detail,0041100134,453,2584,Willie Green,1610612737,Atlanta Hawks,4,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20120506,BOS,ATL
-Shot Chart Detail,0041100134,476,2584,Willie Green,1610612737,Atlanta Hawks,4,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,0,20120506,BOS,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41100131,117,2584,Willie Green,1610612737,Atlanta Hawks,2,11,46,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,28,184,1,1,20120429,1,ATL,BOS
+Shot Chart Detail,41100131,121,2584,Willie Green,1610612737,Atlanta Hawks,2,11,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,148,1,0,20120429,0,ATL,BOS
+Shot Chart Detail,41100132,137,2584,Willie Green,1610612737,Atlanta Hawks,2,10,49,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-68,247,1,0,20120501,0,ATL,BOS
+Shot Chart Detail,41100132,250,2584,Willie Green,1610612737,Atlanta Hawks,2,0,0,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,33,165,287,1,0,20120501,0,ATL,BOS
+Shot Chart Detail,41100132,567,2584,Willie Green,1610612737,Atlanta Hawks,4,0,24,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,25,1,1,20120501,0,ATL,BOS
+Shot Chart Detail,41100133,142,2584,Willie Green,1610612737,Atlanta Hawks,2,11,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,19,1,0,20120504,0,BOS,ATL
+Shot Chart Detail,41100133,485,2584,Willie Green,1610612737,Atlanta Hawks,4,2,31,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,55,1,1,20120504,1,BOS,ATL
+Shot Chart Detail,41100133,503,2584,Willie Green,1610612737,Atlanta Hawks,4,0,16,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,131,1,0,20120504,0,BOS,ATL
+Shot Chart Detail,41100133,524,2584,Willie Green,1610612737,Atlanta Hawks,5,4,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20120504,0,BOS,ATL
+Shot Chart Detail,41100133,533,2584,Willie Green,1610612737,Atlanta Hawks,5,2,57,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-64,104,1,0,20120504,0,BOS,ATL
+Shot Chart Detail,41100134,422,2584,Willie Green,1610612737,Atlanta Hawks,4,6,25,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-175,55,1,1,20120506,1,BOS,ATL
+Shot Chart Detail,41100134,453,2584,Willie Green,1610612737,Atlanta Hawks,4,3,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,15,1,1,20120506,0,BOS,ATL
+Shot Chart Detail,41100134,476,2584,Willie Green,1610612737,Atlanta Hawks,4,0,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,0,20120506,0,BOS,ATL

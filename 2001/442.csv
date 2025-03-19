@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000065,69,442,Pervis Ellison,1610612760,Seattle SuperSonics,1,2,51,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,1,20001108,MIA,SEA
-Shot Chart Detail,0020000096,98,442,Pervis Ellison,1610612760,Seattle SuperSonics,1,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001112,DET,SEA
-Shot Chart Detail,0020000096,348,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,11,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,115,95,1,0,20001112,DET,SEA
-Shot Chart Detail,0020000096,355,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,10,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001112,DET,SEA
-Shot Chart Detail,0020000096,363,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,9,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,0,1,0,20001112,DET,SEA
-Shot Chart Detail,0020000110,409,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,8,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-132,74,1,0,20001114,SEA,NYK
-Shot Chart Detail,0020000165,351,442,Pervis Ellison,1610612760,Seattle SuperSonics,3,1,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,0,20001122,SAS,SEA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000065,69,442,Pervis Ellison,1610612760,Seattle SuperSonics,1,2,51,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,28,1,1,20001108,0,MIA,SEA
+Shot Chart Detail,20000096,98,442,Pervis Ellison,1610612760,Seattle SuperSonics,1,1,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001112,0,DET,SEA
+Shot Chart Detail,20000096,348,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,11,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,115,95,1,0,20001112,0,DET,SEA
+Shot Chart Detail,20000096,355,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,10,41,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001112,1,DET,SEA
+Shot Chart Detail,20000096,363,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,9,49,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,115,0,1,0,20001112,0,DET,SEA
+Shot Chart Detail,20000110,409,442,Pervis Ellison,1610612760,Seattle SuperSonics,4,8,25,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-132,74,1,0,20001114,0,SEA,NYK
+Shot Chart Detail,20000165,351,442,Pervis Ellison,1610612760,Seattle SuperSonics,3,1,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,0,20001122,0,SAS,SEA

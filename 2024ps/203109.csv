@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,42300121,207,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,7,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-3,1,1,20240421,MIL,IND
-Shot Chart Detail,42300121,226,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,6,28,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20240421,MIL,IND
-Shot Chart Detail,42300121,250,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,4,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,21,1,0,20240421,MIL,IND
-Shot Chart Detail,42300121,500,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,9,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,52,1,1,20240421,MIL,IND
-Shot Chart Detail,42300122,246,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-221,170,1,0,20240423,MIL,IND
-Shot Chart Detail,42300122,468,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,10,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,32,1,0,20240423,MIL,IND
-Shot Chart Detail,42300122,483,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,212,71,1,0,20240423,MIL,IND
-Shot Chart Detail,42300123,270,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,5,57,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,4,1,0,20240426,IND,MIL
-Shot Chart Detail,42300124,177,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,11,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,264,1,0,20240428,IND,MIL
-Shot Chart Detail,42300124,192,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,9,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,1,20240428,IND,MIL
-Shot Chart Detail,42300124,513,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,9,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,0,20240428,IND,MIL
-Shot Chart Detail,42300124,544,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,6,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,13,1,0,20240428,IND,MIL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,42300121,207,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,7,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-3,1,1,20240421,1,MIL,IND
+Shot Chart Detail,42300121,226,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,6,28,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20240421,0,MIL,IND
+Shot Chart Detail,42300121,250,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,4,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,21,1,0,20240421,0,MIL,IND
+Shot Chart Detail,42300121,500,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,9,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,52,1,1,20240421,1,MIL,IND
+Shot Chart Detail,42300122,246,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-221,170,1,0,20240423,0,MIL,IND
+Shot Chart Detail,42300122,468,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,10,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,32,1,0,20240423,0,MIL,IND
+Shot Chart Detail,42300122,483,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,9,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,212,71,1,0,20240423,0,MIL,IND
+Shot Chart Detail,42300123,270,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,5,57,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,4,1,0,20240426,0,IND,MIL
+Shot Chart Detail,42300124,177,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,11,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,264,1,0,20240428,0,IND,MIL
+Shot Chart Detail,42300124,192,203109,Jae Crowder,1610612749,Milwaukee Bucks,2,9,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,1,20240428,1,IND,MIL
+Shot Chart Detail,42300124,513,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,9,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,0,20240428,0,IND,MIL
+Shot Chart Detail,42300124,544,203109,Jae Crowder,1610612749,Milwaukee Bucks,4,6,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,13,1,0,20240428,0,IND,MIL

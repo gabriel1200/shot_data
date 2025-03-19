@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021100686,141,202775,Edwin Ubiles,1610612764,Washington Wizards,2,11,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,213,1,0,20120321,NJN,WAS
-Shot Chart Detail,0021100686,409,202775,Edwin Ubiles,1610612764,Washington Wizards,3,1,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,121,1,0,20120321,NJN,WAS
-Shot Chart Detail,0021100686,436,202775,Edwin Ubiles,1610612764,Washington Wizards,4,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,74,1,0,20120321,NJN,WAS
-Shot Chart Detail,0021100686,547,202775,Edwin Ubiles,1610612764,Washington Wizards,4,1,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20120321,NJN,WAS
-Shot Chart Detail,0021100693,130,202775,Edwin Ubiles,1610612764,Washington Wizards,2,10,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,124,206,1,0,20120322,WAS,IND
-Shot Chart Detail,0021100693,158,202775,Edwin Ubiles,1610612764,Washington Wizards,2,7,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,61,1,0,20120322,WAS,IND
-Shot Chart Detail,0021100693,175,202775,Edwin Ubiles,1610612764,Washington Wizards,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,17,1,0,20120322,WAS,IND
-Shot Chart Detail,0021100693,414,202775,Edwin Ubiles,1610612764,Washington Wizards,4,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-41,1,0,20120322,WAS,IND
-Shot Chart Detail,0021100711,133,202775,Edwin Ubiles,1610612764,Washington Wizards,2,10,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,4,143,1,1,20120324,WAS,ATL
-Shot Chart Detail,0021100711,139,202775,Edwin Ubiles,1610612764,Washington Wizards,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,108,184,1,1,20120324,WAS,ATL
-Shot Chart Detail,0021100711,146,202775,Edwin Ubiles,1610612764,Washington Wizards,2,8,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,75,233,1,0,20120324,WAS,ATL
-Shot Chart Detail,0021100711,159,202775,Edwin Ubiles,1610612764,Washington Wizards,2,7,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-19,1,0,20120324,WAS,ATL
-Shot Chart Detail,0021100711,342,202775,Edwin Ubiles,1610612764,Washington Wizards,3,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,94,1,0,20120324,WAS,ATL
-Shot Chart Detail,0021100711,385,202775,Edwin Ubiles,1610612764,Washington Wizards,4,10,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20120324,WAS,ATL
-Shot Chart Detail,0021100711,391,202775,Edwin Ubiles,1610612764,Washington Wizards,4,9,29,Made Shot,Running Bank shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,258,1,1,20120324,WAS,ATL
-Shot Chart Detail,0021100711,416,202775,Edwin Ubiles,1610612764,Washington Wizards,4,5,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,9,1,0,20120324,WAS,ATL
-Shot Chart Detail,0021100721,131,202775,Edwin Ubiles,1610612764,Washington Wizards,2,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,179,1,0,20120325,BOS,WAS
-Shot Chart Detail,0021100721,235,202775,Edwin Ubiles,1610612764,Washington Wizards,2,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,0,20120325,BOS,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21100686,141,202775,Edwin Ubiles,1610612764,Washington Wizards,2,11,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,213,1,0,20120321,0,NJN,WAS
+Shot Chart Detail,21100686,409,202775,Edwin Ubiles,1610612764,Washington Wizards,3,1,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,121,1,0,20120321,0,NJN,WAS
+Shot Chart Detail,21100686,436,202775,Edwin Ubiles,1610612764,Washington Wizards,4,11,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,74,1,0,20120321,0,NJN,WAS
+Shot Chart Detail,21100686,547,202775,Edwin Ubiles,1610612764,Washington Wizards,4,1,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20120321,0,NJN,WAS
+Shot Chart Detail,21100693,130,202775,Edwin Ubiles,1610612764,Washington Wizards,2,10,47,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,124,206,1,0,20120322,0,WAS,IND
+Shot Chart Detail,21100693,158,202775,Edwin Ubiles,1610612764,Washington Wizards,2,7,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,61,1,0,20120322,0,WAS,IND
+Shot Chart Detail,21100693,175,202775,Edwin Ubiles,1610612764,Washington Wizards,2,6,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,185,17,1,0,20120322,0,WAS,IND
+Shot Chart Detail,21100693,414,202775,Edwin Ubiles,1610612764,Washington Wizards,4,9,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,-41,1,0,20120322,0,WAS,IND
+Shot Chart Detail,21100711,133,202775,Edwin Ubiles,1610612764,Washington Wizards,2,10,33,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,14,4,143,1,1,20120324,0,WAS,ATL
+Shot Chart Detail,21100711,139,202775,Edwin Ubiles,1610612764,Washington Wizards,2,9,43,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,108,184,1,1,20120324,1,WAS,ATL
+Shot Chart Detail,21100711,146,202775,Edwin Ubiles,1610612764,Washington Wizards,2,8,59,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,75,233,1,0,20120324,0,WAS,ATL
+Shot Chart Detail,21100711,159,202775,Edwin Ubiles,1610612764,Washington Wizards,2,7,52,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-243,-19,1,0,20120324,0,WAS,ATL
+Shot Chart Detail,21100711,342,202775,Edwin Ubiles,1610612764,Washington Wizards,3,1,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,94,1,0,20120324,0,WAS,ATL
+Shot Chart Detail,21100711,385,202775,Edwin Ubiles,1610612764,Washington Wizards,4,10,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20120324,1,WAS,ATL
+Shot Chart Detail,21100711,391,202775,Edwin Ubiles,1610612764,Washington Wizards,4,9,29,Made Shot,Running Bank shot,,Above the Break 3,Center(C),24+ ft.,25,29,258,1,1,20120324,0,WAS,ATL
+Shot Chart Detail,21100711,416,202775,Edwin Ubiles,1610612764,Washington Wizards,4,5,59,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-103,9,1,0,20120324,0,WAS,ATL
+Shot Chart Detail,21100721,131,202775,Edwin Ubiles,1610612764,Washington Wizards,2,11,1,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,179,1,0,20120325,0,BOS,WAS
+Shot Chart Detail,21100721,235,202775,Edwin Ubiles,1610612764,Washington Wizards,2,0,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,0,20120325,0,BOS,WAS

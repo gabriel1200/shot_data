@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021800012,184,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,72,1,0,20181017,LAC,DEN
-Shot Chart Detail,0021800012,302,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,2,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,0,20181017,LAC,DEN
-Shot Chart Detail,0021800012,306,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20181017,LAC,DEN
-Shot Chart Detail,0021800012,315,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,1,16,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,36,1,0,20181017,LAC,DEN
-Shot Chart Detail,0021800012,317,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,1,12,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,13,1,0,20181017,LAC,DEN
-Shot Chart Detail,0021800025,167,201601,Luc Mbah a Moute,1610612746,LA Clippers,1,0,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,24,1,1,20181019,LAC,OKC
-Shot Chart Detail,0021800025,185,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,54,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-7,1,1,20181019,LAC,OKC
-Shot Chart Detail,0021800025,584,201601,Luc Mbah a Moute,1610612746,LA Clippers,4,7,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,141,1,1,20181019,LAC,OKC
-Shot Chart Detail,0021800039,204,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,9,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,-11,1,0,20181021,LAC,HOU
-Shot Chart Detail,0021800039,445,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,3,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,207,1,1,20181021,LAC,HOU
-Shot Chart Detail,0021800039,461,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,2,1,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,52,1,1,20181021,LAC,HOU
-Shot Chart Detail,0021800039,472,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,1,12,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-84,147,1,1,20181021,LAC,HOU
-Shot Chart Detail,0021800039,495,201601,Luc Mbah a Moute,1610612746,LA Clippers,4,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,0,20181021,LAC,HOU
-Shot Chart Detail,0021800039,548,201601,Luc Mbah a Moute,1610612746,LA Clippers,4,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,12,1,0,20181021,LAC,HOU
-Shot Chart Detail,0021800050,188,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20181023,NOP,LAC
-Shot Chart Detail,0021800050,192,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20181023,NOP,LAC
-Shot Chart Detail,0021800050,263,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,177,1,0,20181023,NOP,LAC
-Shot Chart Detail,0021800050,507,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,2,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,6,1,0,20181023,NOP,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21800012,184,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,30,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,234,72,1,0,20181017,0,LAC,DEN
+Shot Chart Detail,21800012,302,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,2,47,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,0,20181017,0,LAC,DEN
+Shot Chart Detail,21800012,306,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,2,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20181017,0,LAC,DEN
+Shot Chart Detail,21800012,315,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,1,16,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,9,36,1,0,20181017,0,LAC,DEN
+Shot Chart Detail,21800012,317,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,1,12,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,13,1,0,20181017,0,LAC,DEN
+Shot Chart Detail,21800025,167,201601,Luc Mbah a Moute,1610612746,LA Clippers,1,0,23,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,3,24,1,1,20181019,1,LAC,OKC
+Shot Chart Detail,21800025,185,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,54,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-7,1,1,20181019,1,LAC,OKC
+Shot Chart Detail,21800025,584,201601,Luc Mbah a Moute,1610612746,LA Clippers,4,7,43,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,141,1,1,20181019,1,LAC,OKC
+Shot Chart Detail,21800039,204,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,9,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,-11,1,0,20181021,0,LAC,HOU
+Shot Chart Detail,21800039,445,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,3,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,207,1,1,20181021,1,LAC,HOU
+Shot Chart Detail,21800039,461,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,2,1,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,52,1,1,20181021,0,LAC,HOU
+Shot Chart Detail,21800039,472,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,1,12,Made Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-84,147,1,1,20181021,0,LAC,HOU
+Shot Chart Detail,21800039,495,201601,Luc Mbah a Moute,1610612746,LA Clippers,4,11,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,0,20181021,0,LAC,HOU
+Shot Chart Detail,21800039,548,201601,Luc Mbah a Moute,1610612746,LA Clippers,4,6,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-22,12,1,0,20181021,0,LAC,HOU
+Shot Chart Detail,21800050,188,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20181023,1,NOP,LAC
+Shot Chart Detail,21800050,192,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,10,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20181023,1,NOP,LAC
+Shot Chart Detail,21800050,263,201601,Luc Mbah a Moute,1610612746,LA Clippers,2,6,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,177,1,0,20181023,0,NOP,LAC
+Shot Chart Detail,21800050,507,201601,Luc Mbah a Moute,1610612746,LA Clippers,3,2,9,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,6,1,0,20181023,0,NOP,LAC

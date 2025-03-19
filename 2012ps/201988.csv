@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041100142,405,201988,Patty Mills,1610612759,San Antonio Spurs,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,37,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,422,201988,Patty Mills,1610612759,San Antonio Spurs,4,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,430,201988,Patty Mills,1610612759,San Antonio Spurs,4,5,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,242,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,455,201988,Patty Mills,1610612759,San Antonio Spurs,4,2,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,473,201988,Patty Mills,1610612759,San Antonio Spurs,4,0,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,14,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100222,464,201988,Patty Mills,1610612759,San Antonio Spurs,4,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,154,1,1,20120517,SAS,LAC
-Shot Chart Detail,0041100313,426,201988,Patty Mills,1610612759,San Antonio Spurs,4,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,151,1,0,20120531,OKC,SAS
-Shot Chart Detail,0041100313,447,201988,Patty Mills,1610612759,San Antonio Spurs,4,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-40,241,1,0,20120531,OKC,SAS
-Shot Chart Detail,0041100313,498,201988,Patty Mills,1610612759,San Antonio Spurs,4,1,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-78,203,1,0,20120531,OKC,SAS
-Shot Chart Detail,0041100313,503,201988,Patty Mills,1610612759,San Antonio Spurs,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,146,1,0,20120531,OKC,SAS
-Shot Chart Detail,0041100313,507,201988,Patty Mills,1610612759,San Antonio Spurs,4,0,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,12,1,1,20120531,OKC,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41100142,405,201988,Patty Mills,1610612759,San Antonio Spurs,4,7,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-24,37,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,422,201988,Patty Mills,1610612759,San Antonio Spurs,4,5,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,1,20120502,1,SAS,UTA
+Shot Chart Detail,41100142,430,201988,Patty Mills,1610612759,San Antonio Spurs,4,5,13,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,242,1,1,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,455,201988,Patty Mills,1610612759,San Antonio Spurs,4,2,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20120502,1,SAS,UTA
+Shot Chart Detail,41100142,473,201988,Patty Mills,1610612759,San Antonio Spurs,4,0,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-37,14,1,1,20120502,0,SAS,UTA
+Shot Chart Detail,41100222,464,201988,Patty Mills,1610612759,San Antonio Spurs,4,1,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,154,1,1,20120517,1,SAS,LAC
+Shot Chart Detail,41100313,426,201988,Patty Mills,1610612759,San Antonio Spurs,4,8,16,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,151,1,0,20120531,0,OKC,SAS
+Shot Chart Detail,41100313,447,201988,Patty Mills,1610612759,San Antonio Spurs,4,5,40,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-40,241,1,0,20120531,0,OKC,SAS
+Shot Chart Detail,41100313,498,201988,Patty Mills,1610612759,San Antonio Spurs,4,1,28,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-78,203,1,0,20120531,0,OKC,SAS
+Shot Chart Detail,41100313,503,201988,Patty Mills,1610612759,San Antonio Spurs,4,0,59,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,135,146,1,0,20120531,0,OKC,SAS
+Shot Chart Detail,41100313,507,201988,Patty Mills,1610612759,San Antonio Spurs,4,0,26,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,12,1,1,20120531,1,OKC,SAS

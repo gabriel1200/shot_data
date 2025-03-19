@@ -1,67 +1,34 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029600620,102,287,Eric Leckner,1610612766,Charlotte Hornets,1,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,CHH,IND
-Shot Chart Detail,0029600620,321,287,Eric Leckner,1610612766,Charlotte Hornets,4,11,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,CHH,IND
-Shot Chart Detail,0029600620,436,287,Eric Leckner,1610612766,Charlotte Hornets,4,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,CHH,IND
-Shot Chart Detail,0029600689,125,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,12,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970211,HOU,VAN
-Shot Chart Detail,0029600689,315,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,40,153,1,0,19970211,HOU,VAN
-Shot Chart Detail,0029600767,103,287,Eric Leckner,1610612763,Vancouver Grizzlies,1,0,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,-3,1,0,19970221,LAL,VAN
-Shot Chart Detail,0029600819,132,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,34,1,0,19970228,VAN,PHI
-Shot Chart Detail,0029600819,338,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,VAN,PHI
-Shot Chart Detail,0029600902,328,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,10,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,103,1,0,19970312,WAS,VAN
-Shot Chart Detail,0029600902,360,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-18,1,0,19970312,WAS,VAN
-Shot Chart Detail,0029600902,365,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,54,1,1,19970312,WAS,VAN
-Shot Chart Detail,0029600902,374,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,4,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,39,1,1,19970312,WAS,VAN
-Shot Chart Detail,0029600902,385,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970312,WAS,VAN
-Shot Chart Detail,0029600944,235,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,6,1,1,19970318,NYK,VAN
-Shot Chart Detail,0029600944,241,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,NYK,VAN
-Shot Chart Detail,0029600958,352,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,34,1,0,19970319,MIN,VAN
-Shot Chart Detail,0029600958,375,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,-9,1,0,19970319,MIN,VAN
-Shot Chart Detail,0029600958,394,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,MIN,VAN
-Shot Chart Detail,0029600958,398,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,MIN,VAN
-Shot Chart Detail,0029600990,142,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970323,VAN,SEA
-Shot Chart Detail,0029601023,312,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,9,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601023,345,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601023,359,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,4,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,0,1,0,19970328,POR,VAN
-Shot Chart Detail,0029601023,383,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970328,POR,VAN
-Shot Chart Detail,0029601023,386,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,1,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,39,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601047,225,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,5,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-3,1,0,19970401,VAN,MIL
-Shot Chart Detail,0029601047,237,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,4,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,17,1,1,19970401,VAN,MIL
-Shot Chart Detail,0029601047,389,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,28,1,0,19970401,VAN,MIL
-Shot Chart Detail,0029601069,147,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,-20,1,1,19970404,UTA,VAN
-Shot Chart Detail,0029601069,380,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,UTA,VAN
-Shot Chart Detail,0029601069,407,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,1,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970404,UTA,VAN
-Shot Chart Detail,0029601086,120,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,VAN,HOU
-Shot Chart Detail,0029601086,125,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970406,VAN,HOU
-Shot Chart Detail,0029600620,102,287,Eric Leckner,1610612766,Charlotte Hornets,1,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,CHH,IND
-Shot Chart Detail,0029600620,321,287,Eric Leckner,1610612766,Charlotte Hornets,4,11,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,CHH,IND
-Shot Chart Detail,0029600620,436,287,Eric Leckner,1610612766,Charlotte Hornets,4,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,CHH,IND
-Shot Chart Detail,0029600689,125,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,12,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970211,HOU,VAN
-Shot Chart Detail,0029600689,315,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,40,153,1,0,19970211,HOU,VAN
-Shot Chart Detail,0029600767,103,287,Eric Leckner,1610612763,Vancouver Grizzlies,1,0,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,-3,1,0,19970221,LAL,VAN
-Shot Chart Detail,0029600819,132,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,34,1,0,19970228,VAN,PHI
-Shot Chart Detail,0029600819,338,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,VAN,PHI
-Shot Chart Detail,0029600902,328,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,10,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,103,1,0,19970312,WAS,VAN
-Shot Chart Detail,0029600902,360,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,7,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-18,1,0,19970312,WAS,VAN
-Shot Chart Detail,0029600902,365,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,54,1,1,19970312,WAS,VAN
-Shot Chart Detail,0029600902,374,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,4,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,39,1,1,19970312,WAS,VAN
-Shot Chart Detail,0029600902,385,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970312,WAS,VAN
-Shot Chart Detail,0029600944,235,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,6,1,1,19970318,NYK,VAN
-Shot Chart Detail,0029600944,241,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,NYK,VAN
-Shot Chart Detail,0029600958,352,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,34,1,0,19970319,MIN,VAN
-Shot Chart Detail,0029600958,375,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,-9,1,0,19970319,MIN,VAN
-Shot Chart Detail,0029600958,394,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,MIN,VAN
-Shot Chart Detail,0029600958,398,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,MIN,VAN
-Shot Chart Detail,0029600990,142,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970323,VAN,SEA
-Shot Chart Detail,0029601023,312,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,9,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601023,345,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601023,359,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,4,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,0,1,0,19970328,POR,VAN
-Shot Chart Detail,0029601023,383,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970328,POR,VAN
-Shot Chart Detail,0029601023,386,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,1,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,39,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601047,225,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,5,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-3,1,0,19970401,VAN,MIL
-Shot Chart Detail,0029601047,237,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,4,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,17,1,1,19970401,VAN,MIL
-Shot Chart Detail,0029601047,389,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,28,1,0,19970401,VAN,MIL
-Shot Chart Detail,0029601069,147,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,-20,1,1,19970404,UTA,VAN
-Shot Chart Detail,0029601069,380,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,5,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,UTA,VAN
-Shot Chart Detail,0029601069,407,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,1,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970404,UTA,VAN
-Shot Chart Detail,0029601086,120,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,VAN,HOU
-Shot Chart Detail,0029601086,125,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,8,24,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970406,VAN,HOU
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29600620,102,287,Eric Leckner,1610612766,Charlotte Hornets,1,0,50,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,CHH,IND
+Shot Chart Detail,29600620,321,287,Eric Leckner,1610612766,Charlotte Hornets,4,11,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,CHH,IND
+Shot Chart Detail,29600620,436,287,Eric Leckner,1610612766,Charlotte Hornets,4,0,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,CHH,IND
+Shot Chart Detail,29600689,125,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,12,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970211,0,HOU,VAN
+Shot Chart Detail,29600689,315,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,10,32,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,40,153,1,0,19970211,0,HOU,VAN
+Shot Chart Detail,29600767,103,287,Eric Leckner,1610612763,Vancouver Grizzlies,1,0,46,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,-3,1,0,19970221,0,LAL,VAN
+Shot Chart Detail,29600819,132,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,15,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,164,34,1,0,19970228,0,VAN,PHI
+Shot Chart Detail,29600819,338,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,0,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,1,VAN,PHI
+Shot Chart Detail,29600902,328,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,10,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,10,103,1,0,19970312,0,WAS,VAN
+Shot Chart Detail,29600902,360,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,7,5,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-135,-18,1,0,19970312,0,WAS,VAN
+Shot Chart Detail,29600902,365,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,39,Made Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,54,1,1,19970312,0,WAS,VAN
+Shot Chart Detail,29600902,374,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,4,46,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,39,1,1,19970312,0,WAS,VAN
+Shot Chart Detail,29600902,385,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,31,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970312,1,WAS,VAN
+Shot Chart Detail,29600944,235,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,9,39,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,90,6,1,1,19970318,1,NYK,VAN
+Shot Chart Detail,29600944,241,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,8,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,1,NYK,VAN
+Shot Chart Detail,29600958,352,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,7,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-53,34,1,0,19970319,0,MIN,VAN
+Shot Chart Detail,29600958,375,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-118,-9,1,0,19970319,0,MIN,VAN
+Shot Chart Detail,29600958,394,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,21,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,1,MIN,VAN
+Shot Chart Detail,29600958,398,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,3,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,0,MIN,VAN
+Shot Chart Detail,29600990,142,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,6,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970323,0,VAN,SEA
+Shot Chart Detail,29601023,312,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,9,35,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,1,POR,VAN
+Shot Chart Detail,29601023,345,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,6,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,0,POR,VAN
+Shot Chart Detail,29601023,359,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,4,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-92,0,1,0,19970328,0,POR,VAN
+Shot Chart Detail,29601023,383,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,2,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970328,0,POR,VAN
+Shot Chart Detail,29601023,386,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,1,40,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,39,1,1,19970328,1,POR,VAN
+Shot Chart Detail,29601047,225,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,5,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-127,-3,1,0,19970401,0,VAN,MIL
+Shot Chart Detail,29601047,237,287,Eric Leckner,1610612763,Vancouver Grizzlies,3,4,22,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,17,1,1,19970401,0,VAN,MIL
+Shot Chart Detail,29601047,389,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,0,15,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,28,1,0,19970401,0,VAN,MIL
+Shot Chart Detail,29601069,147,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,7,13,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-125,-20,1,1,19970404,1,UTA,VAN
+Shot Chart Detail,29601069,380,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,5,11,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,0,UTA,VAN
+Shot Chart Detail,29601069,407,287,Eric Leckner,1610612763,Vancouver Grizzlies,4,1,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970404,0,UTA,VAN
+Shot Chart Detail,29601086,120,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,9,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,0,VAN,HOU
+Shot Chart Detail,29601086,125,287,Eric Leckner,1610612763,Vancouver Grizzlies,2,8,24,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970406,0,VAN,HOU

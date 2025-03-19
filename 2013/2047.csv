@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021201218,118,2047,Quentin Richardson,1610612752,New York Knicks,2,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,201,143,1,1,20130417,NYK,ATL
-Shot Chart Detail,0021201218,145,2047,Quentin Richardson,1610612752,New York Knicks,2,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,89,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,162,2047,Quentin Richardson,1610612752,New York Knicks,2,7,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,145,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,170,2047,Quentin Richardson,1610612752,New York Knicks,2,6,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,191,2047,Quentin Richardson,1610612752,New York Knicks,2,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-182,153,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,287,2047,Quentin Richardson,1610612752,New York Knicks,3,6,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,39,42,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,385,2047,Quentin Richardson,1610612752,New York Knicks,4,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,469,2047,Quentin Richardson,1610612752,New York Knicks,4,4,58,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,466,2047,Quentin Richardson,1610612752,New York Knicks,4,4,57,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,441,2047,Quentin Richardson,1610612752,New York Knicks,4,4,55,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,22,1,0,20130417,NYK,ATL
-Shot Chart Detail,0021201218,464,2047,Quentin Richardson,1610612752,New York Knicks,4,2,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,0,20130417,NYK,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21201218,118,2047,Quentin Richardson,1610612752,New York Knicks,2,11,28,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,201,143,1,1,20130417,1,NYK,ATL
+Shot Chart Detail,21201218,145,2047,Quentin Richardson,1610612752,New York Knicks,2,8,35,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,89,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,162,2047,Quentin Richardson,1610612752,New York Knicks,2,7,10,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,145,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,170,2047,Quentin Richardson,1610612752,New York Knicks,2,6,50,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,191,2047,Quentin Richardson,1610612752,New York Knicks,2,4,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,23,-182,153,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,287,2047,Quentin Richardson,1610612752,New York Knicks,3,6,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,39,42,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,385,2047,Quentin Richardson,1610612752,New York Knicks,4,9,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,469,2047,Quentin Richardson,1610612752,New York Knicks,4,4,58,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,466,2047,Quentin Richardson,1610612752,New York Knicks,4,4,57,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,441,2047,Quentin Richardson,1610612752,New York Knicks,4,4,55,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,22,1,0,20130417,0,NYK,ATL
+Shot Chart Detail,21201218,464,2047,Quentin Richardson,1610612752,New York Knicks,4,2,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,0,20130417,0,NYK,ATL

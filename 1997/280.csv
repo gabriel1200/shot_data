@@ -1,569 +1,285 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029600004,53,280,Felton Spencer,1610612753,Orlando Magic,1,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,ORL,WAS
-Shot Chart Detail,0029600004,285,280,Felton Spencer,1610612753,Orlando Magic,3,5,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,ORL,WAS
-Shot Chart Detail,0029600038,99,280,Felton Spencer,1610612744,Golden State Warriors,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,36,1,0,19961105,GSW,POR
-Shot Chart Detail,0029600050,80,280,Felton Spencer,1610612744,Golden State Warriors,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,52,1,0,19961107,GSW,NYK
-Shot Chart Detail,0029600050,187,280,Felton Spencer,1610612744,Golden State Warriors,2,2,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961107,GSW,NYK
-Shot Chart Detail,0029600061,90,280,Felton Spencer,1610612744,Golden State Warriors,1,2,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,34,1,0,19961108,DEN,GSW
-Shot Chart Detail,0029600061,152,280,Felton Spencer,1610612744,Golden State Warriors,2,7,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,DEN,GSW
-Shot Chart Detail,0029600061,174,280,Felton Spencer,1610612744,Golden State Warriors,2,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,DEN,GSW
-Shot Chart Detail,0029600087,132,280,Felton Spencer,1610612744,Golden State Warriors,2,9,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961112,SEA,GSW
-Shot Chart Detail,0029600087,171,280,Felton Spencer,1610612744,Golden State Warriors,2,6,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961112,SEA,GSW
-Shot Chart Detail,0029600087,336,280,Felton Spencer,1610612744,Golden State Warriors,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,39,1,0,19961112,SEA,GSW
-Shot Chart Detail,0029600102,136,280,Felton Spencer,1610612744,Golden State Warriors,2,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961114,GSW,MIL
-Shot Chart Detail,0029600102,293,280,Felton Spencer,1610612744,Golden State Warriors,3,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961114,GSW,MIL
-Shot Chart Detail,0029600122,81,280,Felton Spencer,1610612744,Golden State Warriors,1,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600122,157,280,Felton Spencer,1610612744,Golden State Warriors,2,5,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,73,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600122,172,280,Felton Spencer,1610612744,Golden State Warriors,2,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600122,275,280,Felton Spencer,1610612744,Golden State Warriors,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600125,172,280,Felton Spencer,1610612744,Golden State Warriors,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,108,1,0,19961117,SAS,GSW
-Shot Chart Detail,0029600125,218,280,Felton Spencer,1610612744,Golden State Warriors,3,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961117,SAS,GSW
-Shot Chart Detail,0029600125,221,280,Felton Spencer,1610612744,Golden State Warriors,3,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961117,SAS,GSW
-Shot Chart Detail,0029600136,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,32,1,1,19961119,GSW,LAL
-Shot Chart Detail,0029600136,241,280,Felton Spencer,1610612744,Golden State Warriors,3,6,23,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,1,19961119,GSW,LAL
-Shot Chart Detail,0029600136,366,280,Felton Spencer,1610612744,Golden State Warriors,4,5,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,30,1,0,19961119,GSW,LAL
-Shot Chart Detail,0029600136,388,280,Felton Spencer,1610612744,Golden State Warriors,4,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961119,GSW,LAL
-Shot Chart Detail,0029600154,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961121,UTA,GSW
-Shot Chart Detail,0029600154,298,280,Felton Spencer,1610612744,Golden State Warriors,3,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961121,UTA,GSW
-Shot Chart Detail,0029600167,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961123,GSW,HOU
-Shot Chart Detail,0029600167,418,280,Felton Spencer,1610612744,Golden State Warriors,4,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,GSW,HOU
-Shot Chart Detail,0029600167,432,280,Felton Spencer,1610612744,Golden State Warriors,4,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961123,GSW,HOU
-Shot Chart Detail,0029600167,494,280,Felton Spencer,1610612744,Golden State Warriors,5,0,40,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,GSW,HOU
-Shot Chart Detail,0029600186,53,280,Felton Spencer,1610612744,Golden State Warriors,1,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,15,1,0,19961126,GSW,MIA
-Shot Chart Detail,0029600186,57,280,Felton Spencer,1610612744,Golden State Warriors,1,5,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,49,1,1,19961126,GSW,MIA
-Shot Chart Detail,0029600207,15,280,Felton Spencer,1610612744,Golden State Warriors,1,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,39,1,1,19961129,POR,GSW
-Shot Chart Detail,0029600220,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,GSW,POR
-Shot Chart Detail,0029600220,36,280,Felton Spencer,1610612744,Golden State Warriors,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,28,1,0,19961201,GSW,POR
-Shot Chart Detail,0029600220,52,280,Felton Spencer,1610612744,Golden State Warriors,1,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,0,1,1,19961201,GSW,POR
-Shot Chart Detail,0029600220,274,280,Felton Spencer,1610612744,Golden State Warriors,3,10,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,26,1,1,19961201,GSW,POR
-Shot Chart Detail,0029600232,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,0,19961203,GSW,DEN
-Shot Chart Detail,0029600232,61,280,Felton Spencer,1610612744,Golden State Warriors,1,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,64,280,Felton Spencer,1610612744,Golden State Warriors,1,3,17,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,32,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,226,280,Felton Spencer,1610612744,Golden State Warriors,3,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,250,280,Felton Spencer,1610612744,Golden State Warriors,3,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,266,280,Felton Spencer,1610612744,Golden State Warriors,3,3,59,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,28,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,410,280,Felton Spencer,1610612744,Golden State Warriors,4,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,19961203,GSW,DEN
-Shot Chart Detail,0029600241,268,280,Felton Spencer,1610612744,Golden State Warriors,3,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961204,PHX,GSW
-Shot Chart Detail,0029600241,295,280,Felton Spencer,1610612744,Golden State Warriors,3,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961204,PHX,GSW
-Shot Chart Detail,0029600241,321,280,Felton Spencer,1610612744,Golden State Warriors,3,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961204,PHX,GSW
-Shot Chart Detail,0029600254,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,54,1,1,19961206,GSW,IND
-Shot Chart Detail,0029600254,71,280,Felton Spencer,1610612744,Golden State Warriors,1,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961206,GSW,IND
-Shot Chart Detail,0029600271,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,41,1,1,19961208,GSW,SAS
-Shot Chart Detail,0029600271,227,280,Felton Spencer,1610612744,Golden State Warriors,3,6,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961208,GSW,SAS
-Shot Chart Detail,0029600277,106,280,Felton Spencer,1610612744,Golden State Warriors,2,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961210,TOR,GSW
-Shot Chart Detail,0029600277,287,280,Felton Spencer,1610612744,Golden State Warriors,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961210,TOR,GSW
-Shot Chart Detail,0029600277,464,280,Felton Spencer,1610612744,Golden State Warriors,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,79,67,1,0,19961210,TOR,GSW
-Shot Chart Detail,0029600293,34,280,Felton Spencer,1610612744,Golden State Warriors,1,6,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,NYK,GSW
-Shot Chart Detail,0029600293,36,280,Felton Spencer,1610612744,Golden State Warriors,1,6,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,NYK,GSW
-Shot Chart Detail,0029600293,95,280,Felton Spencer,1610612744,Golden State Warriors,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961212,NYK,GSW
-Shot Chart Detail,0029600293,339,280,Felton Spencer,1610612744,Golden State Warriors,3,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,NYK,GSW
-Shot Chart Detail,0029600303,24,280,Felton Spencer,1610612744,Golden State Warriors,1,8,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,4,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,186,280,Felton Spencer,1610612744,Golden State Warriors,2,3,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,23,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,189,280,Felton Spencer,1610612744,Golden State Warriors,2,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,0,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,240,280,Felton Spencer,1610612744,Golden State Warriors,3,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,247,280,Felton Spencer,1610612744,Golden State Warriors,3,10,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,32,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,269,280,Felton Spencer,1610612744,Golden State Warriors,3,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,273,280,Felton Spencer,1610612744,Golden State Warriors,3,7,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,41,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,333,280,Felton Spencer,1610612744,Golden State Warriors,3,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,405,280,Felton Spencer,1610612744,Golden State Warriors,4,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600320,5,280,Felton Spencer,1610612744,Golden State Warriors,1,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,15,1,0,19961215,GSW,WAS
-Shot Chart Detail,0029600320,47,280,Felton Spencer,1610612744,Golden State Warriors,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,21,1,0,19961215,GSW,WAS
-Shot Chart Detail,0029600332,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961217,SEA,GSW
-Shot Chart Detail,0029600332,250,280,Felton Spencer,1610612744,Golden State Warriors,3,8,46,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-1,1,0,19961217,SEA,GSW
-Shot Chart Detail,0029600332,296,280,Felton Spencer,1610612744,Golden State Warriors,3,4,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,0,19961217,SEA,GSW
-Shot Chart Detail,0029600332,326,280,Felton Spencer,1610612744,Golden State Warriors,3,1,52,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-7,1,1,19961217,SEA,GSW
-Shot Chart Detail,0029600340,16,280,Felton Spencer,1610612744,Golden State Warriors,1,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961218,GSW,MIN
-Shot Chart Detail,0029600340,25,280,Felton Spencer,1610612744,Golden State Warriors,1,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,GSW,MIN
-Shot Chart Detail,0029600340,250,280,Felton Spencer,1610612744,Golden State Warriors,3,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,1,19961218,GSW,MIN
-Shot Chart Detail,0029600389,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,19961226,DAL,GSW
-Shot Chart Detail,0029600389,53,280,Felton Spencer,1610612744,Golden State Warriors,1,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,66,138,1,1,19961226,DAL,GSW
-Shot Chart Detail,0029600389,71,280,Felton Spencer,1610612744,Golden State Warriors,1,3,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,8,1,0,19961226,DAL,GSW
-Shot Chart Detail,0029600389,182,280,Felton Spencer,1610612744,Golden State Warriors,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-1,1,1,19961226,DAL,GSW
-Shot Chart Detail,0029600389,261,280,Felton Spencer,1610612744,Golden State Warriors,3,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,1,19961226,DAL,GSW
-Shot Chart Detail,0029600456,100,280,Felton Spencer,1610612744,Golden State Warriors,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970106,GSW,CHH
-Shot Chart Detail,0029600456,158,280,Felton Spencer,1610612744,Golden State Warriors,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,32,1,1,19970106,GSW,CHH
-Shot Chart Detail,0029600475,24,280,Felton Spencer,1610612744,Golden State Warriors,1,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,GSW,VAN
-Shot Chart Detail,0029600475,190,280,Felton Spencer,1610612744,Golden State Warriors,2,3,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,GSW,VAN
-Shot Chart Detail,0029600475,193,280,Felton Spencer,1610612744,Golden State Warriors,2,3,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,GSW,VAN
-Shot Chart Detail,0029600475,379,280,Felton Spencer,1610612744,Golden State Warriors,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970108,GSW,VAN
-Shot Chart Detail,0029600475,388,280,Felton Spencer,1610612744,Golden State Warriors,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970108,GSW,VAN
-Shot Chart Detail,0029600480,18,280,Felton Spencer,1610612744,Golden State Warriors,1,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970109,VAN,GSW
-Shot Chart Detail,0029600480,26,280,Felton Spencer,1610612744,Golden State Warriors,1,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,10,1,0,19970109,VAN,GSW
-Shot Chart Detail,0029600480,64,280,Felton Spencer,1610612744,Golden State Warriors,1,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,19,1,0,19970109,VAN,GSW
-Shot Chart Detail,0029600480,120,280,Felton Spencer,1610612744,Golden State Warriors,2,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970109,VAN,GSW
-Shot Chart Detail,0029600480,268,280,Felton Spencer,1610612744,Golden State Warriors,3,4,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970109,VAN,GSW
-Shot Chart Detail,0029600500,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,30,1,0,19970112,MIL,GSW
-Shot Chart Detail,0029600500,46,280,Felton Spencer,1610612744,Golden State Warriors,1,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970112,MIL,GSW
-Shot Chart Detail,0029600508,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,17,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600508,27,280,Felton Spencer,1610612744,Golden State Warriors,1,9,0,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600508,69,280,Felton Spencer,1610612744,Golden State Warriors,1,3,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600508,204,280,Felton Spencer,1610612744,Golden State Warriors,2,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600567,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,84,1,0,19970121,GSW,DAL
-Shot Chart Detail,0029600567,28,280,Felton Spencer,1610612744,Golden State Warriors,1,7,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970121,GSW,DAL
-Shot Chart Detail,0029600567,231,280,Felton Spencer,1610612744,Golden State Warriors,3,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,26,1,0,19970121,GSW,DAL
-Shot Chart Detail,0029600581,87,280,Felton Spencer,1610612744,Golden State Warriors,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,19,1,0,19970123,GSW,DET
-Shot Chart Detail,0029600581,212,280,Felton Spencer,1610612744,Golden State Warriors,3,7,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,30,1,1,19970123,GSW,DET
-Shot Chart Detail,0029600581,218,280,Felton Spencer,1610612744,Golden State Warriors,3,6,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970123,GSW,DET
-Shot Chart Detail,0029600590,200,280,Felton Spencer,1610612744,Golden State Warriors,2,5,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970124,LAL,GSW
-Shot Chart Detail,0029600590,410,280,Felton Spencer,1610612744,Golden State Warriors,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,41,1,1,19970124,LAL,GSW
-Shot Chart Detail,0029600590,456,280,Felton Spencer,1610612744,Golden State Warriors,4,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970124,LAL,GSW
-Shot Chart Detail,0029600605,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,44,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970127,GSW,VAN
-Shot Chart Detail,0029600605,242,280,Felton Spencer,1610612744,Golden State Warriors,3,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,97,1,1,19970127,GSW,VAN
-Shot Chart Detail,0029600605,255,280,Felton Spencer,1610612744,Golden State Warriors,3,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970127,GSW,VAN
-Shot Chart Detail,0029600624,7,280,Felton Spencer,1610612744,Golden State Warriors,1,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,GSW,SEA
-Shot Chart Detail,0029600624,350,280,Felton Spencer,1610612744,Golden State Warriors,4,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,0,19970129,GSW,SEA
-Shot Chart Detail,0029600624,364,280,Felton Spencer,1610612744,Golden State Warriors,4,9,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,GSW,SEA
-Shot Chart Detail,0029600636,241,280,Felton Spencer,1610612744,Golden State Warriors,3,9,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,41,1,0,19970131,GSW,CHI
-Shot Chart Detail,0029600645,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970201,LAC,GSW
-Shot Chart Detail,0029600645,9,280,Felton Spencer,1610612744,Golden State Warriors,1,11,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970201,LAC,GSW
-Shot Chart Detail,0029600645,225,280,Felton Spencer,1610612744,Golden State Warriors,3,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,15,1,0,19970201,LAC,GSW
-Shot Chart Detail,0029600645,241,280,Felton Spencer,1610612744,Golden State Warriors,3,8,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,47,1,1,19970201,LAC,GSW
-Shot Chart Detail,0029600666,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,0,19970204,GSW,ATL
-Shot Chart Detail,0029600666,71,280,Felton Spencer,1610612744,Golden State Warriors,1,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970204,GSW,ATL
-Shot Chart Detail,0029600666,78,280,Felton Spencer,1610612744,Golden State Warriors,1,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970204,GSW,ATL
-Shot Chart Detail,0029600666,239,280,Felton Spencer,1610612744,Golden State Warriors,3,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970204,GSW,ATL
-Shot Chart Detail,0029600703,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600703,221,280,Felton Spencer,1610612744,Golden State Warriors,3,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600703,225,280,Felton Spencer,1610612744,Golden State Warriors,3,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,10,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600703,233,280,Felton Spencer,1610612744,Golden State Warriors,3,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,DAL,GSW
-Shot Chart Detail,0029600703,389,280,Felton Spencer,1610612744,Golden State Warriors,4,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600712,37,280,Felton Spencer,1610612744,Golden State Warriors,1,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,SAS,GSW
-Shot Chart Detail,0029600712,41,280,Felton Spencer,1610612744,Golden State Warriors,1,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,SAS,GSW
-Shot Chart Detail,0029600712,217,280,Felton Spencer,1610612744,Golden State Warriors,2,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,SAS,GSW
-Shot Chart Detail,0029600712,263,280,Felton Spencer,1610612744,Golden State Warriors,3,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,SAS,GSW
-Shot Chart Detail,0029600712,294,280,Felton Spencer,1610612744,Golden State Warriors,3,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,SAS,GSW
-Shot Chart Detail,0029600712,337,280,Felton Spencer,1610612744,Golden State Warriors,3,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,SAS,GSW
-Shot Chart Detail,0029600728,43,280,Felton Spencer,1610612744,Golden State Warriors,1,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,SAC,GSW
-Shot Chart Detail,0029600749,32,280,Felton Spencer,1610612744,Golden State Warriors,1,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,101,108,1,0,19970219,GSW,BOS
-Shot Chart Detail,0029600749,151,280,Felton Spencer,1610612744,Golden State Warriors,2,6,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,28,1,0,19970219,GSW,BOS
-Shot Chart Detail,0029600764,45,280,Felton Spencer,1610612744,Golden State Warriors,1,6,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970221,MIN,GSW
-Shot Chart Detail,0029600764,85,280,Felton Spencer,1610612744,Golden State Warriors,1,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970221,MIN,GSW
-Shot Chart Detail,0029600764,303,280,Felton Spencer,1610612744,Golden State Warriors,3,3,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970221,MIN,GSW
-Shot Chart Detail,0029600771,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,62,1,0,19970222,CHI,GSW
-Shot Chart Detail,0029600771,250,280,Felton Spencer,1610612744,Golden State Warriors,3,10,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,CHI,GSW
-Shot Chart Detail,0029600771,285,280,Felton Spencer,1610612744,Golden State Warriors,3,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,CHI,GSW
-Shot Chart Detail,0029600784,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,52,1,0,19970224,ATL,GSW
-Shot Chart Detail,0029600784,22,280,Felton Spencer,1610612744,Golden State Warriors,1,8,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,ATL,GSW
-Shot Chart Detail,0029600784,208,280,Felton Spencer,1610612744,Golden State Warriors,3,11,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,69,1,1,19970224,ATL,GSW
-Shot Chart Detail,0029600784,240,280,Felton Spencer,1610612744,Golden State Warriors,3,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,101,1,0,19970224,ATL,GSW
-Shot Chart Detail,0029600784,256,280,Felton Spencer,1610612744,Golden State Warriors,3,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,17,1,1,19970224,ATL,GSW
-Shot Chart Detail,0029600797,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,39,1,1,19970226,DET,GSW
-Shot Chart Detail,0029600797,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,49,1,0,19970226,DET,GSW
-Shot Chart Detail,0029600797,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970226,DET,GSW
-Shot Chart Detail,0029600797,50,280,Felton Spencer,1610612744,Golden State Warriors,1,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,DET,GSW
-Shot Chart Detail,0029600797,52,280,Felton Spencer,1610612744,Golden State Warriors,1,5,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970226,DET,GSW
-Shot Chart Detail,0029600797,313,280,Felton Spencer,1610612744,Golden State Warriors,4,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,138,1,1,19970226,DET,GSW
-Shot Chart Detail,0029600810,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,60,49,1,0,19970228,NJN,GSW
-Shot Chart Detail,0029600810,16,280,Felton Spencer,1610612744,Golden State Warriors,1,9,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,NJN,GSW
-Shot Chart Detail,0029600820,47,280,Felton Spencer,1610612744,Golden State Warriors,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970301,WAS,GSW
-Shot Chart Detail,0029600836,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,17,280,Felton Spencer,1610612744,Golden State Warriors,1,8,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,71,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,56,280,Felton Spencer,1610612744,Golden State Warriors,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,41,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,76,280,Felton Spencer,1610612744,Golden State Warriors,1,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,0,19970303,GSW,UTA
-Shot Chart Detail,0029600836,85,280,Felton Spencer,1610612744,Golden State Warriors,1,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,21,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,163,280,Felton Spencer,1610612744,Golden State Warriors,2,0,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,185,280,Felton Spencer,1610612744,Golden State Warriors,3,9,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,21,1,0,19970303,GSW,UTA
-Shot Chart Detail,0029600836,191,280,Felton Spencer,1610612744,Golden State Warriors,3,9,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970303,GSW,UTA
-Shot Chart Detail,0029600836,360,280,Felton Spencer,1610612744,Golden State Warriors,4,2,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600854,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,GSW,HOU
-Shot Chart Detail,0029600854,18,280,Felton Spencer,1610612744,Golden State Warriors,1,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,52,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600854,288,280,Felton Spencer,1610612744,Golden State Warriors,3,1,38,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,19,32,1,1,19970305,GSW,HOU
-Shot Chart Detail,0029600854,315,280,Felton Spencer,1610612744,Golden State Warriors,4,10,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600854,317,280,Felton Spencer,1610612744,Golden State Warriors,4,10,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600854,379,280,Felton Spencer,1610612744,Golden State Warriors,4,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600870,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,45,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,50,280,Felton Spencer,1610612744,Golden State Warriors,1,4,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,54,280,Felton Spencer,1610612744,Golden State Warriors,1,4,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,17,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,129,280,Felton Spencer,1610612744,Golden State Warriors,2,9,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,25,52,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,146,280,Felton Spencer,1610612744,Golden State Warriors,2,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,186,280,Felton Spencer,1610612744,Golden State Warriors,2,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,2,1,0,19970307,GSW,ORL
-Shot Chart Detail,0029600870,210,280,Felton Spencer,1610612744,Golden State Warriors,2,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,GSW,ORL
-Shot Chart Detail,0029600885,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,32,1,0,19970309,GSW,SAC
-Shot Chart Detail,0029600885,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,18,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,GSW,SAC
-Shot Chart Detail,0029600885,21,280,Felton Spencer,1610612744,Golden State Warriors,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600885,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600885,239,280,Felton Spencer,1610612744,Golden State Warriors,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600885,418,280,Felton Spencer,1610612744,Golden State Warriors,4,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600887,62,280,Felton Spencer,1610612744,Golden State Warriors,1,5,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,95,1,0,19970310,LAC,GSW
-Shot Chart Detail,0029600887,174,280,Felton Spencer,1610612744,Golden State Warriors,2,5,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970310,LAC,GSW
-Shot Chart Detail,0029600887,219,280,Felton Spencer,1610612744,Golden State Warriors,2,1,36,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970310,LAC,GSW
-Shot Chart Detail,0029600927,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-51,114,1,1,19970315,GSW,TOR
-Shot Chart Detail,0029600927,10,280,Felton Spencer,1610612744,Golden State Warriors,1,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970315,GSW,TOR
-Shot Chart Detail,0029600927,57,280,Felton Spencer,1610612744,Golden State Warriors,1,4,12,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970315,GSW,TOR
-Shot Chart Detail,0029600927,71,280,Felton Spencer,1610612744,Golden State Warriors,1,2,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,19,1,1,19970315,GSW,TOR
-Shot Chart Detail,0029600927,102,280,Felton Spencer,1610612744,Golden State Warriors,2,10,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,45,1,0,19970315,GSW,TOR
-Shot Chart Detail,0029600927,211,280,Felton Spencer,1610612744,Golden State Warriors,3,9,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,28,1,1,19970315,GSW,TOR
-Shot Chart Detail,0029600943,462,280,Felton Spencer,1610612744,Golden State Warriors,1,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-4,1,0,19970317,GSW,PHX
-Shot Chart Detail,0029600943,23,280,Felton Spencer,1610612744,Golden State Warriors,1,9,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970317,GSW,PHX
-Shot Chart Detail,0029600943,479,280,Felton Spencer,1610612744,Golden State Warriors,1,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,GSW,PHX
-Shot Chart Detail,0029600943,484,280,Felton Spencer,1610612744,Golden State Warriors,1,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,GSW,PHX
-Shot Chart Detail,0029600943,489,280,Felton Spencer,1610612744,Golden State Warriors,1,2,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,21,1,0,19970317,GSW,PHX
-Shot Chart Detail,0029600943,239,280,Felton Spencer,1610612744,Golden State Warriors,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,GSW,PHX
-Shot Chart Detail,0029600954,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,MIA,GSW
-Shot Chart Detail,0029600954,16,280,Felton Spencer,1610612744,Golden State Warriors,1,10,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,MIA,GSW
-Shot Chart Detail,0029600954,39,280,Felton Spencer,1610612744,Golden State Warriors,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,MIA,GSW
-Shot Chart Detail,0029600954,257,280,Felton Spencer,1610612744,Golden State Warriors,3,8,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,-3,1,0,19970319,MIA,GSW
-Shot Chart Detail,0029600954,266,280,Felton Spencer,1610612744,Golden State Warriors,3,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,17,1,0,19970319,MIA,GSW
-Shot Chart Detail,0029600960,6,280,Felton Spencer,1610612744,Golden State Warriors,1,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,-16,1,1,19970320,ORL,GSW
-Shot Chart Detail,0029600960,148,280,Felton Spencer,1610612744,Golden State Warriors,2,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,ORL,GSW
-Shot Chart Detail,0029600960,328,280,Felton Spencer,1610612744,Golden State Warriors,3,1,24,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,19970320,ORL,GSW
-Shot Chart Detail,0029600976,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,2,1,0,19970322,CHH,GSW
-Shot Chart Detail,0029600976,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,CHH,GSW
-Shot Chart Detail,0029600976,256,280,Felton Spencer,1610612744,Golden State Warriors,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,45,1,0,19970322,CHH,GSW
-Shot Chart Detail,0029600976,282,280,Felton Spencer,1610612744,Golden State Warriors,3,0,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,CHH,GSW
-Shot Chart Detail,0029600976,354,280,Felton Spencer,1610612744,Golden State Warriors,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,4,1,0,19970322,CHH,GSW
-Shot Chart Detail,0029601000,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,0,19970325,GSW,SEA
-Shot Chart Detail,0029601000,87,280,Felton Spencer,1610612744,Golden State Warriors,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,215,280,Felton Spencer,1610612744,Golden State Warriors,2,3,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,257,280,Felton Spencer,1610612744,Golden State Warriors,3,10,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,34,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,272,280,Felton Spencer,1610612744,Golden State Warriors,3,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,293,280,Felton Spencer,1610612744,Golden State Warriors,3,6,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,313,280,Felton Spencer,1610612744,Golden State Warriors,3,3,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,45,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601037,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,43,1,1,19970330,GSW,MIN
-Shot Chart Detail,0029601037,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,GSW,MIN
-Shot Chart Detail,0029601037,23,280,Felton Spencer,1610612744,Golden State Warriors,1,8,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,21,1,0,19970330,GSW,MIN
-Shot Chart Detail,0029601037,50,280,Felton Spencer,1610612744,Golden State Warriors,1,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,GSW,MIN
-Shot Chart Detail,0029601037,55,280,Felton Spencer,1610612744,Golden State Warriors,1,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,GSW,MIN
-Shot Chart Detail,0029601037,212,280,Felton Spencer,1610612744,Golden State Warriors,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,23,1,0,19970330,GSW,MIN
-Shot Chart Detail,0029601045,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,67,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,36,280,Felton Spencer,1610612744,Golden State Warriors,1,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,240,280,Felton Spencer,1610612744,Golden State Warriors,3,9,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,253,280,Felton Spencer,1610612744,Golden State Warriors,3,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601045,283,280,Felton Spencer,1610612744,Golden State Warriors,3,5,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,78,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601045,304,280,Felton Spencer,1610612744,Golden State Warriors,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,312,280,Felton Spencer,1610612744,Golden State Warriors,3,2,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-3,132,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601060,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,7,280,Felton Spencer,1610612744,Golden State Warriors,1,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,10,280,Felton Spencer,1610612744,Golden State Warriors,1,11,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,2,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,279,280,Felton Spencer,1610612744,Golden State Warriors,3,6,57,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970403,GSW,DAL
-Shot Chart Detail,0029601060,301,280,Felton Spencer,1610612744,Golden State Warriors,3,3,32,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,1,19970403,GSW,DAL
-Shot Chart Detail,0029601076,25,280,Felton Spencer,1610612744,Golden State Warriors,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,10,1,0,19970405,GSW,SAS
-Shot Chart Detail,0029601076,231,280,Felton Spencer,1610612744,Golden State Warriors,3,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,GSW,SAS
-Shot Chart Detail,0029601076,237,280,Felton Spencer,1610612744,Golden State Warriors,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970405,GSW,SAS
-Shot Chart Detail,0029601076,243,280,Felton Spencer,1610612744,Golden State Warriors,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,97,1,1,19970405,GSW,SAS
-Shot Chart Detail,0029601084,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,47,114,1,1,19970406,GSW,UTA
-Shot Chart Detail,0029601084,13,280,Felton Spencer,1610612744,Golden State Warriors,1,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-12,1,0,19970406,GSW,UTA
-Shot Chart Detail,0029601084,48,280,Felton Spencer,1610612744,Golden State Warriors,1,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970406,GSW,UTA
-Shot Chart Detail,0029601084,226,280,Felton Spencer,1610612744,Golden State Warriors,3,10,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,GSW,UTA
-Shot Chart Detail,0029601084,269,280,Felton Spencer,1610612744,Golden State Warriors,3,7,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,GSW,UTA
-Shot Chart Detail,0029601099,5,280,Felton Spencer,1610612744,Golden State Warriors,1,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,45,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,25,280,Felton Spencer,1610612744,Golden State Warriors,1,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,101,4,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,55,280,Felton Spencer,1610612744,Golden State Warriors,1,5,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,89,280,Felton Spencer,1610612744,Golden State Warriors,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,53,88,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,232,280,Felton Spencer,1610612744,Golden State Warriors,3,10,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,39,1,1,19970408,GSW,LAL
-Shot Chart Detail,0029601099,246,280,Felton Spencer,1610612744,Golden State Warriors,3,8,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,1,19970408,GSW,LAL
-Shot Chart Detail,0029601099,268,280,Felton Spencer,1610612744,Golden State Warriors,3,5,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-14,123,1,1,19970408,GSW,LAL
-Shot Chart Detail,0029601113,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,17,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601113,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,39,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601113,45,280,Felton Spencer,1610612744,Golden State Warriors,1,7,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601113,200,280,Felton Spencer,1610612744,Golden State Warriors,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601122,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,41,1,1,19970411,SAC,GSW
-Shot Chart Detail,0029601122,313,280,Felton Spencer,1610612744,Golden State Warriors,3,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,13,1,0,19970411,SAC,GSW
-Shot Chart Detail,0029601136,18,280,Felton Spencer,1610612744,Golden State Warriors,1,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970413,GSW,PHX
-Shot Chart Detail,0029601136,76,280,Felton Spencer,1610612744,Golden State Warriors,1,3,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,GSW,PHX
-Shot Chart Detail,0029601136,264,280,Felton Spencer,1610612744,Golden State Warriors,3,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,GSW,PHX
-Shot Chart Detail,0029601136,300,280,Felton Spencer,1610612744,Golden State Warriors,3,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,GSW,PHX
-Shot Chart Detail,0029601144,17,280,Felton Spencer,1610612744,Golden State Warriors,1,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,15,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601144,60,280,Felton Spencer,1610612744,Golden State Warriors,1,5,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,67,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,63,280,Felton Spencer,1610612744,Golden State Warriors,1,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,43,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,212,280,Felton Spencer,1610612744,Golden State Warriors,2,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,43,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,229,280,Felton Spencer,1610612744,Golden State Warriors,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601144,242,280,Felton Spencer,1610612744,Golden State Warriors,3,10,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601144,243,280,Felton Spencer,1610612744,Golden State Warriors,3,10,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,267,280,Felton Spencer,1610612744,Golden State Warriors,3,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601161,11,280,Felton Spencer,1610612744,Golden State Warriors,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,13,1,0,19970417,UTA,GSW
-Shot Chart Detail,0029601161,24,280,Felton Spencer,1610612744,Golden State Warriors,1,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,65,1,0,19970417,UTA,GSW
-Shot Chart Detail,0029601161,283,280,Felton Spencer,1610612744,Golden State Warriors,3,4,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,30,1,0,19970417,UTA,GSW
-Shot Chart Detail,0029601180,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970419,GSW,SAC
-Shot Chart Detail,0029601180,15,280,Felton Spencer,1610612744,Golden State Warriors,1,9,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970419,GSW,SAC
-Shot Chart Detail,0029601180,17,280,Felton Spencer,1610612744,Golden State Warriors,1,9,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,19970419,GSW,SAC
-Shot Chart Detail,0029601180,32,280,Felton Spencer,1610612744,Golden State Warriors,1,7,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,62,1,0,19970419,GSW,SAC
-Shot Chart Detail,0029601180,63,280,Felton Spencer,1610612744,Golden State Warriors,1,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-3,1,0,19970419,GSW,SAC
-Shot Chart Detail,0029601180,226,280,Felton Spencer,1610612744,Golden State Warriors,3,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970419,GSW,SAC
-Shot Chart Detail,0029600004,53,280,Felton Spencer,1610612753,Orlando Magic,1,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,ORL,WAS
-Shot Chart Detail,0029600004,285,280,Felton Spencer,1610612753,Orlando Magic,3,5,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,ORL,WAS
-Shot Chart Detail,0029600038,99,280,Felton Spencer,1610612744,Golden State Warriors,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,36,1,0,19961105,GSW,POR
-Shot Chart Detail,0029600050,80,280,Felton Spencer,1610612744,Golden State Warriors,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,52,1,0,19961107,GSW,NYK
-Shot Chart Detail,0029600050,187,280,Felton Spencer,1610612744,Golden State Warriors,2,2,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961107,GSW,NYK
-Shot Chart Detail,0029600061,90,280,Felton Spencer,1610612744,Golden State Warriors,1,2,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,34,1,0,19961108,DEN,GSW
-Shot Chart Detail,0029600061,152,280,Felton Spencer,1610612744,Golden State Warriors,2,7,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,DEN,GSW
-Shot Chart Detail,0029600061,174,280,Felton Spencer,1610612744,Golden State Warriors,2,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,DEN,GSW
-Shot Chart Detail,0029600087,132,280,Felton Spencer,1610612744,Golden State Warriors,2,9,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961112,SEA,GSW
-Shot Chart Detail,0029600087,171,280,Felton Spencer,1610612744,Golden State Warriors,2,6,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961112,SEA,GSW
-Shot Chart Detail,0029600087,336,280,Felton Spencer,1610612744,Golden State Warriors,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,39,1,0,19961112,SEA,GSW
-Shot Chart Detail,0029600102,136,280,Felton Spencer,1610612744,Golden State Warriors,2,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961114,GSW,MIL
-Shot Chart Detail,0029600102,293,280,Felton Spencer,1610612744,Golden State Warriors,3,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961114,GSW,MIL
-Shot Chart Detail,0029600122,81,280,Felton Spencer,1610612744,Golden State Warriors,1,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600122,157,280,Felton Spencer,1610612744,Golden State Warriors,2,5,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,73,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600122,172,280,Felton Spencer,1610612744,Golden State Warriors,2,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600122,275,280,Felton Spencer,1610612744,Golden State Warriors,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,HOU,GSW
-Shot Chart Detail,0029600125,172,280,Felton Spencer,1610612744,Golden State Warriors,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,108,1,0,19961117,SAS,GSW
-Shot Chart Detail,0029600125,218,280,Felton Spencer,1610612744,Golden State Warriors,3,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961117,SAS,GSW
-Shot Chart Detail,0029600125,221,280,Felton Spencer,1610612744,Golden State Warriors,3,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961117,SAS,GSW
-Shot Chart Detail,0029600136,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,32,1,1,19961119,GSW,LAL
-Shot Chart Detail,0029600136,241,280,Felton Spencer,1610612744,Golden State Warriors,3,6,23,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,1,19961119,GSW,LAL
-Shot Chart Detail,0029600136,366,280,Felton Spencer,1610612744,Golden State Warriors,4,5,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,30,1,0,19961119,GSW,LAL
-Shot Chart Detail,0029600136,388,280,Felton Spencer,1610612744,Golden State Warriors,4,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961119,GSW,LAL
-Shot Chart Detail,0029600154,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961121,UTA,GSW
-Shot Chart Detail,0029600154,298,280,Felton Spencer,1610612744,Golden State Warriors,3,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961121,UTA,GSW
-Shot Chart Detail,0029600167,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961123,GSW,HOU
-Shot Chart Detail,0029600167,418,280,Felton Spencer,1610612744,Golden State Warriors,4,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,GSW,HOU
-Shot Chart Detail,0029600167,432,280,Felton Spencer,1610612744,Golden State Warriors,4,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961123,GSW,HOU
-Shot Chart Detail,0029600167,494,280,Felton Spencer,1610612744,Golden State Warriors,5,0,40,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,GSW,HOU
-Shot Chart Detail,0029600186,53,280,Felton Spencer,1610612744,Golden State Warriors,1,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,15,1,0,19961126,GSW,MIA
-Shot Chart Detail,0029600186,57,280,Felton Spencer,1610612744,Golden State Warriors,1,5,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,49,1,1,19961126,GSW,MIA
-Shot Chart Detail,0029600207,15,280,Felton Spencer,1610612744,Golden State Warriors,1,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,39,1,1,19961129,POR,GSW
-Shot Chart Detail,0029600220,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,GSW,POR
-Shot Chart Detail,0029600220,36,280,Felton Spencer,1610612744,Golden State Warriors,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,28,1,0,19961201,GSW,POR
-Shot Chart Detail,0029600220,52,280,Felton Spencer,1610612744,Golden State Warriors,1,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,0,1,1,19961201,GSW,POR
-Shot Chart Detail,0029600220,274,280,Felton Spencer,1610612744,Golden State Warriors,3,10,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,26,1,1,19961201,GSW,POR
-Shot Chart Detail,0029600232,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,0,19961203,GSW,DEN
-Shot Chart Detail,0029600232,61,280,Felton Spencer,1610612744,Golden State Warriors,1,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,64,280,Felton Spencer,1610612744,Golden State Warriors,1,3,17,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,32,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,226,280,Felton Spencer,1610612744,Golden State Warriors,3,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,250,280,Felton Spencer,1610612744,Golden State Warriors,3,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,266,280,Felton Spencer,1610612744,Golden State Warriors,3,3,59,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,28,1,1,19961203,GSW,DEN
-Shot Chart Detail,0029600232,410,280,Felton Spencer,1610612744,Golden State Warriors,4,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,19961203,GSW,DEN
-Shot Chart Detail,0029600241,268,280,Felton Spencer,1610612744,Golden State Warriors,3,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961204,PHX,GSW
-Shot Chart Detail,0029600241,295,280,Felton Spencer,1610612744,Golden State Warriors,3,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961204,PHX,GSW
-Shot Chart Detail,0029600241,321,280,Felton Spencer,1610612744,Golden State Warriors,3,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961204,PHX,GSW
-Shot Chart Detail,0029600254,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,54,1,1,19961206,GSW,IND
-Shot Chart Detail,0029600254,71,280,Felton Spencer,1610612744,Golden State Warriors,1,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961206,GSW,IND
-Shot Chart Detail,0029600271,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,41,1,1,19961208,GSW,SAS
-Shot Chart Detail,0029600271,227,280,Felton Spencer,1610612744,Golden State Warriors,3,6,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961208,GSW,SAS
-Shot Chart Detail,0029600277,106,280,Felton Spencer,1610612744,Golden State Warriors,2,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961210,TOR,GSW
-Shot Chart Detail,0029600277,287,280,Felton Spencer,1610612744,Golden State Warriors,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961210,TOR,GSW
-Shot Chart Detail,0029600277,464,280,Felton Spencer,1610612744,Golden State Warriors,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,79,67,1,0,19961210,TOR,GSW
-Shot Chart Detail,0029600293,34,280,Felton Spencer,1610612744,Golden State Warriors,1,6,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,NYK,GSW
-Shot Chart Detail,0029600293,36,280,Felton Spencer,1610612744,Golden State Warriors,1,6,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,NYK,GSW
-Shot Chart Detail,0029600293,95,280,Felton Spencer,1610612744,Golden State Warriors,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961212,NYK,GSW
-Shot Chart Detail,0029600293,339,280,Felton Spencer,1610612744,Golden State Warriors,3,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,NYK,GSW
-Shot Chart Detail,0029600303,24,280,Felton Spencer,1610612744,Golden State Warriors,1,8,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,4,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,186,280,Felton Spencer,1610612744,Golden State Warriors,2,3,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,23,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,189,280,Felton Spencer,1610612744,Golden State Warriors,2,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,0,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,240,280,Felton Spencer,1610612744,Golden State Warriors,3,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,247,280,Felton Spencer,1610612744,Golden State Warriors,3,10,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,32,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,269,280,Felton Spencer,1610612744,Golden State Warriors,3,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600303,273,280,Felton Spencer,1610612744,Golden State Warriors,3,7,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,41,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,333,280,Felton Spencer,1610612744,Golden State Warriors,3,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961213,CLE,GSW
-Shot Chart Detail,0029600303,405,280,Felton Spencer,1610612744,Golden State Warriors,4,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,CLE,GSW
-Shot Chart Detail,0029600320,5,280,Felton Spencer,1610612744,Golden State Warriors,1,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,15,1,0,19961215,GSW,WAS
-Shot Chart Detail,0029600320,47,280,Felton Spencer,1610612744,Golden State Warriors,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,21,1,0,19961215,GSW,WAS
-Shot Chart Detail,0029600332,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961217,SEA,GSW
-Shot Chart Detail,0029600332,250,280,Felton Spencer,1610612744,Golden State Warriors,3,8,46,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-1,1,0,19961217,SEA,GSW
-Shot Chart Detail,0029600332,296,280,Felton Spencer,1610612744,Golden State Warriors,3,4,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,0,19961217,SEA,GSW
-Shot Chart Detail,0029600332,326,280,Felton Spencer,1610612744,Golden State Warriors,3,1,52,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-7,1,1,19961217,SEA,GSW
-Shot Chart Detail,0029600340,16,280,Felton Spencer,1610612744,Golden State Warriors,1,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961218,GSW,MIN
-Shot Chart Detail,0029600340,25,280,Felton Spencer,1610612744,Golden State Warriors,1,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,GSW,MIN
-Shot Chart Detail,0029600340,250,280,Felton Spencer,1610612744,Golden State Warriors,3,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,1,19961218,GSW,MIN
-Shot Chart Detail,0029600389,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,19961226,DAL,GSW
-Shot Chart Detail,0029600389,53,280,Felton Spencer,1610612744,Golden State Warriors,1,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,66,138,1,1,19961226,DAL,GSW
-Shot Chart Detail,0029600389,71,280,Felton Spencer,1610612744,Golden State Warriors,1,3,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,8,1,0,19961226,DAL,GSW
-Shot Chart Detail,0029600389,182,280,Felton Spencer,1610612744,Golden State Warriors,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-1,1,1,19961226,DAL,GSW
-Shot Chart Detail,0029600389,261,280,Felton Spencer,1610612744,Golden State Warriors,3,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,1,19961226,DAL,GSW
-Shot Chart Detail,0029600456,100,280,Felton Spencer,1610612744,Golden State Warriors,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970106,GSW,CHH
-Shot Chart Detail,0029600456,158,280,Felton Spencer,1610612744,Golden State Warriors,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,32,1,1,19970106,GSW,CHH
-Shot Chart Detail,0029600475,24,280,Felton Spencer,1610612744,Golden State Warriors,1,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,GSW,VAN
-Shot Chart Detail,0029600475,190,280,Felton Spencer,1610612744,Golden State Warriors,2,3,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,GSW,VAN
-Shot Chart Detail,0029600475,193,280,Felton Spencer,1610612744,Golden State Warriors,2,3,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,GSW,VAN
-Shot Chart Detail,0029600475,379,280,Felton Spencer,1610612744,Golden State Warriors,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970108,GSW,VAN
-Shot Chart Detail,0029600475,388,280,Felton Spencer,1610612744,Golden State Warriors,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970108,GSW,VAN
-Shot Chart Detail,0029600480,18,280,Felton Spencer,1610612744,Golden State Warriors,1,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970109,VAN,GSW
-Shot Chart Detail,0029600480,26,280,Felton Spencer,1610612744,Golden State Warriors,1,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,10,1,0,19970109,VAN,GSW
-Shot Chart Detail,0029600480,64,280,Felton Spencer,1610612744,Golden State Warriors,1,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,19,1,0,19970109,VAN,GSW
-Shot Chart Detail,0029600480,120,280,Felton Spencer,1610612744,Golden State Warriors,2,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970109,VAN,GSW
-Shot Chart Detail,0029600480,268,280,Felton Spencer,1610612744,Golden State Warriors,3,4,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970109,VAN,GSW
-Shot Chart Detail,0029600500,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,30,1,0,19970112,MIL,GSW
-Shot Chart Detail,0029600500,46,280,Felton Spencer,1610612744,Golden State Warriors,1,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970112,MIL,GSW
-Shot Chart Detail,0029600508,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,17,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600508,27,280,Felton Spencer,1610612744,Golden State Warriors,1,9,0,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600508,69,280,Felton Spencer,1610612744,Golden State Warriors,1,3,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600508,204,280,Felton Spencer,1610612744,Golden State Warriors,2,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,BOS,GSW
-Shot Chart Detail,0029600567,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,84,1,0,19970121,GSW,DAL
-Shot Chart Detail,0029600567,28,280,Felton Spencer,1610612744,Golden State Warriors,1,7,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970121,GSW,DAL
-Shot Chart Detail,0029600567,231,280,Felton Spencer,1610612744,Golden State Warriors,3,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,26,1,0,19970121,GSW,DAL
-Shot Chart Detail,0029600581,87,280,Felton Spencer,1610612744,Golden State Warriors,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,19,1,0,19970123,GSW,DET
-Shot Chart Detail,0029600581,212,280,Felton Spencer,1610612744,Golden State Warriors,3,7,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,30,1,1,19970123,GSW,DET
-Shot Chart Detail,0029600581,218,280,Felton Spencer,1610612744,Golden State Warriors,3,6,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970123,GSW,DET
-Shot Chart Detail,0029600590,200,280,Felton Spencer,1610612744,Golden State Warriors,2,5,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970124,LAL,GSW
-Shot Chart Detail,0029600590,410,280,Felton Spencer,1610612744,Golden State Warriors,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,41,1,1,19970124,LAL,GSW
-Shot Chart Detail,0029600590,456,280,Felton Spencer,1610612744,Golden State Warriors,4,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970124,LAL,GSW
-Shot Chart Detail,0029600605,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,44,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970127,GSW,VAN
-Shot Chart Detail,0029600605,242,280,Felton Spencer,1610612744,Golden State Warriors,3,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,97,1,1,19970127,GSW,VAN
-Shot Chart Detail,0029600605,255,280,Felton Spencer,1610612744,Golden State Warriors,3,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970127,GSW,VAN
-Shot Chart Detail,0029600624,7,280,Felton Spencer,1610612744,Golden State Warriors,1,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,GSW,SEA
-Shot Chart Detail,0029600624,350,280,Felton Spencer,1610612744,Golden State Warriors,4,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,0,19970129,GSW,SEA
-Shot Chart Detail,0029600624,364,280,Felton Spencer,1610612744,Golden State Warriors,4,9,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,GSW,SEA
-Shot Chart Detail,0029600636,241,280,Felton Spencer,1610612744,Golden State Warriors,3,9,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,41,1,0,19970131,GSW,CHI
-Shot Chart Detail,0029600645,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970201,LAC,GSW
-Shot Chart Detail,0029600645,9,280,Felton Spencer,1610612744,Golden State Warriors,1,11,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970201,LAC,GSW
-Shot Chart Detail,0029600645,225,280,Felton Spencer,1610612744,Golden State Warriors,3,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,15,1,0,19970201,LAC,GSW
-Shot Chart Detail,0029600645,241,280,Felton Spencer,1610612744,Golden State Warriors,3,8,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,47,1,1,19970201,LAC,GSW
-Shot Chart Detail,0029600666,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,0,19970204,GSW,ATL
-Shot Chart Detail,0029600666,71,280,Felton Spencer,1610612744,Golden State Warriors,1,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970204,GSW,ATL
-Shot Chart Detail,0029600666,78,280,Felton Spencer,1610612744,Golden State Warriors,1,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970204,GSW,ATL
-Shot Chart Detail,0029600666,239,280,Felton Spencer,1610612744,Golden State Warriors,3,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970204,GSW,ATL
-Shot Chart Detail,0029600703,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600703,221,280,Felton Spencer,1610612744,Golden State Warriors,3,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600703,225,280,Felton Spencer,1610612744,Golden State Warriors,3,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,10,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600703,233,280,Felton Spencer,1610612744,Golden State Warriors,3,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,DAL,GSW
-Shot Chart Detail,0029600703,389,280,Felton Spencer,1610612744,Golden State Warriors,4,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,DAL,GSW
-Shot Chart Detail,0029600712,37,280,Felton Spencer,1610612744,Golden State Warriors,1,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,SAS,GSW
-Shot Chart Detail,0029600712,41,280,Felton Spencer,1610612744,Golden State Warriors,1,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,SAS,GSW
-Shot Chart Detail,0029600712,217,280,Felton Spencer,1610612744,Golden State Warriors,2,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,SAS,GSW
-Shot Chart Detail,0029600712,263,280,Felton Spencer,1610612744,Golden State Warriors,3,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,SAS,GSW
-Shot Chart Detail,0029600712,294,280,Felton Spencer,1610612744,Golden State Warriors,3,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,SAS,GSW
-Shot Chart Detail,0029600712,337,280,Felton Spencer,1610612744,Golden State Warriors,3,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,SAS,GSW
-Shot Chart Detail,0029600728,43,280,Felton Spencer,1610612744,Golden State Warriors,1,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,SAC,GSW
-Shot Chart Detail,0029600749,32,280,Felton Spencer,1610612744,Golden State Warriors,1,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,101,108,1,0,19970219,GSW,BOS
-Shot Chart Detail,0029600749,151,280,Felton Spencer,1610612744,Golden State Warriors,2,6,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,28,1,0,19970219,GSW,BOS
-Shot Chart Detail,0029600764,45,280,Felton Spencer,1610612744,Golden State Warriors,1,6,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970221,MIN,GSW
-Shot Chart Detail,0029600764,85,280,Felton Spencer,1610612744,Golden State Warriors,1,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970221,MIN,GSW
-Shot Chart Detail,0029600764,303,280,Felton Spencer,1610612744,Golden State Warriors,3,3,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970221,MIN,GSW
-Shot Chart Detail,0029600771,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,62,1,0,19970222,CHI,GSW
-Shot Chart Detail,0029600771,250,280,Felton Spencer,1610612744,Golden State Warriors,3,10,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,CHI,GSW
-Shot Chart Detail,0029600771,285,280,Felton Spencer,1610612744,Golden State Warriors,3,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,CHI,GSW
-Shot Chart Detail,0029600784,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,52,1,0,19970224,ATL,GSW
-Shot Chart Detail,0029600784,22,280,Felton Spencer,1610612744,Golden State Warriors,1,8,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,ATL,GSW
-Shot Chart Detail,0029600784,208,280,Felton Spencer,1610612744,Golden State Warriors,3,11,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,69,1,1,19970224,ATL,GSW
-Shot Chart Detail,0029600784,240,280,Felton Spencer,1610612744,Golden State Warriors,3,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,101,1,0,19970224,ATL,GSW
-Shot Chart Detail,0029600784,256,280,Felton Spencer,1610612744,Golden State Warriors,3,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,17,1,1,19970224,ATL,GSW
-Shot Chart Detail,0029600797,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,39,1,1,19970226,DET,GSW
-Shot Chart Detail,0029600797,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,49,1,0,19970226,DET,GSW
-Shot Chart Detail,0029600797,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970226,DET,GSW
-Shot Chart Detail,0029600797,50,280,Felton Spencer,1610612744,Golden State Warriors,1,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,DET,GSW
-Shot Chart Detail,0029600797,52,280,Felton Spencer,1610612744,Golden State Warriors,1,5,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970226,DET,GSW
-Shot Chart Detail,0029600797,313,280,Felton Spencer,1610612744,Golden State Warriors,4,7,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,138,1,1,19970226,DET,GSW
-Shot Chart Detail,0029600810,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,60,49,1,0,19970228,NJN,GSW
-Shot Chart Detail,0029600810,16,280,Felton Spencer,1610612744,Golden State Warriors,1,9,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,NJN,GSW
-Shot Chart Detail,0029600820,47,280,Felton Spencer,1610612744,Golden State Warriors,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970301,WAS,GSW
-Shot Chart Detail,0029600836,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,17,280,Felton Spencer,1610612744,Golden State Warriors,1,8,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,71,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,56,280,Felton Spencer,1610612744,Golden State Warriors,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,41,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,76,280,Felton Spencer,1610612744,Golden State Warriors,1,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,0,19970303,GSW,UTA
-Shot Chart Detail,0029600836,85,280,Felton Spencer,1610612744,Golden State Warriors,1,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,21,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,163,280,Felton Spencer,1610612744,Golden State Warriors,2,0,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600836,185,280,Felton Spencer,1610612744,Golden State Warriors,3,9,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,21,1,0,19970303,GSW,UTA
-Shot Chart Detail,0029600836,191,280,Felton Spencer,1610612744,Golden State Warriors,3,9,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970303,GSW,UTA
-Shot Chart Detail,0029600836,360,280,Felton Spencer,1610612744,Golden State Warriors,4,2,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,GSW,UTA
-Shot Chart Detail,0029600854,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,GSW,HOU
-Shot Chart Detail,0029600854,18,280,Felton Spencer,1610612744,Golden State Warriors,1,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,52,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600854,288,280,Felton Spencer,1610612744,Golden State Warriors,3,1,38,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,19,32,1,1,19970305,GSW,HOU
-Shot Chart Detail,0029600854,315,280,Felton Spencer,1610612744,Golden State Warriors,4,10,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600854,317,280,Felton Spencer,1610612744,Golden State Warriors,4,10,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600854,379,280,Felton Spencer,1610612744,Golden State Warriors,4,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,GSW,HOU
-Shot Chart Detail,0029600870,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,45,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,50,280,Felton Spencer,1610612744,Golden State Warriors,1,4,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,54,280,Felton Spencer,1610612744,Golden State Warriors,1,4,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,17,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,129,280,Felton Spencer,1610612744,Golden State Warriors,2,9,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,25,52,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,146,280,Felton Spencer,1610612744,Golden State Warriors,2,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,GSW,ORL
-Shot Chart Detail,0029600870,186,280,Felton Spencer,1610612744,Golden State Warriors,2,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,2,1,0,19970307,GSW,ORL
-Shot Chart Detail,0029600870,210,280,Felton Spencer,1610612744,Golden State Warriors,2,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,GSW,ORL
-Shot Chart Detail,0029600885,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,32,1,0,19970309,GSW,SAC
-Shot Chart Detail,0029600885,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,18,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,GSW,SAC
-Shot Chart Detail,0029600885,21,280,Felton Spencer,1610612744,Golden State Warriors,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600885,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600885,239,280,Felton Spencer,1610612744,Golden State Warriors,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600885,418,280,Felton Spencer,1610612744,Golden State Warriors,4,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,GSW,SAC
-Shot Chart Detail,0029600887,62,280,Felton Spencer,1610612744,Golden State Warriors,1,5,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,95,1,0,19970310,LAC,GSW
-Shot Chart Detail,0029600887,174,280,Felton Spencer,1610612744,Golden State Warriors,2,5,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970310,LAC,GSW
-Shot Chart Detail,0029600887,219,280,Felton Spencer,1610612744,Golden State Warriors,2,1,36,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970310,LAC,GSW
-Shot Chart Detail,0029600927,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-51,114,1,1,19970315,GSW,TOR
-Shot Chart Detail,0029600927,10,280,Felton Spencer,1610612744,Golden State Warriors,1,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970315,GSW,TOR
-Shot Chart Detail,0029600927,57,280,Felton Spencer,1610612744,Golden State Warriors,1,4,12,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970315,GSW,TOR
-Shot Chart Detail,0029600927,71,280,Felton Spencer,1610612744,Golden State Warriors,1,2,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,19,1,1,19970315,GSW,TOR
-Shot Chart Detail,0029600927,102,280,Felton Spencer,1610612744,Golden State Warriors,2,10,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,45,1,0,19970315,GSW,TOR
-Shot Chart Detail,0029600927,211,280,Felton Spencer,1610612744,Golden State Warriors,3,9,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,28,1,1,19970315,GSW,TOR
-Shot Chart Detail,0029600943,462,280,Felton Spencer,1610612744,Golden State Warriors,1,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-4,1,0,19970317,GSW,PHX
-Shot Chart Detail,0029600943,23,280,Felton Spencer,1610612744,Golden State Warriors,1,9,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970317,GSW,PHX
-Shot Chart Detail,0029600943,479,280,Felton Spencer,1610612744,Golden State Warriors,1,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,GSW,PHX
-Shot Chart Detail,0029600943,484,280,Felton Spencer,1610612744,Golden State Warriors,1,4,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,GSW,PHX
-Shot Chart Detail,0029600943,489,280,Felton Spencer,1610612744,Golden State Warriors,1,2,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,21,1,0,19970317,GSW,PHX
-Shot Chart Detail,0029600943,239,280,Felton Spencer,1610612744,Golden State Warriors,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,GSW,PHX
-Shot Chart Detail,0029600954,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,MIA,GSW
-Shot Chart Detail,0029600954,16,280,Felton Spencer,1610612744,Golden State Warriors,1,10,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,MIA,GSW
-Shot Chart Detail,0029600954,39,280,Felton Spencer,1610612744,Golden State Warriors,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,MIA,GSW
-Shot Chart Detail,0029600954,257,280,Felton Spencer,1610612744,Golden State Warriors,3,8,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,-3,1,0,19970319,MIA,GSW
-Shot Chart Detail,0029600954,266,280,Felton Spencer,1610612744,Golden State Warriors,3,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,17,1,0,19970319,MIA,GSW
-Shot Chart Detail,0029600960,6,280,Felton Spencer,1610612744,Golden State Warriors,1,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,-16,1,1,19970320,ORL,GSW
-Shot Chart Detail,0029600960,148,280,Felton Spencer,1610612744,Golden State Warriors,2,7,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,ORL,GSW
-Shot Chart Detail,0029600960,328,280,Felton Spencer,1610612744,Golden State Warriors,3,1,24,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,19970320,ORL,GSW
-Shot Chart Detail,0029600976,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,2,1,0,19970322,CHH,GSW
-Shot Chart Detail,0029600976,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,CHH,GSW
-Shot Chart Detail,0029600976,256,280,Felton Spencer,1610612744,Golden State Warriors,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,45,1,0,19970322,CHH,GSW
-Shot Chart Detail,0029600976,282,280,Felton Spencer,1610612744,Golden State Warriors,3,0,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,CHH,GSW
-Shot Chart Detail,0029600976,354,280,Felton Spencer,1610612744,Golden State Warriors,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,4,1,0,19970322,CHH,GSW
-Shot Chart Detail,0029601000,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,0,19970325,GSW,SEA
-Shot Chart Detail,0029601000,87,280,Felton Spencer,1610612744,Golden State Warriors,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,215,280,Felton Spencer,1610612744,Golden State Warriors,2,3,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,257,280,Felton Spencer,1610612744,Golden State Warriors,3,10,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,34,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,272,280,Felton Spencer,1610612744,Golden State Warriors,3,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,293,280,Felton Spencer,1610612744,Golden State Warriors,3,6,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601000,313,280,Felton Spencer,1610612744,Golden State Warriors,3,3,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,45,1,1,19970325,GSW,SEA
-Shot Chart Detail,0029601037,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,43,1,1,19970330,GSW,MIN
-Shot Chart Detail,0029601037,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,GSW,MIN
-Shot Chart Detail,0029601037,23,280,Felton Spencer,1610612744,Golden State Warriors,1,8,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,21,1,0,19970330,GSW,MIN
-Shot Chart Detail,0029601037,50,280,Felton Spencer,1610612744,Golden State Warriors,1,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,GSW,MIN
-Shot Chart Detail,0029601037,55,280,Felton Spencer,1610612744,Golden State Warriors,1,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,GSW,MIN
-Shot Chart Detail,0029601037,212,280,Felton Spencer,1610612744,Golden State Warriors,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,23,1,0,19970330,GSW,MIN
-Shot Chart Detail,0029601045,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,67,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,36,280,Felton Spencer,1610612744,Golden State Warriors,1,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,240,280,Felton Spencer,1610612744,Golden State Warriors,3,9,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,253,280,Felton Spencer,1610612744,Golden State Warriors,3,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601045,283,280,Felton Spencer,1610612744,Golden State Warriors,3,5,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,78,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601045,304,280,Felton Spencer,1610612744,Golden State Warriors,3,2,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,312,280,Felton Spencer,1610612744,Golden State Warriors,3,2,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-3,132,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601060,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,7,280,Felton Spencer,1610612744,Golden State Warriors,1,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,10,280,Felton Spencer,1610612744,Golden State Warriors,1,11,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,2,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,GSW,DAL
-Shot Chart Detail,0029601060,279,280,Felton Spencer,1610612744,Golden State Warriors,3,6,57,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970403,GSW,DAL
-Shot Chart Detail,0029601060,301,280,Felton Spencer,1610612744,Golden State Warriors,3,3,32,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,1,19970403,GSW,DAL
-Shot Chart Detail,0029601076,25,280,Felton Spencer,1610612744,Golden State Warriors,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,10,1,0,19970405,GSW,SAS
-Shot Chart Detail,0029601076,231,280,Felton Spencer,1610612744,Golden State Warriors,3,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,GSW,SAS
-Shot Chart Detail,0029601076,237,280,Felton Spencer,1610612744,Golden State Warriors,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970405,GSW,SAS
-Shot Chart Detail,0029601076,243,280,Felton Spencer,1610612744,Golden State Warriors,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,97,1,1,19970405,GSW,SAS
-Shot Chart Detail,0029601084,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,47,114,1,1,19970406,GSW,UTA
-Shot Chart Detail,0029601084,13,280,Felton Spencer,1610612744,Golden State Warriors,1,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-12,1,0,19970406,GSW,UTA
-Shot Chart Detail,0029601084,48,280,Felton Spencer,1610612744,Golden State Warriors,1,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970406,GSW,UTA
-Shot Chart Detail,0029601084,226,280,Felton Spencer,1610612744,Golden State Warriors,3,10,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,GSW,UTA
-Shot Chart Detail,0029601084,269,280,Felton Spencer,1610612744,Golden State Warriors,3,7,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,GSW,UTA
-Shot Chart Detail,0029601099,5,280,Felton Spencer,1610612744,Golden State Warriors,1,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,45,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,25,280,Felton Spencer,1610612744,Golden State Warriors,1,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,101,4,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,55,280,Felton Spencer,1610612744,Golden State Warriors,1,5,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,89,280,Felton Spencer,1610612744,Golden State Warriors,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,53,88,1,0,19970408,GSW,LAL
-Shot Chart Detail,0029601099,232,280,Felton Spencer,1610612744,Golden State Warriors,3,10,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,39,1,1,19970408,GSW,LAL
-Shot Chart Detail,0029601099,246,280,Felton Spencer,1610612744,Golden State Warriors,3,8,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,1,19970408,GSW,LAL
-Shot Chart Detail,0029601099,268,280,Felton Spencer,1610612744,Golden State Warriors,3,5,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-14,123,1,1,19970408,GSW,LAL
-Shot Chart Detail,0029601113,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,17,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601113,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,39,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601113,45,280,Felton Spencer,1610612744,Golden State Warriors,1,7,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601113,200,280,Felton Spencer,1610612744,Golden State Warriors,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,GSW,DEN
-Shot Chart Detail,0029601122,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,41,1,1,19970411,SAC,GSW
-Shot Chart Detail,0029601122,313,280,Felton Spencer,1610612744,Golden State Warriors,3,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,13,1,0,19970411,SAC,GSW
-Shot Chart Detail,0029601136,18,280,Felton Spencer,1610612744,Golden State Warriors,1,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970413,GSW,PHX
-Shot Chart Detail,0029601136,76,280,Felton Spencer,1610612744,Golden State Warriors,1,3,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,GSW,PHX
-Shot Chart Detail,0029601136,264,280,Felton Spencer,1610612744,Golden State Warriors,3,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,GSW,PHX
-Shot Chart Detail,0029601136,300,280,Felton Spencer,1610612744,Golden State Warriors,3,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,GSW,PHX
-Shot Chart Detail,0029601144,17,280,Felton Spencer,1610612744,Golden State Warriors,1,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,15,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601144,60,280,Felton Spencer,1610612744,Golden State Warriors,1,5,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,67,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,63,280,Felton Spencer,1610612744,Golden State Warriors,1,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,43,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,212,280,Felton Spencer,1610612744,Golden State Warriors,2,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,43,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,229,280,Felton Spencer,1610612744,Golden State Warriors,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601144,242,280,Felton Spencer,1610612744,Golden State Warriors,3,10,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601144,243,280,Felton Spencer,1610612744,Golden State Warriors,3,10,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970414,DEN,GSW
-Shot Chart Detail,0029601144,267,280,Felton Spencer,1610612744,Golden State Warriors,3,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,DEN,GSW
-Shot Chart Detail,0029601161,11,280,Felton Spencer,1610612744,Golden State Warriors,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,13,1,0,19970417,UTA,GSW
-Shot Chart Detail,0029601161,24,280,Felton Spencer,1610612744,Golden State Warriors,1,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,65,1,0,19970417,UTA,GSW
-Shot Chart Detail,0029601161,283,280,Felton Spencer,1610612744,Golden State Warriors,3,4,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,30,1,0,19970417,UTA,GSW
-Shot Chart Detail,0029601180,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970419,GSW,SAC
-Shot Chart Detail,0029601180,15,280,Felton Spencer,1610612744,Golden State Warriors,1,9,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970419,GSW,SAC
-Shot Chart Detail,0029601180,17,280,Felton Spencer,1610612744,Golden State Warriors,1,9,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,19970419,GSW,SAC
-Shot Chart Detail,0029601180,32,280,Felton Spencer,1610612744,Golden State Warriors,1,7,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,62,1,0,19970419,GSW,SAC
-Shot Chart Detail,0029601180,63,280,Felton Spencer,1610612744,Golden State Warriors,1,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,-3,1,0,19970419,GSW,SAC
-Shot Chart Detail,0029601180,226,280,Felton Spencer,1610612744,Golden State Warriors,3,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970419,GSW,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29600004,53,280,Felton Spencer,1610612753,Orlando Magic,1,6,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,0,ORL,WAS
+Shot Chart Detail,29600004,285,280,Felton Spencer,1610612753,Orlando Magic,3,5,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,0,ORL,WAS
+Shot Chart Detail,29600038,99,280,Felton Spencer,1610612744,Golden State Warriors,1,1,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,36,1,0,19961105,0,GSW,POR
+Shot Chart Detail,29600050,80,280,Felton Spencer,1610612744,Golden State Warriors,1,2,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,52,1,0,19961107,0,GSW,NYK
+Shot Chart Detail,29600050,187,280,Felton Spencer,1610612744,Golden State Warriors,2,2,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961107,0,GSW,NYK
+Shot Chart Detail,29600061,90,280,Felton Spencer,1610612744,Golden State Warriors,1,2,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,34,1,0,19961108,0,DEN,GSW
+Shot Chart Detail,29600061,152,280,Felton Spencer,1610612744,Golden State Warriors,2,7,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,1,DEN,GSW
+Shot Chart Detail,29600061,174,280,Felton Spencer,1610612744,Golden State Warriors,2,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,0,DEN,GSW
+Shot Chart Detail,29600087,132,280,Felton Spencer,1610612744,Golden State Warriors,2,9,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961112,0,SEA,GSW
+Shot Chart Detail,29600087,171,280,Felton Spencer,1610612744,Golden State Warriors,2,6,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961112,0,SEA,GSW
+Shot Chart Detail,29600087,336,280,Felton Spencer,1610612744,Golden State Warriors,3,0,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,39,1,0,19961112,0,SEA,GSW
+Shot Chart Detail,29600102,136,280,Felton Spencer,1610612744,Golden State Warriors,2,7,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961114,0,GSW,MIL
+Shot Chart Detail,29600102,293,280,Felton Spencer,1610612744,Golden State Warriors,3,0,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961114,1,GSW,MIL
+Shot Chart Detail,29600122,81,280,Felton Spencer,1610612744,Golden State Warriors,1,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,1,HOU,GSW
+Shot Chart Detail,29600122,157,280,Felton Spencer,1610612744,Golden State Warriors,2,5,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,73,1,1,19961116,0,HOU,GSW
+Shot Chart Detail,29600122,172,280,Felton Spencer,1610612744,Golden State Warriors,2,4,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,1,HOU,GSW
+Shot Chart Detail,29600122,275,280,Felton Spencer,1610612744,Golden State Warriors,3,5,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961116,0,HOU,GSW
+Shot Chart Detail,29600125,172,280,Felton Spencer,1610612744,Golden State Warriors,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,108,1,0,19961117,0,SAS,GSW
+Shot Chart Detail,29600125,218,280,Felton Spencer,1610612744,Golden State Warriors,3,10,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961117,0,SAS,GSW
+Shot Chart Detail,29600125,221,280,Felton Spencer,1610612744,Golden State Warriors,3,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961117,1,SAS,GSW
+Shot Chart Detail,29600136,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,32,1,1,19961119,1,GSW,LAL
+Shot Chart Detail,29600136,241,280,Felton Spencer,1610612744,Golden State Warriors,3,6,23,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,1,19961119,1,GSW,LAL
+Shot Chart Detail,29600136,366,280,Felton Spencer,1610612744,Golden State Warriors,4,5,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-66,30,1,0,19961119,0,GSW,LAL
+Shot Chart Detail,29600136,388,280,Felton Spencer,1610612744,Golden State Warriors,4,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961119,0,GSW,LAL
+Shot Chart Detail,29600154,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961121,0,UTA,GSW
+Shot Chart Detail,29600154,298,280,Felton Spencer,1610612744,Golden State Warriors,3,6,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961121,1,UTA,GSW
+Shot Chart Detail,29600167,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961123,1,GSW,HOU
+Shot Chart Detail,29600167,418,280,Felton Spencer,1610612744,Golden State Warriors,4,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,0,GSW,HOU
+Shot Chart Detail,29600167,432,280,Felton Spencer,1610612744,Golden State Warriors,4,0,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961123,1,GSW,HOU
+Shot Chart Detail,29600167,494,280,Felton Spencer,1610612744,Golden State Warriors,5,0,40,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,0,GSW,HOU
+Shot Chart Detail,29600186,53,280,Felton Spencer,1610612744,Golden State Warriors,1,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,15,1,0,19961126,0,GSW,MIA
+Shot Chart Detail,29600186,57,280,Felton Spencer,1610612744,Golden State Warriors,1,5,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,49,1,1,19961126,0,GSW,MIA
+Shot Chart Detail,29600207,15,280,Felton Spencer,1610612744,Golden State Warriors,1,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,39,1,1,19961129,1,POR,GSW
+Shot Chart Detail,29600220,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,1,GSW,POR
+Shot Chart Detail,29600220,36,280,Felton Spencer,1610612744,Golden State Warriors,1,7,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,28,1,0,19961201,0,GSW,POR
+Shot Chart Detail,29600220,52,280,Felton Spencer,1610612744,Golden State Warriors,1,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,0,1,1,19961201,1,GSW,POR
+Shot Chart Detail,29600220,274,280,Felton Spencer,1610612744,Golden State Warriors,3,10,48,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,26,1,1,19961201,0,GSW,POR
+Shot Chart Detail,29600232,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,8,1,0,19961203,0,GSW,DEN
+Shot Chart Detail,29600232,61,280,Felton Spencer,1610612744,Golden State Warriors,1,3,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,0,GSW,DEN
+Shot Chart Detail,29600232,64,280,Felton Spencer,1610612744,Golden State Warriors,1,3,17,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,32,1,1,19961203,1,GSW,DEN
+Shot Chart Detail,29600232,226,280,Felton Spencer,1610612744,Golden State Warriors,3,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,1,GSW,DEN
+Shot Chart Detail,29600232,250,280,Felton Spencer,1610612744,Golden State Warriors,3,5,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961203,0,GSW,DEN
+Shot Chart Detail,29600232,266,280,Felton Spencer,1610612744,Golden State Warriors,3,3,59,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,28,1,1,19961203,1,GSW,DEN
+Shot Chart Detail,29600232,410,280,Felton Spencer,1610612744,Golden State Warriors,4,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,19,1,0,19961203,0,GSW,DEN
+Shot Chart Detail,29600241,268,280,Felton Spencer,1610612744,Golden State Warriors,3,7,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961204,0,PHX,GSW
+Shot Chart Detail,29600241,295,280,Felton Spencer,1610612744,Golden State Warriors,3,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961204,1,PHX,GSW
+Shot Chart Detail,29600241,321,280,Felton Spencer,1610612744,Golden State Warriors,3,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961204,1,PHX,GSW
+Shot Chart Detail,29600254,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,22,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,54,1,1,19961206,1,GSW,IND
+Shot Chart Detail,29600254,71,280,Felton Spencer,1610612744,Golden State Warriors,1,4,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961206,1,GSW,IND
+Shot Chart Detail,29600271,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,41,1,1,19961208,1,GSW,SAS
+Shot Chart Detail,29600271,227,280,Felton Spencer,1610612744,Golden State Warriors,3,6,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961208,0,GSW,SAS
+Shot Chart Detail,29600277,106,280,Felton Spencer,1610612744,Golden State Warriors,2,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961210,0,TOR,GSW
+Shot Chart Detail,29600277,287,280,Felton Spencer,1610612744,Golden State Warriors,3,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961210,0,TOR,GSW
+Shot Chart Detail,29600277,464,280,Felton Spencer,1610612744,Golden State Warriors,4,0,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,79,67,1,0,19961210,0,TOR,GSW
+Shot Chart Detail,29600293,34,280,Felton Spencer,1610612744,Golden State Warriors,1,6,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,0,NYK,GSW
+Shot Chart Detail,29600293,36,280,Felton Spencer,1610612744,Golden State Warriors,1,6,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,0,NYK,GSW
+Shot Chart Detail,29600293,95,280,Felton Spencer,1610612744,Golden State Warriors,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961212,0,NYK,GSW
+Shot Chart Detail,29600293,339,280,Felton Spencer,1610612744,Golden State Warriors,3,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961212,0,NYK,GSW
+Shot Chart Detail,29600303,24,280,Felton Spencer,1610612744,Golden State Warriors,1,8,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,4,1,0,19961213,0,CLE,GSW
+Shot Chart Detail,29600303,186,280,Felton Spencer,1610612744,Golden State Warriors,2,3,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,23,1,1,19961213,1,CLE,GSW
+Shot Chart Detail,29600303,189,280,Felton Spencer,1610612744,Golden State Warriors,2,3,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,0,1,0,19961213,0,CLE,GSW
+Shot Chart Detail,29600303,240,280,Felton Spencer,1610612744,Golden State Warriors,3,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,1,CLE,GSW
+Shot Chart Detail,29600303,247,280,Felton Spencer,1610612744,Golden State Warriors,3,10,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,32,1,1,19961213,1,CLE,GSW
+Shot Chart Detail,29600303,269,280,Felton Spencer,1610612744,Golden State Warriors,3,7,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,0,CLE,GSW
+Shot Chart Detail,29600303,273,280,Felton Spencer,1610612744,Golden State Warriors,3,7,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,41,1,0,19961213,0,CLE,GSW
+Shot Chart Detail,29600303,333,280,Felton Spencer,1610612744,Golden State Warriors,3,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961213,0,CLE,GSW
+Shot Chart Detail,29600303,405,280,Felton Spencer,1610612744,Golden State Warriors,4,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961213,0,CLE,GSW
+Shot Chart Detail,29600320,5,280,Felton Spencer,1610612744,Golden State Warriors,1,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,15,1,0,19961215,0,GSW,WAS
+Shot Chart Detail,29600320,47,280,Felton Spencer,1610612744,Golden State Warriors,1,6,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,21,1,0,19961215,0,GSW,WAS
+Shot Chart Detail,29600332,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961217,0,SEA,GSW
+Shot Chart Detail,29600332,250,280,Felton Spencer,1610612744,Golden State Warriors,3,8,46,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-1,1,0,19961217,0,SEA,GSW
+Shot Chart Detail,29600332,296,280,Felton Spencer,1610612744,Golden State Warriors,3,4,30,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,0,19961217,0,SEA,GSW
+Shot Chart Detail,29600332,326,280,Felton Spencer,1610612744,Golden State Warriors,3,1,52,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-7,1,1,19961217,1,SEA,GSW
+Shot Chart Detail,29600340,16,280,Felton Spencer,1610612744,Golden State Warriors,1,10,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961218,1,GSW,MIN
+Shot Chart Detail,29600340,25,280,Felton Spencer,1610612744,Golden State Warriors,1,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,0,GSW,MIN
+Shot Chart Detail,29600340,250,280,Felton Spencer,1610612744,Golden State Warriors,3,8,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,15,1,1,19961218,0,GSW,MIN
+Shot Chart Detail,29600389,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,12,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,36,1,0,19961226,0,DAL,GSW
+Shot Chart Detail,29600389,53,280,Felton Spencer,1610612744,Golden State Warriors,1,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,66,138,1,1,19961226,1,DAL,GSW
+Shot Chart Detail,29600389,71,280,Felton Spencer,1610612744,Golden State Warriors,1,3,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,8,1,0,19961226,0,DAL,GSW
+Shot Chart Detail,29600389,182,280,Felton Spencer,1610612744,Golden State Warriors,2,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,-1,1,1,19961226,0,DAL,GSW
+Shot Chart Detail,29600389,261,280,Felton Spencer,1610612744,Golden State Warriors,3,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,1,19961226,1,DAL,GSW
+Shot Chart Detail,29600456,100,280,Felton Spencer,1610612744,Golden State Warriors,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970106,1,GSW,CHH
+Shot Chart Detail,29600456,158,280,Felton Spencer,1610612744,Golden State Warriors,2,7,5,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,16,32,1,1,19970106,1,GSW,CHH
+Shot Chart Detail,29600475,24,280,Felton Spencer,1610612744,Golden State Warriors,1,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,0,GSW,VAN
+Shot Chart Detail,29600475,190,280,Felton Spencer,1610612744,Golden State Warriors,2,3,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,0,GSW,VAN
+Shot Chart Detail,29600475,193,280,Felton Spencer,1610612744,Golden State Warriors,2,3,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970108,0,GSW,VAN
+Shot Chart Detail,29600475,379,280,Felton Spencer,1610612744,Golden State Warriors,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970108,1,GSW,VAN
+Shot Chart Detail,29600475,388,280,Felton Spencer,1610612744,Golden State Warriors,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970108,1,GSW,VAN
+Shot Chart Detail,29600480,18,280,Felton Spencer,1610612744,Golden State Warriors,1,9,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970109,0,VAN,GSW
+Shot Chart Detail,29600480,26,280,Felton Spencer,1610612744,Golden State Warriors,1,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,10,1,0,19970109,0,VAN,GSW
+Shot Chart Detail,29600480,64,280,Felton Spencer,1610612744,Golden State Warriors,1,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,19,1,0,19970109,0,VAN,GSW
+Shot Chart Detail,29600480,120,280,Felton Spencer,1610612744,Golden State Warriors,2,9,11,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970109,1,VAN,GSW
+Shot Chart Detail,29600480,268,280,Felton Spencer,1610612744,Golden State Warriors,3,4,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970109,0,VAN,GSW
+Shot Chart Detail,29600500,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,30,1,0,19970112,0,MIL,GSW
+Shot Chart Detail,29600500,46,280,Felton Spencer,1610612744,Golden State Warriors,1,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970112,1,MIL,GSW
+Shot Chart Detail,29600508,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,17,1,1,19970114,1,BOS,GSW
+Shot Chart Detail,29600508,27,280,Felton Spencer,1610612744,Golden State Warriors,1,9,0,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,0,BOS,GSW
+Shot Chart Detail,29600508,69,280,Felton Spencer,1610612744,Golden State Warriors,1,3,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,0,BOS,GSW
+Shot Chart Detail,29600508,204,280,Felton Spencer,1610612744,Golden State Warriors,2,2,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970114,0,BOS,GSW
+Shot Chart Detail,29600567,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,84,1,0,19970121,0,GSW,DAL
+Shot Chart Detail,29600567,28,280,Felton Spencer,1610612744,Golden State Warriors,1,7,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970121,0,GSW,DAL
+Shot Chart Detail,29600567,231,280,Felton Spencer,1610612744,Golden State Warriors,3,9,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,14,26,1,0,19970121,0,GSW,DAL
+Shot Chart Detail,29600581,87,280,Felton Spencer,1610612744,Golden State Warriors,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,19,1,0,19970123,0,GSW,DET
+Shot Chart Detail,29600581,212,280,Felton Spencer,1610612744,Golden State Warriors,3,7,21,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,30,1,1,19970123,1,GSW,DET
+Shot Chart Detail,29600581,218,280,Felton Spencer,1610612744,Golden State Warriors,3,6,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970123,0,GSW,DET
+Shot Chart Detail,29600590,200,280,Felton Spencer,1610612744,Golden State Warriors,2,5,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970124,0,LAL,GSW
+Shot Chart Detail,29600590,410,280,Felton Spencer,1610612744,Golden State Warriors,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,99,41,1,1,19970124,1,LAL,GSW
+Shot Chart Detail,29600590,456,280,Felton Spencer,1610612744,Golden State Warriors,4,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970124,1,LAL,GSW
+Shot Chart Detail,29600605,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,44,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970127,0,GSW,VAN
+Shot Chart Detail,29600605,242,280,Felton Spencer,1610612744,Golden State Warriors,3,7,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,97,1,1,19970127,1,GSW,VAN
+Shot Chart Detail,29600605,255,280,Felton Spencer,1610612744,Golden State Warriors,3,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970127,1,GSW,VAN
+Shot Chart Detail,29600624,7,280,Felton Spencer,1610612744,Golden State Warriors,1,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,GSW,SEA
+Shot Chart Detail,29600624,350,280,Felton Spencer,1610612744,Golden State Warriors,4,11,23,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,0,19970129,0,GSW,SEA
+Shot Chart Detail,29600624,364,280,Felton Spencer,1610612744,Golden State Warriors,4,9,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970129,0,GSW,SEA
+Shot Chart Detail,29600636,241,280,Felton Spencer,1610612744,Golden State Warriors,3,9,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,41,1,0,19970131,0,GSW,CHI
+Shot Chart Detail,29600645,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970201,0,LAC,GSW
+Shot Chart Detail,29600645,9,280,Felton Spencer,1610612744,Golden State Warriors,1,11,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970201,0,LAC,GSW
+Shot Chart Detail,29600645,225,280,Felton Spencer,1610612744,Golden State Warriors,3,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,15,1,0,19970201,0,LAC,GSW
+Shot Chart Detail,29600645,241,280,Felton Spencer,1610612744,Golden State Warriors,3,8,34,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,42,47,1,1,19970201,0,LAC,GSW
+Shot Chart Detail,29600666,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,45,1,0,19970204,0,GSW,ATL
+Shot Chart Detail,29600666,71,280,Felton Spencer,1610612744,Golden State Warriors,1,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970204,1,GSW,ATL
+Shot Chart Detail,29600666,78,280,Felton Spencer,1610612744,Golden State Warriors,1,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970204,0,GSW,ATL
+Shot Chart Detail,29600666,239,280,Felton Spencer,1610612744,Golden State Warriors,3,6,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970204,1,GSW,ATL
+Shot Chart Detail,29600703,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,0,DAL,GSW
+Shot Chart Detail,29600703,221,280,Felton Spencer,1610612744,Golden State Warriors,3,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,0,DAL,GSW
+Shot Chart Detail,29600703,225,280,Felton Spencer,1610612744,Golden State Warriors,3,10,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,10,1,0,19970213,0,DAL,GSW
+Shot Chart Detail,29600703,233,280,Felton Spencer,1610612744,Golden State Warriors,3,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,1,DAL,GSW
+Shot Chart Detail,29600703,389,280,Felton Spencer,1610612744,Golden State Warriors,4,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,0,DAL,GSW
+Shot Chart Detail,29600712,37,280,Felton Spencer,1610612744,Golden State Warriors,1,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,0,SAS,GSW
+Shot Chart Detail,29600712,41,280,Felton Spencer,1610612744,Golden State Warriors,1,6,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,0,SAS,GSW
+Shot Chart Detail,29600712,217,280,Felton Spencer,1610612744,Golden State Warriors,2,3,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,1,SAS,GSW
+Shot Chart Detail,29600712,263,280,Felton Spencer,1610612744,Golden State Warriors,3,11,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970214,0,SAS,GSW
+Shot Chart Detail,29600712,294,280,Felton Spencer,1610612744,Golden State Warriors,3,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,0,SAS,GSW
+Shot Chart Detail,29600712,337,280,Felton Spencer,1610612744,Golden State Warriors,3,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970214,0,SAS,GSW
+Shot Chart Detail,29600728,43,280,Felton Spencer,1610612744,Golden State Warriors,1,6,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,1,SAC,GSW
+Shot Chart Detail,29600749,32,280,Felton Spencer,1610612744,Golden State Warriors,1,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,101,108,1,0,19970219,0,GSW,BOS
+Shot Chart Detail,29600749,151,280,Felton Spencer,1610612744,Golden State Warriors,2,6,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,28,1,0,19970219,0,GSW,BOS
+Shot Chart Detail,29600764,45,280,Felton Spencer,1610612744,Golden State Warriors,1,6,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970221,0,MIN,GSW
+Shot Chart Detail,29600764,85,280,Felton Spencer,1610612744,Golden State Warriors,1,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970221,0,MIN,GSW
+Shot Chart Detail,29600764,303,280,Felton Spencer,1610612744,Golden State Warriors,3,3,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970221,0,MIN,GSW
+Shot Chart Detail,29600771,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,62,1,0,19970222,0,CHI,GSW
+Shot Chart Detail,29600771,250,280,Felton Spencer,1610612744,Golden State Warriors,3,10,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,1,CHI,GSW
+Shot Chart Detail,29600771,285,280,Felton Spencer,1610612744,Golden State Warriors,3,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,0,CHI,GSW
+Shot Chart Detail,29600784,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,52,1,0,19970224,0,ATL,GSW
+Shot Chart Detail,29600784,22,280,Felton Spencer,1610612744,Golden State Warriors,1,8,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,0,ATL,GSW
+Shot Chart Detail,29600784,208,280,Felton Spencer,1610612744,Golden State Warriors,3,11,8,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,58,69,1,1,19970224,1,ATL,GSW
+Shot Chart Detail,29600784,240,280,Felton Spencer,1610612744,Golden State Warriors,3,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,101,1,0,19970224,0,ATL,GSW
+Shot Chart Detail,29600784,256,280,Felton Spencer,1610612744,Golden State Warriors,3,3,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,17,1,1,19970224,0,ATL,GSW
+Shot Chart Detail,29600797,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,39,1,1,19970226,1,DET,GSW
+Shot Chart Detail,29600797,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,49,1,0,19970226,0,DET,GSW
+Shot Chart Detail,29600797,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970226,0,DET,GSW
+Shot Chart Detail,29600797,50,280,Felton Spencer,1610612744,Golden State Warriors,1,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,0,DET,GSW
+Shot Chart Detail,29600797,52,280,Felton Spencer,1610612744,Golden State Warriors,1,5,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970226,0,DET,GSW
+Shot Chart Detail,29600797,313,280,Felton Spencer,1610612744,Golden State Warriors,4,7,35,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-109,138,1,1,19970226,1,DET,GSW
+Shot Chart Detail,29600810,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,60,49,1,0,19970228,0,NJN,GSW
+Shot Chart Detail,29600810,16,280,Felton Spencer,1610612744,Golden State Warriors,1,9,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,1,NJN,GSW
+Shot Chart Detail,29600820,47,280,Felton Spencer,1610612744,Golden State Warriors,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970301,0,WAS,GSW
+Shot Chart Detail,29600836,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,1,19970303,0,GSW,UTA
+Shot Chart Detail,29600836,17,280,Felton Spencer,1610612744,Golden State Warriors,1,8,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,71,1,1,19970303,0,GSW,UTA
+Shot Chart Detail,29600836,56,280,Felton Spencer,1610612744,Golden State Warriors,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,41,1,1,19970303,1,GSW,UTA
+Shot Chart Detail,29600836,76,280,Felton Spencer,1610612744,Golden State Warriors,1,2,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,0,19970303,0,GSW,UTA
+Shot Chart Detail,29600836,85,280,Felton Spencer,1610612744,Golden State Warriors,1,0,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,21,1,1,19970303,1,GSW,UTA
+Shot Chart Detail,29600836,163,280,Felton Spencer,1610612744,Golden State Warriors,2,0,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,1,GSW,UTA
+Shot Chart Detail,29600836,185,280,Felton Spencer,1610612744,Golden State Warriors,3,9,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,21,1,0,19970303,0,GSW,UTA
+Shot Chart Detail,29600836,191,280,Felton Spencer,1610612744,Golden State Warriors,3,9,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970303,0,GSW,UTA
+Shot Chart Detail,29600836,360,280,Felton Spencer,1610612744,Golden State Warriors,4,2,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970303,1,GSW,UTA
+Shot Chart Detail,29600854,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,0,GSW,HOU
+Shot Chart Detail,29600854,18,280,Felton Spencer,1610612744,Golden State Warriors,1,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,52,1,0,19970305,0,GSW,HOU
+Shot Chart Detail,29600854,288,280,Felton Spencer,1610612744,Golden State Warriors,3,1,38,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,19,32,1,1,19970305,0,GSW,HOU
+Shot Chart Detail,29600854,315,280,Felton Spencer,1610612744,Golden State Warriors,4,10,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,0,GSW,HOU
+Shot Chart Detail,29600854,317,280,Felton Spencer,1610612744,Golden State Warriors,4,10,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,0,GSW,HOU
+Shot Chart Detail,29600854,379,280,Felton Spencer,1610612744,Golden State Warriors,4,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970305,0,GSW,HOU
+Shot Chart Detail,29600870,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,45,1,1,19970307,0,GSW,ORL
+Shot Chart Detail,29600870,50,280,Felton Spencer,1610612744,Golden State Warriors,1,4,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,0,GSW,ORL
+Shot Chart Detail,29600870,54,280,Felton Spencer,1610612744,Golden State Warriors,1,4,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,17,1,1,19970307,1,GSW,ORL
+Shot Chart Detail,29600870,129,280,Felton Spencer,1610612744,Golden State Warriors,2,9,7,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,25,52,1,1,19970307,1,GSW,ORL
+Shot Chart Detail,29600870,146,280,Felton Spencer,1610612744,Golden State Warriors,2,7,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970307,0,GSW,ORL
+Shot Chart Detail,29600870,186,280,Felton Spencer,1610612744,Golden State Warriors,2,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,2,1,0,19970307,0,GSW,ORL
+Shot Chart Detail,29600870,210,280,Felton Spencer,1610612744,Golden State Warriors,2,0,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,0,GSW,ORL
+Shot Chart Detail,29600885,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,32,1,0,19970309,0,GSW,SAC
+Shot Chart Detail,29600885,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,18,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,0,GSW,SAC
+Shot Chart Detail,29600885,21,280,Felton Spencer,1610612744,Golden State Warriors,1,9,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,1,GSW,SAC
+Shot Chart Detail,29600885,30,280,Felton Spencer,1610612744,Golden State Warriors,1,7,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,1,GSW,SAC
+Shot Chart Detail,29600885,239,280,Felton Spencer,1610612744,Golden State Warriors,3,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,0,GSW,SAC
+Shot Chart Detail,29600885,418,280,Felton Spencer,1610612744,Golden State Warriors,4,1,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970309,0,GSW,SAC
+Shot Chart Detail,29600887,62,280,Felton Spencer,1610612744,Golden State Warriors,1,5,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,95,1,0,19970310,0,LAC,GSW
+Shot Chart Detail,29600887,174,280,Felton Spencer,1610612744,Golden State Warriors,2,5,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970310,0,LAC,GSW
+Shot Chart Detail,29600887,219,280,Felton Spencer,1610612744,Golden State Warriors,2,1,36,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970310,0,LAC,GSW
+Shot Chart Detail,29600927,4,280,Felton Spencer,1610612744,Golden State Warriors,1,11,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-51,114,1,1,19970315,0,GSW,TOR
+Shot Chart Detail,29600927,10,280,Felton Spencer,1610612744,Golden State Warriors,1,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970315,0,GSW,TOR
+Shot Chart Detail,29600927,57,280,Felton Spencer,1610612744,Golden State Warriors,1,4,12,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970315,0,GSW,TOR
+Shot Chart Detail,29600927,71,280,Felton Spencer,1610612744,Golden State Warriors,1,2,27,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,19,1,1,19970315,1,GSW,TOR
+Shot Chart Detail,29600927,102,280,Felton Spencer,1610612744,Golden State Warriors,2,10,18,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,45,1,0,19970315,0,GSW,TOR
+Shot Chart Detail,29600927,211,280,Felton Spencer,1610612744,Golden State Warriors,3,9,25,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,28,1,1,19970315,1,GSW,TOR
+Shot Chart Detail,29600943,462,280,Felton Spencer,1610612744,Golden State Warriors,1,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-4,1,0,19970317,0,GSW,PHX
+Shot Chart Detail,29600943,23,280,Felton Spencer,1610612744,Golden State Warriors,1,9,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970317,0,GSW,PHX
+Shot Chart Detail,29600943,479,280,Felton Spencer,1610612744,Golden State Warriors,1,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,1,GSW,PHX
+Shot Chart Detail,29600943,484,280,Felton Spencer,1610612744,Golden State Warriors,1,4,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,1,GSW,PHX
+Shot Chart Detail,29600943,489,280,Felton Spencer,1610612744,Golden State Warriors,1,2,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,21,1,0,19970317,0,GSW,PHX
+Shot Chart Detail,29600943,239,280,Felton Spencer,1610612744,Golden State Warriors,3,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970317,0,GSW,PHX
+Shot Chart Detail,29600954,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970319,0,MIA,GSW
+Shot Chart Detail,29600954,16,280,Felton Spencer,1610612744,Golden State Warriors,1,10,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,0,MIA,GSW
+Shot Chart Detail,29600954,39,280,Felton Spencer,1610612744,Golden State Warriors,1,8,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970319,1,MIA,GSW
+Shot Chart Detail,29600954,257,280,Felton Spencer,1610612744,Golden State Warriors,3,8,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,79,-3,1,0,19970319,0,MIA,GSW
+Shot Chart Detail,29600954,266,280,Felton Spencer,1610612744,Golden State Warriors,3,7,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,17,1,0,19970319,0,MIA,GSW
+Shot Chart Detail,29600960,6,280,Felton Spencer,1610612744,Golden State Warriors,1,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,-16,1,1,19970320,0,ORL,GSW
+Shot Chart Detail,29600960,148,280,Felton Spencer,1610612744,Golden State Warriors,2,7,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,1,ORL,GSW
+Shot Chart Detail,29600960,328,280,Felton Spencer,1610612744,Golden State Warriors,3,1,24,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,19970320,0,ORL,GSW
+Shot Chart Detail,29600976,11,280,Felton Spencer,1610612744,Golden State Warriors,1,10,39,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,2,1,0,19970322,0,CHH,GSW
+Shot Chart Detail,29600976,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,0,CHH,GSW
+Shot Chart Detail,29600976,256,280,Felton Spencer,1610612744,Golden State Warriors,3,5,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,45,1,0,19970322,0,CHH,GSW
+Shot Chart Detail,29600976,282,280,Felton Spencer,1610612744,Golden State Warriors,3,0,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,0,CHH,GSW
+Shot Chart Detail,29600976,354,280,Felton Spencer,1610612744,Golden State Warriors,4,4,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,4,1,0,19970322,0,CHH,GSW
+Shot Chart Detail,29601000,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,36,1,0,19970325,0,GSW,SEA
+Shot Chart Detail,29601000,87,280,Felton Spencer,1610612744,Golden State Warriors,1,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,1,GSW,SEA
+Shot Chart Detail,29601000,215,280,Felton Spencer,1610612744,Golden State Warriors,2,3,30,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,0,GSW,SEA
+Shot Chart Detail,29601000,257,280,Felton Spencer,1610612744,Golden State Warriors,3,10,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,34,1,1,19970325,1,GSW,SEA
+Shot Chart Detail,29601000,272,280,Felton Spencer,1610612744,Golden State Warriors,3,8,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,1,GSW,SEA
+Shot Chart Detail,29601000,293,280,Felton Spencer,1610612744,Golden State Warriors,3,6,4,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,1,19970325,0,GSW,SEA
+Shot Chart Detail,29601000,313,280,Felton Spencer,1610612744,Golden State Warriors,3,3,7,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,45,1,1,19970325,0,GSW,SEA
+Shot Chart Detail,29601037,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,43,1,1,19970330,1,GSW,MIN
+Shot Chart Detail,29601037,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970330,0,GSW,MIN
+Shot Chart Detail,29601037,23,280,Felton Spencer,1610612744,Golden State Warriors,1,8,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,21,1,0,19970330,0,GSW,MIN
+Shot Chart Detail,29601037,50,280,Felton Spencer,1610612744,Golden State Warriors,1,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,1,GSW,MIN
+Shot Chart Detail,29601037,55,280,Felton Spencer,1610612744,Golden State Warriors,1,4,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970330,0,GSW,MIN
+Shot Chart Detail,29601037,212,280,Felton Spencer,1610612744,Golden State Warriors,3,10,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,23,1,0,19970330,0,GSW,MIN
+Shot Chart Detail,29601045,8,280,Felton Spencer,1610612744,Golden State Warriors,1,11,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,67,1,0,19970401,0,POR,GSW
+Shot Chart Detail,29601045,36,280,Felton Spencer,1610612744,Golden State Warriors,1,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,0,POR,GSW
+Shot Chart Detail,29601045,240,280,Felton Spencer,1610612744,Golden State Warriors,3,9,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,0,POR,GSW
+Shot Chart Detail,29601045,253,280,Felton Spencer,1610612744,Golden State Warriors,3,8,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970401,0,POR,GSW
+Shot Chart Detail,29601045,283,280,Felton Spencer,1610612744,Golden State Warriors,3,5,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,78,1,1,19970401,1,POR,GSW
+Shot Chart Detail,29601045,304,280,Felton Spencer,1610612744,Golden State Warriors,3,2,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970401,0,POR,GSW
+Shot Chart Detail,29601045,312,280,Felton Spencer,1610612744,Golden State Warriors,3,2,26,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-3,132,1,1,19970401,1,POR,GSW
+Shot Chart Detail,29601060,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,0,19970403,0,GSW,DAL
+Shot Chart Detail,29601060,7,280,Felton Spencer,1610612744,Golden State Warriors,1,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,0,GSW,DAL
+Shot Chart Detail,29601060,10,280,Felton Spencer,1610612744,Golden State Warriors,1,11,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,0,GSW,DAL
+Shot Chart Detail,29601060,12,280,Felton Spencer,1610612744,Golden State Warriors,1,10,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-90,2,1,0,19970403,0,GSW,DAL
+Shot Chart Detail,29601060,43,280,Felton Spencer,1610612744,Golden State Warriors,1,7,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970403,0,GSW,DAL
+Shot Chart Detail,29601060,279,280,Felton Spencer,1610612744,Golden State Warriors,3,6,57,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970403,1,GSW,DAL
+Shot Chart Detail,29601060,301,280,Felton Spencer,1610612744,Golden State Warriors,3,3,32,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,1,19970403,1,GSW,DAL
+Shot Chart Detail,29601076,25,280,Felton Spencer,1610612744,Golden State Warriors,1,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,10,1,0,19970405,0,GSW,SAS
+Shot Chart Detail,29601076,231,280,Felton Spencer,1610612744,Golden State Warriors,3,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,0,GSW,SAS
+Shot Chart Detail,29601076,237,280,Felton Spencer,1610612744,Golden State Warriors,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970405,1,GSW,SAS
+Shot Chart Detail,29601076,243,280,Felton Spencer,1610612744,Golden State Warriors,3,8,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,110,97,1,1,19970405,0,GSW,SAS
+Shot Chart Detail,29601084,3,280,Felton Spencer,1610612744,Golden State Warriors,1,11,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,47,114,1,1,19970406,1,GSW,UTA
+Shot Chart Detail,29601084,13,280,Felton Spencer,1610612744,Golden State Warriors,1,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-12,1,0,19970406,0,GSW,UTA
+Shot Chart Detail,29601084,48,280,Felton Spencer,1610612744,Golden State Warriors,1,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970406,0,GSW,UTA
+Shot Chart Detail,29601084,226,280,Felton Spencer,1610612744,Golden State Warriors,3,10,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,0,GSW,UTA
+Shot Chart Detail,29601084,269,280,Felton Spencer,1610612744,Golden State Warriors,3,7,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970406,0,GSW,UTA
+Shot Chart Detail,29601099,5,280,Felton Spencer,1610612744,Golden State Warriors,1,11,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,GSW,LAL
+Shot Chart Detail,29601099,19,280,Felton Spencer,1610612744,Golden State Warriors,1,9,45,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,GSW,LAL
+Shot Chart Detail,29601099,25,280,Felton Spencer,1610612744,Golden State Warriors,1,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,101,4,1,0,19970408,0,GSW,LAL
+Shot Chart Detail,29601099,55,280,Felton Spencer,1610612744,Golden State Warriors,1,5,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970408,0,GSW,LAL
+Shot Chart Detail,29601099,89,280,Felton Spencer,1610612744,Golden State Warriors,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,53,88,1,0,19970408,0,GSW,LAL
+Shot Chart Detail,29601099,232,280,Felton Spencer,1610612744,Golden State Warriors,3,10,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,39,1,1,19970408,0,GSW,LAL
+Shot Chart Detail,29601099,246,280,Felton Spencer,1610612744,Golden State Warriors,3,8,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,1,19970408,1,GSW,LAL
+Shot Chart Detail,29601099,268,280,Felton Spencer,1610612744,Golden State Warriors,3,5,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-14,123,1,1,19970408,1,GSW,LAL
+Shot Chart Detail,29601113,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,17,1,0,19970410,0,GSW,DEN
+Shot Chart Detail,29601113,14,280,Felton Spencer,1610612744,Golden State Warriors,1,10,29,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,39,1,0,19970410,0,GSW,DEN
+Shot Chart Detail,29601113,45,280,Felton Spencer,1610612744,Golden State Warriors,1,7,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,GSW,DEN
+Shot Chart Detail,29601113,200,280,Felton Spencer,1610612744,Golden State Warriors,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,GSW,DEN
+Shot Chart Detail,29601122,2,280,Felton Spencer,1610612744,Golden State Warriors,1,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,41,1,1,19970411,0,SAC,GSW
+Shot Chart Detail,29601122,313,280,Felton Spencer,1610612744,Golden State Warriors,3,2,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,13,1,0,19970411,0,SAC,GSW
+Shot Chart Detail,29601136,18,280,Felton Spencer,1610612744,Golden State Warriors,1,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970413,0,GSW,PHX
+Shot Chart Detail,29601136,76,280,Felton Spencer,1610612744,Golden State Warriors,1,3,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,0,GSW,PHX
+Shot Chart Detail,29601136,264,280,Felton Spencer,1610612744,Golden State Warriors,3,6,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,0,GSW,PHX
+Shot Chart Detail,29601136,300,280,Felton Spencer,1610612744,Golden State Warriors,3,3,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970413,0,GSW,PHX
+Shot Chart Detail,29601144,17,280,Felton Spencer,1610612744,Golden State Warriors,1,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,15,1,0,19970414,0,DEN,GSW
+Shot Chart Detail,29601144,60,280,Felton Spencer,1610612744,Golden State Warriors,1,5,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,67,1,1,19970414,0,DEN,GSW
+Shot Chart Detail,29601144,63,280,Felton Spencer,1610612744,Golden State Warriors,1,5,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,43,1,1,19970414,0,DEN,GSW
+Shot Chart Detail,29601144,212,280,Felton Spencer,1610612744,Golden State Warriors,2,1,25,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,112,43,1,1,19970414,1,DEN,GSW
+Shot Chart Detail,29601144,229,280,Felton Spencer,1610612744,Golden State Warriors,2,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,0,DEN,GSW
+Shot Chart Detail,29601144,242,280,Felton Spencer,1610612744,Golden State Warriors,3,10,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,0,DEN,GSW
+Shot Chart Detail,29601144,243,280,Felton Spencer,1610612744,Golden State Warriors,3,10,50,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970414,0,DEN,GSW
+Shot Chart Detail,29601144,267,280,Felton Spencer,1610612744,Golden State Warriors,3,7,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970414,0,DEN,GSW
+Shot Chart Detail,29601161,11,280,Felton Spencer,1610612744,Golden State Warriors,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,13,1,0,19970417,0,UTA,GSW
+Shot Chart Detail,29601161,24,280,Felton Spencer,1610612744,Golden State Warriors,1,9,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,65,1,0,19970417,0,UTA,GSW
+Shot Chart Detail,29601161,283,280,Felton Spencer,1610612744,Golden State Warriors,3,4,46,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,30,1,0,19970417,0,UTA,GSW
+Shot Chart Detail,29601180,8,280,Felton Spencer,1610612744,Golden State Warriors,1,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970419,0,GSW,SAC
+Shot Chart Detail,29601180,15,280,Felton Spencer,1610612744,Golden State Warriors,1,9,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970419,1,GSW,SAC
+Shot Chart Detail,29601180,17,280,Felton Spencer,1610612744,Golden State Warriors,1,9,3,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,19970419,0,GSW,SAC
+Shot Chart Detail,29601180,32,280,Felton Spencer,1610612744,Golden State Warriors,1,7,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,62,1,0,19970419,0,GSW,SAC
+Shot Chart Detail,29601180,63,280,Felton Spencer,1610612744,Golden State Warriors,1,3,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-120,-3,1,0,19970419,0,GSW,SAC
+Shot Chart Detail,29601180,226,280,Felton Spencer,1610612744,Golden State Warriors,3,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970419,0,GSW,SAC

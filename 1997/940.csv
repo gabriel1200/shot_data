@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029600227,383,940,Earl Cureton,1610612761,Toronto Raptors,4,4,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,2,1,0,19961203,CLE,TOR
-Shot Chart Detail,0029600227,435,940,Earl Cureton,1610612761,Toronto Raptors,4,1,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961203,CLE,TOR
-Shot Chart Detail,0029600260,138,940,Earl Cureton,1610612761,Toronto Raptors,2,7,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,ATL,TOR
-Shot Chart Detail,0029600260,348,940,Earl Cureton,1610612761,Toronto Raptors,4,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,ATL,TOR
-Shot Chart Detail,0029600260,440,940,Earl Cureton,1610612761,Toronto Raptors,4,3,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,ATL,TOR
-Shot Chart Detail,0029600260,450,940,Earl Cureton,1610612761,Toronto Raptors,4,2,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,ATL,TOR
-Shot Chart Detail,0029600260,465,940,Earl Cureton,1610612761,Toronto Raptors,4,0,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,ATL,TOR
-Shot Chart Detail,0029600445,455,940,Earl Cureton,1610612761,Toronto Raptors,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,21,1,0,19970104,DET,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29600227,383,940,Earl Cureton,1610612761,Toronto Raptors,4,4,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,2,1,0,19961203,0,CLE,TOR
+Shot Chart Detail,29600227,435,940,Earl Cureton,1610612761,Toronto Raptors,4,1,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961203,0,CLE,TOR
+Shot Chart Detail,29600260,138,940,Earl Cureton,1610612761,Toronto Raptors,2,7,40,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,0,ATL,TOR
+Shot Chart Detail,29600260,348,940,Earl Cureton,1610612761,Toronto Raptors,4,10,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,0,ATL,TOR
+Shot Chart Detail,29600260,440,940,Earl Cureton,1610612761,Toronto Raptors,4,3,11,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,1,ATL,TOR
+Shot Chart Detail,29600260,450,940,Earl Cureton,1610612761,Toronto Raptors,4,2,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,1,ATL,TOR
+Shot Chart Detail,29600260,465,940,Earl Cureton,1610612761,Toronto Raptors,4,0,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,0,ATL,TOR
+Shot Chart Detail,29600445,455,940,Earl Cureton,1610612761,Toronto Raptors,4,0,7,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,127,21,1,0,19970104,0,DET,TOR

@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500135,473,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,8,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,46,234,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500135,488,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,6,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500135,528,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,2,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500135,537,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,1,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20160426,ATL,BOS
-Shot Chart Detail,0041500135,545,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,0,50,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-197,43,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500201,562,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,219,1,1,20160502,CLE,ATL
-Shot Chart Detail,0041500202,563,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,0,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,0,20160504,CLE,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500135,473,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,8,28,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,23,46,234,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500135,488,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,6,2,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500135,528,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,2,25,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500135,537,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,1,32,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20160426,1,ATL,BOS
+Shot Chart Detail,41500135,545,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,0,50,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),16-24 ft.,20,-197,43,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500201,562,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,0,18,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,219,1,1,20160502,1,CLE,ATL
+Shot Chart Detail,41500202,563,203934,Lamar Patterson,1610612737,Atlanta Hawks,4,0,38,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,0,20160504,0,CLE,ATL

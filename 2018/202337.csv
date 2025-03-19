@@ -1,431 +1,216 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021700009,299,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,174,1,0,20171018,DAL,ATL
-Shot Chart Detail,0021700009,307,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-111,115,1,1,20171018,DAL,ATL
-Shot Chart Detail,0021700009,501,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,209,1,1,20171018,DAL,ATL
-Shot Chart Detail,0021700017,179,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-77,254,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,212,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,212,1,1,20171020,CHA,ATL
-Shot Chart Detail,0021700017,246,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,249,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,505,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,10,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,512,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,575,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,9,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-4,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,690,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,173,1,1,20171020,CHA,ATL
-Shot Chart Detail,0021700038,230,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,193,1,0,20171022,BKN,ATL
-Shot Chart Detail,0021700042,105,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,35,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,138,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,101,148,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,243,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,471,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,498,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,15,100,1,0,20171023,MIA,ATL
-Shot Chart Detail,0021700065,107,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,215,1,0,20171026,CHI,ATL
-Shot Chart Detail,0021700065,166,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,61,1,0,20171026,CHI,ATL
-Shot Chart Detail,0021700065,194,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,9,1,0,20171026,CHI,ATL
-Shot Chart Detail,0021700085,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-85,90,1,1,20171029,ATL,MIL
-Shot Chart Detail,0021700085,142,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-8,1,0,20171029,ATL,MIL
-Shot Chart Detail,0021700085,156,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,15,1,0,20171029,ATL,MIL
-Shot Chart Detail,0021700085,175,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,222,1,0,20171029,ATL,MIL
-Shot Chart Detail,0021700085,479,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,228,1,1,20171029,ATL,MIL
-Shot Chart Detail,0021700107,178,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,218,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,226,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,16,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,441,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,7,42,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,26,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,466,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,6,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,39,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,491,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,36,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,563,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,231,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,578,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-70,259,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,584,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,39,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,53,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,588,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,145,39,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,684,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,216,162,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,774,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,88,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,799,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-39,152,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700123,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-59,242,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700123,189,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,11,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700123,289,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-226,93,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700123,450,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,52,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,0,20171103,ATL,HOU
-Shot Chart Detail,0021700123,598,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-106,226,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700136,24,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,28,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,9,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,268,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,37,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,48,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,140,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,4,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,144,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,55,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,228,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,36,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,260,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,5,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,90,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,292,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,24,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,330,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,1,37,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-29,117,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,382,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,122,241,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,547,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,10,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-21,248,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,581,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,54,Missed Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-218,21,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,625,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,260,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700146,8,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-34,159,1,1,20171106,ATL,BOS
-Shot Chart Detail,0021700146,112,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,257,1,1,20171106,ATL,BOS
-Shot Chart Detail,0021700146,349,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,222,1,1,20171106,ATL,BOS
-Shot Chart Detail,0021700146,592,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-1,1,0,20171106,ATL,BOS
-Shot Chart Detail,0021700169,53,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,4,264,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700169,141,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,89,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700169,232,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,147,1,0,20171110,DET,ATL
-Shot Chart Detail,0021700169,351,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,10,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-5,248,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700169,453,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,34,150,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700177,48,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-11,283,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,56,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-39,184,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,201,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-114,158,1,1,20171111,WAS,ATL
-Shot Chart Detail,0021700177,349,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,10,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,241,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,431,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,3,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,10,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,453,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,32,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,477,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,57,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,30,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,580,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,18,268,1,1,20171111,WAS,ATL
-Shot Chart Detail,0021700195,38,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,32,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,251,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,238,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,68,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,242,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,201,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,285,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,256,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,296,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,155,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,328,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,11,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,366,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,227,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,428,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,142,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,443,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,242,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,550,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,17,127,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700204,7,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,136,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,35,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,12,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,46,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,46,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-91,204,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,49,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,6,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,88,1,0,20171115,ATL,SAC
-Shot Chart Detail,0021700204,169,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,11,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,173,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,21,1,0,20171115,ATL,SAC
-Shot Chart Detail,0021700204,186,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,230,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700230,7,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-12,209,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,70,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,5,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,1,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,82,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,215,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,159,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,100,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,188,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,10,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,192,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-8,246,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,250,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,62,242,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,254,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,60,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,360,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,257,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,392,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,225,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,557,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,247,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,565,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,34,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700250,9,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-79,251,1,0,20171120,SAS,ATL
-Shot Chart Detail,0021700250,35,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,205,1,0,20171120,SAS,ATL
-Shot Chart Detail,0021700250,153,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,22,1,0,20171120,SAS,ATL
-Shot Chart Detail,0021700313,200,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,255,1,1,20171130,ATL,CLE
-Shot Chart Detail,0021700313,369,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,6,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,230,69,1,0,20171130,ATL,CLE
-Shot Chart Detail,0021700313,397,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,4,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,241,1,0,20171130,ATL,CLE
-Shot Chart Detail,0021700313,405,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,3,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,148,1,1,20171130,ATL,CLE
-Shot Chart Detail,0021700328,100,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,4,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-35,174,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,147,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,217,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,298,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-9,1,0,20171202,BKN,ATL
-Shot Chart Detail,0021700328,305,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,242,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,423,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,156,1,0,20171202,BKN,ATL
-Shot Chart Detail,0021700328,484,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,16,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,490,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,155,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,502,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-62,241,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,628,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,119,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700342,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,236,1,0,20171204,ATL,BKN
-Shot Chart Detail,0021700342,511,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-57,253,1,1,20171204,ATL,BKN
-Shot Chart Detail,0021700342,516,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,37,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,33,127,1,0,20171204,ATL,BKN
-Shot Chart Detail,0021700355,104,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,73,1,1,20171206,ORL,ATL
-Shot Chart Detail,0021700355,136,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,27,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,100,1,0,20171206,ORL,ATL
-Shot Chart Detail,0021700378,264,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,27,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,153,1,0,20171209,ATL,ORL
-Shot Chart Detail,0021700390,108,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-47,131,1,1,20171210,NYK,ATL
-Shot Chart Detail,0021700390,137,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,243,1,1,20171210,NYK,ATL
-Shot Chart Detail,0021700390,301,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,217,1,1,20171210,NYK,ATL
-Shot Chart Detail,0021700390,417,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,224,1,0,20171210,NYK,ATL
-Shot Chart Detail,0021700397,146,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,4,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,96,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,215,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-213,173,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,246,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,10,1,1,20171212,CLE,ATL
-Shot Chart Detail,0021700397,427,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,198,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,449,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,23,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,13,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,584,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,77,1,1,20171212,CLE,ATL
-Shot Chart Detail,0021700397,600,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,4,1,1,20171212,CLE,ATL
-Shot Chart Detail,0021700413,155,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,11,1,0,20171214,ATL,DET
-Shot Chart Detail,0021700413,190,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,66,1,0,20171214,ATL,DET
-Shot Chart Detail,0021700413,520,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,186,1,1,20171214,ATL,DET
-Shot Chart Detail,0021700413,672,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-63,233,1,0,20171214,ATL,DET
-Shot Chart Detail,0021700425,204,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,248,1,0,20171215,MEM,ATL
-Shot Chart Detail,0021700425,502,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,48,1,1,20171215,MEM,ATL
-Shot Chart Detail,0021700425,507,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,10,16,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,0,20171215,MEM,ATL
-Shot Chart Detail,0021700443,144,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,37,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-37,178,1,0,20171218,ATL,MIA
-Shot Chart Detail,0021700455,146,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,277,1,0,20171220,ATL,IND
-Shot Chart Detail,0021700455,563,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,193,1,0,20171220,ATL,IND
-Shot Chart Detail,0021700455,601,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,210,1,0,20171220,ATL,IND
-Shot Chart Detail,0021700576,545,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,59,1,1,20180105,POR,ATL
-Shot Chart Detail,0021700576,597,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,19,1,0,20180105,POR,ATL
-Shot Chart Detail,0021700590,664,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,179,1,0,20180107,LAL,ATL
-Shot Chart Detail,0021700675,625,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-35,259,1,1,20180120,ATL,CHI
-Shot Chart Detail,0021700675,661,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,2,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,68,1,1,20180120,ATL,CHI
-Shot Chart Detail,0021700688,139,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-20,1,1,20180122,ATL,UTA
-Shot Chart Detail,0021700688,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,154,1,1,20180122,ATL,UTA
-Shot Chart Detail,0021700705,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,13,287,1,0,20180124,ATL,TOR
-Shot Chart Detail,0021700705,208,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,225,1,0,20180124,ATL,TOR
-Shot Chart Detail,0021700705,231,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,44,277,1,0,20180124,ATL,TOR
-Shot Chart Detail,0021700705,631,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,39,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,84,1,1,20180124,ATL,TOR
-Shot Chart Detail,0021700705,649,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,19,244,1,1,20180124,ATL,TOR
-Shot Chart Detail,0021700705,658,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-21,1,1,20180124,ATL,TOR
-Shot Chart Detail,0021700726,611,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,238,1,0,20180127,ATL,WAS
-Shot Chart Detail,0021700726,628,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,160,1,1,20180127,ATL,WAS
-Shot Chart Detail,0021700726,631,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,0,20180127,ATL,WAS
-Shot Chart Detail,0021700726,634,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-188,216,1,0,20180127,ATL,WAS
-Shot Chart Detail,0021700755,632,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-62,125,1,1,20180131,ATL,CHA
-Shot Chart Detail,0021700767,644,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,164,221,1,0,20180202,BOS,ATL
-Shot Chart Detail,0021700799,575,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-8,1,0,20180206,ATL,MEM
-Shot Chart Detail,0021700799,585,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,30,264,1,0,20180206,ATL,MEM
-Shot Chart Detail,0021700799,597,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,237,1,1,20180206,ATL,MEM
-Shot Chart Detail,0021700799,609,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,1,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,1,20180206,ATL,MEM
-Shot Chart Detail,0021700855,372,202337,Luke Babbitt,1610612748,Miami Heat,3,10,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,5,1,0,20180214,PHI,MIA
-Shot Chart Detail,0021700855,386,202337,Luke Babbitt,1610612748,Miami Heat,3,9,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-4,1,1,20180214,PHI,MIA
-Shot Chart Detail,0021700855,442,202337,Luke Babbitt,1610612748,Miami Heat,3,4,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,64,1,1,20180214,PHI,MIA
-Shot Chart Detail,0021700879,192,202337,Luke Babbitt,1610612748,Miami Heat,2,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,171,1,0,20180223,NOP,MIA
-Shot Chart Detail,0021700885,258,202337,Luke Babbitt,1610612748,Miami Heat,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,180,172,1,0,20180224,MIA,MEM
-Shot Chart Detail,0021700885,293,202337,Luke Babbitt,1610612748,Miami Heat,2,3,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,38,1,0,20180224,MIA,MEM
-Shot Chart Detail,0021700885,637,202337,Luke Babbitt,1610612748,Miami Heat,4,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,251,1,0,20180224,MIA,MEM
-Shot Chart Detail,0021700922,623,202337,Luke Babbitt,1610612748,Miami Heat,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,183,162,1,0,20180301,MIA,LAL
-Shot Chart Detail,0021700938,9,202337,Luke Babbitt,1610612748,Miami Heat,1,11,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,251,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,30,202337,Luke Babbitt,1610612748,Miami Heat,1,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,-2,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,97,202337,Luke Babbitt,1610612748,Miami Heat,1,3,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,56,261,1,1,20180303,MIA,DET
-Shot Chart Detail,0021700938,129,202337,Luke Babbitt,1610612748,Miami Heat,1,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,210,1,1,20180303,MIA,DET
-Shot Chart Detail,0021700938,271,202337,Luke Babbitt,1610612748,Miami Heat,2,2,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,248,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,346,202337,Luke Babbitt,1610612748,Miami Heat,3,9,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-149,251,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,380,202337,Luke Babbitt,1610612748,Miami Heat,3,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-116,264,1,1,20180303,MIA,DET
-Shot Chart Detail,0021700938,388,202337,Luke Babbitt,1610612748,Miami Heat,3,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-183,209,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,397,202337,Luke Babbitt,1610612748,Miami Heat,3,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-232,121,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700952,11,202337,Luke Babbitt,1610612748,Miami Heat,1,11,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,13,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,27,202337,Luke Babbitt,1610612748,Miami Heat,1,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-149,215,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,45,202337,Luke Babbitt,1610612748,Miami Heat,1,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,69,249,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,67,202337,Luke Babbitt,1610612748,Miami Heat,1,6,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,74,202337,Luke Babbitt,1610612748,Miami Heat,1,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,152,196,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,115,202337,Luke Babbitt,1610612748,Miami Heat,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,10,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,132,202337,Luke Babbitt,1610612748,Miami Heat,1,2,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,40,258,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,310,202337,Luke Babbitt,1610612748,Miami Heat,2,0,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,137,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,352,202337,Luke Babbitt,1610612748,Miami Heat,3,9,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,415,202337,Luke Babbitt,1610612748,Miami Heat,3,3,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,601,202337,Luke Babbitt,1610612748,Miami Heat,4,3,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,194,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700959,13,202337,Luke Babbitt,1610612748,Miami Heat,1,10,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-8,272,1,0,20180306,WAS,MIA
-Shot Chart Detail,0021700959,47,202337,Luke Babbitt,1610612748,Miami Heat,1,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,243,1,1,20180306,WAS,MIA
-Shot Chart Detail,0021700988,502,202337,Luke Babbitt,1610612748,Miami Heat,4,10,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,53,1,0,20180310,MIA,WAS
-Shot Chart Detail,0021700988,531,202337,Luke Babbitt,1610612748,Miami Heat,4,7,30,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,5,1,0,20180310,MIA,WAS
-Shot Chart Detail,0021700988,592,202337,Luke Babbitt,1610612748,Miami Heat,4,2,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20180310,MIA,WAS
-Shot Chart Detail,0021701018,45,202337,Luke Babbitt,1610612748,Miami Heat,1,8,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,2,1,0,20180314,SAC,MIA
-Shot Chart Detail,0021701018,66,202337,Luke Babbitt,1610612748,Miami Heat,1,6,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,0,20180314,SAC,MIA
-Shot Chart Detail,0021701018,316,202337,Luke Babbitt,1610612748,Miami Heat,3,10,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-36,262,1,0,20180314,SAC,MIA
-Shot Chart Detail,0021701068,534,202337,Luke Babbitt,1610612748,Miami Heat,4,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,139,204,1,0,20180321,MIA,NYK
-Shot Chart Detail,0021701172,315,202337,Luke Babbitt,1610612748,Miami Heat,2,1,1,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-88,233,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,356,202337,Luke Babbitt,1610612748,Miami Heat,3,10,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,231,1,1,20180404,ATL,MIA
-Shot Chart Detail,0021701172,374,202337,Luke Babbitt,1610612748,Miami Heat,3,8,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,109,262,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,407,202337,Luke Babbitt,1610612748,Miami Heat,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-22,257,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,430,202337,Luke Babbitt,1610612748,Miami Heat,3,4,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,11,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,614,202337,Luke Babbitt,1610612748,Miami Heat,4,3,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,250,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701186,588,202337,Luke Babbitt,1610612748,Miami Heat,4,5,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,99,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021701186,590,202337,Luke Babbitt,1610612748,Miami Heat,4,5,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,153,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021701186,625,202337,Luke Babbitt,1610612748,Miami Heat,4,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-28,251,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021701186,631,202337,Luke Babbitt,1610612748,Miami Heat,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,207,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021700009,299,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,174,1,0,20171018,DAL,ATL
-Shot Chart Detail,0021700009,307,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-111,115,1,1,20171018,DAL,ATL
-Shot Chart Detail,0021700009,501,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,209,1,1,20171018,DAL,ATL
-Shot Chart Detail,0021700017,179,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-77,254,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,212,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,212,1,1,20171020,CHA,ATL
-Shot Chart Detail,0021700017,246,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,58,249,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,505,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,10,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,512,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,575,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,9,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-4,1,0,20171020,CHA,ATL
-Shot Chart Detail,0021700017,690,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,173,1,1,20171020,CHA,ATL
-Shot Chart Detail,0021700038,230,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,193,1,0,20171022,BKN,ATL
-Shot Chart Detail,0021700042,105,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,35,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,138,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,101,148,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,243,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,471,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20171023,MIA,ATL
-Shot Chart Detail,0021700042,498,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,9,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,15,100,1,0,20171023,MIA,ATL
-Shot Chart Detail,0021700065,107,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,215,1,0,20171026,CHI,ATL
-Shot Chart Detail,0021700065,166,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,61,1,0,20171026,CHI,ATL
-Shot Chart Detail,0021700065,194,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,9,1,0,20171026,CHI,ATL
-Shot Chart Detail,0021700085,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,35,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-85,90,1,1,20171029,ATL,MIL
-Shot Chart Detail,0021700085,142,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-8,1,0,20171029,ATL,MIL
-Shot Chart Detail,0021700085,156,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,15,1,0,20171029,ATL,MIL
-Shot Chart Detail,0021700085,175,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,222,1,0,20171029,ATL,MIL
-Shot Chart Detail,0021700085,479,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,228,1,1,20171029,ATL,MIL
-Shot Chart Detail,0021700107,178,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,218,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,226,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,16,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,441,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,7,42,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,26,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,466,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,6,36,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,152,39,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,491,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,36,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,563,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,231,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,578,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-70,259,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,584,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,39,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,53,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,588,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,145,39,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,684,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,216,162,1,0,20171101,PHI,ATL
-Shot Chart Detail,0021700107,774,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,9,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,88,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700107,799,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-39,152,1,1,20171101,PHI,ATL
-Shot Chart Detail,0021700123,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-59,242,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700123,189,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,11,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700123,289,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,0,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-226,93,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700123,450,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,52,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,0,20171103,ATL,HOU
-Shot Chart Detail,0021700123,598,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-106,226,1,1,20171103,ATL,HOU
-Shot Chart Detail,0021700136,24,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,9,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,28,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,9,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,268,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,37,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,48,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,140,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,4,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,144,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,55,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,228,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,36,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,260,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,5,38,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,90,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,292,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,24,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,330,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,1,37,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-29,117,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,382,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,122,241,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700136,547,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,10,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-21,248,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,581,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,54,Missed Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-218,21,1,0,20171105,CLE,ATL
-Shot Chart Detail,0021700136,625,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,260,1,1,20171105,CLE,ATL
-Shot Chart Detail,0021700146,8,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-34,159,1,1,20171106,ATL,BOS
-Shot Chart Detail,0021700146,112,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,3,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,257,1,1,20171106,ATL,BOS
-Shot Chart Detail,0021700146,349,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,222,1,1,20171106,ATL,BOS
-Shot Chart Detail,0021700146,592,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-1,1,0,20171106,ATL,BOS
-Shot Chart Detail,0021700169,53,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,4,264,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700169,141,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,39,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,89,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700169,232,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,147,1,0,20171110,DET,ATL
-Shot Chart Detail,0021700169,351,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,10,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-5,248,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700169,453,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,34,150,1,1,20171110,DET,ATL
-Shot Chart Detail,0021700177,48,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-11,283,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,56,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-39,184,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,201,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-114,158,1,1,20171111,WAS,ATL
-Shot Chart Detail,0021700177,349,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,10,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,241,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,431,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,3,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,10,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,453,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,32,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,477,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,57,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-118,30,1,0,20171111,WAS,ATL
-Shot Chart Detail,0021700177,580,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,58,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,18,268,1,1,20171111,WAS,ATL
-Shot Chart Detail,0021700195,38,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,32,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,251,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,238,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,68,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,242,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,201,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,285,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,256,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,296,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,155,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,328,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,11,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,366,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,227,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,428,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,142,1,1,20171113,NOP,ATL
-Shot Chart Detail,0021700195,443,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,242,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700195,550,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,17,127,1,0,20171113,NOP,ATL
-Shot Chart Detail,0021700204,7,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,136,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,35,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,12,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,46,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,46,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-91,204,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,49,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,6,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,88,1,0,20171115,ATL,SAC
-Shot Chart Detail,0021700204,169,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,11,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700204,173,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,21,1,0,20171115,ATL,SAC
-Shot Chart Detail,0021700204,186,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,230,1,1,20171115,ATL,SAC
-Shot Chart Detail,0021700230,7,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-12,209,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,70,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,5,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,1,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,82,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,4,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,215,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,159,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,100,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,188,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,10,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,192,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-8,246,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,250,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,62,242,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,254,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,60,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,360,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,257,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,392,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,225,1,1,20171118,ATL,BOS
-Shot Chart Detail,0021700230,557,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,247,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700230,565,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,34,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,0,20171118,ATL,BOS
-Shot Chart Detail,0021700250,9,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-79,251,1,0,20171120,SAS,ATL
-Shot Chart Detail,0021700250,35,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,205,1,0,20171120,SAS,ATL
-Shot Chart Detail,0021700250,153,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,22,1,0,20171120,SAS,ATL
-Shot Chart Detail,0021700313,200,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,255,1,1,20171130,ATL,CLE
-Shot Chart Detail,0021700313,369,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,6,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,230,69,1,0,20171130,ATL,CLE
-Shot Chart Detail,0021700313,397,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,4,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,241,1,0,20171130,ATL,CLE
-Shot Chart Detail,0021700313,405,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,3,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,148,1,1,20171130,ATL,CLE
-Shot Chart Detail,0021700328,100,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,4,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-35,174,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,147,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,217,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,298,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-9,1,0,20171202,BKN,ATL
-Shot Chart Detail,0021700328,305,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,242,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,423,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,156,1,0,20171202,BKN,ATL
-Shot Chart Detail,0021700328,484,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,16,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,490,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,155,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,502,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-62,241,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700328,628,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-166,119,1,1,20171202,BKN,ATL
-Shot Chart Detail,0021700342,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,236,1,0,20171204,ATL,BKN
-Shot Chart Detail,0021700342,511,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-57,253,1,1,20171204,ATL,BKN
-Shot Chart Detail,0021700342,516,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,37,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,33,127,1,0,20171204,ATL,BKN
-Shot Chart Detail,0021700355,104,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,73,1,1,20171206,ORL,ATL
-Shot Chart Detail,0021700355,136,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,27,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,100,1,0,20171206,ORL,ATL
-Shot Chart Detail,0021700378,264,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,27,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,153,1,0,20171209,ATL,ORL
-Shot Chart Detail,0021700390,108,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-47,131,1,1,20171210,NYK,ATL
-Shot Chart Detail,0021700390,137,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,243,1,1,20171210,NYK,ATL
-Shot Chart Detail,0021700390,301,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,0,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,217,1,1,20171210,NYK,ATL
-Shot Chart Detail,0021700390,417,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,224,1,0,20171210,NYK,ATL
-Shot Chart Detail,0021700397,146,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,4,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,96,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,215,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-213,173,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,246,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,10,1,1,20171212,CLE,ATL
-Shot Chart Detail,0021700397,427,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,198,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,449,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,23,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,13,1,0,20171212,CLE,ATL
-Shot Chart Detail,0021700397,584,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,77,1,1,20171212,CLE,ATL
-Shot Chart Detail,0021700397,600,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,4,1,1,20171212,CLE,ATL
-Shot Chart Detail,0021700413,155,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,11,1,0,20171214,ATL,DET
-Shot Chart Detail,0021700413,190,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,66,1,0,20171214,ATL,DET
-Shot Chart Detail,0021700413,520,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,186,1,1,20171214,ATL,DET
-Shot Chart Detail,0021700413,672,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-63,233,1,0,20171214,ATL,DET
-Shot Chart Detail,0021700425,204,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,248,1,0,20171215,MEM,ATL
-Shot Chart Detail,0021700425,502,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,48,1,1,20171215,MEM,ATL
-Shot Chart Detail,0021700425,507,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,10,16,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,0,20171215,MEM,ATL
-Shot Chart Detail,0021700443,144,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,37,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-37,178,1,0,20171218,ATL,MIA
-Shot Chart Detail,0021700455,146,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,277,1,0,20171220,ATL,IND
-Shot Chart Detail,0021700455,563,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,193,1,0,20171220,ATL,IND
-Shot Chart Detail,0021700455,601,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,210,1,0,20171220,ATL,IND
-Shot Chart Detail,0021700576,545,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,59,1,1,20180105,POR,ATL
-Shot Chart Detail,0021700576,597,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,19,1,0,20180105,POR,ATL
-Shot Chart Detail,0021700590,664,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,179,1,0,20180107,LAL,ATL
-Shot Chart Detail,0021700675,625,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-35,259,1,1,20180120,ATL,CHI
-Shot Chart Detail,0021700675,661,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,2,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-226,68,1,1,20180120,ATL,CHI
-Shot Chart Detail,0021700688,139,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-20,1,1,20180122,ATL,UTA
-Shot Chart Detail,0021700688,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,154,1,1,20180122,ATL,UTA
-Shot Chart Detail,0021700705,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,13,287,1,0,20180124,ATL,TOR
-Shot Chart Detail,0021700705,208,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,225,1,0,20180124,ATL,TOR
-Shot Chart Detail,0021700705,231,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,44,277,1,0,20180124,ATL,TOR
-Shot Chart Detail,0021700705,631,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,39,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,84,1,1,20180124,ATL,TOR
-Shot Chart Detail,0021700705,649,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,19,244,1,1,20180124,ATL,TOR
-Shot Chart Detail,0021700705,658,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-21,1,1,20180124,ATL,TOR
-Shot Chart Detail,0021700726,611,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,238,1,0,20180127,ATL,WAS
-Shot Chart Detail,0021700726,628,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,160,1,1,20180127,ATL,WAS
-Shot Chart Detail,0021700726,631,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,0,20180127,ATL,WAS
-Shot Chart Detail,0021700726,634,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-188,216,1,0,20180127,ATL,WAS
-Shot Chart Detail,0021700755,632,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,11,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-62,125,1,1,20180131,ATL,CHA
-Shot Chart Detail,0021700767,644,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,164,221,1,0,20180202,BOS,ATL
-Shot Chart Detail,0021700799,575,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,-8,1,0,20180206,ATL,MEM
-Shot Chart Detail,0021700799,585,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,30,264,1,0,20180206,ATL,MEM
-Shot Chart Detail,0021700799,597,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,237,1,1,20180206,ATL,MEM
-Shot Chart Detail,0021700799,609,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,1,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,1,20180206,ATL,MEM
-Shot Chart Detail,0021700855,372,202337,Luke Babbitt,1610612748,Miami Heat,3,10,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,5,1,0,20180214,PHI,MIA
-Shot Chart Detail,0021700855,386,202337,Luke Babbitt,1610612748,Miami Heat,3,9,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-4,1,1,20180214,PHI,MIA
-Shot Chart Detail,0021700855,442,202337,Luke Babbitt,1610612748,Miami Heat,3,4,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,64,1,1,20180214,PHI,MIA
-Shot Chart Detail,0021700879,192,202337,Luke Babbitt,1610612748,Miami Heat,2,11,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,171,1,0,20180223,NOP,MIA
-Shot Chart Detail,0021700885,258,202337,Luke Babbitt,1610612748,Miami Heat,2,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,180,172,1,0,20180224,MIA,MEM
-Shot Chart Detail,0021700885,293,202337,Luke Babbitt,1610612748,Miami Heat,2,3,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,38,1,0,20180224,MIA,MEM
-Shot Chart Detail,0021700885,637,202337,Luke Babbitt,1610612748,Miami Heat,4,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,251,1,0,20180224,MIA,MEM
-Shot Chart Detail,0021700922,623,202337,Luke Babbitt,1610612748,Miami Heat,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,183,162,1,0,20180301,MIA,LAL
-Shot Chart Detail,0021700938,9,202337,Luke Babbitt,1610612748,Miami Heat,1,11,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,251,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,30,202337,Luke Babbitt,1610612748,Miami Heat,1,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,-2,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,97,202337,Luke Babbitt,1610612748,Miami Heat,1,3,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,56,261,1,1,20180303,MIA,DET
-Shot Chart Detail,0021700938,129,202337,Luke Babbitt,1610612748,Miami Heat,1,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,210,1,1,20180303,MIA,DET
-Shot Chart Detail,0021700938,271,202337,Luke Babbitt,1610612748,Miami Heat,2,2,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,248,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,346,202337,Luke Babbitt,1610612748,Miami Heat,3,9,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-149,251,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,380,202337,Luke Babbitt,1610612748,Miami Heat,3,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-116,264,1,1,20180303,MIA,DET
-Shot Chart Detail,0021700938,388,202337,Luke Babbitt,1610612748,Miami Heat,3,6,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-183,209,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700938,397,202337,Luke Babbitt,1610612748,Miami Heat,3,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-232,121,1,0,20180303,MIA,DET
-Shot Chart Detail,0021700952,11,202337,Luke Babbitt,1610612748,Miami Heat,1,11,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,13,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,27,202337,Luke Babbitt,1610612748,Miami Heat,1,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-149,215,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,45,202337,Luke Babbitt,1610612748,Miami Heat,1,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,69,249,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,67,202337,Luke Babbitt,1610612748,Miami Heat,1,6,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,74,202337,Luke Babbitt,1610612748,Miami Heat,1,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,152,196,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,115,202337,Luke Babbitt,1610612748,Miami Heat,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,10,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,132,202337,Luke Babbitt,1610612748,Miami Heat,1,2,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,40,258,1,1,20180305,MIA,PHX
-Shot Chart Detail,0021700952,310,202337,Luke Babbitt,1610612748,Miami Heat,2,0,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,137,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,352,202337,Luke Babbitt,1610612748,Miami Heat,3,9,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,415,202337,Luke Babbitt,1610612748,Miami Heat,3,3,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700952,601,202337,Luke Babbitt,1610612748,Miami Heat,4,3,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,194,1,0,20180305,MIA,PHX
-Shot Chart Detail,0021700959,13,202337,Luke Babbitt,1610612748,Miami Heat,1,10,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-8,272,1,0,20180306,WAS,MIA
-Shot Chart Detail,0021700959,47,202337,Luke Babbitt,1610612748,Miami Heat,1,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,243,1,1,20180306,WAS,MIA
-Shot Chart Detail,0021700988,502,202337,Luke Babbitt,1610612748,Miami Heat,4,10,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,53,1,0,20180310,MIA,WAS
-Shot Chart Detail,0021700988,531,202337,Luke Babbitt,1610612748,Miami Heat,4,7,30,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,5,1,0,20180310,MIA,WAS
-Shot Chart Detail,0021700988,592,202337,Luke Babbitt,1610612748,Miami Heat,4,2,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20180310,MIA,WAS
-Shot Chart Detail,0021701018,45,202337,Luke Babbitt,1610612748,Miami Heat,1,8,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,2,1,0,20180314,SAC,MIA
-Shot Chart Detail,0021701018,66,202337,Luke Babbitt,1610612748,Miami Heat,1,6,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,0,20180314,SAC,MIA
-Shot Chart Detail,0021701018,316,202337,Luke Babbitt,1610612748,Miami Heat,3,10,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-36,262,1,0,20180314,SAC,MIA
-Shot Chart Detail,0021701068,534,202337,Luke Babbitt,1610612748,Miami Heat,4,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,139,204,1,0,20180321,MIA,NYK
-Shot Chart Detail,0021701172,315,202337,Luke Babbitt,1610612748,Miami Heat,2,1,1,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-88,233,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,356,202337,Luke Babbitt,1610612748,Miami Heat,3,10,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,231,1,1,20180404,ATL,MIA
-Shot Chart Detail,0021701172,374,202337,Luke Babbitt,1610612748,Miami Heat,3,8,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,109,262,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,407,202337,Luke Babbitt,1610612748,Miami Heat,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-22,257,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,430,202337,Luke Babbitt,1610612748,Miami Heat,3,4,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,11,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701172,614,202337,Luke Babbitt,1610612748,Miami Heat,4,3,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,250,1,0,20180404,ATL,MIA
-Shot Chart Detail,0021701186,588,202337,Luke Babbitt,1610612748,Miami Heat,4,5,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,99,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021701186,590,202337,Luke Babbitt,1610612748,Miami Heat,4,5,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,153,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021701186,625,202337,Luke Babbitt,1610612748,Miami Heat,4,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-28,251,1,0,20180406,NYK,MIA
-Shot Chart Detail,0021701186,631,202337,Luke Babbitt,1610612748,Miami Heat,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,207,1,0,20180406,NYK,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21700855,372,202337,Luke Babbitt,1610612748,Miami Heat,3,10,14,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,5,1,0,20180214,0,PHI,MIA
+Shot Chart Detail,21700855,386,202337,Luke Babbitt,1610612748,Miami Heat,3,9,13,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,-4,1,1,20180214,1,PHI,MIA
+Shot Chart Detail,21700855,442,202337,Luke Babbitt,1610612748,Miami Heat,3,4,14,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,64,1,1,20180214,1,PHI,MIA
+Shot Chart Detail,21700879,192,202337,Luke Babbitt,1610612748,Miami Heat,2,11,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,191,171,1,0,20180223,0,NOP,MIA
+Shot Chart Detail,21700885,258,202337,Luke Babbitt,1610612748,Miami Heat,2,6,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,180,172,1,0,20180224,0,MIA,MEM
+Shot Chart Detail,21700885,293,202337,Luke Babbitt,1610612748,Miami Heat,2,3,49,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,38,1,0,20180224,0,MIA,MEM
+Shot Chart Detail,21700885,637,202337,Luke Babbitt,1610612748,Miami Heat,4,2,10,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-13,251,1,0,20180224,0,MIA,MEM
+Shot Chart Detail,21700922,623,202337,Luke Babbitt,1610612748,Miami Heat,4,0,51,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,183,162,1,0,20180301,0,MIA,LAL
+Shot Chart Detail,21700938,9,202337,Luke Babbitt,1610612748,Miami Heat,1,11,26,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,251,1,0,20180303,0,MIA,DET
+Shot Chart Detail,21700938,30,202337,Luke Babbitt,1610612748,Miami Heat,1,8,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-118,-2,1,0,20180303,0,MIA,DET
+Shot Chart Detail,21700938,97,202337,Luke Babbitt,1610612748,Miami Heat,1,3,48,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,56,261,1,1,20180303,1,MIA,DET
+Shot Chart Detail,21700938,129,202337,Luke Babbitt,1610612748,Miami Heat,1,1,39,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,210,1,1,20180303,1,MIA,DET
+Shot Chart Detail,21700938,271,202337,Luke Babbitt,1610612748,Miami Heat,2,2,59,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,248,1,0,20180303,0,MIA,DET
+Shot Chart Detail,21700938,346,202337,Luke Babbitt,1610612748,Miami Heat,3,9,56,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-149,251,1,0,20180303,0,MIA,DET
+Shot Chart Detail,21700938,380,202337,Luke Babbitt,1610612748,Miami Heat,3,6,51,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-116,264,1,1,20180303,1,MIA,DET
+Shot Chart Detail,21700938,388,202337,Luke Babbitt,1610612748,Miami Heat,3,6,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-183,209,1,0,20180303,0,MIA,DET
+Shot Chart Detail,21700938,397,202337,Luke Babbitt,1610612748,Miami Heat,3,4,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-232,121,1,0,20180303,0,MIA,DET
+Shot Chart Detail,21700952,11,202337,Luke Babbitt,1610612748,Miami Heat,1,11,12,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,13,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700952,27,202337,Luke Babbitt,1610612748,Miami Heat,1,9,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-149,215,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700952,45,202337,Luke Babbitt,1610612748,Miami Heat,1,8,50,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,69,249,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700952,67,202337,Luke Babbitt,1610612748,Miami Heat,1,6,10,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,1,20180305,1,MIA,PHX
+Shot Chart Detail,21700952,74,202337,Luke Babbitt,1610612748,Miami Heat,1,5,20,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,152,196,1,1,20180305,1,MIA,PHX
+Shot Chart Detail,21700952,115,202337,Luke Babbitt,1610612748,Miami Heat,1,2,32,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,10,1,1,20180305,1,MIA,PHX
+Shot Chart Detail,21700952,132,202337,Luke Babbitt,1610612748,Miami Heat,1,2,6,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,40,258,1,1,20180305,1,MIA,PHX
+Shot Chart Detail,21700952,310,202337,Luke Babbitt,1610612748,Miami Heat,2,0,34,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,220,137,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700952,352,202337,Luke Babbitt,1610612748,Miami Heat,3,9,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700952,415,202337,Luke Babbitt,1610612748,Miami Heat,3,3,45,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700952,601,202337,Luke Babbitt,1610612748,Miami Heat,4,3,12,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,194,1,0,20180305,0,MIA,PHX
+Shot Chart Detail,21700959,13,202337,Luke Babbitt,1610612748,Miami Heat,1,10,51,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-8,272,1,0,20180306,0,WAS,MIA
+Shot Chart Detail,21700959,47,202337,Luke Babbitt,1610612748,Miami Heat,1,7,46,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,243,1,1,20180306,1,WAS,MIA
+Shot Chart Detail,21700988,502,202337,Luke Babbitt,1610612748,Miami Heat,4,10,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,53,1,0,20180310,0,MIA,WAS
+Shot Chart Detail,21700988,531,202337,Luke Babbitt,1610612748,Miami Heat,4,7,30,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),16-24 ft.,16,-160,5,1,0,20180310,0,MIA,WAS
+Shot Chart Detail,21700988,592,202337,Luke Babbitt,1610612748,Miami Heat,4,2,0,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20180310,0,MIA,WAS
+Shot Chart Detail,21701018,45,202337,Luke Babbitt,1610612748,Miami Heat,1,8,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,2,1,0,20180314,0,SAC,MIA
+Shot Chart Detail,21701018,66,202337,Luke Babbitt,1610612748,Miami Heat,1,6,8,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,25,1,0,20180314,0,SAC,MIA
+Shot Chart Detail,21701018,316,202337,Luke Babbitt,1610612748,Miami Heat,3,10,34,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-36,262,1,0,20180314,0,SAC,MIA
+Shot Chart Detail,21701068,534,202337,Luke Babbitt,1610612748,Miami Heat,4,2,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,139,204,1,0,20180321,0,MIA,NYK
+Shot Chart Detail,21701172,315,202337,Luke Babbitt,1610612748,Miami Heat,2,1,1,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-88,233,1,0,20180404,0,ATL,MIA
+Shot Chart Detail,21701172,356,202337,Luke Babbitt,1610612748,Miami Heat,3,10,51,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,231,1,1,20180404,1,ATL,MIA
+Shot Chart Detail,21701172,374,202337,Luke Babbitt,1610612748,Miami Heat,3,8,45,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,109,262,1,0,20180404,0,ATL,MIA
+Shot Chart Detail,21701172,407,202337,Luke Babbitt,1610612748,Miami Heat,3,5,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-22,257,1,0,20180404,0,ATL,MIA
+Shot Chart Detail,21701172,430,202337,Luke Babbitt,1610612748,Miami Heat,3,4,4,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,11,1,0,20180404,0,ATL,MIA
+Shot Chart Detail,21701172,614,202337,Luke Babbitt,1610612748,Miami Heat,4,3,23,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,77,250,1,0,20180404,0,ATL,MIA
+Shot Chart Detail,21701186,588,202337,Luke Babbitt,1610612748,Miami Heat,4,5,27,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-220,99,1,0,20180406,0,NYK,MIA
+Shot Chart Detail,21701186,590,202337,Luke Babbitt,1610612748,Miami Heat,4,5,21,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,153,1,0,20180406,0,NYK,MIA
+Shot Chart Detail,21701186,625,202337,Luke Babbitt,1610612748,Miami Heat,4,2,14,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-28,251,1,0,20180406,0,NYK,MIA
+Shot Chart Detail,21701186,631,202337,Luke Babbitt,1610612748,Miami Heat,4,1,34,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,207,1,0,20180406,0,NYK,MIA
+Shot Chart Detail,21700009,299,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,174,1,0,20171018,0,DAL,ATL
+Shot Chart Detail,21700009,307,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,33,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-111,115,1,1,20171018,0,DAL,ATL
+Shot Chart Detail,21700009,501,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,46,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,209,1,1,20171018,1,DAL,ATL
+Shot Chart Detail,21700017,179,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,36,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-77,254,1,0,20171020,0,CHA,ATL
+Shot Chart Detail,21700017,212,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,27,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,212,1,1,20171020,1,CHA,ATL
+Shot Chart Detail,21700017,246,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,44,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,58,249,1,0,20171020,0,CHA,ATL
+Shot Chart Detail,21700017,505,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,13,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,10,1,0,20171020,0,CHA,ATL
+Shot Chart Detail,21700017,512,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,29,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,0,20171020,0,CHA,ATL
+Shot Chart Detail,21700017,575,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,9,18,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,229,-4,1,0,20171020,0,CHA,ATL
+Shot Chart Detail,21700017,690,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,2,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-41,173,1,1,20171020,1,CHA,ATL
+Shot Chart Detail,21700038,230,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,193,1,0,20171022,0,BKN,ATL
+Shot Chart Detail,21700042,105,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,35,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,35,1,1,20171023,0,MIA,ATL
+Shot Chart Detail,21700042,138,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,31,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,101,148,1,1,20171023,0,MIA,ATL
+Shot Chart Detail,21700042,243,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,51,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20171023,0,MIA,ATL
+Shot Chart Detail,21700042,471,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,15,1,1,20171023,1,MIA,ATL
+Shot Chart Detail,21700042,498,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,9,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,15,100,1,0,20171023,0,MIA,ATL
+Shot Chart Detail,21700065,107,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,215,1,0,20171026,0,CHI,ATL
+Shot Chart Detail,21700065,166,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,27,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,234,61,1,0,20171026,0,CHI,ATL
+Shot Chart Detail,21700065,194,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,33,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,9,1,0,20171026,0,CHI,ATL
+Shot Chart Detail,21700085,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,35,Made Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-85,90,1,1,20171029,1,ATL,MIL
+Shot Chart Detail,21700085,142,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,41,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,-8,1,0,20171029,0,ATL,MIL
+Shot Chart Detail,21700085,156,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,2,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,15,1,0,20171029,0,ATL,MIL
+Shot Chart Detail,21700085,175,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,29,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,222,1,0,20171029,0,ATL,MIL
+Shot Chart Detail,21700085,479,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,40,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,228,1,1,20171029,1,ATL,MIL
+Shot Chart Detail,21700107,178,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,18,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,218,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700107,226,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,24,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,16,1,0,20171101,0,PHI,ATL
+Shot Chart Detail,21700107,441,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,7,42,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,20,26,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700107,466,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,6,36,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,152,39,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700107,491,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-3,36,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700107,563,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,14,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,231,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700107,578,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,11,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-70,259,1,0,20171101,0,PHI,ATL
+Shot Chart Detail,21700107,584,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,39,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,53,1,0,20171101,0,PHI,ATL
+Shot Chart Detail,21700107,588,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,145,39,1,0,20171101,0,PHI,ATL
+Shot Chart Detail,21700107,684,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,33,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,216,162,1,0,20171101,0,PHI,ATL
+Shot Chart Detail,21700107,774,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,9,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,88,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700107,799,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,12,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-39,152,1,1,20171101,1,PHI,ATL
+Shot Chart Detail,21700123,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,29,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,24,-59,242,1,1,20171103,1,ATL,HOU
+Shot Chart Detail,21700123,189,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,6,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,11,1,1,20171103,1,ATL,HOU
+Shot Chart Detail,21700123,289,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,0,22,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-226,93,1,1,20171103,1,ATL,HOU
+Shot Chart Detail,21700123,450,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,52,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,0,20171103,0,ATL,HOU
+Shot Chart Detail,21700123,598,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,49,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-106,226,1,1,20171103,1,ATL,HOU
+Shot Chart Detail,21700136,24,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,9,40,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,7,1,1,20171105,1,CLE,ATL
+Shot Chart Detail,21700136,28,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,9,15,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-72,268,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,37,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,24,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,226,48,1,1,20171105,1,CLE,ATL
+Shot Chart Detail,21700136,140,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,10,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,4,1,1,20171105,1,CLE,ATL
+Shot Chart Detail,21700136,144,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,31,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-192,55,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,228,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,165,36,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,260,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,5,38,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,90,1,1,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,292,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,23,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-242,24,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,330,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,1,37,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-29,117,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,382,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,43,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,122,241,1,1,20171105,1,CLE,ATL
+Shot Chart Detail,21700136,547,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,10,40,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-21,248,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,581,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,54,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-218,21,1,0,20171105,0,CLE,ATL
+Shot Chart Detail,21700136,625,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,3,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,0,260,1,1,20171105,1,CLE,ATL
+Shot Chart Detail,21700146,8,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,37,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-34,159,1,1,20171106,0,ATL,BOS
+Shot Chart Detail,21700146,112,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,3,13,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-43,257,1,1,20171106,1,ATL,BOS
+Shot Chart Detail,21700146,349,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,11,28,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,222,1,1,20171106,1,ATL,BOS
+Shot Chart Detail,21700146,592,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,51,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,13,-131,-1,1,0,20171106,0,ATL,BOS
+Shot Chart Detail,21700169,53,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,23,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,4,264,1,1,20171110,1,DET,ATL
+Shot Chart Detail,21700169,141,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,39,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-44,89,1,1,20171110,1,DET,ATL
+Shot Chart Detail,21700169,232,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-218,147,1,0,20171110,0,DET,ATL
+Shot Chart Detail,21700169,351,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,10,37,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-5,248,1,1,20171110,1,DET,ATL
+Shot Chart Detail,21700169,453,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,29,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,34,150,1,1,20171110,0,DET,ATL
+Shot Chart Detail,21700177,48,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,16,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-11,283,1,0,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,56,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,6,36,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-39,184,1,0,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,201,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,36,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-114,158,1,1,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,349,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,10,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,241,1,0,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,431,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,3,45,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,10,1,0,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,453,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,42,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,32,1,0,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,477,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,57,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,12,-118,30,1,0,20171111,0,WAS,ATL
+Shot Chart Detail,21700177,580,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,58,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,18,268,1,1,20171111,1,WAS,ATL
+Shot Chart Detail,21700195,38,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,46,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,32,1,1,20171113,1,NOP,ATL
+Shot Chart Detail,21700195,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,58,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-81,251,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700195,238,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,7,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,151,68,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700195,242,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,48,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,201,1,1,20171113,1,NOP,ATL
+Shot Chart Detail,21700195,285,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,256,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700195,296,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,155,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700195,328,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,11,48,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-6,1,1,20171113,1,NOP,ATL
+Shot Chart Detail,21700195,366,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,12,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-108,227,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700195,428,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,35,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,142,1,1,20171113,1,NOP,ATL
+Shot Chart Detail,21700195,443,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,242,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700195,550,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,17,127,1,0,20171113,0,NOP,ATL
+Shot Chart Detail,21700204,7,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,46,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,136,1,1,20171115,1,ATL,SAC
+Shot Chart Detail,21700204,35,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,12,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,3,46,1,1,20171115,1,ATL,SAC
+Shot Chart Detail,21700204,46,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,7,12,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-91,204,1,1,20171115,1,ATL,SAC
+Shot Chart Detail,21700204,49,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,6,31,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,88,1,0,20171115,0,ATL,SAC
+Shot Chart Detail,21700204,169,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,5,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,11,1,1,20171115,1,ATL,SAC
+Shot Chart Detail,21700204,173,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,30,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,21,1,0,20171115,0,ATL,SAC
+Shot Chart Detail,21700204,186,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,1,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,230,1,1,20171115,1,ATL,SAC
+Shot Chart Detail,21700230,7,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,42,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-12,209,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,70,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,5,43,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,1,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,82,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,4,47,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-133,215,1,1,20171118,1,ATL,BOS
+Shot Chart Detail,21700230,159,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,8,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,15,-117,100,1,1,20171118,1,ATL,BOS
+Shot Chart Detail,21700230,188,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,15,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,108,10,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,192,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,53,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-8,246,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,250,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,5,11,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,62,242,1,1,20171118,1,ATL,BOS
+Shot Chart Detail,21700230,254,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,33,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-223,60,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,360,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,8,9,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-47,257,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,392,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,4,51,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,225,1,1,20171118,1,ATL,BOS
+Shot Chart Detail,21700230,557,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,20,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-60,247,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700230,565,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,34,Missed Shot,Step Back Jump shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,0,20171118,0,ATL,BOS
+Shot Chart Detail,21700250,9,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,11,24,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-79,251,1,0,20171120,0,SAS,ATL
+Shot Chart Detail,21700250,35,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,8,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,205,1,0,20171120,0,SAS,ATL
+Shot Chart Detail,21700250,153,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,5,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,22,1,0,20171120,0,SAS,ATL
+Shot Chart Detail,21700313,200,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,9,22,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-81,255,1,1,20171130,1,ATL,CLE
+Shot Chart Detail,21700313,369,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,6,31,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,230,69,1,0,20171130,0,ATL,CLE
+Shot Chart Detail,21700313,397,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,4,52,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,241,1,0,20171130,0,ATL,CLE
+Shot Chart Detail,21700313,405,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,3,55,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,195,148,1,1,20171130,1,ATL,CLE
+Shot Chart Detail,21700328,100,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,4,46,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-35,174,1,1,20171202,0,BKN,ATL
+Shot Chart Detail,21700328,147,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,41,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,217,1,1,20171202,1,BKN,ATL
+Shot Chart Detail,21700328,298,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,2,35,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,-9,1,0,20171202,0,BKN,ATL
+Shot Chart Detail,21700328,305,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,1,54,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,242,1,1,20171202,1,BKN,ATL
+Shot Chart Detail,21700328,423,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,7,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-188,156,1,0,20171202,0,BKN,ATL
+Shot Chart Detail,21700328,484,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,55,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,16,1,1,20171202,0,BKN,ATL
+Shot Chart Detail,21700328,490,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,30,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,155,1,1,20171202,1,BKN,ATL
+Shot Chart Detail,21700328,502,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,51,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-62,241,1,1,20171202,1,BKN,ATL
+Shot Chart Detail,21700328,628,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,54,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-166,119,1,1,20171202,1,BKN,ATL
+Shot Chart Detail,21700342,135,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,21,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,236,1,0,20171204,0,ATL,BKN
+Shot Chart Detail,21700342,511,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,1,12,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-57,253,1,1,20171204,1,ATL,BKN
+Shot Chart Detail,21700342,516,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,37,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,33,127,1,0,20171204,0,ATL,BKN
+Shot Chart Detail,21700355,104,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,38,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-228,73,1,1,20171206,1,ORL,ATL
+Shot Chart Detail,21700355,136,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,27,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,38,100,1,0,20171206,0,ORL,ATL
+Shot Chart Detail,21700378,264,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,3,27,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-4,153,1,0,20171209,0,ATL,ORL
+Shot Chart Detail,21700390,108,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,2,18,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-47,131,1,1,20171210,0,NYK,ATL
+Shot Chart Detail,21700390,137,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,34,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,243,1,1,20171210,1,NYK,ATL
+Shot Chart Detail,21700390,301,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,0,4,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,217,1,1,20171210,1,NYK,ATL
+Shot Chart Detail,21700390,417,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,5,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,224,1,0,20171210,0,NYK,ATL
+Shot Chart Detail,21700397,146,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,4,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,96,1,0,20171212,0,CLE,ATL
+Shot Chart Detail,21700397,215,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,6,6,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-213,173,1,0,20171212,0,CLE,ATL
+Shot Chart Detail,21700397,246,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,4,16,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,10,1,1,20171212,1,CLE,ATL
+Shot Chart Detail,21700397,427,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,2,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,198,1,0,20171212,0,CLE,ATL
+Shot Chart Detail,21700397,449,202337,Luke Babbitt,1610612737,Atlanta Hawks,3,0,23,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,13,1,0,20171212,0,CLE,ATL
+Shot Chart Detail,21700397,584,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,20,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,77,1,1,20171212,1,CLE,ATL
+Shot Chart Detail,21700397,600,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,8,4,1,1,20171212,1,CLE,ATL
+Shot Chart Detail,21700413,155,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,11,1,0,20171214,0,ATL,DET
+Shot Chart Detail,21700413,190,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,16,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,229,66,1,0,20171214,0,ATL,DET
+Shot Chart Detail,21700413,520,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,32,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,186,1,1,20171214,1,ATL,DET
+Shot Chart Detail,21700413,672,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,2,47,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-63,233,1,0,20171214,0,ATL,DET
+Shot Chart Detail,21700425,204,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,56,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,248,1,0,20171215,0,MEM,ATL
+Shot Chart Detail,21700425,502,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,11,13,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-142,48,1,1,20171215,1,MEM,ATL
+Shot Chart Detail,21700425,507,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,10,16,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,0,20171215,0,MEM,ATL
+Shot Chart Detail,21700443,144,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,37,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,-37,178,1,0,20171218,0,ATL,MIA
+Shot Chart Detail,21700455,146,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,44,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-15,277,1,0,20171220,0,ATL,IND
+Shot Chart Detail,21700455,563,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,193,1,0,20171220,0,ATL,IND
+Shot Chart Detail,21700455,601,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,210,1,0,20171220,0,ATL,IND
+Shot Chart Detail,21700576,545,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,7,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,59,1,1,20180105,0,POR,ATL
+Shot Chart Detail,21700576,597,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,57,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,19,1,0,20180105,0,POR,ATL
+Shot Chart Detail,21700590,664,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,19,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,179,1,0,20180107,0,LAL,ATL
+Shot Chart Detail,21700675,625,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,40,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-35,259,1,1,20180120,1,ATL,CHI
+Shot Chart Detail,21700675,661,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,2,Made Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-226,68,1,1,20180120,1,ATL,CHI
+Shot Chart Detail,21700688,139,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,1,34,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,-20,1,1,20180122,1,ATL,UTA
+Shot Chart Detail,21700688,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,11,38,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,154,1,1,20180122,0,ATL,UTA
+Shot Chart Detail,21700705,161,202337,Luke Babbitt,1610612737,Atlanta Hawks,1,0,56,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,13,287,1,0,20180124,0,ATL,TOR
+Shot Chart Detail,21700705,208,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,10,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,225,1,0,20180124,0,ATL,TOR
+Shot Chart Detail,21700705,231,202337,Luke Babbitt,1610612737,Atlanta Hawks,2,8,30,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,44,277,1,0,20180124,0,ATL,TOR
+Shot Chart Detail,21700705,631,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,39,Made Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-224,84,1,1,20180124,1,ATL,TOR
+Shot Chart Detail,21700705,649,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,3,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,19,244,1,1,20180124,1,ATL,TOR
+Shot Chart Detail,21700705,658,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,3,16,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-21,1,1,20180124,1,ATL,TOR
+Shot Chart Detail,21700726,611,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,1,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,161,238,1,0,20180127,0,ATL,WAS
+Shot Chart Detail,21700726,628,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,56,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,3,160,1,1,20180127,0,ATL,WAS
+Shot Chart Detail,21700726,631,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,32,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,0,20180127,0,ATL,WAS
+Shot Chart Detail,21700726,634,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,6,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-188,216,1,0,20180127,0,ATL,WAS
+Shot Chart Detail,21700755,632,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,11,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-62,125,1,1,20180131,0,ATL,CHA
+Shot Chart Detail,21700767,644,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,0,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,164,221,1,0,20180202,0,BOS,ATL
+Shot Chart Detail,21700799,575,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,7,0,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-220,-8,1,0,20180206,0,ATL,MEM
+Shot Chart Detail,21700799,585,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,6,28,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,30,264,1,0,20180206,0,ATL,MEM
+Shot Chart Detail,21700799,597,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,5,21,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,237,1,1,20180206,1,ATL,MEM
+Shot Chart Detail,21700799,609,202337,Luke Babbitt,1610612737,Atlanta Hawks,4,4,1,Made Shot,Running Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,1,20180206,1,ATL,MEM

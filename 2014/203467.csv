@@ -1,15 +1,15 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300194,461,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,2,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,211,1,0,20131123,SAS,CLE
-Shot Chart Detail,0021300232,520,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,2,51,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,64,1,0,20131129,BOS,CLE
-Shot Chart Detail,0021300232,560,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20131129,BOS,CLE
-Shot Chart Detail,0021300232,563,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,116,102,1,0,20131129,BOS,CLE
-Shot Chart Detail,0021300397,485,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-122,216,1,0,20131221,CHI,CLE
-Shot Chart Detail,0021300408,557,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,1,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,0,20131223,CLE,DET
-Shot Chart Detail,0021300408,576,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20131223,CLE,DET
-Shot Chart Detail,0021300509,544,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,1,25,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20140107,CLE,PHI
-Shot Chart Detail,0021301224,387,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,11,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-157,118,1,0,20140416,CLE,BKN
-Shot Chart Detail,0021301224,399,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,10,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20140416,CLE,BKN
-Shot Chart Detail,0021301224,412,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,9,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,102,1,1,20140416,CLE,BKN
-Shot Chart Detail,0021301224,438,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,6,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,85,1,1,20140416,CLE,BKN
-Shot Chart Detail,0021301224,466,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20140416,CLE,BKN
-Shot Chart Detail,0021301224,491,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,250,1,0,20140416,CLE,BKN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300194,461,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,2,15,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,211,1,0,20131123,0,SAS,CLE
+Shot Chart Detail,21300232,520,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,2,51,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,11,97,64,1,0,20131129,0,BOS,CLE
+Shot Chart Detail,21300232,560,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20131129,1,BOS,CLE
+Shot Chart Detail,21300232,563,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,7,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,116,102,1,0,20131129,0,BOS,CLE
+Shot Chart Detail,21300397,485,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-122,216,1,0,20131221,0,CHI,CLE
+Shot Chart Detail,21300408,557,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,1,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,0,20131223,0,CLE,DET
+Shot Chart Detail,21300408,576,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,9,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20131223,1,CLE,DET
+Shot Chart Detail,21300509,544,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,1,25,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20140107,1,CLE,PHI
+Shot Chart Detail,21301224,387,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,11,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-157,118,1,0,20140416,0,CLE,BKN
+Shot Chart Detail,21301224,399,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,10,20,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20140416,1,CLE,BKN
+Shot Chart Detail,21301224,412,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,9,15,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,102,1,1,20140416,1,CLE,BKN
+Shot Chart Detail,21301224,438,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,6,9,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,228,85,1,1,20140416,1,CLE,BKN
+Shot Chart Detail,21301224,466,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,3,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20140416,1,CLE,BKN
+Shot Chart Detail,21301224,491,203467,Carrick Felix,1610612739,Cleveland Cavaliers,4,0,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,250,1,0,20140416,0,CLE,BKN

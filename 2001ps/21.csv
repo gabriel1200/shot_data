@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000015,473,21,Greg Anthony,1610612757,Portland Trail Blazers,4,2,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,74,1,0,20010426,LAL,POR
-Shot Chart Detail,0040000015,501,21,Greg Anthony,1610612757,Portland Trail Blazers,4,0,20,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,112,1,1,20010426,LAL,POR
-Shot Chart Detail,0040000022,144,21,Greg Anthony,1610612757,Portland Trail Blazers,2,7,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,1,20010429,POR,LAL
-Shot Chart Detail,0040000022,173,21,Greg Anthony,1610612757,Portland Trail Blazers,2,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,23,-195,133,1,0,20010429,POR,LAL
-Shot Chart Detail,0040000022,331,21,Greg Anthony,1610612757,Portland Trail Blazers,3,1,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-6,1,0,20010429,POR,LAL
-Shot Chart Detail,0040000022,361,21,Greg Anthony,1610612757,Portland Trail Blazers,4,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,241,1,0,20010429,POR,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000015,473,21,Greg Anthony,1610612757,Portland Trail Blazers,4,2,36,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,74,1,0,20010426,0,LAL,POR
+Shot Chart Detail,40000015,501,21,Greg Anthony,1610612757,Portland Trail Blazers,4,0,20,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,112,1,1,20010426,0,LAL,POR
+Shot Chart Detail,40000022,144,21,Greg Anthony,1610612757,Portland Trail Blazers,2,7,50,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,1,20010429,1,POR,LAL
+Shot Chart Detail,40000022,173,21,Greg Anthony,1610612757,Portland Trail Blazers,2,4,44,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,23,-195,133,1,0,20010429,0,POR,LAL
+Shot Chart Detail,40000022,331,21,Greg Anthony,1610612757,Portland Trail Blazers,3,1,23,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,-6,1,0,20010429,0,POR,LAL
+Shot Chart Detail,40000022,361,21,Greg Anthony,1610612757,Portland Trail Blazers,4,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,241,1,0,20010429,0,POR,LAL

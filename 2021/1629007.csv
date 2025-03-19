@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0022000263,213,1629007,Jontay Porter,1610612763,Memphis Grizzlies,2,8,13,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20210514,MEM,SAC
-Shot Chart Detail,0022000263,514,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,8,45,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210514,MEM,SAC
-Shot Chart Detail,0022000263,525,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,8,11,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,243,1,1,20210514,MEM,SAC
-Shot Chart Detail,0022000607,612,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-78,207,1,0,20210315,PHX,MEM
-Shot Chart Detail,0022000607,626,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,239,1,0,20210315,PHX,MEM
-Shot Chart Detail,0022000700,640,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,121,255,1,1,20210327,UTA,MEM
-Shot Chart Detail,0022000700,657,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-133,142,1,1,20210327,UTA,MEM
-Shot Chart Detail,0022000741,644,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,55,256,1,0,20210402,MEM,MIN
-Shot Chart Detail,0022000741,667,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-226,116,1,0,20210402,MEM,MIN
-Shot Chart Detail,0022000780,639,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,0,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,65,264,1,0,20210407,ATL,MEM
-Shot Chart Detail,0022000889,659,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,256,1,1,20210421,LAC,MEM
-Shot Chart Detail,0022000925,647,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,76,245,1,0,20210426,DEN,MEM
-Shot Chart Detail,0022000953,696,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,0,52,Missed Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20210430,MEM,ORL
-Shot Chart Detail,0022001037,605,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,59,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,99,1,1,20210511,MEM,DAL
-Shot Chart Detail,0022001037,610,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-57,116,1,1,20210511,MEM,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22000263,213,1629007,Jontay Porter,1610612763,Memphis Grizzlies,2,8,13,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,1,1,1,20210514,1,MEM,SAC
+Shot Chart Detail,22000263,514,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,8,45,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210514,0,MEM,SAC
+Shot Chart Detail,22000263,525,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,8,11,Made Shot,Jump Bank Shot,,Above the Break 3,Center(C),24+ ft.,25,-67,243,1,1,20210514,1,MEM,SAC
+Shot Chart Detail,22000607,612,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,24,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-78,207,1,0,20210315,0,PHX,MEM
+Shot Chart Detail,22000607,626,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,239,1,0,20210315,0,PHX,MEM
+Shot Chart Detail,22000700,640,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,121,255,1,1,20210327,1,UTA,MEM
+Shot Chart Detail,22000700,657,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-133,142,1,1,20210327,0,UTA,MEM
+Shot Chart Detail,22000741,644,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,56,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,55,256,1,0,20210402,0,MEM,MIN
+Shot Chart Detail,22000741,667,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-226,116,1,0,20210402,0,MEM,MIN
+Shot Chart Detail,22000780,639,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,0,42,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,65,264,1,0,20210407,0,ATL,MEM
+Shot Chart Detail,22000889,659,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,27,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,2,256,1,1,20210421,1,LAC,MEM
+Shot Chart Detail,22000925,647,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,2,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,76,245,1,0,20210426,0,DEN,MEM
+Shot Chart Detail,22000953,696,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,0,52,Missed Shot,Turnaround Bank Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,0,20210430,0,MEM,ORL
+Shot Chart Detail,22001037,605,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,59,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,99,1,1,20210511,1,MEM,DAL
+Shot Chart Detail,22001037,610,1629007,Jontay Porter,1610612763,Memphis Grizzlies,4,1,19,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-57,116,1,1,20210511,1,MEM,DAL

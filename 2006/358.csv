@@ -1,15 +1,15 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020500079,115,358,Anfernee Hardaway,1610612752,New York Knicks,1,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,140,1,0,20051111,GSW,NYK
-Shot Chart Detail,0020500079,172,358,Anfernee Hardaway,1610612752,New York Knicks,2,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,-13,1,1,20051111,GSW,NYK
-Shot Chart Detail,0020500079,314,358,Anfernee Hardaway,1610612752,New York Knicks,3,4,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,120,174,1,0,20051111,GSW,NYK
-Shot Chart Detail,0020500257,99,358,Anfernee Hardaway,1610612752,New York Knicks,1,1,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-148,123,1,0,20051206,SEA,NYK
-Shot Chart Detail,0020500257,296,358,Anfernee Hardaway,1610612752,New York Knicks,3,4,58,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-3,1,0,20051206,SEA,NYK
-Shot Chart Detail,0020500257,325,358,Anfernee Hardaway,1610612752,New York Knicks,3,1,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,154,95,1,0,20051206,SEA,NYK
-Shot Chart Detail,0020500266,156,358,Anfernee Hardaway,1610612752,New York Knicks,2,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,81,1,0,20051207,LAC,NYK
-Shot Chart Detail,0020500266,174,358,Anfernee Hardaway,1610612752,New York Knicks,2,5,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,115,1,1,20051207,LAC,NYK
-Shot Chart Detail,0020500266,179,358,Anfernee Hardaway,1610612752,New York Knicks,2,4,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,LAC,NYK
-Shot Chart Detail,0020500266,218,358,Anfernee Hardaway,1610612752,New York Knicks,2,0,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,150,1,1,20051207,LAC,NYK
-Shot Chart Detail,0020500266,255,358,Anfernee Hardaway,1610612752,New York Knicks,3,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,49,1,0,20051207,LAC,NYK
-Shot Chart Detail,0020500266,261,358,Anfernee Hardaway,1610612752,New York Knicks,3,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20051207,LAC,NYK
-Shot Chart Detail,0020500266,283,358,Anfernee Hardaway,1610612752,New York Knicks,3,3,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,109,1,0,20051207,LAC,NYK
-Shot Chart Detail,0020500266,443,358,Anfernee Hardaway,1610612752,New York Knicks,4,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,40,1,0,20051207,LAC,NYK
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20500079,115,358,Anfernee Hardaway,1610612752,New York Knicks,1,0,5,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,140,1,0,20051111,0,GSW,NYK
+Shot Chart Detail,20500079,172,358,Anfernee Hardaway,1610612752,New York Knicks,2,6,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,172,-13,1,1,20051111,1,GSW,NYK
+Shot Chart Detail,20500079,314,358,Anfernee Hardaway,1610612752,New York Knicks,3,4,20,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,120,174,1,0,20051111,0,GSW,NYK
+Shot Chart Detail,20500257,99,358,Anfernee Hardaway,1610612752,New York Knicks,1,1,55,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-148,123,1,0,20051206,0,SEA,NYK
+Shot Chart Detail,20500257,296,358,Anfernee Hardaway,1610612752,New York Knicks,3,4,58,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,-3,1,0,20051206,0,SEA,NYK
+Shot Chart Detail,20500257,325,358,Anfernee Hardaway,1610612752,New York Knicks,3,1,56,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,154,95,1,0,20051206,0,SEA,NYK
+Shot Chart Detail,20500266,156,358,Anfernee Hardaway,1610612752,New York Knicks,2,7,28,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-135,81,1,0,20051207,0,LAC,NYK
+Shot Chart Detail,20500266,174,358,Anfernee Hardaway,1610612752,New York Knicks,2,5,9,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-13,115,1,1,20051207,0,LAC,NYK
+Shot Chart Detail,20500266,179,358,Anfernee Hardaway,1610612752,New York Knicks,2,4,1,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20051207,0,LAC,NYK
+Shot Chart Detail,20500266,218,358,Anfernee Hardaway,1610612752,New York Knicks,2,0,20,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,150,1,1,20051207,1,LAC,NYK
+Shot Chart Detail,20500266,255,358,Anfernee Hardaway,1610612752,New York Knicks,3,7,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,151,49,1,0,20051207,0,LAC,NYK
+Shot Chart Detail,20500266,261,358,Anfernee Hardaway,1610612752,New York Knicks,3,6,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20051207,0,LAC,NYK
+Shot Chart Detail,20500266,283,358,Anfernee Hardaway,1610612752,New York Knicks,3,3,54,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,109,1,0,20051207,0,LAC,NYK
+Shot Chart Detail,20500266,443,358,Anfernee Hardaway,1610612752,New York Knicks,4,2,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-168,40,1,0,20051207,0,LAC,NYK

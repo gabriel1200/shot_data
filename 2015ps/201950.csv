@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041400141,69,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-198,186,1,0,20150418,GSW,NOP
-Shot Chart Detail,0041400141,101,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,1,11,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,75,1,0,20150418,GSW,NOP
-Shot Chart Detail,0041400141,203,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,2,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,63,1,0,20150418,GSW,NOP
-Shot Chart Detail,0041400141,364,201950,Jrue Holiday,1610612740,New Orleans Pelicans,3,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,14,1,0,20150418,GSW,NOP
-Shot Chart Detail,0041400141,387,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,11,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,102,1,1,20150418,GSW,NOP
-Shot Chart Detail,0041400141,392,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,11,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,214,1,1,20150418,GSW,NOP
-Shot Chart Detail,0041400141,442,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-73,160,1,0,20150418,GSW,NOP
-Shot Chart Detail,0041400143,81,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,118,1,0,20150423,NOP,GSW
-Shot Chart Detail,0041400143,97,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,45,1,1,20150423,NOP,GSW
-Shot Chart Detail,0041400143,101,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-70,189,1,0,20150423,NOP,GSW
-Shot Chart Detail,0041400143,120,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,10,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,124,1,1,20150423,NOP,GSW
-Shot Chart Detail,0041400143,130,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,8,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,107,1,0,20150423,NOP,GSW
-Shot Chart Detail,0041400143,377,201950,Jrue Holiday,1610612740,New Orleans Pelicans,3,1,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,24,203,1,1,20150423,NOP,GSW
-Shot Chart Detail,0041400143,502,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,1,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,184,258,1,0,20150423,NOP,GSW
-Shot Chart Detail,0041400144,113,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,11,46,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-2,211,1,1,20150425,NOP,GSW
-Shot Chart Detail,0041400144,153,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-114,86,1,0,20150425,NOP,GSW
-Shot Chart Detail,0041400144,326,201950,Jrue Holiday,1610612740,New Orleans Pelicans,3,3,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,15,131,1,0,20150425,NOP,GSW
-Shot Chart Detail,0041400144,370,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,11,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,41,1,1,20150425,NOP,GSW
-Shot Chart Detail,0041400144,404,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,8,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,235,1,0,20150425,NOP,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41400141,69,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,3,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-198,186,1,0,20150418,0,GSW,NOP
+Shot Chart Detail,41400141,101,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,1,11,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,75,1,0,20150418,0,GSW,NOP
+Shot Chart Detail,41400141,203,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,2,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,84,63,1,0,20150418,0,GSW,NOP
+Shot Chart Detail,41400141,364,201950,Jrue Holiday,1610612740,New Orleans Pelicans,3,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,14,1,0,20150418,0,GSW,NOP
+Shot Chart Detail,41400141,387,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,11,43,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,102,1,1,20150418,1,GSW,NOP
+Shot Chart Detail,41400141,392,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,11,2,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,214,1,1,20150418,1,GSW,NOP
+Shot Chart Detail,41400141,442,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,5,55,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-73,160,1,0,20150418,0,GSW,NOP
+Shot Chart Detail,41400143,81,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,2,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-109,118,1,0,20150423,0,NOP,GSW
+Shot Chart Detail,41400143,97,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,0,54,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,45,1,1,20150423,0,NOP,GSW
+Shot Chart Detail,41400143,101,201950,Jrue Holiday,1610612740,New Orleans Pelicans,1,0,25,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-70,189,1,0,20150423,0,NOP,GSW
+Shot Chart Detail,41400143,120,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,10,13,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,124,1,1,20150423,0,NOP,GSW
+Shot Chart Detail,41400143,130,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,8,54,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,107,1,0,20150423,0,NOP,GSW
+Shot Chart Detail,41400143,377,201950,Jrue Holiday,1610612740,New Orleans Pelicans,3,1,3,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,24,203,1,1,20150423,1,NOP,GSW
+Shot Chart Detail,41400143,502,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,1,49,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,31,184,258,1,0,20150423,0,NOP,GSW
+Shot Chart Detail,41400144,113,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,11,46,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,21,-2,211,1,1,20150425,0,NOP,GSW
+Shot Chart Detail,41400144,153,201950,Jrue Holiday,1610612740,New Orleans Pelicans,2,7,25,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-114,86,1,0,20150425,0,NOP,GSW
+Shot Chart Detail,41400144,326,201950,Jrue Holiday,1610612740,New Orleans Pelicans,3,3,19,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,15,131,1,0,20150425,0,NOP,GSW
+Shot Chart Detail,41400144,370,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,11,35,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,149,41,1,1,20150425,0,NOP,GSW
+Shot Chart Detail,41400144,404,201950,Jrue Holiday,1610612740,New Orleans Pelicans,4,8,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,102,235,1,0,20150425,0,NOP,GSW

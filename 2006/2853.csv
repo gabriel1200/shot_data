@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020500010,489,2853,Earl Barron,1610612748,Miami Heat,4,1,16,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,10,1,1,20051102,MEM,MIA
-Shot Chart Detail,0020500010,498,2853,Earl Barron,1610612748,Miami Heat,4,0,25,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,38,1,0,20051102,MEM,MIA
-Shot Chart Detail,0020501021,444,2853,Earl Barron,1610612748,Miami Heat,4,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-59,183,1,0,20060324,MIA,CHA
-Shot Chart Detail,0020501100,492,2853,Earl Barron,1610612748,Miami Heat,4,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,137,1,1,20060404,MIA,MIL
-Shot Chart Detail,0020501194,493,2853,Earl Barron,1610612748,Miami Heat,4,1,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060416,MIA,CHI
-Shot Chart Detail,0020501214,102,2853,Earl Barron,1610612748,Miami Heat,1,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060418,ATL,MIA
-Shot Chart Detail,0020501214,123,2853,Earl Barron,1610612748,Miami Heat,2,9,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,53,1,0,20060418,ATL,MIA
-Shot Chart Detail,0020501214,331,2853,Earl Barron,1610612748,Miami Heat,3,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,72,1,1,20060418,ATL,MIA
-Shot Chart Detail,0020501214,338,2853,Earl Barron,1610612748,Miami Heat,3,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,35,1,1,20060418,ATL,MIA
-Shot Chart Detail,0020501214,458,2853,Earl Barron,1610612748,Miami Heat,4,1,15,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,31,1,1,20060418,ATL,MIA
-Shot Chart Detail,0020501219,108,2853,Earl Barron,1610612748,Miami Heat,1,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,8,1,0,20060419,BOS,MIA
-Shot Chart Detail,0020501219,114,2853,Earl Barron,1610612748,Miami Heat,1,2,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,132,1,0,20060419,BOS,MIA
-Shot Chart Detail,0020501219,146,2853,Earl Barron,1610612748,Miami Heat,2,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,0,20060419,BOS,MIA
-Shot Chart Detail,0020501219,149,2853,Earl Barron,1610612748,Miami Heat,2,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,0,1,0,20060419,BOS,MIA
-Shot Chart Detail,0020501219,412,2853,Earl Barron,1610612748,Miami Heat,4,9,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,156,1,0,20060419,BOS,MIA
-Shot Chart Detail,0020501219,416,2853,Earl Barron,1610612748,Miami Heat,4,8,36,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-39,5,1,0,20060419,BOS,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20500010,489,2853,Earl Barron,1610612748,Miami Heat,4,1,16,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,10,1,1,20051102,0,MEM,MIA
+Shot Chart Detail,20500010,498,2853,Earl Barron,1610612748,Miami Heat,4,0,25,Missed Shot,Turnaround Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,3,38,1,0,20051102,0,MEM,MIA
+Shot Chart Detail,20501021,444,2853,Earl Barron,1610612748,Miami Heat,4,1,17,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-59,183,1,0,20060324,0,MIA,CHA
+Shot Chart Detail,20501100,492,2853,Earl Barron,1610612748,Miami Heat,4,0,2,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,137,1,1,20060404,1,MIA,MIL
+Shot Chart Detail,20501194,493,2853,Earl Barron,1610612748,Miami Heat,4,1,0,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060416,0,MIA,CHI
+Shot Chart Detail,20501214,102,2853,Earl Barron,1610612748,Miami Heat,1,0,0,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060418,0,ATL,MIA
+Shot Chart Detail,20501214,123,2853,Earl Barron,1610612748,Miami Heat,2,9,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,90,53,1,0,20060418,0,ATL,MIA
+Shot Chart Detail,20501214,331,2853,Earl Barron,1610612748,Miami Heat,3,1,49,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,136,72,1,1,20060418,1,ATL,MIA
+Shot Chart Detail,20501214,338,2853,Earl Barron,1610612748,Miami Heat,3,0,37,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-136,35,1,1,20060418,1,ATL,MIA
+Shot Chart Detail,20501214,458,2853,Earl Barron,1610612748,Miami Heat,4,1,15,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,31,1,1,20060418,1,ATL,MIA
+Shot Chart Detail,20501219,108,2853,Earl Barron,1610612748,Miami Heat,1,2,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,8,1,0,20060419,0,BOS,MIA
+Shot Chart Detail,20501219,114,2853,Earl Barron,1610612748,Miami Heat,1,2,10,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,132,1,0,20060419,0,BOS,MIA
+Shot Chart Detail,20501219,146,2853,Earl Barron,1610612748,Miami Heat,2,11,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,0,20060419,0,BOS,MIA
+Shot Chart Detail,20501219,149,2853,Earl Barron,1610612748,Miami Heat,2,11,4,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-133,0,1,0,20060419,0,BOS,MIA
+Shot Chart Detail,20501219,412,2853,Earl Barron,1610612748,Miami Heat,4,9,11,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,156,1,0,20060419,0,BOS,MIA
+Shot Chart Detail,20501219,416,2853,Earl Barron,1610612748,Miami Heat,4,8,36,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-39,5,1,0,20060419,0,BOS,MIA

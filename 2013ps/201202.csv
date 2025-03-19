@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041200102,467,201202,Joel Anthony,1610612748,Miami Heat,4,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-128,91,1,1,20130423,MIA,MIL
-Shot Chart Detail,0041200202,467,201202,Joel Anthony,1610612748,Miami Heat,4,7,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,140,1,0,20130508,MIA,CHI
-Shot Chart Detail,0041200302,277,201202,Joel Anthony,1610612748,Miami Heat,2,1,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,23,1,0,20130524,MIA,IND
-Shot Chart Detail,0041200306,115,201202,Joel Anthony,1610612748,Miami Heat,2,11,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,31,1,0,20130601,IND,MIA
-Shot Chart Detail,0041200306,116,201202,Joel Anthony,1610612748,Miami Heat,2,11,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,0,20130601,IND,MIA
-Shot Chart Detail,0041200306,121,201202,Joel Anthony,1610612748,Miami Heat,2,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,0,20130601,IND,MIA
-Shot Chart Detail,0041200306,214,201202,Joel Anthony,1610612748,Miami Heat,2,0,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20130601,IND,MIA
-Shot Chart Detail,0041200306,399,201202,Joel Anthony,1610612748,Miami Heat,4,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,0,20130601,IND,MIA
-Shot Chart Detail,0041200401,239,201202,Joel Anthony,1610612748,Miami Heat,2,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,0,20130606,MIA,SAS
-Shot Chart Detail,0041200403,466,201202,Joel Anthony,1610612748,Miami Heat,4,2,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-114,39,1,1,20130611,SAS,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41200102,467,201202,Joel Anthony,1610612748,Miami Heat,4,2,2,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-128,91,1,1,20130423,0,MIA,MIL
+Shot Chart Detail,41200202,467,201202,Joel Anthony,1610612748,Miami Heat,4,7,29,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,81,140,1,0,20130508,0,MIA,CHI
+Shot Chart Detail,41200302,277,201202,Joel Anthony,1610612748,Miami Heat,2,1,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,23,1,0,20130524,0,MIA,IND
+Shot Chart Detail,41200306,115,201202,Joel Anthony,1610612748,Miami Heat,2,11,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,31,1,0,20130601,0,IND,MIA
+Shot Chart Detail,41200306,116,201202,Joel Anthony,1610612748,Miami Heat,2,11,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,0,20130601,0,IND,MIA
+Shot Chart Detail,41200306,121,201202,Joel Anthony,1610612748,Miami Heat,2,10,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,0,20130601,0,IND,MIA
+Shot Chart Detail,41200306,214,201202,Joel Anthony,1610612748,Miami Heat,2,0,33,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20130601,0,IND,MIA
+Shot Chart Detail,41200306,399,201202,Joel Anthony,1610612748,Miami Heat,4,5,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,7,1,0,20130601,0,IND,MIA
+Shot Chart Detail,41200401,239,201202,Joel Anthony,1610612748,Miami Heat,2,0,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,0,20130606,0,MIA,SAS
+Shot Chart Detail,41200403,466,201202,Joel Anthony,1610612748,Miami Heat,4,2,17,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-114,39,1,1,20130611,0,SAS,MIA

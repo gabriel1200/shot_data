@@ -1,317 +1,159 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021000147,128,201947,Earl Clark,1610612756,Phoenix Suns,1,0,43,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20101115,PHX,DEN
-Shot Chart Detail,0021000158,248,201947,Earl Clark,1610612756,Phoenix Suns,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-68,179,1,0,20101117,MIA,PHX
-Shot Chart Detail,0021000158,468,201947,Earl Clark,1610612756,Phoenix Suns,4,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,131,1,0,20101117,MIA,PHX
-Shot Chart Detail,0021000158,535,201947,Earl Clark,1610612756,Phoenix Suns,4,2,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20101117,MIA,PHX
-Shot Chart Detail,0021000169,381,201947,Earl Clark,1610612756,Phoenix Suns,3,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,30,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,383,201947,Earl Clark,1610612756,Phoenix Suns,3,2,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,75,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,403,201947,Earl Clark,1610612756,Phoenix Suns,4,11,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-108,165,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,420,201947,Earl Clark,1610612756,Phoenix Suns,4,10,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,58,175,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000169,435,201947,Earl Clark,1610612756,Phoenix Suns,4,8,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,464,201947,Earl Clark,1610612756,Phoenix Suns,4,6,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-52,162,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,494,201947,Earl Clark,1610612756,Phoenix Suns,4,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-3,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000169,508,201947,Earl Clark,1610612756,Phoenix Suns,4,4,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,41,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000169,556,201947,Earl Clark,1610612756,Phoenix Suns,4,1,27,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000182,121,201947,Earl Clark,1610612756,Phoenix Suns,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,129,1,1,20101120,CHA,PHX
-Shot Chart Detail,0021000285,353,201947,Earl Clark,1610612756,Phoenix Suns,3,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,15,1,0,20101203,PHX,IND
-Shot Chart Detail,0021000285,382,201947,Earl Clark,1610612756,Phoenix Suns,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-157,148,1,0,20101203,PHX,IND
-Shot Chart Detail,0021000285,414,201947,Earl Clark,1610612756,Phoenix Suns,4,9,58,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,0,20101203,PHX,IND
-Shot Chart Detail,0021000285,435,201947,Earl Clark,1610612756,Phoenix Suns,4,8,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20101203,PHX,IND
-Shot Chart Detail,0021000300,518,201947,Earl Clark,1610612756,Phoenix Suns,4,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,121,181,1,1,20101205,PHX,WAS
-Shot Chart Detail,0021000390,356,201947,Earl Clark,1610612756,Phoenix Suns,3,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-175,64,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,372,201947,Earl Clark,1610612756,Phoenix Suns,3,0,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,377,201947,Earl Clark,1610612756,Phoenix Suns,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,23,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,406,201947,Earl Clark,1610612756,Phoenix Suns,4,9,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-6,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,438,201947,Earl Clark,1610612756,Phoenix Suns,4,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,22,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,445,201947,Earl Clark,1610612756,Phoenix Suns,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,20,198,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,464,201947,Earl Clark,1610612756,Phoenix Suns,4,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20101217,DAL,PHX
-Shot Chart Detail,0021000390,467,201947,Earl Clark,1610612756,Phoenix Suns,4,4,30,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20101217,DAL,PHX
-Shot Chart Detail,0021000390,487,201947,Earl Clark,1610612756,Phoenix Suns,4,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,135,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,500,201947,Earl Clark,1610612756,Phoenix Suns,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,9,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,507,201947,Earl Clark,1610612756,Phoenix Suns,4,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,12,1,1,20101217,DAL,PHX
-Shot Chart Detail,0021000390,513,201947,Earl Clark,1610612756,Phoenix Suns,4,2,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000051,162,201947,Earl Clark,1610612753,Orlando Magic,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,-30,1,0,20110328,NYK,ORL
-Shot Chart Detail,0021000051,358,201947,Earl Clark,1610612753,Orlando Magic,3,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,135,1,0,20110328,NYK,ORL
-Shot Chart Detail,0021000051,433,201947,Earl Clark,1610612753,Orlando Magic,4,11,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,48,219,1,1,20110328,NYK,ORL
-Shot Chart Detail,0021000416,122,201947,Earl Clark,1610612753,Orlando Magic,2,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,195,1,1,20101221,ORL,DAL
-Shot Chart Detail,0021000416,159,201947,Earl Clark,1610612753,Orlando Magic,2,6,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,34,1,1,20101221,ORL,DAL
-Shot Chart Detail,0021000416,376,201947,Earl Clark,1610612753,Orlando Magic,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,33,1,1,20101221,ORL,DAL
-Shot Chart Detail,0021000430,535,201947,Earl Clark,1610612753,Orlando Magic,4,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-149,156,1,0,20101223,ORL,SAS
-Shot Chart Detail,0021000446,487,201947,Earl Clark,1610612753,Orlando Magic,4,1,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,56,1,0,20101227,NJN,ORL
-Shot Chart Detail,0021000446,494,201947,Earl Clark,1610612753,Orlando Magic,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,45,1,0,20101227,NJN,ORL
-Shot Chart Detail,0021000455,129,201947,Earl Clark,1610612753,Orlando Magic,2,11,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,11,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,131,201947,Earl Clark,1610612753,Orlando Magic,2,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-150,157,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000455,150,201947,Earl Clark,1610612753,Orlando Magic,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,423,201947,Earl Clark,1610612753,Orlando Magic,4,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,31,225,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,447,201947,Earl Clark,1610612753,Orlando Magic,4,8,24,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,458,201947,Earl Clark,1610612753,Orlando Magic,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,0,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,470,201947,Earl Clark,1610612753,Orlando Magic,4,5,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,61,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000455,490,201947,Earl Clark,1610612753,Orlando Magic,4,3,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000455,507,201947,Earl Clark,1610612753,Orlando Magic,4,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,512,201947,Earl Clark,1610612753,Orlando Magic,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,53,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000529,130,201947,Earl Clark,1610612753,Orlando Magic,2,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,187,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,132,201947,Earl Clark,1610612753,Orlando Magic,2,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,136,201947,Earl Clark,1610612753,Orlando Magic,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,59,172,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000529,165,201947,Earl Clark,1610612753,Orlando Magic,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-101,61,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000529,202,201947,Earl Clark,1610612753,Orlando Magic,2,3,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,173,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000529,366,201947,Earl Clark,1610612753,Orlando Magic,3,0,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,372,201947,Earl Clark,1610612753,Orlando Magic,3,0,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,411,201947,Earl Clark,1610612753,Orlando Magic,4,8,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000630,480,201947,Earl Clark,1610612753,Orlando Magic,4,6,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110121,ORL,TOR
-Shot Chart Detail,0021000630,486,201947,Earl Clark,1610612753,Orlando Magic,4,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-175,99,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000630,495,201947,Earl Clark,1610612753,Orlando Magic,4,5,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,135,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000630,535,201947,Earl Clark,1610612753,Orlando Magic,4,1,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,164,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000648,494,201947,Earl Clark,1610612753,Orlando Magic,4,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,80,1,0,20110122,HOU,ORL
-Shot Chart Detail,0021000648,525,201947,Earl Clark,1610612753,Orlando Magic,4,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,231,1,0,20110122,HOU,ORL
-Shot Chart Detail,0021000703,506,201947,Earl Clark,1610612753,Orlando Magic,4,4,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,225,1,0,20110130,ORL,CLE
-Shot Chart Detail,0021000703,526,201947,Earl Clark,1610612753,Orlando Magic,4,2,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20110130,ORL,CLE
-Shot Chart Detail,0021000730,44,201947,Earl Clark,1610612753,Orlando Magic,1,8,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000730,76,201947,Earl Clark,1610612753,Orlando Magic,1,4,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-123,149,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000730,462,201947,Earl Clark,1610612753,Orlando Magic,4,7,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,19,1,1,20110203,ORL,MIA
-Shot Chart Detail,0021000730,468,201947,Earl Clark,1610612753,Orlando Magic,4,6,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,175,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000730,486,201947,Earl Clark,1610612753,Orlando Magic,4,5,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,22,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000737,172,201947,Earl Clark,1610612753,Orlando Magic,2,8,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,186,201947,Earl Clark,1610612753,Orlando Magic,2,6,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,-19,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,194,201947,Earl Clark,1610612753,Orlando Magic,2,6,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,6,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,201,201947,Earl Clark,1610612753,Orlando Magic,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,129,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,239,201947,Earl Clark,1610612753,Orlando Magic,2,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,254,201947,Earl Clark,1610612753,Orlando Magic,2,1,28,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,258,201947,Earl Clark,1610612753,Orlando Magic,2,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,260,201947,Earl Clark,1610612753,Orlando Magic,2,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,156,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,268,201947,Earl Clark,1610612753,Orlando Magic,2,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,138,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,413,201947,Earl Clark,1610612753,Orlando Magic,4,11,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-11,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,438,201947,Earl Clark,1610612753,Orlando Magic,4,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-8,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,530,201947,Earl Clark,1610612753,Orlando Magic,4,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,-32,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000757,95,201947,Earl Clark,1610612753,Orlando Magic,1,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,12,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,109,201947,Earl Clark,1610612753,Orlando Magic,1,1,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,121,201947,Earl Clark,1610612753,Orlando Magic,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,3,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,123,201947,Earl Clark,1610612753,Orlando Magic,1,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-10,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,139,201947,Earl Clark,1610612753,Orlando Magic,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,151,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,149,201947,Earl Clark,1610612753,Orlando Magic,2,10,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,414,201947,Earl Clark,1610612753,Orlando Magic,4,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,106,179,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,426,201947,Earl Clark,1610612753,Orlando Magic,4,10,7,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-2,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,430,201947,Earl Clark,1610612753,Orlando Magic,4,9,21,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,450,201947,Earl Clark,1610612753,Orlando Magic,4,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-172,142,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000767,101,201947,Earl Clark,1610612753,Orlando Magic,1,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,88,142,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,112,201947,Earl Clark,1610612753,Orlando Magic,1,0,19,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,11,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000767,127,201947,Earl Clark,1610612753,Orlando Magic,2,11,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,215,201947,Earl Clark,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,177,71,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,277,201947,Earl Clark,1610612753,Orlando Magic,2,0,57,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000767,446,201947,Earl Clark,1610612753,Orlando Magic,4,10,53,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,492,201947,Earl Clark,1610612753,Orlando Magic,4,7,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000767,562,201947,Earl Clark,1610612753,Orlando Magic,4,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000776,120,201947,Earl Clark,1610612753,Orlando Magic,1,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,26,203,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,174,201947,Earl Clark,1610612753,Orlando Magic,2,7,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,253,201947,Earl Clark,1610612753,Orlando Magic,2,1,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,342,201947,Earl Clark,1610612753,Orlando Magic,3,3,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-15,184,1,0,20110209,PHI,ORL
-Shot Chart Detail,0021000776,350,201947,Earl Clark,1610612753,Orlando Magic,3,3,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,364,201947,Earl Clark,1610612753,Orlando Magic,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,138,1,0,20110209,PHI,ORL
-Shot Chart Detail,0021000776,393,201947,Earl Clark,1610612753,Orlando Magic,4,10,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,28,1,0,20110209,PHI,ORL
-Shot Chart Detail,0021000788,138,201947,Earl Clark,1610612753,Orlando Magic,2,11,35,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,6,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000788,208,201947,Earl Clark,1610612753,Orlando Magic,2,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,221,201947,Earl Clark,1610612753,Orlando Magic,2,5,22,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,261,201947,Earl Clark,1610612753,Orlando Magic,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,19,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000788,378,201947,Earl Clark,1610612753,Orlando Magic,3,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,1,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,395,201947,Earl Clark,1610612753,Orlando Magic,4,11,41,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000788,410,201947,Earl Clark,1610612753,Orlando Magic,4,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,123,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,443,201947,Earl Clark,1610612753,Orlando Magic,4,6,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-60,183,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,476,201947,Earl Clark,1610612753,Orlando Magic,4,2,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000805,130,201947,Earl Clark,1610612753,Orlando Magic,2,10,33,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,55,1,0,20110213,ORL,LAL
-Shot Chart Detail,0021000805,138,201947,Earl Clark,1610612753,Orlando Magic,2,10,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20110213,ORL,LAL
-Shot Chart Detail,0021000805,180,201947,Earl Clark,1610612753,Orlando Magic,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,50,1,1,20110213,ORL,LAL
-Shot Chart Detail,0021000824,500,201947,Earl Clark,1610612753,Orlando Magic,4,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,22,1,0,20110216,ORL,WAS
-Shot Chart Detail,0021000824,531,201947,Earl Clark,1610612753,Orlando Magic,4,1,2,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20110216,ORL,WAS
-Shot Chart Detail,0021000867,85,201947,Earl Clark,1610612753,Orlando Magic,1,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,15,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000867,394,201947,Earl Clark,1610612753,Orlando Magic,3,1,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000867,469,201947,Earl Clark,1610612753,Orlando Magic,4,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,190,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000867,540,201947,Earl Clark,1610612753,Orlando Magic,4,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,28,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000883,478,201947,Earl Clark,1610612753,Orlando Magic,4,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,164,1,1,20110227,ORL,CHA
-Shot Chart Detail,0021000883,498,201947,Earl Clark,1610612753,Orlando Magic,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-142,108,1,0,20110227,ORL,CHA
-Shot Chart Detail,0021000895,251,201947,Earl Clark,1610612753,Orlando Magic,2,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,4,1,0,20110301,ORL,NYK
-Shot Chart Detail,0021000895,315,201947,Earl Clark,1610612753,Orlando Magic,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20110301,ORL,NYK
-Shot Chart Detail,0021000941,96,201947,Earl Clark,1610612753,Orlando Magic,1,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000941,124,201947,Earl Clark,1610612753,Orlando Magic,2,11,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000941,164,201947,Earl Clark,1610612753,Orlando Magic,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,30,1,0,20110307,ORL,POR
-Shot Chart Detail,0021000941,165,201947,Earl Clark,1610612753,Orlando Magic,2,6,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000941,401,201947,Earl Clark,1610612753,Orlando Magic,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-101,168,1,0,20110307,ORL,POR
-Shot Chart Detail,0021000941,405,201947,Earl Clark,1610612753,Orlando Magic,4,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000987,538,201947,Earl Clark,1610612753,Orlando Magic,4,1,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20110313,PHX,ORL
-Shot Chart Detail,0021000987,546,201947,Earl Clark,1610612753,Orlando Magic,4,0,51,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,20,1,0,20110313,PHX,ORL
-Shot Chart Detail,0021000987,550,201947,Earl Clark,1610612753,Orlando Magic,4,0,47,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20110313,PHX,ORL
-Shot Chart Detail,0021001059,194,201947,Earl Clark,1610612753,Orlando Magic,2,3,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20110323,NYK,ORL
-Shot Chart Detail,0021001059,426,201947,Earl Clark,1610612753,Orlando Magic,4,6,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20110323,NYK,ORL
-Shot Chart Detail,0021001105,172,201947,Earl Clark,1610612753,Orlando Magic,2,5,49,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20110330,ATL,ORL
-Shot Chart Detail,0021001162,130,201947,Earl Clark,1610612753,Orlando Magic,2,9,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20110406,CHA,ORL
-Shot Chart Detail,0021001162,145,201947,Earl Clark,1610612753,Orlando Magic,2,7,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20110406,CHA,ORL
-Shot Chart Detail,0021001162,196,201947,Earl Clark,1610612753,Orlando Magic,2,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,15,1,0,20110406,CHA,ORL
-Shot Chart Detail,0021001193,109,201947,Earl Clark,1610612753,Orlando Magic,2,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,20,197,1,1,20110410,ORL,CHI
-Shot Chart Detail,0021001204,141,201947,Earl Clark,1610612753,Orlando Magic,2,8,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-152,102,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,154,201947,Earl Clark,1610612753,Orlando Magic,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,7,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,166,201947,Earl Clark,1610612753,Orlando Magic,2,6,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20110411,PHI,ORL
-Shot Chart Detail,0021001204,178,201947,Earl Clark,1610612753,Orlando Magic,2,5,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,85,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,182,201947,Earl Clark,1610612753,Orlando Magic,2,4,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,395,201947,Earl Clark,1610612753,Orlando Magic,4,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,402,201947,Earl Clark,1610612753,Orlando Magic,4,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,89,1,1,20110411,PHI,ORL
-Shot Chart Detail,0021001219,214,201947,Earl Clark,1610612753,Orlando Magic,2,4,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20110413,ORL,IND
-Shot Chart Detail,0021001219,213,201947,Earl Clark,1610612753,Orlando Magic,2,4,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20110413,ORL,IND
-Shot Chart Detail,0021001219,249,201947,Earl Clark,1610612753,Orlando Magic,2,0,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,12,1,0,20110413,ORL,IND
-Shot Chart Detail,0021001219,432,201947,Earl Clark,1610612753,Orlando Magic,4,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,14,1,1,20110413,ORL,IND
-Shot Chart Detail,0021001219,497,201947,Earl Clark,1610612753,Orlando Magic,4,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,146,1,1,20110413,ORL,IND
-Shot Chart Detail,0021000051,162,201947,Earl Clark,1610612753,Orlando Magic,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,-30,1,0,20110328,NYK,ORL
-Shot Chart Detail,0021000051,358,201947,Earl Clark,1610612753,Orlando Magic,3,4,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,135,1,0,20110328,NYK,ORL
-Shot Chart Detail,0021000051,433,201947,Earl Clark,1610612753,Orlando Magic,4,11,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,48,219,1,1,20110328,NYK,ORL
-Shot Chart Detail,0021000147,128,201947,Earl Clark,1610612756,Phoenix Suns,1,0,43,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20101115,PHX,DEN
-Shot Chart Detail,0021000158,248,201947,Earl Clark,1610612756,Phoenix Suns,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-68,179,1,0,20101117,MIA,PHX
-Shot Chart Detail,0021000158,468,201947,Earl Clark,1610612756,Phoenix Suns,4,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,131,1,0,20101117,MIA,PHX
-Shot Chart Detail,0021000158,535,201947,Earl Clark,1610612756,Phoenix Suns,4,2,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20101117,MIA,PHX
-Shot Chart Detail,0021000169,381,201947,Earl Clark,1610612756,Phoenix Suns,3,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,30,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,383,201947,Earl Clark,1610612756,Phoenix Suns,3,2,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,75,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,403,201947,Earl Clark,1610612756,Phoenix Suns,4,11,41,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-108,165,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,420,201947,Earl Clark,1610612756,Phoenix Suns,4,10,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,58,175,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000169,435,201947,Earl Clark,1610612756,Phoenix Suns,4,8,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,464,201947,Earl Clark,1610612756,Phoenix Suns,4,6,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-52,162,1,1,20101118,ORL,PHX
-Shot Chart Detail,0021000169,494,201947,Earl Clark,1610612756,Phoenix Suns,4,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,-3,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000169,508,201947,Earl Clark,1610612756,Phoenix Suns,4,4,5,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,41,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000169,556,201947,Earl Clark,1610612756,Phoenix Suns,4,1,27,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,0,20101118,ORL,PHX
-Shot Chart Detail,0021000182,121,201947,Earl Clark,1610612756,Phoenix Suns,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,129,1,1,20101120,CHA,PHX
-Shot Chart Detail,0021000285,353,201947,Earl Clark,1610612756,Phoenix Suns,3,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,15,1,0,20101203,PHX,IND
-Shot Chart Detail,0021000285,382,201947,Earl Clark,1610612756,Phoenix Suns,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-157,148,1,0,20101203,PHX,IND
-Shot Chart Detail,0021000285,414,201947,Earl Clark,1610612756,Phoenix Suns,4,9,58,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,0,20101203,PHX,IND
-Shot Chart Detail,0021000285,435,201947,Earl Clark,1610612756,Phoenix Suns,4,8,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20101203,PHX,IND
-Shot Chart Detail,0021000300,518,201947,Earl Clark,1610612756,Phoenix Suns,4,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,121,181,1,1,20101205,PHX,WAS
-Shot Chart Detail,0021000390,356,201947,Earl Clark,1610612756,Phoenix Suns,3,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-175,64,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,372,201947,Earl Clark,1610612756,Phoenix Suns,3,0,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,377,201947,Earl Clark,1610612756,Phoenix Suns,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,23,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,406,201947,Earl Clark,1610612756,Phoenix Suns,4,9,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-6,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,438,201947,Earl Clark,1610612756,Phoenix Suns,4,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,22,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,445,201947,Earl Clark,1610612756,Phoenix Suns,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,20,198,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,464,201947,Earl Clark,1610612756,Phoenix Suns,4,4,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20101217,DAL,PHX
-Shot Chart Detail,0021000390,467,201947,Earl Clark,1610612756,Phoenix Suns,4,4,30,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20101217,DAL,PHX
-Shot Chart Detail,0021000390,487,201947,Earl Clark,1610612756,Phoenix Suns,4,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,135,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,500,201947,Earl Clark,1610612756,Phoenix Suns,4,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,9,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000390,507,201947,Earl Clark,1610612756,Phoenix Suns,4,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,12,1,1,20101217,DAL,PHX
-Shot Chart Detail,0021000390,513,201947,Earl Clark,1610612756,Phoenix Suns,4,2,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,0,20101217,DAL,PHX
-Shot Chart Detail,0021000416,122,201947,Earl Clark,1610612753,Orlando Magic,2,11,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,195,1,1,20101221,ORL,DAL
-Shot Chart Detail,0021000416,159,201947,Earl Clark,1610612753,Orlando Magic,2,6,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,34,1,1,20101221,ORL,DAL
-Shot Chart Detail,0021000416,376,201947,Earl Clark,1610612753,Orlando Magic,4,8,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-98,33,1,1,20101221,ORL,DAL
-Shot Chart Detail,0021000430,535,201947,Earl Clark,1610612753,Orlando Magic,4,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-149,156,1,0,20101223,ORL,SAS
-Shot Chart Detail,0021000446,487,201947,Earl Clark,1610612753,Orlando Magic,4,1,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,56,1,0,20101227,NJN,ORL
-Shot Chart Detail,0021000446,494,201947,Earl Clark,1610612753,Orlando Magic,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,45,1,0,20101227,NJN,ORL
-Shot Chart Detail,0021000455,129,201947,Earl Clark,1610612753,Orlando Magic,2,11,18,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,11,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,131,201947,Earl Clark,1610612753,Orlando Magic,2,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-150,157,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000455,150,201947,Earl Clark,1610612753,Orlando Magic,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,423,201947,Earl Clark,1610612753,Orlando Magic,4,9,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,31,225,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,447,201947,Earl Clark,1610612753,Orlando Magic,4,8,24,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,458,201947,Earl Clark,1610612753,Orlando Magic,4,7,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,0,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,470,201947,Earl Clark,1610612753,Orlando Magic,4,5,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,61,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000455,490,201947,Earl Clark,1610612753,Orlando Magic,4,3,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000455,507,201947,Earl Clark,1610612753,Orlando Magic,4,3,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20101228,CLE,ORL
-Shot Chart Detail,0021000455,512,201947,Earl Clark,1610612753,Orlando Magic,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,53,1,0,20101228,CLE,ORL
-Shot Chart Detail,0021000529,130,201947,Earl Clark,1610612753,Orlando Magic,2,10,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,187,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,132,201947,Earl Clark,1610612753,Orlando Magic,2,9,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,136,201947,Earl Clark,1610612753,Orlando Magic,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,59,172,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000529,165,201947,Earl Clark,1610612753,Orlando Magic,2,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-101,61,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000529,202,201947,Earl Clark,1610612753,Orlando Magic,2,3,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,173,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000529,366,201947,Earl Clark,1610612753,Orlando Magic,3,0,37,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,372,201947,Earl Clark,1610612753,Orlando Magic,3,0,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20110107,ORL,HOU
-Shot Chart Detail,0021000529,411,201947,Earl Clark,1610612753,Orlando Magic,4,8,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20110107,ORL,HOU
-Shot Chart Detail,0021000630,480,201947,Earl Clark,1610612753,Orlando Magic,4,6,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110121,ORL,TOR
-Shot Chart Detail,0021000630,486,201947,Earl Clark,1610612753,Orlando Magic,4,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-175,99,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000630,495,201947,Earl Clark,1610612753,Orlando Magic,4,5,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,135,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000630,535,201947,Earl Clark,1610612753,Orlando Magic,4,1,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,164,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000648,494,201947,Earl Clark,1610612753,Orlando Magic,4,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,80,1,0,20110122,HOU,ORL
-Shot Chart Detail,0021000648,525,201947,Earl Clark,1610612753,Orlando Magic,4,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,231,1,0,20110122,HOU,ORL
-Shot Chart Detail,0021000703,506,201947,Earl Clark,1610612753,Orlando Magic,4,4,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,225,1,0,20110130,ORL,CLE
-Shot Chart Detail,0021000703,526,201947,Earl Clark,1610612753,Orlando Magic,4,2,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20110130,ORL,CLE
-Shot Chart Detail,0021000730,44,201947,Earl Clark,1610612753,Orlando Magic,1,8,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000730,76,201947,Earl Clark,1610612753,Orlando Magic,1,4,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-123,149,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000730,462,201947,Earl Clark,1610612753,Orlando Magic,4,7,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,19,1,1,20110203,ORL,MIA
-Shot Chart Detail,0021000730,468,201947,Earl Clark,1610612753,Orlando Magic,4,6,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,175,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000730,486,201947,Earl Clark,1610612753,Orlando Magic,4,5,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,22,1,0,20110203,ORL,MIA
-Shot Chart Detail,0021000737,172,201947,Earl Clark,1610612753,Orlando Magic,2,8,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,186,201947,Earl Clark,1610612753,Orlando Magic,2,6,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,-19,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,194,201947,Earl Clark,1610612753,Orlando Magic,2,6,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,6,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,201,201947,Earl Clark,1610612753,Orlando Magic,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,129,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,239,201947,Earl Clark,1610612753,Orlando Magic,2,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,254,201947,Earl Clark,1610612753,Orlando Magic,2,1,28,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,258,201947,Earl Clark,1610612753,Orlando Magic,2,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,260,201947,Earl Clark,1610612753,Orlando Magic,2,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,156,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,268,201947,Earl Clark,1610612753,Orlando Magic,2,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,138,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000737,413,201947,Earl Clark,1610612753,Orlando Magic,4,11,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,-11,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,438,201947,Earl Clark,1610612753,Orlando Magic,4,8,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-8,1,1,20110204,WAS,ORL
-Shot Chart Detail,0021000737,530,201947,Earl Clark,1610612753,Orlando Magic,4,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,-32,1,0,20110204,WAS,ORL
-Shot Chart Detail,0021000757,95,201947,Earl Clark,1610612753,Orlando Magic,1,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,12,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,109,201947,Earl Clark,1610612753,Orlando Magic,1,1,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,121,201947,Earl Clark,1610612753,Orlando Magic,1,0,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,3,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,123,201947,Earl Clark,1610612753,Orlando Magic,1,0,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,-10,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,139,201947,Earl Clark,1610612753,Orlando Magic,2,11,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,151,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,149,201947,Earl Clark,1610612753,Orlando Magic,2,10,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,414,201947,Earl Clark,1610612753,Orlando Magic,4,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,106,179,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,426,201947,Earl Clark,1610612753,Orlando Magic,4,10,7,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-2,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000757,430,201947,Earl Clark,1610612753,Orlando Magic,4,9,21,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20110206,BOS,ORL
-Shot Chart Detail,0021000757,450,201947,Earl Clark,1610612753,Orlando Magic,4,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-172,142,1,0,20110206,BOS,ORL
-Shot Chart Detail,0021000767,101,201947,Earl Clark,1610612753,Orlando Magic,1,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,88,142,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,112,201947,Earl Clark,1610612753,Orlando Magic,1,0,19,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,11,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000767,127,201947,Earl Clark,1610612753,Orlando Magic,2,11,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,215,201947,Earl Clark,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,177,71,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,277,201947,Earl Clark,1610612753,Orlando Magic,2,0,57,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000767,446,201947,Earl Clark,1610612753,Orlando Magic,4,10,53,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20110208,ORL,LAC
-Shot Chart Detail,0021000767,492,201947,Earl Clark,1610612753,Orlando Magic,4,7,1,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000767,562,201947,Earl Clark,1610612753,Orlando Magic,4,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,1,20110208,ORL,LAC
-Shot Chart Detail,0021000776,120,201947,Earl Clark,1610612753,Orlando Magic,1,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,26,203,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,174,201947,Earl Clark,1610612753,Orlando Magic,2,7,48,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,253,201947,Earl Clark,1610612753,Orlando Magic,2,1,12,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,342,201947,Earl Clark,1610612753,Orlando Magic,3,3,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-15,184,1,0,20110209,PHI,ORL
-Shot Chart Detail,0021000776,350,201947,Earl Clark,1610612753,Orlando Magic,3,3,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20110209,PHI,ORL
-Shot Chart Detail,0021000776,364,201947,Earl Clark,1610612753,Orlando Magic,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,138,1,0,20110209,PHI,ORL
-Shot Chart Detail,0021000776,393,201947,Earl Clark,1610612753,Orlando Magic,4,10,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,28,1,0,20110209,PHI,ORL
-Shot Chart Detail,0021000788,138,201947,Earl Clark,1610612753,Orlando Magic,2,11,35,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,6,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000788,208,201947,Earl Clark,1610612753,Orlando Magic,2,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,221,201947,Earl Clark,1610612753,Orlando Magic,2,5,22,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,261,201947,Earl Clark,1610612753,Orlando Magic,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,19,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000788,378,201947,Earl Clark,1610612753,Orlando Magic,3,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,1,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,395,201947,Earl Clark,1610612753,Orlando Magic,4,11,41,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000788,410,201947,Earl Clark,1610612753,Orlando Magic,4,9,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,123,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,443,201947,Earl Clark,1610612753,Orlando Magic,4,6,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-60,183,1,1,20110211,ORL,NOH
-Shot Chart Detail,0021000788,476,201947,Earl Clark,1610612753,Orlando Magic,4,2,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,0,20110211,ORL,NOH
-Shot Chart Detail,0021000805,130,201947,Earl Clark,1610612753,Orlando Magic,2,10,33,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,55,1,0,20110213,ORL,LAL
-Shot Chart Detail,0021000805,138,201947,Earl Clark,1610612753,Orlando Magic,2,10,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20110213,ORL,LAL
-Shot Chart Detail,0021000805,180,201947,Earl Clark,1610612753,Orlando Magic,2,5,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,50,1,1,20110213,ORL,LAL
-Shot Chart Detail,0021000824,500,201947,Earl Clark,1610612753,Orlando Magic,4,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,22,1,0,20110216,ORL,WAS
-Shot Chart Detail,0021000824,531,201947,Earl Clark,1610612753,Orlando Magic,4,1,2,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20110216,ORL,WAS
-Shot Chart Detail,0021000867,85,201947,Earl Clark,1610612753,Orlando Magic,1,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,15,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000867,394,201947,Earl Clark,1610612753,Orlando Magic,3,1,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000867,469,201947,Earl Clark,1610612753,Orlando Magic,4,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,190,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000867,540,201947,Earl Clark,1610612753,Orlando Magic,4,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,28,1,0,20110225,ORL,OKC
-Shot Chart Detail,0021000883,478,201947,Earl Clark,1610612753,Orlando Magic,4,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,164,1,1,20110227,ORL,CHA
-Shot Chart Detail,0021000883,498,201947,Earl Clark,1610612753,Orlando Magic,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-142,108,1,0,20110227,ORL,CHA
-Shot Chart Detail,0021000895,251,201947,Earl Clark,1610612753,Orlando Magic,2,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,4,1,0,20110301,ORL,NYK
-Shot Chart Detail,0021000895,315,201947,Earl Clark,1610612753,Orlando Magic,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20110301,ORL,NYK
-Shot Chart Detail,0021000941,96,201947,Earl Clark,1610612753,Orlando Magic,1,1,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000941,124,201947,Earl Clark,1610612753,Orlando Magic,2,11,14,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000941,164,201947,Earl Clark,1610612753,Orlando Magic,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,30,1,0,20110307,ORL,POR
-Shot Chart Detail,0021000941,165,201947,Earl Clark,1610612753,Orlando Magic,2,6,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000941,401,201947,Earl Clark,1610612753,Orlando Magic,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-101,168,1,0,20110307,ORL,POR
-Shot Chart Detail,0021000941,405,201947,Earl Clark,1610612753,Orlando Magic,4,3,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20110307,ORL,POR
-Shot Chart Detail,0021000987,538,201947,Earl Clark,1610612753,Orlando Magic,4,1,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20110313,PHX,ORL
-Shot Chart Detail,0021000987,546,201947,Earl Clark,1610612753,Orlando Magic,4,0,51,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,20,1,0,20110313,PHX,ORL
-Shot Chart Detail,0021000987,550,201947,Earl Clark,1610612753,Orlando Magic,4,0,47,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20110313,PHX,ORL
-Shot Chart Detail,0021001059,194,201947,Earl Clark,1610612753,Orlando Magic,2,3,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20110323,NYK,ORL
-Shot Chart Detail,0021001059,426,201947,Earl Clark,1610612753,Orlando Magic,4,6,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20110323,NYK,ORL
-Shot Chart Detail,0021001105,172,201947,Earl Clark,1610612753,Orlando Magic,2,5,49,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20110330,ATL,ORL
-Shot Chart Detail,0021001162,130,201947,Earl Clark,1610612753,Orlando Magic,2,9,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20110406,CHA,ORL
-Shot Chart Detail,0021001162,145,201947,Earl Clark,1610612753,Orlando Magic,2,7,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20110406,CHA,ORL
-Shot Chart Detail,0021001162,196,201947,Earl Clark,1610612753,Orlando Magic,2,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,15,1,0,20110406,CHA,ORL
-Shot Chart Detail,0021001193,109,201947,Earl Clark,1610612753,Orlando Magic,2,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,20,197,1,1,20110410,ORL,CHI
-Shot Chart Detail,0021001204,141,201947,Earl Clark,1610612753,Orlando Magic,2,8,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-152,102,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,154,201947,Earl Clark,1610612753,Orlando Magic,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,7,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,166,201947,Earl Clark,1610612753,Orlando Magic,2,6,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20110411,PHI,ORL
-Shot Chart Detail,0021001204,178,201947,Earl Clark,1610612753,Orlando Magic,2,5,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,85,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,182,201947,Earl Clark,1610612753,Orlando Magic,2,4,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,395,201947,Earl Clark,1610612753,Orlando Magic,4,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,0,20110411,PHI,ORL
-Shot Chart Detail,0021001204,402,201947,Earl Clark,1610612753,Orlando Magic,4,6,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,89,1,1,20110411,PHI,ORL
-Shot Chart Detail,0021001219,213,201947,Earl Clark,1610612753,Orlando Magic,2,4,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20110413,ORL,IND
-Shot Chart Detail,0021001219,214,201947,Earl Clark,1610612753,Orlando Magic,2,4,9,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20110413,ORL,IND
-Shot Chart Detail,0021001219,249,201947,Earl Clark,1610612753,Orlando Magic,2,0,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,12,1,0,20110413,ORL,IND
-Shot Chart Detail,0021001219,432,201947,Earl Clark,1610612753,Orlando Magic,4,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,14,1,1,20110413,ORL,IND
-Shot Chart Detail,0021001219,497,201947,Earl Clark,1610612753,Orlando Magic,4,3,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,146,1,1,20110413,ORL,IND
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21000147,128,201947,Earl Clark,1610612756,Phoenix Suns,1,0,43,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20101115,0,PHX,DEN
+Shot Chart Detail,21000158,248,201947,Earl Clark,1610612756,Phoenix Suns,2,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-68,179,1,0,20101117,0,MIA,PHX
+Shot Chart Detail,21000158,468,201947,Earl Clark,1610612756,Phoenix Suns,4,10,51,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,131,1,0,20101117,0,MIA,PHX
+Shot Chart Detail,21000158,535,201947,Earl Clark,1610612756,Phoenix Suns,4,2,50,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,1,20101117,1,MIA,PHX
+Shot Chart Detail,21000169,381,201947,Earl Clark,1610612756,Phoenix Suns,3,3,7,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,176,30,1,1,20101118,1,ORL,PHX
+Shot Chart Detail,21000169,383,201947,Earl Clark,1610612756,Phoenix Suns,3,2,23,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,75,1,1,20101118,1,ORL,PHX
+Shot Chart Detail,21000169,403,201947,Earl Clark,1610612756,Phoenix Suns,4,11,41,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-108,165,1,1,20101118,0,ORL,PHX
+Shot Chart Detail,21000169,420,201947,Earl Clark,1610612756,Phoenix Suns,4,10,6,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,58,175,1,0,20101118,0,ORL,PHX
+Shot Chart Detail,21000169,435,201947,Earl Clark,1610612756,Phoenix Suns,4,8,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20101118,0,ORL,PHX
+Shot Chart Detail,21000169,464,201947,Earl Clark,1610612756,Phoenix Suns,4,6,40,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-52,162,1,1,20101118,0,ORL,PHX
+Shot Chart Detail,21000169,494,201947,Earl Clark,1610612756,Phoenix Suns,4,4,52,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-202,-3,1,0,20101118,0,ORL,PHX
+Shot Chart Detail,21000169,508,201947,Earl Clark,1610612756,Phoenix Suns,4,4,5,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,41,1,0,20101118,0,ORL,PHX
+Shot Chart Detail,21000169,556,201947,Earl Clark,1610612756,Phoenix Suns,4,1,27,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,0,20101118,0,ORL,PHX
+Shot Chart Detail,21000182,121,201947,Earl Clark,1610612756,Phoenix Suns,2,11,41,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,129,1,1,20101120,1,CHA,PHX
+Shot Chart Detail,21000285,353,201947,Earl Clark,1610612756,Phoenix Suns,3,3,24,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,135,15,1,0,20101203,0,PHX,IND
+Shot Chart Detail,21000285,382,201947,Earl Clark,1610612756,Phoenix Suns,3,0,42,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-157,148,1,0,20101203,0,PHX,IND
+Shot Chart Detail,21000285,414,201947,Earl Clark,1610612756,Phoenix Suns,4,9,58,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-19,3,1,0,20101203,0,PHX,IND
+Shot Chart Detail,21000285,435,201947,Earl Clark,1610612756,Phoenix Suns,4,8,50,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20101203,1,PHX,IND
+Shot Chart Detail,21000300,518,201947,Earl Clark,1610612756,Phoenix Suns,4,0,53,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,121,181,1,1,20101205,1,PHX,WAS
+Shot Chart Detail,21000390,356,201947,Earl Clark,1610612756,Phoenix Suns,3,1,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-175,64,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,372,201947,Earl Clark,1610612756,Phoenix Suns,3,0,49,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,377,201947,Earl Clark,1610612756,Phoenix Suns,3,0,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-187,23,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,406,201947,Earl Clark,1610612756,Phoenix Suns,4,9,29,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,-6,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,438,201947,Earl Clark,1610612756,Phoenix Suns,4,6,37,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-177,22,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,445,201947,Earl Clark,1610612756,Phoenix Suns,4,6,18,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,20,198,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,464,201947,Earl Clark,1610612756,Phoenix Suns,4,4,57,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,20,1,1,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,467,201947,Earl Clark,1610612756,Phoenix Suns,4,4,30,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,12,1,1,20101217,1,DAL,PHX
+Shot Chart Detail,21000390,487,201947,Earl Clark,1610612756,Phoenix Suns,4,3,23,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,94,135,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,500,201947,Earl Clark,1610612756,Phoenix Suns,4,3,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,195,9,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000390,507,201947,Earl Clark,1610612756,Phoenix Suns,4,2,49,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,170,12,1,1,20101217,1,DAL,PHX
+Shot Chart Detail,21000390,513,201947,Earl Clark,1610612756,Phoenix Suns,4,2,32,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,0,20101217,0,DAL,PHX
+Shot Chart Detail,21000051,162,201947,Earl Clark,1610612753,Orlando Magic,2,8,23,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-147,-30,1,0,20110328,0,NYK,ORL
+Shot Chart Detail,21000051,358,201947,Earl Clark,1610612753,Orlando Magic,3,4,42,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-128,135,1,0,20110328,0,NYK,ORL
+Shot Chart Detail,21000051,433,201947,Earl Clark,1610612753,Orlando Magic,4,11,12,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,48,219,1,1,20110328,1,NYK,ORL
+Shot Chart Detail,21000416,122,201947,Earl Clark,1610612753,Orlando Magic,2,11,37,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,0,195,1,1,20101221,1,ORL,DAL
+Shot Chart Detail,21000416,159,201947,Earl Clark,1610612753,Orlando Magic,2,6,53,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,34,1,1,20101221,1,ORL,DAL
+Shot Chart Detail,21000416,376,201947,Earl Clark,1610612753,Orlando Magic,4,8,10,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-98,33,1,1,20101221,0,ORL,DAL
+Shot Chart Detail,21000430,535,201947,Earl Clark,1610612753,Orlando Magic,4,2,1,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-149,156,1,0,20101223,0,ORL,SAS
+Shot Chart Detail,21000446,487,201947,Earl Clark,1610612753,Orlando Magic,4,1,2,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,127,56,1,0,20101227,0,NJN,ORL
+Shot Chart Detail,21000446,494,201947,Earl Clark,1610612753,Orlando Magic,4,0,31,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,81,45,1,0,20101227,0,NJN,ORL
+Shot Chart Detail,21000455,129,201947,Earl Clark,1610612753,Orlando Magic,2,11,18,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,118,11,1,1,20101228,1,CLE,ORL
+Shot Chart Detail,21000455,131,201947,Earl Clark,1610612753,Orlando Magic,2,10,47,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-150,157,1,0,20101228,0,CLE,ORL
+Shot Chart Detail,21000455,150,201947,Earl Clark,1610612753,Orlando Magic,2,9,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,3,1,1,20101228,1,CLE,ORL
+Shot Chart Detail,21000455,423,201947,Earl Clark,1610612753,Orlando Magic,4,9,56,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,31,225,1,1,20101228,1,CLE,ORL
+Shot Chart Detail,21000455,447,201947,Earl Clark,1610612753,Orlando Magic,4,8,24,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,1,20101228,1,CLE,ORL
+Shot Chart Detail,21000455,458,201947,Earl Clark,1610612753,Orlando Magic,4,7,7,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,0,1,1,20101228,1,CLE,ORL
+Shot Chart Detail,21000455,470,201947,Earl Clark,1610612753,Orlando Magic,4,5,57,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,61,1,0,20101228,0,CLE,ORL
+Shot Chart Detail,21000455,490,201947,Earl Clark,1610612753,Orlando Magic,4,3,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,0,20101228,0,CLE,ORL
+Shot Chart Detail,21000455,507,201947,Earl Clark,1610612753,Orlando Magic,4,3,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20101228,1,CLE,ORL
+Shot Chart Detail,21000455,512,201947,Earl Clark,1610612753,Orlando Magic,4,2,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,53,1,0,20101228,0,CLE,ORL
+Shot Chart Detail,21000529,130,201947,Earl Clark,1610612753,Orlando Magic,2,10,32,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,187,1,1,20110107,0,ORL,HOU
+Shot Chart Detail,21000529,132,201947,Earl Clark,1610612753,Orlando Magic,2,9,54,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20110107,1,ORL,HOU
+Shot Chart Detail,21000529,136,201947,Earl Clark,1610612753,Orlando Magic,2,9,34,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,59,172,1,0,20110107,0,ORL,HOU
+Shot Chart Detail,21000529,165,201947,Earl Clark,1610612753,Orlando Magic,2,6,47,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-101,61,1,0,20110107,0,ORL,HOU
+Shot Chart Detail,21000529,202,201947,Earl Clark,1610612753,Orlando Magic,2,3,59,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-97,173,1,0,20110107,0,ORL,HOU
+Shot Chart Detail,21000529,366,201947,Earl Clark,1610612753,Orlando Magic,3,0,37,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20110107,0,ORL,HOU
+Shot Chart Detail,21000529,372,201947,Earl Clark,1610612753,Orlando Magic,3,0,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20110107,1,ORL,HOU
+Shot Chart Detail,21000529,411,201947,Earl Clark,1610612753,Orlando Magic,4,8,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,0,20110107,0,ORL,HOU
+Shot Chart Detail,21000630,480,201947,Earl Clark,1610612753,Orlando Magic,4,6,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110121,0,ORL,TOR
+Shot Chart Detail,21000630,486,201947,Earl Clark,1610612753,Orlando Magic,4,6,12,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-175,99,1,0,20110121,0,ORL,TOR
+Shot Chart Detail,21000630,495,201947,Earl Clark,1610612753,Orlando Magic,4,5,19,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,133,135,1,0,20110121,0,ORL,TOR
+Shot Chart Detail,21000630,535,201947,Earl Clark,1610612753,Orlando Magic,4,1,55,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,164,1,0,20110121,0,ORL,TOR
+Shot Chart Detail,21000648,494,201947,Earl Clark,1610612753,Orlando Magic,4,3,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,28,80,1,0,20110122,0,HOU,ORL
+Shot Chart Detail,21000648,525,201947,Earl Clark,1610612753,Orlando Magic,4,0,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,231,1,0,20110122,0,HOU,ORL
+Shot Chart Detail,21000703,506,201947,Earl Clark,1610612753,Orlando Magic,4,4,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,225,1,0,20110130,0,ORL,CLE
+Shot Chart Detail,21000703,526,201947,Earl Clark,1610612753,Orlando Magic,4,2,17,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20110130,1,ORL,CLE
+Shot Chart Detail,21000730,44,201947,Earl Clark,1610612753,Orlando Magic,1,8,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,0,20110203,0,ORL,MIA
+Shot Chart Detail,21000730,76,201947,Earl Clark,1610612753,Orlando Magic,1,4,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-123,149,1,0,20110203,0,ORL,MIA
+Shot Chart Detail,21000730,462,201947,Earl Clark,1610612753,Orlando Magic,4,7,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,19,1,1,20110203,1,ORL,MIA
+Shot Chart Detail,21000730,468,201947,Earl Clark,1610612753,Orlando Magic,4,6,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,175,1,0,20110203,0,ORL,MIA
+Shot Chart Detail,21000730,486,201947,Earl Clark,1610612753,Orlando Magic,4,5,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,22,1,0,20110203,0,ORL,MIA
+Shot Chart Detail,21000737,172,201947,Earl Clark,1610612753,Orlando Magic,2,8,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,186,201947,Earl Clark,1610612753,Orlando Magic,2,6,42,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,-19,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,194,201947,Earl Clark,1610612753,Orlando Magic,2,6,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,6,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,201,201947,Earl Clark,1610612753,Orlando Magic,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,129,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,239,201947,Earl Clark,1610612753,Orlando Magic,2,2,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20110204,1,WAS,ORL
+Shot Chart Detail,21000737,254,201947,Earl Clark,1610612753,Orlando Magic,2,1,28,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,258,201947,Earl Clark,1610612753,Orlando Magic,2,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,260,201947,Earl Clark,1610612753,Orlando Magic,2,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-105,156,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,268,201947,Earl Clark,1610612753,Orlando Magic,2,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,110,138,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,413,201947,Earl Clark,1610612753,Orlando Magic,4,11,34,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,-11,1,1,20110204,1,WAS,ORL
+Shot Chart Detail,21000737,438,201947,Earl Clark,1610612753,Orlando Magic,4,8,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,-8,1,1,20110204,0,WAS,ORL
+Shot Chart Detail,21000737,530,201947,Earl Clark,1610612753,Orlando Magic,4,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,-32,1,0,20110204,0,WAS,ORL
+Shot Chart Detail,21000757,95,201947,Earl Clark,1610612753,Orlando Magic,1,2,56,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-122,12,1,1,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,109,201947,Earl Clark,1610612753,Orlando Magic,1,1,42,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,121,201947,Earl Clark,1610612753,Orlando Magic,1,0,29,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,3,1,0,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,123,201947,Earl Clark,1610612753,Orlando Magic,1,0,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,-10,1,0,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,139,201947,Earl Clark,1610612753,Orlando Magic,2,11,13,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,151,1,1,20110206,1,BOS,ORL
+Shot Chart Detail,21000757,149,201947,Earl Clark,1610612753,Orlando Magic,2,10,20,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,0,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,414,201947,Earl Clark,1610612753,Orlando Magic,4,11,5,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,106,179,1,0,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,426,201947,Earl Clark,1610612753,Orlando Magic,4,10,7,Missed Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-2,1,0,20110206,0,BOS,ORL
+Shot Chart Detail,21000757,430,201947,Earl Clark,1610612753,Orlando Magic,4,9,21,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20110206,1,BOS,ORL
+Shot Chart Detail,21000757,450,201947,Earl Clark,1610612753,Orlando Magic,4,7,41,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-172,142,1,0,20110206,0,BOS,ORL
+Shot Chart Detail,21000767,101,201947,Earl Clark,1610612753,Orlando Magic,1,2,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,88,142,1,0,20110208,0,ORL,LAC
+Shot Chart Detail,21000767,112,201947,Earl Clark,1610612753,Orlando Magic,1,0,19,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,11,1,1,20110208,0,ORL,LAC
+Shot Chart Detail,21000767,127,201947,Earl Clark,1610612753,Orlando Magic,2,11,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,-8,1,0,20110208,0,ORL,LAC
+Shot Chart Detail,21000767,215,201947,Earl Clark,1610612753,Orlando Magic,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,177,71,1,0,20110208,0,ORL,LAC
+Shot Chart Detail,21000767,277,201947,Earl Clark,1610612753,Orlando Magic,2,0,57,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,25,1,1,20110208,0,ORL,LAC
+Shot Chart Detail,21000767,446,201947,Earl Clark,1610612753,Orlando Magic,4,10,53,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,31,1,0,20110208,0,ORL,LAC
+Shot Chart Detail,21000767,492,201947,Earl Clark,1610612753,Orlando Magic,4,7,1,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20110208,1,ORL,LAC
+Shot Chart Detail,21000767,562,201947,Earl Clark,1610612753,Orlando Magic,4,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,17,1,1,20110208,1,ORL,LAC
+Shot Chart Detail,21000776,120,201947,Earl Clark,1610612753,Orlando Magic,1,0,49,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,26,203,1,1,20110209,1,PHI,ORL
+Shot Chart Detail,21000776,174,201947,Earl Clark,1610612753,Orlando Magic,2,7,48,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20110209,1,PHI,ORL
+Shot Chart Detail,21000776,253,201947,Earl Clark,1610612753,Orlando Magic,2,1,12,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20110209,0,PHI,ORL
+Shot Chart Detail,21000776,342,201947,Earl Clark,1610612753,Orlando Magic,3,3,40,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-15,184,1,0,20110209,0,PHI,ORL
+Shot Chart Detail,21000776,350,201947,Earl Clark,1610612753,Orlando Magic,3,3,10,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20110209,1,PHI,ORL
+Shot Chart Detail,21000776,364,201947,Earl Clark,1610612753,Orlando Magic,3,0,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,138,1,0,20110209,0,PHI,ORL
+Shot Chart Detail,21000776,393,201947,Earl Clark,1610612753,Orlando Magic,4,10,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,28,1,0,20110209,0,PHI,ORL
+Shot Chart Detail,21000788,138,201947,Earl Clark,1610612753,Orlando Magic,2,11,35,Missed Shot,Driving Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-37,6,1,0,20110211,0,ORL,NOH
+Shot Chart Detail,21000788,208,201947,Earl Clark,1610612753,Orlando Magic,2,6,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,11,1,1,20110211,1,ORL,NOH
+Shot Chart Detail,21000788,221,201947,Earl Clark,1610612753,Orlando Magic,2,5,22,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20110211,1,ORL,NOH
+Shot Chart Detail,21000788,261,201947,Earl Clark,1610612753,Orlando Magic,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,19,1,0,20110211,0,ORL,NOH
+Shot Chart Detail,21000788,378,201947,Earl Clark,1610612753,Orlando Magic,3,1,12,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-196,1,1,1,20110211,1,ORL,NOH
+Shot Chart Detail,21000788,395,201947,Earl Clark,1610612753,Orlando Magic,4,11,41,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,0,20110211,0,ORL,NOH
+Shot Chart Detail,21000788,410,201947,Earl Clark,1610612753,Orlando Magic,4,9,47,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,123,1,1,20110211,1,ORL,NOH
+Shot Chart Detail,21000788,443,201947,Earl Clark,1610612753,Orlando Magic,4,6,34,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-60,183,1,1,20110211,0,ORL,NOH
+Shot Chart Detail,21000788,476,201947,Earl Clark,1610612753,Orlando Magic,4,2,26,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,0,1,0,20110211,0,ORL,NOH
+Shot Chart Detail,21000805,130,201947,Earl Clark,1610612753,Orlando Magic,2,10,33,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,55,1,0,20110213,0,ORL,LAL
+Shot Chart Detail,21000805,138,201947,Earl Clark,1610612753,Orlando Magic,2,10,6,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20110213,1,ORL,LAL
+Shot Chart Detail,21000805,180,201947,Earl Clark,1610612753,Orlando Magic,2,5,23,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,50,1,1,20110213,1,ORL,LAL
+Shot Chart Detail,21000824,500,201947,Earl Clark,1610612753,Orlando Magic,4,4,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,97,22,1,0,20110216,0,ORL,WAS
+Shot Chart Detail,21000824,531,201947,Earl Clark,1610612753,Orlando Magic,4,1,2,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20110216,0,ORL,WAS
+Shot Chart Detail,21000867,85,201947,Earl Clark,1610612753,Orlando Magic,1,4,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,15,1,0,20110225,0,ORL,OKC
+Shot Chart Detail,21000867,394,201947,Earl Clark,1610612753,Orlando Magic,3,1,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,0,20110225,0,ORL,OKC
+Shot Chart Detail,21000867,469,201947,Earl Clark,1610612753,Orlando Magic,4,7,7,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,190,1,0,20110225,0,ORL,OKC
+Shot Chart Detail,21000867,540,201947,Earl Clark,1610612753,Orlando Magic,4,1,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,28,1,0,20110225,0,ORL,OKC
+Shot Chart Detail,21000883,478,201947,Earl Clark,1610612753,Orlando Magic,4,2,22,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,164,1,1,20110227,1,ORL,CHA
+Shot Chart Detail,21000883,498,201947,Earl Clark,1610612753,Orlando Magic,4,0,3,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-142,108,1,0,20110227,0,ORL,CHA
+Shot Chart Detail,21000895,251,201947,Earl Clark,1610612753,Orlando Magic,2,3,55,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,187,4,1,0,20110301,0,ORL,NYK
+Shot Chart Detail,21000895,315,201947,Earl Clark,1610612753,Orlando Magic,2,0,3,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20110301,0,ORL,NYK
+Shot Chart Detail,21000941,96,201947,Earl Clark,1610612753,Orlando Magic,1,1,6,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,26,1,1,20110307,0,ORL,POR
+Shot Chart Detail,21000941,124,201947,Earl Clark,1610612753,Orlando Magic,2,11,14,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20110307,0,ORL,POR
+Shot Chart Detail,21000941,164,201947,Earl Clark,1610612753,Orlando Magic,2,6,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,30,1,0,20110307,0,ORL,POR
+Shot Chart Detail,21000941,165,201947,Earl Clark,1610612753,Orlando Magic,2,6,35,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,23,1,1,20110307,0,ORL,POR
+Shot Chart Detail,21000941,401,201947,Earl Clark,1610612753,Orlando Magic,4,3,58,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-101,168,1,0,20110307,0,ORL,POR
+Shot Chart Detail,21000941,405,201947,Earl Clark,1610612753,Orlando Magic,4,3,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,1,20110307,0,ORL,POR
+Shot Chart Detail,21000987,538,201947,Earl Clark,1610612753,Orlando Magic,4,1,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20110313,0,PHX,ORL
+Shot Chart Detail,21000987,546,201947,Earl Clark,1610612753,Orlando Magic,4,0,51,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,20,1,0,20110313,0,PHX,ORL
+Shot Chart Detail,21000987,550,201947,Earl Clark,1610612753,Orlando Magic,4,0,47,Made Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,11,1,1,20110313,0,PHX,ORL
+Shot Chart Detail,21001059,194,201947,Earl Clark,1610612753,Orlando Magic,2,3,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20110323,1,NYK,ORL
+Shot Chart Detail,21001059,426,201947,Earl Clark,1610612753,Orlando Magic,4,6,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20110323,0,NYK,ORL
+Shot Chart Detail,21001105,172,201947,Earl Clark,1610612753,Orlando Magic,2,5,49,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20110330,0,ATL,ORL
+Shot Chart Detail,21001162,130,201947,Earl Clark,1610612753,Orlando Magic,2,9,35,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20110406,0,CHA,ORL
+Shot Chart Detail,21001162,145,201947,Earl Clark,1610612753,Orlando Magic,2,7,21,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20110406,0,CHA,ORL
+Shot Chart Detail,21001162,196,201947,Earl Clark,1610612753,Orlando Magic,2,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,15,1,0,20110406,0,CHA,ORL
+Shot Chart Detail,21001193,109,201947,Earl Clark,1610612753,Orlando Magic,2,10,39,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,20,197,1,1,20110410,1,ORL,CHI
+Shot Chart Detail,21001204,141,201947,Earl Clark,1610612753,Orlando Magic,2,8,50,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-152,102,1,0,20110411,0,PHI,ORL
+Shot Chart Detail,21001204,154,201947,Earl Clark,1610612753,Orlando Magic,2,7,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,7,1,0,20110411,0,PHI,ORL
+Shot Chart Detail,21001204,166,201947,Earl Clark,1610612753,Orlando Magic,2,6,39,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,1,20110411,1,PHI,ORL
+Shot Chart Detail,21001204,178,201947,Earl Clark,1610612753,Orlando Magic,2,5,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,1,85,1,0,20110411,0,PHI,ORL
+Shot Chart Detail,21001204,182,201947,Earl Clark,1610612753,Orlando Magic,2,4,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,0,20110411,0,PHI,ORL
+Shot Chart Detail,21001204,395,201947,Earl Clark,1610612753,Orlando Magic,4,7,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,0,20110411,0,PHI,ORL
+Shot Chart Detail,21001204,402,201947,Earl Clark,1610612753,Orlando Magic,4,6,46,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,160,89,1,1,20110411,1,PHI,ORL
+Shot Chart Detail,21001219,214,201947,Earl Clark,1610612753,Orlando Magic,2,4,9,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,1,20110413,0,ORL,IND
+Shot Chart Detail,21001219,213,201947,Earl Clark,1610612753,Orlando Magic,2,4,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20110413,0,ORL,IND
+Shot Chart Detail,21001219,249,201947,Earl Clark,1610612753,Orlando Magic,2,0,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,12,1,0,20110413,0,ORL,IND
+Shot Chart Detail,21001219,432,201947,Earl Clark,1610612753,Orlando Magic,4,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,14,1,1,20110413,1,ORL,IND
+Shot Chart Detail,21001219,497,201947,Earl Clark,1610612753,Orlando Magic,4,3,59,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,146,1,1,20110413,0,ORL,IND

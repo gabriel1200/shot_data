@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040500141,166,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,2,3,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,160,1,1,20060422,SAS,SAC
-Shot Chart Detail,0040500141,185,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,2,1,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,0,20060422,SAS,SAC
-Shot Chart Detail,0040500141,321,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,3,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-11,1,1,20060422,SAS,SAC
-Shot Chart Detail,0040500141,345,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,10,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,56,1,1,20060422,SAS,SAC
-Shot Chart Detail,0040500141,403,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,133,150,1,1,20060422,SAS,SAC
-Shot Chart Detail,0040500141,418,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,2,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-57,178,1,0,20060422,SAS,SAC
-Shot Chart Detail,0040500142,398,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,4,58,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,43,1,1,20060425,SAS,SAC
-Shot Chart Detail,0040500142,518,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,5,1,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20060425,SAS,SAC
-Shot Chart Detail,0040500143,58,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,5,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060428,SAC,SAS
-Shot Chart Detail,0040500143,115,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-67,237,1,1,20060428,SAC,SAS
-Shot Chart Detail,0040500143,289,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,3,5,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,0,20060428,SAC,SAS
-Shot Chart Detail,0040500143,400,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,8,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060428,SAC,SAS
-Shot Chart Detail,0040500144,19,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,9,18,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,40,1,1,20060430,SAC,SAS
-Shot Chart Detail,0040500144,25,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,112,166,1,1,20060430,SAC,SAS
-Shot Chart Detail,0040500144,53,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,4,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060430,SAC,SAS
-Shot Chart Detail,0040500144,414,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-169,84,1,0,20060430,SAC,SAS
-Shot Chart Detail,0040500145,277,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,3,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,17,1,0,20060502,SAS,SAC
-Shot Chart Detail,0040500146,158,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,2,6,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,171,1,0,20060505,SAC,SAS
-Shot Chart Detail,0040500146,388,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,7,33,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,46,1,0,20060505,SAC,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40500141,166,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,2,3,55,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,160,1,1,20060422,1,SAS,SAC
+Shot Chart Detail,40500141,185,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,2,1,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,0,20060422,0,SAS,SAC
+Shot Chart Detail,40500141,321,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,3,0,49,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-151,-11,1,1,20060422,1,SAS,SAC
+Shot Chart Detail,40500141,345,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,10,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,56,1,1,20060422,1,SAS,SAC
+Shot Chart Detail,40500141,403,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,4,42,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,133,150,1,1,20060422,1,SAS,SAC
+Shot Chart Detail,40500141,418,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,2,32,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-57,178,1,0,20060422,0,SAS,SAC
+Shot Chart Detail,40500142,398,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,4,58,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,43,1,1,20060425,1,SAS,SAC
+Shot Chart Detail,40500142,518,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,5,1,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20060425,1,SAS,SAC
+Shot Chart Detail,40500143,58,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,5,0,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060428,0,SAC,SAS
+Shot Chart Detail,40500143,115,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,0,0,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-67,237,1,1,20060428,1,SAC,SAS
+Shot Chart Detail,40500143,289,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,3,5,53,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,36,1,0,20060428,0,SAC,SAS
+Shot Chart Detail,40500143,400,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,8,16,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060428,0,SAC,SAS
+Shot Chart Detail,40500144,19,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,9,18,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,40,1,1,20060430,1,SAC,SAS
+Shot Chart Detail,40500144,25,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,8,19,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,112,166,1,1,20060430,1,SAC,SAS
+Shot Chart Detail,40500144,53,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,1,4,8,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060430,0,SAC,SAS
+Shot Chart Detail,40500144,414,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,3,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-169,84,1,0,20060430,0,SAC,SAS
+Shot Chart Detail,40500145,277,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,3,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,17,1,0,20060502,0,SAS,SAC
+Shot Chart Detail,40500146,158,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,2,6,14,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,171,1,0,20060505,0,SAC,SAS
+Shot Chart Detail,40500146,388,1725,Rasho Nesterovic,1610612759,San Antonio Spurs,4,7,33,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,46,1,0,20060505,0,SAC,SAS

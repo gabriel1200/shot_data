@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000013,248,690,Don Reid,1610612753,Orlando Magic,2,0,0,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010425,MIL,ORL
-Shot Chart Detail,0040000029,183,690,Don Reid,1610612753,Orlando Magic,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,222,1,0,20010501,ORL,MIL
-Shot Chart Detail,0040000029,212,690,Don Reid,1610612753,Orlando Magic,2,5,25,Made Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010501,ORL,MIL
-Shot Chart Detail,0040000029,251,690,Don Reid,1610612753,Orlando Magic,2,1,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,11,1,1,20010501,ORL,MIL
-Shot Chart Detail,0040000029,260,690,Don Reid,1610612753,Orlando Magic,2,1,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-4,1,1,20010501,ORL,MIL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000013,248,690,Don Reid,1610612753,Orlando Magic,2,0,0,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010425,0,MIL,ORL
+Shot Chart Detail,40000029,183,690,Don Reid,1610612753,Orlando Magic,2,7,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,222,1,0,20010501,0,ORL,MIL
+Shot Chart Detail,40000029,212,690,Don Reid,1610612753,Orlando Magic,2,5,25,Made Shot,Finger Roll Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010501,1,ORL,MIL
+Shot Chart Detail,40000029,251,690,Don Reid,1610612753,Orlando Magic,2,1,40,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,11,1,1,20010501,1,ORL,MIL
+Shot Chart Detail,40000029,260,690,Don Reid,1610612753,Orlando Magic,2,1,5,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-4,1,1,20010501,1,ORL,MIL

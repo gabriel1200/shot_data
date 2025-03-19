@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041300121,240,2422,John Salmons,1610612761,Toronto Raptors,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-76,238,1,0,20140419,TOR,BKN
-Shot Chart Detail,0041300123,248,2422,John Salmons,1610612761,Toronto Raptors,2,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,156,1,1,20140425,BKN,TOR
-Shot Chart Detail,0041300123,388,2422,John Salmons,1610612761,Toronto Raptors,4,10,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-14,1,0,20140425,BKN,TOR
-Shot Chart Detail,0041300123,432,2422,John Salmons,1610612761,Toronto Raptors,4,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,168,146,1,1,20140425,BKN,TOR
-Shot Chart Detail,0041300123,448,2422,John Salmons,1610612761,Toronto Raptors,4,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,0,20140425,BKN,TOR
-Shot Chart Detail,0041300124,158,2422,John Salmons,1610612761,Toronto Raptors,2,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,167,1,0,20140427,BKN,TOR
-Shot Chart Detail,0041300124,171,2422,John Salmons,1610612761,Toronto Raptors,2,6,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,227,1,0,20140427,BKN,TOR
-Shot Chart Detail,0041300124,238,2422,John Salmons,1610612761,Toronto Raptors,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,149,1,0,20140427,BKN,TOR
-Shot Chart Detail,0041300125,148,2422,John Salmons,1610612761,Toronto Raptors,2,10,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,95,230,1,0,20140430,TOR,BKN
-Shot Chart Detail,0041300125,156,2422,John Salmons,1610612761,Toronto Raptors,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,137,1,0,20140430,TOR,BKN
-Shot Chart Detail,0041300125,167,2422,John Salmons,1610612761,Toronto Raptors,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,94,113,1,0,20140430,TOR,BKN
-Shot Chart Detail,0041300126,190,2422,John Salmons,1610612761,Toronto Raptors,2,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,101,1,0,20140502,BKN,TOR
-Shot Chart Detail,0041300126,195,2422,John Salmons,1610612761,Toronto Raptors,2,4,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,134,1,1,20140502,BKN,TOR
-Shot Chart Detail,0041300126,382,2422,John Salmons,1610612761,Toronto Raptors,4,9,37,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140502,BKN,TOR
-Shot Chart Detail,0041300127,122,2422,John Salmons,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20140504,TOR,BKN
-Shot Chart Detail,0041300127,156,2422,John Salmons,1610612761,Toronto Raptors,2,8,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,0,20140504,TOR,BKN
-Shot Chart Detail,0041300127,188,2422,John Salmons,1610612761,Toronto Raptors,2,6,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,1,20140504,TOR,BKN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41300121,240,2422,John Salmons,1610612761,Toronto Raptors,2,4,12,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-76,238,1,0,20140419,0,TOR,BKN
+Shot Chart Detail,41300123,248,2422,John Salmons,1610612761,Toronto Raptors,2,0,1,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,156,1,1,20140425,0,BKN,TOR
+Shot Chart Detail,41300123,388,2422,John Salmons,1610612761,Toronto Raptors,4,10,57,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,239,-14,1,0,20140425,0,BKN,TOR
+Shot Chart Detail,41300123,432,2422,John Salmons,1610612761,Toronto Raptors,4,6,25,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,168,146,1,1,20140425,1,BKN,TOR
+Shot Chart Detail,41300123,448,2422,John Salmons,1610612761,Toronto Raptors,4,5,57,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,0,20140425,0,BKN,TOR
+Shot Chart Detail,41300124,158,2422,John Salmons,1610612761,Toronto Raptors,2,7,27,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,167,1,0,20140427,0,BKN,TOR
+Shot Chart Detail,41300124,171,2422,John Salmons,1610612761,Toronto Raptors,2,6,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,227,1,0,20140427,0,BKN,TOR
+Shot Chart Detail,41300124,238,2422,John Salmons,1610612761,Toronto Raptors,2,0,2,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,149,1,0,20140427,0,BKN,TOR
+Shot Chart Detail,41300125,148,2422,John Salmons,1610612761,Toronto Raptors,2,10,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,95,230,1,0,20140430,0,TOR,BKN
+Shot Chart Detail,41300125,156,2422,John Salmons,1610612761,Toronto Raptors,2,8,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,203,137,1,0,20140430,0,TOR,BKN
+Shot Chart Detail,41300125,167,2422,John Salmons,1610612761,Toronto Raptors,2,8,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,94,113,1,0,20140430,0,TOR,BKN
+Shot Chart Detail,41300126,190,2422,John Salmons,1610612761,Toronto Raptors,2,4,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,101,1,0,20140502,0,BKN,TOR
+Shot Chart Detail,41300126,195,2422,John Salmons,1610612761,Toronto Raptors,2,4,10,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,134,1,1,20140502,1,BKN,TOR
+Shot Chart Detail,41300126,382,2422,John Salmons,1610612761,Toronto Raptors,4,9,37,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140502,1,BKN,TOR
+Shot Chart Detail,41300127,122,2422,John Salmons,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20140504,0,TOR,BKN
+Shot Chart Detail,41300127,156,2422,John Salmons,1610612761,Toronto Raptors,2,8,32,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,0,20140504,0,TOR,BKN
+Shot Chart Detail,41300127,188,2422,John Salmons,1610612761,Toronto Raptors,2,6,2,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,1,20140504,1,TOR,BKN

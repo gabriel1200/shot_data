@@ -1,15 +1,15 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021100644,70,202536,Jerry Smith,1610612751,New Jersey Nets,1,4,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-207,197,1,1,20120316,ORL,NJN
-Shot Chart Detail,0021100644,122,202536,Jerry Smith,1610612751,New Jersey Nets,2,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,0,20120316,ORL,NJN
-Shot Chart Detail,0021100644,126,202536,Jerry Smith,1610612751,New Jersey Nets,2,10,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,4,285,1,0,20120316,ORL,NJN
-Shot Chart Detail,0021100644,199,202536,Jerry Smith,1610612751,New Jersey Nets,2,2,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-5,148,1,1,20120316,ORL,NJN
-Shot Chart Detail,0021100644,201,202536,Jerry Smith,1610612751,New Jersey Nets,2,2,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-11,271,1,0,20120316,ORL,NJN
-Shot Chart Detail,0021100644,220,202536,Jerry Smith,1610612751,New Jersey Nets,2,0,31,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,33,1,0,20120316,ORL,NJN
-Shot Chart Detail,0021100644,308,202536,Jerry Smith,1610612751,New Jersey Nets,3,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,-2,1,0,20120316,ORL,NJN
-Shot Chart Detail,0021100657,82,202536,Jerry Smith,1610612751,New Jersey Nets,1,2,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,129,1,1,20120317,NJN,NOH
-Shot Chart Detail,0021100657,108,202536,Jerry Smith,1610612751,New Jersey Nets,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,2,213,1,0,20120317,NJN,NOH
-Shot Chart Detail,0021100657,335,202536,Jerry Smith,1610612751,New Jersey Nets,4,11,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,0,250,1,0,20120317,NJN,NOH
-Shot Chart Detail,0021100657,360,202536,Jerry Smith,1610612751,New Jersey Nets,4,9,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20120317,NJN,NOH
-Shot Chart Detail,0021100671,115,202536,Jerry Smith,1610612751,New Jersey Nets,1,2,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,222,1,0,20120319,NJN,CLE
-Shot Chart Detail,0021100686,517,202536,Jerry Smith,1610612751,New Jersey Nets,4,4,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,47,1,0,20120321,NJN,WAS
-Shot Chart Detail,0021100686,529,202536,Jerry Smith,1610612751,New Jersey Nets,4,2,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-14,1,0,20120321,NJN,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21100644,70,202536,Jerry Smith,1610612751,New Jersey Nets,1,4,27,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-207,197,1,1,20120316,0,ORL,NJN
+Shot Chart Detail,21100644,122,202536,Jerry Smith,1610612751,New Jersey Nets,2,11,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,0,20120316,0,ORL,NJN
+Shot Chart Detail,21100644,126,202536,Jerry Smith,1610612751,New Jersey Nets,2,10,53,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,4,285,1,0,20120316,0,ORL,NJN
+Shot Chart Detail,21100644,199,202536,Jerry Smith,1610612751,New Jersey Nets,2,2,57,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-5,148,1,1,20120316,0,ORL,NJN
+Shot Chart Detail,21100644,201,202536,Jerry Smith,1610612751,New Jersey Nets,2,2,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-11,271,1,0,20120316,0,ORL,NJN
+Shot Chart Detail,21100644,220,202536,Jerry Smith,1610612751,New Jersey Nets,2,0,31,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-7,33,1,0,20120316,0,ORL,NJN
+Shot Chart Detail,21100644,308,202536,Jerry Smith,1610612751,New Jersey Nets,3,2,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,135,-2,1,0,20120316,0,ORL,NJN
+Shot Chart Detail,21100657,82,202536,Jerry Smith,1610612751,New Jersey Nets,1,2,48,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-125,129,1,1,20120317,0,NJN,NOH
+Shot Chart Detail,21100657,108,202536,Jerry Smith,1610612751,New Jersey Nets,1,0,16,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,2,213,1,0,20120317,0,NJN,NOH
+Shot Chart Detail,21100657,335,202536,Jerry Smith,1610612751,New Jersey Nets,4,11,49,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,0,250,1,0,20120317,0,NJN,NOH
+Shot Chart Detail,21100657,360,202536,Jerry Smith,1610612751,New Jersey Nets,4,9,7,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,0,1,0,20120317,0,NJN,NOH
+Shot Chart Detail,21100671,115,202536,Jerry Smith,1610612751,New Jersey Nets,1,2,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,222,1,0,20120319,0,NJN,CLE
+Shot Chart Detail,21100686,517,202536,Jerry Smith,1610612751,New Jersey Nets,4,4,29,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,47,1,0,20120321,0,NJN,WAS
+Shot Chart Detail,21100686,529,202536,Jerry Smith,1610612751,New Jersey Nets,4,2,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,-14,1,0,20120321,0,NJN,WAS

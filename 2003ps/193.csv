@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040200111,339,193,Anthony Mason,1610612749,Milwaukee Bucks,4,10,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030419,NJN,MIL
-Shot Chart Detail,0040200112,296,193,Anthony Mason,1610612749,Milwaukee Bucks,3,2,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030422,NJN,MIL
-Shot Chart Detail,0040200113,186,193,Anthony Mason,1610612749,Milwaukee Bucks,2,3,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,41,1,0,20030424,MIL,NJN
-Shot Chart Detail,0040200113,284,193,Anthony Mason,1610612749,Milwaukee Bucks,3,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,-11,1,0,20030424,MIL,NJN
-Shot Chart Detail,0040200113,370,193,Anthony Mason,1610612749,Milwaukee Bucks,4,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030424,MIL,NJN
-Shot Chart Detail,0040200114,70,193,Anthony Mason,1610612749,Milwaukee Bucks,1,5,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-79,81,1,0,20030426,MIL,NJN
-Shot Chart Detail,0040200114,156,193,Anthony Mason,1610612749,Milwaukee Bucks,2,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,18,1,1,20030426,MIL,NJN
-Shot Chart Detail,0040200114,340,193,Anthony Mason,1610612749,Milwaukee Bucks,4,11,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,5,1,1,20030426,MIL,NJN
-Shot Chart Detail,0040200114,349,193,Anthony Mason,1610612749,Milwaukee Bucks,4,10,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-23,1,0,20030426,MIL,NJN
-Shot Chart Detail,0040200114,354,193,Anthony Mason,1610612749,Milwaukee Bucks,4,9,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030426,MIL,NJN
-Shot Chart Detail,0040200115,149,193,Anthony Mason,1610612749,Milwaukee Bucks,2,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-108,5,1,0,20030429,NJN,MIL
-Shot Chart Detail,0040200115,174,193,Anthony Mason,1610612749,Milwaukee Bucks,2,7,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,45,1,1,20030429,NJN,MIL
-Shot Chart Detail,0040200115,196,193,Anthony Mason,1610612749,Milwaukee Bucks,2,5,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,38,1,0,20030429,NJN,MIL
-Shot Chart Detail,0040200115,456,193,Anthony Mason,1610612749,Milwaukee Bucks,4,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,0,1,0,20030429,NJN,MIL
-Shot Chart Detail,0040200116,100,193,Anthony Mason,1610612749,Milwaukee Bucks,1,0,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,-21,1,1,20030501,MIL,NJN
-Shot Chart Detail,0040200116,254,193,Anthony Mason,1610612749,Milwaukee Bucks,3,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030501,MIL,NJN
-Shot Chart Detail,0040200116,261,193,Anthony Mason,1610612749,Milwaukee Bucks,3,8,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030501,MIL,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40200111,339,193,Anthony Mason,1610612749,Milwaukee Bucks,4,10,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030419,0,NJN,MIL
+Shot Chart Detail,40200112,296,193,Anthony Mason,1610612749,Milwaukee Bucks,3,2,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030422,1,NJN,MIL
+Shot Chart Detail,40200113,186,193,Anthony Mason,1610612749,Milwaukee Bucks,2,3,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-138,41,1,0,20030424,0,MIL,NJN
+Shot Chart Detail,40200113,284,193,Anthony Mason,1610612749,Milwaukee Bucks,3,6,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,146,-11,1,0,20030424,0,MIL,NJN
+Shot Chart Detail,40200113,370,193,Anthony Mason,1610612749,Milwaukee Bucks,4,9,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030424,1,MIL,NJN
+Shot Chart Detail,40200114,70,193,Anthony Mason,1610612749,Milwaukee Bucks,1,5,43,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-79,81,1,0,20030426,0,MIL,NJN
+Shot Chart Detail,40200114,156,193,Anthony Mason,1610612749,Milwaukee Bucks,2,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,18,1,1,20030426,0,MIL,NJN
+Shot Chart Detail,40200114,340,193,Anthony Mason,1610612749,Milwaukee Bucks,4,11,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,5,1,1,20030426,0,MIL,NJN
+Shot Chart Detail,40200114,349,193,Anthony Mason,1610612749,Milwaukee Bucks,4,10,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,-23,1,0,20030426,0,MIL,NJN
+Shot Chart Detail,40200114,354,193,Anthony Mason,1610612749,Milwaukee Bucks,4,9,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030426,0,MIL,NJN
+Shot Chart Detail,40200115,149,193,Anthony Mason,1610612749,Milwaukee Bucks,2,9,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-108,5,1,0,20030429,0,NJN,MIL
+Shot Chart Detail,40200115,174,193,Anthony Mason,1610612749,Milwaukee Bucks,2,7,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,45,1,1,20030429,0,NJN,MIL
+Shot Chart Detail,40200115,196,193,Anthony Mason,1610612749,Milwaukee Bucks,2,5,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,38,1,0,20030429,0,NJN,MIL
+Shot Chart Detail,40200115,456,193,Anthony Mason,1610612749,Milwaukee Bucks,4,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,0,1,0,20030429,0,NJN,MIL
+Shot Chart Detail,40200116,100,193,Anthony Mason,1610612749,Milwaukee Bucks,1,0,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-110,-21,1,1,20030501,1,MIL,NJN
+Shot Chart Detail,40200116,254,193,Anthony Mason,1610612749,Milwaukee Bucks,3,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030501,0,MIL,NJN
+Shot Chart Detail,40200116,261,193,Anthony Mason,1610612749,Milwaukee Bucks,3,8,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030501,0,MIL,NJN

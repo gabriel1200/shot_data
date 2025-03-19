@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020100121,433,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,11,1,0,20011116,PHI,ATL
-Shot Chart Detail,0020100863,446,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,0,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,26,1,0,20020306,PHI,CLE
-Shot Chart Detail,0020100875,364,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,0,1,0,20020308,PHI,IND
-Shot Chart Detail,0020100886,416,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020309,ATL,PHI
-Shot Chart Detail,0020100886,428,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-2,1,0,20020309,ATL,PHI
-Shot Chart Detail,0020100886,430,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020309,ATL,PHI
-Shot Chart Detail,0020100908,310,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,3,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020312,NYK,PHI
-Shot Chart Detail,0020100967,52,2264,Alvin Jones,1610612755,Philadelphia 76ers,1,5,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020320,PHI,MIA
-Shot Chart Detail,0020101028,376,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,10,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,0,1,0,20020328,CHI,PHI
-Shot Chart Detail,0020101028,436,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,5,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,7,1,1,20020328,CHI,PHI
-Shot Chart Detail,0020101099,123,2264,Alvin Jones,1610612755,Philadelphia 76ers,2,8,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020407,PHI,MIL
-Shot Chart Detail,0020101099,292,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-98,63,1,0,20020407,PHI,MIL
-Shot Chart Detail,0020101124,343,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,0,20020410,WAS,PHI
-Shot Chart Detail,0020101162,190,2264,Alvin Jones,1610612755,Philadelphia 76ers,2,4,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020415,PHI,CHI
-Shot Chart Detail,0020101162,256,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,10,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020415,PHI,CHI
-Shot Chart Detail,0020101162,276,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020415,PHI,CHI
-Shot Chart Detail,0020101162,368,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,0,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020415,PHI,CHI
-Shot Chart Detail,0020101182,109,2264,Alvin Jones,1610612755,Philadelphia 76ers,2,9,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20020417,IND,PHI
-Shot Chart Detail,0020101182,330,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,11,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,0,20020417,IND,PHI
-Shot Chart Detail,0020101182,373,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-33,177,1,1,20020417,IND,PHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20100121,433,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,2,44,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-109,11,1,0,20011116,0,PHI,ATL
+Shot Chart Detail,20100863,446,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,0,56,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,26,1,0,20020306,0,PHI,CLE
+Shot Chart Detail,20100875,364,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,1,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,0,1,0,20020308,0,PHI,IND
+Shot Chart Detail,20100886,416,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,2,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020309,0,ATL,PHI
+Shot Chart Detail,20100886,428,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,0,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-101,-2,1,0,20020309,0,ATL,PHI
+Shot Chart Detail,20100886,430,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,0,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020309,0,ATL,PHI
+Shot Chart Detail,20100908,310,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,3,9,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020312,0,NYK,PHI
+Shot Chart Detail,20100967,52,2264,Alvin Jones,1610612755,Philadelphia 76ers,1,5,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020320,1,PHI,MIA
+Shot Chart Detail,20101028,376,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,10,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-143,0,1,0,20020328,0,CHI,PHI
+Shot Chart Detail,20101028,436,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,5,2,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,7,1,1,20020328,1,CHI,PHI
+Shot Chart Detail,20101099,123,2264,Alvin Jones,1610612755,Philadelphia 76ers,2,8,22,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020407,0,PHI,MIL
+Shot Chart Detail,20101099,292,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,2,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-98,63,1,0,20020407,0,PHI,MIL
+Shot Chart Detail,20101124,343,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,0,20020410,0,WAS,PHI
+Shot Chart Detail,20101162,190,2264,Alvin Jones,1610612755,Philadelphia 76ers,2,4,34,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020415,1,PHI,CHI
+Shot Chart Detail,20101162,256,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,10,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020415,0,PHI,CHI
+Shot Chart Detail,20101162,276,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,9,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020415,0,PHI,CHI
+Shot Chart Detail,20101162,368,2264,Alvin Jones,1610612755,Philadelphia 76ers,3,0,1,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020415,0,PHI,CHI
+Shot Chart Detail,20101182,109,2264,Alvin Jones,1610612755,Philadelphia 76ers,2,9,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20020417,0,IND,PHI
+Shot Chart Detail,20101182,330,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,11,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,0,20020417,0,IND,PHI
+Shot Chart Detail,20101182,373,2264,Alvin Jones,1610612755,Philadelphia 76ers,4,7,11,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-33,177,1,1,20020417,1,IND,PHI

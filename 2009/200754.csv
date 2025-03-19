@@ -1,19 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020800134,476,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,5,24,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,113,1,1,20081115,PHI,OKC
-Shot Chart Detail,0020800134,499,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,3,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,82,1,1,20081115,PHI,OKC
-Shot Chart Detail,0020800134,516,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081115,PHI,OKC
-Shot Chart Detail,0020800134,528,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,0,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,PHI,OKC
-Shot Chart Detail,0020800165,507,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,0,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,OKC,LAC
-Shot Chart Detail,0020800180,523,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,2,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,OKC,NOH
-Shot Chart Detail,0020800180,528,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,140,165,1,0,20081121,OKC,NOH
-Shot Chart Detail,0020801225,456,200754,Mouhamed Sene,1610612752,New York Knicks,4,3,9,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,31,1,1,20090415,NYK,NJN
-Shot Chart Detail,0020801225,461,200754,Mouhamed Sene,1610612752,New York Knicks,4,2,49,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,NYK,NJN
-Shot Chart Detail,0020800134,476,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,5,24,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,113,1,1,20081115,PHI,OKC
-Shot Chart Detail,0020800134,499,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,3,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,82,1,1,20081115,PHI,OKC
-Shot Chart Detail,0020800134,516,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081115,PHI,OKC
-Shot Chart Detail,0020800134,528,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,0,28,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,PHI,OKC
-Shot Chart Detail,0020800165,507,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,0,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,OKC,LAC
-Shot Chart Detail,0020800180,523,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,2,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,OKC,NOH
-Shot Chart Detail,0020800180,528,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,140,165,1,0,20081121,OKC,NOH
-Shot Chart Detail,0020801225,456,200754,Mouhamed Sene,1610612752,New York Knicks,4,3,9,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,31,1,1,20090415,NYK,NJN
-Shot Chart Detail,0020801225,461,200754,Mouhamed Sene,1610612752,New York Knicks,4,2,49,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,NYK,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20800134,476,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,5,24,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,113,1,1,20081115,1,PHI,OKC
+Shot Chart Detail,20800134,499,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,3,12,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,82,1,1,20081115,0,PHI,OKC
+Shot Chart Detail,20800134,516,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,1,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081115,0,PHI,OKC
+Shot Chart Detail,20800134,528,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,0,28,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081115,1,PHI,OKC
+Shot Chart Detail,20800165,507,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,0,9,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081119,1,OKC,LAC
+Shot Chart Detail,20800180,523,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,2,5,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081121,0,OKC,NOH
+Shot Chart Detail,20800180,528,200754,Mouhamed Sene,1610612760,Oklahoma City Thunder,4,1,19,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,140,165,1,0,20081121,0,OKC,NOH
+Shot Chart Detail,20801225,456,200754,Mouhamed Sene,1610612752,New York Knicks,4,3,9,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,31,1,1,20090415,0,NYK,NJN
+Shot Chart Detail,20801225,461,200754,Mouhamed Sene,1610612752,New York Knicks,4,2,49,Missed Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,NYK,NJN

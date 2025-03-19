@@ -1,19 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0022100543,651,1629730,Rayjon Tucker,1610612743,Denver Nuggets,4,4,5,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,258,1,1,20220101,HOU,DEN
-Shot Chart Detail,0022100575,390,1629730,Rayjon Tucker,1610612743,Denver Nuggets,3,5,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,258,1,0,20220105,DEN,UTA
-Shot Chart Detail,0022101218,114,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,1,3,36,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,99,174,1,0,20220410,CLE,MIL
-Shot Chart Detail,0022101218,176,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,192,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,235,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,332,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,22,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,345,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,0,20220410,CLE,MIL
-Shot Chart Detail,0022101218,506,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,3,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,163,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,683,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,4,0,58,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022100543,651,1629730,Rayjon Tucker,1610612743,Denver Nuggets,4,4,5,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,258,1,1,20220101,HOU,DEN
-Shot Chart Detail,0022100575,390,1629730,Rayjon Tucker,1610612743,Denver Nuggets,3,5,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,258,1,0,20220105,DEN,UTA
-Shot Chart Detail,0022101218,114,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,1,3,36,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,99,174,1,0,20220410,CLE,MIL
-Shot Chart Detail,0022101218,176,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,11,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,192,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,235,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,332,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,22,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,345,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,0,20220410,CLE,MIL
-Shot Chart Detail,0022101218,506,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,3,1,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,163,1,1,20220410,CLE,MIL
-Shot Chart Detail,0022101218,683,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,4,0,58,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220410,CLE,MIL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22101218,114,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,1,3,36,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,99,174,1,0,20220410,0,CLE,MIL
+Shot Chart Detail,22101218,176,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,11,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20220410,0,CLE,MIL
+Shot Chart Detail,22101218,192,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,10,21,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,235,1,1,20220410,1,CLE,MIL
+Shot Chart Detail,22101218,332,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,1,45,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,22,1,1,20220410,1,CLE,MIL
+Shot Chart Detail,22101218,345,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,2,1,11,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-6,158,1,0,20220410,0,CLE,MIL
+Shot Chart Detail,22101218,506,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,3,1,25,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,163,1,1,20220410,0,CLE,MIL
+Shot Chart Detail,22101218,683,1629730,Rayjon Tucker,1610612749,Milwaukee Bucks,4,0,58,Made Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20220410,0,CLE,MIL
+Shot Chart Detail,22100543,651,1629730,Rayjon Tucker,1610612743,Denver Nuggets,4,4,5,Made Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-4,258,1,1,20220101,0,HOU,DEN
+Shot Chart Detail,22100575,390,1629730,Rayjon Tucker,1610612743,Denver Nuggets,3,5,12,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,2,258,1,0,20220105,0,DEN,UTA

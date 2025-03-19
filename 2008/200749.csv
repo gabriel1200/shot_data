@@ -1,425 +1,213 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020700019,142,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,144,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,172,200749,Shelden Williams,1610612737,Atlanta Hawks,2,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,183,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,357,200749,Shelden Williams,1610612737,Atlanta Hawks,3,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,74,153,1,1,20071102,ATL,DAL
-Shot Chart Detail,0020700019,416,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,117,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,419,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071102,ATL,DAL
-Shot Chart Detail,0020700039,119,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,7,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071104,DET,ATL
-Shot Chart Detail,0020700039,335,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071104,DET,ATL
-Shot Chart Detail,0020700045,351,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,179,1,0,20071106,NJN,ATL
-Shot Chart Detail,0020700045,365,200749,Shelden Williams,1610612737,Atlanta Hawks,4,11,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071106,NJN,ATL
-Shot Chart Detail,0020700056,122,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071107,ATL,PHX
-Shot Chart Detail,0020700056,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071107,ATL,PHX
-Shot Chart Detail,0020700123,77,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,163,1,0,20071116,ATL,SEA
-Shot Chart Detail,0020700123,192,200749,Shelden Williams,1610612737,Atlanta Hawks,2,5,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,85,66,1,0,20071116,ATL,SEA
-Shot Chart Detail,0020700123,222,200749,Shelden Williams,1610612737,Atlanta Hawks,2,3,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071116,ATL,SEA
-Shot Chart Detail,0020700136,340,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,36,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071117,MIL,ATL
-Shot Chart Detail,0020700150,107,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,61,1,1,20071120,ATL,SAS
-Shot Chart Detail,0020700159,144,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071121,MIA,ATL
-Shot Chart Detail,0020700188,71,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,1,20071124,MIN,ATL
-Shot Chart Detail,0020700188,83,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071124,MIN,ATL
-Shot Chart Detail,0020700188,178,200749,Shelden Williams,1610612737,Atlanta Hawks,2,2,30,Missed Shot,Tip Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,0,20071124,MIN,ATL
-Shot Chart Detail,0020700208,126,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071127,CHI,ATL
-Shot Chart Detail,0020700213,98,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,64,1,1,20071128,ATL,MIL
-Shot Chart Detail,0020700213,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071128,ATL,MIL
-Shot Chart Detail,0020700213,143,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071128,ATL,MIL
-Shot Chart Detail,0020700251,58,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-9,1,1,20071203,PHI,ATL
-Shot Chart Detail,0020700251,347,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,64,1,1,20071203,PHI,ATL
-Shot Chart Detail,0020700256,92,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,127,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,95,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,46,1,1,20071204,ATL,DET
-Shot Chart Detail,0020700256,308,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,310,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,318,200749,Shelden Williams,1610612737,Atlanta Hawks,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,186,49,1,1,20071204,ATL,DET
-Shot Chart Detail,0020700256,341,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,19,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,362,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,199,81,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,428,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,77,166,1,1,20071204,ATL,DET
-Shot Chart Detail,0020700273,124,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,26,1,1,20071206,ATL,MIN
-Shot Chart Detail,0020700273,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,144,71,1,0,20071206,ATL,MIN
-Shot Chart Detail,0020700273,290,200749,Shelden Williams,1610612737,Atlanta Hawks,3,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,31,1,0,20071206,ATL,MIN
-Shot Chart Detail,0020700288,120,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,174,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,123,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,135,200749,Shelden Williams,1610612737,Atlanta Hawks,2,7,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,20071208,ATL,MEM
-Shot Chart Detail,0020700288,346,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,40,-174,368,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,351,200749,Shelden Williams,1610612737,Atlanta Hawks,4,11,47,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071208,ATL,MEM
-Shot Chart Detail,0020700288,366,200749,Shelden Williams,1610612737,Atlanta Hawks,4,9,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,404,200749,Shelden Williams,1610612737,Atlanta Hawks,4,6,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,406,200749,Shelden Williams,1610612737,Atlanta Hawks,4,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,421,200749,Shelden Williams,1610612737,Atlanta Hawks,4,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,38,171,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700302,112,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,129,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,31,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,143,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,38,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,151,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,168,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,182,200749,Shelden Williams,1610612737,Atlanta Hawks,2,5,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700307,101,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2,192,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700307,134,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700307,161,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071211,ATL,TOR
-Shot Chart Detail,0020700307,326,200749,Shelden Williams,1610612737,Atlanta Hawks,3,4,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071211,ATL,TOR
-Shot Chart Detail,0020700307,328,200749,Shelden Williams,1610612737,Atlanta Hawks,3,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,176,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700307,358,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700332,224,200749,Shelden Williams,1610612737,Atlanta Hawks,2,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071214,DET,ATL
-Shot Chart Detail,0020700367,109,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071219,ATL,MIA
-Shot Chart Detail,0020700367,140,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,64,1,1,20071219,ATL,MIA
-Shot Chart Detail,0020700367,234,200749,Shelden Williams,1610612737,Atlanta Hawks,2,1,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071219,ATL,MIA
-Shot Chart Detail,0020700367,329,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071219,ATL,MIA
-Shot Chart Detail,0020700410,68,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071226,ATL,IND
-Shot Chart Detail,0020700410,73,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,44,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700410,112,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,41,1,1,20071226,ATL,IND
-Shot Chart Detail,0020700410,313,200749,Shelden Williams,1610612737,Atlanta Hawks,3,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,61,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700410,330,200749,Shelden Williams,1610612737,Atlanta Hawks,3,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,25,1,1,20071226,ATL,IND
-Shot Chart Detail,0020700410,433,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700410,438,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,53,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700434,308,200749,Shelden Williams,1610612737,Atlanta Hawks,3,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,68,1,1,20071229,DAL,ATL
-Shot Chart Detail,0020700434,332,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,107,151,1,1,20071229,DAL,ATL
-Shot Chart Detail,0020700434,374,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071229,DAL,ATL
-Shot Chart Detail,0020700460,121,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,18,1,0,20080102,CLE,ATL
-Shot Chart Detail,0020700460,145,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,37,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,92,1,0,20080102,CLE,ATL
-Shot Chart Detail,0020700460,151,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,40,1,0,20080102,CLE,ATL
-Shot Chart Detail,0020700474,73,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,8,150,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700474,208,200749,Shelden Williams,1610612737,Atlanta Hawks,2,4,49,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,41,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700474,407,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,10,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,40,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700474,465,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,33,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700484,133,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,37,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700484,150,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,16,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700484,218,200749,Shelden Williams,1610612737,Atlanta Hawks,2,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,100,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700484,277,200749,Shelden Williams,1610612737,Atlanta Hawks,3,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700619,79,200749,Shelden Williams,1610612737,Atlanta Hawks,1,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-44,215,1,0,20080123,DEN,ATL
-Shot Chart Detail,0020700619,100,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,43,1,0,20080123,DEN,ATL
-Shot Chart Detail,0020700637,422,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,23,1,0,20080125,SEA,ATL
-Shot Chart Detail,0020700662,435,200749,Shelden Williams,1610612737,Atlanta Hawks,4,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,8,1,1,20080129,PHX,ATL
-Shot Chart Detail,0020700662,468,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,159,110,1,0,20080129,PHX,ATL
-Shot Chart Detail,0020700662,477,200749,Shelden Williams,1610612737,Atlanta Hawks,4,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,28,1,0,20080129,PHX,ATL
-Shot Chart Detail,0020700662,491,200749,Shelden Williams,1610612737,Atlanta Hawks,4,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080129,PHX,ATL
-Shot Chart Detail,0020700662,492,200749,Shelden Williams,1610612737,Atlanta Hawks,4,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080129,PHX,ATL
-Shot Chart Detail,0020700741,391,200749,Shelden Williams,1610612737,Atlanta Hawks,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,155,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,412,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,158,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,414,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,425,200749,Shelden Williams,1610612737,Atlanta Hawks,4,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-20,191,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,445,200749,Shelden Williams,1610612737,Atlanta Hawks,4,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080209,HOU,ATL
-Shot Chart Detail,0020700766,116,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,12,1,0,20080213,CHA,ATL
-Shot Chart Detail,0020700766,128,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080213,CHA,ATL
-Shot Chart Detail,0020700787,186,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,53,1,1,20080219,POR,SAC
-Shot Chart Detail,0020700787,190,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080219,POR,SAC
-Shot Chart Detail,0020700787,313,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,46,1,0,20080219,POR,SAC
-Shot Chart Detail,0020700797,126,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,5,1,0,20080220,SAC,ATL
-Shot Chart Detail,0020700797,374,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,SAC,ATL
-Shot Chart Detail,0020700797,386,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,0,20080220,SAC,ATL
-Shot Chart Detail,0020700797,388,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,SAC,ATL
-Shot Chart Detail,0020700797,509,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,SAC,ATL
-Shot Chart Detail,0020700803,117,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080222,CHA,SAC
-Shot Chart Detail,0020700803,123,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,33,1,1,20080222,CHA,SAC
-Shot Chart Detail,0020700803,152,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080222,CHA,SAC
-Shot Chart Detail,0020700825,205,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,158,1,0,20080224,ORL,SAC
-Shot Chart Detail,0020700825,217,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,160,1,0,20080224,ORL,SAC
-Shot Chart Detail,0020700825,440,200749,Shelden Williams,1610612758,Sacramento Kings,4,4,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080224,ORL,SAC
-Shot Chart Detail,0020700825,485,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,187,164,1,0,20080224,ORL,SAC
-Shot Chart Detail,0020700838,385,200749,Shelden Williams,1610612758,Sacramento Kings,4,8,59,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,59,1,0,20080226,MIA,SAC
-Shot Chart Detail,0020700838,420,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,MIA,SAC
-Shot Chart Detail,0020700838,459,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,MIA,SAC
-Shot Chart Detail,0020700838,469,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,MIA,SAC
-Shot Chart Detail,0020700895,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,10,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,66,1,1,20080304,SAC,LAL
-Shot Chart Detail,0020700908,99,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,7,1,0,20080305,LAC,SAC
-Shot Chart Detail,0020700908,137,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,LAC,SAC
-Shot Chart Detail,0020700908,161,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080305,LAC,SAC
-Shot Chart Detail,0020700908,163,200749,Shelden Williams,1610612758,Sacramento Kings,2,4,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,7,1,0,20080305,LAC,SAC
-Shot Chart Detail,0020700908,179,200749,Shelden Williams,1610612758,Sacramento Kings,2,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,LAC,SAC
-Shot Chart Detail,0020700921,165,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-66,204,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700921,172,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,58,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700921,354,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080307,SAC,MIN
-Shot Chart Detail,0020700921,389,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,34,Missed Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,28,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700921,475,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,22,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700964,136,200749,Shelden Williams,1610612758,Sacramento Kings,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,36,1,0,20080313,SAC,POR
-Shot Chart Detail,0020700964,483,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-100,174,1,0,20080313,SAC,POR
-Shot Chart Detail,0020700981,240,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-3,214,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,380,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,38,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,391,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,422,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,63,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,453,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,174,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,457,200749,Shelden Williams,1610612758,Sacramento Kings,4,4,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,483,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,486,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,35,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,494,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,46,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,514,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700990,384,200749,Shelden Williams,1610612758,Sacramento Kings,4,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080316,SAC,TOR
-Shot Chart Detail,0020701004,141,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080318,SAC,GSW
-Shot Chart Detail,0020701004,154,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,16,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,45,1,0,20080318,SAC,GSW
-Shot Chart Detail,0020701025,421,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,132,1,0,20080321,SAS,SAC
-Shot Chart Detail,0020701025,441,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20080321,SAS,SAC
-Shot Chart Detail,0020701025,452,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20080321,SAS,SAC
-Shot Chart Detail,0020701032,121,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,22,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,56,1,1,20080322,MEM,SAC
-Shot Chart Detail,0020701032,401,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080322,MEM,SAC
-Shot Chart Detail,0020701081,75,200749,Shelden Williams,1610612758,Sacramento Kings,1,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080328,SAC,WAS
-Shot Chart Detail,0020701081,83,200749,Shelden Williams,1610612758,Sacramento Kings,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,15,1,0,20080328,SAC,WAS
-Shot Chart Detail,0020701081,400,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,17,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,58,1,1,20080328,SAC,WAS
-Shot Chart Detail,0020701097,488,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,94,1,0,20080330,SEA,SAC
-Shot Chart Detail,0020701112,90,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080401,SAC,HOU
-Shot Chart Detail,0020701112,219,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,1,20080401,SAC,HOU
-Shot Chart Detail,0020701124,172,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080403,SAC,LAC
-Shot Chart Detail,0020701124,201,200749,Shelden Williams,1610612758,Sacramento Kings,2,6,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080403,SAC,LAC
-Shot Chart Detail,0020701124,442,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080403,SAC,LAC
-Shot Chart Detail,0020701124,472,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,59,1,0,20080403,SAC,LAC
-Shot Chart Detail,0020701142,38,200749,Shelden Williams,1610612758,Sacramento Kings,1,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-29,217,1,0,20080405,DEN,SAC
-Shot Chart Detail,0020701142,66,200749,Shelden Williams,1610612758,Sacramento Kings,1,4,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080405,DEN,SAC
-Shot Chart Detail,0020701142,125,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-77,169,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701142,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701142,257,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,58,1,0,20080405,DEN,SAC
-Shot Chart Detail,0020701142,368,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,5,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701142,410,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,158,68,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701150,152,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,13,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,238,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,55,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,48,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,372,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,373,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,55,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,409,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,418,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,20,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,425,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,8,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,433,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,445,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,448,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,46,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701163,99,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,28,1,1,20080408,GSW,SAC
-Shot Chart Detail,0020701163,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,139,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,33,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,145,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,1,20080408,GSW,SAC
-Shot Chart Detail,0020701163,230,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,242,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,15,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,390,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,46,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,393,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,1,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20080408,GSW,SAC
-Shot Chart Detail,0020701163,416,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,25,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701186,102,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,5,1,1,20080411,SAC,POR
-Shot Chart Detail,0020701186,126,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080411,SAC,POR
-Shot Chart Detail,0020701186,446,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,17,1,0,20080411,SAC,POR
-Shot Chart Detail,0020701194,149,200749,Shelden Williams,1610612758,Sacramento Kings,2,7,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,13,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701194,167,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,33,1,0,20080412,SAC,NOH
-Shot Chart Detail,0020701194,225,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,117,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701194,229,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701194,330,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,23,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,43,1,0,20080412,SAC,NOH
-Shot Chart Detail,0020701194,331,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,22,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701210,330,200749,Shelden Williams,1610612758,Sacramento Kings,3,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080414,SAC,SAS
-Shot Chart Detail,0020701210,352,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,71,1,1,20080414,SAC,SAS
-Shot Chart Detail,0020701210,367,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080414,SAC,SAS
-Shot Chart Detail,0020701210,419,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,15,1,0,20080414,SAC,SAS
-Shot Chart Detail,0020701216,60,200749,Shelden Williams,1610612758,Sacramento Kings,1,5,41,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,28,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,62,200749,Shelden Williams,1610612758,Sacramento Kings,1,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,111,200749,Shelden Williams,1610612758,Sacramento Kings,1,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,113,200749,Shelden Williams,1610612758,Sacramento Kings,1,2,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,118,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,36,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,35,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,129,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,10,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,222,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,270,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,20,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,323,200749,Shelden Williams,1610612758,Sacramento Kings,3,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,377,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,427,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,441,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,498,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020700019,142,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,144,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,172,200749,Shelden Williams,1610612737,Atlanta Hawks,2,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,183,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,357,200749,Shelden Williams,1610612737,Atlanta Hawks,3,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,74,153,1,1,20071102,ATL,DAL
-Shot Chart Detail,0020700019,416,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,117,1,0,20071102,ATL,DAL
-Shot Chart Detail,0020700019,419,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071102,ATL,DAL
-Shot Chart Detail,0020700039,119,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,7,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071104,DET,ATL
-Shot Chart Detail,0020700039,335,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071104,DET,ATL
-Shot Chart Detail,0020700045,351,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,28,179,1,0,20071106,NJN,ATL
-Shot Chart Detail,0020700045,365,200749,Shelden Williams,1610612737,Atlanta Hawks,4,11,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071106,NJN,ATL
-Shot Chart Detail,0020700056,122,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071107,ATL,PHX
-Shot Chart Detail,0020700056,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071107,ATL,PHX
-Shot Chart Detail,0020700123,77,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,163,1,0,20071116,ATL,SEA
-Shot Chart Detail,0020700123,192,200749,Shelden Williams,1610612737,Atlanta Hawks,2,5,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,85,66,1,0,20071116,ATL,SEA
-Shot Chart Detail,0020700123,222,200749,Shelden Williams,1610612737,Atlanta Hawks,2,3,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071116,ATL,SEA
-Shot Chart Detail,0020700136,340,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,36,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071117,MIL,ATL
-Shot Chart Detail,0020700150,107,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,61,1,1,20071120,ATL,SAS
-Shot Chart Detail,0020700159,144,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071121,MIA,ATL
-Shot Chart Detail,0020700188,71,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,1,20071124,MIN,ATL
-Shot Chart Detail,0020700188,83,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071124,MIN,ATL
-Shot Chart Detail,0020700188,178,200749,Shelden Williams,1610612737,Atlanta Hawks,2,2,30,Missed Shot,Tip Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,0,20071124,MIN,ATL
-Shot Chart Detail,0020700208,126,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071127,CHI,ATL
-Shot Chart Detail,0020700213,98,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,64,1,1,20071128,ATL,MIL
-Shot Chart Detail,0020700213,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071128,ATL,MIL
-Shot Chart Detail,0020700213,143,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071128,ATL,MIL
-Shot Chart Detail,0020700251,58,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,18,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-9,1,1,20071203,PHI,ATL
-Shot Chart Detail,0020700251,347,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,159,64,1,1,20071203,PHI,ATL
-Shot Chart Detail,0020700256,92,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,127,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,95,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,46,1,1,20071204,ATL,DET
-Shot Chart Detail,0020700256,308,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,310,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,318,200749,Shelden Williams,1610612737,Atlanta Hawks,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,186,49,1,1,20071204,ATL,DET
-Shot Chart Detail,0020700256,341,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,19,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,362,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,199,81,1,0,20071204,ATL,DET
-Shot Chart Detail,0020700256,428,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,77,166,1,1,20071204,ATL,DET
-Shot Chart Detail,0020700273,124,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,26,1,1,20071206,ATL,MIN
-Shot Chart Detail,0020700273,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,144,71,1,0,20071206,ATL,MIN
-Shot Chart Detail,0020700273,290,200749,Shelden Williams,1610612737,Atlanta Hawks,3,5,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,31,1,0,20071206,ATL,MIN
-Shot Chart Detail,0020700288,120,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,174,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,123,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,135,200749,Shelden Williams,1610612737,Atlanta Hawks,2,7,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,20071208,ATL,MEM
-Shot Chart Detail,0020700288,346,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,40,-174,368,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,351,200749,Shelden Williams,1610612737,Atlanta Hawks,4,11,47,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071208,ATL,MEM
-Shot Chart Detail,0020700288,366,200749,Shelden Williams,1610612737,Atlanta Hawks,4,9,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,404,200749,Shelden Williams,1610612737,Atlanta Hawks,4,6,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,406,200749,Shelden Williams,1610612737,Atlanta Hawks,4,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700288,421,200749,Shelden Williams,1610612737,Atlanta Hawks,4,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,38,171,1,0,20071208,ATL,MEM
-Shot Chart Detail,0020700302,112,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,129,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,31,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,143,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,38,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,151,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,168,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700302,182,200749,Shelden Williams,1610612737,Atlanta Hawks,2,5,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,ORL,ATL
-Shot Chart Detail,0020700307,101,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-2,192,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700307,134,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700307,161,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071211,ATL,TOR
-Shot Chart Detail,0020700307,326,200749,Shelden Williams,1610612737,Atlanta Hawks,3,4,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071211,ATL,TOR
-Shot Chart Detail,0020700307,328,200749,Shelden Williams,1610612737,Atlanta Hawks,3,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,176,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700307,358,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071211,ATL,TOR
-Shot Chart Detail,0020700332,224,200749,Shelden Williams,1610612737,Atlanta Hawks,2,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071214,DET,ATL
-Shot Chart Detail,0020700367,109,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071219,ATL,MIA
-Shot Chart Detail,0020700367,140,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,64,1,1,20071219,ATL,MIA
-Shot Chart Detail,0020700367,234,200749,Shelden Williams,1610612737,Atlanta Hawks,2,1,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071219,ATL,MIA
-Shot Chart Detail,0020700367,329,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071219,ATL,MIA
-Shot Chart Detail,0020700410,68,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071226,ATL,IND
-Shot Chart Detail,0020700410,73,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,44,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700410,112,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,41,1,1,20071226,ATL,IND
-Shot Chart Detail,0020700410,313,200749,Shelden Williams,1610612737,Atlanta Hawks,3,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,61,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700410,330,200749,Shelden Williams,1610612737,Atlanta Hawks,3,6,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,25,1,1,20071226,ATL,IND
-Shot Chart Detail,0020700410,433,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700410,438,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,53,1,0,20071226,ATL,IND
-Shot Chart Detail,0020700434,308,200749,Shelden Williams,1610612737,Atlanta Hawks,3,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-163,68,1,1,20071229,DAL,ATL
-Shot Chart Detail,0020700434,332,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,107,151,1,1,20071229,DAL,ATL
-Shot Chart Detail,0020700434,374,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071229,DAL,ATL
-Shot Chart Detail,0020700460,121,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,18,1,0,20080102,CLE,ATL
-Shot Chart Detail,0020700460,145,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,37,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,92,1,0,20080102,CLE,ATL
-Shot Chart Detail,0020700460,151,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,40,1,0,20080102,CLE,ATL
-Shot Chart Detail,0020700474,73,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,8,150,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700474,208,200749,Shelden Williams,1610612737,Atlanta Hawks,2,4,49,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,41,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700474,407,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,10,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,40,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700474,465,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,33,1,0,20080104,IND,ATL
-Shot Chart Detail,0020700484,133,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,37,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700484,150,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,16,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700484,218,200749,Shelden Williams,1610612737,Atlanta Hawks,2,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,100,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700484,277,200749,Shelden Williams,1610612737,Atlanta Hawks,3,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,ATL,NJN
-Shot Chart Detail,0020700619,79,200749,Shelden Williams,1610612737,Atlanta Hawks,1,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-44,215,1,0,20080123,DEN,ATL
-Shot Chart Detail,0020700619,100,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,43,1,0,20080123,DEN,ATL
-Shot Chart Detail,0020700637,422,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,23,1,0,20080125,SEA,ATL
-Shot Chart Detail,0020700662,435,200749,Shelden Williams,1610612737,Atlanta Hawks,4,4,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,8,1,1,20080129,PHX,ATL
-Shot Chart Detail,0020700662,468,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,159,110,1,0,20080129,PHX,ATL
-Shot Chart Detail,0020700662,477,200749,Shelden Williams,1610612737,Atlanta Hawks,4,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,28,1,0,20080129,PHX,ATL
-Shot Chart Detail,0020700662,491,200749,Shelden Williams,1610612737,Atlanta Hawks,4,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080129,PHX,ATL
-Shot Chart Detail,0020700662,492,200749,Shelden Williams,1610612737,Atlanta Hawks,4,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080129,PHX,ATL
-Shot Chart Detail,0020700741,391,200749,Shelden Williams,1610612737,Atlanta Hawks,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,155,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,412,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,158,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,414,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,425,200749,Shelden Williams,1610612737,Atlanta Hawks,4,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-20,191,1,0,20080209,HOU,ATL
-Shot Chart Detail,0020700741,445,200749,Shelden Williams,1610612737,Atlanta Hawks,4,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080209,HOU,ATL
-Shot Chart Detail,0020700766,116,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,12,1,0,20080213,CHA,ATL
-Shot Chart Detail,0020700766,128,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080213,CHA,ATL
-Shot Chart Detail,0020700787,186,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,174,53,1,1,20080219,POR,SAC
-Shot Chart Detail,0020700787,190,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080219,POR,SAC
-Shot Chart Detail,0020700787,313,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,46,1,0,20080219,POR,SAC
-Shot Chart Detail,0020700797,126,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,5,1,0,20080220,SAC,ATL
-Shot Chart Detail,0020700797,374,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,SAC,ATL
-Shot Chart Detail,0020700797,386,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,0,20080220,SAC,ATL
-Shot Chart Detail,0020700797,388,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,SAC,ATL
-Shot Chart Detail,0020700797,509,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,SAC,ATL
-Shot Chart Detail,0020700803,117,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080222,CHA,SAC
-Shot Chart Detail,0020700803,123,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,158,33,1,1,20080222,CHA,SAC
-Shot Chart Detail,0020700803,152,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080222,CHA,SAC
-Shot Chart Detail,0020700825,205,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,158,1,0,20080224,ORL,SAC
-Shot Chart Detail,0020700825,217,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,160,1,0,20080224,ORL,SAC
-Shot Chart Detail,0020700825,440,200749,Shelden Williams,1610612758,Sacramento Kings,4,4,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080224,ORL,SAC
-Shot Chart Detail,0020700825,485,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,187,164,1,0,20080224,ORL,SAC
-Shot Chart Detail,0020700838,385,200749,Shelden Williams,1610612758,Sacramento Kings,4,8,59,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,59,1,0,20080226,MIA,SAC
-Shot Chart Detail,0020700838,420,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,MIA,SAC
-Shot Chart Detail,0020700838,459,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,MIA,SAC
-Shot Chart Detail,0020700838,469,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,MIA,SAC
-Shot Chart Detail,0020700895,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,10,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,66,1,1,20080304,SAC,LAL
-Shot Chart Detail,0020700908,99,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,7,1,0,20080305,LAC,SAC
-Shot Chart Detail,0020700908,137,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,LAC,SAC
-Shot Chart Detail,0020700908,161,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080305,LAC,SAC
-Shot Chart Detail,0020700908,163,200749,Shelden Williams,1610612758,Sacramento Kings,2,4,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,7,1,0,20080305,LAC,SAC
-Shot Chart Detail,0020700908,179,200749,Shelden Williams,1610612758,Sacramento Kings,2,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,LAC,SAC
-Shot Chart Detail,0020700921,165,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-66,204,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700921,172,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,58,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700921,354,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080307,SAC,MIN
-Shot Chart Detail,0020700921,389,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,34,Missed Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,94,28,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700921,475,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,22,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080307,SAC,MIN
-Shot Chart Detail,0020700964,136,200749,Shelden Williams,1610612758,Sacramento Kings,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,36,1,0,20080313,SAC,POR
-Shot Chart Detail,0020700964,483,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-100,174,1,0,20080313,SAC,POR
-Shot Chart Detail,0020700981,240,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-3,214,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,380,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,38,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,391,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,422,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,138,63,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,453,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-5,174,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,457,200749,Shelden Williams,1610612758,Sacramento Kings,4,4,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,483,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,486,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,35,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20080315,PHX,SAC
-Shot Chart Detail,0020700981,494,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,46,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700981,514,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20080315,PHX,SAC
-Shot Chart Detail,0020700990,384,200749,Shelden Williams,1610612758,Sacramento Kings,4,8,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080316,SAC,TOR
-Shot Chart Detail,0020701004,141,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080318,SAC,GSW
-Shot Chart Detail,0020701004,154,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,16,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,45,1,0,20080318,SAC,GSW
-Shot Chart Detail,0020701025,421,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,132,1,0,20080321,SAS,SAC
-Shot Chart Detail,0020701025,441,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20080321,SAS,SAC
-Shot Chart Detail,0020701025,452,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20080321,SAS,SAC
-Shot Chart Detail,0020701032,121,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,22,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,56,1,1,20080322,MEM,SAC
-Shot Chart Detail,0020701032,401,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080322,MEM,SAC
-Shot Chart Detail,0020701081,75,200749,Shelden Williams,1610612758,Sacramento Kings,1,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080328,SAC,WAS
-Shot Chart Detail,0020701081,83,200749,Shelden Williams,1610612758,Sacramento Kings,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,15,1,0,20080328,SAC,WAS
-Shot Chart Detail,0020701081,400,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,17,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,58,1,1,20080328,SAC,WAS
-Shot Chart Detail,0020701097,488,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,174,94,1,0,20080330,SEA,SAC
-Shot Chart Detail,0020701112,90,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080401,SAC,HOU
-Shot Chart Detail,0020701112,219,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,1,20080401,SAC,HOU
-Shot Chart Detail,0020701124,172,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080403,SAC,LAC
-Shot Chart Detail,0020701124,201,200749,Shelden Williams,1610612758,Sacramento Kings,2,6,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080403,SAC,LAC
-Shot Chart Detail,0020701124,442,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080403,SAC,LAC
-Shot Chart Detail,0020701124,472,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,59,1,0,20080403,SAC,LAC
-Shot Chart Detail,0020701142,38,200749,Shelden Williams,1610612758,Sacramento Kings,1,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-29,217,1,0,20080405,DEN,SAC
-Shot Chart Detail,0020701142,66,200749,Shelden Williams,1610612758,Sacramento Kings,1,4,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080405,DEN,SAC
-Shot Chart Detail,0020701142,125,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-77,169,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701142,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701142,257,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,58,1,0,20080405,DEN,SAC
-Shot Chart Detail,0020701142,368,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,5,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701142,410,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,158,68,1,1,20080405,DEN,SAC
-Shot Chart Detail,0020701150,152,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,13,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,238,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,55,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,48,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,372,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,373,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,55,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,409,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,418,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,20,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,425,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,8,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,433,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,SAC,LAL
-Shot Chart Detail,0020701150,445,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701150,448,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,46,1,0,20080406,SAC,LAL
-Shot Chart Detail,0020701163,99,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,28,1,1,20080408,GSW,SAC
-Shot Chart Detail,0020701163,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,139,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,33,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,145,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,1,20080408,GSW,SAC
-Shot Chart Detail,0020701163,230,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,242,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,15,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,390,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,46,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701163,393,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,1,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20080408,GSW,SAC
-Shot Chart Detail,0020701163,416,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,25,1,0,20080408,GSW,SAC
-Shot Chart Detail,0020701186,102,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,5,1,1,20080411,SAC,POR
-Shot Chart Detail,0020701186,126,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080411,SAC,POR
-Shot Chart Detail,0020701186,446,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,17,1,0,20080411,SAC,POR
-Shot Chart Detail,0020701194,149,200749,Shelden Williams,1610612758,Sacramento Kings,2,7,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,13,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701194,167,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,33,1,0,20080412,SAC,NOH
-Shot Chart Detail,0020701194,225,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,117,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701194,229,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701194,330,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,23,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,43,1,0,20080412,SAC,NOH
-Shot Chart Detail,0020701194,331,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,22,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080412,SAC,NOH
-Shot Chart Detail,0020701210,330,200749,Shelden Williams,1610612758,Sacramento Kings,3,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080414,SAC,SAS
-Shot Chart Detail,0020701210,352,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,71,1,1,20080414,SAC,SAS
-Shot Chart Detail,0020701210,367,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080414,SAC,SAS
-Shot Chart Detail,0020701210,419,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,15,1,0,20080414,SAC,SAS
-Shot Chart Detail,0020701216,60,200749,Shelden Williams,1610612758,Sacramento Kings,1,5,41,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,28,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,62,200749,Shelden Williams,1610612758,Sacramento Kings,1,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,111,200749,Shelden Williams,1610612758,Sacramento Kings,1,2,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,113,200749,Shelden Williams,1610612758,Sacramento Kings,1,2,8,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,118,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,36,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,35,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,129,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,10,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,222,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,270,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,20,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,323,200749,Shelden Williams,1610612758,Sacramento Kings,3,6,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,377,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,427,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,LAL,SAC
-Shot Chart Detail,0020701216,441,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
-Shot Chart Detail,0020701216,498,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,LAL,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20700019,142,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071102,0,ATL,DAL
+Shot Chart Detail,20700019,144,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071102,0,ATL,DAL
+Shot Chart Detail,20700019,172,200749,Shelden Williams,1610612737,Atlanta Hawks,2,7,7,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-10,183,1,0,20071102,0,ATL,DAL
+Shot Chart Detail,20700019,357,200749,Shelden Williams,1610612737,Atlanta Hawks,3,1,31,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,74,153,1,1,20071102,1,ATL,DAL
+Shot Chart Detail,20700019,416,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,37,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,117,1,0,20071102,0,ATL,DAL
+Shot Chart Detail,20700019,419,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,9,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071102,1,ATL,DAL
+Shot Chart Detail,20700039,119,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,7,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071104,1,DET,ATL
+Shot Chart Detail,20700039,335,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071104,0,DET,ATL
+Shot Chart Detail,20700045,351,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,42,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,28,179,1,0,20071106,0,NJN,ATL
+Shot Chart Detail,20700045,365,200749,Shelden Williams,1610612737,Atlanta Hawks,4,11,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071106,0,NJN,ATL
+Shot Chart Detail,20700056,122,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071107,0,ATL,PHX
+Shot Chart Detail,20700056,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071107,0,ATL,PHX
+Shot Chart Detail,20700123,77,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,43,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,31,163,1,0,20071116,0,ATL,SEA
+Shot Chart Detail,20700123,192,200749,Shelden Williams,1610612737,Atlanta Hawks,2,5,38,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,85,66,1,0,20071116,0,ATL,SEA
+Shot Chart Detail,20700123,222,200749,Shelden Williams,1610612737,Atlanta Hawks,2,3,5,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071116,0,ATL,SEA
+Shot Chart Detail,20700136,340,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,36,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071117,0,MIL,ATL
+Shot Chart Detail,20700150,107,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,0,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,61,1,1,20071120,1,ATL,SAS
+Shot Chart Detail,20700159,144,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,46,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071121,0,MIA,ATL
+Shot Chart Detail,20700188,71,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,1,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,141,1,1,20071124,1,MIN,ATL
+Shot Chart Detail,20700188,83,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,1,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071124,0,MIN,ATL
+Shot Chart Detail,20700188,178,200749,Shelden Williams,1610612737,Atlanta Hawks,2,2,30,Missed Shot,Tip Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,46,1,0,20071124,0,MIN,ATL
+Shot Chart Detail,20700208,126,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071127,0,CHI,ATL
+Shot Chart Detail,20700213,98,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,26,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,64,1,1,20071128,0,ATL,MIL
+Shot Chart Detail,20700213,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071128,0,ATL,MIL
+Shot Chart Detail,20700213,143,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,27,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071128,1,ATL,MIL
+Shot Chart Detail,20700251,58,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,18,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,-9,1,1,20071203,0,PHI,ATL
+Shot Chart Detail,20700251,347,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,18,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,159,64,1,1,20071203,1,PHI,ATL
+Shot Chart Detail,20700256,92,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,12,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,151,127,1,0,20071204,0,ATL,DET
+Shot Chart Detail,20700256,95,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,51,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-6,46,1,1,20071204,1,ATL,DET
+Shot Chart Detail,20700256,308,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,0,20071204,0,ATL,DET
+Shot Chart Detail,20700256,310,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071204,0,ATL,DET
+Shot Chart Detail,20700256,318,200749,Shelden Williams,1610612737,Atlanta Hawks,3,1,42,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,186,49,1,1,20071204,1,ATL,DET
+Shot Chart Detail,20700256,341,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,19,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071204,0,ATL,DET
+Shot Chart Detail,20700256,362,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,52,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,199,81,1,0,20071204,0,ATL,DET
+Shot Chart Detail,20700256,428,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,27,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,77,166,1,1,20071204,1,ATL,DET
+Shot Chart Detail,20700273,124,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,4,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,144,26,1,1,20071206,1,ATL,MIN
+Shot Chart Detail,20700273,137,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,144,71,1,0,20071206,0,ATL,MIN
+Shot Chart Detail,20700273,290,200749,Shelden Williams,1610612737,Atlanta Hawks,3,5,56,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-168,31,1,0,20071206,0,ATL,MIN
+Shot Chart Detail,20700288,120,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,23,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,174,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700288,123,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,1,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700288,135,200749,Shelden Williams,1610612737,Atlanta Hawks,2,7,41,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,20071208,1,ATL,MEM
+Shot Chart Detail,20700288,346,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,40,-174,368,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700288,351,200749,Shelden Williams,1610612737,Atlanta Hawks,4,11,47,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071208,1,ATL,MEM
+Shot Chart Detail,20700288,366,200749,Shelden Williams,1610612737,Atlanta Hawks,4,9,55,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700288,404,200749,Shelden Williams,1610612737,Atlanta Hawks,4,6,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700288,406,200749,Shelden Williams,1610612737,Atlanta Hawks,4,6,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700288,421,200749,Shelden Williams,1610612737,Atlanta Hawks,4,5,0,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,38,171,1,0,20071208,0,ATL,MEM
+Shot Chart Detail,20700302,112,200749,Shelden Williams,1610612737,Atlanta Hawks,1,0,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,1,ORL,ATL
+Shot Chart Detail,20700302,129,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,21,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,177,31,1,1,20071210,1,ORL,ATL
+Shot Chart Detail,20700302,143,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,8,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,38,1,1,20071210,0,ORL,ATL
+Shot Chart Detail,20700302,151,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,27,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20071210,0,ORL,ATL
+Shot Chart Detail,20700302,168,200749,Shelden Williams,1610612737,Atlanta Hawks,2,6,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,0,ORL,ATL
+Shot Chart Detail,20700302,182,200749,Shelden Williams,1610612737,Atlanta Hawks,2,5,33,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071210,1,ORL,ATL
+Shot Chart Detail,20700307,101,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,30,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-2,192,1,0,20071211,0,ATL,TOR
+Shot Chart Detail,20700307,134,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,53,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071211,0,ATL,TOR
+Shot Chart Detail,20700307,161,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,34,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071211,1,ATL,TOR
+Shot Chart Detail,20700307,326,200749,Shelden Williams,1610612737,Atlanta Hawks,3,4,35,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071211,1,ATL,TOR
+Shot Chart Detail,20700307,328,200749,Shelden Williams,1610612737,Atlanta Hawks,3,3,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,176,1,0,20071211,0,ATL,TOR
+Shot Chart Detail,20700307,358,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,20,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071211,0,ATL,TOR
+Shot Chart Detail,20700332,224,200749,Shelden Williams,1610612737,Atlanta Hawks,2,0,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071214,0,DET,ATL
+Shot Chart Detail,20700367,109,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071219,0,ATL,MIA
+Shot Chart Detail,20700367,140,200749,Shelden Williams,1610612737,Atlanta Hawks,2,10,40,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,77,64,1,1,20071219,1,ATL,MIA
+Shot Chart Detail,20700367,234,200749,Shelden Williams,1610612737,Atlanta Hawks,2,1,0,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071219,0,ATL,MIA
+Shot Chart Detail,20700367,329,200749,Shelden Williams,1610612737,Atlanta Hawks,3,2,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071219,0,ATL,MIA
+Shot Chart Detail,20700410,73,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,44,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071226,0,ATL,IND
+Shot Chart Detail,20700410,68,200749,Shelden Williams,1610612737,Atlanta Hawks,1,5,44,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20071226,0,ATL,IND
+Shot Chart Detail,20700410,112,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,41,1,1,20071226,1,ATL,IND
+Shot Chart Detail,20700410,313,200749,Shelden Williams,1610612737,Atlanta Hawks,3,7,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,174,61,1,0,20071226,0,ATL,IND
+Shot Chart Detail,20700410,330,200749,Shelden Williams,1610612737,Atlanta Hawks,3,6,15,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,167,25,1,1,20071226,1,ATL,IND
+Shot Chart Detail,20700410,433,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071226,0,ATL,IND
+Shot Chart Detail,20700410,438,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,53,1,0,20071226,0,ATL,IND
+Shot Chart Detail,20700434,308,200749,Shelden Williams,1610612737,Atlanta Hawks,3,3,11,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-163,68,1,1,20071229,1,DAL,ATL
+Shot Chart Detail,20700434,332,200749,Shelden Williams,1610612737,Atlanta Hawks,3,0,45,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,107,151,1,1,20071229,1,DAL,ATL
+Shot Chart Detail,20700434,374,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20071229,0,DAL,ATL
+Shot Chart Detail,20700460,121,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-13,18,1,0,20080102,0,CLE,ATL
+Shot Chart Detail,20700460,145,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,37,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,92,1,0,20080102,0,CLE,ATL
+Shot Chart Detail,20700460,151,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,3,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-163,40,1,0,20080102,0,CLE,ATL
+Shot Chart Detail,20700474,73,200749,Shelden Williams,1610612737,Atlanta Hawks,1,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,8,150,1,0,20080104,0,IND,ATL
+Shot Chart Detail,20700474,208,200749,Shelden Williams,1610612737,Atlanta Hawks,2,4,49,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,41,1,0,20080104,0,IND,ATL
+Shot Chart Detail,20700474,407,200749,Shelden Williams,1610612737,Atlanta Hawks,4,8,10,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,128,40,1,0,20080104,0,IND,ATL
+Shot Chart Detail,20700474,465,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,50,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,171,33,1,0,20080104,0,IND,ATL
+Shot Chart Detail,20700484,133,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,37,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,0,ATL,NJN
+Shot Chart Detail,20700484,150,200749,Shelden Williams,1610612737,Atlanta Hawks,2,8,16,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,0,ATL,NJN
+Shot Chart Detail,20700484,218,200749,Shelden Williams,1610612737,Atlanta Hawks,2,1,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,100,1,0,20080105,0,ATL,NJN
+Shot Chart Detail,20700484,277,200749,Shelden Williams,1610612737,Atlanta Hawks,3,8,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080105,0,ATL,NJN
+Shot Chart Detail,20700619,79,200749,Shelden Williams,1610612737,Atlanta Hawks,1,3,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-44,215,1,0,20080123,0,DEN,ATL
+Shot Chart Detail,20700619,100,200749,Shelden Williams,1610612737,Atlanta Hawks,1,1,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,43,1,0,20080123,0,DEN,ATL
+Shot Chart Detail,20700637,422,200749,Shelden Williams,1610612737,Atlanta Hawks,4,10,49,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,23,1,0,20080125,0,SEA,ATL
+Shot Chart Detail,20700662,435,200749,Shelden Williams,1610612737,Atlanta Hawks,4,4,54,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,8,1,1,20080129,0,PHX,ATL
+Shot Chart Detail,20700662,468,200749,Shelden Williams,1610612737,Atlanta Hawks,4,2,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,159,110,1,0,20080129,0,PHX,ATL
+Shot Chart Detail,20700662,477,200749,Shelden Williams,1610612737,Atlanta Hawks,4,1,38,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,28,1,0,20080129,0,PHX,ATL
+Shot Chart Detail,20700662,491,200749,Shelden Williams,1610612737,Atlanta Hawks,4,1,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080129,0,PHX,ATL
+Shot Chart Detail,20700662,492,200749,Shelden Williams,1610612737,Atlanta Hawks,4,0,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080129,0,PHX,ATL
+Shot Chart Detail,20700741,391,200749,Shelden Williams,1610612737,Atlanta Hawks,4,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,155,1,0,20080209,0,HOU,ATL
+Shot Chart Detail,20700741,412,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,1,158,1,0,20080209,0,HOU,ATL
+Shot Chart Detail,20700741,414,200749,Shelden Williams,1610612737,Atlanta Hawks,4,7,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080209,0,HOU,ATL
+Shot Chart Detail,20700741,425,200749,Shelden Williams,1610612737,Atlanta Hawks,4,5,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-20,191,1,0,20080209,0,HOU,ATL
+Shot Chart Detail,20700741,445,200749,Shelden Williams,1610612737,Atlanta Hawks,4,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080209,1,HOU,ATL
+Shot Chart Detail,20700766,116,200749,Shelden Williams,1610612737,Atlanta Hawks,2,11,12,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,172,12,1,0,20080213,0,CHA,ATL
+Shot Chart Detail,20700766,128,200749,Shelden Williams,1610612737,Atlanta Hawks,2,9,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080213,0,CHA,ATL
+Shot Chart Detail,20700787,186,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,10,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,174,53,1,1,20080219,1,POR,SAC
+Shot Chart Detail,20700787,190,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,39,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080219,0,POR,SAC
+Shot Chart Detail,20700787,313,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,41,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,46,1,0,20080219,0,POR,SAC
+Shot Chart Detail,20700797,126,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,5,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,5,1,0,20080220,0,SAC,ATL
+Shot Chart Detail,20700797,374,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,0,SAC,ATL
+Shot Chart Detail,20700797,386,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,0,20080220,0,SAC,ATL
+Shot Chart Detail,20700797,388,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,0,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,0,SAC,ATL
+Shot Chart Detail,20700797,509,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,29,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080220,1,SAC,ATL
+Shot Chart Detail,20700803,117,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080222,1,CHA,SAC
+Shot Chart Detail,20700803,123,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,158,33,1,1,20080222,1,CHA,SAC
+Shot Chart Detail,20700803,152,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080222,0,CHA,SAC
+Shot Chart Detail,20700825,205,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,50,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,158,1,0,20080224,0,ORL,SAC
+Shot Chart Detail,20700825,217,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,48,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,79,160,1,0,20080224,0,ORL,SAC
+Shot Chart Detail,20700825,440,200749,Shelden Williams,1610612758,Sacramento Kings,4,4,8,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080224,0,ORL,SAC
+Shot Chart Detail,20700825,485,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,187,164,1,0,20080224,0,ORL,SAC
+Shot Chart Detail,20700838,385,200749,Shelden Williams,1610612758,Sacramento Kings,4,8,59,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,59,1,0,20080226,0,MIA,SAC
+Shot Chart Detail,20700838,420,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,3,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,1,MIA,SAC
+Shot Chart Detail,20700838,459,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,1,MIA,SAC
+Shot Chart Detail,20700838,469,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,50,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080226,0,MIA,SAC
+Shot Chart Detail,20700895,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,10,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,66,1,1,20080304,1,SAC,LAL
+Shot Chart Detail,20700908,99,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,41,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,177,7,1,0,20080305,0,LAC,SAC
+Shot Chart Detail,20700908,137,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,1,LAC,SAC
+Shot Chart Detail,20700908,161,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080305,0,LAC,SAC
+Shot Chart Detail,20700908,163,200749,Shelden Williams,1610612758,Sacramento Kings,2,4,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,7,1,0,20080305,0,LAC,SAC
+Shot Chart Detail,20700908,179,200749,Shelden Williams,1610612758,Sacramento Kings,2,3,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080305,1,LAC,SAC
+Shot Chart Detail,20700921,165,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,44,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-66,204,1,0,20080307,0,SAC,MIN
+Shot Chart Detail,20700921,172,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,7,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,58,1,0,20080307,0,SAC,MIN
+Shot Chart Detail,20700921,354,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,46,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080307,1,SAC,MIN
+Shot Chart Detail,20700921,389,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,34,Missed Shot,Jump Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,94,28,1,0,20080307,0,SAC,MIN
+Shot Chart Detail,20700921,475,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,22,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080307,0,SAC,MIN
+Shot Chart Detail,20700964,136,200749,Shelden Williams,1610612758,Sacramento Kings,2,10,4,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,3,36,1,0,20080313,0,SAC,POR
+Shot Chart Detail,20700964,483,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,5,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-100,174,1,0,20080313,0,SAC,POR
+Shot Chart Detail,20700981,240,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,41,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-3,214,1,0,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,380,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,38,1,0,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,391,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,422,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,138,63,1,1,20080315,1,PHX,SAC
+Shot Chart Detail,20700981,453,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,14,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-5,174,1,1,20080315,1,PHX,SAC
+Shot Chart Detail,20700981,457,200749,Shelden Williams,1610612758,Sacramento Kings,4,4,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,483,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,486,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,35,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,494,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,46,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080315,0,PHX,SAC
+Shot Chart Detail,20700981,514,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,0,20080315,0,PHX,SAC
+Shot Chart Detail,20700990,384,200749,Shelden Williams,1610612758,Sacramento Kings,4,8,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080316,0,SAC,TOR
+Shot Chart Detail,20701004,141,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,49,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080318,0,SAC,GSW
+Shot Chart Detail,20701004,154,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,16,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,45,1,0,20080318,0,SAC,GSW
+Shot Chart Detail,20701025,421,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-34,132,1,0,20080321,0,SAS,SAC
+Shot Chart Detail,20701025,441,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20080321,0,SAS,SAC
+Shot Chart Detail,20701025,452,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,38,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20080321,1,SAS,SAC
+Shot Chart Detail,20701032,121,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,22,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,56,1,1,20080322,0,MEM,SAC
+Shot Chart Detail,20701032,401,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080322,1,MEM,SAC
+Shot Chart Detail,20701081,75,200749,Shelden Williams,1610612758,Sacramento Kings,1,4,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080328,1,SAC,WAS
+Shot Chart Detail,20701081,83,200749,Shelden Williams,1610612758,Sacramento Kings,1,3,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,156,15,1,0,20080328,0,SAC,WAS
+Shot Chart Detail,20701081,400,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,17,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,58,1,1,20080328,0,SAC,WAS
+Shot Chart Detail,20701097,488,200749,Shelden Williams,1610612758,Sacramento Kings,4,1,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,174,94,1,0,20080330,0,SEA,SAC
+Shot Chart Detail,20701112,90,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080401,1,SAC,HOU
+Shot Chart Detail,20701112,219,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,1,20080401,1,SAC,HOU
+Shot Chart Detail,20701124,172,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080403,0,SAC,LAC
+Shot Chart Detail,20701124,201,200749,Shelden Williams,1610612758,Sacramento Kings,2,6,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080403,0,SAC,LAC
+Shot Chart Detail,20701124,442,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,54,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080403,1,SAC,LAC
+Shot Chart Detail,20701124,472,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,59,1,0,20080403,0,SAC,LAC
+Shot Chart Detail,20701142,38,200749,Shelden Williams,1610612758,Sacramento Kings,1,7,18,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-29,217,1,0,20080405,0,DEN,SAC
+Shot Chart Detail,20701142,66,200749,Shelden Williams,1610612758,Sacramento Kings,1,4,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080405,0,DEN,SAC
+Shot Chart Detail,20701142,125,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,37,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-77,169,1,1,20080405,1,DEN,SAC
+Shot Chart Detail,20701142,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,11,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080405,1,DEN,SAC
+Shot Chart Detail,20701142,257,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,17,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,84,58,1,0,20080405,0,DEN,SAC
+Shot Chart Detail,20701142,368,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,32,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,179,5,1,1,20080405,1,DEN,SAC
+Shot Chart Detail,20701142,410,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,158,68,1,1,20080405,0,DEN,SAC
+Shot Chart Detail,20701150,152,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,8,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,13,1,0,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,238,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,55,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,48,1,1,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,372,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,373,200749,Shelden Williams,1610612758,Sacramento Kings,4,10,55,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,409,200749,Shelden Williams,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20080406,1,SAC,LAL
+Shot Chart Detail,20701150,418,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,35,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,20,1,1,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,425,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,8,1,0,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,433,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080406,1,SAC,LAL
+Shot Chart Detail,20701150,445,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080406,0,SAC,LAL
+Shot Chart Detail,20701150,448,200749,Shelden Williams,1610612758,Sacramento Kings,4,3,6,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,46,1,0,20080406,0,SAC,LAL
+Shot Chart Detail,20701163,99,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,10,28,1,1,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,138,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,0,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,139,200749,Shelden Williams,1610612758,Sacramento Kings,2,9,33,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,145,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,1,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,230,200749,Shelden Williams,1610612758,Sacramento Kings,2,2,38,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,63,1,0,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,242,200749,Shelden Williams,1610612758,Sacramento Kings,2,1,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,15,1,0,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,390,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,24,46,1,0,20080408,0,GSW,SAC
+Shot Chart Detail,20701163,393,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,1,Made Shot,Running Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,1,20080408,1,GSW,SAC
+Shot Chart Detail,20701163,416,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,25,1,0,20080408,0,GSW,SAC
+Shot Chart Detail,20701186,102,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,28,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,5,1,1,20080411,1,SAC,POR
+Shot Chart Detail,20701186,126,200749,Shelden Williams,1610612758,Sacramento Kings,2,8,40,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080411,0,SAC,POR
+Shot Chart Detail,20701186,446,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,3,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-135,17,1,0,20080411,0,SAC,POR
+Shot Chart Detail,20701194,149,200749,Shelden Williams,1610612758,Sacramento Kings,2,7,57,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,13,1,1,20080412,1,SAC,NOH
+Shot Chart Detail,20701194,167,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,59,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,33,1,0,20080412,0,SAC,NOH
+Shot Chart Detail,20701194,225,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,52,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,117,1,1,20080412,1,SAC,NOH
+Shot Chart Detail,20701194,229,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,11,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080412,1,SAC,NOH
+Shot Chart Detail,20701194,330,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,23,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,43,1,0,20080412,0,SAC,NOH
+Shot Chart Detail,20701194,331,200749,Shelden Williams,1610612758,Sacramento Kings,3,2,22,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080412,0,SAC,NOH
+Shot Chart Detail,20701210,330,200749,Shelden Williams,1610612758,Sacramento Kings,3,0,46,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080414,1,SAC,SAS
+Shot Chart Detail,20701210,352,200749,Shelden Williams,1610612758,Sacramento Kings,4,11,22,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,71,1,1,20080414,0,SAC,SAS
+Shot Chart Detail,20701210,367,200749,Shelden Williams,1610612758,Sacramento Kings,4,9,54,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080414,0,SAC,SAS
+Shot Chart Detail,20701210,419,200749,Shelden Williams,1610612758,Sacramento Kings,4,2,58,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,172,15,1,0,20080414,0,SAC,SAS
+Shot Chart Detail,20701216,60,200749,Shelden Williams,1610612758,Sacramento Kings,1,5,41,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-11,28,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,62,200749,Shelden Williams,1610612758,Sacramento Kings,1,5,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,111,200749,Shelden Williams,1610612758,Sacramento Kings,1,2,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,113,200749,Shelden Williams,1610612758,Sacramento Kings,1,2,8,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,1,LAL,SAC
+Shot Chart Detail,20701216,118,200749,Shelden Williams,1610612758,Sacramento Kings,1,1,36,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,35,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,129,200749,Shelden Williams,1610612758,Sacramento Kings,1,0,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,161,10,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,222,200749,Shelden Williams,1610612758,Sacramento Kings,2,5,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,270,200749,Shelden Williams,1610612758,Sacramento Kings,2,0,4,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-199,20,1,1,20080415,1,LAL,SAC
+Shot Chart Detail,20701216,323,200749,Shelden Williams,1610612758,Sacramento Kings,3,6,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,1,LAL,SAC
+Shot Chart Detail,20701216,377,200749,Shelden Williams,1610612758,Sacramento Kings,3,1,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,427,200749,Shelden Williams,1610612758,Sacramento Kings,4,6,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,441,200749,Shelden Williams,1610612758,Sacramento Kings,4,5,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,0,LAL,SAC
+Shot Chart Detail,20701216,498,200749,Shelden Williams,1610612758,Sacramento Kings,4,0,37,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080415,0,LAL,SAC

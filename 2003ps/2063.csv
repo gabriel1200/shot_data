@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040200141,334,2063,Jake Voskuhl,1610612756,Phoenix Suns,3,0,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,23,1,1,20030419,SAS,PHX
-Shot Chart Detail,0040200141,359,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,11,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20030419,SAS,PHX
-Shot Chart Detail,0040200142,97,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,1,46,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20030421,SAS,PHX
-Shot Chart Detail,0040200142,190,2063,Jake Voskuhl,1610612756,Phoenix Suns,2,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20030421,SAS,PHX
-Shot Chart Detail,0040200142,379,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,10,28,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,31,1,1,20030421,SAS,PHX
-Shot Chart Detail,0040200143,102,2063,Jake Voskuhl,1610612756,Phoenix Suns,2,11,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030425,PHX,SAS
-Shot Chart Detail,0040200143,329,2063,Jake Voskuhl,1610612756,Phoenix Suns,3,1,51,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030425,PHX,SAS
-Shot Chart Detail,0040200143,382,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,9,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030425,PHX,SAS
-Shot Chart Detail,0040200143,446,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,4,17,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030425,PHX,SAS
-Shot Chart Detail,0040200143,456,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030425,PHX,SAS
-Shot Chart Detail,0040200144,466,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,PHX,SAS
-Shot Chart Detail,0040200144,484,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,0,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,56,1,1,20030427,PHX,SAS
-Shot Chart Detail,0040200145,68,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,4,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,0,20030429,SAS,PHX
-Shot Chart Detail,0040200145,90,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,2,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20030429,SAS,PHX
-Shot Chart Detail,0040200145,98,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,0,20030429,SAS,PHX
-Shot Chart Detail,0040200145,208,2063,Jake Voskuhl,1610612756,Phoenix Suns,2,3,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20030429,SAS,PHX
-Shot Chart Detail,0040200146,115,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,0,21,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030501,PHX,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40200141,334,2063,Jake Voskuhl,1610612756,Phoenix Suns,3,0,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,23,1,1,20030419,1,SAS,PHX
+Shot Chart Detail,40200141,359,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,11,8,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20030419,0,SAS,PHX
+Shot Chart Detail,40200142,97,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,1,46,Made Shot,Follow Up Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20030421,0,SAS,PHX
+Shot Chart Detail,40200142,190,2063,Jake Voskuhl,1610612756,Phoenix Suns,2,4,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20030421,1,SAS,PHX
+Shot Chart Detail,40200142,379,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,10,28,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-41,31,1,1,20030421,1,SAS,PHX
+Shot Chart Detail,40200143,102,2063,Jake Voskuhl,1610612756,Phoenix Suns,2,11,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030425,1,PHX,SAS
+Shot Chart Detail,40200143,329,2063,Jake Voskuhl,1610612756,Phoenix Suns,3,1,51,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030425,0,PHX,SAS
+Shot Chart Detail,40200143,382,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,9,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030425,0,PHX,SAS
+Shot Chart Detail,40200143,446,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,4,17,Made Shot,Follow Up Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030425,0,PHX,SAS
+Shot Chart Detail,40200143,456,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,3,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030425,0,PHX,SAS
+Shot Chart Detail,40200144,466,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,1,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,1,PHX,SAS
+Shot Chart Detail,40200144,484,2063,Jake Voskuhl,1610612756,Phoenix Suns,4,0,2,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,56,1,1,20030427,1,PHX,SAS
+Shot Chart Detail,40200145,68,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,4,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,0,20030429,0,SAS,PHX
+Shot Chart Detail,40200145,90,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,2,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20030429,1,SAS,PHX
+Shot Chart Detail,40200145,98,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,1,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,17,1,0,20030429,0,SAS,PHX
+Shot Chart Detail,40200145,208,2063,Jake Voskuhl,1610612756,Phoenix Suns,2,3,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20030429,1,SAS,PHX
+Shot Chart Detail,40200146,115,2063,Jake Voskuhl,1610612756,Phoenix Suns,1,0,21,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030501,0,PHX,SAS

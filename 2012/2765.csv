@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021100432,126,2765,Andre Emmett,1610612751,New Jersey Nets,2,8,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,1,20120215,NJN,MEM
-Shot Chart Detail,0021100432,137,2765,Andre Emmett,1610612751,New Jersey Nets,2,7,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,0,20120215,NJN,MEM
-Shot Chart Detail,0021100432,300,2765,Andre Emmett,1610612751,New Jersey Nets,3,4,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,30,1,0,20120215,NJN,MEM
-Shot Chart Detail,0021100442,312,2765,Andre Emmett,1610612751,New Jersey Nets,3,4,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,72,1,1,20120216,IND,NJN
-Shot Chart Detail,0021100491,107,2765,Andre Emmett,1610612751,New Jersey Nets,2,11,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20120222,NJN,ORL
-Shot Chart Detail,0021100491,113,2765,Andre Emmett,1610612751,New Jersey Nets,2,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-19,187,1,0,20120222,NJN,ORL
-Shot Chart Detail,0021100491,451,2765,Andre Emmett,1610612751,New Jersey Nets,4,0,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20120222,NJN,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21100432,126,2765,Andre Emmett,1610612751,New Jersey Nets,2,8,55,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-19,12,1,1,20120215,1,NJN,MEM
+Shot Chart Detail,21100432,137,2765,Andre Emmett,1610612751,New Jersey Nets,2,7,57,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,0,20120215,0,NJN,MEM
+Shot Chart Detail,21100432,300,2765,Andre Emmett,1610612751,New Jersey Nets,3,4,0,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,30,1,0,20120215,0,NJN,MEM
+Shot Chart Detail,21100442,312,2765,Andre Emmett,1610612751,New Jersey Nets,3,4,18,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,72,1,1,20120216,0,IND,NJN
+Shot Chart Detail,21100491,107,2765,Andre Emmett,1610612751,New Jersey Nets,2,11,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,1,20120222,1,NJN,ORL
+Shot Chart Detail,21100491,113,2765,Andre Emmett,1610612751,New Jersey Nets,2,10,8,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-19,187,1,0,20120222,0,NJN,ORL
+Shot Chart Detail,21100491,451,2765,Andre Emmett,1610612751,New Jersey Nets,4,0,0,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20120222,0,NJN,ORL

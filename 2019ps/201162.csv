@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041800121,306,201162,Jared Dudley,1610612751,Brooklyn Nets,2,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,93,241,1,0,20190413,PHI,BKN
-Shot Chart Detail,0041800121,586,201162,Jared Dudley,1610612751,Brooklyn Nets,4,10,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,253,1,0,20190413,PHI,BKN
-Shot Chart Detail,0041800123,517,201162,Jared Dudley,1610612751,Brooklyn Nets,3,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,231,1,0,20190418,BKN,PHI
-Shot Chart Detail,0041800123,545,201162,Jared Dudley,1610612751,Brooklyn Nets,3,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,234,1,0,20190418,BKN,PHI
-Shot Chart Detail,0041800124,9,201162,Jared Dudley,1610612751,Brooklyn Nets,1,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,127,196,1,1,20190420,BKN,PHI
-Shot Chart Detail,0041800124,243,201162,Jared Dudley,1610612751,Brooklyn Nets,2,7,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,256,1,0,20190420,BKN,PHI
-Shot Chart Detail,0041800124,293,201162,Jared Dudley,1610612751,Brooklyn Nets,2,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,231,1,1,20190420,BKN,PHI
-Shot Chart Detail,0041800124,329,201162,Jared Dudley,1610612751,Brooklyn Nets,2,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,238,1,1,20190420,BKN,PHI
-Shot Chart Detail,0041800125,41,201162,Jared Dudley,1610612751,Brooklyn Nets,1,8,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,174,1,0,20190423,PHI,BKN
-Shot Chart Detail,0041800125,198,201162,Jared Dudley,1610612751,Brooklyn Nets,2,9,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-106,167,1,0,20190423,PHI,BKN
-Shot Chart Detail,0041800125,250,201162,Jared Dudley,1610612751,Brooklyn Nets,2,5,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,87,256,1,0,20190423,PHI,BKN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41800121,306,201162,Jared Dudley,1610612751,Brooklyn Nets,2,5,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,93,241,1,0,20190413,0,PHI,BKN
+Shot Chart Detail,41800121,586,201162,Jared Dudley,1610612751,Brooklyn Nets,4,10,6,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,43,253,1,0,20190413,0,PHI,BKN
+Shot Chart Detail,41800123,517,201162,Jared Dudley,1610612751,Brooklyn Nets,3,1,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,231,1,0,20190418,0,BKN,PHI
+Shot Chart Detail,41800123,545,201162,Jared Dudley,1610612751,Brooklyn Nets,3,0,25,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,234,1,0,20190418,0,BKN,PHI
+Shot Chart Detail,41800124,9,201162,Jared Dudley,1610612751,Brooklyn Nets,1,11,10,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,23,127,196,1,1,20190420,1,BKN,PHI
+Shot Chart Detail,41800124,243,201162,Jared Dudley,1610612751,Brooklyn Nets,2,7,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-11,256,1,0,20190420,0,BKN,PHI
+Shot Chart Detail,41800124,293,201162,Jared Dudley,1610612751,Brooklyn Nets,2,3,59,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,231,1,1,20190420,1,BKN,PHI
+Shot Chart Detail,41800124,329,201162,Jared Dudley,1610612751,Brooklyn Nets,2,1,44,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,238,1,1,20190420,1,BKN,PHI
+Shot Chart Detail,41800125,41,201162,Jared Dudley,1610612751,Brooklyn Nets,1,8,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,174,1,0,20190423,0,PHI,BKN
+Shot Chart Detail,41800125,198,201162,Jared Dudley,1610612751,Brooklyn Nets,2,9,5,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-106,167,1,0,20190423,0,PHI,BKN
+Shot Chart Detail,41800125,250,201162,Jared Dudley,1610612751,Brooklyn Nets,2,5,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,87,256,1,0,20190423,0,PHI,BKN

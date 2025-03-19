@@ -1,22 +1,22 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040200101,114,43,Chris Whitney,1610612753,Orlando Magic,1,0,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-233,127,1,1,20030420,DET,ORL
-Shot Chart Detail,0040200101,123,43,Chris Whitney,1610612753,Orlando Magic,2,11,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,163,1,0,20030420,DET,ORL
-Shot Chart Detail,0040200101,144,43,Chris Whitney,1610612753,Orlando Magic,2,9,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,8,1,1,20030420,DET,ORL
-Shot Chart Detail,0040200101,377,43,Chris Whitney,1610612753,Orlando Magic,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-85,166,1,0,20030420,DET,ORL
-Shot Chart Detail,0040200102,70,43,Chris Whitney,1610612753,Orlando Magic,1,4,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,2,1,0,20030423,DET,ORL
-Shot Chart Detail,0040200102,352,43,Chris Whitney,1610612753,Orlando Magic,4,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030423,DET,ORL
-Shot Chart Detail,0040200103,86,43,Chris Whitney,1610612753,Orlando Magic,1,1,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-11,1,0,20030425,ORL,DET
-Shot Chart Detail,0040200104,152,43,Chris Whitney,1610612753,Orlando Magic,2,8,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,76,1,0,20030427,ORL,DET
-Shot Chart Detail,0040200104,174,43,Chris Whitney,1610612753,Orlando Magic,2,6,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,8,1,1,20030427,ORL,DET
-Shot Chart Detail,0040200104,411,43,Chris Whitney,1610612753,Orlando Magic,4,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-210,81,1,1,20030427,ORL,DET
-Shot Chart Detail,0040200104,442,43,Chris Whitney,1610612753,Orlando Magic,4,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-8,204,1,0,20030427,ORL,DET
-Shot Chart Detail,0040200104,457,43,Chris Whitney,1610612753,Orlando Magic,4,4,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-6,1,0,20030427,ORL,DET
-Shot Chart Detail,0040200104,462,43,Chris Whitney,1610612753,Orlando Magic,4,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-11,1,0,20030427,ORL,DET
-Shot Chart Detail,0040200105,198,43,Chris Whitney,1610612753,Orlando Magic,2,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,74,268,1,1,20030430,DET,ORL
-Shot Chart Detail,0040200105,223,43,Chris Whitney,1610612753,Orlando Magic,2,1,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,213,160,1,1,20030430,DET,ORL
-Shot Chart Detail,0040200105,367,43,Chris Whitney,1610612753,Orlando Magic,4,10,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,45,1,0,20030430,DET,ORL
-Shot Chart Detail,0040200106,129,43,Chris Whitney,1610612753,Orlando Magic,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-123,209,1,0,20030502,ORL,DET
-Shot Chart Detail,0040200106,421,43,Chris Whitney,1610612753,Orlando Magic,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-5,1,0,20030502,ORL,DET
-Shot Chart Detail,0040200107,166,43,Chris Whitney,1610612753,Orlando Magic,2,4,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,0,1,0,20030504,DET,ORL
-Shot Chart Detail,0040200107,306,43,Chris Whitney,1610612753,Orlando Magic,3,2,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-20,276,1,0,20030504,DET,ORL
-Shot Chart Detail,0040200107,389,43,Chris Whitney,1610612753,Orlando Magic,4,5,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030504,DET,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40200101,114,43,Chris Whitney,1610612753,Orlando Magic,1,0,51,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-233,127,1,1,20030420,0,DET,ORL
+Shot Chart Detail,40200101,123,43,Chris Whitney,1610612753,Orlando Magic,2,11,46,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,163,1,0,20030420,0,DET,ORL
+Shot Chart Detail,40200101,144,43,Chris Whitney,1610612753,Orlando Magic,2,9,27,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-191,8,1,1,20030420,1,DET,ORL
+Shot Chart Detail,40200101,377,43,Chris Whitney,1610612753,Orlando Magic,4,10,32,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-85,166,1,0,20030420,0,DET,ORL
+Shot Chart Detail,40200102,70,43,Chris Whitney,1610612753,Orlando Magic,1,4,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-154,2,1,0,20030423,0,DET,ORL
+Shot Chart Detail,40200102,352,43,Chris Whitney,1610612753,Orlando Magic,4,11,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030423,1,DET,ORL
+Shot Chart Detail,40200103,86,43,Chris Whitney,1610612753,Orlando Magic,1,1,4,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,-11,1,0,20030425,0,ORL,DET
+Shot Chart Detail,40200104,152,43,Chris Whitney,1610612753,Orlando Magic,2,8,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-131,76,1,0,20030427,0,ORL,DET
+Shot Chart Detail,40200104,174,43,Chris Whitney,1610612753,Orlando Magic,2,6,41,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,8,1,1,20030427,1,ORL,DET
+Shot Chart Detail,40200104,411,43,Chris Whitney,1610612753,Orlando Magic,4,9,58,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,22,-210,81,1,1,20030427,1,ORL,DET
+Shot Chart Detail,40200104,442,43,Chris Whitney,1610612753,Orlando Magic,4,5,41,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-8,204,1,0,20030427,0,ORL,DET
+Shot Chart Detail,40200104,457,43,Chris Whitney,1610612753,Orlando Magic,4,4,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-191,-6,1,0,20030427,0,ORL,DET
+Shot Chart Detail,40200104,462,43,Chris Whitney,1610612753,Orlando Magic,4,4,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,-11,1,0,20030427,0,ORL,DET
+Shot Chart Detail,40200105,198,43,Chris Whitney,1610612753,Orlando Magic,2,4,1,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,74,268,1,1,20030430,1,DET,ORL
+Shot Chart Detail,40200105,223,43,Chris Whitney,1610612753,Orlando Magic,2,1,9,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,213,160,1,1,20030430,1,DET,ORL
+Shot Chart Detail,40200105,367,43,Chris Whitney,1610612753,Orlando Magic,4,10,47,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,45,1,0,20030430,0,DET,ORL
+Shot Chart Detail,40200106,129,43,Chris Whitney,1610612753,Orlando Magic,2,9,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-123,209,1,0,20030502,0,ORL,DET
+Shot Chart Detail,40200106,421,43,Chris Whitney,1610612753,Orlando Magic,3,0,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-194,-5,1,0,20030502,0,ORL,DET
+Shot Chart Detail,40200107,166,43,Chris Whitney,1610612753,Orlando Magic,2,4,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-241,0,1,0,20030504,0,DET,ORL
+Shot Chart Detail,40200107,306,43,Chris Whitney,1610612753,Orlando Magic,3,2,21,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-20,276,1,0,20030504,0,DET,ORL
+Shot Chart Detail,40200107,389,43,Chris Whitney,1610612753,Orlando Magic,4,5,6,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030504,1,DET,ORL

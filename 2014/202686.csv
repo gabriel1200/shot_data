@@ -1,347 +1,174 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300117,86,202686,Jan Vesely,1610612764,Washington Wizards,1,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,0,20131113,SAS,WAS
-Shot Chart Detail,0021300117,133,202686,Jan Vesely,1610612764,Washington Wizards,2,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,0,20131113,SAS,WAS
-Shot Chart Detail,0021300117,326,202686,Jan Vesely,1610612764,Washington Wizards,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20131113,SAS,WAS
-Shot Chart Detail,0021300117,431,202686,Jan Vesely,1610612764,Washington Wizards,4,1,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20131113,SAS,WAS
-Shot Chart Detail,0021300138,142,202686,Jan Vesely,1610612764,Washington Wizards,1,0,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20131116,WAS,CLE
-Shot Chart Detail,0021300138,154,202686,Jan Vesely,1610612764,Washington Wizards,2,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-114,108,1,0,20131116,WAS,CLE
-Shot Chart Detail,0021300138,343,202686,Jan Vesely,1610612764,Washington Wizards,3,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20131116,WAS,CLE
-Shot Chart Detail,0021300156,113,202686,Jan Vesely,1610612764,Washington Wizards,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300156,115,202686,Jan Vesely,1610612764,Washington Wizards,1,1,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300156,138,202686,Jan Vesely,1610612764,Washington Wizards,2,10,32,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300156,432,202686,Jan Vesely,1610612764,Washington Wizards,4,5,47,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300162,112,202686,Jan Vesely,1610612764,Washington Wizards,1,0,35,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20131120,CLE,WAS
-Shot Chart Detail,0021300162,401,202686,Jan Vesely,1610612764,Washington Wizards,4,8,48,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-10,1,1,20131120,CLE,WAS
-Shot Chart Detail,0021300162,429,202686,Jan Vesely,1610612764,Washington Wizards,4,5,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,52,1,1,20131120,CLE,WAS
-Shot Chart Detail,0021300178,108,202686,Jan Vesely,1610612764,Washington Wizards,2,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,9,1,0,20131122,TOR,WAS
-Shot Chart Detail,0021300178,348,202686,Jan Vesely,1610612764,Washington Wizards,3,3,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,20,1,0,20131122,TOR,WAS
-Shot Chart Detail,0021300178,343,202686,Jan Vesely,1610612764,Washington Wizards,3,3,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,31,1,0,20131122,TOR,WAS
-Shot Chart Detail,0021300189,87,202686,Jan Vesely,1610612764,Washington Wizards,1,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,19,1,0,20131123,WAS,NYK
-Shot Chart Detail,0021300189,413,202686,Jan Vesely,1610612764,Washington Wizards,4,6,14,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,1,20131123,WAS,NYK
-Shot Chart Detail,0021300212,113,202686,Jan Vesely,1610612764,Washington Wizards,2,11,49,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20131126,WAS,LAL
-Shot Chart Detail,0021300212,126,202686,Jan Vesely,1610612764,Washington Wizards,2,10,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,0,20131126,WAS,LAL
-Shot Chart Detail,0021300212,375,202686,Jan Vesely,1610612764,Washington Wizards,4,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,14,1,0,20131126,WAS,LAL
-Shot Chart Detail,0021300222,54,202686,Jan Vesely,1610612764,Washington Wizards,1,4,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20131127,MIL,WAS
-Shot Chart Detail,0021300222,113,202686,Jan Vesely,1610612764,Washington Wizards,2,9,17,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,14,1,0,20131127,MIL,WAS
-Shot Chart Detail,0021300222,367,202686,Jan Vesely,1610612764,Washington Wizards,4,9,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,0,20131127,MIL,WAS
-Shot Chart Detail,0021300241,69,202686,Jan Vesely,1610612764,Washington Wizards,1,4,42,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20131130,WAS,ATL
-Shot Chart Detail,0021300241,105,202686,Jan Vesely,1610612764,Washington Wizards,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20131130,WAS,ATL
-Shot Chart Detail,0021300241,387,202686,Jan Vesely,1610612764,Washington Wizards,4,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,30,1,0,20131130,WAS,ATL
-Shot Chart Detail,0021300256,74,202686,Jan Vesely,1610612764,Washington Wizards,1,4,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,0,20131202,WAS,ORL
-Shot Chart Detail,0021300256,86,202686,Jan Vesely,1610612764,Washington Wizards,1,3,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,0,20131202,WAS,ORL
-Shot Chart Detail,0021300256,452,202686,Jan Vesely,1610612764,Washington Wizards,4,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,2,175,1,0,20131202,WAS,ORL
-Shot Chart Detail,0021300281,143,202686,Jan Vesely,1610612764,Washington Wizards,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,75,1,0,20131206,WAS,MIL
-Shot Chart Detail,0021300281,294,202686,Jan Vesely,1610612764,Washington Wizards,2,0,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20131206,WAS,MIL
-Shot Chart Detail,0021300306,128,202686,Jan Vesely,1610612764,Washington Wizards,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,45,1,0,20131209,WAS,DEN
-Shot Chart Detail,0021300306,375,202686,Jan Vesely,1610612764,Washington Wizards,4,11,40,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,23,1,1,20131209,WAS,DEN
-Shot Chart Detail,0021300332,111,202686,Jan Vesely,1610612764,Washington Wizards,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,55,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,138,202686,Jan Vesely,1610612764,Washington Wizards,2,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,156,202686,Jan Vesely,1610612764,Washington Wizards,2,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,158,202686,Jan Vesely,1610612764,Washington Wizards,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,113,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,170,202686,Jan Vesely,1610612764,Washington Wizards,2,7,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,332,202686,Jan Vesely,1610612764,Washington Wizards,3,4,9,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,66,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,373,202686,Jan Vesely,1610612764,Washington Wizards,3,1,21,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,73,56,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,431,202686,Jan Vesely,1610612764,Washington Wizards,4,9,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,442,202686,Jan Vesely,1610612764,Washington Wizards,4,8,17,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300343,109,202686,Jan Vesely,1610612764,Washington Wizards,1,1,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,31,1,1,20131214,WAS,LAC
-Shot Chart Detail,0021300343,121,202686,Jan Vesely,1610612764,Washington Wizards,2,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,121,1,0,20131214,WAS,LAC
-Shot Chart Detail,0021300343,173,202686,Jan Vesely,1610612764,Washington Wizards,2,7,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20131214,WAS,LAC
-Shot Chart Detail,0021300361,418,202686,Jan Vesely,1610612764,Washington Wizards,4,7,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20131216,NYK,WAS
-Shot Chart Detail,0021300431,498,202686,Jan Vesely,1610612764,Washington Wizards,4,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,92,187,1,1,20131227,MIN,WAS
-Shot Chart Detail,0021300439,108,202686,Jan Vesely,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20131228,WAS,DET
-Shot Chart Detail,0021300439,395,202686,Jan Vesely,1610612764,Washington Wizards,4,11,13,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,15,1,1,20131228,WAS,DET
-Shot Chart Detail,0021300482,422,202686,Jan Vesely,1610612764,Washington Wizards,4,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140103,WAS,TOR
-Shot Chart Detail,0021300482,425,202686,Jan Vesely,1610612764,Washington Wizards,4,7,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,0,20140103,WAS,TOR
-Shot Chart Detail,0021300482,435,202686,Jan Vesely,1610612764,Washington Wizards,4,6,20,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,-2,1,1,20140103,WAS,TOR
-Shot Chart Detail,0021300501,317,202686,Jan Vesely,1610612764,Washington Wizards,3,6,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20140105,WAS,GSW
-Shot Chart Detail,0021300501,336,202686,Jan Vesely,1610612764,Washington Wizards,3,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,0,20140105,WAS,GSW
-Shot Chart Detail,0021300501,373,202686,Jan Vesely,1610612764,Washington Wizards,3,1,5,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,28,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300501,381,202686,Jan Vesely,1610612764,Washington Wizards,3,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,71,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300501,399,202686,Jan Vesely,1610612764,Washington Wizards,4,10,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300501,430,202686,Jan Vesely,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,26,1,0,20140105,WAS,GSW
-Shot Chart Detail,0021300501,515,202686,Jan Vesely,1610612764,Washington Wizards,4,0,17,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,25,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300508,181,202686,Jan Vesely,1610612764,Washington Wizards,2,6,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20140107,CHA,WAS
-Shot Chart Detail,0021300508,379,202686,Jan Vesely,1610612764,Washington Wizards,4,10,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,0,20140107,CHA,WAS
-Shot Chart Detail,0021300508,400,202686,Jan Vesely,1610612764,Washington Wizards,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20140107,CHA,WAS
-Shot Chart Detail,0021300508,416,202686,Jan Vesely,1610612764,Washington Wizards,4,7,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,28,1,1,20140107,CHA,WAS
-Shot Chart Detail,0021300525,137,202686,Jan Vesely,1610612764,Washington Wizards,1,0,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,6,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,169,202686,Jan Vesely,1610612764,Washington Wizards,2,9,6,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,183,202686,Jan Vesely,1610612764,Washington Wizards,2,7,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,23,1,0,20140108,NOP,WAS
-Shot Chart Detail,0021300525,221,202686,Jan Vesely,1610612764,Washington Wizards,2,4,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,34,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,236,202686,Jan Vesely,1610612764,Washington Wizards,2,3,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,256,202686,Jan Vesely,1610612764,Washington Wizards,2,0,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,418,202686,Jan Vesely,1610612764,Washington Wizards,4,8,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,444,202686,Jan Vesely,1610612764,Washington Wizards,4,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,20,1,0,20140108,NOP,WAS
-Shot Chart Detail,0021300544,109,202686,Jan Vesely,1610612764,Washington Wizards,1,0,26,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,1,20140111,WAS,HOU
-Shot Chart Detail,0021300544,171,202686,Jan Vesely,1610612764,Washington Wizards,2,7,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20140111,WAS,HOU
-Shot Chart Detail,0021300595,150,202686,Jan Vesely,1610612764,Washington Wizards,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,0,20140118,WAS,DET
-Shot Chart Detail,0021300595,189,202686,Jan Vesely,1610612764,Washington Wizards,2,5,10,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20140118,WAS,DET
-Shot Chart Detail,0021300595,203,202686,Jan Vesely,1610612764,Washington Wizards,2,4,40,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,1,20140118,WAS,DET
-Shot Chart Detail,0021300595,220,202686,Jan Vesely,1610612764,Washington Wizards,2,3,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140118,WAS,DET
-Shot Chart Detail,0021300595,391,202686,Jan Vesely,1610612764,Washington Wizards,3,0,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,66,1,0,20140118,WAS,DET
-Shot Chart Detail,0021300609,93,202686,Jan Vesely,1610612764,Washington Wizards,1,3,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140120,WAS,PHI
-Shot Chart Detail,0021300609,111,202686,Jan Vesely,1610612764,Washington Wizards,1,1,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20140120,WAS,PHI
-Shot Chart Detail,0021300609,451,202686,Jan Vesely,1610612764,Washington Wizards,4,11,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,28,1,0,20140120,WAS,PHI
-Shot Chart Detail,0021300609,464,202686,Jan Vesely,1610612764,Washington Wizards,4,10,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20140120,WAS,PHI
-Shot Chart Detail,0021300609,481,202686,Jan Vesely,1610612764,Washington Wizards,4,8,21,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20140120,WAS,PHI
-Shot Chart Detail,0021300711,114,202686,Jan Vesely,1610612764,Washington Wizards,2,9,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,0,20140203,WAS,POR
-Shot Chart Detail,0021300711,120,202686,Jan Vesely,1610612764,Washington Wizards,2,9,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,0,20140203,WAS,POR
-Shot Chart Detail,0021300742,394,202686,Jan Vesely,1610612764,Washington Wizards,4,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20140207,WAS,CLE
-Shot Chart Detail,0021300742,407,202686,Jan Vesely,1610612764,Washington Wizards,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,52,1,0,20140207,WAS,CLE
-Shot Chart Detail,0021300784,149,202686,Jan Vesely,1610612764,Washington Wizards,2,9,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140212,HOU,WAS
-Shot Chart Detail,0021300784,173,202686,Jan Vesely,1610612764,Washington Wizards,2,7,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,34,1,0,20140212,HOU,WAS
-Shot Chart Detail,0021300784,185,202686,Jan Vesely,1610612764,Washington Wizards,2,7,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,14,1,0,20140212,HOU,WAS
-Shot Chart Detail,0021300820,245,202686,Jan Vesely,1610612743,Denver Nuggets,2,0,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20140221,CHI,DEN
-Shot Chart Detail,0021300820,383,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,391,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,31,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,412,202686,Jan Vesely,1610612743,Denver Nuggets,4,9,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,440,202686,Jan Vesely,1610612743,Denver Nuggets,4,6,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,480,202686,Jan Vesely,1610612743,Denver Nuggets,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,45,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,521,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,9,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20140221,CHI,DEN
-Shot Chart Detail,0021300837,154,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,16,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20140223,DEN,SAC
-Shot Chart Detail,0021300837,198,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20140223,DEN,SAC
-Shot Chart Detail,0021300837,354,202686,Jan Vesely,1610612743,Denver Nuggets,3,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,124,1,1,20140223,DEN,SAC
-Shot Chart Detail,0021300837,569,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,44,1,0,20140223,DEN,SAC
-Shot Chart Detail,0021300837,572,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,155,112,1,0,20140223,DEN,SAC
-Shot Chart Detail,0021300850,114,202686,Jan Vesely,1610612743,Denver Nuggets,1,0,31,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300850,153,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,23,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,124,69,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300850,181,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,3,1,1,20140225,DEN,POR
-Shot Chart Detail,0021300850,185,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20140225,DEN,POR
-Shot Chart Detail,0021300850,431,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,27,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,7,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300850,435,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,91,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300866,153,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,-2,1,0,20140227,DEN,BKN
-Shot Chart Detail,0021300866,314,202686,Jan Vesely,1610612743,Denver Nuggets,3,8,28,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,44,1,0,20140227,DEN,BKN
-Shot Chart Detail,0021300866,367,202686,Jan Vesely,1610612743,Denver Nuggets,3,2,55,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,48,1,0,20140227,DEN,BKN
-Shot Chart Detail,0021300895,209,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,11,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20140303,DEN,MIN
-Shot Chart Detail,0021300925,481,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,29,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-29,154,1,0,20140307,DEN,LAL
-Shot Chart Detail,0021300925,516,202686,Jan Vesely,1610612743,Denver Nuggets,4,5,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,1,1,0,20140307,DEN,LAL
-Shot Chart Detail,0021300936,239,202686,Jan Vesely,1610612743,Denver Nuggets,2,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20140309,NOP,DEN
-Shot Chart Detail,0021300936,242,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20140309,NOP,DEN
-Shot Chart Detail,0021300943,152,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20140310,CHA,DEN
-Shot Chart Detail,0021300943,406,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20140310,CHA,DEN
-Shot Chart Detail,0021300943,411,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20140310,CHA,DEN
-Shot Chart Detail,0021300943,435,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,0,20140310,CHA,DEN
-Shot Chart Detail,0021301015,271,202686,Jan Vesely,1610612743,Denver Nuggets,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,20,1,0,20140319,DEN,DET
-Shot Chart Detail,0021301042,103,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,34,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,106,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,130,202686,Jan Vesely,1610612743,Denver Nuggets,2,10,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,174,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,10,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,37,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,310,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,311,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,14,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,313,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-3,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,317,202686,Jan Vesely,1610612743,Denver Nuggets,3,4,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,341,202686,Jan Vesely,1610612743,Denver Nuggets,3,2,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301084,238,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,5,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,45,1,0,20140328,DEN,SAS
-Shot Chart Detail,0021301084,422,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20140328,DEN,SAS
-Shot Chart Detail,0021301084,464,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,41,Missed Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,37,1,0,20140328,DEN,SAS
-Shot Chart Detail,0021301084,483,202686,Jan Vesely,1610612743,Denver Nuggets,4,6,58,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,33,1,1,20140328,DEN,SAS
-Shot Chart Detail,0021301109,99,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,44,1,0,20140331,DEN,MEM
-Shot Chart Detail,0021301109,152,202686,Jan Vesely,1610612743,Denver Nuggets,2,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140331,DEN,MEM
-Shot Chart Detail,0021301109,178,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20140331,DEN,MEM
-Shot Chart Detail,0021301109,376,202686,Jan Vesely,1610612743,Denver Nuggets,3,1,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140331,DEN,MEM
-Shot Chart Detail,0021301124,167,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,460,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,18,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,484,202686,Jan Vesely,1610612743,Denver Nuggets,4,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,548,202686,Jan Vesely,1610612743,Denver Nuggets,4,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,563,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20140402,DEN,NOP
-Shot Chart Detail,0021301124,573,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,21,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301129,22,202686,Jan Vesely,1610612743,Denver Nuggets,1,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,9,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,32,202686,Jan Vesely,1610612743,Denver Nuggets,1,8,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,80,202686,Jan Vesely,1610612743,Denver Nuggets,1,3,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,90,202686,Jan Vesely,1610612743,Denver Nuggets,1,2,49,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,360,202686,Jan Vesely,1610612743,Denver Nuggets,3,3,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140404,MEM,DEN
-Shot Chart Detail,0021301153,162,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20140406,HOU,DEN
-Shot Chart Detail,0021301153,169,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,56,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,42,77,1,0,20140406,HOU,DEN
-Shot Chart Detail,0021301153,200,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20140406,HOU,DEN
-Shot Chart Detail,0021301153,504,202686,Jan Vesely,1610612743,Denver Nuggets,4,5,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,0,20140406,HOU,DEN
-Shot Chart Detail,0021301171,184,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20140409,DEN,HOU
-Shot Chart Detail,0021301171,185,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,0,20140409,DEN,HOU
-Shot Chart Detail,0021301171,205,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140409,DEN,HOU
-Shot Chart Detail,0021301171,431,202686,Jan Vesely,1610612743,Denver Nuggets,3,1,34,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20140409,DEN,HOU
-Shot Chart Detail,0021301171,485,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,34,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20140409,DEN,HOU
-Shot Chart Detail,0021301175,126,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,46,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,56,1,1,20140410,GSW,DEN
-Shot Chart Detail,0021301175,398,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,9,96,1,1,20140410,GSW,DEN
-Shot Chart Detail,0021301196,150,202686,Jan Vesely,1610612743,Denver Nuggets,2,10,49,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,14,1,0,20140412,DEN,UTA
-Shot Chart Detail,0021301196,198,202686,Jan Vesely,1610612743,Denver Nuggets,2,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,0,20140412,DEN,UTA
-Shot Chart Detail,0021301215,72,202686,Jan Vesely,1610612743,Denver Nuggets,1,5,59,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20140415,LAC,DEN
-Shot Chart Detail,0021301215,77,202686,Jan Vesely,1610612743,Denver Nuggets,1,5,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301215,172,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,165,1,0,20140415,LAC,DEN
-Shot Chart Detail,0021301215,196,202686,Jan Vesely,1610612743,Denver Nuggets,2,5,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,30,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301215,412,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,5,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301215,481,202686,Jan Vesely,1610612743,Denver Nuggets,4,4,18,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,0,20140415,LAC,DEN
-Shot Chart Detail,0021301215,485,202686,Jan Vesely,1610612743,Denver Nuggets,4,3,57,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301230,108,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20140416,DEN,GSW
-Shot Chart Detail,0021301230,283,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,18,Made Shot,Jump Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,34,1,1,20140416,DEN,GSW
-Shot Chart Detail,0021300117,86,202686,Jan Vesely,1610612764,Washington Wizards,1,2,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,0,20131113,SAS,WAS
-Shot Chart Detail,0021300117,133,202686,Jan Vesely,1610612764,Washington Wizards,2,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,0,20131113,SAS,WAS
-Shot Chart Detail,0021300117,326,202686,Jan Vesely,1610612764,Washington Wizards,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20131113,SAS,WAS
-Shot Chart Detail,0021300117,431,202686,Jan Vesely,1610612764,Washington Wizards,4,1,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20131113,SAS,WAS
-Shot Chart Detail,0021300138,142,202686,Jan Vesely,1610612764,Washington Wizards,1,0,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20131116,WAS,CLE
-Shot Chart Detail,0021300138,154,202686,Jan Vesely,1610612764,Washington Wizards,2,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-114,108,1,0,20131116,WAS,CLE
-Shot Chart Detail,0021300138,343,202686,Jan Vesely,1610612764,Washington Wizards,3,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20131116,WAS,CLE
-Shot Chart Detail,0021300156,113,202686,Jan Vesely,1610612764,Washington Wizards,1,1,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300156,115,202686,Jan Vesely,1610612764,Washington Wizards,1,1,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300156,138,202686,Jan Vesely,1610612764,Washington Wizards,2,10,32,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300156,432,202686,Jan Vesely,1610612764,Washington Wizards,4,5,47,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20131119,WAS,MIN
-Shot Chart Detail,0021300162,112,202686,Jan Vesely,1610612764,Washington Wizards,1,0,35,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20131120,CLE,WAS
-Shot Chart Detail,0021300162,401,202686,Jan Vesely,1610612764,Washington Wizards,4,8,48,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-10,1,1,20131120,CLE,WAS
-Shot Chart Detail,0021300162,429,202686,Jan Vesely,1610612764,Washington Wizards,4,5,32,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,52,1,1,20131120,CLE,WAS
-Shot Chart Detail,0021300178,108,202686,Jan Vesely,1610612764,Washington Wizards,2,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,9,1,0,20131122,TOR,WAS
-Shot Chart Detail,0021300178,348,202686,Jan Vesely,1610612764,Washington Wizards,3,3,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,20,1,0,20131122,TOR,WAS
-Shot Chart Detail,0021300178,343,202686,Jan Vesely,1610612764,Washington Wizards,3,3,7,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,31,1,0,20131122,TOR,WAS
-Shot Chart Detail,0021300189,87,202686,Jan Vesely,1610612764,Washington Wizards,1,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,19,1,0,20131123,WAS,NYK
-Shot Chart Detail,0021300189,413,202686,Jan Vesely,1610612764,Washington Wizards,4,6,14,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,1,20131123,WAS,NYK
-Shot Chart Detail,0021300212,113,202686,Jan Vesely,1610612764,Washington Wizards,2,11,49,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20131126,WAS,LAL
-Shot Chart Detail,0021300212,126,202686,Jan Vesely,1610612764,Washington Wizards,2,10,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,0,20131126,WAS,LAL
-Shot Chart Detail,0021300212,375,202686,Jan Vesely,1610612764,Washington Wizards,4,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,14,1,0,20131126,WAS,LAL
-Shot Chart Detail,0021300222,54,202686,Jan Vesely,1610612764,Washington Wizards,1,4,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20131127,MIL,WAS
-Shot Chart Detail,0021300222,113,202686,Jan Vesely,1610612764,Washington Wizards,2,9,17,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,14,1,0,20131127,MIL,WAS
-Shot Chart Detail,0021300222,367,202686,Jan Vesely,1610612764,Washington Wizards,4,9,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,0,20131127,MIL,WAS
-Shot Chart Detail,0021300241,69,202686,Jan Vesely,1610612764,Washington Wizards,1,4,42,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20131130,WAS,ATL
-Shot Chart Detail,0021300241,105,202686,Jan Vesely,1610612764,Washington Wizards,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20131130,WAS,ATL
-Shot Chart Detail,0021300241,387,202686,Jan Vesely,1610612764,Washington Wizards,4,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,30,1,0,20131130,WAS,ATL
-Shot Chart Detail,0021300256,74,202686,Jan Vesely,1610612764,Washington Wizards,1,4,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,0,20131202,WAS,ORL
-Shot Chart Detail,0021300256,86,202686,Jan Vesely,1610612764,Washington Wizards,1,3,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,0,20131202,WAS,ORL
-Shot Chart Detail,0021300256,452,202686,Jan Vesely,1610612764,Washington Wizards,4,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,2,175,1,0,20131202,WAS,ORL
-Shot Chart Detail,0021300281,143,202686,Jan Vesely,1610612764,Washington Wizards,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,75,1,0,20131206,WAS,MIL
-Shot Chart Detail,0021300281,294,202686,Jan Vesely,1610612764,Washington Wizards,2,0,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20131206,WAS,MIL
-Shot Chart Detail,0021300306,128,202686,Jan Vesely,1610612764,Washington Wizards,2,11,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,45,1,0,20131209,WAS,DEN
-Shot Chart Detail,0021300306,375,202686,Jan Vesely,1610612764,Washington Wizards,4,11,40,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,23,1,1,20131209,WAS,DEN
-Shot Chart Detail,0021300332,111,202686,Jan Vesely,1610612764,Washington Wizards,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,55,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,138,202686,Jan Vesely,1610612764,Washington Wizards,2,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,156,202686,Jan Vesely,1610612764,Washington Wizards,2,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,158,202686,Jan Vesely,1610612764,Washington Wizards,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,113,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,170,202686,Jan Vesely,1610612764,Washington Wizards,2,7,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,332,202686,Jan Vesely,1610612764,Washington Wizards,3,4,9,Missed Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,66,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300332,373,202686,Jan Vesely,1610612764,Washington Wizards,3,1,21,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,73,56,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,431,202686,Jan Vesely,1610612764,Washington Wizards,4,9,18,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20131213,ATL,WAS
-Shot Chart Detail,0021300332,442,202686,Jan Vesely,1610612764,Washington Wizards,4,8,17,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,0,20131213,ATL,WAS
-Shot Chart Detail,0021300343,109,202686,Jan Vesely,1610612764,Washington Wizards,1,1,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,31,1,1,20131214,WAS,LAC
-Shot Chart Detail,0021300343,121,202686,Jan Vesely,1610612764,Washington Wizards,2,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,121,1,0,20131214,WAS,LAC
-Shot Chart Detail,0021300343,173,202686,Jan Vesely,1610612764,Washington Wizards,2,7,14,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20131214,WAS,LAC
-Shot Chart Detail,0021300361,418,202686,Jan Vesely,1610612764,Washington Wizards,4,7,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20131216,NYK,WAS
-Shot Chart Detail,0021300431,498,202686,Jan Vesely,1610612764,Washington Wizards,4,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,92,187,1,1,20131227,MIN,WAS
-Shot Chart Detail,0021300439,108,202686,Jan Vesely,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20131228,WAS,DET
-Shot Chart Detail,0021300439,395,202686,Jan Vesely,1610612764,Washington Wizards,4,11,13,Made Shot,Driving Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,15,1,1,20131228,WAS,DET
-Shot Chart Detail,0021300482,422,202686,Jan Vesely,1610612764,Washington Wizards,4,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140103,WAS,TOR
-Shot Chart Detail,0021300482,425,202686,Jan Vesely,1610612764,Washington Wizards,4,7,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,0,20140103,WAS,TOR
-Shot Chart Detail,0021300482,435,202686,Jan Vesely,1610612764,Washington Wizards,4,6,20,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,-2,1,1,20140103,WAS,TOR
-Shot Chart Detail,0021300501,317,202686,Jan Vesely,1610612764,Washington Wizards,3,6,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20140105,WAS,GSW
-Shot Chart Detail,0021300501,336,202686,Jan Vesely,1610612764,Washington Wizards,3,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,0,20140105,WAS,GSW
-Shot Chart Detail,0021300501,373,202686,Jan Vesely,1610612764,Washington Wizards,3,1,5,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,28,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300501,381,202686,Jan Vesely,1610612764,Washington Wizards,3,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,71,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300501,399,202686,Jan Vesely,1610612764,Washington Wizards,4,10,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300501,430,202686,Jan Vesely,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,26,1,0,20140105,WAS,GSW
-Shot Chart Detail,0021300501,515,202686,Jan Vesely,1610612764,Washington Wizards,4,0,17,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,25,1,1,20140105,WAS,GSW
-Shot Chart Detail,0021300508,181,202686,Jan Vesely,1610612764,Washington Wizards,2,6,13,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20140107,CHA,WAS
-Shot Chart Detail,0021300508,379,202686,Jan Vesely,1610612764,Washington Wizards,4,10,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,0,20140107,CHA,WAS
-Shot Chart Detail,0021300508,400,202686,Jan Vesely,1610612764,Washington Wizards,4,8,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20140107,CHA,WAS
-Shot Chart Detail,0021300508,416,202686,Jan Vesely,1610612764,Washington Wizards,4,7,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,28,1,1,20140107,CHA,WAS
-Shot Chart Detail,0021300525,137,202686,Jan Vesely,1610612764,Washington Wizards,1,0,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,6,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,169,202686,Jan Vesely,1610612764,Washington Wizards,2,9,6,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,183,202686,Jan Vesely,1610612764,Washington Wizards,2,7,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,23,1,0,20140108,NOP,WAS
-Shot Chart Detail,0021300525,221,202686,Jan Vesely,1610612764,Washington Wizards,2,4,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,34,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,236,202686,Jan Vesely,1610612764,Washington Wizards,2,3,5,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,256,202686,Jan Vesely,1610612764,Washington Wizards,2,0,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,418,202686,Jan Vesely,1610612764,Washington Wizards,4,8,35,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140108,NOP,WAS
-Shot Chart Detail,0021300525,444,202686,Jan Vesely,1610612764,Washington Wizards,4,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,20,1,0,20140108,NOP,WAS
-Shot Chart Detail,0021300544,109,202686,Jan Vesely,1610612764,Washington Wizards,1,0,26,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,1,20140111,WAS,HOU
-Shot Chart Detail,0021300544,171,202686,Jan Vesely,1610612764,Washington Wizards,2,7,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20140111,WAS,HOU
-Shot Chart Detail,0021300595,150,202686,Jan Vesely,1610612764,Washington Wizards,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,0,20140118,WAS,DET
-Shot Chart Detail,0021300595,189,202686,Jan Vesely,1610612764,Washington Wizards,2,5,10,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20140118,WAS,DET
-Shot Chart Detail,0021300595,203,202686,Jan Vesely,1610612764,Washington Wizards,2,4,40,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,1,20140118,WAS,DET
-Shot Chart Detail,0021300595,220,202686,Jan Vesely,1610612764,Washington Wizards,2,3,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140118,WAS,DET
-Shot Chart Detail,0021300595,391,202686,Jan Vesely,1610612764,Washington Wizards,3,0,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,66,1,0,20140118,WAS,DET
-Shot Chart Detail,0021300609,93,202686,Jan Vesely,1610612764,Washington Wizards,1,3,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140120,WAS,PHI
-Shot Chart Detail,0021300609,111,202686,Jan Vesely,1610612764,Washington Wizards,1,1,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20140120,WAS,PHI
-Shot Chart Detail,0021300609,451,202686,Jan Vesely,1610612764,Washington Wizards,4,11,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,28,1,0,20140120,WAS,PHI
-Shot Chart Detail,0021300609,464,202686,Jan Vesely,1610612764,Washington Wizards,4,10,17,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20140120,WAS,PHI
-Shot Chart Detail,0021300609,481,202686,Jan Vesely,1610612764,Washington Wizards,4,8,21,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20140120,WAS,PHI
-Shot Chart Detail,0021300711,114,202686,Jan Vesely,1610612764,Washington Wizards,2,9,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,0,20140203,WAS,POR
-Shot Chart Detail,0021300711,120,202686,Jan Vesely,1610612764,Washington Wizards,2,9,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,0,20140203,WAS,POR
-Shot Chart Detail,0021300742,394,202686,Jan Vesely,1610612764,Washington Wizards,4,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20140207,WAS,CLE
-Shot Chart Detail,0021300742,407,202686,Jan Vesely,1610612764,Washington Wizards,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,52,1,0,20140207,WAS,CLE
-Shot Chart Detail,0021300784,149,202686,Jan Vesely,1610612764,Washington Wizards,2,9,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140212,HOU,WAS
-Shot Chart Detail,0021300784,173,202686,Jan Vesely,1610612764,Washington Wizards,2,7,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,34,1,0,20140212,HOU,WAS
-Shot Chart Detail,0021300784,185,202686,Jan Vesely,1610612764,Washington Wizards,2,7,1,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,14,1,0,20140212,HOU,WAS
-Shot Chart Detail,0021300820,245,202686,Jan Vesely,1610612743,Denver Nuggets,2,0,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20140221,CHI,DEN
-Shot Chart Detail,0021300820,383,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,391,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,31,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,412,202686,Jan Vesely,1610612743,Denver Nuggets,4,9,7,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,440,202686,Jan Vesely,1610612743,Denver Nuggets,4,6,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,480,202686,Jan Vesely,1610612743,Denver Nuggets,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,45,1,0,20140221,CHI,DEN
-Shot Chart Detail,0021300820,521,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,9,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20140221,CHI,DEN
-Shot Chart Detail,0021300837,154,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,16,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20140223,DEN,SAC
-Shot Chart Detail,0021300837,198,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20140223,DEN,SAC
-Shot Chart Detail,0021300837,354,202686,Jan Vesely,1610612743,Denver Nuggets,3,4,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,124,1,1,20140223,DEN,SAC
-Shot Chart Detail,0021300837,569,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,44,1,0,20140223,DEN,SAC
-Shot Chart Detail,0021300837,572,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,155,112,1,0,20140223,DEN,SAC
-Shot Chart Detail,0021300850,114,202686,Jan Vesely,1610612743,Denver Nuggets,1,0,31,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300850,153,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,23,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,124,69,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300850,181,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,3,1,1,20140225,DEN,POR
-Shot Chart Detail,0021300850,185,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,47,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20140225,DEN,POR
-Shot Chart Detail,0021300850,431,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,27,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,7,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300850,435,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,91,1,0,20140225,DEN,POR
-Shot Chart Detail,0021300866,153,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,-2,1,0,20140227,DEN,BKN
-Shot Chart Detail,0021300866,314,202686,Jan Vesely,1610612743,Denver Nuggets,3,8,28,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,44,1,0,20140227,DEN,BKN
-Shot Chart Detail,0021300866,367,202686,Jan Vesely,1610612743,Denver Nuggets,3,2,55,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,48,1,0,20140227,DEN,BKN
-Shot Chart Detail,0021300895,209,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,11,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20140303,DEN,MIN
-Shot Chart Detail,0021300925,481,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,29,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-29,154,1,0,20140307,DEN,LAL
-Shot Chart Detail,0021300925,516,202686,Jan Vesely,1610612743,Denver Nuggets,4,5,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,1,1,0,20140307,DEN,LAL
-Shot Chart Detail,0021300936,239,202686,Jan Vesely,1610612743,Denver Nuggets,2,2,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20140309,NOP,DEN
-Shot Chart Detail,0021300936,242,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20140309,NOP,DEN
-Shot Chart Detail,0021300943,152,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20140310,CHA,DEN
-Shot Chart Detail,0021300943,406,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20140310,CHA,DEN
-Shot Chart Detail,0021300943,411,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20140310,CHA,DEN
-Shot Chart Detail,0021300943,435,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,0,20140310,CHA,DEN
-Shot Chart Detail,0021301015,271,202686,Jan Vesely,1610612743,Denver Nuggets,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,20,1,0,20140319,DEN,DET
-Shot Chart Detail,0021301042,103,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,34,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,106,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,130,202686,Jan Vesely,1610612743,Denver Nuggets,2,10,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,174,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,10,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,37,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,310,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,311,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,14,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,313,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-3,1,0,20140323,DEN,WAS
-Shot Chart Detail,0021301042,317,202686,Jan Vesely,1610612743,Denver Nuggets,3,4,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301042,341,202686,Jan Vesely,1610612743,Denver Nuggets,3,2,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20140323,DEN,WAS
-Shot Chart Detail,0021301084,238,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,5,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,45,1,0,20140328,DEN,SAS
-Shot Chart Detail,0021301084,422,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20140328,DEN,SAS
-Shot Chart Detail,0021301084,464,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,41,Missed Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,37,1,0,20140328,DEN,SAS
-Shot Chart Detail,0021301084,483,202686,Jan Vesely,1610612743,Denver Nuggets,4,6,58,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,33,1,1,20140328,DEN,SAS
-Shot Chart Detail,0021301109,99,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,44,1,0,20140331,DEN,MEM
-Shot Chart Detail,0021301109,152,202686,Jan Vesely,1610612743,Denver Nuggets,2,8,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140331,DEN,MEM
-Shot Chart Detail,0021301109,178,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20140331,DEN,MEM
-Shot Chart Detail,0021301109,376,202686,Jan Vesely,1610612743,Denver Nuggets,3,1,53,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140331,DEN,MEM
-Shot Chart Detail,0021301124,167,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,460,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,18,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,484,202686,Jan Vesely,1610612743,Denver Nuggets,4,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,548,202686,Jan Vesely,1610612743,Denver Nuggets,4,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301124,563,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20140402,DEN,NOP
-Shot Chart Detail,0021301124,573,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,21,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,1,20140402,DEN,NOP
-Shot Chart Detail,0021301129,22,202686,Jan Vesely,1610612743,Denver Nuggets,1,9,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,9,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,32,202686,Jan Vesely,1610612743,Denver Nuggets,1,8,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,80,202686,Jan Vesely,1610612743,Denver Nuggets,1,3,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,90,202686,Jan Vesely,1610612743,Denver Nuggets,1,2,49,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,0,20140404,MEM,DEN
-Shot Chart Detail,0021301129,360,202686,Jan Vesely,1610612743,Denver Nuggets,3,3,58,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140404,MEM,DEN
-Shot Chart Detail,0021301153,162,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20140406,HOU,DEN
-Shot Chart Detail,0021301153,169,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,56,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,42,77,1,0,20140406,HOU,DEN
-Shot Chart Detail,0021301153,200,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20140406,HOU,DEN
-Shot Chart Detail,0021301153,504,202686,Jan Vesely,1610612743,Denver Nuggets,4,5,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,0,20140406,HOU,DEN
-Shot Chart Detail,0021301171,184,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20140409,DEN,HOU
-Shot Chart Detail,0021301171,185,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,0,20140409,DEN,HOU
-Shot Chart Detail,0021301171,205,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140409,DEN,HOU
-Shot Chart Detail,0021301171,431,202686,Jan Vesely,1610612743,Denver Nuggets,3,1,34,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20140409,DEN,HOU
-Shot Chart Detail,0021301171,485,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,34,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20140409,DEN,HOU
-Shot Chart Detail,0021301175,126,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,46,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,56,1,1,20140410,GSW,DEN
-Shot Chart Detail,0021301175,398,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,9,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,9,96,1,1,20140410,GSW,DEN
-Shot Chart Detail,0021301196,150,202686,Jan Vesely,1610612743,Denver Nuggets,2,10,49,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,14,1,0,20140412,DEN,UTA
-Shot Chart Detail,0021301196,198,202686,Jan Vesely,1610612743,Denver Nuggets,2,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,0,20140412,DEN,UTA
-Shot Chart Detail,0021301215,72,202686,Jan Vesely,1610612743,Denver Nuggets,1,5,59,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20140415,LAC,DEN
-Shot Chart Detail,0021301215,77,202686,Jan Vesely,1610612743,Denver Nuggets,1,5,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301215,172,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,165,1,0,20140415,LAC,DEN
-Shot Chart Detail,0021301215,196,202686,Jan Vesely,1610612743,Denver Nuggets,2,5,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,30,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301215,412,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,5,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301215,481,202686,Jan Vesely,1610612743,Denver Nuggets,4,4,18,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,0,20140415,LAC,DEN
-Shot Chart Detail,0021301215,485,202686,Jan Vesely,1610612743,Denver Nuggets,4,3,57,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20140415,LAC,DEN
-Shot Chart Detail,0021301230,108,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20140416,DEN,GSW
-Shot Chart Detail,0021301230,283,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,18,Made Shot,Jump Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,34,1,1,20140416,DEN,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300820,245,202686,Jan Vesely,1610612743,Denver Nuggets,2,0,3,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20140221,0,CHI,DEN
+Shot Chart Detail,21300820,383,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,12,1,0,20140221,0,CHI,DEN
+Shot Chart Detail,21300820,391,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,55,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,31,1,0,20140221,0,CHI,DEN
+Shot Chart Detail,21300820,412,202686,Jan Vesely,1610612743,Denver Nuggets,4,9,7,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20140221,0,CHI,DEN
+Shot Chart Detail,21300820,440,202686,Jan Vesely,1610612743,Denver Nuggets,4,6,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,-3,1,0,20140221,0,CHI,DEN
+Shot Chart Detail,21300820,480,202686,Jan Vesely,1610612743,Denver Nuggets,4,2,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,45,1,0,20140221,0,CHI,DEN
+Shot Chart Detail,21300820,521,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,9,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,12,1,1,20140221,0,CHI,DEN
+Shot Chart Detail,21300837,154,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,16,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20140223,1,DEN,SAC
+Shot Chart Detail,21300837,198,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,11,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20140223,0,DEN,SAC
+Shot Chart Detail,21300837,354,202686,Jan Vesely,1610612743,Denver Nuggets,3,4,30,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,102,124,1,1,20140223,1,DEN,SAC
+Shot Chart Detail,21300837,569,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,11,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,44,1,0,20140223,0,DEN,SAC
+Shot Chart Detail,21300837,572,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,155,112,1,0,20140223,0,DEN,SAC
+Shot Chart Detail,21300850,114,202686,Jan Vesely,1610612743,Denver Nuggets,1,0,31,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,0,20140225,0,DEN,POR
+Shot Chart Detail,21300850,153,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,23,Missed Shot,Jump Bank Shot,,Mid-Range,Right Side(R),8-16 ft.,14,124,69,1,0,20140225,0,DEN,POR
+Shot Chart Detail,21300850,181,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,3,1,1,20140225,1,DEN,POR
+Shot Chart Detail,21300850,185,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,47,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20140225,1,DEN,POR
+Shot Chart Detail,21300850,431,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,27,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,7,1,0,20140225,0,DEN,POR
+Shot Chart Detail,21300850,435,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,91,1,0,20140225,0,DEN,POR
+Shot Chart Detail,21300866,153,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,49,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-30,-2,1,0,20140227,0,DEN,BKN
+Shot Chart Detail,21300866,314,202686,Jan Vesely,1610612743,Denver Nuggets,3,8,28,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,44,1,0,20140227,0,DEN,BKN
+Shot Chart Detail,21300866,367,202686,Jan Vesely,1610612743,Denver Nuggets,3,2,55,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,48,1,0,20140227,0,DEN,BKN
+Shot Chart Detail,21300895,209,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,11,Made Shot,Putback Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,6,1,1,20140303,0,DEN,MIN
+Shot Chart Detail,21300925,481,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,29,Missed Shot,Floating Jump shot,,Mid-Range,Center(C),8-16 ft.,15,-29,154,1,0,20140307,0,DEN,LAL
+Shot Chart Detail,21300925,516,202686,Jan Vesely,1610612743,Denver Nuggets,4,5,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,1,1,0,20140307,0,DEN,LAL
+Shot Chart Detail,21300936,239,202686,Jan Vesely,1610612743,Denver Nuggets,2,2,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20140309,1,NOP,DEN
+Shot Chart Detail,21300936,242,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,38,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,-3,1,1,20140309,1,NOP,DEN
+Shot Chart Detail,21300943,152,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20140310,1,CHA,DEN
+Shot Chart Detail,21300943,406,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20140310,1,CHA,DEN
+Shot Chart Detail,21300943,411,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20140310,0,CHA,DEN
+Shot Chart Detail,21300943,435,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,20,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,0,20140310,0,CHA,DEN
+Shot Chart Detail,21301015,271,202686,Jan Vesely,1610612743,Denver Nuggets,2,0,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,20,1,0,20140319,0,DEN,DET
+Shot Chart Detail,21301042,103,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,34,Made Shot,Driving Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20140323,0,DEN,WAS
+Shot Chart Detail,21301042,106,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,4,1,1,20140323,1,DEN,WAS
+Shot Chart Detail,21301042,130,202686,Jan Vesely,1610612743,Denver Nuggets,2,10,13,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20140323,1,DEN,WAS
+Shot Chart Detail,21301042,174,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,10,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,7,37,1,0,20140323,0,DEN,WAS
+Shot Chart Detail,21301042,310,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,0,20140323,0,DEN,WAS
+Shot Chart Detail,21301042,311,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,14,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,20,1,0,20140323,0,DEN,WAS
+Shot Chart Detail,21301042,313,202686,Jan Vesely,1610612743,Denver Nuggets,3,5,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,-3,1,0,20140323,0,DEN,WAS
+Shot Chart Detail,21301042,317,202686,Jan Vesely,1610612743,Denver Nuggets,3,4,46,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140323,1,DEN,WAS
+Shot Chart Detail,21301042,341,202686,Jan Vesely,1610612743,Denver Nuggets,3,2,31,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20140323,0,DEN,WAS
+Shot Chart Detail,21301084,238,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,5,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,45,1,0,20140328,0,DEN,SAS
+Shot Chart Detail,21301084,422,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20140328,1,DEN,SAS
+Shot Chart Detail,21301084,464,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,41,Missed Shot,Jump Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-15,37,1,0,20140328,0,DEN,SAS
+Shot Chart Detail,21301084,483,202686,Jan Vesely,1610612743,Denver Nuggets,4,6,58,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,33,1,1,20140328,1,DEN,SAS
+Shot Chart Detail,21301109,99,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,26,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,44,1,0,20140331,0,DEN,MEM
+Shot Chart Detail,21301109,152,202686,Jan Vesely,1610612743,Denver Nuggets,2,8,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-19,4,1,1,20140331,1,DEN,MEM
+Shot Chart Detail,21301109,178,202686,Jan Vesely,1610612743,Denver Nuggets,2,6,26,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20140331,1,DEN,MEM
+Shot Chart Detail,21301109,376,202686,Jan Vesely,1610612743,Denver Nuggets,3,1,53,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140331,0,DEN,MEM
+Shot Chart Detail,21301124,167,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,34,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20140402,0,DEN,NOP
+Shot Chart Detail,21301124,460,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,18,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20140402,1,DEN,NOP
+Shot Chart Detail,21301124,484,202686,Jan Vesely,1610612743,Denver Nuggets,4,9,11,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140402,1,DEN,NOP
+Shot Chart Detail,21301124,548,202686,Jan Vesely,1610612743,Denver Nuggets,4,2,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20140402,0,DEN,NOP
+Shot Chart Detail,21301124,563,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,57,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20140402,0,DEN,NOP
+Shot Chart Detail,21301124,573,202686,Jan Vesely,1610612743,Denver Nuggets,4,0,21,Made Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,1,20140402,1,DEN,NOP
+Shot Chart Detail,21301129,22,202686,Jan Vesely,1610612743,Denver Nuggets,1,9,17,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,9,1,0,20140404,0,MEM,DEN
+Shot Chart Detail,21301129,32,202686,Jan Vesely,1610612743,Denver Nuggets,1,8,9,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,0,20140404,0,MEM,DEN
+Shot Chart Detail,21301129,80,202686,Jan Vesely,1610612743,Denver Nuggets,1,3,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20140404,0,MEM,DEN
+Shot Chart Detail,21301129,90,202686,Jan Vesely,1610612743,Denver Nuggets,1,2,49,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,0,20140404,0,MEM,DEN
+Shot Chart Detail,21301129,360,202686,Jan Vesely,1610612743,Denver Nuggets,3,3,58,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20140404,1,MEM,DEN
+Shot Chart Detail,21301153,162,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,11,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20140406,1,HOU,DEN
+Shot Chart Detail,21301153,169,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,56,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,42,77,1,0,20140406,0,HOU,DEN
+Shot Chart Detail,21301153,200,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20140406,1,HOU,DEN
+Shot Chart Detail,21301153,504,202686,Jan Vesely,1610612743,Denver Nuggets,4,5,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,0,20140406,0,HOU,DEN
+Shot Chart Detail,21301171,184,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,0,20140409,0,DEN,HOU
+Shot Chart Detail,21301171,185,202686,Jan Vesely,1610612743,Denver Nuggets,2,9,15,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,0,20140409,0,DEN,HOU
+Shot Chart Detail,21301171,205,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140409,1,DEN,HOU
+Shot Chart Detail,21301171,431,202686,Jan Vesely,1610612743,Denver Nuggets,3,1,34,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,14,1,1,20140409,0,DEN,HOU
+Shot Chart Detail,21301171,485,202686,Jan Vesely,1610612743,Denver Nuggets,4,8,34,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20140409,1,DEN,HOU
+Shot Chart Detail,21301175,126,202686,Jan Vesely,1610612743,Denver Nuggets,2,11,46,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,56,1,1,20140410,1,GSW,DEN
+Shot Chart Detail,21301175,398,202686,Jan Vesely,1610612743,Denver Nuggets,4,11,9,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,9,96,1,1,20140410,1,GSW,DEN
+Shot Chart Detail,21301196,150,202686,Jan Vesely,1610612743,Denver Nuggets,2,10,49,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,14,1,0,20140412,0,DEN,UTA
+Shot Chart Detail,21301196,198,202686,Jan Vesely,1610612743,Denver Nuggets,2,5,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,0,20140412,0,DEN,UTA
+Shot Chart Detail,21301215,72,202686,Jan Vesely,1610612743,Denver Nuggets,1,5,59,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,0,20140415,0,LAC,DEN
+Shot Chart Detail,21301215,77,202686,Jan Vesely,1610612743,Denver Nuggets,1,5,0,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20140415,1,LAC,DEN
+Shot Chart Detail,21301215,172,202686,Jan Vesely,1610612743,Denver Nuggets,2,7,26,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-109,165,1,0,20140415,0,LAC,DEN
+Shot Chart Detail,21301215,196,202686,Jan Vesely,1610612743,Denver Nuggets,2,5,41,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-15,30,1,1,20140415,1,LAC,DEN
+Shot Chart Detail,21301215,412,202686,Jan Vesely,1610612743,Denver Nuggets,4,10,5,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,22,1,1,20140415,0,LAC,DEN
+Shot Chart Detail,21301215,481,202686,Jan Vesely,1610612743,Denver Nuggets,4,4,18,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,0,20140415,0,LAC,DEN
+Shot Chart Detail,21301215,485,202686,Jan Vesely,1610612743,Denver Nuggets,4,3,57,Made Shot,Putback Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20140415,0,LAC,DEN
+Shot Chart Detail,21301230,108,202686,Jan Vesely,1610612743,Denver Nuggets,1,1,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20140416,1,DEN,GSW
+Shot Chart Detail,21301230,283,202686,Jan Vesely,1610612743,Denver Nuggets,2,1,18,Made Shot,Jump Bank Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,34,1,1,20140416,1,DEN,GSW
+Shot Chart Detail,21300117,86,202686,Jan Vesely,1610612764,Washington Wizards,1,2,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,0,20131113,0,SAS,WAS
+Shot Chart Detail,21300117,133,202686,Jan Vesely,1610612764,Washington Wizards,2,8,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,0,20131113,0,SAS,WAS
+Shot Chart Detail,21300117,326,202686,Jan Vesely,1610612764,Washington Wizards,3,0,9,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,3,1,0,20131113,0,SAS,WAS
+Shot Chart Detail,21300117,431,202686,Jan Vesely,1610612764,Washington Wizards,4,1,41,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20131113,1,SAS,WAS
+Shot Chart Detail,21300138,142,202686,Jan Vesely,1610612764,Washington Wizards,1,0,0,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,-2,1,1,20131116,1,WAS,CLE
+Shot Chart Detail,21300138,154,202686,Jan Vesely,1610612764,Washington Wizards,2,9,44,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-114,108,1,0,20131116,0,WAS,CLE
+Shot Chart Detail,21300138,343,202686,Jan Vesely,1610612764,Washington Wizards,3,2,45,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20131116,0,WAS,CLE
+Shot Chart Detail,21300156,113,202686,Jan Vesely,1610612764,Washington Wizards,1,1,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20131119,1,WAS,MIN
+Shot Chart Detail,21300156,115,202686,Jan Vesely,1610612764,Washington Wizards,1,1,0,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20131119,1,WAS,MIN
+Shot Chart Detail,21300156,138,202686,Jan Vesely,1610612764,Washington Wizards,2,10,32,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20131119,1,WAS,MIN
+Shot Chart Detail,21300156,432,202686,Jan Vesely,1610612764,Washington Wizards,4,5,47,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-3,1,1,20131119,1,WAS,MIN
+Shot Chart Detail,21300162,112,202686,Jan Vesely,1610612764,Washington Wizards,1,0,35,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20131120,0,CLE,WAS
+Shot Chart Detail,21300162,401,202686,Jan Vesely,1610612764,Washington Wizards,4,8,48,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,-10,1,1,20131120,1,CLE,WAS
+Shot Chart Detail,21300162,429,202686,Jan Vesely,1610612764,Washington Wizards,4,5,32,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-41,52,1,1,20131120,1,CLE,WAS
+Shot Chart Detail,21300178,108,202686,Jan Vesely,1610612764,Washington Wizards,2,10,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-26,9,1,0,20131122,0,TOR,WAS
+Shot Chart Detail,21300178,348,202686,Jan Vesely,1610612764,Washington Wizards,3,3,13,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-3,20,1,0,20131122,0,TOR,WAS
+Shot Chart Detail,21300178,343,202686,Jan Vesely,1610612764,Washington Wizards,3,3,7,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,15,31,1,0,20131122,0,TOR,WAS
+Shot Chart Detail,21300189,87,202686,Jan Vesely,1610612764,Washington Wizards,1,2,18,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,19,1,0,20131123,0,WAS,NYK
+Shot Chart Detail,21300189,413,202686,Jan Vesely,1610612764,Washington Wizards,4,6,14,Made Shot,Driving Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,1,1,1,20131123,1,WAS,NYK
+Shot Chart Detail,21300212,113,202686,Jan Vesely,1610612764,Washington Wizards,2,11,49,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20131126,0,WAS,LAL
+Shot Chart Detail,21300212,126,202686,Jan Vesely,1610612764,Washington Wizards,2,10,14,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,0,20131126,0,WAS,LAL
+Shot Chart Detail,21300212,375,202686,Jan Vesely,1610612764,Washington Wizards,4,8,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-174,14,1,0,20131126,0,WAS,LAL
+Shot Chart Detail,21300222,54,202686,Jan Vesely,1610612764,Washington Wizards,1,4,14,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20131127,1,MIL,WAS
+Shot Chart Detail,21300222,113,202686,Jan Vesely,1610612764,Washington Wizards,2,9,17,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-34,14,1,0,20131127,0,MIL,WAS
+Shot Chart Detail,21300222,367,202686,Jan Vesely,1610612764,Washington Wizards,4,9,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,0,20131127,0,MIL,WAS
+Shot Chart Detail,21300241,69,202686,Jan Vesely,1610612764,Washington Wizards,1,4,42,Made Shot,Driving Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20131130,1,WAS,ATL
+Shot Chart Detail,21300241,105,202686,Jan Vesely,1610612764,Washington Wizards,1,0,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20131130,0,WAS,ATL
+Shot Chart Detail,21300241,387,202686,Jan Vesely,1610612764,Washington Wizards,4,11,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,130,30,1,0,20131130,0,WAS,ATL
+Shot Chart Detail,21300256,74,202686,Jan Vesely,1610612764,Washington Wizards,1,4,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,0,20131202,0,WAS,ORL
+Shot Chart Detail,21300256,86,202686,Jan Vesely,1610612764,Washington Wizards,1,3,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,0,20131202,0,WAS,ORL
+Shot Chart Detail,21300256,452,202686,Jan Vesely,1610612764,Washington Wizards,4,5,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,2,175,1,0,20131202,0,WAS,ORL
+Shot Chart Detail,21300281,143,202686,Jan Vesely,1610612764,Washington Wizards,2,10,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-103,75,1,0,20131206,0,WAS,MIL
+Shot Chart Detail,21300281,294,202686,Jan Vesely,1610612764,Washington Wizards,2,0,2,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20131206,1,WAS,MIL
+Shot Chart Detail,21300306,128,202686,Jan Vesely,1610612764,Washington Wizards,2,11,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,45,1,0,20131209,0,WAS,DEN
+Shot Chart Detail,21300306,375,202686,Jan Vesely,1610612764,Washington Wizards,4,11,40,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,26,23,1,1,20131209,1,WAS,DEN
+Shot Chart Detail,21300332,111,202686,Jan Vesely,1610612764,Washington Wizards,1,1,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-54,55,1,0,20131213,0,ATL,WAS
+Shot Chart Detail,21300332,138,202686,Jan Vesely,1610612764,Washington Wizards,2,10,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20131213,0,ATL,WAS
+Shot Chart Detail,21300332,156,202686,Jan Vesely,1610612764,Washington Wizards,2,8,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,0,20131213,0,ATL,WAS
+Shot Chart Detail,21300332,158,202686,Jan Vesely,1610612764,Washington Wizards,2,8,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,163,113,1,0,20131213,0,ATL,WAS
+Shot Chart Detail,21300332,170,202686,Jan Vesely,1610612764,Washington Wizards,2,7,25,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20131213,1,ATL,WAS
+Shot Chart Detail,21300332,332,202686,Jan Vesely,1610612764,Washington Wizards,3,4,9,Missed Shot,Driving Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,66,1,0,20131213,0,ATL,WAS
+Shot Chart Detail,21300332,373,202686,Jan Vesely,1610612764,Washington Wizards,3,1,21,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,73,56,1,1,20131213,0,ATL,WAS
+Shot Chart Detail,21300332,431,202686,Jan Vesely,1610612764,Washington Wizards,4,9,18,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,-2,1,1,20131213,1,ATL,WAS
+Shot Chart Detail,21300332,442,202686,Jan Vesely,1610612764,Washington Wizards,4,8,17,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-3,1,0,20131213,0,ATL,WAS
+Shot Chart Detail,21300343,109,202686,Jan Vesely,1610612764,Washington Wizards,1,1,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-76,31,1,1,20131214,0,WAS,LAC
+Shot Chart Detail,21300343,121,202686,Jan Vesely,1610612764,Washington Wizards,2,11,40,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-117,121,1,0,20131214,0,WAS,LAC
+Shot Chart Detail,21300343,173,202686,Jan Vesely,1610612764,Washington Wizards,2,7,14,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20131214,1,WAS,LAC
+Shot Chart Detail,21300361,418,202686,Jan Vesely,1610612764,Washington Wizards,4,7,19,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20131216,1,NYK,WAS
+Shot Chart Detail,21300431,498,202686,Jan Vesely,1610612764,Washington Wizards,4,0,46,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,92,187,1,1,20131227,0,MIN,WAS
+Shot Chart Detail,21300439,108,202686,Jan Vesely,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20131228,1,WAS,DET
+Shot Chart Detail,21300439,395,202686,Jan Vesely,1610612764,Washington Wizards,4,11,13,Made Shot,Driving Bank shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-35,15,1,1,20131228,1,WAS,DET
+Shot Chart Detail,21300482,422,202686,Jan Vesely,1610612764,Washington Wizards,4,7,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140103,1,WAS,TOR
+Shot Chart Detail,21300482,425,202686,Jan Vesely,1610612764,Washington Wizards,4,7,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,0,20140103,0,WAS,TOR
+Shot Chart Detail,21300482,435,202686,Jan Vesely,1610612764,Washington Wizards,4,6,20,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,-2,1,1,20140103,1,WAS,TOR
+Shot Chart Detail,21300501,317,202686,Jan Vesely,1610612764,Washington Wizards,3,6,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20140105,0,WAS,GSW
+Shot Chart Detail,21300501,336,202686,Jan Vesely,1610612764,Washington Wizards,3,4,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,11,1,0,20140105,0,WAS,GSW
+Shot Chart Detail,21300501,373,202686,Jan Vesely,1610612764,Washington Wizards,3,1,5,Made Shot,Turnaround Bank shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,28,1,1,20140105,1,WAS,GSW
+Shot Chart Detail,21300501,381,202686,Jan Vesely,1610612764,Washington Wizards,3,0,10,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,176,71,1,1,20140105,1,WAS,GSW
+Shot Chart Detail,21300501,399,202686,Jan Vesely,1610612764,Washington Wizards,4,10,50,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20140105,1,WAS,GSW
+Shot Chart Detail,21300501,430,202686,Jan Vesely,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,26,1,0,20140105,0,WAS,GSW
+Shot Chart Detail,21300501,515,202686,Jan Vesely,1610612764,Washington Wizards,4,0,17,Made Shot,Putback Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-11,25,1,1,20140105,0,WAS,GSW
+Shot Chart Detail,21300508,181,202686,Jan Vesely,1610612764,Washington Wizards,2,6,13,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,3,1,1,20140107,0,CHA,WAS
+Shot Chart Detail,21300508,379,202686,Jan Vesely,1610612764,Washington Wizards,4,10,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,0,20140107,0,CHA,WAS
+Shot Chart Detail,21300508,400,202686,Jan Vesely,1610612764,Washington Wizards,4,8,52,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20140107,0,CHA,WAS
+Shot Chart Detail,21300508,416,202686,Jan Vesely,1610612764,Washington Wizards,4,7,22,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,28,1,1,20140107,1,CHA,WAS
+Shot Chart Detail,21300525,137,202686,Jan Vesely,1610612764,Washington Wizards,1,0,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,6,1,1,20140108,1,NOP,WAS
+Shot Chart Detail,21300525,169,202686,Jan Vesely,1610612764,Washington Wizards,2,9,6,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,41,1,1,20140108,1,NOP,WAS
+Shot Chart Detail,21300525,183,202686,Jan Vesely,1610612764,Washington Wizards,2,7,6,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,23,1,0,20140108,0,NOP,WAS
+Shot Chart Detail,21300525,221,202686,Jan Vesely,1610612764,Washington Wizards,2,4,40,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,34,1,1,20140108,1,NOP,WAS
+Shot Chart Detail,21300525,236,202686,Jan Vesely,1610612764,Washington Wizards,2,3,5,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20140108,1,NOP,WAS
+Shot Chart Detail,21300525,256,202686,Jan Vesely,1610612764,Washington Wizards,2,0,2,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,17,1,1,20140108,0,NOP,WAS
+Shot Chart Detail,21300525,418,202686,Jan Vesely,1610612764,Washington Wizards,4,8,35,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20140108,1,NOP,WAS
+Shot Chart Detail,21300525,444,202686,Jan Vesely,1610612764,Washington Wizards,4,6,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,20,1,0,20140108,0,NOP,WAS
+Shot Chart Detail,21300544,109,202686,Jan Vesely,1610612764,Washington Wizards,1,0,26,Made Shot,Running Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,1,20140111,0,WAS,HOU
+Shot Chart Detail,21300544,171,202686,Jan Vesely,1610612764,Washington Wizards,2,7,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20140111,0,WAS,HOU
+Shot Chart Detail,21300595,150,202686,Jan Vesely,1610612764,Washington Wizards,2,8,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,0,20140118,0,WAS,DET
+Shot Chart Detail,21300595,189,202686,Jan Vesely,1610612764,Washington Wizards,2,5,10,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20140118,1,WAS,DET
+Shot Chart Detail,21300595,203,202686,Jan Vesely,1610612764,Washington Wizards,2,4,40,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,-5,1,1,20140118,0,WAS,DET
+Shot Chart Detail,21300595,220,202686,Jan Vesely,1610612764,Washington Wizards,2,3,35,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140118,1,WAS,DET
+Shot Chart Detail,21300595,391,202686,Jan Vesely,1610612764,Washington Wizards,3,0,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,66,1,0,20140118,0,WAS,DET
+Shot Chart Detail,21300609,93,202686,Jan Vesely,1610612764,Washington Wizards,1,3,26,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,1,20140120,1,WAS,PHI
+Shot Chart Detail,21300609,111,202686,Jan Vesely,1610612764,Washington Wizards,1,1,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20140120,0,WAS,PHI
+Shot Chart Detail,21300609,451,202686,Jan Vesely,1610612764,Washington Wizards,4,11,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,28,1,0,20140120,0,WAS,PHI
+Shot Chart Detail,21300609,464,202686,Jan Vesely,1610612764,Washington Wizards,4,10,17,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20140120,1,WAS,PHI
+Shot Chart Detail,21300609,481,202686,Jan Vesely,1610612764,Washington Wizards,4,8,21,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,14,1,1,20140120,1,WAS,PHI
+Shot Chart Detail,21300711,114,202686,Jan Vesely,1610612764,Washington Wizards,2,9,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,0,20140203,0,WAS,POR
+Shot Chart Detail,21300711,120,202686,Jan Vesely,1610612764,Washington Wizards,2,9,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,0,20140203,0,WAS,POR
+Shot Chart Detail,21300742,394,202686,Jan Vesely,1610612764,Washington Wizards,4,10,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,0,20140207,0,WAS,CLE
+Shot Chart Detail,21300742,407,202686,Jan Vesely,1610612764,Washington Wizards,4,9,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,52,1,0,20140207,0,WAS,CLE
+Shot Chart Detail,21300784,149,202686,Jan Vesely,1610612764,Washington Wizards,2,9,59,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,3,1,1,20140212,1,HOU,WAS
+Shot Chart Detail,21300784,173,202686,Jan Vesely,1610612764,Washington Wizards,2,7,37,Missed Shot,Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,34,1,0,20140212,0,HOU,WAS
+Shot Chart Detail,21300784,185,202686,Jan Vesely,1610612764,Washington Wizards,2,7,1,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,14,1,0,20140212,0,HOU,WAS

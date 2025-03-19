@@ -1,65 +1,33 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300107,500,201202,Joel Anthony,1610612748,Miami Heat,4,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,12,1,1,20131112,MIA,MIL
-Shot Chart Detail,0021300136,186,201202,Joel Anthony,1610612748,Miami Heat,2,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,0,20131116,CHA,MIA
-Shot Chart Detail,0021300158,506,201202,Joel Anthony,1610612748,Miami Heat,4,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,127,1,0,20131119,MIA,ATL
-Shot Chart Detail,0021300205,533,201202,Joel Anthony,1610612748,Miami Heat,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,127,1,0,20131125,MIA,PHX
-Shot Chart Detail,0021300360,473,201202,Joel Anthony,1610612748,Miami Heat,4,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20131216,MIA,UTA
-Shot Chart Detail,0021300490,523,201202,Joel Anthony,1610612748,Miami Heat,4,0,10,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,91,1,0,20140104,ORL,MIA
-Shot Chart Detail,0021300617,173,201202,Joel Anthony,1610612738,Boston Celtics,2,5,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,119,1,1,20140121,MIA,BOS
-Shot Chart Detail,0021300625,143,201202,Joel Anthony,1610612738,Boston Celtics,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,41,1,0,20140122,WAS,BOS
-Shot Chart Detail,0021300636,307,201202,Joel Anthony,1610612738,Boston Celtics,3,3,41,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,47,1,0,20140124,BOS,OKC
-Shot Chart Detail,0021300636,326,201202,Joel Anthony,1610612738,Boston Celtics,3,2,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,0,20140124,BOS,OKC
-Shot Chart Detail,0021300743,224,201202,Joel Anthony,1610612738,Boston Celtics,2,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,-5,1,1,20140207,BOS,SAC
-Shot Chart Detail,0021300780,393,201202,Joel Anthony,1610612738,Boston Celtics,4,6,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,12,1,0,20140212,BOS,SAS
-Shot Chart Detail,0021300831,96,201202,Joel Anthony,1610612738,Boston Celtics,1,2,47,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,39,1,1,20140222,SAC,BOS
-Shot Chart Detail,0021300831,109,201202,Joel Anthony,1610612738,Boston Celtics,1,0,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,29,1,0,20140222,SAC,BOS
-Shot Chart Detail,0021300831,191,201202,Joel Anthony,1610612738,Boston Celtics,2,5,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,0,20140222,SAC,BOS
-Shot Chart Detail,0021300854,104,201202,Joel Anthony,1610612738,Boston Celtics,1,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20140226,BOS,ATL
-Shot Chart Detail,0021300854,119,201202,Joel Anthony,1610612738,Boston Celtics,2,11,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,84,88,1,1,20140226,BOS,ATL
-Shot Chart Detail,0021300854,323,201202,Joel Anthony,1610612738,Boston Celtics,3,5,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20140226,BOS,ATL
-Shot Chart Detail,0021300907,506,201202,Joel Anthony,1610612738,Boston Celtics,4,1,3,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,0,20140305,BOS,GSW
-Shot Chart Detail,0021301026,455,201202,Joel Anthony,1610612738,Boston Celtics,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20140321,BKN,BOS
-Shot Chart Detail,0021301119,119,201202,Joel Anthony,1610612738,Boston Celtics,2,11,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,25,1,0,20140402,WAS,BOS
-Shot Chart Detail,0021301119,165,201202,Joel Anthony,1610612738,Boston Celtics,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,162,1,0,20140402,WAS,BOS
-Shot Chart Detail,0021301119,244,201202,Joel Anthony,1610612738,Boston Celtics,2,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20140402,WAS,BOS
-Shot Chart Detail,0021301193,130,201202,Joel Anthony,1610612738,Boston Celtics,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,58,1,0,20140412,CLE,BOS
-Shot Chart Detail,0021301193,164,201202,Joel Anthony,1610612738,Boston Celtics,2,11,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20140412,CLE,BOS
-Shot Chart Detail,0021301193,212,201202,Joel Anthony,1610612738,Boston Celtics,2,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,58,1,0,20140412,CLE,BOS
-Shot Chart Detail,0021301193,411,201202,Joel Anthony,1610612738,Boston Celtics,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,42,1,0,20140412,CLE,BOS
-Shot Chart Detail,0021301193,494,201202,Joel Anthony,1610612738,Boston Celtics,4,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20140412,CLE,BOS
-Shot Chart Detail,0021301204,178,201202,Joel Anthony,1610612738,Boston Celtics,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,94,1,0,20140414,PHI,BOS
-Shot Chart Detail,0021301222,175,201202,Joel Anthony,1610612738,Boston Celtics,2,7,40,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,56,1,1,20140416,BOS,WAS
-Shot Chart Detail,0021301222,312,201202,Joel Anthony,1610612738,Boston Celtics,3,5,54,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,12,1,0,20140416,BOS,WAS
-Shot Chart Detail,0021301222,490,201202,Joel Anthony,1610612738,Boston Celtics,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,17,1,1,20140416,BOS,WAS
-Shot Chart Detail,0021300107,500,201202,Joel Anthony,1610612748,Miami Heat,4,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,12,1,1,20131112,MIA,MIL
-Shot Chart Detail,0021300136,186,201202,Joel Anthony,1610612748,Miami Heat,2,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,0,20131116,CHA,MIA
-Shot Chart Detail,0021300158,506,201202,Joel Anthony,1610612748,Miami Heat,4,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,127,1,0,20131119,MIA,ATL
-Shot Chart Detail,0021300205,533,201202,Joel Anthony,1610612748,Miami Heat,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,127,1,0,20131125,MIA,PHX
-Shot Chart Detail,0021300360,473,201202,Joel Anthony,1610612748,Miami Heat,4,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20131216,MIA,UTA
-Shot Chart Detail,0021300490,523,201202,Joel Anthony,1610612748,Miami Heat,4,0,10,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,91,1,0,20140104,ORL,MIA
-Shot Chart Detail,0021300617,173,201202,Joel Anthony,1610612738,Boston Celtics,2,5,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,119,1,1,20140121,MIA,BOS
-Shot Chart Detail,0021300625,143,201202,Joel Anthony,1610612738,Boston Celtics,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,41,1,0,20140122,WAS,BOS
-Shot Chart Detail,0021300636,307,201202,Joel Anthony,1610612738,Boston Celtics,3,3,41,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,47,1,0,20140124,BOS,OKC
-Shot Chart Detail,0021300636,326,201202,Joel Anthony,1610612738,Boston Celtics,3,2,5,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,0,20140124,BOS,OKC
-Shot Chart Detail,0021300743,224,201202,Joel Anthony,1610612738,Boston Celtics,2,5,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,-5,1,1,20140207,BOS,SAC
-Shot Chart Detail,0021300780,393,201202,Joel Anthony,1610612738,Boston Celtics,4,6,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,12,1,0,20140212,BOS,SAS
-Shot Chart Detail,0021300831,96,201202,Joel Anthony,1610612738,Boston Celtics,1,2,47,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,39,1,1,20140222,SAC,BOS
-Shot Chart Detail,0021300831,109,201202,Joel Anthony,1610612738,Boston Celtics,1,0,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,29,1,0,20140222,SAC,BOS
-Shot Chart Detail,0021300831,191,201202,Joel Anthony,1610612738,Boston Celtics,2,5,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,0,20140222,SAC,BOS
-Shot Chart Detail,0021300854,104,201202,Joel Anthony,1610612738,Boston Celtics,1,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20140226,BOS,ATL
-Shot Chart Detail,0021300854,119,201202,Joel Anthony,1610612738,Boston Celtics,2,11,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,84,88,1,1,20140226,BOS,ATL
-Shot Chart Detail,0021300854,323,201202,Joel Anthony,1610612738,Boston Celtics,3,5,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20140226,BOS,ATL
-Shot Chart Detail,0021300907,506,201202,Joel Anthony,1610612738,Boston Celtics,4,1,3,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,0,20140305,BOS,GSW
-Shot Chart Detail,0021301026,455,201202,Joel Anthony,1610612738,Boston Celtics,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20140321,BKN,BOS
-Shot Chart Detail,0021301119,119,201202,Joel Anthony,1610612738,Boston Celtics,2,11,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,25,1,0,20140402,WAS,BOS
-Shot Chart Detail,0021301119,165,201202,Joel Anthony,1610612738,Boston Celtics,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,162,1,0,20140402,WAS,BOS
-Shot Chart Detail,0021301119,244,201202,Joel Anthony,1610612738,Boston Celtics,2,1,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20140402,WAS,BOS
-Shot Chart Detail,0021301193,130,201202,Joel Anthony,1610612738,Boston Celtics,1,1,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,58,1,0,20140412,CLE,BOS
-Shot Chart Detail,0021301193,164,201202,Joel Anthony,1610612738,Boston Celtics,2,11,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20140412,CLE,BOS
-Shot Chart Detail,0021301193,212,201202,Joel Anthony,1610612738,Boston Celtics,2,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,58,1,0,20140412,CLE,BOS
-Shot Chart Detail,0021301193,411,201202,Joel Anthony,1610612738,Boston Celtics,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,42,1,0,20140412,CLE,BOS
-Shot Chart Detail,0021301193,494,201202,Joel Anthony,1610612738,Boston Celtics,4,6,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20140412,CLE,BOS
-Shot Chart Detail,0021301204,178,201202,Joel Anthony,1610612738,Boston Celtics,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,94,1,0,20140414,PHI,BOS
-Shot Chart Detail,0021301222,175,201202,Joel Anthony,1610612738,Boston Celtics,2,7,40,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,56,1,1,20140416,BOS,WAS
-Shot Chart Detail,0021301222,312,201202,Joel Anthony,1610612738,Boston Celtics,3,5,54,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,12,1,0,20140416,BOS,WAS
-Shot Chart Detail,0021301222,490,201202,Joel Anthony,1610612738,Boston Celtics,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,17,1,1,20140416,BOS,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300617,173,201202,Joel Anthony,1610612738,Boston Celtics,2,5,41,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-60,119,1,1,20140121,1,MIA,BOS
+Shot Chart Detail,21300625,143,201202,Joel Anthony,1610612738,Boston Celtics,2,10,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-105,41,1,0,20140122,0,WAS,BOS
+Shot Chart Detail,21300636,307,201202,Joel Anthony,1610612738,Boston Celtics,3,3,41,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,47,1,0,20140124,0,BOS,OKC
+Shot Chart Detail,21300636,326,201202,Joel Anthony,1610612738,Boston Celtics,3,2,5,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,15,26,1,0,20140124,0,BOS,OKC
+Shot Chart Detail,21300743,224,201202,Joel Anthony,1610612738,Boston Celtics,2,5,17,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,118,-5,1,1,20140207,0,BOS,SAC
+Shot Chart Detail,21300780,393,201202,Joel Anthony,1610612738,Boston Celtics,4,6,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,12,1,0,20140212,0,BOS,SAS
+Shot Chart Detail,21300831,96,201202,Joel Anthony,1610612738,Boston Celtics,1,2,47,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,39,1,1,20140222,0,SAC,BOS
+Shot Chart Detail,21300831,109,201202,Joel Anthony,1610612738,Boston Celtics,1,0,56,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,29,1,0,20140222,0,SAC,BOS
+Shot Chart Detail,21300831,191,201202,Joel Anthony,1610612738,Boston Celtics,2,5,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,0,20140222,0,SAC,BOS
+Shot Chart Detail,21300854,104,201202,Joel Anthony,1610612738,Boston Celtics,1,1,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20140226,1,BOS,ATL
+Shot Chart Detail,21300854,119,201202,Joel Anthony,1610612738,Boston Celtics,2,11,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,84,88,1,1,20140226,1,BOS,ATL
+Shot Chart Detail,21300854,323,201202,Joel Anthony,1610612738,Boston Celtics,3,5,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20140226,0,BOS,ATL
+Shot Chart Detail,21300907,506,201202,Joel Anthony,1610612738,Boston Celtics,4,1,3,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,17,1,0,20140305,0,BOS,GSW
+Shot Chart Detail,21301026,455,201202,Joel Anthony,1610612738,Boston Celtics,4,2,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20140321,0,BKN,BOS
+Shot Chart Detail,21301119,119,201202,Joel Anthony,1610612738,Boston Celtics,2,11,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-17,25,1,0,20140402,0,WAS,BOS
+Shot Chart Detail,21301119,165,201202,Joel Anthony,1610612738,Boston Celtics,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-18,162,1,0,20140402,0,WAS,BOS
+Shot Chart Detail,21301119,244,201202,Joel Anthony,1610612738,Boston Celtics,2,1,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20140402,1,WAS,BOS
+Shot Chart Detail,21301193,130,201202,Joel Anthony,1610612738,Boston Celtics,1,1,10,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,58,1,0,20140412,0,CLE,BOS
+Shot Chart Detail,21301193,164,201202,Joel Anthony,1610612738,Boston Celtics,2,11,5,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20140412,0,CLE,BOS
+Shot Chart Detail,21301193,212,201202,Joel Anthony,1610612738,Boston Celtics,2,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,58,1,0,20140412,0,CLE,BOS
+Shot Chart Detail,21301193,411,201202,Joel Anthony,1610612738,Boston Celtics,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,42,1,0,20140412,0,CLE,BOS
+Shot Chart Detail,21301193,494,201202,Joel Anthony,1610612738,Boston Celtics,4,6,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,20140412,1,CLE,BOS
+Shot Chart Detail,21301204,178,201202,Joel Anthony,1610612738,Boston Celtics,2,9,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-125,94,1,0,20140414,0,PHI,BOS
+Shot Chart Detail,21301222,175,201202,Joel Anthony,1610612738,Boston Celtics,2,7,40,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,56,1,1,20140416,0,BOS,WAS
+Shot Chart Detail,21301222,312,201202,Joel Anthony,1610612738,Boston Celtics,3,5,54,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,12,1,0,20140416,0,BOS,WAS
+Shot Chart Detail,21301222,490,201202,Joel Anthony,1610612738,Boston Celtics,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,17,1,1,20140416,1,BOS,WAS
+Shot Chart Detail,21300107,500,201202,Joel Anthony,1610612748,Miami Heat,4,1,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,12,1,1,20131112,0,MIA,MIL
+Shot Chart Detail,21300136,186,201202,Joel Anthony,1610612748,Miami Heat,2,7,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,0,20131116,0,CHA,MIA
+Shot Chart Detail,21300158,506,201202,Joel Anthony,1610612748,Miami Heat,4,0,11,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-103,127,1,0,20131119,0,MIA,ATL
+Shot Chart Detail,21300205,533,201202,Joel Anthony,1610612748,Miami Heat,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-48,127,1,0,20131125,0,MIA,PHX
+Shot Chart Detail,21300360,473,201202,Joel Anthony,1610612748,Miami Heat,4,2,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,1,20131216,1,MIA,UTA
+Shot Chart Detail,21300490,523,201202,Joel Anthony,1610612748,Miami Heat,4,0,10,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-92,91,1,0,20140104,0,ORL,MIA

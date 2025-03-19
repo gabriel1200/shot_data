@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021801182,557,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,3,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,57,1,0,20190405,WAS,SAS
-Shot Chart Detail,0021801182,571,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,2,27,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-139,63,1,0,20190405,WAS,SAS
-Shot Chart Detail,0021801182,576,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,0,20190405,WAS,SAS
-Shot Chart Detail,0021801182,593,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,0,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20190405,WAS,SAS
-Shot Chart Detail,0021801196,573,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,3,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-33,120,1,1,20190407,CLE,SAS
-Shot Chart Detail,0021801227,605,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,1,47,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,82,1,1,20190410,SAS,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21801182,557,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,3,18,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,57,1,0,20190405,0,WAS,SAS
+Shot Chart Detail,21801182,571,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,2,27,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-139,63,1,0,20190405,0,WAS,SAS
+Shot Chart Detail,21801182,576,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,2,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,0,20190405,0,WAS,SAS
+Shot Chart Detail,21801182,593,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,0,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,8,2,1,1,20190405,1,WAS,SAS
+Shot Chart Detail,21801196,573,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,3,48,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-33,120,1,1,20190407,1,CLE,SAS
+Shot Chart Detail,21801227,605,202700,Donatas Motiejunas,1610612759,San Antonio Spurs,4,1,47,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,33,82,1,1,20190410,1,SAS,DAL

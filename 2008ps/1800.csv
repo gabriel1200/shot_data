@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040700132,474,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,3,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,199,87,1,0,20080421,CLE,WAS
-Shot Chart Detail,0040700132,506,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,133,1,1,20080421,CLE,WAS
-Shot Chart Detail,0040700133,465,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,2,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,132,1,0,20080424,WAS,CLE
-Shot Chart Detail,0040700133,467,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,2,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-14,1,0,20080424,WAS,CLE
-Shot Chart Detail,0040700133,479,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,0,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,-3,1,0,20080424,WAS,CLE
-Shot Chart Detail,0040700206,125,1800,Damon Jones,1610612739,Cleveland Cavaliers,2,11,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,56,1,0,20080516,CLE,BOS
-Shot Chart Detail,0040700206,129,1800,Damon Jones,1610612739,Cleveland Cavaliers,2,11,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,38,1,0,20080516,CLE,BOS
-Shot Chart Detail,0040700207,99,1800,Damon Jones,1610612739,Cleveland Cavaliers,1,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,138,160,1,0,20080518,BOS,CLE
-Shot Chart Detail,0040700207,229,1800,Damon Jones,1610612739,Cleveland Cavaliers,2,0,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-6,1,1,20080518,BOS,CLE
-Shot Chart Detail,0040700207,368,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,11,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,10,1,0,20080518,BOS,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40700132,474,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,3,33,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,199,87,1,0,20080421,0,CLE,WAS
+Shot Chart Detail,40700132,506,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,0,36,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,133,1,1,20080421,1,CLE,WAS
+Shot Chart Detail,40700133,465,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,2,13,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,132,1,0,20080424,0,WAS,CLE
+Shot Chart Detail,40700133,467,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,2,2,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,-14,1,0,20080424,0,WAS,CLE
+Shot Chart Detail,40700133,479,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,0,47,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-241,-3,1,0,20080424,0,WAS,CLE
+Shot Chart Detail,40700206,125,1800,Damon Jones,1610612739,Cleveland Cavaliers,2,11,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,56,1,0,20080516,0,CLE,BOS
+Shot Chart Detail,40700206,129,1800,Damon Jones,1610612739,Cleveland Cavaliers,2,11,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,38,1,0,20080516,0,CLE,BOS
+Shot Chart Detail,40700207,99,1800,Damon Jones,1610612739,Cleveland Cavaliers,1,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,138,160,1,0,20080518,0,BOS,CLE
+Shot Chart Detail,40700207,229,1800,Damon Jones,1610612739,Cleveland Cavaliers,2,0,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-6,1,1,20080518,1,BOS,CLE
+Shot Chart Detail,40700207,368,1800,Damon Jones,1610612739,Cleveland Cavaliers,4,11,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,10,1,0,20080518,0,BOS,CLE

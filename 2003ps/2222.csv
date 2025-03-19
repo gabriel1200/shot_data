@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040200152,440,2222,Gerald Wallace,1610612758,Sacramento Kings,4,0,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-159,155,1,1,20030421,SAC,UTA
-Shot Chart Detail,0040200154,471,2222,Gerald Wallace,1610612758,Sacramento Kings,4,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,56,1,0,20030428,UTA,SAC
-Shot Chart Detail,0040200231,458,2222,Gerald Wallace,1610612758,Sacramento Kings,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,18,1,0,20030506,DAL,SAC
-Shot Chart Detail,0040200232,432,2222,Gerald Wallace,1610612758,Sacramento Kings,4,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,125,178,1,0,20030508,DAL,SAC
-Shot Chart Detail,0040200232,461,2222,Gerald Wallace,1610612758,Sacramento Kings,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,3,1,1,20030508,DAL,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40200152,440,2222,Gerald Wallace,1610612758,Sacramento Kings,4,0,38,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-159,155,1,1,20030421,0,SAC,UTA
+Shot Chart Detail,40200154,471,2222,Gerald Wallace,1610612758,Sacramento Kings,4,0,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-200,56,1,0,20030428,0,UTA,SAC
+Shot Chart Detail,40200231,458,2222,Gerald Wallace,1610612758,Sacramento Kings,4,1,27,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,18,1,0,20030506,0,DAL,SAC
+Shot Chart Detail,40200232,432,2222,Gerald Wallace,1610612758,Sacramento Kings,4,6,31,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,125,178,1,0,20030508,0,DAL,SAC
+Shot Chart Detail,40200232,461,2222,Gerald Wallace,1610612758,Sacramento Kings,4,3,24,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-200,3,1,1,20030508,1,DAL,SAC

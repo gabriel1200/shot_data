@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041100141,125,202683,Enes Freedom,1610612762,Utah Jazz,2,10,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,135,1,0,20120429,SAS,UTA
-Shot Chart Detail,0041100141,389,202683,Enes Freedom,1610612762,Utah Jazz,4,10,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,56,1,0,20120429,SAS,UTA
-Shot Chart Detail,0041100141,412,202683,Enes Freedom,1610612762,Utah Jazz,4,9,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,0,20120429,SAS,UTA
-Shot Chart Detail,0041100141,521,202683,Enes Freedom,1610612762,Utah Jazz,4,1,6,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,22,1,1,20120429,SAS,UTA
-Shot Chart Detail,0041100142,127,202683,Enes Freedom,1610612762,Utah Jazz,2,9,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,375,202683,Enes Freedom,1610612762,Utah Jazz,4,10,36,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,382,202683,Enes Freedom,1610612762,Utah Jazz,4,10,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,417,202683,Enes Freedom,1610612762,Utah Jazz,4,6,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,424,202683,Enes Freedom,1610612762,Utah Jazz,4,5,35,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,435,202683,Enes Freedom,1610612762,Utah Jazz,4,4,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100142,442,202683,Enes Freedom,1610612762,Utah Jazz,4,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-78,3,1,0,20120502,SAS,UTA
-Shot Chart Detail,0041100142,453,202683,Enes Freedom,1610612762,Utah Jazz,4,2,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20120502,SAS,UTA
-Shot Chart Detail,0041100143,136,202683,Enes Freedom,1610612762,Utah Jazz,2,11,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,4,1,0,20120505,UTA,SAS
-Shot Chart Detail,0041100143,167,202683,Enes Freedom,1610612762,Utah Jazz,2,8,20,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,42,1,1,20120505,UTA,SAS
-Shot Chart Detail,0041100143,399,202683,Enes Freedom,1610612762,Utah Jazz,4,9,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,0,20120505,UTA,SAS
-Shot Chart Detail,0041100144,172,202683,Enes Freedom,1610612762,Utah Jazz,2,6,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,33,1,1,20120507,UTA,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41100141,125,202683,Enes Freedom,1610612762,Utah Jazz,2,10,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,135,1,0,20120429,0,SAS,UTA
+Shot Chart Detail,41100141,389,202683,Enes Freedom,1610612762,Utah Jazz,4,10,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-67,56,1,0,20120429,0,SAS,UTA
+Shot Chart Detail,41100141,412,202683,Enes Freedom,1610612762,Utah Jazz,4,9,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,0,20120429,0,SAS,UTA
+Shot Chart Detail,41100141,521,202683,Enes Freedom,1610612762,Utah Jazz,4,1,6,Made Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-67,22,1,1,20120429,0,SAS,UTA
+Shot Chart Detail,41100142,127,202683,Enes Freedom,1610612762,Utah Jazz,2,9,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,12,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,375,202683,Enes Freedom,1610612762,Utah Jazz,4,10,36,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,382,202683,Enes Freedom,1610612762,Utah Jazz,4,10,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,417,202683,Enes Freedom,1610612762,Utah Jazz,4,6,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,1,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,424,202683,Enes Freedom,1610612762,Utah Jazz,4,5,35,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,1,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,435,202683,Enes Freedom,1610612762,Utah Jazz,4,4,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20120502,1,SAS,UTA
+Shot Chart Detail,41100142,442,202683,Enes Freedom,1610612762,Utah Jazz,4,3,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-78,3,1,0,20120502,0,SAS,UTA
+Shot Chart Detail,41100142,453,202683,Enes Freedom,1610612762,Utah Jazz,4,2,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20120502,0,SAS,UTA
+Shot Chart Detail,41100143,136,202683,Enes Freedom,1610612762,Utah Jazz,2,11,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,4,1,0,20120505,0,UTA,SAS
+Shot Chart Detail,41100143,167,202683,Enes Freedom,1610612762,Utah Jazz,2,8,20,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,42,1,1,20120505,1,UTA,SAS
+Shot Chart Detail,41100143,399,202683,Enes Freedom,1610612762,Utah Jazz,4,9,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,7,1,0,20120505,0,UTA,SAS
+Shot Chart Detail,41100144,172,202683,Enes Freedom,1610612762,Utah Jazz,2,6,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,33,1,1,20120507,1,UTA,SAS

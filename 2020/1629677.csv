@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021900931,582,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,6,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,236,1,0,20200306,BKN,SAS
-Shot Chart Detail,0021900931,611,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,4,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-61,253,1,0,20200306,BKN,SAS
-Shot Chart Detail,0021900931,615,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,4,14,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-24,46,1,0,20200306,BKN,SAS
-Shot Chart Detail,0021900931,672,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,1,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,27,1,0,20200306,BKN,SAS
-Shot Chart Detail,0021901298,655,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,0,44,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,41,1,0,20200811,SAS,HOU
-Shot Chart Detail,0021901298,660,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,0,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,237,1,0,20200811,SAS,HOU
-Shot Chart Detail,0021901314,9,1629677,Luka Samanic,1610612759,San Antonio Spurs,1,11,31,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,6,1,0,20200813,UTA,SAS
-Shot Chart Detail,0021901314,187,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,10,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,222,1,1,20200813,UTA,SAS
-Shot Chart Detail,0021901314,215,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,5,1,1,20200813,UTA,SAS
-Shot Chart Detail,0021901314,308,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,2,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,4,1,0,20200813,UTA,SAS
-Shot Chart Detail,0021901314,339,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,219,1,0,20200813,UTA,SAS
-Shot Chart Detail,0021901314,394,1629677,Luka Samanic,1610612759,San Antonio Spurs,3,7,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,221,1,1,20200813,UTA,SAS
-Shot Chart Detail,0021901314,505,1629677,Luka Samanic,1610612759,San Antonio Spurs,3,0,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,16,1,1,20200813,UTA,SAS
-Shot Chart Detail,0021901314,530,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,9,46,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-34,109,1,0,20200813,UTA,SAS
-Shot Chart Detail,0021901314,536,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,199,1,0,20200813,UTA,SAS
-Shot Chart Detail,0021901314,547,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,188,1,1,20200813,UTA,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21900931,582,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,6,24,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,91,236,1,0,20200306,0,BKN,SAS
+Shot Chart Detail,21900931,611,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,4,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-61,253,1,0,20200306,0,BKN,SAS
+Shot Chart Detail,21900931,615,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,4,14,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-24,46,1,0,20200306,0,BKN,SAS
+Shot Chart Detail,21900931,672,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,1,20,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,27,1,0,20200306,0,BKN,SAS
+Shot Chart Detail,21901298,655,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,0,44,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,41,1,0,20200811,0,SAS,HOU
+Shot Chart Detail,21901298,660,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,0,9,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,237,1,0,20200811,0,SAS,HOU
+Shot Chart Detail,21901314,9,1629677,Luka Samanic,1610612759,San Antonio Spurs,1,11,31,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,6,1,0,20200813,0,UTA,SAS
+Shot Chart Detail,21901314,187,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,10,45,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,222,1,1,20200813,1,UTA,SAS
+Shot Chart Detail,21901314,215,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,8,52,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-205,5,1,1,20200813,1,UTA,SAS
+Shot Chart Detail,21901314,308,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,2,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-29,4,1,0,20200813,0,UTA,SAS
+Shot Chart Detail,21901314,339,1629677,Luka Samanic,1610612759,San Antonio Spurs,2,0,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,219,1,0,20200813,0,UTA,SAS
+Shot Chart Detail,21901314,394,1629677,Luka Samanic,1610612759,San Antonio Spurs,3,7,44,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,122,221,1,1,20200813,1,UTA,SAS
+Shot Chart Detail,21901314,505,1629677,Luka Samanic,1610612759,San Antonio Spurs,3,0,20,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-20,16,1,1,20200813,0,UTA,SAS
+Shot Chart Detail,21901314,530,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,9,46,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-34,109,1,0,20200813,0,UTA,SAS
+Shot Chart Detail,21901314,536,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,9,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,199,1,0,20200813,0,UTA,SAS
+Shot Chart Detail,21901314,547,1629677,Luka Samanic,1610612759,San Antonio Spurs,4,8,24,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,167,188,1,1,20200813,1,UTA,SAS

@@ -1,655 +1,328 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300006,104,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,153,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300006,370,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300024,109,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,1,20031031,CHI,ATL
-Shot Chart Detail,0020300024,129,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031031,CHI,ATL
-Shot Chart Detail,0020300024,377,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,38,1,1,20031031,CHI,ATL
-Shot Chart Detail,0020300024,400,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031031,CHI,ATL
-Shot Chart Detail,0020300024,412,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,72,1,0,20031031,CHI,ATL
-Shot Chart Detail,0020300024,517,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,171,143,1,0,20031031,CHI,ATL
-Shot Chart Detail,0020300029,141,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,12,1,0,20031101,ATL,IND
-Shot Chart Detail,0020300029,351,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031101,ATL,IND
-Shot Chart Detail,0020300029,375,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031101,ATL,IND
-Shot Chart Detail,0020300029,392,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,15,1,1,20031101,ATL,IND
-Shot Chart Detail,0020300042,101,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031103,ATL,NOH
-Shot Chart Detail,0020300042,126,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,7,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,152,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,342,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,69,1,1,20031103,ATL,NOH
-Shot Chart Detail,0020300042,367,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,13,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,433,1924,Lee Nailon,1610612737,Atlanta Hawks,4,3,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,445,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,59,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300060,77,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,80,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-13,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,87,1924,Lee Nailon,1610612737,Atlanta Hawks,1,3,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,11,133,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,117,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,131,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,-5,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,10,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,368,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,5,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,7,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,379,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,109,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300084,105,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,28,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300084,125,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031108,POR,ATL
-Shot Chart Detail,0020300084,151,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,0,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300084,326,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,31,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300084,330,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031108,POR,ATL
-Shot Chart Detail,0020300084,334,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300089,104,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,48,1,0,20031109,SEA,ATL
-Shot Chart Detail,0020300089,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,72,1,1,20031109,SEA,ATL
-Shot Chart Detail,0020300089,360,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,23,1,0,20031109,SEA,ATL
-Shot Chart Detail,0020300089,380,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,164,1,1,20031109,SEA,ATL
-Shot Chart Detail,0020300089,391,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031109,SEA,ATL
-Shot Chart Detail,0020300102,134,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,92,1,1,20031111,LAC,ATL
-Shot Chart Detail,0020300102,160,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20031111,LAC,ATL
-Shot Chart Detail,0020300102,172,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20031111,LAC,ATL
-Shot Chart Detail,0020300102,345,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031111,LAC,ATL
-Shot Chart Detail,0020300109,147,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,3,1,0,20031112,PHX,ATL
-Shot Chart Detail,0020300109,341,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,102,1,0,20031112,PHX,ATL
-Shot Chart Detail,0020300109,347,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,164,1,0,20031112,PHX,ATL
-Shot Chart Detail,0020300128,101,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,15,1,0,20031115,ATL,NJN
-Shot Chart Detail,0020300128,130,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,41,1,1,20031115,ATL,NJN
-Shot Chart Detail,0020300128,132,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,77,132,1,0,20031115,ATL,NJN
-Shot Chart Detail,0020300128,149,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-5,1,0,20031115,ATL,NJN
-Shot Chart Detail,0020300141,414,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031117,ATL,WAS
-Shot Chart Detail,0020300147,212,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,20,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,224,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,26,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,226,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,33,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300147,235,1924,Lee Nailon,1610612737,Atlanta Hawks,2,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300147,237,1924,Lee Nailon,1610612737,Atlanta Hawks,2,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,186,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,374,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,10,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300147,382,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-3,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,385,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,397,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,143,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300168,141,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20031121,SAS,ATL
-Shot Chart Detail,0020300177,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,22,1,0,20031122,ATL,CLE
-Shot Chart Detail,0020300177,181,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031122,ATL,CLE
-Shot Chart Detail,0020300202,123,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,1,20031126,ATL,TOR
-Shot Chart Detail,0020300202,139,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,13,1,0,20031126,ATL,TOR
-Shot Chart Detail,0020300202,155,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,0,1,0,20031126,ATL,TOR
-Shot Chart Detail,0020300202,158,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,38,1,1,20031126,ATL,TOR
-Shot Chart Detail,0020300202,332,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,2,1,1,20031126,ATL,TOR
-Shot Chart Detail,0020300202,335,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20031126,ATL,TOR
-Shot Chart Detail,0020300212,70,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,23,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,ATL,MIA
-Shot Chart Detail,0020300212,87,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,94,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,1,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,ATL,MIA
-Shot Chart Detail,0020300212,309,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,66,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,326,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-74,56,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,334,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,ATL,MIA
-Shot Chart Detail,0020300224,85,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,87,1,1,20031129,PHI,ATL
-Shot Chart Detail,0020300224,109,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,77,1,1,20031129,PHI,ATL
-Shot Chart Detail,0020300224,255,1924,Lee Nailon,1610612737,Atlanta Hawks,3,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,38,1,0,20031129,PHI,ATL
-Shot Chart Detail,0020300224,290,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,43,1,0,20031129,PHI,ATL
-Shot Chart Detail,0020300224,305,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,PHI,ATL
-Shot Chart Detail,0020300273,459,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,-23,1,1,20031206,CLE,ATL
-Shot Chart Detail,0020300293,118,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300293,121,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,8,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300293,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,76,1,1,20031209,ATL,DEN
-Shot Chart Detail,0020300293,165,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,160,1,1,20031209,ATL,DEN
-Shot Chart Detail,0020300293,362,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,36,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300293,380,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300302,106,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031210,MEM,ATL
-Shot Chart Detail,0020300302,128,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,MEM,ATL
-Shot Chart Detail,0020300302,142,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,MEM,ATL
-Shot Chart Detail,0020300302,145,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,MEM,ATL
-Shot Chart Detail,0020300302,353,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,-23,1,0,20031210,MEM,ATL
-Shot Chart Detail,0020300302,363,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,102,1,0,20031210,MEM,ATL
-Shot Chart Detail,0020300313,321,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,46,1,1,20031212,IND,ATL
-Shot Chart Detail,0020300313,333,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,56,1,0,20031212,IND,ATL
-Shot Chart Detail,0020300313,338,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,8,1,0,20031212,IND,ATL
-Shot Chart Detail,0020300313,437,1924,Lee Nailon,1610612737,Atlanta Hawks,4,1,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20031212,IND,ATL
-Shot Chart Detail,0020300321,121,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,43,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300321,125,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,17,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300321,129,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,51,1,1,20031213,ATL,ORL
-Shot Chart Detail,0020300321,314,1924,Lee Nailon,1610612737,Atlanta Hawks,3,3,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,1,20031213,ATL,ORL
-Shot Chart Detail,0020300321,332,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,5,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300321,336,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,18,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300340,75,1924,Lee Nailon,1610612737,Atlanta Hawks,1,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,61,1,1,20031216,MIA,ATL
-Shot Chart Detail,0020300340,78,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,46,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300340,92,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300340,106,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,34,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,10,1,1,20031216,MIA,ATL
-Shot Chart Detail,0020300340,418,1924,Lee Nailon,1610612737,Atlanta Hawks,4,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,140,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300340,433,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,1,20031216,MIA,ATL
-Shot Chart Detail,0020300340,444,1924,Lee Nailon,1610612737,Atlanta Hawks,4,1,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,38,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300351,127,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,139,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,3,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,142,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,173,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,378,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,20,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,386,1924,Lee Nailon,1610612737,Atlanta Hawks,4,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-8,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,395,1924,Lee Nailon,1610612737,Atlanta Hawks,4,6,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,5,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,406,1924,Lee Nailon,1610612737,Atlanta Hawks,4,4,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,41,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,449,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,2,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,452,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,461,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,143,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,464,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300365,132,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,58,1,0,20031219,ATL,SAC
-Shot Chart Detail,0020300365,151,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,43,1,0,20031219,ATL,SAC
-Shot Chart Detail,0020300393,122,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,20,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,133,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300393,157,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,20,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,238,1924,Lee Nailon,1610612737,Atlanta Hawks,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300393,337,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,150,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,365,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,31,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300393,373,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,12,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,385,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300406,127,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,277,1924,Lee Nailon,1610612737,Atlanta Hawks,3,4,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,314,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,53,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,349,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,71,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,375,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300486,96,1924,Lee Nailon,1610612753,Orlando Magic,1,0,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300486,102,1924,Lee Nailon,1610612753,Orlando Magic,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,7,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300486,116,1924,Lee Nailon,1610612753,Orlando Magic,2,10,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,8,53,1,1,20040106,IND,ORL
-Shot Chart Detail,0020300486,342,1924,Lee Nailon,1610612753,Orlando Magic,4,11,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20040106,IND,ORL
-Shot Chart Detail,0020300486,352,1924,Lee Nailon,1610612753,Orlando Magic,4,9,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,23,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300486,363,1924,Lee Nailon,1610612753,Orlando Magic,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,38,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300492,128,1924,Lee Nailon,1610612753,Orlando Magic,2,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20040107,BOS,ORL
-Shot Chart Detail,0020300492,336,1924,Lee Nailon,1610612753,Orlando Magic,4,11,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,10,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,365,1924,Lee Nailon,1610612753,Orlando Magic,4,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,18,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,372,1924,Lee Nailon,1610612753,Orlando Magic,4,8,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,5,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,383,1924,Lee Nailon,1610612753,Orlando Magic,4,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,439,1924,Lee Nailon,1610612753,Orlando Magic,4,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,-5,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300506,433,1924,Lee Nailon,1610612753,Orlando Magic,4,9,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,450,1924,Lee Nailon,1610612753,Orlando Magic,4,7,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,455,1924,Lee Nailon,1610612753,Orlando Magic,4,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,468,1924,Lee Nailon,1610612753,Orlando Magic,4,5,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,150,1,0,20040109,ORL,WAS
-Shot Chart Detail,0020300506,479,1924,Lee Nailon,1610612753,Orlando Magic,4,4,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,512,1924,Lee Nailon,1610612753,Orlando Magic,4,1,55,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,13,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300545,141,1924,Lee Nailon,1610612753,Orlando Magic,2,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,153,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300545,170,1924,Lee Nailon,1610612753,Orlando Magic,2,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040114,NYK,ORL
-Shot Chart Detail,0020300545,196,1924,Lee Nailon,1610612753,Orlando Magic,2,1,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040114,NYK,ORL
-Shot Chart Detail,0020300545,366,1924,Lee Nailon,1610612753,Orlando Magic,4,8,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-3,1,1,20040114,NYK,ORL
-Shot Chart Detail,0020300545,372,1924,Lee Nailon,1610612753,Orlando Magic,4,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,0,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300545,383,1924,Lee Nailon,1610612753,Orlando Magic,4,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300545,444,1924,Lee Nailon,1610612753,Orlando Magic,4,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300557,239,1924,Lee Nailon,1610612753,Orlando Magic,2,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,-14,1,0,20040116,ORL,BOS
-Shot Chart Detail,0020300583,143,1924,Lee Nailon,1610612753,Orlando Magic,2,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040119,ORL,MIL
-Shot Chart Detail,0020300876,179,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-1,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300876,208,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,8,1,1,20040303,CLE,ATL
-Shot Chart Detail,0020300876,264,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,43,1,1,20040303,CLE,ATL
-Shot Chart Detail,0020300876,269,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300876,417,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,87,1,1,20040303,CLE,ATL
-Shot Chart Detail,0020300876,460,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,13,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300876,467,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,64,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300890,127,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,10,1,1,20040305,NOH,CLE
-Shot Chart Detail,0020300890,129,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300890,143,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040305,NOH,CLE
-Shot Chart Detail,0020300890,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,28,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300890,379,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300890,381,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,77,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300899,159,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-9,1,1,20040306,CLE,MIL
-Shot Chart Detail,0020300899,180,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,35,1,1,20040306,CLE,MIL
-Shot Chart Detail,0020300899,364,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-5,1,0,20040306,CLE,MIL
-Shot Chart Detail,0020300899,367,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,51,1,0,20040306,CLE,MIL
-Shot Chart Detail,0020300899,390,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20040306,CLE,MIL
-Shot Chart Detail,0020300899,409,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,18,1,0,20040306,CLE,MIL
-Shot Chart Detail,0020300914,151,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,0,20040308,ATL,CLE
-Shot Chart Detail,0020300914,219,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,7,1,0,20040308,ATL,CLE
-Shot Chart Detail,0020300928,127,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,51,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,132,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,10,1,0,20040310,TOR,CLE
-Shot Chart Detail,0020300928,302,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,61,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,310,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,2,47,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,15,1,0,20040310,TOR,CLE
-Shot Chart Detail,0020300928,349,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,23,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,407,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,418,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-13,150,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,448,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,61,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300957,136,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,30,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,146,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,35,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,171,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,185,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,194,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,25,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,223,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,239,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,58,-20,580,1,0,20040314,CLE,IND
-Shot Chart Detail,0020300957,345,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,132,1,0,20040314,CLE,IND
-Shot Chart Detail,0020300957,421,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,41,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300967,158,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,26,1,0,20040316,CLE,CHI
-Shot Chart Detail,0020300967,175,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,58,1,0,20040316,CLE,CHI
-Shot Chart Detail,0020300967,200,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20040316,CLE,CHI
-Shot Chart Detail,0020300967,503,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,148,1,0,20040316,CLE,CHI
-Shot Chart Detail,0020300989,107,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,71,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,113,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-19,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,210,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,102,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,365,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,20,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,369,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,8,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,370,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,375,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,12,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,379,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,52,68,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,54,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,437,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,94,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,455,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,3,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,484,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,64,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020301008,397,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,17,1,1,20040321,CLE,DET
-Shot Chart Detail,0020301008,399,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,7,1,0,20040321,CLE,DET
-Shot Chart Detail,0020301008,417,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,0,1,1,20040321,CLE,DET
-Shot Chart Detail,0020301018,146,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,12,1,0,20040323,CLE,PHX
-Shot Chart Detail,0020301018,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,29,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,38,1,1,20040323,CLE,PHX
-Shot Chart Detail,0020301018,166,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,0,20040323,CLE,PHX
-Shot Chart Detail,0020301038,65,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-36,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301038,90,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-48,146,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301038,151,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,1,20040326,PHI,CLE
-Shot Chart Detail,0020301038,157,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,59,1,1,20040326,PHI,CLE
-Shot Chart Detail,0020301038,337,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,46,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301038,359,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301050,160,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,64,181,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,203,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20040327,CLE,NJN
-Shot Chart Detail,0020301050,370,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,120,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,382,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,40,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,388,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,23,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,117,1,1,20040327,CLE,NJN
-Shot Chart Detail,0020301069,122,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,142,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,71,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,175,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,49,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,180,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,25,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,359,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,12,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,392,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,10,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,399,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,28,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,401,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,8,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,426,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,48,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,429,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,441,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,12,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301073,28,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,8,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,51,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,52,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,6,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,54,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,69,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,130,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,114,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,218,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-24,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,238,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,26,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,244,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,10,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,266,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,181,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,280,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-181,100,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,300,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,99,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,328,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,132,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,388,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,89,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,431,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,151,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,450,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-197,23,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,456,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,0,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,495,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,45,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,507,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,8,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301097,7,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,23,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,11,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,107,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,30,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,7,22,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,10,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,53,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,94,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,66,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-110,117,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,152,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,234,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,26,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,240,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,10,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,244,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,8,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,267,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,3,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301102,8,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,168,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,12,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20040403,CLE,GSW
-Shot Chart Detail,0020301102,25,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,7,52,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,115,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,68,1,1,20040403,CLE,GSW
-Shot Chart Detail,0020301102,128,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,89,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,373,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,43,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,174,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301115,10,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,86,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,22,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,82,53,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,32,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,36,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,76,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,36,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,95,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301128,82,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,135,1,1,20040407,MEM,CLE
-Shot Chart Detail,0020301128,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,398,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,47,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040407,MEM,CLE
-Shot Chart Detail,0020301128,441,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,63,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,453,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,45,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,456,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,57,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,30,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,477,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,41,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301137,64,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,7,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,68,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,137,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,79,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,62,104,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,108,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,8,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,110,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-13,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,137,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,185,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,137,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,323,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,109,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,326,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,338,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,94,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,358,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,20,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,5,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,437,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-3,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,445,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,173,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301151,135,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,59,1,1,20040410,CLE,MIA
-Shot Chart Detail,0020301151,139,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-89,71,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,207,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-11,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,351,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,56,1,1,20040410,CLE,MIA
-Shot Chart Detail,0020301151,372,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,87,171,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,407,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,143,107,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,455,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,-28,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,464,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,23,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,467,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,45,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,473,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,3,1,1,20040410,CLE,MIA
-Shot Chart Detail,0020301151,477,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-19,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301162,149,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,135,1,1,20040412,CLE,MIL
-Shot Chart Detail,0020301162,162,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,133,92,1,0,20040412,CLE,MIL
-Shot Chart Detail,0020301179,120,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,25,1,1,20040414,NYK,CLE
-Shot Chart Detail,0020301179,129,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,123,54,1,0,20040414,NYK,CLE
-Shot Chart Detail,0020301179,132,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,4,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,7,1,1,20040414,NYK,CLE
-Shot Chart Detail,0020300006,104,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,NOH,ATL
-Shot Chart Detail,0020300006,153,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300006,370,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031029,NOH,ATL
-Shot Chart Detail,0020300024,109,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,1,20031031,CHI,ATL
-Shot Chart Detail,0020300024,129,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031031,CHI,ATL
-Shot Chart Detail,0020300024,377,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,38,1,1,20031031,CHI,ATL
-Shot Chart Detail,0020300024,400,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031031,CHI,ATL
-Shot Chart Detail,0020300024,412,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,72,1,0,20031031,CHI,ATL
-Shot Chart Detail,0020300024,517,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,171,143,1,0,20031031,CHI,ATL
-Shot Chart Detail,0020300029,141,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,12,1,0,20031101,ATL,IND
-Shot Chart Detail,0020300029,351,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031101,ATL,IND
-Shot Chart Detail,0020300029,375,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031101,ATL,IND
-Shot Chart Detail,0020300029,392,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,15,1,1,20031101,ATL,IND
-Shot Chart Detail,0020300042,101,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031103,ATL,NOH
-Shot Chart Detail,0020300042,126,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,7,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,152,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,342,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,69,1,1,20031103,ATL,NOH
-Shot Chart Detail,0020300042,367,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,13,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,433,1924,Lee Nailon,1610612737,Atlanta Hawks,4,3,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300042,445,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,59,1,0,20031103,ATL,NOH
-Shot Chart Detail,0020300060,77,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,80,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-13,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,87,1924,Lee Nailon,1610612737,Atlanta Hawks,1,3,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,11,133,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,117,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,131,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,15,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,-5,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,10,1,1,20031105,GSW,ATL
-Shot Chart Detail,0020300060,368,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,5,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,7,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300060,379,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,109,1,0,20031105,GSW,ATL
-Shot Chart Detail,0020300084,105,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,28,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300084,125,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031108,POR,ATL
-Shot Chart Detail,0020300084,151,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,0,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300084,326,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,31,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300084,330,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031108,POR,ATL
-Shot Chart Detail,0020300084,334,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,POR,ATL
-Shot Chart Detail,0020300089,104,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,48,1,0,20031109,SEA,ATL
-Shot Chart Detail,0020300089,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,72,1,1,20031109,SEA,ATL
-Shot Chart Detail,0020300089,360,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,23,1,0,20031109,SEA,ATL
-Shot Chart Detail,0020300089,380,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,164,1,1,20031109,SEA,ATL
-Shot Chart Detail,0020300089,391,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031109,SEA,ATL
-Shot Chart Detail,0020300102,134,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,92,1,1,20031111,LAC,ATL
-Shot Chart Detail,0020300102,160,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20031111,LAC,ATL
-Shot Chart Detail,0020300102,172,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20031111,LAC,ATL
-Shot Chart Detail,0020300102,345,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031111,LAC,ATL
-Shot Chart Detail,0020300109,147,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,3,1,0,20031112,PHX,ATL
-Shot Chart Detail,0020300109,341,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,102,1,0,20031112,PHX,ATL
-Shot Chart Detail,0020300109,347,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,31,164,1,0,20031112,PHX,ATL
-Shot Chart Detail,0020300128,101,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,15,1,0,20031115,ATL,NJN
-Shot Chart Detail,0020300128,130,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,41,1,1,20031115,ATL,NJN
-Shot Chart Detail,0020300128,132,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,77,132,1,0,20031115,ATL,NJN
-Shot Chart Detail,0020300128,149,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-5,1,0,20031115,ATL,NJN
-Shot Chart Detail,0020300141,414,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031117,ATL,WAS
-Shot Chart Detail,0020300147,212,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,20,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,224,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,26,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,226,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,17,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,33,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300147,235,1924,Lee Nailon,1610612737,Atlanta Hawks,2,3,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300147,237,1924,Lee Nailon,1610612737,Atlanta Hawks,2,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,0,186,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,374,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,10,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300147,382,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-3,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,385,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031118,MIL,ATL
-Shot Chart Detail,0020300147,397,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,143,1,1,20031118,MIL,ATL
-Shot Chart Detail,0020300168,141,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20031121,SAS,ATL
-Shot Chart Detail,0020300177,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,22,1,0,20031122,ATL,CLE
-Shot Chart Detail,0020300177,181,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031122,ATL,CLE
-Shot Chart Detail,0020300202,123,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,1,20031126,ATL,TOR
-Shot Chart Detail,0020300202,139,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,13,1,0,20031126,ATL,TOR
-Shot Chart Detail,0020300202,155,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,0,1,0,20031126,ATL,TOR
-Shot Chart Detail,0020300202,158,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,13,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,38,1,1,20031126,ATL,TOR
-Shot Chart Detail,0020300202,332,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-148,2,1,1,20031126,ATL,TOR
-Shot Chart Detail,0020300202,335,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20031126,ATL,TOR
-Shot Chart Detail,0020300212,70,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,23,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,ATL,MIA
-Shot Chart Detail,0020300212,87,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,94,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,1,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,ATL,MIA
-Shot Chart Detail,0020300212,309,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,66,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,326,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-74,56,1,0,20031128,ATL,MIA
-Shot Chart Detail,0020300212,334,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,ATL,MIA
-Shot Chart Detail,0020300224,85,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,87,1,1,20031129,PHI,ATL
-Shot Chart Detail,0020300224,109,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-103,77,1,1,20031129,PHI,ATL
-Shot Chart Detail,0020300224,255,1924,Lee Nailon,1610612737,Atlanta Hawks,3,3,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,38,1,0,20031129,PHI,ATL
-Shot Chart Detail,0020300224,290,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,43,1,0,20031129,PHI,ATL
-Shot Chart Detail,0020300224,305,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,PHI,ATL
-Shot Chart Detail,0020300273,459,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,-23,1,1,20031206,CLE,ATL
-Shot Chart Detail,0020300293,118,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300293,121,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,8,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300293,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,76,1,1,20031209,ATL,DEN
-Shot Chart Detail,0020300293,165,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,160,1,1,20031209,ATL,DEN
-Shot Chart Detail,0020300293,362,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,36,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300293,380,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,33,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031209,ATL,DEN
-Shot Chart Detail,0020300302,106,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031210,MEM,ATL
-Shot Chart Detail,0020300302,128,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,MEM,ATL
-Shot Chart Detail,0020300302,142,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,MEM,ATL
-Shot Chart Detail,0020300302,145,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,MEM,ATL
-Shot Chart Detail,0020300302,353,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,-23,1,0,20031210,MEM,ATL
-Shot Chart Detail,0020300302,363,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,102,1,0,20031210,MEM,ATL
-Shot Chart Detail,0020300313,321,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,46,1,1,20031212,IND,ATL
-Shot Chart Detail,0020300313,333,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,56,1,0,20031212,IND,ATL
-Shot Chart Detail,0020300313,338,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,8,1,0,20031212,IND,ATL
-Shot Chart Detail,0020300313,437,1924,Lee Nailon,1610612737,Atlanta Hawks,4,1,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20031212,IND,ATL
-Shot Chart Detail,0020300321,121,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,43,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300321,125,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,17,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300321,129,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,51,1,1,20031213,ATL,ORL
-Shot Chart Detail,0020300321,314,1924,Lee Nailon,1610612737,Atlanta Hawks,3,3,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,1,20031213,ATL,ORL
-Shot Chart Detail,0020300321,332,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,5,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300321,336,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,18,1,0,20031213,ATL,ORL
-Shot Chart Detail,0020300340,75,1924,Lee Nailon,1610612737,Atlanta Hawks,1,3,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,61,1,1,20031216,MIA,ATL
-Shot Chart Detail,0020300340,78,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,46,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300340,92,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300340,106,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,34,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,10,1,1,20031216,MIA,ATL
-Shot Chart Detail,0020300340,418,1924,Lee Nailon,1610612737,Atlanta Hawks,4,3,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,140,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300340,433,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,1,20031216,MIA,ATL
-Shot Chart Detail,0020300340,444,1924,Lee Nailon,1610612737,Atlanta Hawks,4,1,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,38,1,0,20031216,MIA,ATL
-Shot Chart Detail,0020300351,127,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,139,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,3,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,142,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,173,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,378,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,20,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,386,1924,Lee Nailon,1610612737,Atlanta Hawks,4,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-8,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,395,1924,Lee Nailon,1610612737,Atlanta Hawks,4,6,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,5,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,406,1924,Lee Nailon,1610612737,Atlanta Hawks,4,4,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,41,1,0,20031217,ATL,GSW
-Shot Chart Detail,0020300351,449,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,2,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,452,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,461,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,143,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300351,464,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,ATL,GSW
-Shot Chart Detail,0020300365,132,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,58,1,0,20031219,ATL,SAC
-Shot Chart Detail,0020300365,151,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,43,1,0,20031219,ATL,SAC
-Shot Chart Detail,0020300393,122,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,20,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,133,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300393,157,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,20,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,238,1924,Lee Nailon,1610612737,Atlanta Hawks,2,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300393,337,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,150,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,365,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,31,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300393,373,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,12,1,0,20031223,ATL,BOS
-Shot Chart Detail,0020300393,385,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,ATL,BOS
-Shot Chart Detail,0020300406,127,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,277,1924,Lee Nailon,1610612737,Atlanta Hawks,3,4,2,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,314,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,53,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300406,349,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,71,1,0,20031226,NOH,ATL
-Shot Chart Detail,0020300406,375,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,NOH,ATL
-Shot Chart Detail,0020300486,96,1924,Lee Nailon,1610612753,Orlando Magic,1,0,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300486,102,1924,Lee Nailon,1610612753,Orlando Magic,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,7,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300486,116,1924,Lee Nailon,1610612753,Orlando Magic,2,10,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,8,53,1,1,20040106,IND,ORL
-Shot Chart Detail,0020300486,342,1924,Lee Nailon,1610612753,Orlando Magic,4,11,43,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20040106,IND,ORL
-Shot Chart Detail,0020300486,352,1924,Lee Nailon,1610612753,Orlando Magic,4,9,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,23,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300486,363,1924,Lee Nailon,1610612753,Orlando Magic,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,38,1,0,20040106,IND,ORL
-Shot Chart Detail,0020300492,128,1924,Lee Nailon,1610612753,Orlando Magic,2,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20040107,BOS,ORL
-Shot Chart Detail,0020300492,336,1924,Lee Nailon,1610612753,Orlando Magic,4,11,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,10,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,365,1924,Lee Nailon,1610612753,Orlando Magic,4,9,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,18,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,372,1924,Lee Nailon,1610612753,Orlando Magic,4,8,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,5,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,383,1924,Lee Nailon,1610612753,Orlando Magic,4,7,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300492,439,1924,Lee Nailon,1610612753,Orlando Magic,4,2,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,-5,1,0,20040107,BOS,ORL
-Shot Chart Detail,0020300506,433,1924,Lee Nailon,1610612753,Orlando Magic,4,9,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,450,1924,Lee Nailon,1610612753,Orlando Magic,4,7,34,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,455,1924,Lee Nailon,1610612753,Orlando Magic,4,6,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,468,1924,Lee Nailon,1610612753,Orlando Magic,4,5,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,150,1,0,20040109,ORL,WAS
-Shot Chart Detail,0020300506,479,1924,Lee Nailon,1610612753,Orlando Magic,4,4,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300506,512,1924,Lee Nailon,1610612753,Orlando Magic,4,1,55,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,13,1,1,20040109,ORL,WAS
-Shot Chart Detail,0020300545,141,1924,Lee Nailon,1610612753,Orlando Magic,2,7,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,153,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300545,170,1924,Lee Nailon,1610612753,Orlando Magic,2,3,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040114,NYK,ORL
-Shot Chart Detail,0020300545,196,1924,Lee Nailon,1610612753,Orlando Magic,2,1,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040114,NYK,ORL
-Shot Chart Detail,0020300545,366,1924,Lee Nailon,1610612753,Orlando Magic,4,8,12,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-3,1,1,20040114,NYK,ORL
-Shot Chart Detail,0020300545,372,1924,Lee Nailon,1610612753,Orlando Magic,4,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,0,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300545,383,1924,Lee Nailon,1610612753,Orlando Magic,4,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300545,444,1924,Lee Nailon,1610612753,Orlando Magic,4,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040114,NYK,ORL
-Shot Chart Detail,0020300557,239,1924,Lee Nailon,1610612753,Orlando Magic,2,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-159,-14,1,0,20040116,ORL,BOS
-Shot Chart Detail,0020300583,143,1924,Lee Nailon,1610612753,Orlando Magic,2,6,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040119,ORL,MIL
-Shot Chart Detail,0020300876,179,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,-1,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300876,208,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,8,1,1,20040303,CLE,ATL
-Shot Chart Detail,0020300876,264,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,107,43,1,1,20040303,CLE,ATL
-Shot Chart Detail,0020300876,269,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300876,417,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-125,87,1,1,20040303,CLE,ATL
-Shot Chart Detail,0020300876,460,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,108,13,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300876,467,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,64,1,0,20040303,CLE,ATL
-Shot Chart Detail,0020300890,127,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,10,1,1,20040305,NOH,CLE
-Shot Chart Detail,0020300890,129,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300890,143,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040305,NOH,CLE
-Shot Chart Detail,0020300890,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,28,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300890,379,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300890,381,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,77,1,0,20040305,NOH,CLE
-Shot Chart Detail,0020300899,159,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-9,1,1,20040306,CLE,MIL
-Shot Chart Detail,0020300899,180,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,35,1,1,20040306,CLE,MIL
-Shot Chart Detail,0020300899,364,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,-5,1,0,20040306,CLE,MIL
-Shot Chart Detail,0020300899,367,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,51,1,0,20040306,CLE,MIL
-Shot Chart Detail,0020300899,390,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20040306,CLE,MIL
-Shot Chart Detail,0020300899,409,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,18,1,0,20040306,CLE,MIL
-Shot Chart Detail,0020300914,151,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,0,20040308,ATL,CLE
-Shot Chart Detail,0020300914,219,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,7,1,0,20040308,ATL,CLE
-Shot Chart Detail,0020300928,127,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,90,51,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,132,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,10,1,0,20040310,TOR,CLE
-Shot Chart Detail,0020300928,302,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-145,61,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,310,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,2,47,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-118,15,1,0,20040310,TOR,CLE
-Shot Chart Detail,0020300928,349,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,23,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,407,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,418,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-13,150,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300928,448,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,52,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,61,1,1,20040310,TOR,CLE
-Shot Chart Detail,0020300957,136,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,30,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,146,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,35,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,171,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,185,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,194,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,25,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,223,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300957,239,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,58,-20,580,1,0,20040314,CLE,IND
-Shot Chart Detail,0020300957,345,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,132,1,0,20040314,CLE,IND
-Shot Chart Detail,0020300957,421,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,41,1,1,20040314,CLE,IND
-Shot Chart Detail,0020300967,158,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,26,1,0,20040316,CLE,CHI
-Shot Chart Detail,0020300967,175,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,58,1,0,20040316,CLE,CHI
-Shot Chart Detail,0020300967,200,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,18,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20040316,CLE,CHI
-Shot Chart Detail,0020300967,503,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,148,1,0,20040316,CLE,CHI
-Shot Chart Detail,0020300989,107,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,71,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,113,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,-19,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,210,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,102,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,365,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,20,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,369,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,8,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,370,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,375,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,12,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,379,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,52,68,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,54,1,1,20040319,CLE,UTA
-Shot Chart Detail,0020300989,437,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-136,94,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,455,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,3,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020300989,484,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,64,1,0,20040319,CLE,UTA
-Shot Chart Detail,0020301008,397,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,17,1,1,20040321,CLE,DET
-Shot Chart Detail,0020301008,399,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,7,1,0,20040321,CLE,DET
-Shot Chart Detail,0020301008,417,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,0,1,1,20040321,CLE,DET
-Shot Chart Detail,0020301018,146,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,12,1,0,20040323,CLE,PHX
-Shot Chart Detail,0020301018,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,29,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,38,1,1,20040323,CLE,PHX
-Shot Chart Detail,0020301018,166,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,0,20040323,CLE,PHX
-Shot Chart Detail,0020301038,65,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-36,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301038,90,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-48,146,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301038,151,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,1,20040326,PHI,CLE
-Shot Chart Detail,0020301038,157,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,59,1,1,20040326,PHI,CLE
-Shot Chart Detail,0020301038,337,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,46,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301038,359,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040326,PHI,CLE
-Shot Chart Detail,0020301050,160,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,64,181,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,203,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20040327,CLE,NJN
-Shot Chart Detail,0020301050,370,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,120,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,382,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,40,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,388,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,23,1,0,20040327,CLE,NJN
-Shot Chart Detail,0020301050,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,117,1,1,20040327,CLE,NJN
-Shot Chart Detail,0020301069,122,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,142,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,71,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,175,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,49,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,180,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,25,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,359,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,12,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,392,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,10,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,399,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,28,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,401,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,8,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301069,426,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,48,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,429,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20040329,SAS,CLE
-Shot Chart Detail,0020301069,441,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,12,1,0,20040329,SAS,CLE
-Shot Chart Detail,0020301073,28,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,8,47,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,51,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,52,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,6,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,54,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,6,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,69,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,130,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,114,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,218,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-24,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,238,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,26,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,244,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,10,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,266,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,11,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,181,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,280,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-181,100,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,300,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,99,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,328,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,132,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,388,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,136,89,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,431,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,151,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,450,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-197,23,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,456,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,0,1,0,20040330,DAL,CLE
-Shot Chart Detail,0020301073,495,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,45,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301073,507,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,8,1,1,20040330,DAL,CLE
-Shot Chart Detail,0020301097,7,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,23,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,11,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,107,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,30,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,7,22,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,10,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,53,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,94,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,66,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-110,117,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,152,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,234,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,26,1,1,20040402,MIL,CLE
-Shot Chart Detail,0020301097,240,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,10,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,244,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,8,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301097,267,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,3,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,MIL,CLE
-Shot Chart Detail,0020301102,8,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,168,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,12,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20040403,CLE,GSW
-Shot Chart Detail,0020301102,25,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,7,52,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,115,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,68,1,1,20040403,CLE,GSW
-Shot Chart Detail,0020301102,128,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,89,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,373,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,43,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301102,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,174,1,0,20040403,CLE,GSW
-Shot Chart Detail,0020301115,10,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,86,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,22,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,82,53,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,32,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,36,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,76,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,36,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301115,95,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,0,20040406,CLE,TOR
-Shot Chart Detail,0020301128,82,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,135,1,1,20040407,MEM,CLE
-Shot Chart Detail,0020301128,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,398,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,47,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040407,MEM,CLE
-Shot Chart Detail,0020301128,441,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,63,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,453,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,45,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,456,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,57,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-128,30,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301128,477,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,41,1,0,20040407,MEM,CLE
-Shot Chart Detail,0020301137,64,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,7,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,68,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,137,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,79,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,62,104,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,108,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,8,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,110,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,-13,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,137,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,185,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,137,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,323,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,109,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,326,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,338,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-156,94,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,358,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,20,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,5,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301137,437,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-3,1,1,20040409,MIA,CLE
-Shot Chart Detail,0020301137,445,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-49,173,1,0,20040409,MIA,CLE
-Shot Chart Detail,0020301151,135,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,153,59,1,1,20040410,CLE,MIA
-Shot Chart Detail,0020301151,139,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-89,71,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,207,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-11,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,351,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,56,1,1,20040410,CLE,MIA
-Shot Chart Detail,0020301151,372,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,87,171,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,407,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,143,107,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,455,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,-28,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,464,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,23,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,467,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,45,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301151,473,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,3,1,1,20040410,CLE,MIA
-Shot Chart Detail,0020301151,477,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,-19,1,0,20040410,CLE,MIA
-Shot Chart Detail,0020301162,149,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,135,1,1,20040412,CLE,MIL
-Shot Chart Detail,0020301162,162,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,133,92,1,0,20040412,CLE,MIL
-Shot Chart Detail,0020301179,120,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,25,1,1,20040414,NYK,CLE
-Shot Chart Detail,0020301179,129,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,123,54,1,0,20040414,NYK,CLE
-Shot Chart Detail,0020301179,132,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,4,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,7,1,1,20040414,NYK,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300486,96,1924,Lee Nailon,1610612753,Orlando Magic,1,0,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20040106,0,IND,ORL
+Shot Chart Detail,20300486,102,1924,Lee Nailon,1610612753,Orlando Magic,1,0,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,7,1,0,20040106,0,IND,ORL
+Shot Chart Detail,20300486,116,1924,Lee Nailon,1610612753,Orlando Magic,2,10,42,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,8,53,1,1,20040106,1,IND,ORL
+Shot Chart Detail,20300486,342,1924,Lee Nailon,1610612753,Orlando Magic,4,11,43,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,-5,1,1,20040106,0,IND,ORL
+Shot Chart Detail,20300486,352,1924,Lee Nailon,1610612753,Orlando Magic,4,9,50,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-168,23,1,0,20040106,0,IND,ORL
+Shot Chart Detail,20300486,363,1924,Lee Nailon,1610612753,Orlando Magic,4,8,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,103,38,1,0,20040106,0,IND,ORL
+Shot Chart Detail,20300492,128,1924,Lee Nailon,1610612753,Orlando Magic,2,10,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20040107,0,BOS,ORL
+Shot Chart Detail,20300492,336,1924,Lee Nailon,1610612753,Orlando Magic,4,11,21,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,10,1,0,20040107,0,BOS,ORL
+Shot Chart Detail,20300492,365,1924,Lee Nailon,1610612753,Orlando Magic,4,9,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,18,1,0,20040107,0,BOS,ORL
+Shot Chart Detail,20300492,372,1924,Lee Nailon,1610612753,Orlando Magic,4,8,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,5,1,0,20040107,0,BOS,ORL
+Shot Chart Detail,20300492,383,1924,Lee Nailon,1610612753,Orlando Magic,4,7,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,0,20040107,0,BOS,ORL
+Shot Chart Detail,20300492,439,1924,Lee Nailon,1610612753,Orlando Magic,4,2,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,97,-5,1,0,20040107,0,BOS,ORL
+Shot Chart Detail,20300506,433,1924,Lee Nailon,1610612753,Orlando Magic,4,9,32,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,0,1,1,20040109,1,ORL,WAS
+Shot Chart Detail,20300506,450,1924,Lee Nailon,1610612753,Orlando Magic,4,7,34,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,0,ORL,WAS
+Shot Chart Detail,20300506,455,1924,Lee Nailon,1610612753,Orlando Magic,4,6,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,0,ORL,WAS
+Shot Chart Detail,20300506,468,1924,Lee Nailon,1610612753,Orlando Magic,4,5,47,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,72,150,1,0,20040109,0,ORL,WAS
+Shot Chart Detail,20300506,479,1924,Lee Nailon,1610612753,Orlando Magic,4,4,58,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040109,1,ORL,WAS
+Shot Chart Detail,20300506,512,1924,Lee Nailon,1610612753,Orlando Magic,4,1,55,Made Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,13,1,1,20040109,1,ORL,WAS
+Shot Chart Detail,20300545,141,1924,Lee Nailon,1610612753,Orlando Magic,2,7,57,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,13,153,1,0,20040114,0,NYK,ORL
+Shot Chart Detail,20300545,170,1924,Lee Nailon,1610612753,Orlando Magic,2,3,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040114,1,NYK,ORL
+Shot Chart Detail,20300545,196,1924,Lee Nailon,1610612753,Orlando Magic,2,1,11,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040114,1,NYK,ORL
+Shot Chart Detail,20300545,366,1924,Lee Nailon,1610612753,Orlando Magic,4,8,12,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-3,1,1,20040114,1,NYK,ORL
+Shot Chart Detail,20300545,372,1924,Lee Nailon,1610612753,Orlando Magic,4,7,36,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-84,0,1,0,20040114,0,NYK,ORL
+Shot Chart Detail,20300545,383,1924,Lee Nailon,1610612753,Orlando Magic,4,6,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040114,0,NYK,ORL
+Shot Chart Detail,20300545,444,1924,Lee Nailon,1610612753,Orlando Magic,4,1,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040114,0,NYK,ORL
+Shot Chart Detail,20300557,239,1924,Lee Nailon,1610612753,Orlando Magic,2,1,50,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-159,-14,1,0,20040116,0,ORL,BOS
+Shot Chart Detail,20300583,143,1924,Lee Nailon,1610612753,Orlando Magic,2,6,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040119,0,ORL,MIL
+Shot Chart Detail,20300006,104,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031029,0,NOH,ATL
+Shot Chart Detail,20300006,153,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031029,1,NOH,ATL
+Shot Chart Detail,20300006,370,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031029,0,NOH,ATL
+Shot Chart Detail,20300024,109,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,45,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,36,1,1,20031031,0,CHI,ATL
+Shot Chart Detail,20300024,129,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031031,1,CHI,ATL
+Shot Chart Detail,20300024,377,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,36,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,38,1,1,20031031,1,CHI,ATL
+Shot Chart Detail,20300024,400,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031031,0,CHI,ATL
+Shot Chart Detail,20300024,412,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,72,1,0,20031031,0,CHI,ATL
+Shot Chart Detail,20300024,517,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,10,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,171,143,1,0,20031031,0,CHI,ATL
+Shot Chart Detail,20300029,141,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,34,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,12,1,0,20031101,0,ATL,IND
+Shot Chart Detail,20300029,351,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031101,1,ATL,IND
+Shot Chart Detail,20300029,375,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,29,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031101,0,ATL,IND
+Shot Chart Detail,20300029,392,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,15,1,1,20031101,1,ATL,IND
+Shot Chart Detail,20300042,101,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,17,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,126,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,47,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,7,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,152,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,342,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,54,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,69,1,1,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,367,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-89,13,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,433,1924,Lee Nailon,1610612737,Atlanta Hawks,4,3,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300042,445,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,59,1,0,20031103,0,ATL,NOH
+Shot Chart Detail,20300060,77,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,36,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20031105,1,GSW,ATL
+Shot Chart Detail,20300060,80,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,-13,1,0,20031105,0,GSW,ATL
+Shot Chart Detail,20300060,87,1924,Lee Nailon,1610612737,Atlanta Hawks,1,3,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,11,133,1,0,20031105,0,GSW,ATL
+Shot Chart Detail,20300060,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031105,0,GSW,ATL
+Shot Chart Detail,20300060,117,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-20,26,1,0,20031105,0,GSW,ATL
+Shot Chart Detail,20300060,131,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,15,Made Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-95,-5,1,1,20031105,1,GSW,ATL
+Shot Chart Detail,20300060,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,49,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,167,10,1,1,20031105,1,GSW,ATL
+Shot Chart Detail,20300060,368,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,5,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,7,1,0,20031105,0,GSW,ATL
+Shot Chart Detail,20300060,379,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-131,109,1,0,20031105,0,GSW,ATL
+Shot Chart Detail,20300084,105,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-161,28,1,0,20031108,0,POR,ATL
+Shot Chart Detail,20300084,125,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031108,1,POR,ATL
+Shot Chart Detail,20300084,151,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,3,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-149,0,1,0,20031108,0,POR,ATL
+Shot Chart Detail,20300084,326,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,31,1,0,20031108,0,POR,ATL
+Shot Chart Detail,20300084,330,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,45,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031108,1,POR,ATL
+Shot Chart Detail,20300084,334,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031108,0,POR,ATL
+Shot Chart Detail,20300089,104,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-117,48,1,0,20031109,0,SEA,ATL
+Shot Chart Detail,20300089,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,8,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-8,72,1,1,20031109,0,SEA,ATL
+Shot Chart Detail,20300089,360,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,7,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-187,23,1,0,20031109,0,SEA,ATL
+Shot Chart Detail,20300089,380,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,21,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,164,1,1,20031109,1,SEA,ATL
+Shot Chart Detail,20300089,391,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031109,0,SEA,ATL
+Shot Chart Detail,20300102,134,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,30,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,3,92,1,1,20031111,1,LAC,ATL
+Shot Chart Detail,20300102,160,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,27,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20031111,1,LAC,ATL
+Shot Chart Detail,20300102,172,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,4,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,49,1,1,20031111,1,LAC,ATL
+Shot Chart Detail,20300102,345,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031111,0,LAC,ATL
+Shot Chart Detail,20300109,147,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-105,3,1,0,20031112,0,PHX,ATL
+Shot Chart Detail,20300109,341,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,40,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-131,102,1,0,20031112,0,PHX,ATL
+Shot Chart Detail,20300109,347,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,46,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,31,164,1,0,20031112,0,PHX,ATL
+Shot Chart Detail,20300128,101,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,44,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,113,15,1,0,20031115,0,ATL,NJN
+Shot Chart Detail,20300128,130,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,16,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-151,41,1,1,20031115,1,ATL,NJN
+Shot Chart Detail,20300128,132,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,15,77,132,1,0,20031115,0,ATL,NJN
+Shot Chart Detail,20300128,149,1924,Lee Nailon,1610612737,Atlanta Hawks,2,6,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-182,-5,1,0,20031115,0,ATL,NJN
+Shot Chart Detail,20300141,414,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,1,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031117,1,ATL,WAS
+Shot Chart Detail,20300147,212,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,44,20,1,0,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,224,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,21,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-69,26,1,0,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,226,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,17,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-54,33,1,1,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,235,1924,Lee Nailon,1610612737,Atlanta Hawks,2,3,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,237,1924,Lee Nailon,1610612737,Atlanta Hawks,2,2,34,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,0,186,1,0,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,374,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,43,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,113,10,1,1,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,382,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-133,-3,1,0,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,385,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031118,0,MIL,ATL
+Shot Chart Detail,20300147,397,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,21,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,1,143,1,1,20031118,1,MIL,ATL
+Shot Chart Detail,20300168,141,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,27,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,8,1,1,20031121,1,SAS,ATL
+Shot Chart Detail,20300177,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,22,1,0,20031122,0,ATL,CLE
+Shot Chart Detail,20300177,181,1924,Lee Nailon,1610612737,Atlanta Hawks,2,4,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031122,0,ATL,CLE
+Shot Chart Detail,20300202,123,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,46,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,1,20031126,0,ATL,TOR
+Shot Chart Detail,20300202,139,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,13,1,0,20031126,0,ATL,TOR
+Shot Chart Detail,20300202,155,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-87,0,1,0,20031126,0,ATL,TOR
+Shot Chart Detail,20300202,158,1924,Lee Nailon,1610612737,Atlanta Hawks,2,5,13,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,38,1,1,20031126,1,ATL,TOR
+Shot Chart Detail,20300202,332,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,42,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-148,2,1,1,20031126,1,ATL,TOR
+Shot Chart Detail,20300202,335,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,0,1,0,20031126,0,ATL,TOR
+Shot Chart Detail,20300212,70,1924,Lee Nailon,1610612737,Atlanta Hawks,1,4,23,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,0,ATL,MIA
+Shot Chart Detail,20300212,87,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031128,0,ATL,MIA
+Shot Chart Detail,20300212,94,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,1,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031128,0,ATL,MIA
+Shot Chart Detail,20300212,111,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,1,ATL,MIA
+Shot Chart Detail,20300212,309,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,66,1,0,20031128,0,ATL,MIA
+Shot Chart Detail,20300212,326,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-74,56,1,0,20031128,0,ATL,MIA
+Shot Chart Detail,20300212,334,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,1,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031128,1,ATL,MIA
+Shot Chart Detail,20300224,85,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,6,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-115,87,1,1,20031129,1,PHI,ATL
+Shot Chart Detail,20300224,109,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,11,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-103,77,1,1,20031129,1,PHI,ATL
+Shot Chart Detail,20300224,255,1924,Lee Nailon,1610612737,Atlanta Hawks,3,3,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,169,38,1,0,20031129,0,PHI,ATL
+Shot Chart Detail,20300224,290,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,87,43,1,0,20031129,0,PHI,ATL
+Shot Chart Detail,20300224,305,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,0,PHI,ATL
+Shot Chart Detail,20300273,459,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,30,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-149,-23,1,1,20031206,1,CLE,ATL
+Shot Chart Detail,20300293,118,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031209,0,ATL,DEN
+Shot Chart Detail,20300293,121,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,8,1,0,20031209,0,ATL,DEN
+Shot Chart Detail,20300293,146,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,35,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-72,76,1,1,20031209,1,ATL,DEN
+Shot Chart Detail,20300293,165,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,50,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-11,160,1,1,20031209,1,ATL,DEN
+Shot Chart Detail,20300293,362,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,36,1,0,20031209,0,ATL,DEN
+Shot Chart Detail,20300293,380,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,33,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031209,0,ATL,DEN
+Shot Chart Detail,20300302,106,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031210,0,MEM,ATL
+Shot Chart Detail,20300302,128,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,0,MEM,ATL
+Shot Chart Detail,20300302,142,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,1,MEM,ATL
+Shot Chart Detail,20300302,145,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031210,1,MEM,ATL
+Shot Chart Detail,20300302,353,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,31,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-100,-23,1,0,20031210,0,MEM,ATL
+Shot Chart Detail,20300302,363,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,102,1,0,20031210,0,MEM,ATL
+Shot Chart Detail,20300313,321,1924,Lee Nailon,1610612737,Atlanta Hawks,4,11,18,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,15,46,1,1,20031212,0,IND,ATL
+Shot Chart Detail,20300313,333,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,19,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,92,56,1,0,20031212,0,IND,ATL
+Shot Chart Detail,20300313,338,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,8,1,0,20031212,0,IND,ATL
+Shot Chart Detail,20300313,437,1924,Lee Nailon,1610612737,Atlanta Hawks,4,1,17,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,8,1,1,20031212,0,IND,ATL
+Shot Chart Detail,20300321,121,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,43,1,0,20031213,0,ATL,ORL
+Shot Chart Detail,20300321,125,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,17,1,0,20031213,0,ATL,ORL
+Shot Chart Detail,20300321,129,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,0,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,51,1,1,20031213,1,ATL,ORL
+Shot Chart Detail,20300321,314,1924,Lee Nailon,1610612737,Atlanta Hawks,3,3,47,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,1,20031213,1,ATL,ORL
+Shot Chart Detail,20300321,332,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,5,1,0,20031213,0,ATL,ORL
+Shot Chart Detail,20300321,336,1924,Lee Nailon,1610612737,Atlanta Hawks,3,2,6,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,18,1,0,20031213,0,ATL,ORL
+Shot Chart Detail,20300340,75,1924,Lee Nailon,1610612737,Atlanta Hawks,1,3,20,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-153,61,1,1,20031216,1,MIA,ATL
+Shot Chart Detail,20300340,78,1924,Lee Nailon,1610612737,Atlanta Hawks,1,2,46,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,46,1,0,20031216,0,MIA,ATL
+Shot Chart Detail,20300340,92,1924,Lee Nailon,1610612737,Atlanta Hawks,1,1,25,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,0,20031216,0,MIA,ATL
+Shot Chart Detail,20300340,106,1924,Lee Nailon,1610612737,Atlanta Hawks,1,0,34,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-36,10,1,1,20031216,1,MIA,ATL
+Shot Chart Detail,20300340,418,1924,Lee Nailon,1610612737,Atlanta Hawks,4,3,30,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-102,140,1,0,20031216,0,MIA,ATL
+Shot Chart Detail,20300340,433,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,2,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,133,107,1,1,20031216,1,MIA,ATL
+Shot Chart Detail,20300340,444,1924,Lee Nailon,1610612737,Atlanta Hawks,4,1,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,38,1,0,20031216,0,MIA,ATL
+Shot Chart Detail,20300351,127,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031217,0,ATL,GSW
+Shot Chart Detail,20300351,139,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,35,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,3,1,1,20031217,1,ATL,GSW
+Shot Chart Detail,20300351,142,1924,Lee Nailon,1610612737,Atlanta Hawks,2,9,9,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-87,173,1,0,20031217,0,ATL,GSW
+Shot Chart Detail,20300351,378,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,12,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,20,1,1,20031217,0,ATL,GSW
+Shot Chart Detail,20300351,386,1924,Lee Nailon,1610612737,Atlanta Hawks,4,6,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-171,-8,1,0,20031217,0,ATL,GSW
+Shot Chart Detail,20300351,395,1924,Lee Nailon,1610612737,Atlanta Hawks,4,6,11,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,66,5,1,1,20031217,0,ATL,GSW
+Shot Chart Detail,20300351,406,1924,Lee Nailon,1610612737,Atlanta Hawks,4,4,57,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,41,1,0,20031217,0,ATL,GSW
+Shot Chart Detail,20300351,449,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,29,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,153,2,1,1,20031217,1,ATL,GSW
+Shot Chart Detail,20300351,452,1924,Lee Nailon,1610612737,Atlanta Hawks,4,2,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,1,ATL,GSW
+Shot Chart Detail,20300351,461,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,56,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-10,143,1,1,20031217,1,ATL,GSW
+Shot Chart Detail,20300351,464,1924,Lee Nailon,1610612737,Atlanta Hawks,4,0,27,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031217,1,ATL,GSW
+Shot Chart Detail,20300365,132,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-145,58,1,0,20031219,0,ATL,SAC
+Shot Chart Detail,20300365,151,1924,Lee Nailon,1610612737,Atlanta Hawks,2,7,18,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,43,1,0,20031219,0,ATL,SAC
+Shot Chart Detail,20300393,122,1924,Lee Nailon,1610612737,Atlanta Hawks,2,11,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,20,1,0,20031223,0,ATL,BOS
+Shot Chart Detail,20300393,133,1924,Lee Nailon,1610612737,Atlanta Hawks,2,10,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,1,ATL,BOS
+Shot Chart Detail,20300393,157,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-122,20,1,0,20031223,0,ATL,BOS
+Shot Chart Detail,20300393,238,1924,Lee Nailon,1610612737,Atlanta Hawks,2,0,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,0,ATL,BOS
+Shot Chart Detail,20300393,337,1924,Lee Nailon,1610612737,Atlanta Hawks,3,1,0,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,150,1,0,20031223,0,ATL,BOS
+Shot Chart Detail,20300393,365,1924,Lee Nailon,1610612737,Atlanta Hawks,4,10,33,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,31,1,1,20031223,0,ATL,BOS
+Shot Chart Detail,20300393,373,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,19,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,135,12,1,0,20031223,0,ATL,BOS
+Shot Chart Detail,20300393,385,1924,Lee Nailon,1610612737,Atlanta Hawks,4,8,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031223,1,ATL,BOS
+Shot Chart Detail,20300406,127,1924,Lee Nailon,1610612737,Atlanta Hawks,2,8,34,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,1,NOH,ATL
+Shot Chart Detail,20300406,277,1924,Lee Nailon,1610612737,Atlanta Hawks,3,4,2,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,0,NOH,ATL
+Shot Chart Detail,20300406,314,1924,Lee Nailon,1610612737,Atlanta Hawks,3,0,55,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,53,1,1,20031226,0,NOH,ATL
+Shot Chart Detail,20300406,349,1924,Lee Nailon,1610612737,Atlanta Hawks,4,9,53,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,123,71,1,0,20031226,0,NOH,ATL
+Shot Chart Detail,20300406,375,1924,Lee Nailon,1610612737,Atlanta Hawks,4,7,46,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031226,1,NOH,ATL
+Shot Chart Detail,20300876,179,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,-1,1,0,20040303,0,CLE,ATL
+Shot Chart Detail,20300876,208,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,12,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,84,8,1,1,20040303,1,CLE,ATL
+Shot Chart Detail,20300876,264,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,31,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,107,43,1,1,20040303,0,CLE,ATL
+Shot Chart Detail,20300876,269,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,0,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20040303,0,CLE,ATL
+Shot Chart Detail,20300876,417,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,45,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-125,87,1,1,20040303,1,CLE,ATL
+Shot Chart Detail,20300876,460,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,108,13,1,0,20040303,0,CLE,ATL
+Shot Chart Detail,20300876,467,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,21,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,64,1,0,20040303,0,CLE,ATL
+Shot Chart Detail,20300890,127,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,20,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-163,10,1,1,20040305,1,NOH,CLE
+Shot Chart Detail,20300890,129,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040305,0,NOH,CLE
+Shot Chart Detail,20300890,143,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040305,0,NOH,CLE
+Shot Chart Detail,20300890,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,28,1,0,20040305,0,NOH,CLE
+Shot Chart Detail,20300890,379,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040305,0,NOH,CLE
+Shot Chart Detail,20300890,381,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,77,1,0,20040305,0,NOH,CLE
+Shot Chart Detail,20300899,159,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,26,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-184,-9,1,1,20040306,1,CLE,MIL
+Shot Chart Detail,20300899,180,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,53,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,82,35,1,1,20040306,0,CLE,MIL
+Shot Chart Detail,20300899,364,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,149,-5,1,0,20040306,0,CLE,MIL
+Shot Chart Detail,20300899,367,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,33,51,1,0,20040306,0,CLE,MIL
+Shot Chart Detail,20300899,390,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,1,20040306,0,CLE,MIL
+Shot Chart Detail,20300899,409,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,115,18,1,0,20040306,0,CLE,MIL
+Shot Chart Detail,20300914,151,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,43,1,0,20040308,0,ATL,CLE
+Shot Chart Detail,20300914,219,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,7,1,0,20040308,0,ATL,CLE
+Shot Chart Detail,20300928,127,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,38,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,90,51,1,1,20040310,0,TOR,CLE
+Shot Chart Detail,20300928,132,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,28,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,10,1,0,20040310,0,TOR,CLE
+Shot Chart Detail,20300928,302,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,3,45,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-145,61,1,1,20040310,0,TOR,CLE
+Shot Chart Detail,20300928,310,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,2,47,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-118,15,1,0,20040310,0,TOR,CLE
+Shot Chart Detail,20300928,349,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,23,1,1,20040310,1,TOR,CLE
+Shot Chart Detail,20300928,407,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040310,0,TOR,CLE
+Shot Chart Detail,20300928,418,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-13,150,1,1,20040310,1,TOR,CLE
+Shot Chart Detail,20300928,448,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,52,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,61,1,1,20040310,1,TOR,CLE
+Shot Chart Detail,20300957,136,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,48,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,30,1,1,20040314,1,CLE,IND
+Shot Chart Detail,20300957,146,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,41,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,35,1,1,20040314,1,CLE,IND
+Shot Chart Detail,20300957,171,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,1,20040314,1,CLE,IND
+Shot Chart Detail,20300957,185,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20040314,0,CLE,IND
+Shot Chart Detail,20300957,194,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,42,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-135,25,1,1,20040314,1,CLE,IND
+Shot Chart Detail,20300957,223,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,33,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,0,1,1,20040314,1,CLE,IND
+Shot Chart Detail,20300957,239,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,58,-20,580,1,0,20040314,0,CLE,IND
+Shot Chart Detail,20300957,345,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-5,132,1,0,20040314,0,CLE,IND
+Shot Chart Detail,20300957,421,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-158,41,1,1,20040314,1,CLE,IND
+Shot Chart Detail,20300967,158,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,6,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,177,26,1,0,20040316,0,CLE,CHI
+Shot Chart Detail,20300967,175,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,58,1,0,20040316,0,CLE,CHI
+Shot Chart Detail,20300967,200,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,18,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20040316,1,CLE,CHI
+Shot Chart Detail,20300967,503,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,27,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,148,1,0,20040316,0,CLE,CHI
+Shot Chart Detail,20300989,107,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,71,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,113,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,22,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-174,-19,1,1,20040319,1,CLE,UTA
+Shot Chart Detail,20300989,210,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,102,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,365,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,20,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,1,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,369,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,43,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,8,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,370,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,375,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,12,1,1,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,379,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,52,68,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,54,1,1,20040319,1,CLE,UTA
+Shot Chart Detail,20300989,437,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,18,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-136,94,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,455,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,3,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20300989,484,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,64,1,0,20040319,0,CLE,UTA
+Shot Chart Detail,20301008,397,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,42,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,146,17,1,1,20040321,1,CLE,DET
+Shot Chart Detail,20301008,399,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,151,7,1,0,20040321,0,CLE,DET
+Shot Chart Detail,20301008,417,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,0,1,1,20040321,1,CLE,DET
+Shot Chart Detail,20301018,146,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,12,1,0,20040323,0,CLE,PHX
+Shot Chart Detail,20301018,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,29,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-140,38,1,1,20040323,0,CLE,PHX
+Shot Chart Detail,20301018,166,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,22,1,0,20040323,0,CLE,PHX
+Shot Chart Detail,20301038,65,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-36,1,0,20040326,0,PHI,CLE
+Shot Chart Detail,20301038,90,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-48,146,1,0,20040326,0,PHI,CLE
+Shot Chart Detail,20301038,151,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,5,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,41,1,1,20040326,1,PHI,CLE
+Shot Chart Detail,20301038,157,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,6,22,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,59,1,1,20040326,0,PHI,CLE
+Shot Chart Detail,20301038,337,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,149,46,1,0,20040326,0,PHI,CLE
+Shot Chart Detail,20301038,359,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040326,0,PHI,CLE
+Shot Chart Detail,20301050,160,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,27,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,64,181,1,0,20040327,0,CLE,NJN
+Shot Chart Detail,20301050,203,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,10,1,1,20040327,1,CLE,NJN
+Shot Chart Detail,20301050,370,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,120,1,0,20040327,0,CLE,NJN
+Shot Chart Detail,20301050,382,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-156,40,1,0,20040327,0,CLE,NJN
+Shot Chart Detail,20301050,388,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,6,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,23,1,0,20040327,0,CLE,NJN
+Shot Chart Detail,20301050,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,117,1,1,20040327,1,CLE,NJN
+Shot Chart Detail,20301069,122,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20040329,1,SAS,CLE
+Shot Chart Detail,20301069,142,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,71,1,0,20040329,0,SAS,CLE
+Shot Chart Detail,20301069,175,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,49,1,1,20040329,0,SAS,CLE
+Shot Chart Detail,20301069,180,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,25,1,0,20040329,0,SAS,CLE
+Shot Chart Detail,20301069,359,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,158,12,1,0,20040329,0,SAS,CLE
+Shot Chart Detail,20301069,392,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,48,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,10,1,1,20040329,1,SAS,CLE
+Shot Chart Detail,20301069,399,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,7,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,148,28,1,1,20040329,1,SAS,CLE
+Shot Chart Detail,20301069,401,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-75,8,1,0,20040329,0,SAS,CLE
+Shot Chart Detail,20301069,426,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,5,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-135,48,1,1,20040329,1,SAS,CLE
+Shot Chart Detail,20301069,429,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20040329,1,SAS,CLE
+Shot Chart Detail,20301069,441,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,12,1,0,20040329,0,SAS,CLE
+Shot Chart Detail,20301073,28,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,8,47,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,51,1,1,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,52,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,6,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,54,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,6,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,69,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,69,130,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,114,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,218,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,24,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,164,-24,1,1,20040330,1,DAL,CLE
+Shot Chart Detail,20301073,238,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,202,26,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,244,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,1,10,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,266,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,11,32,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,181,1,1,20040330,1,DAL,CLE
+Shot Chart Detail,20301073,280,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,9,8,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-181,100,1,1,20040330,1,DAL,CLE
+Shot Chart Detail,20301073,300,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,7,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,102,99,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,328,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,4,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,59,132,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,388,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,44,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,136,89,1,1,20040330,1,DAL,CLE
+Shot Chart Detail,20301073,431,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,8,0,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-82,151,1,1,20040330,1,DAL,CLE
+Shot Chart Detail,20301073,450,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-197,23,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,456,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,5,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,0,1,0,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,495,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,25,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,45,1,1,20040330,0,DAL,CLE
+Shot Chart Detail,20301073,507,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,8,1,1,20040330,1,DAL,CLE
+Shot Chart Detail,20301097,7,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,11,2,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,23,1,1,20040402,1,MIL,CLE
+Shot Chart Detail,20301097,11,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,107,1,0,20040402,0,MIL,CLE
+Shot Chart Detail,20301097,30,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,7,22,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,10,1,1,20040402,0,MIL,CLE
+Shot Chart Detail,20301097,53,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,94,1,1,20040402,1,MIL,CLE
+Shot Chart Detail,20301097,66,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-24,1,0,20040402,0,MIL,CLE
+Shot Chart Detail,20301097,150,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,3,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-110,117,1,1,20040402,1,MIL,CLE
+Shot Chart Detail,20301097,152,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,4,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,0,MIL,CLE
+Shot Chart Detail,20301097,234,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,26,1,1,20040402,1,MIL,CLE
+Shot Chart Detail,20301097,240,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,7,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,10,1,0,20040402,0,MIL,CLE
+Shot Chart Detail,20301097,244,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,8,1,0,20040402,0,MIL,CLE
+Shot Chart Detail,20301097,267,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,3,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,0,MIL,CLE
+Shot Chart Detail,20301102,8,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-92,168,1,0,20040403,0,CLE,GSW
+Shot Chart Detail,20301102,12,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,9,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20040403,1,CLE,GSW
+Shot Chart Detail,20301102,25,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,7,52,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,0,20040403,0,CLE,GSW
+Shot Chart Detail,20301102,115,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,33,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,62,68,1,1,20040403,0,CLE,GSW
+Shot Chart Detail,20301102,128,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,125,89,1,0,20040403,0,CLE,GSW
+Shot Chart Detail,20301102,373,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,49,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,43,1,0,20040403,0,CLE,GSW
+Shot Chart Detail,20301102,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,5,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,174,1,0,20040403,0,CLE,GSW
+Shot Chart Detail,20301115,10,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,10,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,86,1,0,20040406,0,CLE,TOR
+Shot Chart Detail,20301115,22,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,82,53,1,0,20040406,0,CLE,TOR
+Shot Chart Detail,20301115,32,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,8,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,36,1,0,20040406,0,CLE,TOR
+Shot Chart Detail,20301115,76,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,36,1,0,20040406,0,CLE,TOR
+Shot Chart Detail,20301115,95,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,0,20040406,0,CLE,TOR
+Shot Chart Detail,20301128,82,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,135,1,1,20040407,1,MEM,CLE
+Shot Chart Detail,20301128,396,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,0,MEM,CLE
+Shot Chart Detail,20301128,398,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,47,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,0,MEM,CLE
+Shot Chart Detail,20301128,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,7,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040407,0,MEM,CLE
+Shot Chart Detail,20301128,441,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,4,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,143,63,1,0,20040407,0,MEM,CLE
+Shot Chart Detail,20301128,453,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,45,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040407,0,MEM,CLE
+Shot Chart Detail,20301128,456,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,57,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-128,30,1,0,20040407,0,MEM,CLE
+Shot Chart Detail,20301128,477,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,41,41,1,0,20040407,0,MEM,CLE
+Shot Chart Detail,20301137,64,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,4,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,7,1,1,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,68,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,137,1,0,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,79,1924,Lee Nailon,1610612739,Cleveland Cavaliers,1,1,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,62,104,1,1,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,108,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,10,28,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,136,8,1,1,20040409,1,MIA,CLE
+Shot Chart Detail,20301137,110,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-138,-13,1,1,20040409,1,MIA,CLE
+Shot Chart Detail,20301137,137,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040409,1,MIA,CLE
+Shot Chart Detail,20301137,185,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,3,23,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,137,1,0,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,323,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,109,1,0,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,326,1924,Lee Nailon,1610612739,Cleveland Cavaliers,3,0,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040409,1,MIA,CLE
+Shot Chart Detail,20301137,338,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-156,94,1,0,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,358,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,9,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,20,1,1,20040409,1,MIA,CLE
+Shot Chart Detail,20301137,410,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,3,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,5,1,0,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,437,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,42,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,-3,1,1,20040409,0,MIA,CLE
+Shot Chart Detail,20301137,445,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,9,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-49,173,1,0,20040409,0,MIA,CLE
+Shot Chart Detail,20301151,135,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,59,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,153,59,1,1,20040410,1,CLE,MIA
+Shot Chart Detail,20301151,139,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,27,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-89,71,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,207,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,0,4,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-11,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,351,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,11,38,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,41,56,1,1,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,372,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,10,1,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,87,171,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,407,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,6,0,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,143,107,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,455,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-138,-28,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,464,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,2,6,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,23,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,467,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,45,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301151,473,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,1,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-110,3,1,1,20040410,1,CLE,MIA
+Shot Chart Detail,20301151,477,1924,Lee Nailon,1610612739,Cleveland Cavaliers,4,0,27,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-117,-19,1,0,20040410,0,CLE,MIA
+Shot Chart Detail,20301162,149,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,7,9,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,135,1,1,20040412,1,CLE,MIL
+Shot Chart Detail,20301162,162,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,5,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,133,92,1,0,20040412,0,CLE,MIL
+Shot Chart Detail,20301179,120,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,9,11,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,89,25,1,1,20040414,0,NYK,CLE
+Shot Chart Detail,20301179,129,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,14,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,123,54,1,0,20040414,0,NYK,CLE
+Shot Chart Detail,20301179,132,1924,Lee Nailon,1610612739,Cleveland Cavaliers,2,8,4,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,59,7,1,1,20040414,1,NYK,CLE

@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021201041,504,436,Juwan Howard,1610612748,Miami Heat,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20130324,MIA,CHA
-Shot Chart Detail,0021201049,500,436,Juwan Howard,1610612748,Miami Heat,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,30,1,0,20130325,ORL,MIA
-Shot Chart Detail,0021201180,481,436,Juwan Howard,1610612748,Miami Heat,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,11,1,0,20130412,MIA,BOS
-Shot Chart Detail,0021201204,20,436,Juwan Howard,1610612748,Miami Heat,1,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-23,173,1,0,20130415,CLE,MIA
-Shot Chart Detail,0021201204,62,436,Juwan Howard,1610612748,Miami Heat,1,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,4,1,0,20130415,CLE,MIA
-Shot Chart Detail,0021201204,215,436,Juwan Howard,1610612748,Miami Heat,2,1,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,106,53,1,1,20130415,CLE,MIA
-Shot Chart Detail,0021201204,218,436,Juwan Howard,1610612748,Miami Heat,2,0,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,44,1,0,20130415,CLE,MIA
-Shot Chart Detail,0021201204,246,436,Juwan Howard,1610612748,Miami Heat,3,10,20,Made Shot,Running Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,22,1,1,20130415,CLE,MIA
-Shot Chart Detail,0021201204,255,436,Juwan Howard,1610612748,Miami Heat,3,9,39,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,58,1,1,20130415,CLE,MIA
-Shot Chart Detail,0021201204,280,436,Juwan Howard,1610612748,Miami Heat,3,7,27,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,51,104,1,0,20130415,CLE,MIA
-Shot Chart Detail,0021201220,19,436,Juwan Howard,1610612748,Miami Heat,1,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-79,148,1,0,20130417,MIA,ORL
-Shot Chart Detail,0021201220,33,436,Juwan Howard,1610612748,Miami Heat,1,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,0,20130417,MIA,ORL
-Shot Chart Detail,0021201220,36,436,Juwan Howard,1610612748,Miami Heat,1,7,47,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,77,1,1,20130417,MIA,ORL
-Shot Chart Detail,0021201220,65,436,Juwan Howard,1610612748,Miami Heat,1,5,24,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,58,66,1,1,20130417,MIA,ORL
-Shot Chart Detail,0021201220,75,436,Juwan Howard,1610612748,Miami Heat,1,4,55,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,85,1,1,20130417,MIA,ORL
-Shot Chart Detail,0021201220,89,436,Juwan Howard,1610612748,Miami Heat,1,3,20,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,0,20130417,MIA,ORL
-Shot Chart Detail,0021201220,270,436,Juwan Howard,1610612748,Miami Heat,3,10,45,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,17,1,1,20130417,MIA,ORL
-Shot Chart Detail,0021201220,294,436,Juwan Howard,1610612748,Miami Heat,3,8,50,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,26,1,1,20130417,MIA,ORL
-Shot Chart Detail,0021201220,341,436,Juwan Howard,1610612748,Miami Heat,3,4,3,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,1,20130417,MIA,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21201041,504,436,Juwan Howard,1610612748,Miami Heat,4,0,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20130324,1,MIA,CHA
+Shot Chart Detail,21201049,500,436,Juwan Howard,1610612748,Miami Heat,4,2,35,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,12,30,1,0,20130325,0,ORL,MIA
+Shot Chart Detail,21201180,481,436,Juwan Howard,1610612748,Miami Heat,4,0,7,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-193,11,1,0,20130412,0,MIA,BOS
+Shot Chart Detail,21201204,20,436,Juwan Howard,1610612748,Miami Heat,1,8,22,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-23,173,1,0,20130415,0,CLE,MIA
+Shot Chart Detail,21201204,62,436,Juwan Howard,1610612748,Miami Heat,1,3,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-199,4,1,0,20130415,0,CLE,MIA
+Shot Chart Detail,21201204,215,436,Juwan Howard,1610612748,Miami Heat,2,1,12,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,106,53,1,1,20130415,0,CLE,MIA
+Shot Chart Detail,21201204,218,436,Juwan Howard,1610612748,Miami Heat,2,0,33,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,89,44,1,0,20130415,0,CLE,MIA
+Shot Chart Detail,21201204,246,436,Juwan Howard,1610612748,Miami Heat,3,10,20,Made Shot,Running Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-24,22,1,1,20130415,1,CLE,MIA
+Shot Chart Detail,21201204,255,436,Juwan Howard,1610612748,Miami Heat,3,9,39,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,58,1,1,20130415,0,CLE,MIA
+Shot Chart Detail,21201204,280,436,Juwan Howard,1610612748,Miami Heat,3,7,27,Missed Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,51,104,1,0,20130415,0,CLE,MIA
+Shot Chart Detail,21201220,19,436,Juwan Howard,1610612748,Miami Heat,1,9,20,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-79,148,1,0,20130417,0,MIA,ORL
+Shot Chart Detail,21201220,33,436,Juwan Howard,1610612748,Miami Heat,1,8,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,0,20130417,0,MIA,ORL
+Shot Chart Detail,21201220,36,436,Juwan Howard,1610612748,Miami Heat,1,7,47,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,77,1,1,20130417,0,MIA,ORL
+Shot Chart Detail,21201220,65,436,Juwan Howard,1610612748,Miami Heat,1,5,24,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,58,66,1,1,20130417,1,MIA,ORL
+Shot Chart Detail,21201220,75,436,Juwan Howard,1610612748,Miami Heat,1,4,55,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,85,1,1,20130417,1,MIA,ORL
+Shot Chart Detail,21201220,89,436,Juwan Howard,1610612748,Miami Heat,1,3,20,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,12,1,0,20130417,0,MIA,ORL
+Shot Chart Detail,21201220,270,436,Juwan Howard,1610612748,Miami Heat,3,10,45,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-57,17,1,1,20130417,1,MIA,ORL
+Shot Chart Detail,21201220,294,436,Juwan Howard,1610612748,Miami Heat,3,8,50,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,26,1,1,20130417,1,MIA,ORL
+Shot Chart Detail,21201220,341,436,Juwan Howard,1610612748,Miami Heat,3,4,3,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,2,36,1,1,20130417,1,MIA,ORL

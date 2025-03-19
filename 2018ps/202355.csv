@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041700121,84,202355,Hassan Whiteside,1610612748,Miami Heat,1,6,24,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,34,1,0,20180414,PHI,MIA
-Shot Chart Detail,0041700121,95,202355,Hassan Whiteside,1610612748,Miami Heat,1,5,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20180414,PHI,MIA
-Shot Chart Detail,0041700121,438,202355,Hassan Whiteside,1610612748,Miami Heat,3,9,10,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180414,PHI,MIA
-Shot Chart Detail,0041700121,443,202355,Hassan Whiteside,1610612748,Miami Heat,3,8,48,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,5,1,0,20180414,PHI,MIA
-Shot Chart Detail,0041700122,34,202355,Hassan Whiteside,1610612748,Miami Heat,1,8,59,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180416,PHI,MIA
-Shot Chart Detail,0041700122,214,202355,Hassan Whiteside,1610612748,Miami Heat,2,10,0,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,2,1,1,20180416,PHI,MIA
-Shot Chart Detail,0041700123,630,202355,Hassan Whiteside,1610612748,Miami Heat,4,8,41,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20180419,MIA,PHI
-Shot Chart Detail,0041700124,257,202355,Hassan Whiteside,1610612748,Miami Heat,2,7,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20180421,MIA,PHI
-Shot Chart Detail,0041700124,285,202355,Hassan Whiteside,1610612748,Miami Heat,2,6,24,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,30,1,1,20180421,MIA,PHI
-Shot Chart Detail,0041700124,315,202355,Hassan Whiteside,1610612748,Miami Heat,2,4,35,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,29,1,0,20180421,MIA,PHI
-Shot Chart Detail,0041700124,442,202355,Hassan Whiteside,1610612748,Miami Heat,3,9,31,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-6,100,1,1,20180421,MIA,PHI
-Shot Chart Detail,0041700124,461,202355,Hassan Whiteside,1610612748,Miami Heat,3,7,19,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20180421,MIA,PHI
-Shot Chart Detail,0041700124,477,202355,Hassan Whiteside,1610612748,Miami Heat,3,6,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20180421,MIA,PHI
-Shot Chart Detail,0041700124,622,202355,Hassan Whiteside,1610612748,Miami Heat,4,9,43,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,0,20180421,MIA,PHI
-Shot Chart Detail,0041700124,628,202355,Hassan Whiteside,1610612748,Miami Heat,4,9,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,0,20180421,MIA,PHI
-Shot Chart Detail,0041700124,727,202355,Hassan Whiteside,1610612748,Miami Heat,4,2,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180421,MIA,PHI
-Shot Chart Detail,0041700125,24,202355,Hassan Whiteside,1610612748,Miami Heat,1,10,41,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,29,1,0,20180424,PHI,MIA
-Shot Chart Detail,0041700125,43,202355,Hassan Whiteside,1610612748,Miami Heat,1,9,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-96,116,1,0,20180424,PHI,MIA
-Shot Chart Detail,0041700125,50,202355,Hassan Whiteside,1610612748,Miami Heat,1,9,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,60,1,0,20180424,PHI,MIA
-Shot Chart Detail,0041700125,156,202355,Hassan Whiteside,1610612748,Miami Heat,1,1,51,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180424,PHI,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41700121,84,202355,Hassan Whiteside,1610612748,Miami Heat,1,6,24,Missed Shot,Floating Jump shot,,Mid-Range,Left Side(L),8-16 ft.,10,-95,34,1,0,20180414,0,PHI,MIA
+Shot Chart Detail,41700121,95,202355,Hassan Whiteside,1610612748,Miami Heat,1,5,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,1,20180414,1,PHI,MIA
+Shot Chart Detail,41700121,438,202355,Hassan Whiteside,1610612748,Miami Heat,3,9,10,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180414,0,PHI,MIA
+Shot Chart Detail,41700121,443,202355,Hassan Whiteside,1610612748,Miami Heat,3,8,48,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-14,5,1,0,20180414,0,PHI,MIA
+Shot Chart Detail,41700122,34,202355,Hassan Whiteside,1610612748,Miami Heat,1,8,59,Missed Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180416,0,PHI,MIA
+Shot Chart Detail,41700122,214,202355,Hassan Whiteside,1610612748,Miami Heat,2,10,0,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,2,1,1,20180416,1,PHI,MIA
+Shot Chart Detail,41700123,630,202355,Hassan Whiteside,1610612748,Miami Heat,4,8,41,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20180419,1,MIA,PHI
+Shot Chart Detail,41700124,257,202355,Hassan Whiteside,1610612748,Miami Heat,2,7,55,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20180421,1,MIA,PHI
+Shot Chart Detail,41700124,285,202355,Hassan Whiteside,1610612748,Miami Heat,2,6,24,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,30,1,1,20180421,1,MIA,PHI
+Shot Chart Detail,41700124,315,202355,Hassan Whiteside,1610612748,Miami Heat,2,4,35,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-5,29,1,0,20180421,0,MIA,PHI
+Shot Chart Detail,41700124,442,202355,Hassan Whiteside,1610612748,Miami Heat,3,9,31,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-6,100,1,1,20180421,1,MIA,PHI
+Shot Chart Detail,41700124,461,202355,Hassan Whiteside,1610612748,Miami Heat,3,7,19,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20180421,1,MIA,PHI
+Shot Chart Detail,41700124,477,202355,Hassan Whiteside,1610612748,Miami Heat,3,6,10,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20180421,1,MIA,PHI
+Shot Chart Detail,41700124,622,202355,Hassan Whiteside,1610612748,Miami Heat,4,9,43,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,0,20180421,0,MIA,PHI
+Shot Chart Detail,41700124,628,202355,Hassan Whiteside,1610612748,Miami Heat,4,9,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,0,20180421,0,MIA,PHI
+Shot Chart Detail,41700124,727,202355,Hassan Whiteside,1610612748,Miami Heat,4,2,54,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180421,0,MIA,PHI
+Shot Chart Detail,41700125,24,202355,Hassan Whiteside,1610612748,Miami Heat,1,10,41,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,29,1,0,20180424,0,PHI,MIA
+Shot Chart Detail,41700125,43,202355,Hassan Whiteside,1610612748,Miami Heat,1,9,51,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-96,116,1,0,20180424,0,PHI,MIA
+Shot Chart Detail,41700125,50,202355,Hassan Whiteside,1610612748,Miami Heat,1,9,7,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,60,1,0,20180424,0,PHI,MIA
+Shot Chart Detail,41700125,156,202355,Hassan Whiteside,1610612748,Miami Heat,1,1,51,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180424,0,PHI,MIA

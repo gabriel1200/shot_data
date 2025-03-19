@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,22300014,321,1631217,Moussa Diabate,1610612746,LA Clippers,2,1,55,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,0,20231110,DAL,LAC
-Shot Chart Detail,22300014,346,1631217,Moussa Diabate,1610612746,LA Clippers,2,0,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20231110,DAL,LAC
-Shot Chart Detail,22300014,521,1631217,Moussa Diabate,1610612746,LA Clippers,3,0,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,77,1,1,20231110,DAL,LAC
-Shot Chart Detail,22300014,617,1631217,Moussa Diabate,1610612746,LA Clippers,4,11,15,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,0,20231110,DAL,LAC
-Shot Chart Detail,22300014,631,1631217,Moussa Diabate,1610612746,LA Clippers,4,5,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231110,DAL,LAC
-Shot Chart Detail,22300014,703,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,10,1,1,20231110,DAL,LAC
-Shot Chart Detail,22300074,655,1631217,Moussa Diabate,1610612746,LA Clippers,4,3,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,33,1,1,20231025,LAC,POR
-Shot Chart Detail,22300074,659,1631217,Moussa Diabate,1610612746,LA Clippers,4,2,42,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,29,1,0,20231025,LAC,POR
-Shot Chart Detail,22300074,665,1631217,Moussa Diabate,1610612746,LA Clippers,4,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,36,1,0,20231025,LAC,POR
-Shot Chart Detail,22300114,684,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,49,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20231031,LAC,ORL
-Shot Chart Detail,22300114,686,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231031,LAC,ORL
-Shot Chart Detail,22300151,577,1631217,Moussa Diabate,1610612746,LA Clippers,4,3,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20231106,NYK,LAC
-Shot Chart Detail,22300179,55,1631217,Moussa Diabate,1610612746,LA Clippers,1,7,31,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,26,1,0,20231112,LAC,MEM
-Shot Chart Detail,22300179,123,1631217,Moussa Diabate,1610612746,LA Clippers,1,2,7,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20231112,LAC,MEM
-Shot Chart Detail,22300223,586,1631217,Moussa Diabate,1610612746,LA Clippers,4,4,7,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,0,20231120,SAS,LAC
-Shot Chart Detail,22300223,599,1631217,Moussa Diabate,1610612746,LA Clippers,4,3,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20231120,SAS,LAC
-Shot Chart Detail,22300244,658,1631217,Moussa Diabate,1610612746,LA Clippers,4,1,23,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,0,20231125,LAC,DAL
-Shot Chart Detail,22300244,668,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,25,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-132,64,1,0,20231125,LAC,DAL
-Shot Chart Detail,22300865,652,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,51,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240301,LAC,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22300014,321,1631217,Moussa Diabate,1610612746,LA Clippers,2,1,55,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,0,20231110,0,DAL,LAC
+Shot Chart Detail,22300014,346,1631217,Moussa Diabate,1610612746,LA Clippers,2,0,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,2,1,1,20231110,1,DAL,LAC
+Shot Chart Detail,22300014,521,1631217,Moussa Diabate,1610612746,LA Clippers,3,0,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-27,77,1,1,20231110,1,DAL,LAC
+Shot Chart Detail,22300014,617,1631217,Moussa Diabate,1610612746,LA Clippers,4,11,15,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,0,20231110,0,DAL,LAC
+Shot Chart Detail,22300014,631,1631217,Moussa Diabate,1610612746,LA Clippers,4,5,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231110,0,DAL,LAC
+Shot Chart Detail,22300014,703,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,10,1,1,20231110,0,DAL,LAC
+Shot Chart Detail,22300074,655,1631217,Moussa Diabate,1610612746,LA Clippers,4,3,3,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,33,1,1,20231025,1,LAC,POR
+Shot Chart Detail,22300074,659,1631217,Moussa Diabate,1610612746,LA Clippers,4,2,42,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,29,1,0,20231025,0,LAC,POR
+Shot Chart Detail,22300074,665,1631217,Moussa Diabate,1610612746,LA Clippers,4,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,36,1,0,20231025,0,LAC,POR
+Shot Chart Detail,22300114,684,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,49,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,63,1,0,20231031,0,LAC,ORL
+Shot Chart Detail,22300114,686,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20231031,0,LAC,ORL
+Shot Chart Detail,22300151,577,1631217,Moussa Diabate,1610612746,LA Clippers,4,3,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20231106,1,NYK,LAC
+Shot Chart Detail,22300179,55,1631217,Moussa Diabate,1610612746,LA Clippers,1,7,31,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,26,1,0,20231112,0,LAC,MEM
+Shot Chart Detail,22300179,123,1631217,Moussa Diabate,1610612746,LA Clippers,1,2,7,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20231112,1,LAC,MEM
+Shot Chart Detail,22300223,586,1631217,Moussa Diabate,1610612746,LA Clippers,4,4,7,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,22,1,0,20231120,0,SAS,LAC
+Shot Chart Detail,22300223,599,1631217,Moussa Diabate,1610612746,LA Clippers,4,3,4,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20231120,0,SAS,LAC
+Shot Chart Detail,22300244,658,1631217,Moussa Diabate,1610612746,LA Clippers,4,1,23,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,0,20231125,0,LAC,DAL
+Shot Chart Detail,22300244,668,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,25,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-132,64,1,0,20231125,0,LAC,DAL
+Shot Chart Detail,22300865,652,1631217,Moussa Diabate,1610612746,LA Clippers,4,0,51,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20240301,0,LAC,WAS

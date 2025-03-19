@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040200101,48,692,Andrew DeClercq,1610612753,Orlando Magic,1,6,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030420,DET,ORL
-Shot Chart Detail,0040200101,265,692,Andrew DeClercq,1610612753,Orlando Magic,3,9,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030420,DET,ORL
-Shot Chart Detail,0040200102,242,692,Andrew DeClercq,1610612753,Orlando Magic,3,10,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,87,1,1,20030423,DET,ORL
-Shot Chart Detail,0040200102,303,692,Andrew DeClercq,1610612753,Orlando Magic,3,3,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030423,DET,ORL
-Shot Chart Detail,0040200102,310,692,Andrew DeClercq,1610612753,Orlando Magic,3,2,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030423,DET,ORL
-Shot Chart Detail,0040200102,397,692,Andrew DeClercq,1610612753,Orlando Magic,4,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030423,DET,ORL
-Shot Chart Detail,0040200104,19,692,Andrew DeClercq,1610612753,Orlando Magic,1,9,49,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,ORL,DET
-Shot Chart Detail,0040200104,32,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,45,1,0,20030427,ORL,DET
-Shot Chart Detail,0040200104,33,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,ORL,DET
-Shot Chart Detail,0040200104,223,692,Andrew DeClercq,1610612753,Orlando Magic,2,3,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030427,ORL,DET
-Shot Chart Detail,0040200104,426,692,Andrew DeClercq,1610612753,Orlando Magic,4,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,ORL,DET
-Shot Chart Detail,0040200104,433,692,Andrew DeClercq,1610612753,Orlando Magic,4,7,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,ORL,DET
-Shot Chart Detail,0040200105,44,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030430,DET,ORL
-Shot Chart Detail,0040200105,410,692,Andrew DeClercq,1610612753,Orlando Magic,4,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,92,43,1,0,20030430,DET,ORL
-Shot Chart Detail,0040200106,18,692,Andrew DeClercq,1610612753,Orlando Magic,1,9,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030502,ORL,DET
-Shot Chart Detail,0040200106,19,692,Andrew DeClercq,1610612753,Orlando Magic,1,9,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030502,ORL,DET
-Shot Chart Detail,0040200106,34,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030502,ORL,DET
-Shot Chart Detail,0040200106,308,692,Andrew DeClercq,1610612753,Orlando Magic,3,8,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030502,ORL,DET
-Shot Chart Detail,0040200107,111,692,Andrew DeClercq,1610612753,Orlando Magic,2,10,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,127,1,1,20030504,DET,ORL
-Shot Chart Detail,0040200107,121,692,Andrew DeClercq,1610612753,Orlando Magic,2,8,27,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030504,DET,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40200101,48,692,Andrew DeClercq,1610612753,Orlando Magic,1,6,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030420,0,DET,ORL
+Shot Chart Detail,40200101,265,692,Andrew DeClercq,1610612753,Orlando Magic,3,9,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030420,1,DET,ORL
+Shot Chart Detail,40200102,242,692,Andrew DeClercq,1610612753,Orlando Magic,3,10,39,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,87,1,1,20030423,1,DET,ORL
+Shot Chart Detail,40200102,303,692,Andrew DeClercq,1610612753,Orlando Magic,3,3,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030423,0,DET,ORL
+Shot Chart Detail,40200102,310,692,Andrew DeClercq,1610612753,Orlando Magic,3,2,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030423,0,DET,ORL
+Shot Chart Detail,40200102,397,692,Andrew DeClercq,1610612753,Orlando Magic,4,7,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030423,1,DET,ORL
+Shot Chart Detail,40200104,19,692,Andrew DeClercq,1610612753,Orlando Magic,1,9,49,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,1,ORL,DET
+Shot Chart Detail,40200104,32,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,51,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,45,1,0,20030427,0,ORL,DET
+Shot Chart Detail,40200104,33,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,49,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,0,ORL,DET
+Shot Chart Detail,40200104,223,692,Andrew DeClercq,1610612753,Orlando Magic,2,3,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030427,0,ORL,DET
+Shot Chart Detail,40200104,426,692,Andrew DeClercq,1610612753,Orlando Magic,4,8,54,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,1,ORL,DET
+Shot Chart Detail,40200104,433,692,Andrew DeClercq,1610612753,Orlando Magic,4,7,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030427,1,ORL,DET
+Shot Chart Detail,40200105,44,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030430,1,DET,ORL
+Shot Chart Detail,40200105,410,692,Andrew DeClercq,1610612753,Orlando Magic,4,6,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,92,43,1,0,20030430,0,DET,ORL
+Shot Chart Detail,40200106,18,692,Andrew DeClercq,1610612753,Orlando Magic,1,9,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030502,0,ORL,DET
+Shot Chart Detail,40200106,19,692,Andrew DeClercq,1610612753,Orlando Magic,1,9,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030502,0,ORL,DET
+Shot Chart Detail,40200106,34,692,Andrew DeClercq,1610612753,Orlando Magic,1,7,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030502,0,ORL,DET
+Shot Chart Detail,40200106,308,692,Andrew DeClercq,1610612753,Orlando Magic,3,8,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20030502,1,ORL,DET
+Shot Chart Detail,40200107,111,692,Andrew DeClercq,1610612753,Orlando Magic,2,10,4,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,127,1,1,20030504,1,DET,ORL
+Shot Chart Detail,40200107,121,692,Andrew DeClercq,1610612753,Orlando Magic,2,8,27,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030504,0,DET,ORL

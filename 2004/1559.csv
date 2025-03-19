@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300705,108,1559,Adrian Griffin,1610612745,Houston Rockets,2,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,125,1,1,20040204,HOU,MIL
-Shot Chart Detail,0020300705,158,1559,Adrian Griffin,1610612745,Houston Rockets,2,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,163,125,1,0,20040204,HOU,MIL
-Shot Chart Detail,0020300705,366,1559,Adrian Griffin,1610612745,Houston Rockets,4,7,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,18,1,0,20040204,HOU,MIL
-Shot Chart Detail,0020300717,333,1559,Adrian Griffin,1610612745,Houston Rockets,4,10,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,115,1,1,20040206,HOU,CHI
-Shot Chart Detail,0020300717,375,1559,Adrian Griffin,1610612745,Houston Rockets,4,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,10,1,0,20040206,HOU,CHI
-Shot Chart Detail,0020300724,150,1559,Adrian Griffin,1610612745,Houston Rockets,2,7,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,47,184,1,0,20040207,ATL,HOU
-Shot Chart Detail,0020300756,141,1559,Adrian Griffin,1610612745,Houston Rockets,2,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040211,HOU,LAL
-Shot Chart Detail,0020300756,147,1559,Adrian Griffin,1610612745,Houston Rockets,2,6,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,8,1,0,20040211,HOU,LAL
-Shot Chart Detail,0020300769,356,1559,Adrian Griffin,1610612745,Houston Rockets,4,6,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040217,HOU,WAS
-Shot Chart Detail,0020300891,130,1559,Adrian Griffin,1610612745,Houston Rockets,2,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,41,1,0,20040305,MIN,HOU
-Shot Chart Detail,0020300923,146,1559,Adrian Griffin,1610612745,Houston Rockets,2,7,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-39,112,1,0,20040309,HOU,LAC
-Shot Chart Detail,0020300923,151,1559,Adrian Griffin,1610612745,Houston Rockets,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-168,31,1,0,20040309,HOU,LAC
-Shot Chart Detail,0020300953,171,1559,Adrian Griffin,1610612745,Houston Rockets,2,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,153,1,0,20040313,HOU,MEM
-Shot Chart Detail,0020300953,332,1559,Adrian Griffin,1610612745,Houston Rockets,4,9,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-181,2,1,0,20040313,HOU,MEM
-Shot Chart Detail,0020300964,119,1559,Adrian Griffin,1610612745,Houston Rockets,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-189,204,1,1,20040315,HOU,PHX
-Shot Chart Detail,0020300964,231,1559,Adrian Griffin,1610612745,Houston Rockets,2,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,163,1,0,20040315,HOU,PHX
-Shot Chart Detail,0020300964,406,1559,Adrian Griffin,1610612745,Houston Rockets,4,8,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040315,HOU,PHX
-Shot Chart Detail,0020301029,6,1559,Adrian Griffin,1610612745,Houston Rockets,1,10,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,13,1,0,20040324,HOU,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300705,108,1559,Adrian Griffin,1610612745,Houston Rockets,2,11,15,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,153,125,1,1,20040204,1,HOU,MIL
+Shot Chart Detail,20300705,158,1559,Adrian Griffin,1610612745,Houston Rockets,2,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,163,125,1,0,20040204,0,HOU,MIL
+Shot Chart Detail,20300705,366,1559,Adrian Griffin,1610612745,Houston Rockets,4,7,46,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,18,1,0,20040204,0,HOU,MIL
+Shot Chart Detail,20300717,333,1559,Adrian Griffin,1610612745,Houston Rockets,4,10,39,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-52,115,1,1,20040206,1,HOU,CHI
+Shot Chart Detail,20300717,375,1559,Adrian Griffin,1610612745,Houston Rockets,4,7,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,149,10,1,0,20040206,0,HOU,CHI
+Shot Chart Detail,20300724,150,1559,Adrian Griffin,1610612745,Houston Rockets,2,7,41,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,47,184,1,0,20040207,0,ATL,HOU
+Shot Chart Detail,20300756,141,1559,Adrian Griffin,1610612745,Houston Rockets,2,7,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040211,1,HOU,LAL
+Shot Chart Detail,20300756,147,1559,Adrian Griffin,1610612745,Houston Rockets,2,6,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,169,8,1,0,20040211,0,HOU,LAL
+Shot Chart Detail,20300769,356,1559,Adrian Griffin,1610612745,Houston Rockets,4,6,10,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040217,0,HOU,WAS
+Shot Chart Detail,20300891,130,1559,Adrian Griffin,1610612745,Houston Rockets,2,9,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,41,1,0,20040305,0,MIN,HOU
+Shot Chart Detail,20300923,146,1559,Adrian Griffin,1610612745,Houston Rockets,2,7,38,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-39,112,1,0,20040309,0,HOU,LAC
+Shot Chart Detail,20300923,151,1559,Adrian Griffin,1610612745,Houston Rockets,2,6,49,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-168,31,1,0,20040309,0,HOU,LAC
+Shot Chart Detail,20300953,171,1559,Adrian Griffin,1610612745,Houston Rockets,2,3,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,153,1,0,20040313,0,HOU,MEM
+Shot Chart Detail,20300953,332,1559,Adrian Griffin,1610612745,Houston Rockets,4,9,51,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-181,2,1,0,20040313,0,HOU,MEM
+Shot Chart Detail,20300964,119,1559,Adrian Griffin,1610612745,Houston Rockets,1,0,0,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-189,204,1,1,20040315,0,HOU,PHX
+Shot Chart Detail,20300964,231,1559,Adrian Griffin,1610612745,Houston Rockets,2,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,163,1,0,20040315,0,HOU,PHX
+Shot Chart Detail,20300964,406,1559,Adrian Griffin,1610612745,Houston Rockets,4,8,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040315,0,HOU,PHX
+Shot Chart Detail,20301029,6,1559,Adrian Griffin,1610612745,Houston Rockets,1,10,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-169,13,1,0,20040324,0,HOU,TOR

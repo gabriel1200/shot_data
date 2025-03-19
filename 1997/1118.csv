@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029600034,87,1118,Tim Kempton,1610612759,San Antonio Spurs,1,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,-3,1,0,19961105,CLE,SAS
-Shot Chart Detail,0029600073,86,1118,Tim Kempton,1610612759,San Antonio Spurs,1,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,129,1,0,19961110,POR,SAS
-Shot Chart Detail,0029600095,436,1118,Tim Kempton,1610612759,San Antonio Spurs,4,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,SAS,LAL
-Shot Chart Detail,0029600110,441,1118,Tim Kempton,1610612759,San Antonio Spurs,4,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961115,SAS,IND
-Shot Chart Detail,0029600251,439,1118,Tim Kempton,1610612759,San Antonio Spurs,4,0,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961206,SAS,VAN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29600034,87,1118,Tim Kempton,1610612759,San Antonio Spurs,1,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,-3,1,0,19961105,0,CLE,SAS
+Shot Chart Detail,29600073,86,1118,Tim Kempton,1610612759,San Antonio Spurs,1,1,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,97,129,1,0,19961110,0,POR,SAS
+Shot Chart Detail,29600095,436,1118,Tim Kempton,1610612759,San Antonio Spurs,4,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,0,SAS,LAL
+Shot Chart Detail,29600110,441,1118,Tim Kempton,1610612759,San Antonio Spurs,4,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961115,1,SAS,IND
+Shot Chart Detail,29600251,439,1118,Tim Kempton,1610612759,San Antonio Spurs,4,0,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961206,0,SAS,VAN

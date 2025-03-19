@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020200502,384,164,Chris Childs,1610612751,New Jersey Nets,4,5,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,153,1,0,20030109,NJN,SAC
-Shot Chart Detail,0020200502,390,164,Chris Childs,1610612751,New Jersey Nets,4,5,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,146,1,1,20030109,NJN,SAC
-Shot Chart Detail,0020200502,423,164,Chris Childs,1610612751,New Jersey Nets,4,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,184,1,0,20030109,NJN,SAC
-Shot Chart Detail,0020200557,410,164,Chris Childs,1610612751,New Jersey Nets,4,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,126,110,1,0,20030117,NJN,TOR
-Shot Chart Detail,0020200586,102,164,Chris Childs,1610612751,New Jersey Nets,1,1,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,16,192,1,1,20030120,UTA,NJN
-Shot Chart Detail,0020200586,109,164,Chris Childs,1610612751,New Jersey Nets,1,0,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030120,UTA,NJN
-Shot Chart Detail,0020200586,115,164,Chris Childs,1610612751,New Jersey Nets,2,11,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,71,176,1,0,20030120,UTA,NJN
-Shot Chart Detail,0020200586,349,164,Chris Childs,1610612751,New Jersey Nets,3,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-153,158,1,0,20030120,UTA,NJN
-Shot Chart Detail,0020200586,366,164,Chris Childs,1610612751,New Jersey Nets,4,11,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,233,1,0,20030120,UTA,NJN
-Shot Chart Detail,0020200590,122,164,Chris Childs,1610612751,New Jersey Nets,2,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,158,1,1,20030121,SAC,NJN
-Shot Chart Detail,0020200590,132,164,Chris Childs,1610612751,New Jersey Nets,2,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,209,1,1,20030121,SAC,NJN
-Shot Chart Detail,0020200590,320,164,Chris Childs,1610612751,New Jersey Nets,4,10,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,-18,1,0,20030121,SAC,NJN
-Shot Chart Detail,0020200605,114,164,Chris Childs,1610612751,New Jersey Nets,2,11,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-69,174,1,0,20030123,GSW,NJN
-Shot Chart Detail,0020200605,319,164,Chris Childs,1610612751,New Jersey Nets,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,12,1,0,20030123,GSW,NJN
-Shot Chart Detail,0020200605,323,164,Chris Childs,1610612751,New Jersey Nets,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,48,201,439,1,0,20030123,GSW,NJN
-Shot Chart Detail,0020200605,330,164,Chris Childs,1610612751,New Jersey Nets,4,11,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-23,1,0,20030123,GSW,NJN
-Shot Chart Detail,0020200605,332,164,Chris Childs,1610612751,New Jersey Nets,4,11,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,7,1,1,20030123,GSW,NJN
-Shot Chart Detail,0020200659,122,164,Chris Childs,1610612751,New Jersey Nets,2,10,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030131,NJN,NOH
-Shot Chart Detail,0020200734,120,164,Chris Childs,1610612751,New Jersey Nets,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,69,135,685,1,0,20030214,NJN,CHI
-Shot Chart Detail,0020200823,404,164,Chris Childs,1610612751,New Jersey Nets,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-131,137,1,1,20030226,NJN,NYK
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20200502,384,164,Chris Childs,1610612751,New Jersey Nets,4,5,47,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,153,1,0,20030109,0,NJN,SAC
+Shot Chart Detail,20200502,390,164,Chris Childs,1610612751,New Jersey Nets,4,5,18,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,146,1,1,20030109,1,NJN,SAC
+Shot Chart Detail,20200502,423,164,Chris Childs,1610612751,New Jersey Nets,4,2,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,184,1,0,20030109,0,NJN,SAC
+Shot Chart Detail,20200557,410,164,Chris Childs,1610612751,New Jersey Nets,4,9,15,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,126,110,1,0,20030117,0,NJN,TOR
+Shot Chart Detail,20200586,102,164,Chris Childs,1610612751,New Jersey Nets,1,1,24,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,16,192,1,1,20030120,0,UTA,NJN
+Shot Chart Detail,20200586,109,164,Chris Childs,1610612751,New Jersey Nets,1,0,0,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030120,0,UTA,NJN
+Shot Chart Detail,20200586,115,164,Chris Childs,1610612751,New Jersey Nets,2,11,46,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,71,176,1,0,20030120,0,UTA,NJN
+Shot Chart Detail,20200586,349,164,Chris Childs,1610612751,New Jersey Nets,3,1,18,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-153,158,1,0,20030120,0,UTA,NJN
+Shot Chart Detail,20200586,366,164,Chris Childs,1610612751,New Jersey Nets,4,11,9,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,233,1,0,20030120,0,UTA,NJN
+Shot Chart Detail,20200590,122,164,Chris Childs,1610612751,New Jersey Nets,2,8,51,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,95,158,1,1,20030121,0,SAC,NJN
+Shot Chart Detail,20200590,132,164,Chris Childs,1610612751,New Jersey Nets,2,7,23,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,209,1,1,20030121,1,SAC,NJN
+Shot Chart Detail,20200590,320,164,Chris Childs,1610612751,New Jersey Nets,4,10,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-123,-18,1,0,20030121,0,SAC,NJN
+Shot Chart Detail,20200605,114,164,Chris Childs,1610612751,New Jersey Nets,2,11,27,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-69,174,1,0,20030123,0,GSW,NJN
+Shot Chart Detail,20200605,319,164,Chris Childs,1610612751,New Jersey Nets,3,0,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-149,12,1,0,20030123,0,GSW,NJN
+Shot Chart Detail,20200605,323,164,Chris Childs,1610612751,New Jersey Nets,3,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,48,201,439,1,0,20030123,0,GSW,NJN
+Shot Chart Detail,20200605,330,164,Chris Childs,1610612751,New Jersey Nets,4,11,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,-23,1,0,20030123,0,GSW,NJN
+Shot Chart Detail,20200605,332,164,Chris Childs,1610612751,New Jersey Nets,4,11,15,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,143,7,1,1,20030123,0,GSW,NJN
+Shot Chart Detail,20200659,122,164,Chris Childs,1610612751,New Jersey Nets,2,10,8,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20030131,0,NJN,NOH
+Shot Chart Detail,20200734,120,164,Chris Childs,1610612751,New Jersey Nets,1,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,69,135,685,1,0,20030214,0,NJN,CHI
+Shot Chart Detail,20200823,404,164,Chris Childs,1610612751,New Jersey Nets,4,1,11,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-131,137,1,1,20030226,1,NJN,NYK

@@ -1,15 +1,15 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020800290,509,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,3,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800439,53,2058,Mark Madsen,1610612750,Minnesota Timberwolves,1,6,14,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,12,1,1,20081227,MIN,ORL
-Shot Chart Detail,0020800520,455,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,4,55,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,71,1,0,20090107,MIN,OKC
-Shot Chart Detail,0020800520,471,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,3,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,2,131,1,0,20090107,MIN,OKC
-Shot Chart Detail,0020800520,477,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,3,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090107,MIN,OKC
-Shot Chart Detail,0020800520,506,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,1,5,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,55,1,1,20090107,MIN,OKC
-Shot Chart Detail,0020800520,518,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,0,18,Missed Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,19,1,0,20090107,MIN,OKC
-Shot Chart Detail,0020800901,196,2058,Mark Madsen,1610612750,Minnesota Timberwolves,2,4,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,MIN,GSW
-Shot Chart Detail,0020800901,431,2058,Mark Madsen,1610612750,Minnesota Timberwolves,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,19,1,0,20090303,MIN,GSW
-Shot Chart Detail,0020801147,380,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,7,26,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,44,1,0,20090405,MIN,DEN
-Shot Chart Detail,0020801147,443,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,2,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-58,119,1,0,20090405,MIN,DEN
-Shot Chart Detail,0020801147,450,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,1,23,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,85,1,0,20090405,MIN,DEN
-Shot Chart Detail,0020801224,2,2058,Mark Madsen,1610612750,Minnesota Timberwolves,1,11,48,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,MIN,SAC
-Shot Chart Detail,0020801224,20,2058,Mark Madsen,1610612750,Minnesota Timberwolves,1,8,38,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,47,1,0,20090415,MIN,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20800290,509,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,3,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800439,53,2058,Mark Madsen,1610612750,Minnesota Timberwolves,1,6,14,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,32,12,1,1,20081227,1,MIN,ORL
+Shot Chart Detail,20800520,455,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,4,55,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,71,1,0,20090107,0,MIN,OKC
+Shot Chart Detail,20800520,471,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,3,53,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,2,131,1,0,20090107,0,MIN,OKC
+Shot Chart Detail,20800520,477,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,3,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090107,0,MIN,OKC
+Shot Chart Detail,20800520,506,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,1,5,Made Shot,Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,55,1,1,20090107,0,MIN,OKC
+Shot Chart Detail,20800520,518,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,0,18,Missed Shot,Jump Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,19,1,0,20090107,0,MIN,OKC
+Shot Chart Detail,20800901,196,2058,Mark Madsen,1610612750,Minnesota Timberwolves,2,4,56,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090303,0,MIN,GSW
+Shot Chart Detail,20800901,431,2058,Mark Madsen,1610612750,Minnesota Timberwolves,3,0,26,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,19,1,0,20090303,0,MIN,GSW
+Shot Chart Detail,20801147,380,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,7,26,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,44,1,0,20090405,0,MIN,DEN
+Shot Chart Detail,20801147,443,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,2,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-58,119,1,0,20090405,0,MIN,DEN
+Shot Chart Detail,20801147,450,2058,Mark Madsen,1610612750,Minnesota Timberwolves,4,1,23,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-24,85,1,0,20090405,0,MIN,DEN
+Shot Chart Detail,20801224,2,2058,Mark Madsen,1610612750,Minnesota Timberwolves,1,11,48,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,MIN,SAC
+Shot Chart Detail,20801224,20,2058,Mark Madsen,1610612750,Minnesota Timberwolves,1,8,38,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,47,1,0,20090415,0,MIN,SAC

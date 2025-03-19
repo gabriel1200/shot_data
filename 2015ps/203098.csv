@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041400106,513,203098,John Jenkins,1610612737,Atlanta Hawks,4,2,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-17,1,0,20150501,BKN,ATL
-Shot Chart Detail,0041400304,439,203098,John Jenkins,1610612737,Atlanta Hawks,4,8,59,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,41,1,1,20150526,CLE,ATL
-Shot Chart Detail,0041400304,445,203098,John Jenkins,1610612737,Atlanta Hawks,4,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20150526,CLE,ATL
-Shot Chart Detail,0041400304,474,203098,John Jenkins,1610612737,Atlanta Hawks,4,5,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,28,260,1,1,20150526,CLE,ATL
-Shot Chart Detail,0041400304,518,203098,John Jenkins,1610612737,Atlanta Hawks,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,225,1,1,20150526,CLE,ATL
-Shot Chart Detail,0041400304,527,203098,John Jenkins,1610612737,Atlanta Hawks,4,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,173,1,0,20150526,CLE,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41400106,513,203098,John Jenkins,1610612737,Atlanta Hawks,4,2,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,-17,1,0,20150501,0,BKN,ATL
+Shot Chart Detail,41400304,439,203098,John Jenkins,1610612737,Atlanta Hawks,4,8,59,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,41,1,1,20150526,1,CLE,ATL
+Shot Chart Detail,41400304,445,203098,John Jenkins,1610612737,Atlanta Hawks,4,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,1,20150526,1,CLE,ATL
+Shot Chart Detail,41400304,474,203098,John Jenkins,1610612737,Atlanta Hawks,4,5,36,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,28,260,1,1,20150526,1,CLE,ATL
+Shot Chart Detail,41400304,518,203098,John Jenkins,1610612737,Atlanta Hawks,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-114,225,1,1,20150526,1,CLE,ATL
+Shot Chart Detail,41400304,527,203098,John Jenkins,1610612737,Atlanta Hawks,4,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,173,1,0,20150526,0,CLE,ATL

@@ -1,305 +1,153 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020900013,441,689,Theo Ratliff,1610612759,San Antonio Spurs,4,3,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20091028,SAS,NOH
-Shot Chart Detail,0020900013,468,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,11,1,0,20091028,SAS,NOH
-Shot Chart Detail,0020900037,385,689,Theo Ratliff,1610612759,San Antonio Spurs,3,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,1,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900037,485,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900037,490,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,77,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900037,499,689,Theo Ratliff,1610612759,San Antonio Spurs,4,5,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20091031,SAS,SAC
-Shot Chart Detail,0020900037,542,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,30,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900100,7,689,Theo Ratliff,1610612759,San Antonio Spurs,1,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,60,1,0,20091109,SAS,TOR
-Shot Chart Detail,0020900100,16,689,Theo Ratliff,1610612759,San Antonio Spurs,1,10,2,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20091109,SAS,TOR
-Shot Chart Detail,0020900188,442,689,Theo Ratliff,1610612759,San Antonio Spurs,4,8,34,Missed Shot,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,444,689,Theo Ratliff,1610612759,San Antonio Spurs,4,8,28,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,41,1,1,20091121,SAS,WAS
-Shot Chart Detail,0020900188,462,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20091121,SAS,WAS
-Shot Chart Detail,0020900199,472,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,67,1,1,20091123,SAS,MIL
-Shot Chart Detail,0020900328,215,689,Theo Ratliff,1610612759,San Antonio Spurs,2,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,0,20091211,SAS,CHA
-Shot Chart Detail,0020900328,325,689,Theo Ratliff,1610612759,San Antonio Spurs,3,5,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20091211,SAS,CHA
-Shot Chart Detail,0020900328,512,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20091211,SAS,CHA
-Shot Chart Detail,0020900343,477,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-114,75,1,0,20091213,LAC,SAS
-Shot Chart Detail,0020900343,488,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,8,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,37,1,0,20091213,LAC,SAS
-Shot Chart Detail,0020900403,89,689,Theo Ratliff,1610612759,San Antonio Spurs,1,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-6,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,92,689,Theo Ratliff,1610612759,San Antonio Spurs,1,2,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,97,689,Theo Ratliff,1610612759,San Antonio Spurs,1,1,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,141,689,Theo Ratliff,1610612759,San Antonio Spurs,2,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,19,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,345,689,Theo Ratliff,1610612759,San Antonio Spurs,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,-5,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,374,689,Theo Ratliff,1610612759,San Antonio Spurs,4,9,45,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,34,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,392,689,Theo Ratliff,1610612759,San Antonio Spurs,4,7,8,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,63,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,399,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,47,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,414,689,Theo Ratliff,1610612759,San Antonio Spurs,4,4,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,416,689,Theo Ratliff,1610612759,San Antonio Spurs,4,4,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,135,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900435,395,689,Theo Ratliff,1610612759,San Antonio Spurs,4,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,48,1,1,20091226,MIL,SAS
-Shot Chart Detail,0020900457,529,689,Theo Ratliff,1610612759,San Antonio Spurs,4,2,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-19,80,1,0,20091229,SAS,MIN
-Shot Chart Detail,0020900457,544,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,63,1,1,20091229,SAS,MIN
-Shot Chart Detail,0020900471,403,689,Theo Ratliff,1610612759,San Antonio Spurs,4,7,49,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,0,20091231,SAS,MIA
-Shot Chart Detail,0020900491,28,689,Theo Ratliff,1610612759,San Antonio Spurs,1,9,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,0,20100103,TOR,SAS
-Shot Chart Detail,0020900752,434,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100206,LAC,SAS
-Shot Chart Detail,0020900752,463,689,Theo Ratliff,1610612759,San Antonio Spurs,4,3,27,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100206,LAC,SAS
-Shot Chart Detail,0020900752,481,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,48,1,1,20100206,LAC,SAS
-Shot Chart Detail,0020900821,175,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,132,1,0,20100220,MIL,CHA
-Shot Chart Detail,0020900821,302,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,59,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,42,1,1,20100220,MIL,CHA
-Shot Chart Detail,0020900821,304,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,0,20100220,MIL,CHA
-Shot Chart Detail,0020900836,2,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-59,110,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,20,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,168,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,6,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,193,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,4,59,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,207,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,53,1,0,20100222,LAC,CHA
-Shot Chart Detail,0020900836,262,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,69,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900854,18,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,27,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,UTA,CHA
-Shot Chart Detail,0020900854,146,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,9,3,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,58,1,0,20100224,UTA,CHA
-Shot Chart Detail,0020900854,207,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,UTA,CHA
-Shot Chart Detail,0020900863,2,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,MEM,CHA
-Shot Chart Detail,0020900863,15,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,154,1,0,20100226,MEM,CHA
-Shot Chart Detail,0020900863,140,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,80,1,0,20100226,MEM,CHA
-Shot Chart Detail,0020900863,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,8,12,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100226,MEM,CHA
-Shot Chart Detail,0020900863,356,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,10,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,88,77,1,1,20100226,MEM,CHA
-Shot Chart Detail,0020900886,60,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,42,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100301,CHA,DAL
-Shot Chart Detail,0020900886,237,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100301,CHA,DAL
-Shot Chart Detail,0020900886,289,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,56,1,0,20100301,CHA,DAL
-Shot Chart Detail,0020900886,319,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,24,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,69,1,0,20100301,CHA,DAL
-Shot Chart Detail,0020900901,25,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,63,1,1,20100303,BOS,CHA
-Shot Chart Detail,0020900901,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,7,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,155,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,7,43,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,28,1,1,20100303,BOS,CHA
-Shot Chart Detail,0020900901,208,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,44,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,221,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,247,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,19,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,273,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,72,131,1,1,20100303,BOS,CHA
-Shot Chart Detail,0020900901,385,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,127,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900914,300,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,22,1,0,20100305,CHA,LAL
-Shot Chart Detail,0020900925,6,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900925,24,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,40,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,55,1,0,20100306,CHA,GSW
-Shot Chart Detail,0020900925,28,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,48,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900925,66,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900925,216,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,26,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,37,1,0,20100306,CHA,GSW
-Shot Chart Detail,0020900925,303,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,20,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,47,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900945,31,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,CHA,MIA
-Shot Chart Detail,0020900945,48,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,CHA,MIA
-Shot Chart Detail,0020900945,266,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,CHA,MIA
-Shot Chart Detail,0020900953,5,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,23,153,1,0,20100310,PHI,CHA
-Shot Chart Detail,0020900953,77,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20100310,PHI,CHA
-Shot Chart Detail,0020900953,322,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,0,20100310,PHI,CHA
-Shot Chart Detail,0020900964,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,CHA,LAC
-Shot Chart Detail,0020900964,21,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,CHA,LAC
-Shot Chart Detail,0020900964,205,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,CHA,LAC
-Shot Chart Detail,0020900986,86,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,146,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,186,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,202,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,2,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,53,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,218,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,97,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,224,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,9,164,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,253,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,256,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,96,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,288,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,63,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,305,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,143,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,427,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,5,14,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,28,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900997,3,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,50,1,0,20100316,IND,CHA
-Shot Chart Detail,0020900997,13,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,118,1,1,20100316,IND,CHA
-Shot Chart Detail,0020900997,37,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,153,1,0,20100316,IND,CHA
-Shot Chart Detail,0020900997,320,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,18,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100316,IND,CHA
-Shot Chart Detail,0020900997,465,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,149,1,0,20100316,IND,CHA
-Shot Chart Detail,0020901005,12,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,19,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,7,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,83,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,21,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,44,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,40,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,2,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,52,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,CHA,OKC
-Shot Chart Detail,0020901005,54,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,36,78,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,55,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,CHA,OKC
-Shot Chart Detail,0020901005,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,3,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,48,1,1,20100317,CHA,OKC
-Shot Chart Detail,0020901005,352,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901020,25,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,80,78,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,27,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,17,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,-2,1,1,20100319,ATL,CHA
-Shot Chart Detail,0020901020,60,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,15,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,79,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,26,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,198,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,29,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,61,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,249,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,53,75,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,305,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,5,25,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,450,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,2,43,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,88,48,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,485,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,37,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901030,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,29,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,0,20100320,MIA,CHA
-Shot Chart Detail,0020901053,32,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,50,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,36,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,0,20100323,WAS,CHA
-Shot Chart Detail,0020901053,63,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,45,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,277,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,286,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,304,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901059,22,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100324,CHA,MIN
-Shot Chart Detail,0020901059,187,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,36,119,1,0,20100324,CHA,MIN
-Shot Chart Detail,0020901059,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,4,13,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,20100324,CHA,MIN
-Shot Chart Detail,0020901059,382,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,10,46,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,67,78,1,0,20100324,CHA,MIN
-Shot Chart Detail,0020901059,411,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,8,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100324,CHA,MIN
-Shot Chart Detail,0020901071,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100326,CHA,WAS
-Shot Chart Detail,0020901071,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100326,CHA,WAS
-Shot Chart Detail,0020901097,250,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,23,1,0,20100329,CHA,TOR
-Shot Chart Detail,0020901108,33,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100331,CHA,PHI
-Shot Chart Detail,0020901108,35,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100331,CHA,PHI
-Shot Chart Detail,0020901122,37,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100402,CHA,MIL
-Shot Chart Detail,0020901122,71,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,16,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,60,1,0,20100402,CHA,MIL
-Shot Chart Detail,0020901122,240,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100402,CHA,MIL
-Shot Chart Detail,0020901122,317,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,26,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,1,20100402,CHA,MIL
-Shot Chart Detail,0020901135,198,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100403,CHI,CHA
-Shot Chart Detail,0020901135,217,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,85,1,1,20100403,CHI,CHA
-Shot Chart Detail,0020901135,244,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,7,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-5,1,0,20100403,CHI,CHA
-Shot Chart Detail,0020901149,13,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,86,1,0,20100406,CHA,ATL
-Shot Chart Detail,0020901149,303,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,82,1,0,20100406,CHA,ATL
-Shot Chart Detail,0020901187,7,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,19,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,58,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,37,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,60,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,167,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100410,CHA,DET
-Shot Chart Detail,0020901187,208,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,6,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,251,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,5,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100410,CHA,DET
-Shot Chart Detail,0020901205,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,63,1,0,20100412,NJN,CHA
-Shot Chart Detail,0020901205,12,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100412,NJN,CHA
-Shot Chart Detail,0020901205,29,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-51,160,1,1,20100412,NJN,CHA
-Shot Chart Detail,0020901205,73,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,26,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,73,85,1,1,20100412,NJN,CHA
-Shot Chart Detail,0020901205,79,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,36,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,34,1,0,20100412,NJN,CHA
-Shot Chart Detail,0020901205,87,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,1,21,Missed Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,6,1,0,20100412,NJN,CHA
-Shot Chart Detail,0020900013,441,689,Theo Ratliff,1610612759,San Antonio Spurs,4,3,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20091028,SAS,NOH
-Shot Chart Detail,0020900013,468,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,11,1,0,20091028,SAS,NOH
-Shot Chart Detail,0020900037,385,689,Theo Ratliff,1610612759,San Antonio Spurs,3,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,1,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900037,485,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900037,490,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,77,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900037,499,689,Theo Ratliff,1610612759,San Antonio Spurs,4,5,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20091031,SAS,SAC
-Shot Chart Detail,0020900037,542,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,30,1,0,20091031,SAS,SAC
-Shot Chart Detail,0020900100,7,689,Theo Ratliff,1610612759,San Antonio Spurs,1,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,110,60,1,0,20091109,SAS,TOR
-Shot Chart Detail,0020900100,16,689,Theo Ratliff,1610612759,San Antonio Spurs,1,10,2,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20091109,SAS,TOR
-Shot Chart Detail,0020900188,442,689,Theo Ratliff,1610612759,San Antonio Spurs,4,8,34,Missed Shot,Running Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,444,689,Theo Ratliff,1610612759,San Antonio Spurs,4,8,28,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,41,1,1,20091121,SAS,WAS
-Shot Chart Detail,0020900188,462,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20091121,SAS,WAS
-Shot Chart Detail,0020900199,472,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,67,1,1,20091123,SAS,MIL
-Shot Chart Detail,0020900328,215,689,Theo Ratliff,1610612759,San Antonio Spurs,2,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,0,20091211,SAS,CHA
-Shot Chart Detail,0020900328,325,689,Theo Ratliff,1610612759,San Antonio Spurs,3,5,30,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20091211,SAS,CHA
-Shot Chart Detail,0020900328,512,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20091211,SAS,CHA
-Shot Chart Detail,0020900343,477,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-114,75,1,0,20091213,LAC,SAS
-Shot Chart Detail,0020900343,488,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,8,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,37,1,0,20091213,LAC,SAS
-Shot Chart Detail,0020900403,89,689,Theo Ratliff,1610612759,San Antonio Spurs,1,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-6,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,92,689,Theo Ratliff,1610612759,San Antonio Spurs,1,2,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,97,689,Theo Ratliff,1610612759,San Antonio Spurs,1,1,50,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,141,689,Theo Ratliff,1610612759,San Antonio Spurs,2,8,56,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,19,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,345,689,Theo Ratliff,1610612759,San Antonio Spurs,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,-5,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,374,689,Theo Ratliff,1610612759,San Antonio Spurs,4,9,45,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,34,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,392,689,Theo Ratliff,1610612759,San Antonio Spurs,4,7,8,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,63,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,399,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,47,1,0,20091221,SAS,LAC
-Shot Chart Detail,0020900403,414,689,Theo Ratliff,1610612759,San Antonio Spurs,4,4,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900403,416,689,Theo Ratliff,1610612759,San Antonio Spurs,4,4,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,135,1,1,20091221,SAS,LAC
-Shot Chart Detail,0020900435,395,689,Theo Ratliff,1610612759,San Antonio Spurs,4,9,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,48,1,1,20091226,MIL,SAS
-Shot Chart Detail,0020900457,529,689,Theo Ratliff,1610612759,San Antonio Spurs,4,2,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-19,80,1,0,20091229,SAS,MIN
-Shot Chart Detail,0020900457,544,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,63,1,1,20091229,SAS,MIN
-Shot Chart Detail,0020900471,403,689,Theo Ratliff,1610612759,San Antonio Spurs,4,7,49,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,0,20091231,SAS,MIA
-Shot Chart Detail,0020900491,28,689,Theo Ratliff,1610612759,San Antonio Spurs,1,9,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,0,20100103,TOR,SAS
-Shot Chart Detail,0020900752,434,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100206,LAC,SAS
-Shot Chart Detail,0020900752,463,689,Theo Ratliff,1610612759,San Antonio Spurs,4,3,27,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100206,LAC,SAS
-Shot Chart Detail,0020900752,481,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,48,1,1,20100206,LAC,SAS
-Shot Chart Detail,0020900821,175,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,132,1,0,20100220,MIL,CHA
-Shot Chart Detail,0020900821,302,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,59,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,42,1,1,20100220,MIL,CHA
-Shot Chart Detail,0020900821,304,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,22,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,0,20100220,MIL,CHA
-Shot Chart Detail,0020900836,2,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-59,110,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,20,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,168,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,6,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,193,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,4,59,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900836,207,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,53,1,0,20100222,LAC,CHA
-Shot Chart Detail,0020900836,262,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,49,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,69,1,1,20100222,LAC,CHA
-Shot Chart Detail,0020900854,18,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,27,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,UTA,CHA
-Shot Chart Detail,0020900854,146,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,9,3,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,58,1,0,20100224,UTA,CHA
-Shot Chart Detail,0020900854,207,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,45,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,UTA,CHA
-Shot Chart Detail,0020900863,2,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,MEM,CHA
-Shot Chart Detail,0020900863,15,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,154,1,0,20100226,MEM,CHA
-Shot Chart Detail,0020900863,140,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,9,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,80,1,0,20100226,MEM,CHA
-Shot Chart Detail,0020900863,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,8,12,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100226,MEM,CHA
-Shot Chart Detail,0020900863,356,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,10,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,88,77,1,1,20100226,MEM,CHA
-Shot Chart Detail,0020900886,60,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,42,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100301,CHA,DAL
-Shot Chart Detail,0020900886,237,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100301,CHA,DAL
-Shot Chart Detail,0020900886,289,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,56,1,0,20100301,CHA,DAL
-Shot Chart Detail,0020900886,319,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,24,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,69,1,0,20100301,CHA,DAL
-Shot Chart Detail,0020900901,25,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,45,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,63,1,1,20100303,BOS,CHA
-Shot Chart Detail,0020900901,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,7,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,155,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,7,43,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,28,1,1,20100303,BOS,CHA
-Shot Chart Detail,0020900901,208,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,44,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,221,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,0,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,247,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,19,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900901,273,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,72,131,1,1,20100303,BOS,CHA
-Shot Chart Detail,0020900901,385,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,9,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,127,1,0,20100303,BOS,CHA
-Shot Chart Detail,0020900914,300,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,22,1,0,20100305,CHA,LAL
-Shot Chart Detail,0020900925,6,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900925,24,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,40,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,55,1,0,20100306,CHA,GSW
-Shot Chart Detail,0020900925,28,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,48,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900925,66,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900925,216,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,26,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,37,1,0,20100306,CHA,GSW
-Shot Chart Detail,0020900925,303,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,20,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,47,1,1,20100306,CHA,GSW
-Shot Chart Detail,0020900945,31,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,CHA,MIA
-Shot Chart Detail,0020900945,48,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,CHA,MIA
-Shot Chart Detail,0020900945,266,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,CHA,MIA
-Shot Chart Detail,0020900953,5,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,23,153,1,0,20100310,PHI,CHA
-Shot Chart Detail,0020900953,77,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20100310,PHI,CHA
-Shot Chart Detail,0020900953,322,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,0,20100310,PHI,CHA
-Shot Chart Detail,0020900964,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,CHA,LAC
-Shot Chart Detail,0020900964,21,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,CHA,LAC
-Shot Chart Detail,0020900964,205,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,CHA,LAC
-Shot Chart Detail,0020900986,86,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,146,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,186,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,202,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,2,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,53,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,218,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,146,97,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,224,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,9,164,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,253,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,256,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,96,1,1,20100314,ORL,CHA
-Shot Chart Detail,0020900986,288,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,63,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,305,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,143,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900986,427,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,5,14,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,28,1,0,20100314,ORL,CHA
-Shot Chart Detail,0020900997,3,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,50,1,0,20100316,IND,CHA
-Shot Chart Detail,0020900997,13,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,118,1,1,20100316,IND,CHA
-Shot Chart Detail,0020900997,37,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,153,1,0,20100316,IND,CHA
-Shot Chart Detail,0020900997,320,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,18,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100316,IND,CHA
-Shot Chart Detail,0020900997,465,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,149,1,0,20100316,IND,CHA
-Shot Chart Detail,0020901005,12,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,19,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,7,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,83,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,21,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,108,44,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,40,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,2,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,52,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,CHA,OKC
-Shot Chart Detail,0020901005,54,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,36,78,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901005,55,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,CHA,OKC
-Shot Chart Detail,0020901005,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,3,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,48,1,1,20100317,CHA,OKC
-Shot Chart Detail,0020901005,352,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,CHA,OKC
-Shot Chart Detail,0020901020,25,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,80,78,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,27,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,17,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,-2,1,1,20100319,ATL,CHA
-Shot Chart Detail,0020901020,60,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-142,15,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,79,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,26,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,198,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,29,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,61,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,249,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,53,75,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,305,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,5,25,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,450,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,2,43,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,88,48,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901020,485,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,37,1,0,20100319,ATL,CHA
-Shot Chart Detail,0020901030,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,29,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,0,20100320,MIA,CHA
-Shot Chart Detail,0020901053,32,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,50,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,36,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,0,20100323,WAS,CHA
-Shot Chart Detail,0020901053,63,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,45,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,277,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,286,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901053,304,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20100323,WAS,CHA
-Shot Chart Detail,0020901059,22,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100324,CHA,MIN
-Shot Chart Detail,0020901059,187,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,36,119,1,0,20100324,CHA,MIN
-Shot Chart Detail,0020901059,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,4,13,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,20100324,CHA,MIN
-Shot Chart Detail,0020901059,382,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,10,46,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,67,78,1,0,20100324,CHA,MIN
-Shot Chart Detail,0020901059,411,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,8,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100324,CHA,MIN
-Shot Chart Detail,0020901071,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,6,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100326,CHA,WAS
-Shot Chart Detail,0020901071,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,33,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100326,CHA,WAS
-Shot Chart Detail,0020901097,250,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,23,1,0,20100329,CHA,TOR
-Shot Chart Detail,0020901108,33,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100331,CHA,PHI
-Shot Chart Detail,0020901108,35,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100331,CHA,PHI
-Shot Chart Detail,0020901122,37,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100402,CHA,MIL
-Shot Chart Detail,0020901122,71,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,16,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,60,1,0,20100402,CHA,MIL
-Shot Chart Detail,0020901122,240,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100402,CHA,MIL
-Shot Chart Detail,0020901122,317,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,26,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,1,20100402,CHA,MIL
-Shot Chart Detail,0020901135,198,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100403,CHI,CHA
-Shot Chart Detail,0020901135,217,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,22,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,85,1,1,20100403,CHI,CHA
-Shot Chart Detail,0020901135,244,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,7,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,-5,1,0,20100403,CHI,CHA
-Shot Chart Detail,0020901149,13,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,86,1,0,20100406,CHA,ATL
-Shot Chart Detail,0020901149,303,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,82,1,0,20100406,CHA,ATL
-Shot Chart Detail,0020901187,7,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,19,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,47,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,58,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,37,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,60,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,167,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100410,CHA,DET
-Shot Chart Detail,0020901187,208,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,6,1,1,20100410,CHA,DET
-Shot Chart Detail,0020901187,251,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,5,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100410,CHA,DET
-Shot Chart Detail,0020901205,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,63,1,0,20100412,NJN,CHA
-Shot Chart Detail,0020901205,12,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100412,NJN,CHA
-Shot Chart Detail,0020901205,29,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-51,160,1,1,20100412,NJN,CHA
-Shot Chart Detail,0020901205,73,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,26,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,73,85,1,1,20100412,NJN,CHA
-Shot Chart Detail,0020901205,79,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,36,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,34,1,0,20100412,NJN,CHA
-Shot Chart Detail,0020901205,87,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,1,21,Missed Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,6,1,0,20100412,NJN,CHA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20900821,175,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,10,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,132,1,0,20100220,0,MIL,CHA
+Shot Chart Detail,20900821,302,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,59,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,42,1,1,20100220,1,MIL,CHA
+Shot Chart Detail,20900821,304,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,22,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,41,1,0,20100220,0,MIL,CHA
+Shot Chart Detail,20900836,2,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,42,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-59,110,1,1,20100222,1,LAC,CHA
+Shot Chart Detail,20900836,20,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,10,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,1,LAC,CHA
+Shot Chart Detail,20900836,168,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,6,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,1,LAC,CHA
+Shot Chart Detail,20900836,193,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,4,59,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100222,1,LAC,CHA
+Shot Chart Detail,20900836,207,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,55,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,53,1,0,20100222,0,LAC,CHA
+Shot Chart Detail,20900836,262,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,49,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,69,1,1,20100222,1,LAC,CHA
+Shot Chart Detail,20900854,18,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,27,Made Shot,Putback Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,0,UTA,CHA
+Shot Chart Detail,20900854,146,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,9,3,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-59,58,1,0,20100224,0,UTA,CHA
+Shot Chart Detail,20900854,207,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,45,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,1,UTA,CHA
+Shot Chart Detail,20900863,2,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,46,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100226,1,MEM,CHA
+Shot Chart Detail,20900863,15,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,57,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-97,154,1,0,20100226,0,MEM,CHA
+Shot Chart Detail,20900863,140,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,9,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,80,1,0,20100226,0,MEM,CHA
+Shot Chart Detail,20900863,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,8,12,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100226,0,MEM,CHA
+Shot Chart Detail,20900863,356,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,10,56,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,88,77,1,1,20100226,1,MEM,CHA
+Shot Chart Detail,20900886,60,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,42,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100301,0,CHA,DAL
+Shot Chart Detail,20900886,237,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,49,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100301,0,CHA,DAL
+Shot Chart Detail,20900886,289,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,24,56,1,0,20100301,0,CHA,DAL
+Shot Chart Detail,20900886,319,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,24,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,69,1,0,20100301,0,CHA,DAL
+Shot Chart Detail,20900901,25,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,45,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,63,1,1,20100303,0,BOS,CHA
+Shot Chart Detail,20900901,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,7,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,0,20100303,0,BOS,CHA
+Shot Chart Detail,20900901,155,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,7,43,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,23,28,1,1,20100303,1,BOS,CHA
+Shot Chart Detail,20900901,208,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,44,1,0,20100303,0,BOS,CHA
+Shot Chart Detail,20900901,221,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,0,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,0,20100303,0,BOS,CHA
+Shot Chart Detail,20900901,247,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,18,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,19,1,0,20100303,0,BOS,CHA
+Shot Chart Detail,20900901,273,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,4,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,72,131,1,1,20100303,1,BOS,CHA
+Shot Chart Detail,20900901,385,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,9,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,127,1,0,20100303,0,BOS,CHA
+Shot Chart Detail,20900914,300,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,159,22,1,0,20100305,0,CHA,LAL
+Shot Chart Detail,20900925,6,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,1,CHA,GSW
+Shot Chart Detail,20900925,24,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,40,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,55,1,0,20100306,0,CHA,GSW
+Shot Chart Detail,20900925,28,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,22,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,147,48,1,1,20100306,1,CHA,GSW
+Shot Chart Detail,20900925,66,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,28,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100306,0,CHA,GSW
+Shot Chart Detail,20900925,216,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,26,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,37,1,0,20100306,0,CHA,GSW
+Shot Chart Detail,20900925,303,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,20,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,47,1,1,20100306,0,CHA,GSW
+Shot Chart Detail,20900945,31,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,1,CHA,MIA
+Shot Chart Detail,20900945,48,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,33,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,1,CHA,MIA
+Shot Chart Detail,20900945,266,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,39,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100309,1,CHA,MIA
+Shot Chart Detail,20900953,5,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,19,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,23,153,1,0,20100310,0,PHI,CHA
+Shot Chart Detail,20900953,77,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,53,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,144,0,1,0,20100310,0,PHI,CHA
+Shot Chart Detail,20900953,322,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,14,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,0,20100310,0,PHI,CHA
+Shot Chart Detail,20900964,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,1,CHA,LAC
+Shot Chart Detail,20900964,21,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,20,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,1,CHA,LAC
+Shot Chart Detail,20900964,205,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100312,1,CHA,LAC
+Shot Chart Detail,20900986,86,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,3,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,17,146,1,0,20100314,0,ORL,CHA
+Shot Chart Detail,20900986,186,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,8,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100314,1,ORL,CHA
+Shot Chart Detail,20900986,202,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,2,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,53,1,1,20100314,0,ORL,CHA
+Shot Chart Detail,20900986,218,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,2,17,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,146,97,1,0,20100314,0,ORL,CHA
+Shot Chart Detail,20900986,224,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,20,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,9,164,1,0,20100314,0,ORL,CHA
+Shot Chart Detail,20900986,253,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,10,37,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100314,1,ORL,CHA
+Shot Chart Detail,20900986,256,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,54,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,96,1,1,20100314,1,ORL,CHA
+Shot Chart Detail,20900986,288,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,43,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,63,1,0,20100314,0,ORL,CHA
+Shot Chart Detail,20900986,305,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,4,26,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,77,143,1,0,20100314,0,ORL,CHA
+Shot Chart Detail,20900986,427,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,5,14,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,28,1,0,20100314,0,ORL,CHA
+Shot Chart Detail,20900997,3,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,23,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,50,1,0,20100316,0,IND,CHA
+Shot Chart Detail,20900997,13,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,4,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,118,1,1,20100316,1,IND,CHA
+Shot Chart Detail,20900997,37,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,45,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,83,153,1,0,20100316,0,IND,CHA
+Shot Chart Detail,20900997,320,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,18,Missed Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100316,0,IND,CHA
+Shot Chart Detail,20900997,465,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,7,16,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,149,1,0,20100316,0,IND,CHA
+Shot Chart Detail,20901005,12,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,19,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,7,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,13,106,83,1,0,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,21,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,52,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,108,44,1,0,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,40,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,2,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,52,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,2,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,1,CHA,OKC
+Shot Chart Detail,20901005,54,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,36,78,1,0,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,55,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,3,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,48,1,1,20100317,0,CHA,OKC
+Shot Chart Detail,20901005,352,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,11,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100317,0,CHA,OKC
+Shot Chart Detail,20901020,25,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,21,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,80,78,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,27,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,17,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,-2,1,1,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,60,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-142,15,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,79,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,16,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,157,26,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,198,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,29,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,61,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,249,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,38,Missed Shot,Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,53,75,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,305,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,5,25,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,450,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,2,43,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,10,88,48,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901020,485,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,0,23,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,182,37,1,0,20100319,0,ATL,CHA
+Shot Chart Detail,20901030,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,29,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,0,20100320,0,MIA,CHA
+Shot Chart Detail,20901053,32,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,50,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20100323,0,WAS,CHA
+Shot Chart Detail,20901053,36,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,7,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,0,20100323,0,WAS,CHA
+Shot Chart Detail,20901053,63,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,4,45,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,-5,1,1,20100323,0,WAS,CHA
+Shot Chart Detail,20901053,277,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,51,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20100323,1,WAS,CHA
+Shot Chart Detail,20901053,286,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,8,26,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20100323,1,WAS,CHA
+Shot Chart Detail,20901053,304,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,37,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,23,1,1,20100323,0,WAS,CHA
+Shot Chart Detail,20901059,22,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,11,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100324,0,CHA,MIN
+Shot Chart Detail,20901059,187,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,36,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,36,119,1,0,20100324,0,CHA,MIN
+Shot Chart Detail,20901059,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,4,13,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,20100324,0,CHA,MIN
+Shot Chart Detail,20901059,382,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,10,46,Missed Shot,Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,67,78,1,0,20100324,0,CHA,MIN
+Shot Chart Detail,20901059,411,689,Theo Ratliff,1610612766,Charlotte Bobcats,4,8,19,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100324,1,CHA,MIN
+Shot Chart Detail,20901071,153,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,6,49,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100326,0,CHA,WAS
+Shot Chart Detail,20901071,199,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,33,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100326,0,CHA,WAS
+Shot Chart Detail,20901097,250,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,9,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,23,1,0,20100329,0,CHA,TOR
+Shot Chart Detail,20901108,33,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,6,17,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100331,1,CHA,PHI
+Shot Chart Detail,20901108,35,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,5,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100331,0,CHA,PHI
+Shot Chart Detail,20901122,37,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,23,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100402,1,CHA,MIL
+Shot Chart Detail,20901122,71,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,16,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,60,1,0,20100402,0,CHA,MIL
+Shot Chart Detail,20901122,240,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,3,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100402,0,CHA,MIL
+Shot Chart Detail,20901122,317,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,6,26,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,1,20100402,1,CHA,MIL
+Shot Chart Detail,20901135,198,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,1,44,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100403,1,CHI,CHA
+Shot Chart Detail,20901135,217,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,22,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,91,85,1,1,20100403,1,CHI,CHA
+Shot Chart Detail,20901135,244,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,9,7,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),16-24 ft.,16,160,-5,1,0,20100403,0,CHI,CHA
+Shot Chart Detail,20901149,13,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,57,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-34,86,1,0,20100406,0,CHA,ATL
+Shot Chart Detail,20901149,303,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,7,20,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,13,82,1,0,20100406,0,CHA,ATL
+Shot Chart Detail,20901187,7,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,8,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100410,0,CHA,DET
+Shot Chart Detail,20901187,19,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,9,47,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100410,1,CHA,DET
+Shot Chart Detail,20901187,58,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,37,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,60,1,1,20100410,1,CHA,DET
+Shot Chart Detail,20901187,167,689,Theo Ratliff,1610612766,Charlotte Bobcats,2,5,0,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100410,0,CHA,DET
+Shot Chart Detail,20901187,208,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,11,40,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,171,6,1,1,20100410,1,CHA,DET
+Shot Chart Detail,20901187,251,689,Theo Ratliff,1610612766,Charlotte Bobcats,3,5,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100410,0,CHA,DET
+Shot Chart Detail,20901205,4,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,11,18,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,63,1,0,20100412,0,NJN,CHA
+Shot Chart Detail,20901205,12,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,10,13,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100412,1,NJN,CHA
+Shot Chart Detail,20901205,29,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,8,3,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-51,160,1,1,20100412,1,NJN,CHA
+Shot Chart Detail,20901205,73,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,3,26,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,73,85,1,1,20100412,1,NJN,CHA
+Shot Chart Detail,20901205,79,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,2,36,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,34,1,0,20100412,0,NJN,CHA
+Shot Chart Detail,20901205,87,689,Theo Ratliff,1610612766,Charlotte Bobcats,1,1,21,Missed Shot,Jump Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,92,6,1,0,20100412,0,NJN,CHA
+Shot Chart Detail,20900013,441,689,Theo Ratliff,1610612759,San Antonio Spurs,4,3,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,1,20091028,1,SAS,NOH
+Shot Chart Detail,20900013,468,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,22,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,11,1,0,20091028,0,SAS,NOH
+Shot Chart Detail,20900037,385,689,Theo Ratliff,1610612759,San Antonio Spurs,3,0,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,1,1,0,20091031,0,SAS,SAC
+Shot Chart Detail,20900037,485,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20091031,0,SAS,SAC
+Shot Chart Detail,20900037,490,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,77,1,0,20091031,0,SAS,SAC
+Shot Chart Detail,20900037,499,689,Theo Ratliff,1610612759,San Antonio Spurs,4,5,39,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,19,1,1,20091031,1,SAS,SAC
+Shot Chart Detail,20900037,542,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,53,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,30,1,0,20091031,0,SAS,SAC
+Shot Chart Detail,20900100,7,689,Theo Ratliff,1610612759,San Antonio Spurs,1,11,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,110,60,1,0,20091109,0,SAS,TOR
+Shot Chart Detail,20900100,16,689,Theo Ratliff,1610612759,San Antonio Spurs,1,10,2,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20091109,0,SAS,TOR
+Shot Chart Detail,20900188,442,689,Theo Ratliff,1610612759,San Antonio Spurs,4,8,34,Missed Shot,Running Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,0,20091121,0,SAS,WAS
+Shot Chart Detail,20900188,444,689,Theo Ratliff,1610612759,San Antonio Spurs,4,8,28,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,42,41,1,1,20091121,0,SAS,WAS
+Shot Chart Detail,20900188,462,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,1,20091121,1,SAS,WAS
+Shot Chart Detail,20900199,472,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,54,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,50,67,1,1,20091123,1,SAS,MIL
+Shot Chart Detail,20900328,215,689,Theo Ratliff,1610612759,San Antonio Spurs,2,2,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,0,20091211,0,SAS,CHA
+Shot Chart Detail,20900328,325,689,Theo Ratliff,1610612759,San Antonio Spurs,3,5,30,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20091211,1,SAS,CHA
+Shot Chart Detail,20900328,512,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20091211,1,SAS,CHA
+Shot Chart Detail,20900343,477,689,Theo Ratliff,1610612759,San Antonio Spurs,4,1,30,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-114,75,1,0,20091213,0,LAC,SAS
+Shot Chart Detail,20900343,488,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,8,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,37,1,0,20091213,0,LAC,SAS
+Shot Chart Detail,20900403,89,689,Theo Ratliff,1610612759,San Antonio Spurs,1,2,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-6,1,0,20091221,0,SAS,LAC
+Shot Chart Detail,20900403,92,689,Theo Ratliff,1610612759,San Antonio Spurs,1,2,15,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,0,20091221,0,SAS,LAC
+Shot Chart Detail,20900403,97,689,Theo Ratliff,1610612759,San Antonio Spurs,1,1,50,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20091221,1,SAS,LAC
+Shot Chart Detail,20900403,141,689,Theo Ratliff,1610612759,San Antonio Spurs,2,8,56,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,19,1,1,20091221,1,SAS,LAC
+Shot Chart Detail,20900403,345,689,Theo Ratliff,1610612759,San Antonio Spurs,3,0,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,155,-5,1,0,20091221,0,SAS,LAC
+Shot Chart Detail,20900403,374,689,Theo Ratliff,1610612759,San Antonio Spurs,4,9,45,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,34,1,1,20091221,1,SAS,LAC
+Shot Chart Detail,20900403,392,689,Theo Ratliff,1610612759,San Antonio Spurs,4,7,8,Missed Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,40,63,1,0,20091221,0,SAS,LAC
+Shot Chart Detail,20900403,399,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,47,1,0,20091221,0,SAS,LAC
+Shot Chart Detail,20900403,414,689,Theo Ratliff,1610612759,San Antonio Spurs,4,4,51,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,1,20091221,1,SAS,LAC
+Shot Chart Detail,20900403,416,689,Theo Ratliff,1610612759,San Antonio Spurs,4,4,9,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-18,135,1,1,20091221,1,SAS,LAC
+Shot Chart Detail,20900435,395,689,Theo Ratliff,1610612759,San Antonio Spurs,4,9,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-120,48,1,1,20091226,0,MIL,SAS
+Shot Chart Detail,20900457,529,689,Theo Ratliff,1610612759,San Antonio Spurs,4,2,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-19,80,1,0,20091229,0,SAS,MIN
+Shot Chart Detail,20900457,544,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,52,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,63,1,1,20091229,1,SAS,MIN
+Shot Chart Detail,20900471,403,689,Theo Ratliff,1610612759,San Antonio Spurs,4,7,49,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,0,20091231,0,SAS,MIA
+Shot Chart Detail,20900491,28,689,Theo Ratliff,1610612759,San Antonio Spurs,1,9,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,17,1,0,20100103,0,TOR,SAS
+Shot Chart Detail,20900752,434,689,Theo Ratliff,1610612759,San Antonio Spurs,4,6,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100206,0,LAC,SAS
+Shot Chart Detail,20900752,463,689,Theo Ratliff,1610612759,San Antonio Spurs,4,3,27,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100206,0,LAC,SAS
+Shot Chart Detail,20900752,481,689,Theo Ratliff,1610612759,San Antonio Spurs,4,0,55,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,130,48,1,1,20100206,1,LAC,SAS

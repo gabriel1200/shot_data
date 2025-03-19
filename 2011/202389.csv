@@ -1,267 +1,134 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021000007,10,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,14,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,0,20101027,TOR,NYK
-Shot Chart Detail,0021000023,19,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20101029,BOS,NYK
-Shot Chart Detail,0021000023,50,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,15,1,0,20101029,BOS,NYK
-Shot Chart Detail,0021000023,245,202389,Timofey Mozgov,1610612752,New York Knicks,2,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,15,1,0,20101029,BOS,NYK
-Shot Chart Detail,0021000033,25,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,3,1,0,20101030,NYK,POR
-Shot Chart Detail,0021000033,172,202389,Timofey Mozgov,1610612752,New York Knicks,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,72,1,1,20101030,NYK,POR
-Shot Chart Detail,0021000033,209,202389,Timofey Mozgov,1610612752,New York Knicks,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,44,1,0,20101030,NYK,POR
-Shot Chart Detail,0021000072,7,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,44,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,24,1,1,20101105,NYK,WAS
-Shot Chart Detail,0021000072,40,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20101105,NYK,WAS
-Shot Chart Detail,0021000072,42,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20101105,NYK,WAS
-Shot Chart Detail,0021000072,282,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-119,149,1,0,20101105,NYK,WAS
-Shot Chart Detail,0021000089,3,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000089,37,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,22,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000089,283,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,170,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000089,304,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,2,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,11,1,0,20101107,NYK,PHI
-Shot Chart Detail,0021000089,328,202389,Timofey Mozgov,1610612752,New York Knicks,3,7,49,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,72,1,0,20101107,NYK,PHI
-Shot Chart Detail,0021000089,347,202389,Timofey Mozgov,1610612752,New York Knicks,3,6,12,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000104,73,202389,Timofey Mozgov,1610612752,New York Knicks,1,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,113,1,1,20101109,MIL,NYK
-Shot Chart Detail,0021000104,287,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,0,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,390,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,406,202389,Timofey Mozgov,1610612752,New York Knicks,4,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,71,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,460,202389,Timofey Mozgov,1610612752,New York Knicks,4,6,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,56,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,481,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20101109,MIL,NYK
-Shot Chart Detail,0021000104,486,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,-5,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,517,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20101109,MIL,NYK
-Shot Chart Detail,0021000125,168,202389,Timofey Mozgov,1610612752,New York Knicks,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,159,1,0,20101112,MIN,NYK
-Shot Chart Detail,0021000125,321,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,0,20101112,MIN,NYK
-Shot Chart Detail,0021000142,143,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,31,1,0,20101114,NYK,HOU
-Shot Chart Detail,0021000142,396,202389,Timofey Mozgov,1610612752,New York Knicks,3,2,34,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20101114,NYK,HOU
-Shot Chart Detail,0021000142,415,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,192,1,1,20101114,NYK,HOU
-Shot Chart Detail,0021000157,7,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,39,1,0,20101116,DEN,NYK
-Shot Chart Detail,0021000157,348,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,0,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20101116,DEN,NYK
-Shot Chart Detail,0021000190,119,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,23,1,0,20101120,LAC,NYK
-Shot Chart Detail,0021000190,150,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,11,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,0,20101120,LAC,NYK
-Shot Chart Detail,0021000206,155,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,0,20101123,NYK,CHA
-Shot Chart Detail,0021000206,384,202389,Timofey Mozgov,1610612752,New York Knicks,3,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20101123,NYK,CHA
-Shot Chart Detail,0021000209,139,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,7,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,52,1,0,20101124,CHA,NYK
-Shot Chart Detail,0021000209,177,202389,Timofey Mozgov,1610612752,New York Knicks,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,183,1,0,20101124,CHA,NYK
-Shot Chart Detail,0021000234,181,202389,Timofey Mozgov,1610612752,New York Knicks,2,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,137,1,0,20101127,NYK,ATL
-Shot Chart Detail,0021000234,270,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20101127,NYK,ATL
-Shot Chart Detail,0021000234,454,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20101127,NYK,ATL
-Shot Chart Detail,0021000243,130,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,20,1,0,20101128,DET,NYK
-Shot Chart Detail,0021000257,106,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20101130,NYK,NJN
-Shot Chart Detail,0021000257,418,202389,Timofey Mozgov,1610612752,New York Knicks,4,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-19,1,0,20101130,NYK,NJN
-Shot Chart Detail,0021000257,520,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,167,1,0,20101130,NYK,NJN
-Shot Chart Detail,0021000282,106,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20101203,NOH,NYK
-Shot Chart Detail,0021000282,109,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,0,20101203,NOH,NYK
-Shot Chart Detail,0021000282,132,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,19,1,0,20101203,NOH,NYK
-Shot Chart Detail,0021000295,140,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,17,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20101205,TOR,NYK
-Shot Chart Detail,0021000295,384,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20101205,TOR,NYK
-Shot Chart Detail,0021000304,146,202389,Timofey Mozgov,1610612752,New York Knicks,2,7,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,22,1,0,20101206,NYK,MIN
-Shot Chart Detail,0021000382,510,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,121,1,0,20101217,NYK,MIA
-Shot Chart Detail,0021000425,512,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20101222,NYK,OKC
-Shot Chart Detail,0021000425,523,202389,Timofey Mozgov,1610612752,New York Knicks,4,2,29,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,0,20101222,NYK,OKC
-Shot Chart Detail,0021000425,538,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,11,1,0,20101222,NYK,OKC
-Shot Chart Detail,0021000533,478,202389,Timofey Mozgov,1610612752,New York Knicks,4,5,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,9,1,1,20110107,PHX,NYK
-Shot Chart Detail,0021000533,502,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,99,1,0,20110107,PHX,NYK
-Shot Chart Detail,0021000550,575,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,3,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,45,1,0,20110109,LAL,NYK
-Shot Chart Detail,0021000550,582,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,1,20110109,LAL,NYK
-Shot Chart Detail,0021000705,60,202389,Timofey Mozgov,1610612752,New York Knicks,1,5,6,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,28,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,69,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,89,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,71,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,40,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,102,202389,Timofey Mozgov,1610612752,New York Knicks,1,2,20,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,119,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,141,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,9,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,143,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,200,202389,Timofey Mozgov,1610612752,New York Knicks,2,5,43,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,6,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,296,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,189,75,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,317,202389,Timofey Mozgov,1610612752,New York Knicks,3,6,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,99,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,407,202389,Timofey Mozgov,1610612752,New York Knicks,4,11,9,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,482,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,507,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,517,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-16,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000723,108,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,38,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20110202,NYK,DAL
-Shot Chart Detail,0021000723,156,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-21,1,0,20110202,NYK,DAL
-Shot Chart Detail,0021000723,476,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,3,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,0,20110202,NYK,DAL
-Shot Chart Detail,0021000723,505,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20110202,NYK,DAL
-Shot Chart Detail,0021000735,123,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,19,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110204,PHI,NYK
-Shot Chart Detail,0021000735,132,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,24,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20110204,PHI,NYK
-Shot Chart Detail,0021000735,197,202389,Timofey Mozgov,1610612752,New York Knicks,2,5,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20110204,PHI,NYK
-Shot Chart Detail,0021000735,201,202389,Timofey Mozgov,1610612752,New York Knicks,2,4,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20110204,PHI,NYK
-Shot Chart Detail,0021000756,88,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,3,1,0,20110206,NYK,PHI
-Shot Chart Detail,0021000756,211,202389,Timofey Mozgov,1610612752,New York Knicks,2,1,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,42,1,0,20110206,NYK,PHI
-Shot Chart Detail,0021000756,253,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,146,1,1,20110206,NYK,PHI
-Shot Chart Detail,0021000779,19,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,21,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,0,20110209,NYK,LAC
-Shot Chart Detail,0021000779,28,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,30,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,62,202389,Timofey Mozgov,1610612752,New York Knicks,1,5,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,12,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,107,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,30,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,221,202389,Timofey Mozgov,1610612752,New York Knicks,2,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,261,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,37,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,285,202389,Timofey Mozgov,1610612752,New York Knicks,3,5,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000793,290,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,23,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,299,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-75,149,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,309,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,315,202389,Timofey Mozgov,1610612752,New York Knicks,3,7,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20110211,NYK,LAL
-Shot Chart Detail,0021000793,421,202389,Timofey Mozgov,1610612752,New York Knicks,4,10,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,33,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,444,202389,Timofey Mozgov,1610612752,New York Knicks,4,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,1,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,457,202389,Timofey Mozgov,1610612752,New York Knicks,4,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20110211,NYK,LAL
-Shot Chart Detail,0021000793,473,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-3,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,526,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20110211,NYK,LAL
-Shot Chart Detail,0021000797,24,202389,Timofey Mozgov,1610612752,New York Knicks,1,9,30,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000797,32,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,17,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000797,162,202389,Timofey Mozgov,1610612752,New York Knicks,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000797,287,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,146,1,1,20110212,NJN,NYK
-Shot Chart Detail,0021000797,496,202389,Timofey Mozgov,1610612752,New York Knicks,4,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20110212,NJN,NYK
-Shot Chart Detail,0021000797,501,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,58,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000829,12,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110216,NYK,ATL
-Shot Chart Detail,0021000829,39,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,173,60,1,0,20110216,NYK,ATL
-Shot Chart Detail,0021000829,247,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20110216,NYK,ATL
-Shot Chart Detail,0021000909,440,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,11,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20110302,DEN,CHA
-Shot Chart Detail,0021000909,477,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,5,24,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20110302,DEN,CHA
-Shot Chart Detail,0021000909,487,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,4,1,1,20110302,DEN,CHA
-Shot Chart Detail,0021000930,210,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,6,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20110305,LAC,DEN
-Shot Chart Detail,0021000966,495,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,56,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,1,1,0,20110310,PHX,DEN
-Shot Chart Detail,0021000966,498,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,-6,1,1,20110310,PHX,DEN
-Shot Chart Detail,0021000966,537,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,6,1,0,20110310,PHX,DEN
-Shot Chart Detail,0021000966,552,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20110310,PHX,DEN
-Shot Chart Detail,0021000984,442,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,1,42,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,0,20110312,DEN,DET
-Shot Chart Detail,0021000984,456,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,0,20110312,DEN,DET
-Shot Chart Detail,0021001050,448,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,9,35,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,1,20110321,DEN,TOR
-Shot Chart Detail,0021001050,469,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20110321,DEN,TOR
-Shot Chart Detail,0021001050,507,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,0,20110321,DEN,TOR
-Shot Chart Detail,0021001050,547,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,142,1,0,20110321,DEN,TOR
-Shot Chart Detail,0021001076,287,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,17,1,1,20110325,DEN,WAS
-Shot Chart Detail,0021001076,534,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,1,57,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,41,1,0,20110325,DEN,WAS
-Shot Chart Detail,0021001131,433,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,9,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20110401,SAC,DEN
-Shot Chart Detail,0021001139,131,202389,Timofey Mozgov,1610612743,Denver Nuggets,1,0,1,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,35,1,1,20110403,LAL,DEN
-Shot Chart Detail,0021001139,164,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,8,40,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,17,1,0,20110403,LAL,DEN
-Shot Chart Detail,0021001139,447,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,10,6,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,12,1,0,20110403,LAL,DEN
-Shot Chart Detail,0021001139,465,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,12,1,1,20110403,LAL,DEN
-Shot Chart Detail,0021000007,10,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,14,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,0,20101027,TOR,NYK
-Shot Chart Detail,0021000023,19,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20101029,BOS,NYK
-Shot Chart Detail,0021000023,50,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,15,1,0,20101029,BOS,NYK
-Shot Chart Detail,0021000023,245,202389,Timofey Mozgov,1610612752,New York Knicks,2,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,15,1,0,20101029,BOS,NYK
-Shot Chart Detail,0021000033,25,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,3,1,0,20101030,NYK,POR
-Shot Chart Detail,0021000033,172,202389,Timofey Mozgov,1610612752,New York Knicks,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,72,1,1,20101030,NYK,POR
-Shot Chart Detail,0021000033,209,202389,Timofey Mozgov,1610612752,New York Knicks,2,3,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,44,1,0,20101030,NYK,POR
-Shot Chart Detail,0021000072,7,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,44,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,24,1,1,20101105,NYK,WAS
-Shot Chart Detail,0021000072,40,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20101105,NYK,WAS
-Shot Chart Detail,0021000072,42,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20101105,NYK,WAS
-Shot Chart Detail,0021000072,282,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-119,149,1,0,20101105,NYK,WAS
-Shot Chart Detail,0021000089,3,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000089,37,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,22,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000089,283,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,170,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000089,304,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,2,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,11,1,0,20101107,NYK,PHI
-Shot Chart Detail,0021000089,328,202389,Timofey Mozgov,1610612752,New York Knicks,3,7,49,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,72,1,0,20101107,NYK,PHI
-Shot Chart Detail,0021000089,347,202389,Timofey Mozgov,1610612752,New York Knicks,3,6,12,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20101107,NYK,PHI
-Shot Chart Detail,0021000104,73,202389,Timofey Mozgov,1610612752,New York Knicks,1,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,113,1,1,20101109,MIL,NYK
-Shot Chart Detail,0021000104,287,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,0,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,390,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,406,202389,Timofey Mozgov,1610612752,New York Knicks,4,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-125,71,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,460,202389,Timofey Mozgov,1610612752,New York Knicks,4,6,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,56,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,481,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20101109,MIL,NYK
-Shot Chart Detail,0021000104,486,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,-5,1,0,20101109,MIL,NYK
-Shot Chart Detail,0021000104,517,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20101109,MIL,NYK
-Shot Chart Detail,0021000125,168,202389,Timofey Mozgov,1610612752,New York Knicks,2,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,159,1,0,20101112,MIN,NYK
-Shot Chart Detail,0021000125,321,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,0,20101112,MIN,NYK
-Shot Chart Detail,0021000142,143,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,31,1,0,20101114,NYK,HOU
-Shot Chart Detail,0021000142,396,202389,Timofey Mozgov,1610612752,New York Knicks,3,2,34,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20101114,NYK,HOU
-Shot Chart Detail,0021000142,415,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,192,1,1,20101114,NYK,HOU
-Shot Chart Detail,0021000157,7,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,39,1,0,20101116,DEN,NYK
-Shot Chart Detail,0021000157,348,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,0,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20101116,DEN,NYK
-Shot Chart Detail,0021000190,119,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,23,1,0,20101120,LAC,NYK
-Shot Chart Detail,0021000190,150,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,11,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,0,20101120,LAC,NYK
-Shot Chart Detail,0021000206,155,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,0,20101123,NYK,CHA
-Shot Chart Detail,0021000206,384,202389,Timofey Mozgov,1610612752,New York Knicks,3,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20101123,NYK,CHA
-Shot Chart Detail,0021000209,139,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,7,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,52,1,0,20101124,CHA,NYK
-Shot Chart Detail,0021000209,177,202389,Timofey Mozgov,1610612752,New York Knicks,2,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,183,1,0,20101124,CHA,NYK
-Shot Chart Detail,0021000234,181,202389,Timofey Mozgov,1610612752,New York Knicks,2,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,137,1,0,20101127,NYK,ATL
-Shot Chart Detail,0021000234,270,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20101127,NYK,ATL
-Shot Chart Detail,0021000234,454,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20101127,NYK,ATL
-Shot Chart Detail,0021000243,130,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,20,1,0,20101128,DET,NYK
-Shot Chart Detail,0021000257,106,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20101130,NYK,NJN
-Shot Chart Detail,0021000257,418,202389,Timofey Mozgov,1610612752,New York Knicks,4,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,106,-19,1,0,20101130,NYK,NJN
-Shot Chart Detail,0021000257,520,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,167,1,0,20101130,NYK,NJN
-Shot Chart Detail,0021000282,106,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20101203,NOH,NYK
-Shot Chart Detail,0021000282,109,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,0,20101203,NOH,NYK
-Shot Chart Detail,0021000282,132,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,19,1,0,20101203,NOH,NYK
-Shot Chart Detail,0021000295,140,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,17,Made Shot,Running Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20101205,TOR,NYK
-Shot Chart Detail,0021000295,384,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20101205,TOR,NYK
-Shot Chart Detail,0021000304,146,202389,Timofey Mozgov,1610612752,New York Knicks,2,7,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,22,1,0,20101206,NYK,MIN
-Shot Chart Detail,0021000382,510,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,121,1,0,20101217,NYK,MIA
-Shot Chart Detail,0021000425,512,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20101222,NYK,OKC
-Shot Chart Detail,0021000425,523,202389,Timofey Mozgov,1610612752,New York Knicks,4,2,29,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,0,20101222,NYK,OKC
-Shot Chart Detail,0021000425,538,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,11,1,0,20101222,NYK,OKC
-Shot Chart Detail,0021000533,478,202389,Timofey Mozgov,1610612752,New York Knicks,4,5,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,9,1,1,20110107,PHX,NYK
-Shot Chart Detail,0021000533,502,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,99,1,0,20110107,PHX,NYK
-Shot Chart Detail,0021000550,575,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,3,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,45,1,0,20110109,LAL,NYK
-Shot Chart Detail,0021000550,582,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,1,20110109,LAL,NYK
-Shot Chart Detail,0021000705,60,202389,Timofey Mozgov,1610612752,New York Knicks,1,5,6,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,28,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,69,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,89,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,71,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,40,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,102,202389,Timofey Mozgov,1610612752,New York Knicks,1,2,20,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,119,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,141,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,9,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,143,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,20,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,200,202389,Timofey Mozgov,1610612752,New York Knicks,2,5,43,Made Shot,Putback Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,6,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,296,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,189,75,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,317,202389,Timofey Mozgov,1610612752,New York Knicks,3,6,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,99,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,407,202389,Timofey Mozgov,1610612752,New York Knicks,4,11,9,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,482,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000705,507,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,0,20110130,NYK,DET
-Shot Chart Detail,0021000705,517,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-16,1,1,20110130,NYK,DET
-Shot Chart Detail,0021000723,108,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,38,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20110202,NYK,DAL
-Shot Chart Detail,0021000723,156,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-21,1,0,20110202,NYK,DAL
-Shot Chart Detail,0021000723,476,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,3,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,0,20110202,NYK,DAL
-Shot Chart Detail,0021000723,505,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20110202,NYK,DAL
-Shot Chart Detail,0021000735,123,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,19,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110204,PHI,NYK
-Shot Chart Detail,0021000735,132,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,24,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20110204,PHI,NYK
-Shot Chart Detail,0021000735,197,202389,Timofey Mozgov,1610612752,New York Knicks,2,5,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20110204,PHI,NYK
-Shot Chart Detail,0021000735,201,202389,Timofey Mozgov,1610612752,New York Knicks,2,4,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20110204,PHI,NYK
-Shot Chart Detail,0021000756,88,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,3,1,0,20110206,NYK,PHI
-Shot Chart Detail,0021000756,211,202389,Timofey Mozgov,1610612752,New York Knicks,2,1,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,42,1,0,20110206,NYK,PHI
-Shot Chart Detail,0021000756,253,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,146,1,1,20110206,NYK,PHI
-Shot Chart Detail,0021000779,19,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,21,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,0,20110209,NYK,LAC
-Shot Chart Detail,0021000779,28,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,52,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,30,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,62,202389,Timofey Mozgov,1610612752,New York Knicks,1,5,25,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,12,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,107,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,30,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,221,202389,Timofey Mozgov,1610612752,New York Knicks,2,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,261,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,42,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,37,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000779,285,202389,Timofey Mozgov,1610612752,New York Knicks,3,5,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20110209,NYK,LAC
-Shot Chart Detail,0021000793,290,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,23,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,299,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-75,149,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,309,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,315,202389,Timofey Mozgov,1610612752,New York Knicks,3,7,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20110211,NYK,LAL
-Shot Chart Detail,0021000793,421,202389,Timofey Mozgov,1610612752,New York Knicks,4,10,19,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,33,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,444,202389,Timofey Mozgov,1610612752,New York Knicks,4,7,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,1,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,457,202389,Timofey Mozgov,1610612752,New York Knicks,4,6,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20110211,NYK,LAL
-Shot Chart Detail,0021000793,473,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-3,1,0,20110211,NYK,LAL
-Shot Chart Detail,0021000793,526,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,2,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20110211,NYK,LAL
-Shot Chart Detail,0021000797,24,202389,Timofey Mozgov,1610612752,New York Knicks,1,9,30,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000797,32,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,17,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000797,162,202389,Timofey Mozgov,1610612752,New York Knicks,2,8,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000797,287,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,146,1,1,20110212,NJN,NYK
-Shot Chart Detail,0021000797,496,202389,Timofey Mozgov,1610612752,New York Knicks,4,2,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20110212,NJN,NYK
-Shot Chart Detail,0021000797,501,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,58,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,0,20110212,NJN,NYK
-Shot Chart Detail,0021000829,12,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110216,NYK,ATL
-Shot Chart Detail,0021000829,39,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,173,60,1,0,20110216,NYK,ATL
-Shot Chart Detail,0021000829,247,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20110216,NYK,ATL
-Shot Chart Detail,0021000909,440,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,11,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20110302,DEN,CHA
-Shot Chart Detail,0021000909,477,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,5,24,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20110302,DEN,CHA
-Shot Chart Detail,0021000909,487,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,4,1,1,20110302,DEN,CHA
-Shot Chart Detail,0021000930,210,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,6,1,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20110305,LAC,DEN
-Shot Chart Detail,0021000966,495,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,56,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,1,1,0,20110310,PHX,DEN
-Shot Chart Detail,0021000966,498,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,-6,1,1,20110310,PHX,DEN
-Shot Chart Detail,0021000966,537,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,6,1,0,20110310,PHX,DEN
-Shot Chart Detail,0021000966,552,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20110310,PHX,DEN
-Shot Chart Detail,0021000984,442,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,1,42,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,0,20110312,DEN,DET
-Shot Chart Detail,0021000984,456,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,0,20110312,DEN,DET
-Shot Chart Detail,0021001050,448,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,9,35,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,1,20110321,DEN,TOR
-Shot Chart Detail,0021001050,469,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20110321,DEN,TOR
-Shot Chart Detail,0021001050,507,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,0,20110321,DEN,TOR
-Shot Chart Detail,0021001050,547,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,142,1,0,20110321,DEN,TOR
-Shot Chart Detail,0021001076,287,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,17,1,1,20110325,DEN,WAS
-Shot Chart Detail,0021001076,534,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,1,57,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,41,1,0,20110325,DEN,WAS
-Shot Chart Detail,0021001131,433,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,9,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20110401,SAC,DEN
-Shot Chart Detail,0021001139,131,202389,Timofey Mozgov,1610612743,Denver Nuggets,1,0,1,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,35,1,1,20110403,LAL,DEN
-Shot Chart Detail,0021001139,164,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,8,40,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,17,1,0,20110403,LAL,DEN
-Shot Chart Detail,0021001139,447,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,10,6,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,12,1,0,20110403,LAL,DEN
-Shot Chart Detail,0021001139,465,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,12,1,1,20110403,LAL,DEN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21000909,440,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,11,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20110302,0,DEN,CHA
+Shot Chart Detail,21000909,477,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,5,24,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20110302,0,DEN,CHA
+Shot Chart Detail,21000909,487,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,48,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-122,4,1,1,20110302,1,DEN,CHA
+Shot Chart Detail,21000930,210,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,6,1,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,12,1,1,20110305,1,LAC,DEN
+Shot Chart Detail,21000966,495,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,56,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,1,1,0,20110310,0,PHX,DEN
+Shot Chart Detail,21000966,498,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,3,22,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-157,-6,1,1,20110310,1,PHX,DEN
+Shot Chart Detail,21000966,537,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,181,6,1,0,20110310,0,PHX,DEN
+Shot Chart Detail,21000966,552,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,-2,1,1,20110310,1,PHX,DEN
+Shot Chart Detail,21000984,442,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,1,42,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,-2,1,0,20110312,0,DEN,DET
+Shot Chart Detail,21000984,456,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,0,48,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,0,20110312,0,DEN,DET
+Shot Chart Detail,21001050,448,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,9,35,Made Shot,Jump Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,1,31,1,1,20110321,1,DEN,TOR
+Shot Chart Detail,21001050,469,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20110321,1,DEN,TOR
+Shot Chart Detail,21001050,507,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,5,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,6,1,0,20110321,0,DEN,TOR
+Shot Chart Detail,21001050,547,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,2,16,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,142,1,0,20110321,0,DEN,TOR
+Shot Chart Detail,21001076,287,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,0,54,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-194,17,1,1,20110325,1,DEN,WAS
+Shot Chart Detail,21001076,534,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,1,57,Missed Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-122,41,1,0,20110325,0,DEN,WAS
+Shot Chart Detail,21001131,433,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,9,48,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,1,20110401,1,SAC,DEN
+Shot Chart Detail,21001139,131,202389,Timofey Mozgov,1610612743,Denver Nuggets,1,0,1,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-9,35,1,1,20110403,0,LAL,DEN
+Shot Chart Detail,21001139,164,202389,Timofey Mozgov,1610612743,Denver Nuggets,2,8,40,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,32,17,1,0,20110403,0,LAL,DEN
+Shot Chart Detail,21001139,447,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,10,6,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,36,12,1,0,20110403,0,LAL,DEN
+Shot Chart Detail,21001139,465,202389,Timofey Mozgov,1610612743,Denver Nuggets,4,8,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,12,1,1,20110403,1,LAL,DEN
+Shot Chart Detail,21000007,10,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,14,Missed Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,4,1,0,20101027,0,TOR,NYK
+Shot Chart Detail,21000023,19,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,23,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20101029,0,BOS,NYK
+Shot Chart Detail,21000023,50,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,165,15,1,0,20101029,0,BOS,NYK
+Shot Chart Detail,21000023,245,202389,Timofey Mozgov,1610612752,New York Knicks,2,0,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-171,15,1,0,20101029,0,BOS,NYK
+Shot Chart Detail,21000033,25,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,3,1,0,20101030,0,NYK,POR
+Shot Chart Detail,21000033,172,202389,Timofey Mozgov,1610612752,New York Knicks,2,6,59,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,125,72,1,1,20101030,1,NYK,POR
+Shot Chart Detail,21000033,209,202389,Timofey Mozgov,1610612752,New York Knicks,2,3,56,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,44,1,0,20101030,0,NYK,POR
+Shot Chart Detail,21000072,7,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,44,Made Shot,Driving Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,24,1,1,20101105,1,NYK,WAS
+Shot Chart Detail,21000072,40,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,26,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20101105,1,NYK,WAS
+Shot Chart Detail,21000072,42,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,5,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20101105,1,NYK,WAS
+Shot Chart Detail,21000072,282,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,12,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-119,149,1,0,20101105,0,NYK,WAS
+Shot Chart Detail,21000089,3,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,40,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,1,20101107,1,NYK,PHI
+Shot Chart Detail,21000089,37,202389,Timofey Mozgov,1610612752,New York Knicks,1,7,23,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,119,22,1,1,20101107,1,NYK,PHI
+Shot Chart Detail,21000089,283,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,3,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,170,1,1,20101107,1,NYK,PHI
+Shot Chart Detail,21000089,304,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,2,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,11,1,0,20101107,0,NYK,PHI
+Shot Chart Detail,21000089,328,202389,Timofey Mozgov,1610612752,New York Knicks,3,7,49,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,72,1,0,20101107,0,NYK,PHI
+Shot Chart Detail,21000089,347,202389,Timofey Mozgov,1610612752,New York Knicks,3,6,12,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20101107,1,NYK,PHI
+Shot Chart Detail,21000104,73,202389,Timofey Mozgov,1610612752,New York Knicks,1,4,56,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-123,113,1,1,20101109,1,MIL,NYK
+Shot Chart Detail,21000104,287,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,196,0,1,0,20101109,0,MIL,NYK
+Shot Chart Detail,21000104,390,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,0,20101109,0,MIL,NYK
+Shot Chart Detail,21000104,406,202389,Timofey Mozgov,1610612752,New York Knicks,4,11,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-125,71,1,0,20101109,0,MIL,NYK
+Shot Chart Detail,21000104,460,202389,Timofey Mozgov,1610612752,New York Knicks,4,6,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,56,1,0,20101109,0,MIL,NYK
+Shot Chart Detail,21000104,481,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,15,1,1,20101109,1,MIL,NYK
+Shot Chart Detail,21000104,486,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,155,-5,1,0,20101109,0,MIL,NYK
+Shot Chart Detail,21000104,517,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20101109,0,MIL,NYK
+Shot Chart Detail,21000125,168,202389,Timofey Mozgov,1610612752,New York Knicks,2,7,10,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,113,159,1,0,20101112,0,MIN,NYK
+Shot Chart Detail,21000125,321,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,0,20101112,0,MIN,NYK
+Shot Chart Detail,21000142,143,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-11,31,1,0,20101114,0,NYK,HOU
+Shot Chart Detail,21000142,396,202389,Timofey Mozgov,1610612752,New York Knicks,3,2,34,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20101114,0,NYK,HOU
+Shot Chart Detail,21000142,415,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,4,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,192,1,1,20101114,0,NYK,HOU
+Shot Chart Detail,21000157,7,202389,Timofey Mozgov,1610612752,New York Knicks,1,11,4,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-81,39,1,0,20101116,0,DEN,NYK
+Shot Chart Detail,21000157,348,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,0,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20101116,0,DEN,NYK
+Shot Chart Detail,21000190,119,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,30,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,23,1,0,20101120,0,LAC,NYK
+Shot Chart Detail,21000190,150,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,11,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,0,20101120,0,LAC,NYK
+Shot Chart Detail,21000206,155,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,0,20101123,0,NYK,CHA
+Shot Chart Detail,21000206,384,202389,Timofey Mozgov,1610612752,New York Knicks,3,0,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20101123,1,NYK,CHA
+Shot Chart Detail,21000209,139,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,7,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,10,52,1,0,20101124,0,CHA,NYK
+Shot Chart Detail,21000209,177,202389,Timofey Mozgov,1610612752,New York Knicks,2,6,37,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-64,183,1,0,20101124,0,CHA,NYK
+Shot Chart Detail,21000234,181,202389,Timofey Mozgov,1610612752,New York Knicks,2,4,47,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,137,1,0,20101127,0,NYK,ATL
+Shot Chart Detail,21000234,270,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,23,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20101127,0,NYK,ATL
+Shot Chart Detail,21000234,454,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,17,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,1,20101127,1,NYK,ATL
+Shot Chart Detail,21000243,130,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-199,20,1,0,20101128,0,DET,NYK
+Shot Chart Detail,21000257,106,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,30,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,12,1,1,20101130,0,NYK,NJN
+Shot Chart Detail,21000257,418,202389,Timofey Mozgov,1610612752,New York Knicks,4,10,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,106,-19,1,0,20101130,0,NYK,NJN
+Shot Chart Detail,21000257,520,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,48,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,103,167,1,0,20101130,0,NYK,NJN
+Shot Chart Detail,21000282,106,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20101203,0,NOH,NYK
+Shot Chart Detail,21000282,109,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,0,20101203,0,NOH,NYK
+Shot Chart Detail,21000282,132,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,38,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,19,1,0,20101203,0,NOH,NYK
+Shot Chart Detail,21000295,140,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,17,Made Shot,Running Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20101205,1,TOR,NYK
+Shot Chart Detail,21000295,384,202389,Timofey Mozgov,1610612752,New York Knicks,3,1,19,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20101205,0,TOR,NYK
+Shot Chart Detail,21000304,146,202389,Timofey Mozgov,1610612752,New York Knicks,2,7,26,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-86,22,1,0,20101206,0,NYK,MIN
+Shot Chart Detail,21000382,510,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,3,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,121,1,0,20101217,0,NYK,MIA
+Shot Chart Detail,21000425,512,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,5,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,1,20101222,1,NYK,OKC
+Shot Chart Detail,21000425,523,202389,Timofey Mozgov,1610612752,New York Knicks,4,2,29,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,0,20101222,0,NYK,OKC
+Shot Chart Detail,21000425,538,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-87,11,1,0,20101222,0,NYK,OKC
+Shot Chart Detail,21000533,478,202389,Timofey Mozgov,1610612752,New York Knicks,4,5,58,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-19,9,1,1,20110107,1,PHX,NYK
+Shot Chart Detail,21000533,502,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-27,99,1,0,20110107,0,PHX,NYK
+Shot Chart Detail,21000550,575,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,3,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,56,45,1,0,20110109,0,LAL,NYK
+Shot Chart Detail,21000550,582,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,39,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,22,1,1,20110109,1,LAL,NYK
+Shot Chart Detail,21000705,60,202389,Timofey Mozgov,1610612752,New York Knicks,1,5,6,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-30,28,1,0,20110130,0,NYK,DET
+Shot Chart Detail,21000705,69,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20110130,0,NYK,DET
+Shot Chart Detail,21000705,89,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,0,20110130,0,NYK,DET
+Shot Chart Detail,21000705,71,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,40,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,0,20110130,0,NYK,DET
+Shot Chart Detail,21000705,102,202389,Timofey Mozgov,1610612752,New York Knicks,1,2,20,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,9,1,1,20110130,0,NYK,DET
+Shot Chart Detail,21000705,119,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,54,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20110130,1,NYK,DET
+Shot Chart Detail,21000705,141,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,54,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,121,9,1,1,20110130,0,NYK,DET
+Shot Chart Detail,21000705,143,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,20,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,11,1,1,20110130,1,NYK,DET
+Shot Chart Detail,21000705,200,202389,Timofey Mozgov,1610612752,New York Knicks,2,5,43,Made Shot,Putback Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,6,1,1,20110130,0,NYK,DET
+Shot Chart Detail,21000705,296,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,18,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,189,75,1,0,20110130,0,NYK,DET
+Shot Chart Detail,21000705,317,202389,Timofey Mozgov,1610612752,New York Knicks,3,6,40,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,99,1,1,20110130,1,NYK,DET
+Shot Chart Detail,21000705,407,202389,Timofey Mozgov,1610612752,New York Knicks,4,11,9,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20110130,0,NYK,DET
+Shot Chart Detail,21000705,482,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,2,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20110130,1,NYK,DET
+Shot Chart Detail,21000705,507,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,0,20110130,0,NYK,DET
+Shot Chart Detail,21000705,517,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,53,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,192,-16,1,1,20110130,1,NYK,DET
+Shot Chart Detail,21000723,108,202389,Timofey Mozgov,1610612752,New York Knicks,1,1,38,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20110202,1,NYK,DAL
+Shot Chart Detail,21000723,156,202389,Timofey Mozgov,1610612752,New York Knicks,2,9,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-187,-21,1,0,20110202,0,NYK,DAL
+Shot Chart Detail,21000723,476,202389,Timofey Mozgov,1610612752,New York Knicks,4,3,3,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,0,20110202,0,NYK,DAL
+Shot Chart Detail,21000723,505,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,3,1,1,20110202,1,NYK,DAL
+Shot Chart Detail,21000735,123,202389,Timofey Mozgov,1610612752,New York Knicks,2,11,19,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,19,1,1,20110204,0,PHI,NYK
+Shot Chart Detail,21000735,132,202389,Timofey Mozgov,1610612752,New York Knicks,2,10,24,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,1,20110204,0,PHI,NYK
+Shot Chart Detail,21000735,197,202389,Timofey Mozgov,1610612752,New York Knicks,2,5,25,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20110204,1,PHI,NYK
+Shot Chart Detail,21000735,201,202389,Timofey Mozgov,1610612752,New York Knicks,2,4,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20110204,0,PHI,NYK
+Shot Chart Detail,21000756,88,202389,Timofey Mozgov,1610612752,New York Knicks,1,3,20,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,3,1,0,20110206,0,NYK,PHI
+Shot Chart Detail,21000756,211,202389,Timofey Mozgov,1610612752,New York Knicks,2,1,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,42,1,0,20110206,0,NYK,PHI
+Shot Chart Detail,21000756,253,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,7,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,146,1,1,20110206,1,NYK,PHI
+Shot Chart Detail,21000779,19,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,34,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20110209,1,NYK,LAC
+Shot Chart Detail,21000779,21,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,1,1,0,20110209,0,NYK,LAC
+Shot Chart Detail,21000779,28,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,52,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20110209,1,NYK,LAC
+Shot Chart Detail,21000779,30,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,14,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20110209,1,NYK,LAC
+Shot Chart Detail,21000779,62,202389,Timofey Mozgov,1610612752,New York Knicks,1,5,25,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,12,1,1,20110209,1,NYK,LAC
+Shot Chart Detail,21000779,107,202389,Timofey Mozgov,1610612752,New York Knicks,1,0,30,Made Shot,Putback Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,6,1,1,20110209,0,NYK,LAC
+Shot Chart Detail,21000779,221,202389,Timofey Mozgov,1610612752,New York Knicks,2,0,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20110209,0,NYK,LAC
+Shot Chart Detail,21000779,261,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,42,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,37,1,1,20110209,0,NYK,LAC
+Shot Chart Detail,21000779,285,202389,Timofey Mozgov,1610612752,New York Knicks,3,5,13,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20110209,1,NYK,LAC
+Shot Chart Detail,21000793,290,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,23,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,299,202389,Timofey Mozgov,1610612752,New York Knicks,3,9,25,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-75,149,1,0,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,309,202389,Timofey Mozgov,1610612752,New York Knicks,3,8,28,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,0,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,315,202389,Timofey Mozgov,1610612752,New York Knicks,3,7,59,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20110211,1,NYK,LAL
+Shot Chart Detail,21000793,421,202389,Timofey Mozgov,1610612752,New York Knicks,4,10,19,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,12,33,1,0,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,444,202389,Timofey Mozgov,1610612752,New York Knicks,4,7,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,165,1,1,0,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,457,202389,Timofey Mozgov,1610612752,New York Knicks,4,6,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,1,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,473,202389,Timofey Mozgov,1610612752,New York Knicks,4,4,4,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-101,-3,1,0,20110211,0,NYK,LAL
+Shot Chart Detail,21000793,526,202389,Timofey Mozgov,1610612752,New York Knicks,4,0,2,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,1,20110211,1,NYK,LAL
+Shot Chart Detail,21000797,24,202389,Timofey Mozgov,1610612752,New York Knicks,1,9,30,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,0,20110212,0,NJN,NYK
+Shot Chart Detail,21000797,32,202389,Timofey Mozgov,1610612752,New York Knicks,1,8,17,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,0,20110212,0,NJN,NYK
+Shot Chart Detail,21000797,162,202389,Timofey Mozgov,1610612752,New York Knicks,2,8,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-3,1,0,20110212,0,NJN,NYK
+Shot Chart Detail,21000797,287,202389,Timofey Mozgov,1610612752,New York Knicks,3,11,25,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,146,1,1,20110212,1,NJN,NYK
+Shot Chart Detail,21000797,496,202389,Timofey Mozgov,1610612752,New York Knicks,4,2,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20110212,0,NJN,NYK
+Shot Chart Detail,21000797,501,202389,Timofey Mozgov,1610612752,New York Knicks,4,1,58,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,0,20110212,0,NJN,NYK
+Shot Chart Detail,21000829,12,202389,Timofey Mozgov,1610612752,New York Knicks,1,10,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20110216,1,NYK,ATL
+Shot Chart Detail,21000829,39,202389,Timofey Mozgov,1610612752,New York Knicks,1,6,48,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,173,60,1,0,20110216,0,NYK,ATL
+Shot Chart Detail,21000829,247,202389,Timofey Mozgov,1610612752,New York Knicks,3,10,4,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20110216,0,NYK,ATL

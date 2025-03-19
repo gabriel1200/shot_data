@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020100198,110,1864,Steve Goodrich,1610612751,New Jersey Nets,2,10,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011127,NJN,CHI
-Shot Chart Detail,0020100198,366,1864,Steve Goodrich,1610612751,New Jersey Nets,4,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011127,NJN,CHI
-Shot Chart Detail,0020100281,444,1864,Steve Goodrich,1610612751,New Jersey Nets,4,0,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,195,74,1,1,20011208,MIL,NJN
-Shot Chart Detail,0020100296,406,1864,Steve Goodrich,1610612751,New Jersey Nets,4,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,57,1,0,20011211,CHI,NJN
-Shot Chart Detail,0020100296,417,1864,Steve Goodrich,1610612751,New Jersey Nets,4,1,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,47,1,0,20011211,CHI,NJN
-Shot Chart Detail,0020100432,436,1864,Steve Goodrich,1610612751,New Jersey Nets,4,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,137,1,0,20011231,WAS,NJN
-Shot Chart Detail,0020100432,442,1864,Steve Goodrich,1610612751,New Jersey Nets,4,1,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,9,1,1,20011231,WAS,NJN
-Shot Chart Detail,0020100436,443,1864,Steve Goodrich,1610612751,New Jersey Nets,4,4,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020102,NJN,MEM
-Shot Chart Detail,0020100436,486,1864,Steve Goodrich,1610612751,New Jersey Nets,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,11,171,1,0,20020102,NJN,MEM
-Shot Chart Detail,0020100460,162,1864,Steve Goodrich,1610612751,New Jersey Nets,2,7,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,47,1,0,20020105,CHH,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20100198,110,1864,Steve Goodrich,1610612751,New Jersey Nets,2,10,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011127,0,NJN,CHI
+Shot Chart Detail,20100198,366,1864,Steve Goodrich,1610612751,New Jersey Nets,4,5,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011127,0,NJN,CHI
+Shot Chart Detail,20100281,444,1864,Steve Goodrich,1610612751,New Jersey Nets,4,0,36,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,195,74,1,1,20011208,1,MIL,NJN
+Shot Chart Detail,20100296,406,1864,Steve Goodrich,1610612751,New Jersey Nets,4,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,57,1,0,20011211,0,CHI,NJN
+Shot Chart Detail,20100296,417,1864,Steve Goodrich,1610612751,New Jersey Nets,4,1,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-56,47,1,0,20011211,0,CHI,NJN
+Shot Chart Detail,20100432,436,1864,Steve Goodrich,1610612751,New Jersey Nets,4,1,54,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,157,137,1,0,20011231,0,WAS,NJN
+Shot Chart Detail,20100432,442,1864,Steve Goodrich,1610612751,New Jersey Nets,4,1,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,9,1,1,20011231,1,WAS,NJN
+Shot Chart Detail,20100436,443,1864,Steve Goodrich,1610612751,New Jersey Nets,4,4,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020102,0,NJN,MEM
+Shot Chart Detail,20100436,486,1864,Steve Goodrich,1610612751,New Jersey Nets,4,0,14,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,11,171,1,0,20020102,0,NJN,MEM
+Shot Chart Detail,20100460,162,1864,Steve Goodrich,1610612751,New Jersey Nets,2,7,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-65,47,1,0,20020105,0,CHH,NJN

@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040100315,354,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,0,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-19,1,0,20020528,SAC,LAL
-Shot Chart Detail,0040100315,356,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,0,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020528,SAC,LAL
-Shot Chart Detail,0040100316,356,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,47,1,0,20020531,LAL,SAC
-Shot Chart Detail,0040100317,321,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020602,SAC,LAL
-Shot Chart Detail,0040100401,177,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,2,5,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020605,LAL,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40100315,354,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,0,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,-19,1,0,20020528,0,SAC,LAL
+Shot Chart Detail,40100315,356,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,0,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020528,1,SAC,LAL
+Shot Chart Detail,40100316,356,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,47,1,0,20020531,0,LAL,SAC
+Shot Chart Detail,40100317,321,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,3,4,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020602,1,SAC,LAL
+Shot Chart Detail,40100401,177,2098,Slava Medvedenko,1610612747,Los Angeles Lakers,2,5,11,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020605,0,LAL,NJN

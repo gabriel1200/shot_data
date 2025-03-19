@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021000422,495,202374,Solomon Alabi,1610612761,Toronto Raptors,4,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,137,1,0,20101222,TOR,DET
-Shot Chart Detail,0021000630,488,202374,Solomon Alabi,1610612761,Toronto Raptors,4,5,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,52,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000630,490,202374,Solomon Alabi,1610612761,Toronto Raptors,4,5,51,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,37,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000630,513,202374,Solomon Alabi,1610612761,Toronto Raptors,4,4,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20110121,ORL,TOR
-Shot Chart Detail,0021000630,537,202374,Solomon Alabi,1610612761,Toronto Raptors,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,30,1,0,20110121,ORL,TOR
-Shot Chart Detail,0021000695,524,202374,Solomon Alabi,1610612761,Toronto Raptors,4,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,28,1,0,20110129,MIN,TOR
-Shot Chart Detail,0021000695,550,202374,Solomon Alabi,1610612761,Toronto Raptors,4,3,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20110129,MIN,TOR
-Shot Chart Detail,0021000695,572,202374,Solomon Alabi,1610612761,Toronto Raptors,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-86,74,1,0,20110129,MIN,TOR
-Shot Chart Detail,0021000695,585,202374,Solomon Alabi,1610612761,Toronto Raptors,4,0,18,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,0,1,0,20110129,MIN,TOR
-Shot Chart Detail,0021000884,475,202374,Solomon Alabi,1610612761,Toronto Raptors,4,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-117,31,1,0,20110227,TOR,DAL
-Shot Chart Detail,0021000884,491,202374,Solomon Alabi,1610612761,Toronto Raptors,4,0,52,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,42,1,1,20110227,TOR,DAL
-Shot Chart Detail,0021001207,157,202374,Solomon Alabi,1610612761,Toronto Raptors,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,30,1,0,20110411,MIL,TOR
-Shot Chart Detail,0021001207,177,202374,Solomon Alabi,1610612761,Toronto Raptors,2,7,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20110411,MIL,TOR
-Shot Chart Detail,0021001221,122,202374,Solomon Alabi,1610612761,Toronto Raptors,1,1,46,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,63,1,0,20110413,TOR,MIA
-Shot Chart Detail,0021001221,487,202374,Solomon Alabi,1610612761,Toronto Raptors,4,0,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-146,41,1,0,20110413,TOR,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21000422,495,202374,Solomon Alabi,1610612761,Toronto Raptors,4,1,36,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,137,1,0,20101222,0,TOR,DET
+Shot Chart Detail,21000630,488,202374,Solomon Alabi,1610612761,Toronto Raptors,4,5,55,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,52,1,0,20110121,0,ORL,TOR
+Shot Chart Detail,21000630,490,202374,Solomon Alabi,1610612761,Toronto Raptors,4,5,51,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-7,37,1,0,20110121,0,ORL,TOR
+Shot Chart Detail,21000630,513,202374,Solomon Alabi,1610612761,Toronto Raptors,4,4,9,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,12,1,1,20110121,0,ORL,TOR
+Shot Chart Detail,21000630,537,202374,Solomon Alabi,1610612761,Toronto Raptors,4,1,41,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,170,30,1,0,20110121,0,ORL,TOR
+Shot Chart Detail,21000695,524,202374,Solomon Alabi,1610612761,Toronto Raptors,4,5,46,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,28,1,0,20110129,0,MIN,TOR
+Shot Chart Detail,21000695,550,202374,Solomon Alabi,1610612761,Toronto Raptors,4,3,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,25,1,0,20110129,0,MIN,TOR
+Shot Chart Detail,21000695,572,202374,Solomon Alabi,1610612761,Toronto Raptors,4,1,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-86,74,1,0,20110129,0,MIN,TOR
+Shot Chart Detail,21000695,585,202374,Solomon Alabi,1610612761,Toronto Raptors,4,0,18,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,0,1,0,20110129,0,MIN,TOR
+Shot Chart Detail,21000884,475,202374,Solomon Alabi,1610612761,Toronto Raptors,4,2,20,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-117,31,1,0,20110227,0,TOR,DAL
+Shot Chart Detail,21000884,491,202374,Solomon Alabi,1610612761,Toronto Raptors,4,0,52,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,42,1,1,20110227,0,TOR,DAL
+Shot Chart Detail,21001207,157,202374,Solomon Alabi,1610612761,Toronto Raptors,2,9,25,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,21,30,1,0,20110411,0,MIL,TOR
+Shot Chart Detail,21001207,177,202374,Solomon Alabi,1610612761,Toronto Raptors,2,7,44,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20110411,0,MIL,TOR
+Shot Chart Detail,21001221,122,202374,Solomon Alabi,1610612761,Toronto Raptors,1,1,46,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,63,1,0,20110413,0,TOR,MIA
+Shot Chart Detail,21001221,487,202374,Solomon Alabi,1610612761,Toronto Raptors,4,0,28,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-146,41,1,0,20110413,0,TOR,MIA

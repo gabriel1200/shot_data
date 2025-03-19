@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041100132,482,2605,Marquis Daniels,1610612738,Boston Celtics,4,5,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20120501,ATL,BOS
-Shot Chart Detail,0041100134,124,2605,Marquis Daniels,1610612738,Boston Celtics,2,10,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,56,1,0,20120506,BOS,ATL
-Shot Chart Detail,0041100134,138,2605,Marquis Daniels,1610612738,Boston Celtics,2,8,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,107,1,1,20120506,BOS,ATL
-Shot Chart Detail,0041100134,225,2605,Marquis Daniels,1610612738,Boston Celtics,2,1,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20120506,BOS,ATL
-Shot Chart Detail,0041100134,230,2605,Marquis Daniels,1610612738,Boston Celtics,2,1,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20120506,BOS,ATL
-Shot Chart Detail,0041100134,447,2605,Marquis Daniels,1610612738,Boston Celtics,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,83,102,1,0,20120506,BOS,ATL
-Shot Chart Detail,0041100215,485,2605,Marquis Daniels,1610612738,Boston Celtics,4,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,152,113,1,0,20120521,BOS,PHI
-Shot Chart Detail,0041100301,505,2605,Marquis Daniels,1610612738,Boston Celtics,4,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,175,1,1,20120528,MIA,BOS
-Shot Chart Detail,0041100303,114,2605,Marquis Daniels,1610612738,Boston Celtics,1,1,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20120601,BOS,MIA
-Shot Chart Detail,0041100303,189,2605,Marquis Daniels,1610612738,Boston Celtics,2,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20120601,BOS,MIA
-Shot Chart Detail,0041100303,320,2605,Marquis Daniels,1610612738,Boston Celtics,3,7,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20120601,BOS,MIA
-Shot Chart Detail,0041100303,338,2605,Marquis Daniels,1610612738,Boston Celtics,3,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20120601,BOS,MIA
-Shot Chart Detail,0041100303,381,2605,Marquis Daniels,1610612738,Boston Celtics,3,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,0,20120601,BOS,MIA
-Shot Chart Detail,0041100303,522,2605,Marquis Daniels,1610612738,Boston Celtics,4,0,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,156,1,0,20120601,BOS,MIA
-Shot Chart Detail,0041100304,368,2605,Marquis Daniels,1610612738,Boston Celtics,3,1,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,36,1,0,20120603,BOS,MIA
-Shot Chart Detail,0041100306,440,2605,Marquis Daniels,1610612738,Boston Celtics,4,5,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20120607,BOS,MIA
-Shot Chart Detail,0041100306,457,2605,Marquis Daniels,1610612738,Boston Celtics,4,3,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,201,1,0,20120607,BOS,MIA
-Shot Chart Detail,0041100306,477,2605,Marquis Daniels,1610612738,Boston Celtics,4,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20120607,BOS,MIA
-Shot Chart Detail,0041100306,493,2605,Marquis Daniels,1610612738,Boston Celtics,4,0,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20120607,BOS,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41100132,482,2605,Marquis Daniels,1610612738,Boston Celtics,4,5,35,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20120501,1,ATL,BOS
+Shot Chart Detail,41100134,124,2605,Marquis Daniels,1610612738,Boston Celtics,2,10,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,56,1,0,20120506,0,BOS,ATL
+Shot Chart Detail,41100134,138,2605,Marquis Daniels,1610612738,Boston Celtics,2,8,58,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,130,107,1,1,20120506,0,BOS,ATL
+Shot Chart Detail,41100134,225,2605,Marquis Daniels,1610612738,Boston Celtics,2,1,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,1,20120506,1,BOS,ATL
+Shot Chart Detail,41100134,230,2605,Marquis Daniels,1610612738,Boston Celtics,2,1,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,0,20120506,0,BOS,ATL
+Shot Chart Detail,41100134,447,2605,Marquis Daniels,1610612738,Boston Celtics,4,3,25,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,83,102,1,0,20120506,0,BOS,ATL
+Shot Chart Detail,41100215,485,2605,Marquis Daniels,1610612738,Boston Celtics,4,1,24,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,152,113,1,0,20120521,0,BOS,PHI
+Shot Chart Detail,41100301,505,2605,Marquis Daniels,1610612738,Boston Celtics,4,1,31,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-71,175,1,1,20120528,1,MIA,BOS
+Shot Chart Detail,41100303,114,2605,Marquis Daniels,1610612738,Boston Celtics,1,1,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,7,1,1,20120601,1,BOS,MIA
+Shot Chart Detail,41100303,189,2605,Marquis Daniels,1610612738,Boston Celtics,2,7,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20120601,0,BOS,MIA
+Shot Chart Detail,41100303,320,2605,Marquis Daniels,1610612738,Boston Celtics,3,7,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20120601,1,BOS,MIA
+Shot Chart Detail,41100303,338,2605,Marquis Daniels,1610612738,Boston Celtics,3,5,54,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20120601,1,BOS,MIA
+Shot Chart Detail,41100303,381,2605,Marquis Daniels,1610612738,Boston Celtics,3,1,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,0,20120601,0,BOS,MIA
+Shot Chart Detail,41100303,522,2605,Marquis Daniels,1610612738,Boston Celtics,4,0,20,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,204,156,1,0,20120601,0,BOS,MIA
+Shot Chart Detail,41100304,368,2605,Marquis Daniels,1610612738,Boston Celtics,3,1,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,36,1,0,20120603,0,BOS,MIA
+Shot Chart Detail,41100306,440,2605,Marquis Daniels,1610612738,Boston Celtics,4,5,16,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20120607,0,BOS,MIA
+Shot Chart Detail,41100306,457,2605,Marquis Daniels,1610612738,Boston Celtics,4,3,17,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,201,1,0,20120607,0,BOS,MIA
+Shot Chart Detail,41100306,477,2605,Marquis Daniels,1610612738,Boston Celtics,4,1,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20120607,1,BOS,MIA
+Shot Chart Detail,41100306,493,2605,Marquis Daniels,1610612738,Boston Celtics,4,0,9,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20120607,0,BOS,MIA

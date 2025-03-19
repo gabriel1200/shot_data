@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500163,57,101135,David Lee,1610612742,Dallas Mavericks,1,4,12,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-35,61,1,1,20160421,DAL,OKC
-Shot Chart Detail,0041500163,91,101135,David Lee,1610612742,Dallas Mavericks,1,1,51,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,2,1,1,20160421,DAL,OKC
-Shot Chart Detail,0041500163,193,101135,David Lee,1610612742,Dallas Mavericks,2,5,22,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,3,1,1,20160421,DAL,OKC
-Shot Chart Detail,0041500164,116,101135,David Lee,1610612742,Dallas Mavericks,1,2,1,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160423,DAL,OKC
-Shot Chart Detail,0041500164,218,101135,David Lee,1610612742,Dallas Mavericks,2,5,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160423,DAL,OKC
-Shot Chart Detail,0041500164,227,101135,David Lee,1610612742,Dallas Mavericks,2,3,51,Missed Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,26,1,0,20160423,DAL,OKC
-Shot Chart Detail,0041500164,362,101135,David Lee,1610612742,Dallas Mavericks,3,1,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160423,DAL,OKC
-Shot Chart Detail,0041500164,374,101135,David Lee,1610612742,Dallas Mavericks,3,0,47,Missed Shot,Driving Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,3,1,0,20160423,DAL,OKC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500163,57,101135,David Lee,1610612742,Dallas Mavericks,1,4,12,Made Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-35,61,1,1,20160421,0,DAL,OKC
+Shot Chart Detail,41500163,91,101135,David Lee,1610612742,Dallas Mavericks,1,1,51,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,2,1,1,20160421,1,DAL,OKC
+Shot Chart Detail,41500163,193,101135,David Lee,1610612742,Dallas Mavericks,2,5,22,Made Shot,Driving Bank Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,3,1,1,20160421,1,DAL,OKC
+Shot Chart Detail,41500164,116,101135,David Lee,1610612742,Dallas Mavericks,1,2,1,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160423,1,DAL,OKC
+Shot Chart Detail,41500164,218,101135,David Lee,1610612742,Dallas Mavericks,2,5,11,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160423,1,DAL,OKC
+Shot Chart Detail,41500164,227,101135,David Lee,1610612742,Dallas Mavericks,2,3,51,Missed Shot,Jump Bank Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,26,1,0,20160423,0,DAL,OKC
+Shot Chart Detail,41500164,362,101135,David Lee,1610612742,Dallas Mavericks,3,1,45,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20160423,1,DAL,OKC
+Shot Chart Detail,41500164,374,101135,David Lee,1610612742,Dallas Mavericks,3,0,47,Missed Shot,Driving Bank shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,3,1,0,20160423,0,DAL,OKC

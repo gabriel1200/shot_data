@@ -1,495 +1,248 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020800007,452,200776,Mardy Collins,1610612752,New York Knicks,4,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081029,NYK,MIA
-Shot Chart Detail,0020800019,120,200776,Mardy Collins,1610612752,New York Knicks,1,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,PHI,NYK
-Shot Chart Detail,0020800019,127,200776,Mardy Collins,1610612752,New York Knicks,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,118,1,1,20081031,PHI,NYK
-Shot Chart Detail,0020800019,153,200776,Mardy Collins,1610612752,New York Knicks,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,78,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800019,171,200776,Mardy Collins,1610612752,New York Knicks,2,7,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-5,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800019,458,200776,Mardy Collins,1610612752,New York Knicks,4,3,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,PHI,NYK
-Shot Chart Detail,0020800019,474,200776,Mardy Collins,1610612752,New York Knicks,4,2,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,186,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800019,493,200776,Mardy Collins,1610612752,New York Knicks,4,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800040,107,200776,Mardy Collins,1610612752,New York Knicks,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,9,1,0,20081102,NYK,MIL
-Shot Chart Detail,0020800040,450,200776,Mardy Collins,1610612752,New York Knicks,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,17,105,1,0,20081102,NYK,MIL
-Shot Chart Detail,0020800040,461,200776,Mardy Collins,1610612752,New York Knicks,4,4,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081102,NYK,MIL
-Shot Chart Detail,0020800067,130,200776,Mardy Collins,1610612752,New York Knicks,2,10,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20081107,WAS,NYK
-Shot Chart Detail,0020800086,138,200776,Mardy Collins,1610612752,New York Knicks,2,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081109,NYK,UTA
-Shot Chart Detail,0020800086,150,200776,Mardy Collins,1610612752,New York Knicks,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081109,NYK,UTA
-Shot Chart Detail,0020800103,89,200776,Mardy Collins,1610612752,New York Knicks,1,1,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,28,1,0,20081111,SAS,NYK
-Shot Chart Detail,0020800103,131,200776,Mardy Collins,1610612752,New York Knicks,2,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20081111,SAS,NYK
-Shot Chart Detail,0020800110,435,200776,Mardy Collins,1610612752,New York Knicks,4,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081112,MEM,NYK
-Shot Chart Detail,0020800142,141,200776,Mardy Collins,1610612752,New York Knicks,2,10,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081116,NYK,DAL
-Shot Chart Detail,0020800153,92,200776,Mardy Collins,1610612752,New York Knicks,1,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20081118,BOS,NYK
-Shot Chart Detail,0020800153,110,200776,Mardy Collins,1610612752,New York Knicks,1,0,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,61,86,1,1,20081118,BOS,NYK
-Shot Chart Detail,0020800153,112,200776,Mardy Collins,1610612752,New York Knicks,1,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,0,20081118,BOS,NYK
-Shot Chart Detail,0020800153,114,200776,Mardy Collins,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,41,1,0,20081118,BOS,NYK
-Shot Chart Detail,0020800153,146,200776,Mardy Collins,1610612752,New York Knicks,2,9,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,0,20081118,BOS,NYK
-Shot Chart Detail,0020800222,402,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,1,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-8,93,1,0,20081126,LAC,DEN
-Shot Chart Detail,0020800259,201,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,42,1,1,20081202,DAL,LAC
-Shot Chart Detail,0020800272,269,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,HOU,LAC
-Shot Chart Detail,0020800283,212,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081205,MEM,LAC
-Shot Chart Detail,0020800283,385,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,34,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,45,86,1,0,20081205,MEM,LAC
-Shot Chart Detail,0020800283,397,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081205,MEM,LAC
-Shot Chart Detail,0020800290,104,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,22,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,129,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,47,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,146,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,105,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,151,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,12,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,155,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,188,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,39,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,246,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,267,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,154,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,420,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,26,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,427,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,448,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,15,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,538,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,541,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800304,91,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081208,LAC,ORL
-Shot Chart Detail,0020800304,95,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
-Shot Chart Detail,0020800304,125,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-64,91,1,0,20081208,LAC,ORL
-Shot Chart Detail,0020800304,402,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,72,1,0,20081208,LAC,ORL
-Shot Chart Detail,0020800334,133,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,1,20081212,POR,LAC
-Shot Chart Detail,0020800334,189,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,POR,LAC
-Shot Chart Detail,0020800334,346,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,POR,LAC
-Shot Chart Detail,0020800334,398,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,POR,LAC
-Shot Chart Detail,0020800346,108,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,59,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,37,1,1,20081213,LAC,HOU
-Shot Chart Detail,0020800362,92,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081216,OKC,LAC
-Shot Chart Detail,0020800362,443,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,OKC,LAC
-Shot Chart Detail,0020800362,446,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,OKC,LAC
-Shot Chart Detail,0020800373,114,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081217,CHI,LAC
-Shot Chart Detail,0020800373,145,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,26,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,CHI,LAC
-Shot Chart Detail,0020800373,169,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,78,1,0,20081217,CHI,LAC
-Shot Chart Detail,0020800373,411,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,CHI,LAC
-Shot Chart Detail,0020800377,238,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,115,1,0,20081219,IND,LAC
-Shot Chart Detail,0020800377,469,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,1,20081219,IND,LAC
-Shot Chart Detail,0020800396,424,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081220,MIL,LAC
-Shot Chart Detail,0020800396,470,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,36,1,0,20081220,MIL,LAC
-Shot Chart Detail,0020800396,530,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,25,1,1,20081220,MIL,LAC
-Shot Chart Detail,0020800445,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,LAC,DAL
-Shot Chart Detail,0020800445,393,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,LAC,DAL
-Shot Chart Detail,0020800445,404,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,44,1,1,20081228,LAC,DAL
-Shot Chart Detail,0020800445,438,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081228,LAC,DAL
-Shot Chart Detail,0020800466,158,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-30,66,1,0,20081230,SAC,LAC
-Shot Chart Detail,0020800472,3,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,11,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,69,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800472,35,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,LAC,PHI
-Shot Chart Detail,0020800472,50,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800472,63,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,160,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800472,322,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,11,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800485,93,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,97,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,44,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,136,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,99,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,163,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,206,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,156,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,359,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-62,67,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,381,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,387,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-199,246,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,411,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,116,31,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800497,41,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,64,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,99,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,55,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,208,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,82,1,1,20090104,LAC,DET
-Shot Chart Detail,0020800497,254,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,11,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,62,203,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,274,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,34,82,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,326,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,361,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,60,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800512,23,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,27,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,32,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,34,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,63,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,17,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,41,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,52,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,141,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-2,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,154,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,53,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,187,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,11,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,55,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,322,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,17,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,351,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,365,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,406,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,20,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,409,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,480,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,213,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800527,20,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,129,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,44,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,47,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,68,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,20,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,-5,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,88,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,64,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,195,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,26,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,224,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,130,157,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,252,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,48,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,267,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,291,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,-10,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,331,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,337,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,36,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,53,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,378,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,3,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,386,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,263,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,412,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,203,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800532,66,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,83,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,53,71,1,0,20090109,NOH,LAC
-Shot Chart Detail,0020800532,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,25,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,168,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,200,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,209,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-59,216,1,0,20090109,NOH,LAC
-Shot Chart Detail,0020800532,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,116,91,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,373,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,200,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,423,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,80,1,0,20090109,NOH,LAC
-Shot Chart Detail,0020800548,11,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,67,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,73,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,124,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,115,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,203,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,260,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,241,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,245,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,138,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,257,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,305,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,308,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,56,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,60,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,372,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,398,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,17,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,499,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,64,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800576,25,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,38,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-41,183,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,124,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,136,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,25,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,200,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,202,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-177,176,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,279,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,291,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,295,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,297,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,303,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,11,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,393,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,208,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,455,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,2,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800598,17,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,75,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,65,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,63,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,162,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,110,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,218,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,6,205,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,238,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,245,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,251,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,53,190,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,396,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,399,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,3,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800606,4,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,11,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,58,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,13,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,61,1,1,20090119,LAC,MIN
-Shot Chart Detail,0020800606,32,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-19,91,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,86,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,41,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,229,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,42,168,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,269,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,47,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090119,LAC,MIN
-Shot Chart Detail,0020800606,290,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,198,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800627,21,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,60,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,77,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,6,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,91,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,184,123,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,99,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,172,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,182,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,56,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,204,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,218,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,47,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,299,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,149,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,301,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,333,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,107,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,449,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,80,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,453,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800639,24,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090123,LAC,OKC
-Shot Chart Detail,0020800795,102,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,71,1,1,20090217,PHX,LAC
-Shot Chart Detail,0020800795,266,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090217,PHX,LAC
-Shot Chart Detail,0020800795,354,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,53,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,34,1,0,20090217,PHX,LAC
-Shot Chart Detail,0020800795,550,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,236,94,1,1,20090217,PHX,LAC
-Shot Chart Detail,0020800795,554,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-5,1,1,20090217,PHX,LAC
-Shot Chart Detail,0020800808,180,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,LAC,PHX
-Shot Chart Detail,0020800808,272,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,55,1,0,20090218,LAC,PHX
-Shot Chart Detail,0020800808,433,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-35,112,1,0,20090218,LAC,PHX
-Shot Chart Detail,0020800808,485,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,61,1,0,20090218,LAC,PHX
-Shot Chart Detail,0020800833,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,150,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,POR,LAC
-Shot Chart Detail,0020800833,174,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,34,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,388,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,40,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,471,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,93,1,1,20090222,POR,LAC
-Shot Chart Detail,0020800833,475,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,24,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,108,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,501,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,140,1,1,20090222,POR,LAC
-Shot Chart Detail,0020800841,70,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090223,LAC,GSW
-Shot Chart Detail,0020800841,145,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,28,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800841,199,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,47,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800841,306,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,10,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800841,554,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,41,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,129,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800860,43,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,60,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,126,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,272,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,307,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,110,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,409,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,416,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,53,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,420,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,195,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,432,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,451,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,468,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,53,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,473,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,111,167,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,517,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,23,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800874,14,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,86,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,39,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,44,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,SAC,LAC
-Shot Chart Detail,0020800874,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,53,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,57,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,20,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,181,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,42,1,1,20090227,SAC,LAC
-Shot Chart Detail,0020800874,266,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,SAC,LAC
-Shot Chart Detail,0020800874,286,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,39,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,429,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,25,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,435,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,69,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,472,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,25,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,53,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800914,120,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,-95,309,1,1,20090304,LAC,MEM
-Shot Chart Detail,0020800914,133,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,235,1,0,20090304,LAC,MEM
-Shot Chart Detail,0020800914,236,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,164,1,0,20090304,LAC,MEM
-Shot Chart Detail,0020800914,307,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,LAC,MEM
-Shot Chart Detail,0020800954,134,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,54,168,520,1,0,20090310,LAC,CLE
-Shot Chart Detail,0020801044,118,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,124,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,157,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,12,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801044,313,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,39,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,15,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801044,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801050,25,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,53,186,1,1,20090323,BOS,LAC
-Shot Chart Detail,0020801050,59,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,46,1,0,20090323,BOS,LAC
-Shot Chart Detail,0020801050,201,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,0,20090323,BOS,LAC
-Shot Chart Detail,0020801050,270,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,135,1,0,20090323,BOS,LAC
-Shot Chart Detail,0020800007,452,200776,Mardy Collins,1610612752,New York Knicks,4,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081029,NYK,MIA
-Shot Chart Detail,0020800019,120,200776,Mardy Collins,1610612752,New York Knicks,1,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,PHI,NYK
-Shot Chart Detail,0020800019,127,200776,Mardy Collins,1610612752,New York Knicks,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,118,1,1,20081031,PHI,NYK
-Shot Chart Detail,0020800019,153,200776,Mardy Collins,1610612752,New York Knicks,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,78,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800019,171,200776,Mardy Collins,1610612752,New York Knicks,2,7,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-5,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800019,458,200776,Mardy Collins,1610612752,New York Knicks,4,3,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,PHI,NYK
-Shot Chart Detail,0020800019,474,200776,Mardy Collins,1610612752,New York Knicks,4,2,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,186,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800019,493,200776,Mardy Collins,1610612752,New York Knicks,4,1,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081031,PHI,NYK
-Shot Chart Detail,0020800040,107,200776,Mardy Collins,1610612752,New York Knicks,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,9,1,0,20081102,NYK,MIL
-Shot Chart Detail,0020800040,450,200776,Mardy Collins,1610612752,New York Knicks,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,17,105,1,0,20081102,NYK,MIL
-Shot Chart Detail,0020800040,461,200776,Mardy Collins,1610612752,New York Knicks,4,4,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081102,NYK,MIL
-Shot Chart Detail,0020800067,130,200776,Mardy Collins,1610612752,New York Knicks,2,10,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20081107,WAS,NYK
-Shot Chart Detail,0020800086,138,200776,Mardy Collins,1610612752,New York Knicks,2,10,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081109,NYK,UTA
-Shot Chart Detail,0020800086,150,200776,Mardy Collins,1610612752,New York Knicks,2,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081109,NYK,UTA
-Shot Chart Detail,0020800103,89,200776,Mardy Collins,1610612752,New York Knicks,1,1,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,28,1,0,20081111,SAS,NYK
-Shot Chart Detail,0020800103,131,200776,Mardy Collins,1610612752,New York Knicks,2,9,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20081111,SAS,NYK
-Shot Chart Detail,0020800110,435,200776,Mardy Collins,1610612752,New York Knicks,4,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081112,MEM,NYK
-Shot Chart Detail,0020800142,141,200776,Mardy Collins,1610612752,New York Knicks,2,10,38,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081116,NYK,DAL
-Shot Chart Detail,0020800153,92,200776,Mardy Collins,1610612752,New York Knicks,1,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20081118,BOS,NYK
-Shot Chart Detail,0020800153,110,200776,Mardy Collins,1610612752,New York Knicks,1,0,33,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,61,86,1,1,20081118,BOS,NYK
-Shot Chart Detail,0020800153,112,200776,Mardy Collins,1610612752,New York Knicks,1,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,0,20081118,BOS,NYK
-Shot Chart Detail,0020800153,114,200776,Mardy Collins,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,41,1,0,20081118,BOS,NYK
-Shot Chart Detail,0020800153,146,200776,Mardy Collins,1610612752,New York Knicks,2,9,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,0,20081118,BOS,NYK
-Shot Chart Detail,0020800222,402,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,1,46,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-8,93,1,0,20081126,LAC,DEN
-Shot Chart Detail,0020800259,201,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,27,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,42,1,1,20081202,DAL,LAC
-Shot Chart Detail,0020800272,269,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,HOU,LAC
-Shot Chart Detail,0020800283,212,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081205,MEM,LAC
-Shot Chart Detail,0020800283,385,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,34,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,45,86,1,0,20081205,MEM,LAC
-Shot Chart Detail,0020800283,397,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081205,MEM,LAC
-Shot Chart Detail,0020800290,104,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,22,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,129,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,47,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,146,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,105,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,151,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,12,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,155,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,188,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,39,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,246,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,267,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,154,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,420,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,26,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800290,427,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,448,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,15,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,538,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,MIN,LAC
-Shot Chart Detail,0020800290,541,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,MIN,LAC
-Shot Chart Detail,0020800304,91,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081208,LAC,ORL
-Shot Chart Detail,0020800304,95,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,LAC,ORL
-Shot Chart Detail,0020800304,125,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-64,91,1,0,20081208,LAC,ORL
-Shot Chart Detail,0020800304,402,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,72,1,0,20081208,LAC,ORL
-Shot Chart Detail,0020800334,133,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,1,20081212,POR,LAC
-Shot Chart Detail,0020800334,189,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,POR,LAC
-Shot Chart Detail,0020800334,346,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,POR,LAC
-Shot Chart Detail,0020800334,398,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,POR,LAC
-Shot Chart Detail,0020800346,108,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,59,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,37,1,1,20081213,LAC,HOU
-Shot Chart Detail,0020800362,92,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081216,OKC,LAC
-Shot Chart Detail,0020800362,443,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,OKC,LAC
-Shot Chart Detail,0020800362,446,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,OKC,LAC
-Shot Chart Detail,0020800373,114,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081217,CHI,LAC
-Shot Chart Detail,0020800373,145,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,26,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,CHI,LAC
-Shot Chart Detail,0020800373,169,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,78,1,0,20081217,CHI,LAC
-Shot Chart Detail,0020800373,411,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,CHI,LAC
-Shot Chart Detail,0020800377,238,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,115,1,0,20081219,IND,LAC
-Shot Chart Detail,0020800377,469,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,54,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,1,20081219,IND,LAC
-Shot Chart Detail,0020800396,424,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081220,MIL,LAC
-Shot Chart Detail,0020800396,470,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,36,1,0,20081220,MIL,LAC
-Shot Chart Detail,0020800396,530,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,25,1,1,20081220,MIL,LAC
-Shot Chart Detail,0020800445,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,LAC,DAL
-Shot Chart Detail,0020800445,393,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,LAC,DAL
-Shot Chart Detail,0020800445,404,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,44,1,1,20081228,LAC,DAL
-Shot Chart Detail,0020800445,438,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081228,LAC,DAL
-Shot Chart Detail,0020800466,158,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-30,66,1,0,20081230,SAC,LAC
-Shot Chart Detail,0020800472,3,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,11,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,69,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800472,35,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,LAC,PHI
-Shot Chart Detail,0020800472,50,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800472,63,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,160,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800472,322,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,11,1,0,20081231,LAC,PHI
-Shot Chart Detail,0020800485,93,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,97,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,44,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,136,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,99,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,163,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,206,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,156,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,359,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-62,67,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,381,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800485,387,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-199,246,1,0,20090102,PHX,LAC
-Shot Chart Detail,0020800485,411,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,30,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,116,31,1,1,20090102,PHX,LAC
-Shot Chart Detail,0020800497,41,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,64,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,99,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,141,55,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,208,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,82,1,1,20090104,LAC,DET
-Shot Chart Detail,0020800497,254,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,11,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,62,203,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,274,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,34,82,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,326,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800497,361,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,60,1,0,20090104,LAC,DET
-Shot Chart Detail,0020800512,23,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,27,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,32,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,34,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,63,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,17,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,41,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,52,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,141,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-2,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,154,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,53,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,187,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,11,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,55,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,322,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,17,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,351,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,365,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,406,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,20,1,0,20090106,DAL,LAC
-Shot Chart Detail,0020800512,409,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800512,480,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,213,1,1,20090106,DAL,LAC
-Shot Chart Detail,0020800527,20,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,129,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,44,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,47,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,68,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,20,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,-5,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,88,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,64,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,195,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,26,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,224,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,130,157,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,252,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,48,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,267,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,291,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,-10,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,331,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,337,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,36,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,84,53,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,378,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,3,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800527,386,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,263,1,1,20090108,SAS,LAC
-Shot Chart Detail,0020800527,412,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,203,1,0,20090108,SAS,LAC
-Shot Chart Detail,0020800532,66,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,83,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,53,71,1,0,20090109,NOH,LAC
-Shot Chart Detail,0020800532,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,25,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,168,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,200,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,209,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-59,216,1,0,20090109,NOH,LAC
-Shot Chart Detail,0020800532,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,116,91,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,373,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,200,1,1,20090109,NOH,LAC
-Shot Chart Detail,0020800532,423,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,80,1,0,20090109,NOH,LAC
-Shot Chart Detail,0020800548,11,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,67,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,73,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,124,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,115,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,203,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,64,260,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,241,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,245,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,138,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,257,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,305,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,308,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,56,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,60,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800548,372,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,398,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,17,1,1,20090111,LAC,PHX
-Shot Chart Detail,0020800548,499,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,64,1,0,20090111,LAC,PHX
-Shot Chart Detail,0020800576,25,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,38,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-41,183,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,124,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,136,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,25,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,200,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,202,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-177,176,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,279,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,0,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,291,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,295,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,297,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,303,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,11,1,0,20090114,LAC,ATL
-Shot Chart Detail,0020800576,393,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-18,208,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800576,455,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,2,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,LAC,ATL
-Shot Chart Detail,0020800598,17,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,75,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,65,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,14,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,63,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,162,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,110,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,218,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,6,205,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,238,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,245,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,251,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,53,190,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800598,396,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,LAC,MIL
-Shot Chart Detail,0020800598,399,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,3,1,0,20090117,LAC,MIL
-Shot Chart Detail,0020800606,4,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,11,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,58,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,13,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,61,1,1,20090119,LAC,MIN
-Shot Chart Detail,0020800606,32,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-19,91,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,86,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,41,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,229,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,42,168,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800606,269,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,47,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090119,LAC,MIN
-Shot Chart Detail,0020800606,290,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,198,1,0,20090119,LAC,MIN
-Shot Chart Detail,0020800627,21,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,60,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,77,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,6,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,91,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,184,123,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,99,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,172,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,182,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,19,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,56,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,204,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,218,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,47,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,299,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,149,1,1,20090121,LAC,LAL
-Shot Chart Detail,0020800627,301,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,333,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,107,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,449,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,80,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800627,453,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,LAC,LAL
-Shot Chart Detail,0020800639,24,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090123,LAC,OKC
-Shot Chart Detail,0020800795,102,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,71,1,1,20090217,PHX,LAC
-Shot Chart Detail,0020800795,266,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090217,PHX,LAC
-Shot Chart Detail,0020800795,354,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,53,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,34,1,0,20090217,PHX,LAC
-Shot Chart Detail,0020800795,550,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,236,94,1,1,20090217,PHX,LAC
-Shot Chart Detail,0020800795,554,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-5,1,1,20090217,PHX,LAC
-Shot Chart Detail,0020800808,180,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,LAC,PHX
-Shot Chart Detail,0020800808,272,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,55,1,0,20090218,LAC,PHX
-Shot Chart Detail,0020800808,433,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-35,112,1,0,20090218,LAC,PHX
-Shot Chart Detail,0020800808,485,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,61,1,0,20090218,LAC,PHX
-Shot Chart Detail,0020800833,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,150,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,POR,LAC
-Shot Chart Detail,0020800833,174,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,29,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,34,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,388,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,40,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,471,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,93,1,1,20090222,POR,LAC
-Shot Chart Detail,0020800833,475,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,24,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,108,1,0,20090222,POR,LAC
-Shot Chart Detail,0020800833,501,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,140,1,1,20090222,POR,LAC
-Shot Chart Detail,0020800841,70,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090223,LAC,GSW
-Shot Chart Detail,0020800841,145,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,28,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800841,199,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,43,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,47,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800841,306,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,10,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800841,554,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,41,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,129,1,1,20090223,LAC,GSW
-Shot Chart Detail,0020800860,43,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,60,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,126,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,28,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,272,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,307,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,110,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,409,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,416,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,53,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,420,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,195,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,432,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,451,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,LAC,BOS
-Shot Chart Detail,0020800860,468,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,53,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,473,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,111,167,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800860,517,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,23,1,0,20090225,LAC,BOS
-Shot Chart Detail,0020800874,14,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,86,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,39,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,44,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,SAC,LAC
-Shot Chart Detail,0020800874,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,53,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,57,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,20,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,181,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,37,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,42,1,1,20090227,SAC,LAC
-Shot Chart Detail,0020800874,266,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,SAC,LAC
-Shot Chart Detail,0020800874,286,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,24,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,39,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,429,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,25,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,435,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,69,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800874,472,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,25,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,53,1,0,20090227,SAC,LAC
-Shot Chart Detail,0020800914,120,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,-95,309,1,1,20090304,LAC,MEM
-Shot Chart Detail,0020800914,133,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,235,1,0,20090304,LAC,MEM
-Shot Chart Detail,0020800914,236,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,164,1,0,20090304,LAC,MEM
-Shot Chart Detail,0020800914,307,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,LAC,MEM
-Shot Chart Detail,0020800954,134,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,54,168,520,1,0,20090310,LAC,CLE
-Shot Chart Detail,0020801044,118,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,124,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801044,157,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-92,12,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801044,313,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,39,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,15,1,0,20090322,TOR,LAC
-Shot Chart Detail,0020801044,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,TOR,LAC
-Shot Chart Detail,0020801050,25,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,53,186,1,1,20090323,BOS,LAC
-Shot Chart Detail,0020801050,59,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,46,1,0,20090323,BOS,LAC
-Shot Chart Detail,0020801050,201,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,0,20090323,BOS,LAC
-Shot Chart Detail,0020801050,270,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,135,1,0,20090323,BOS,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20800222,402,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,1,46,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-8,93,1,0,20081126,0,LAC,DEN
+Shot Chart Detail,20800259,201,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,27,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,42,1,1,20081202,0,DAL,LAC
+Shot Chart Detail,20800272,269,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081203,0,HOU,LAC
+Shot Chart Detail,20800283,212,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081205,0,MEM,LAC
+Shot Chart Detail,20800283,385,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,34,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,45,86,1,0,20081205,0,MEM,LAC
+Shot Chart Detail,20800283,397,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081205,0,MEM,LAC
+Shot Chart Detail,20800290,104,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,86,22,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,129,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-220,47,1,1,20081206,1,MIN,LAC
+Shot Chart Detail,20800290,146,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,105,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,151,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-220,12,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,155,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,188,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,39,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,246,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,15,1,1,20081206,1,MIN,LAC
+Shot Chart Detail,20800290,267,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,154,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,420,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,26,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,427,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,1,MIN,LAC
+Shot Chart Detail,20800290,448,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,15,1,1,20081206,0,MIN,LAC
+Shot Chart Detail,20800290,538,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081206,1,MIN,LAC
+Shot Chart Detail,20800290,541,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081206,0,MIN,LAC
+Shot Chart Detail,20800304,91,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081208,0,LAC,ORL
+Shot Chart Detail,20800304,95,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,39,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081208,0,LAC,ORL
+Shot Chart Detail,20800304,125,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-64,91,1,0,20081208,0,LAC,ORL
+Shot Chart Detail,20800304,402,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-16,72,1,0,20081208,0,LAC,ORL
+Shot Chart Detail,20800334,133,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,9,13,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,31,1,1,20081212,1,POR,LAC
+Shot Chart Detail,20800334,189,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,0,POR,LAC
+Shot Chart Detail,20800334,346,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,0,POR,LAC
+Shot Chart Detail,20800334,398,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081212,0,POR,LAC
+Shot Chart Detail,20800346,108,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,59,Made Shot,Turnaround Bank shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,37,1,1,20081213,0,LAC,HOU
+Shot Chart Detail,20800362,92,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081216,0,OKC,LAC
+Shot Chart Detail,20800362,443,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,1,OKC,LAC
+Shot Chart Detail,20800362,446,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,5,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081216,0,OKC,LAC
+Shot Chart Detail,20800373,114,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081217,0,CHI,LAC
+Shot Chart Detail,20800373,145,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,26,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,1,CHI,LAC
+Shot Chart Detail,20800373,169,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,78,1,0,20081217,0,CHI,LAC
+Shot Chart Detail,20800373,411,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081217,1,CHI,LAC
+Shot Chart Detail,20800377,238,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,62,115,1,0,20081219,0,IND,LAC
+Shot Chart Detail,20800377,469,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,54,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,1,20081219,0,IND,LAC
+Shot Chart Detail,20800396,424,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081220,0,MIL,LAC
+Shot Chart Detail,20800396,470,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,36,1,0,20081220,0,MIL,LAC
+Shot Chart Detail,20800396,530,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,25,1,1,20081220,1,MIL,LAC
+Shot Chart Detail,20800445,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,1,LAC,DAL
+Shot Chart Detail,20800445,393,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081228,0,LAC,DAL
+Shot Chart Detail,20800445,404,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,55,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,44,1,1,20081228,0,LAC,DAL
+Shot Chart Detail,20800445,438,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081228,0,LAC,DAL
+Shot Chart Detail,20800466,158,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-30,66,1,0,20081230,0,SAC,LAC
+Shot Chart Detail,20800472,3,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,11,26,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-21,69,1,0,20081231,0,LAC,PHI
+Shot Chart Detail,20800472,35,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081231,1,LAC,PHI
+Shot Chart Detail,20800472,50,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,27,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,0,20081231,0,LAC,PHI
+Shot Chart Detail,20800472,63,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,160,1,0,20081231,0,LAC,PHI
+Shot Chart Detail,20800472,322,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,11,1,0,20081231,0,LAC,PHI
+Shot Chart Detail,20800485,93,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,38,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,15,1,1,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,97,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,48,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,44,1,1,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,136,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,99,1,0,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,163,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,48,1,0,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,206,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,41,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,110,156,1,1,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,359,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-62,67,1,0,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,381,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090102,1,PHX,LAC
+Shot Chart Detail,20800485,387,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-199,246,1,0,20090102,0,PHX,LAC
+Shot Chart Detail,20800485,411,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,9,30,Made Shot,Jump Bank Shot,,Mid-Range,Right Side(R),8-16 ft.,12,116,31,1,1,20090102,0,PHX,LAC
+Shot Chart Detail,20800497,41,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,5,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,64,1,0,20090104,0,LAC,DET
+Shot Chart Detail,20800497,99,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,141,55,1,0,20090104,0,LAC,DET
+Shot Chart Detail,20800497,208,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,18,82,1,1,20090104,0,LAC,DET
+Shot Chart Detail,20800497,254,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,11,22,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,62,203,1,0,20090104,0,LAC,DET
+Shot Chart Detail,20800497,274,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,34,82,1,0,20090104,0,LAC,DET
+Shot Chart Detail,20800497,326,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090104,0,LAC,DET
+Shot Chart Detail,20800497,361,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,60,1,0,20090104,0,LAC,DET
+Shot Chart Detail,20800512,23,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,27,Missed Shot,Turnaround Bank shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,39,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,32,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,34,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,63,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,17,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,62,41,1,1,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,52,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,141,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-2,1,1,20090106,1,DAL,LAC
+Shot Chart Detail,20800512,154,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,53,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,187,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,11,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,55,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,322,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-89,17,1,1,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,351,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,365,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,54,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,406,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,44,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,86,20,1,0,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,409,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090106,0,DAL,LAC
+Shot Chart Detail,20800512,480,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,38,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,130,213,1,1,20090106,1,DAL,LAC
+Shot Chart Detail,20800527,20,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,48,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,140,129,1,1,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,44,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,47,1,1,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20090108,1,SAS,LAC
+Shot Chart Detail,20800527,68,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,20,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,-5,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,88,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,64,1,1,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,195,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,26,1,1,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,224,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,130,157,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,252,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,48,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,267,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,291,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,49,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,-10,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,331,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,7,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,337,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,36,Missed Shot,Jump Bank Shot,,Mid-Range,Right Side(R),8-16 ft.,9,84,53,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,378,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,3,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,386,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,263,1,1,20090108,0,SAS,LAC
+Shot Chart Detail,20800527,412,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,203,1,0,20090108,0,SAS,LAC
+Shot Chart Detail,20800532,66,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,83,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,53,71,1,0,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,25,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,168,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,200,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,209,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-59,216,1,0,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,10,40,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,116,91,1,1,20090109,0,NOH,LAC
+Shot Chart Detail,20800532,373,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,200,1,1,20090109,1,NOH,LAC
+Shot Chart Detail,20800532,423,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,49,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,234,80,1,0,20090109,0,NOH,LAC
+Shot Chart Detail,20800548,11,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,67,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,1,LAC,PHX
+Shot Chart Detail,20800548,73,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,50,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,97,124,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,115,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,203,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,43,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,64,260,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,241,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,0,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,6,1,1,20090111,1,LAC,PHX
+Shot Chart Detail,20800548,245,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,35,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,138,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,257,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,1,LAC,PHX
+Shot Chart Detail,20800548,305,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,308,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,56,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,10,-86,60,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800548,372,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,3,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090111,1,LAC,PHX
+Shot Chart Detail,20800548,398,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,17,1,1,20090111,1,LAC,PHX
+Shot Chart Detail,20800548,499,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,55,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,67,64,1,0,20090111,0,LAC,PHX
+Shot Chart Detail,20800576,25,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,1,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,38,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,26,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-41,183,1,0,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,124,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,40,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,1,LAC,ATL
+Shot Chart Detail,20800576,136,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,25,1,0,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,200,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,202,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,14,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-177,176,1,1,20090114,1,LAC,ATL
+Shot Chart Detail,20800576,279,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,0,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,75,1,1,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,291,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,56,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,1,LAC,ATL
+Shot Chart Detail,20800576,295,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,297,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,303,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,19,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-245,11,1,0,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,393,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,34,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-18,208,1,1,20090114,0,LAC,ATL
+Shot Chart Detail,20800576,455,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,2,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090114,0,LAC,ATL
+Shot Chart Detail,20800598,17,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,1,LAC,MIL
+Shot Chart Detail,20800598,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,4,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,75,1,0,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,65,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,14,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-34,63,1,1,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,162,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,4,48,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,18,110,1,1,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,218,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,1,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,6,205,1,0,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,238,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,9,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,245,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,1,LAC,MIL
+Shot Chart Detail,20800598,251,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,9,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,53,190,1,0,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,396,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090117,0,LAC,MIL
+Shot Chart Detail,20800598,399,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,22,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,3,1,0,20090117,0,LAC,MIL
+Shot Chart Detail,20800606,4,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,11,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,58,1,0,20090119,0,LAC,MIN
+Shot Chart Detail,20800606,13,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,25,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,61,1,1,20090119,0,LAC,MIN
+Shot Chart Detail,20800606,32,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-19,91,1,0,20090119,0,LAC,MIN
+Shot Chart Detail,20800606,86,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,41,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090119,0,LAC,MIN
+Shot Chart Detail,20800606,229,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,8,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,42,168,1,0,20090119,0,LAC,MIN
+Shot Chart Detail,20800606,269,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,47,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090119,0,LAC,MIN
+Shot Chart Detail,20800606,290,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,32,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,198,1,0,20090119,0,LAC,MIN
+Shot Chart Detail,20800627,21,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,57,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,60,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,3,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,77,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,59,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,6,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,91,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,22,184,123,1,1,20090121,1,LAC,LAL
+Shot Chart Detail,20800627,99,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Running Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-100,172,1,1,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,182,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,3,19,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,31,56,1,1,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,204,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,218,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,15,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,47,1,1,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,299,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,58,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-68,149,1,1,20090121,1,LAC,LAL
+Shot Chart Detail,20800627,301,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,2,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,333,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,54,107,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,449,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,29,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,80,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800627,453,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090121,0,LAC,LAL
+Shot Chart Detail,20800639,24,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,9,29,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090123,0,LAC,OKC
+Shot Chart Detail,20800795,102,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,53,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,43,71,1,1,20090217,0,PHX,LAC
+Shot Chart Detail,20800795,266,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090217,0,PHX,LAC
+Shot Chart Detail,20800795,354,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,53,Missed Shot,Jump Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,34,1,0,20090217,0,PHX,LAC
+Shot Chart Detail,20800795,550,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,58,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,236,94,1,1,20090217,1,PHX,LAC
+Shot Chart Detail,20800795,554,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,21,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,-5,1,1,20090217,0,PHX,LAC
+Shot Chart Detail,20800808,180,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,22,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090218,0,LAC,PHX
+Shot Chart Detail,20800808,272,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,0,19,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,55,1,0,20090218,0,LAC,PHX
+Shot Chart Detail,20800808,433,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-35,112,1,0,20090218,0,LAC,PHX
+Shot Chart Detail,20800808,485,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-8,61,1,0,20090218,0,LAC,PHX
+Shot Chart Detail,20800833,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,2,18,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,0,20090222,0,POR,LAC
+Shot Chart Detail,20800833,103,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090222,0,POR,LAC
+Shot Chart Detail,20800833,150,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090222,0,POR,LAC
+Shot Chart Detail,20800833,174,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,7,29,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,12,34,1,0,20090222,0,POR,LAC
+Shot Chart Detail,20800833,388,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,11,40,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090222,0,POR,LAC
+Shot Chart Detail,20800833,471,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,57,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),16-24 ft.,18,160,93,1,1,20090222,0,POR,LAC
+Shot Chart Detail,20800833,475,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,24,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,108,1,0,20090222,0,POR,LAC
+Shot Chart Detail,20800833,501,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,1,6,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,140,1,1,20090222,1,POR,LAC
+Shot Chart Detail,20800841,70,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090223,0,LAC,GSW
+Shot Chart Detail,20800841,145,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,44,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,28,1,1,20090223,0,LAC,GSW
+Shot Chart Detail,20800841,199,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,43,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,18,47,1,1,20090223,1,LAC,GSW
+Shot Chart Detail,20800841,306,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,10,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090223,1,LAC,GSW
+Shot Chart Detail,20800841,554,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,41,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,129,1,1,20090223,1,LAC,GSW
+Shot Chart Detail,20800860,43,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,54,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,90,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,1,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,60,1,1,20090225,1,LAC,BOS
+Shot Chart Detail,20800860,126,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,28,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,272,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,307,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,5,11,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,110,1,1,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,409,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,8,50,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,416,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,7,38,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,53,1,1,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,420,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,59,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,195,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,432,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,6,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,451,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,468,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,53,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,473,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,2,14,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,111,167,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800860,517,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,19,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,23,1,0,20090225,0,LAC,BOS
+Shot Chart Detail,20800874,14,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,10,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,86,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,39,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,44,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,7,37,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,1,SAC,LAC
+Shot Chart Detail,20800874,48,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,6,53,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,57,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,20,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,181,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,5,37,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,42,1,1,20090227,1,SAC,LAC
+Shot Chart Detail,20800874,266,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,8,10,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,286,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,24,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,2,39,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,429,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,4,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,25,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,435,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,3,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,69,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800874,472,200776,Mardy Collins,1610612746,Los Angeles Clippers,4,0,25,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,53,1,0,20090227,0,SAC,LAC
+Shot Chart Detail,20800914,120,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,-95,309,1,1,20090304,1,LAC,MEM
+Shot Chart Detail,20800914,133,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,10,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,106,235,1,0,20090304,0,LAC,MEM
+Shot Chart Detail,20800914,236,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,1,30,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,164,1,0,20090304,0,LAC,MEM
+Shot Chart Detail,20800914,307,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,6,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090304,1,LAC,MEM
+Shot Chart Detail,20800954,134,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,54,168,520,1,0,20090310,0,LAC,CLE
+Shot Chart Detail,20801044,118,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,0,TOR,LAC
+Shot Chart Detail,20801044,124,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,11,13,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,0,TOR,LAC
+Shot Chart Detail,20801044,157,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,8,22,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-92,12,1,0,20090322,0,TOR,LAC
+Shot Chart Detail,20801044,313,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,4,39,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,15,1,0,20090322,0,TOR,LAC
+Shot Chart Detail,20801044,358,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090322,0,TOR,LAC
+Shot Chart Detail,20801050,25,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,8,19,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,53,186,1,1,20090323,0,BOS,LAC
+Shot Chart Detail,20801050,59,200776,Mardy Collins,1610612746,Los Angeles Clippers,1,5,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,79,46,1,0,20090323,0,BOS,LAC
+Shot Chart Detail,20801050,201,200776,Mardy Collins,1610612746,Los Angeles Clippers,2,2,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,1,1,0,20090323,0,BOS,LAC
+Shot Chart Detail,20801050,270,200776,Mardy Collins,1610612746,Los Angeles Clippers,3,7,21,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,89,135,1,0,20090323,0,BOS,LAC
+Shot Chart Detail,20800007,452,200776,Mardy Collins,1610612752,New York Knicks,4,9,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081029,0,NYK,MIA
+Shot Chart Detail,20800019,120,200776,Mardy Collins,1610612752,New York Knicks,1,0,6,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,0,PHI,NYK
+Shot Chart Detail,20800019,127,200776,Mardy Collins,1610612752,New York Knicks,2,11,38,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,118,1,1,20081031,0,PHI,NYK
+Shot Chart Detail,20800019,153,200776,Mardy Collins,1610612752,New York Knicks,2,9,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,95,78,1,0,20081031,0,PHI,NYK
+Shot Chart Detail,20800019,171,200776,Mardy Collins,1610612752,New York Knicks,2,7,53,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-221,-5,1,0,20081031,0,PHI,NYK
+Shot Chart Detail,20800019,458,200776,Mardy Collins,1610612752,New York Knicks,4,3,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081031,1,PHI,NYK
+Shot Chart Detail,20800019,474,200776,Mardy Collins,1610612752,New York Knicks,4,2,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-199,186,1,0,20081031,0,PHI,NYK
+Shot Chart Detail,20800019,493,200776,Mardy Collins,1610612752,New York Knicks,4,1,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081031,0,PHI,NYK
+Shot Chart Detail,20800040,107,200776,Mardy Collins,1610612752,New York Knicks,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,9,1,0,20081102,0,NYK,MIL
+Shot Chart Detail,20800040,450,200776,Mardy Collins,1610612752,New York Knicks,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,17,105,1,0,20081102,0,NYK,MIL
+Shot Chart Detail,20800040,461,200776,Mardy Collins,1610612752,New York Knicks,4,4,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081102,0,NYK,MIL
+Shot Chart Detail,20800067,130,200776,Mardy Collins,1610612752,New York Knicks,2,10,10,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20081107,0,WAS,NYK
+Shot Chart Detail,20800086,138,200776,Mardy Collins,1610612752,New York Knicks,2,10,2,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081109,0,NYK,UTA
+Shot Chart Detail,20800086,150,200776,Mardy Collins,1610612752,New York Knicks,2,8,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081109,0,NYK,UTA
+Shot Chart Detail,20800103,89,200776,Mardy Collins,1610612752,New York Knicks,1,1,33,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,28,1,0,20081111,0,SAS,NYK
+Shot Chart Detail,20800103,131,200776,Mardy Collins,1610612752,New York Knicks,2,9,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20081111,0,SAS,NYK
+Shot Chart Detail,20800110,435,200776,Mardy Collins,1610612752,New York Knicks,4,2,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081112,0,MEM,NYK
+Shot Chart Detail,20800142,141,200776,Mardy Collins,1610612752,New York Knicks,2,10,38,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20081116,1,NYK,DAL
+Shot Chart Detail,20800153,92,200776,Mardy Collins,1610612752,New York Knicks,1,1,51,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20081118,1,BOS,NYK
+Shot Chart Detail,20800153,110,200776,Mardy Collins,1610612752,New York Knicks,1,0,33,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,61,86,1,1,20081118,0,BOS,NYK
+Shot Chart Detail,20800153,112,200776,Mardy Collins,1610612752,New York Knicks,1,0,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,0,20081118,0,BOS,NYK
+Shot Chart Detail,20800153,114,200776,Mardy Collins,1610612752,New York Knicks,1,0,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,41,1,0,20081118,0,BOS,NYK
+Shot Chart Detail,20800153,146,200776,Mardy Collins,1610612752,New York Knicks,2,9,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,0,20081118,0,BOS,NYK

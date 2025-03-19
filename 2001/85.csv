@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000469,460,85,Brent Price,1610612763,Vancouver Grizzlies,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,15,1,0,20010105,PHX,VAN
-Shot Chart Detail,0020000555,438,85,Brent Price,1610612763,Vancouver Grizzlies,4,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,125,1,1,20010117,DEN,VAN
-Shot Chart Detail,0020000555,455,85,Brent Price,1610612763,Vancouver Grizzlies,4,3,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-8,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000555,492,85,Brent Price,1610612763,Vancouver Grizzlies,4,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,57,1,0,20010117,DEN,VAN
-Shot Chart Detail,0020000595,464,85,Brent Price,1610612763,Vancouver Grizzlies,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,251,1,0,20010123,SAS,VAN
-Shot Chart Detail,0020000595,469,85,Brent Price,1610612763,Vancouver Grizzlies,4,0,15,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,99,1,1,20010123,SAS,VAN
-Shot Chart Detail,0020000609,407,85,Brent Price,1610612763,Vancouver Grizzlies,4,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,119,167,1,1,20010125,DAL,VAN
-Shot Chart Detail,0020000609,424,85,Brent Price,1610612763,Vancouver Grizzlies,4,2,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,207,1,0,20010125,DAL,VAN
-Shot Chart Detail,0020000609,427,85,Brent Price,1610612763,Vancouver Grizzlies,4,2,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010125,DAL,VAN
-Shot Chart Detail,0020000615,404,85,Brent Price,1610612763,Vancouver Grizzlies,4,4,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,154,1,0,20010126,HOU,VAN
-Shot Chart Detail,0020000615,408,85,Brent Price,1610612763,Vancouver Grizzlies,4,4,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,191,47,1,0,20010126,HOU,VAN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000469,460,85,Brent Price,1610612763,Vancouver Grizzlies,4,2,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,115,15,1,0,20010105,0,PHX,VAN
+Shot Chart Detail,20000555,438,85,Brent Price,1610612763,Vancouver Grizzlies,4,5,44,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,125,1,1,20010117,1,DEN,VAN
+Shot Chart Detail,20000555,455,85,Brent Price,1610612763,Vancouver Grizzlies,4,3,33,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-191,-8,1,0,20010117,0,DEN,VAN
+Shot Chart Detail,20000555,492,85,Brent Price,1610612763,Vancouver Grizzlies,4,0,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,159,57,1,0,20010117,0,DEN,VAN
+Shot Chart Detail,20000595,464,85,Brent Price,1610612763,Vancouver Grizzlies,4,0,46,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,77,251,1,0,20010123,0,SAS,VAN
+Shot Chart Detail,20000595,469,85,Brent Price,1610612763,Vancouver Grizzlies,4,0,15,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,99,1,1,20010123,1,SAS,VAN
+Shot Chart Detail,20000609,407,85,Brent Price,1610612763,Vancouver Grizzlies,4,5,37,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,119,167,1,1,20010125,1,DAL,VAN
+Shot Chart Detail,20000609,424,85,Brent Price,1610612763,Vancouver Grizzlies,4,2,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,125,207,1,0,20010125,0,DAL,VAN
+Shot Chart Detail,20000609,427,85,Brent Price,1610612763,Vancouver Grizzlies,4,2,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010125,0,DAL,VAN
+Shot Chart Detail,20000615,404,85,Brent Price,1610612763,Vancouver Grizzlies,4,4,55,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,154,1,0,20010126,0,HOU,VAN
+Shot Chart Detail,20000615,408,85,Brent Price,1610612763,Vancouver Grizzlies,4,4,26,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,191,47,1,0,20010126,0,HOU,VAN

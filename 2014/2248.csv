@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300210,114,2248,Earl Watson,1610612757,Portland Trail Blazers,2,10,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,1,1,0,20131125,POR,NYK
-Shot Chart Detail,0021300288,461,2248,Earl Watson,1610612757,Portland Trail Blazers,4,4,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,177,137,1,0,20131206,POR,UTA
-Shot Chart Detail,0021300739,104,2248,Earl Watson,1610612757,Portland Trail Blazers,1,0,45,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,1,1,1,20140207,IND,POR
-Shot Chart Detail,0021300752,109,2248,Earl Watson,1610612757,Portland Trail Blazers,1,2,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,226,83,1,0,20140208,MIN,POR
-Shot Chart Detail,0021300752,127,2248,Earl Watson,1610612757,Portland Trail Blazers,1,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,138,1,1,20140208,MIN,POR
-Shot Chart Detail,0021300861,454,2248,Earl Watson,1610612757,Portland Trail Blazers,4,0,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,4,1,1,20140226,POR,BKN
-Shot Chart Detail,0021300977,429,2248,Earl Watson,1610612757,Portland Trail Blazers,4,7,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,197,1,0,20140314,NOP,POR
-Shot Chart Detail,0021301172,109,2248,Earl Watson,1610612757,Portland Trail Blazers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,258,1,0,20140409,POR,SAC
-Shot Chart Detail,0021301228,140,2248,Earl Watson,1610612757,Portland Trail Blazers,2,10,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-3,1,0,20140416,POR,LAC
-Shot Chart Detail,0021301228,331,2248,Earl Watson,1610612757,Portland Trail Blazers,3,6,41,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,9,1,0,20140416,POR,LAC
-Shot Chart Detail,0021301228,359,2248,Earl Watson,1610612757,Portland Trail Blazers,3,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,11,1,0,20140416,POR,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300210,114,2248,Earl Watson,1610612757,Portland Trail Blazers,2,10,50,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,1,1,0,20131125,0,POR,NYK
+Shot Chart Detail,21300288,461,2248,Earl Watson,1610612757,Portland Trail Blazers,4,4,9,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,177,137,1,0,20131206,0,POR,UTA
+Shot Chart Detail,21300739,104,2248,Earl Watson,1610612757,Portland Trail Blazers,1,0,45,Made Shot,Floating Jump shot,,Mid-Range,Right Side(R),8-16 ft.,9,99,1,1,1,20140207,0,IND,POR
+Shot Chart Detail,21300752,109,2248,Earl Watson,1610612757,Portland Trail Blazers,1,2,33,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,226,83,1,0,20140208,0,MIN,POR
+Shot Chart Detail,21300752,127,2248,Earl Watson,1610612757,Portland Trail Blazers,1,1,0,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,138,1,1,20140208,1,MIN,POR
+Shot Chart Detail,21300861,454,2248,Earl Watson,1610612757,Portland Trail Blazers,4,0,13,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,4,1,1,20140226,1,POR,BKN
+Shot Chart Detail,21300977,429,2248,Earl Watson,1610612757,Portland Trail Blazers,4,7,9,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-155,197,1,0,20140314,0,NOP,POR
+Shot Chart Detail,21301172,109,2248,Earl Watson,1610612757,Portland Trail Blazers,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,23,258,1,0,20140409,0,POR,SAC
+Shot Chart Detail,21301228,140,2248,Earl Watson,1610612757,Portland Trail Blazers,2,10,8,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-3,1,0,20140416,0,POR,LAC
+Shot Chart Detail,21301228,331,2248,Earl Watson,1610612757,Portland Trail Blazers,3,6,41,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,9,1,0,20140416,0,POR,LAC
+Shot Chart Detail,21301228,359,2248,Earl Watson,1610612757,Portland Trail Blazers,3,3,42,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,11,1,0,20140416,0,POR,LAC

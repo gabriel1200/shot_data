@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000508,123,381,James Robinson,1610612753,Orlando Magic,2,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,115,219,1,0,20010111,NJN,ORL
-Shot Chart Detail,0020000508,314,381,James Robinson,1610612753,Orlando Magic,3,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-113,171,1,0,20010111,NJN,ORL
-Shot Chart Detail,0020000508,339,381,James Robinson,1610612753,Orlando Magic,3,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,28,1,0,20010111,NJN,ORL
-Shot Chart Detail,0020000508,350,381,James Robinson,1610612753,Orlando Magic,3,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,215,1,0,20010111,NJN,ORL
-Shot Chart Detail,0020000523,162,381,James Robinson,1610612753,Orlando Magic,2,7,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,213,1,0,20010113,ORL,GSW
-Shot Chart Detail,0020000523,411,381,James Robinson,1610612753,Orlando Magic,4,9,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,158,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000523,480,381,James Robinson,1610612753,Orlando Magic,4,2,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,47,158,1,0,20010113,ORL,GSW
-Shot Chart Detail,0020000523,495,381,James Robinson,1610612753,Orlando Magic,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,3,257,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000523,497,381,James Robinson,1610612753,Orlando Magic,4,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,1,20010113,ORL,GSW
-Shot Chart Detail,0020000561,131,381,James Robinson,1610612753,Orlando Magic,2,10,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010118,DAL,ORL
-Shot Chart Detail,0020000608,132,381,James Robinson,1610612753,Orlando Magic,2,11,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-98,97,1,0,20010125,MIN,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000508,123,381,James Robinson,1610612753,Orlando Magic,2,9,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,115,219,1,0,20010111,0,NJN,ORL
+Shot Chart Detail,20000508,314,381,James Robinson,1610612753,Orlando Magic,3,3,41,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-113,171,1,0,20010111,0,NJN,ORL
+Shot Chart Detail,20000508,339,381,James Robinson,1610612753,Orlando Magic,3,1,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,159,28,1,0,20010111,0,NJN,ORL
+Shot Chart Detail,20000508,350,381,James Robinson,1610612753,Orlando Magic,3,0,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,215,1,0,20010111,0,NJN,ORL
+Shot Chart Detail,20000523,162,381,James Robinson,1610612753,Orlando Magic,2,7,31,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,213,1,0,20010113,0,ORL,GSW
+Shot Chart Detail,20000523,411,381,James Robinson,1610612753,Orlando Magic,4,9,8,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,158,1,1,20010113,1,ORL,GSW
+Shot Chart Detail,20000523,480,381,James Robinson,1610612753,Orlando Magic,4,2,39,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,47,158,1,0,20010113,0,ORL,GSW
+Shot Chart Detail,20000523,495,381,James Robinson,1610612753,Orlando Magic,4,1,2,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,3,257,1,1,20010113,1,ORL,GSW
+Shot Chart Detail,20000523,497,381,James Robinson,1610612753,Orlando Magic,4,0,31,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,173,1,1,20010113,1,ORL,GSW
+Shot Chart Detail,20000561,131,381,James Robinson,1610612753,Orlando Magic,2,10,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010118,0,DAL,ORL
+Shot Chart Detail,20000608,132,381,James Robinson,1610612753,Orlando Magic,2,11,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-98,97,1,0,20010125,0,MIN,ORL

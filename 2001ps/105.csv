@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000003,123,105,Dan Majerle,1610612748,Miami Heat,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,177,1,1,20010421,MIA,CHH
-Shot Chart Detail,0040000003,360,105,Dan Majerle,1610612748,Miami Heat,4,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,160,1,0,20010421,MIA,CHH
-Shot Chart Detail,0040000009,50,105,Dan Majerle,1610612748,Miami Heat,1,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,171,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,60,105,Dan Majerle,1610612748,Miami Heat,1,5,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,39,236,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,126,105,Dan Majerle,1610612748,Miami Heat,2,10,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,112,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,137,105,Dan Majerle,1610612748,Miami Heat,2,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,24,243,1,1,20010423,MIA,CHH
-Shot Chart Detail,0040000009,156,105,Dan Majerle,1610612748,Miami Heat,2,6,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,28,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,183,105,Dan Majerle,1610612748,Miami Heat,2,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-151,188,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,218,105,Dan Majerle,1610612748,Miami Heat,2,0,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010423,MIA,CHH
-Shot Chart Detail,0040000009,238,105,Dan Majerle,1610612748,Miami Heat,3,9,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,242,105,Dan Majerle,1610612748,Miami Heat,3,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,191,150,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000017,208,105,Dan Majerle,1610612748,Miami Heat,2,0,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-221,160,1,0,20010427,CHH,MIA
-Shot Chart Detail,0040000017,280,105,Dan Majerle,1610612748,Miami Heat,3,4,8,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010427,CHH,MIA
-Shot Chart Detail,0040000017,371,105,Dan Majerle,1610612748,Miami Heat,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,181,1,1,20010427,CHH,MIA
-Shot Chart Detail,0040000017,375,105,Dan Majerle,1610612748,Miami Heat,4,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,230,1,1,20010427,CHH,MIA
-Shot Chart Detail,0040000017,392,105,Dan Majerle,1610612748,Miami Heat,4,6,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-119,257,1,0,20010427,CHH,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000003,123,105,Dan Majerle,1610612748,Miami Heat,2,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,177,1,1,20010421,1,MIA,CHH
+Shot Chart Detail,40000003,360,105,Dan Majerle,1610612748,Miami Heat,4,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-187,160,1,0,20010421,0,MIA,CHH
+Shot Chart Detail,40000009,50,105,Dan Majerle,1610612748,Miami Heat,1,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,167,171,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,60,105,Dan Majerle,1610612748,Miami Heat,1,5,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,39,236,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,126,105,Dan Majerle,1610612748,Miami Heat,2,10,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,112,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,137,105,Dan Majerle,1610612748,Miami Heat,2,9,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,24,243,1,1,20010423,1,MIA,CHH
+Shot Chart Detail,40000009,156,105,Dan Majerle,1610612748,Miami Heat,2,6,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,28,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,183,105,Dan Majerle,1610612748,Miami Heat,2,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-151,188,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,218,105,Dan Majerle,1610612748,Miami Heat,2,0,15,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,238,105,Dan Majerle,1610612748,Miami Heat,3,9,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,7,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,242,105,Dan Majerle,1610612748,Miami Heat,3,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,191,150,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000017,208,105,Dan Majerle,1610612748,Miami Heat,2,0,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-221,160,1,0,20010427,0,CHH,MIA
+Shot Chart Detail,40000017,280,105,Dan Majerle,1610612748,Miami Heat,3,4,8,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010427,0,CHH,MIA
+Shot Chart Detail,40000017,371,105,Dan Majerle,1610612748,Miami Heat,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,181,1,1,20010427,1,CHH,MIA
+Shot Chart Detail,40000017,375,105,Dan Majerle,1610612748,Miami Heat,4,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,230,1,1,20010427,0,CHH,MIA
+Shot Chart Detail,40000017,392,105,Dan Majerle,1610612748,Miami Heat,4,6,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-119,257,1,0,20010427,0,CHH,MIA

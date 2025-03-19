@@ -1,5 +1,5 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000530,462,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,4,0,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,9,1,1,20010113,VAN,CLE
-Shot Chart Detail,0020000530,469,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,4,0,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,2,1,1,20010113,VAN,CLE
-Shot Chart Detail,0020000602,210,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,2,2,16,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,0,20010124,CLE,CHI
-Shot Chart Detail,0020000621,332,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,3,3,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,0,20010127,CLE,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000530,462,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,4,0,30,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,9,1,1,20010113,0,VAN,CLE
+Shot Chart Detail,20000530,469,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,4,0,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,2,1,1,20010113,0,VAN,CLE
+Shot Chart Detail,20000602,210,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,2,2,16,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,0,20010124,0,CLE,CHI
+Shot Chart Detail,20000621,332,1564,Etdrick Bohannon,1610612739,Cleveland Cavaliers,3,3,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,0,20010127,0,CLE,ATL

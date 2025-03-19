@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500151,342,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,129,1,0,20160417,SAS,MEM
-Shot Chart Detail,0041500151,354,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,10,26,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,128,36,1,1,20160417,SAS,MEM
-Shot Chart Detail,0041500151,390,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,5,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-11,1,1,20160417,SAS,MEM
-Shot Chart Detail,0041500151,426,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,0,27,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,257,1,0,20160417,SAS,MEM
-Shot Chart Detail,0041500152,426,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,9,39,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,0,20160419,SAS,MEM
-Shot Chart Detail,0041500152,483,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,3,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,13,1,0,20160419,SAS,MEM
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500151,342,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,11,29,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,129,1,0,20160417,0,SAS,MEM
+Shot Chart Detail,41500151,354,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,10,26,Made Shot,Jump Bank Shot,,Mid-Range,Right Side(R),8-16 ft.,13,128,36,1,1,20160417,1,SAS,MEM
+Shot Chart Detail,41500151,390,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,5,46,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,-11,1,1,20160417,1,SAS,MEM
+Shot Chart Detail,41500151,426,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,0,27,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-9,257,1,0,20160417,0,SAS,MEM
+Shot Chart Detail,41500152,426,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,9,39,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,0,20160419,0,SAS,MEM
+Shot Chart Detail,41500152,483,203798,PJ Hairston,1610612763,Memphis Grizzlies,4,3,59,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,13,1,0,20160419,0,SAS,MEM

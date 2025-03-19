@@ -1,213 +1,107 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021700034,85,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,0,20171021,MIL,POR
-Shot Chart Detail,0021700034,617,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,69,1,0,20171021,MIL,POR
-Shot Chart Detail,0021700044,115,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,188,42,1,1,20171023,MIL,CHA
-Shot Chart Detail,0021700044,415,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,3,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20171023,MIL,CHA
-Shot Chart Detail,0021700044,424,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,2,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20171023,MIL,CHA
-Shot Chart Detail,0021700044,480,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,10,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,246,1,0,20171023,MIL,CHA
-Shot Chart Detail,0021700103,589,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-3,1,1,20171031,MIL,OKC
-Shot Chart Detail,0021700103,590,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,155,1,1,20171031,MIL,OKC
-Shot Chart Detail,0021700105,135,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20171101,CHA,MIL
-Shot Chart Detail,0021700105,160,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,22,1,0,20171101,CHA,MIL
-Shot Chart Detail,0021700105,162,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,151,1,1,20171101,CHA,MIL
-Shot Chart Detail,0021700119,239,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,3,26,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,57,144,552,1,0,20171103,DET,MIL
-Shot Chart Detail,0021700149,505,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,0,20171107,CLE,MIL
-Shot Chart Detail,0021700173,197,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,8,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-20,1,1,20171110,SAS,MIL
-Shot Chart Detail,0021700173,211,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,14,1,0,20171110,SAS,MIL
-Shot Chart Detail,0021700182,147,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,153,1,1,20171111,MIL,LAL
-Shot Chart Detail,0021700182,202,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,206,1,1,20171111,MIL,LAL
-Shot Chart Detail,0021700182,540,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,158,1,0,20171111,MIL,LAL
-Shot Chart Detail,0021700182,651,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,0,53,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,56,1,0,20171111,MIL,LAL
-Shot Chart Detail,0021700194,227,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20171113,MIL,MEM
-Shot Chart Detail,0021700194,417,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,3,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,17,1,0,20171113,MIL,MEM
-Shot Chart Detail,0021700194,444,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,2,12,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,0,20171113,MIL,MEM
-Shot Chart Detail,0021700194,470,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,130,1,1,20171113,MIL,MEM
-Shot Chart Detail,0021700209,68,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,5,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,23,1,0,20171115,MIL,DET
-Shot Chart Detail,0021700209,71,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,231,1,0,20171115,MIL,DET
-Shot Chart Detail,0021700233,87,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-49,237,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700233,154,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,0,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,35,1,1,20171118,DAL,MIL
-Shot Chart Detail,0021700233,497,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700233,592,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,185,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700233,610,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,2,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,59,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700247,120,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,42,1,1,20171120,MIL,WAS
-Shot Chart Detail,0021700247,123,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,34,1,0,20171120,MIL,WAS
-Shot Chart Detail,0021700247,144,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,24,258,1,0,20171120,MIL,WAS
-Shot Chart Detail,0021700247,150,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,49,1,1,20171120,MIL,WAS
-Shot Chart Detail,0021700247,441,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,183,3,1,0,20171120,MIL,WAS
-Shot Chart Detail,0021700264,401,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,8,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-20,1,0,20171122,PHX,MIL
-Shot Chart Detail,0021700264,735,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,5,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-193,197,1,0,20171122,PHX,MIL
-Shot Chart Detail,0021700264,745,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,5,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-199,105,1,1,20171122,PHX,MIL
-Shot Chart Detail,0021700302,81,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,21,1,0,20171128,SAC,MIL
-Shot Chart Detail,0021700302,579,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,59,1,1,20171128,SAC,MIL
-Shot Chart Detail,0021700316,145,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-105,194,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700316,245,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,4,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,167,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700316,450,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,206,1,1,20171130,POR,MIL
-Shot Chart Detail,0021700316,472,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700316,508,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,256,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700331,191,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,0,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,48,1,0,20171202,MIL,SAC
-Shot Chart Detail,0021700331,195,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,8,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,26,1,0,20171202,MIL,SAC
-Shot Chart Detail,0021700343,164,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,2,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,27,1,0,20171204,BOS,MIL
-Shot Chart Detail,0021700359,159,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,10,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,0,20171206,MIL,DET
-Shot Chart Detail,0021700359,214,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,33,1,0,20171206,MIL,DET
-Shot Chart Detail,0021700359,507,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,7,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20171206,MIL,DET
-Shot Chart Detail,0021700372,143,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,41,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20171208,MIL,DAL
-Shot Chart Detail,0021700372,472,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-4,1,0,20171208,MIL,DAL
-Shot Chart Detail,0021700381,533,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-77,185,1,0,20171209,MIL,UTA
-Shot Chart Detail,0021700410,190,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-74,204,1,1,20171213,NOP,MIL
-Shot Chart Detail,0021700410,273,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-8,253,1,1,20171213,NOP,MIL
-Shot Chart Detail,0021700410,522,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,211,4,1,1,20171213,NOP,MIL
-Shot Chart Detail,0021700410,529,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,7,26,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,65,176,1,0,20171213,NOP,MIL
-Shot Chart Detail,0021700433,74,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,6,14,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,0,20171216,HOU,MIL
-Shot Chart Detail,0021700453,180,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,10,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,33,1,0,20171219,MIL,CLE
-Shot Chart Detail,0021700453,438,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,61,1,0,20171219,MIL,CLE
-Shot Chart Detail,0021700481,97,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-5,1,0,20171223,CHA,MIL
-Shot Chart Detail,0021700481,143,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,0,20171223,CHA,MIL
-Shot Chart Detail,0021700501,107,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-11,1,1,20171226,MIL,CHI
-Shot Chart Detail,0021700501,283,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,2,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,18,1,0,20171226,MIL,CHI
-Shot Chart Detail,0021700609,184,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-100,205,1,0,20180110,MEM,NOP
-Shot Chart Detail,0021700609,223,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,7,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180110,MEM,NOP
-Shot Chart Detail,0021700609,557,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,81,201,1,1,20180110,MEM,NOP
-Shot Chart Detail,0021700720,204,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20180126,NOP,HOU
-Shot Chart Detail,0021700720,489,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,213,1,1,20180126,NOP,HOU
-Shot Chart Detail,0021700720,567,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,6,43,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,75,1,1,20180126,NOP,HOU
-Shot Chart Detail,0021700733,165,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20180128,NOP,LAC
-Shot Chart Detail,0021700733,436,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,2,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,0,20180128,NOP,LAC
-Shot Chart Detail,0021700733,521,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,104,1,1,20180128,NOP,LAC
-Shot Chart Detail,0021700793,466,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,0,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,4,1,1,20180205,NOP,UTA
-Shot Chart Detail,0021700793,496,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,10,37,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20180205,NOP,UTA
-Shot Chart Detail,0021700818,360,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,9,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,43,1,0,20180209,PHI,NOP
-Shot Chart Detail,0021700818,619,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,216,1,0,20180209,PHI,NOP
-Shot Chart Detail,0021700826,416,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,3,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,0,20180210,BKN,NOP
-Shot Chart Detail,0021700841,305,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,1,20180212,DET,NOP
-Shot Chart Detail,0021700862,674,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,255,1,1,20180214,NOP,LAL
-Shot Chart Detail,0021700862,681,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,6,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,49,163,1,0,20180214,NOP,LAL
-Shot Chart Detail,0021700902,170,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-35,242,1,1,20180226,NOP,PHX
-Shot Chart Detail,0021700969,458,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,206,94,1,1,20180307,SAC,NOP
-Shot Chart Detail,0021700982,484,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,10,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700982,503,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,8,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,252,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700982,507,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,8,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,119,204,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700982,521,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,6,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-25,1,0,20180309,NOP,WAS
-Shot Chart Detail,0021700982,578,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,56,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,51,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700995,222,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,8,43,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,0,20180311,NOP,UTA
-Shot Chart Detail,0021701025,457,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,3,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-3,1,0,20180315,SAS,NOP
-Shot Chart Detail,0021701025,520,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,11,2,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-177,96,1,0,20180315,SAS,NOP
-Shot Chart Detail,0021701036,42,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-4,1,1,20180317,NOP,HOU
-Shot Chart Detail,0021701036,73,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,1,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,35,148,1,0,20180317,NOP,HOU
-Shot Chart Detail,0021701036,338,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,8,37,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,143,1,0,20180317,NOP,HOU
-Shot Chart Detail,0021701036,342,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,7,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,45,1,0,20180317,NOP,HOU
-Shot Chart Detail,0021701047,640,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,8,1,0,20180318,NOP,BOS
-Shot Chart Detail,0021701091,261,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,130,177,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701091,340,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,10,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701091,560,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,15,207,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701091,604,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-5,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701173,661,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,55,1,0,20180404,NOP,MEM
-Shot Chart Detail,0021701189,231,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,6,51,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,63,1,0,20180406,PHX,NOP
-Shot Chart Detail,0021701189,691,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20180406,PHX,NOP
-Shot Chart Detail,0021701212,639,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,34,1,0,20180409,LAC,NOP
-Shot Chart Detail,0021701212,652,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20180409,LAC,NOP
-Shot Chart Detail,0021700034,85,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,0,20171021,MIL,POR
-Shot Chart Detail,0021700034,617,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,69,1,0,20171021,MIL,POR
-Shot Chart Detail,0021700044,115,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,188,42,1,1,20171023,MIL,CHA
-Shot Chart Detail,0021700044,415,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,3,2,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20171023,MIL,CHA
-Shot Chart Detail,0021700044,424,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,2,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20171023,MIL,CHA
-Shot Chart Detail,0021700044,480,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,10,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,246,1,0,20171023,MIL,CHA
-Shot Chart Detail,0021700103,589,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,2,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,-3,1,1,20171031,MIL,OKC
-Shot Chart Detail,0021700103,590,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,155,1,1,20171031,MIL,OKC
-Shot Chart Detail,0021700105,135,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20171101,CHA,MIL
-Shot Chart Detail,0021700105,160,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,22,1,0,20171101,CHA,MIL
-Shot Chart Detail,0021700105,162,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,151,1,1,20171101,CHA,MIL
-Shot Chart Detail,0021700119,239,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,3,26,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,57,144,552,1,0,20171103,DET,MIL
-Shot Chart Detail,0021700149,505,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,0,20171107,CLE,MIL
-Shot Chart Detail,0021700173,197,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,8,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-20,1,1,20171110,SAS,MIL
-Shot Chart Detail,0021700173,211,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,14,1,0,20171110,SAS,MIL
-Shot Chart Detail,0021700182,147,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,153,1,1,20171111,MIL,LAL
-Shot Chart Detail,0021700182,202,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,206,1,1,20171111,MIL,LAL
-Shot Chart Detail,0021700182,540,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,158,1,0,20171111,MIL,LAL
-Shot Chart Detail,0021700182,651,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,0,53,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,56,1,0,20171111,MIL,LAL
-Shot Chart Detail,0021700194,227,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20171113,MIL,MEM
-Shot Chart Detail,0021700194,417,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,3,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,17,1,0,20171113,MIL,MEM
-Shot Chart Detail,0021700194,444,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,2,12,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,0,20171113,MIL,MEM
-Shot Chart Detail,0021700194,470,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,130,1,1,20171113,MIL,MEM
-Shot Chart Detail,0021700209,68,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,5,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,23,1,0,20171115,MIL,DET
-Shot Chart Detail,0021700209,71,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,231,1,0,20171115,MIL,DET
-Shot Chart Detail,0021700233,87,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-49,237,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700233,154,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,0,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,35,1,1,20171118,DAL,MIL
-Shot Chart Detail,0021700233,497,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700233,592,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,185,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700233,610,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,2,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,59,1,0,20171118,DAL,MIL
-Shot Chart Detail,0021700247,120,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,42,1,1,20171120,MIL,WAS
-Shot Chart Detail,0021700247,123,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,34,1,0,20171120,MIL,WAS
-Shot Chart Detail,0021700247,144,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,24,258,1,0,20171120,MIL,WAS
-Shot Chart Detail,0021700247,150,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,49,1,1,20171120,MIL,WAS
-Shot Chart Detail,0021700247,441,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,183,3,1,0,20171120,MIL,WAS
-Shot Chart Detail,0021700264,401,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,8,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-20,1,0,20171122,PHX,MIL
-Shot Chart Detail,0021700264,735,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,5,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-193,197,1,0,20171122,PHX,MIL
-Shot Chart Detail,0021700264,745,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,5,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-199,105,1,1,20171122,PHX,MIL
-Shot Chart Detail,0021700302,81,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,21,1,0,20171128,SAC,MIL
-Shot Chart Detail,0021700302,579,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,44,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,59,1,1,20171128,SAC,MIL
-Shot Chart Detail,0021700316,145,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-105,194,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700316,245,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,4,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,167,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700316,450,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,10,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,206,1,1,20171130,POR,MIL
-Shot Chart Detail,0021700316,472,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700316,508,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,256,1,0,20171130,POR,MIL
-Shot Chart Detail,0021700331,191,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,0,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,48,1,0,20171202,MIL,SAC
-Shot Chart Detail,0021700331,195,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,8,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,26,1,0,20171202,MIL,SAC
-Shot Chart Detail,0021700343,164,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,2,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,27,1,0,20171204,BOS,MIL
-Shot Chart Detail,0021700359,159,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,10,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,0,20171206,MIL,DET
-Shot Chart Detail,0021700359,214,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,33,1,0,20171206,MIL,DET
-Shot Chart Detail,0021700359,507,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,7,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20171206,MIL,DET
-Shot Chart Detail,0021700372,143,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,41,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20171208,MIL,DAL
-Shot Chart Detail,0021700372,472,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-4,1,0,20171208,MIL,DAL
-Shot Chart Detail,0021700381,533,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-77,185,1,0,20171209,MIL,UTA
-Shot Chart Detail,0021700410,190,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-74,204,1,1,20171213,NOP,MIL
-Shot Chart Detail,0021700410,273,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,2,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-8,253,1,1,20171213,NOP,MIL
-Shot Chart Detail,0021700410,522,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,211,4,1,1,20171213,NOP,MIL
-Shot Chart Detail,0021700410,529,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,7,26,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,65,176,1,0,20171213,NOP,MIL
-Shot Chart Detail,0021700433,74,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,6,14,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,0,20171216,HOU,MIL
-Shot Chart Detail,0021700453,180,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,10,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,33,1,0,20171219,MIL,CLE
-Shot Chart Detail,0021700453,438,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,61,1,0,20171219,MIL,CLE
-Shot Chart Detail,0021700481,97,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-5,1,0,20171223,CHA,MIL
-Shot Chart Detail,0021700481,143,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,0,20171223,CHA,MIL
-Shot Chart Detail,0021700501,107,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,-11,1,1,20171226,MIL,CHI
-Shot Chart Detail,0021700501,283,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,2,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,18,1,0,20171226,MIL,CHI
-Shot Chart Detail,0021700609,184,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-100,205,1,0,20180110,MEM,NOP
-Shot Chart Detail,0021700609,223,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,7,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180110,MEM,NOP
-Shot Chart Detail,0021700609,557,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,81,201,1,1,20180110,MEM,NOP
-Shot Chart Detail,0021700720,204,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,7,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20180126,NOP,HOU
-Shot Chart Detail,0021700720,489,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,0,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,213,1,1,20180126,NOP,HOU
-Shot Chart Detail,0021700720,567,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,6,43,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,75,1,1,20180126,NOP,HOU
-Shot Chart Detail,0021700733,165,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20180128,NOP,LAC
-Shot Chart Detail,0021700733,436,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,2,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,0,20180128,NOP,LAC
-Shot Chart Detail,0021700733,521,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,7,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,104,1,1,20180128,NOP,LAC
-Shot Chart Detail,0021700793,466,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,0,31,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,4,1,1,20180205,NOP,UTA
-Shot Chart Detail,0021700793,496,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,10,37,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20180205,NOP,UTA
-Shot Chart Detail,0021700818,360,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,9,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,43,1,0,20180209,PHI,NOP
-Shot Chart Detail,0021700818,619,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,216,1,0,20180209,PHI,NOP
-Shot Chart Detail,0021700826,416,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,3,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,0,20180210,BKN,NOP
-Shot Chart Detail,0021700841,305,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,3,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,1,20180212,DET,NOP
-Shot Chart Detail,0021700862,674,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,255,1,1,20180214,NOP,LAL
-Shot Chart Detail,0021700862,681,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,6,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,49,163,1,0,20180214,NOP,LAL
-Shot Chart Detail,0021700902,170,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-35,242,1,1,20180226,NOP,PHX
-Shot Chart Detail,0021700969,458,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,206,94,1,1,20180307,SAC,NOP
-Shot Chart Detail,0021700982,484,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,10,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700982,503,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,8,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,252,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700982,507,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,8,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,119,204,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700982,521,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,6,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,-25,1,0,20180309,NOP,WAS
-Shot Chart Detail,0021700982,578,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,56,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,51,1,1,20180309,NOP,WAS
-Shot Chart Detail,0021700995,222,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,8,43,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,0,20180311,NOP,UTA
-Shot Chart Detail,0021701025,457,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,3,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-3,1,0,20180315,SAS,NOP
-Shot Chart Detail,0021701025,520,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,11,2,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-177,96,1,0,20180315,SAS,NOP
-Shot Chart Detail,0021701036,42,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,1,9,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-4,1,1,20180317,NOP,HOU
-Shot Chart Detail,0021701036,73,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,1,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,35,148,1,0,20180317,NOP,HOU
-Shot Chart Detail,0021701036,338,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,8,37,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,143,1,0,20180317,NOP,HOU
-Shot Chart Detail,0021701036,342,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,7,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,45,1,0,20180317,NOP,HOU
-Shot Chart Detail,0021701047,640,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,8,1,0,20180318,NOP,BOS
-Shot Chart Detail,0021701091,261,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,4,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,130,177,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701091,340,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,10,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701091,560,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,5,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,15,207,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701091,604,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-5,1,0,20180324,HOU,NOP
-Shot Chart Detail,0021701173,661,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,55,1,0,20180404,NOP,MEM
-Shot Chart Detail,0021701189,231,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,6,51,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,63,1,0,20180406,PHX,NOP
-Shot Chart Detail,0021701189,691,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20180406,PHX,NOP
-Shot Chart Detail,0021701212,639,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,2,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,34,1,0,20180409,LAC,NOP
-Shot Chart Detail,0021701212,652,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20180409,LAC,NOP
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21700034,85,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,10,1,0,20171021,0,MIL,POR
+Shot Chart Detail,21700034,617,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,36,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,69,1,0,20171021,0,MIL,POR
+Shot Chart Detail,21700044,115,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,3,42,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,188,42,1,1,20171023,1,MIL,CHA
+Shot Chart Detail,21700044,415,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,3,2,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20171023,1,MIL,CHA
+Shot Chart Detail,21700044,424,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,2,44,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20171023,0,MIL,CHA
+Shot Chart Detail,21700044,480,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,10,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,109,246,1,0,20171023,0,MIL,CHA
+Shot Chart Detail,21700103,589,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,2,1,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,14,-3,1,1,20171031,0,MIL,OKC
+Shot Chart Detail,21700103,590,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,1,21,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,155,1,1,20171031,1,MIL,OKC
+Shot Chart Detail,21700105,135,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,0,20171101,0,CHA,MIL
+Shot Chart Detail,21700105,160,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,22,1,0,20171101,0,CHA,MIL
+Shot Chart Detail,21700105,162,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,151,1,1,20171101,1,CHA,MIL
+Shot Chart Detail,21700119,239,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,3,26,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,57,144,552,1,0,20171103,0,DET,MIL
+Shot Chart Detail,21700149,505,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,25,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,0,20171107,0,CLE,MIL
+Shot Chart Detail,21700173,197,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,8,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-20,1,1,20171110,1,SAS,MIL
+Shot Chart Detail,21700173,211,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,14,1,0,20171110,0,SAS,MIL
+Shot Chart Detail,21700182,147,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,31,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,153,1,1,20171111,1,MIL,LAL
+Shot Chart Detail,21700182,202,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,26,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,206,1,1,20171111,1,MIL,LAL
+Shot Chart Detail,21700182,540,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,18,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,158,1,0,20171111,0,MIL,LAL
+Shot Chart Detail,21700182,651,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,0,53,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,56,1,0,20171111,0,MIL,LAL
+Shot Chart Detail,21700194,227,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,50,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,27,1,1,20171113,1,MIL,MEM
+Shot Chart Detail,21700194,417,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,3,56,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,17,1,0,20171113,0,MIL,MEM
+Shot Chart Detail,21700194,444,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,2,12,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,0,20171113,0,MIL,MEM
+Shot Chart Detail,21700194,470,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,7,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,130,1,1,20171113,1,MIL,MEM
+Shot Chart Detail,21700209,68,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,5,50,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,23,1,0,20171115,0,MIL,DET
+Shot Chart Detail,21700209,71,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,5,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,231,1,0,20171115,0,MIL,DET
+Shot Chart Detail,21700233,87,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,21,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-49,237,1,0,20171118,0,DAL,MIL
+Shot Chart Detail,21700233,154,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,0,Made Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,35,1,1,20171118,1,DAL,MIL
+Shot Chart Detail,21700233,497,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,0,20171118,0,DAL,MIL
+Shot Chart Detail,21700233,592,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,27,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,185,1,0,20171118,0,DAL,MIL
+Shot Chart Detail,21700233,610,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,2,46,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,223,59,1,0,20171118,0,DAL,MIL
+Shot Chart Detail,21700247,120,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,55,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,42,1,1,20171120,1,MIL,WAS
+Shot Chart Detail,21700247,123,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,1,10,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,9,34,1,0,20171120,0,MIL,WAS
+Shot Chart Detail,21700247,144,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,44,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,24,258,1,0,20171120,0,MIL,WAS
+Shot Chart Detail,21700247,150,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,6,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,49,1,1,20171120,0,MIL,WAS
+Shot Chart Detail,21700247,441,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,9,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,183,3,1,0,20171120,0,MIL,WAS
+Shot Chart Detail,21700264,401,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,8,8,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-20,1,0,20171122,0,PHX,MIL
+Shot Chart Detail,21700264,735,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,5,2,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-193,197,1,0,20171122,0,PHX,MIL
+Shot Chart Detail,21700264,745,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,5,1,28,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,22,-199,105,1,1,20171122,1,PHX,MIL
+Shot Chart Detail,21700302,81,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,29,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,21,1,0,20171128,0,SAC,MIL
+Shot Chart Detail,21700302,579,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,3,44,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,59,1,1,20171128,0,SAC,MIL
+Shot Chart Detail,21700316,145,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,40,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-105,194,1,0,20171130,0,POR,MIL
+Shot Chart Detail,21700316,245,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,4,18,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-180,167,1,0,20171130,0,POR,MIL
+Shot Chart Detail,21700316,450,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,10,31,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,206,1,1,20171130,1,POR,MIL
+Shot Chart Detail,21700316,472,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,37,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,0,20171130,0,POR,MIL
+Shot Chart Detail,21700316,508,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,4,46,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-9,256,1,0,20171130,0,POR,MIL
+Shot Chart Detail,21700331,191,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,0,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,48,1,0,20171202,0,MIL,SAC
+Shot Chart Detail,21700331,195,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,8,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,8,26,1,0,20171202,0,MIL,SAC
+Shot Chart Detail,21700343,164,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,11,2,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,27,1,0,20171204,0,BOS,MIL
+Shot Chart Detail,21700359,159,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,10,28,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,0,20171206,0,MIL,DET
+Shot Chart Detail,21700359,214,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,6,38,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,223,33,1,0,20171206,0,MIL,DET
+Shot Chart Detail,21700359,507,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,7,44,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20171206,0,MIL,DET
+Shot Chart Detail,21700372,143,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,41,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20171208,1,MIL,DAL
+Shot Chart Detail,21700372,472,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,147,-4,1,0,20171208,0,MIL,DAL
+Shot Chart Detail,21700381,533,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,48,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-77,185,1,0,20171209,0,MIL,UTA
+Shot Chart Detail,21700410,190,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,9,19,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-74,204,1,1,20171213,0,NOP,MIL
+Shot Chart Detail,21700410,273,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,2,36,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-8,253,1,1,20171213,1,NOP,MIL
+Shot Chart Detail,21700410,522,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,8,31,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,211,4,1,1,20171213,1,NOP,MIL
+Shot Chart Detail,21700410,529,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,4,7,26,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,65,176,1,0,20171213,0,NOP,MIL
+Shot Chart Detail,21700433,74,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,6,14,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,0,20171216,0,HOU,MIL
+Shot Chart Detail,21700453,180,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,10,15,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,33,1,0,20171219,0,MIL,CLE
+Shot Chart Detail,21700453,438,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,3,0,3,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,226,61,1,0,20171219,0,MIL,CLE
+Shot Chart Detail,21700481,97,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,4,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-226,-5,1,0,20171223,0,CHA,MIL
+Shot Chart Detail,21700481,143,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,0,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,0,20171223,0,CHA,MIL
+Shot Chart Detail,21700501,107,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,1,3,3,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,-11,1,1,20171226,1,MIL,CHI
+Shot Chart Detail,21700501,283,202732,DeAndre Liggins,1610612749,Milwaukee Bucks,2,2,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,18,1,0,20171226,0,MIL,CHI
+Shot Chart Detail,21700609,184,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,10,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-100,205,1,0,20180110,0,MEM,NOP
+Shot Chart Detail,21700609,223,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,7,52,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180110,0,MEM,NOP
+Shot Chart Detail,21700609,557,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,11,16,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,81,201,1,1,20180110,0,MEM,NOP
+Shot Chart Detail,21700720,204,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,7,55,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,4,1,1,20180126,1,NOP,HOU
+Shot Chart Detail,21700720,489,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,0,16,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,213,1,1,20180126,1,NOP,HOU
+Shot Chart Detail,21700720,567,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,6,43,Made Shot,Pullup Jump shot,,Right Corner 3,Right Side(R),24+ ft.,24,229,75,1,1,20180126,1,NOP,HOU
+Shot Chart Detail,21700733,165,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,11,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20180128,0,NOP,LAC
+Shot Chart Detail,21700733,436,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,2,15,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,0,1,0,20180128,0,NOP,LAC
+Shot Chart Detail,21700733,521,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,7,47,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,104,1,1,20180128,1,NOP,LAC
+Shot Chart Detail,21700793,466,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,0,31,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,14,4,1,1,20180205,0,NOP,UTA
+Shot Chart Detail,21700793,496,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,10,37,Made Shot,Floating Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20180205,0,NOP,UTA
+Shot Chart Detail,21700818,360,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,9,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,226,43,1,0,20180209,0,PHI,NOP
+Shot Chart Detail,21700818,619,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,24,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,128,216,1,0,20180209,0,PHI,NOP
+Shot Chart Detail,21700826,416,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,3,28,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,0,20180210,0,BKN,NOP
+Shot Chart Detail,21700841,305,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,3,5,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,1,20180212,0,DET,NOP
+Shot Chart Detail,21700862,674,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,2,11,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-20,255,1,1,20180214,1,NOP,LAL
+Shot Chart Detail,21700862,681,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,6,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,49,163,1,0,20180214,0,NOP,LAL
+Shot Chart Detail,21700902,170,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,10,54,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-35,242,1,1,20180226,1,NOP,PHX
+Shot Chart Detail,21700969,458,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,1,13,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,22,206,94,1,1,20180307,1,SAC,NOP
+Shot Chart Detail,21700982,484,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,10,19,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,1,20180309,1,NOP,WAS
+Shot Chart Detail,21700982,503,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,8,29,Made Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,252,1,1,20180309,1,NOP,WAS
+Shot Chart Detail,21700982,507,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,8,6,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,23,119,204,1,1,20180309,0,NOP,WAS
+Shot Chart Detail,21700982,521,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,6,46,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,158,-25,1,0,20180309,0,NOP,WAS
+Shot Chart Detail,21700982,578,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,56,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,51,1,1,20180309,0,NOP,WAS
+Shot Chart Detail,21700995,222,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,8,43,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,0,20180311,0,NOP,UTA
+Shot Chart Detail,21701025,457,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,3,59,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,27,-3,1,0,20180315,0,SAS,NOP
+Shot Chart Detail,21701025,520,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,11,2,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),16-24 ft.,20,-177,96,1,0,20180315,0,SAS,NOP
+Shot Chart Detail,21701036,42,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,1,9,13,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,-4,1,1,20180317,1,NOP,HOU
+Shot Chart Detail,21701036,73,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,1,6,35,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,35,148,1,0,20180317,0,NOP,HOU
+Shot Chart Detail,21701036,338,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,8,37,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,143,1,0,20180317,0,NOP,HOU
+Shot Chart Detail,21701036,342,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,7,51,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,45,1,0,20180317,0,NOP,HOU
+Shot Chart Detail,21701047,640,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,54,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,8,1,0,20180318,0,NOP,BOS
+Shot Chart Detail,21701091,261,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,4,16,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,130,177,1,0,20180324,0,HOU,NOP
+Shot Chart Detail,21701091,340,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,3,10,16,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,-6,1,0,20180324,0,HOU,NOP
+Shot Chart Detail,21701091,560,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,5,17,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,15,207,1,0,20180324,0,HOU,NOP
+Shot Chart Detail,21701091,604,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,52,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,-5,1,0,20180324,0,HOU,NOP
+Shot Chart Detail,21701173,661,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,0,35,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,228,55,1,0,20180404,0,NOP,MEM
+Shot Chart Detail,21701189,231,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,2,6,51,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,36,63,1,0,20180406,0,PHX,NOP
+Shot Chart Detail,21701189,691,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,11,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20180406,0,PHX,NOP
+Shot Chart Detail,21701212,639,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,2,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,16,34,1,0,20180409,0,LAC,NOP
+Shot Chart Detail,21701212,652,202732,DeAndre Liggins,1610612740,New Orleans Pelicans,4,1,21,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20180409,0,LAC,NOP

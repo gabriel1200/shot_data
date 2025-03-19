@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040400141,144,962,Walter McCarty,1610612756,Phoenix Suns,2,6,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,1,20050424,PHX,MEM
-Shot Chart Detail,0040400221,133,962,Walter McCarty,1610612756,Phoenix Suns,2,9,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20050509,PHX,DAL
-Shot Chart Detail,0040400221,160,962,Walter McCarty,1610612756,Phoenix Suns,2,6,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,191,1,0,20050509,PHX,DAL
-Shot Chart Detail,0040400221,492,962,Walter McCarty,1610612756,Phoenix Suns,4,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,237,1,0,20050509,PHX,DAL
-Shot Chart Detail,0040400222,238,962,Walter McCarty,1610612756,Phoenix Suns,2,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050511,PHX,DAL
-Shot Chart Detail,0040400223,222,962,Walter McCarty,1610612756,Phoenix Suns,2,3,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,168,1,0,20050513,DAL,PHX
-Shot Chart Detail,0040400224,133,962,Walter McCarty,1610612756,Phoenix Suns,2,9,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,224,1,0,20050515,DAL,PHX
-Shot Chart Detail,0040400225,403,962,Walter McCarty,1610612756,Phoenix Suns,4,7,48,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,0,20050518,PHX,DAL
-Shot Chart Detail,0040400225,432,962,Walter McCarty,1610612756,Phoenix Suns,4,5,45,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050518,PHX,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40400141,144,962,Walter McCarty,1610612756,Phoenix Suns,2,6,43,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,1,20050424,1,PHX,MEM
+Shot Chart Detail,40400221,133,962,Walter McCarty,1610612756,Phoenix Suns,2,9,19,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,0,1,1,20050509,1,PHX,DAL
+Shot Chart Detail,40400221,160,962,Walter McCarty,1610612756,Phoenix Suns,2,6,48,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,191,1,0,20050509,0,PHX,DAL
+Shot Chart Detail,40400221,492,962,Walter McCarty,1610612756,Phoenix Suns,4,0,25,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,237,1,0,20050509,0,PHX,DAL
+Shot Chart Detail,40400222,238,962,Walter McCarty,1610612756,Phoenix Suns,2,0,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050511,0,PHX,DAL
+Shot Chart Detail,40400223,222,962,Walter McCarty,1610612756,Phoenix Suns,2,3,48,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,168,1,0,20050513,0,DAL,PHX
+Shot Chart Detail,40400224,133,962,Walter McCarty,1610612756,Phoenix Suns,2,9,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,224,1,0,20050515,0,DAL,PHX
+Shot Chart Detail,40400225,403,962,Walter McCarty,1610612756,Phoenix Suns,4,7,48,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,29,61,1,0,20050518,0,PHX,DAL
+Shot Chart Detail,40400225,432,962,Walter McCarty,1610612756,Phoenix Suns,4,5,45,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050518,0,PHX,DAL

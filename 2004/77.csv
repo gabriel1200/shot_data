@@ -1,491 +1,246 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020300007,380,77,Doug Overton,1610612751,New Jersey Nets,4,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,138,1,1,20031029,TOR,NJN
-Shot Chart Detail,0020300027,390,77,Doug Overton,1610612751,New Jersey Nets,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,155,1,0,20031101,WAS,NJN
-Shot Chart Detail,0020300027,458,77,Doug Overton,1610612751,New Jersey Nets,4,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-197,-37,1,1,20031101,WAS,NJN
-Shot Chart Detail,0020300027,471,77,Doug Overton,1610612751,New Jersey Nets,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,43,1,0,20031101,WAS,NJN
-Shot Chart Detail,0020300066,81,77,Doug Overton,1610612751,New Jersey Nets,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,13,1,0,20031107,BOS,NJN
-Shot Chart Detail,0020300066,92,77,Doug Overton,1610612751,New Jersey Nets,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,69,1,0,20031107,BOS,NJN
-Shot Chart Detail,0020300104,427,77,Doug Overton,1610612751,New Jersey Nets,4,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-159,127,1,1,20031112,NJN,SAS
-Shot Chart Detail,0020300104,435,77,Doug Overton,1610612751,New Jersey Nets,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,107,173,1,0,20031112,NJN,SAS
-Shot Chart Detail,0020300179,401,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031122,MIN,LAC
-Shot Chart Detail,0020300179,416,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,41,1,0,20031122,MIN,LAC
-Shot Chart Detail,0020300191,126,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,161,1,1,20031124,LAC,HOU
-Shot Chart Detail,0020300191,132,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,13,1,0,20031124,LAC,HOU
-Shot Chart Detail,0020300191,182,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,26,1,0,20031124,LAC,HOU
-Shot Chart Detail,0020300191,220,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,8,1,1,20031124,LAC,HOU
-Shot Chart Detail,0020300191,483,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-16,212,1,1,20031124,LAC,HOU
-Shot Chart Detail,0020300191,533,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,145,1,0,20031124,LAC,HOU
-Shot Chart Detail,0020300210,134,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,139,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,260,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300210,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300210,184,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,90,163,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,421,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,427,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,17,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,441,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,484,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300210,512,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-8,130,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300231,54,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,141,1,0,20031129,LAC,DEN
-Shot Chart Detail,0020300231,104,77,Doug Overton,1610612746,Los Angeles Clippers,1,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,135,1,0,20031129,LAC,DEN
-Shot Chart Detail,0020300231,330,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,LAC,DEN
-Shot Chart Detail,0020300240,28,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,137,1,1,20031201,LAC,SAS
-Shot Chart Detail,0020300240,34,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-13,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,51,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,125,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,306,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,319,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-1,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,328,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300255,123,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,13,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,152,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,114,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-18,125,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,224,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,356,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,-3,1,1,20031203,LAC,CLE
-Shot Chart Detail,0020300255,362,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,383,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,153,1,1,20031203,LAC,CLE
-Shot Chart Detail,0020300267,4,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031205,UTA,LAC
-Shot Chart Detail,0020300267,70,77,Doug Overton,1610612746,Los Angeles Clippers,1,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,28,199,1,1,20031205,UTA,LAC
-Shot Chart Detail,0020300267,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,-14,1,0,20031205,UTA,LAC
-Shot Chart Detail,0020300267,320,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,0,20031205,UTA,LAC
-Shot Chart Detail,0020300279,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,38,181,1,0,20031207,LAC,MIN
-Shot Chart Detail,0020300279,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-9,1,0,20031207,LAC,MIN
-Shot Chart Detail,0020300279,394,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031207,LAC,MIN
-Shot Chart Detail,0020300297,160,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031209,SAC,LAC
-Shot Chart Detail,0020300297,162,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,8,1,1,20031209,SAC,LAC
-Shot Chart Detail,0020300297,166,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,-5,1,0,20031209,SAC,LAC
-Shot Chart Detail,0020300305,86,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,31,1,0,20031210,LAC,DAL
-Shot Chart Detail,0020300305,354,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,71,164,1,0,20031210,LAC,DAL
-Shot Chart Detail,0020300327,172,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,183,1,1,20031213,LAC,PHX
-Shot Chart Detail,0020300327,204,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,26,1,0,20031213,LAC,PHX
-Shot Chart Detail,0020300327,408,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,105,1,0,20031213,LAC,PHX
-Shot Chart Detail,0020300337,123,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-36,140,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,178,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-99,49,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,195,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,64,153,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,238,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,30,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,338,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,104,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,412,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,140,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,415,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,436,77,Doug Overton,1610612746,Los Angeles Clippers,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-1,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300356,134,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,155,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,167,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,158,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,446,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,23,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,452,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,3,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,209,1,1,20031217,LAC,MIL
-Shot Chart Detail,0020300356,478,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,58,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300368,116,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,196,1,0,20031219,HOU,LAC
-Shot Chart Detail,0020300368,174,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,51,1,0,20031219,HOU,LAC
-Shot Chart Detail,0020300368,397,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,155,1,0,20031219,HOU,LAC
-Shot Chart Detail,0020300376,117,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-24,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,137,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,97,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,246,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,183,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,358,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,54,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,409,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,155,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,430,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-140,164,1,0,20031220,DAL,LAC
-Shot Chart Detail,0020300396,107,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,143,125,1,0,20031223,SAS,LAC
-Shot Chart Detail,0020300396,121,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-79,179,1,1,20031223,SAS,LAC
-Shot Chart Detail,0020300414,139,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,261,1,0,20031226,LAC,PHI
-Shot Chart Detail,0020300414,142,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,140,1,0,20031226,LAC,PHI
-Shot Chart Detail,0020300414,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-75,66,1,1,20031226,LAC,PHI
-Shot Chart Detail,0020300423,127,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300423,174,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,64,176,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300423,182,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-3,1,0,20031228,LAC,TOR
-Shot Chart Detail,0020300423,288,77,Doug Overton,1610612746,Los Angeles Clippers,3,6,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031228,LAC,TOR
-Shot Chart Detail,0020300423,319,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20031228,LAC,TOR
-Shot Chart Detail,0020300423,371,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,168,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300423,390,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-16,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300437,106,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,181,1,0,20031229,LAC,PHX
-Shot Chart Detail,0020300437,177,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,186,1,0,20031229,LAC,PHX
-Shot Chart Detail,0020300437,348,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-159,140,1,0,20031229,LAC,PHX
-Shot Chart Detail,0020300449,157,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,128,1,0,20031231,LAC,DEN
-Shot Chart Detail,0020300449,198,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,158,1,1,20031231,LAC,DEN
-Shot Chart Detail,0020300449,221,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,132,1,0,20031231,LAC,DEN
-Shot Chart Detail,0020300464,105,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040103,LAC,SAC
-Shot Chart Detail,0020300464,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-36,151,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,152,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-122,173,1,0,20040103,LAC,SAC
-Shot Chart Detail,0020300464,324,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,127,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,122,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,419,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,153,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,422,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,128,1,0,20040103,LAC,SAC
-Shot Chart Detail,0020300476,40,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-16,209,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,189,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,45,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,204,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,115,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,228,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,127,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,288,77,Doug Overton,1610612746,Los Angeles Clippers,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,158,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,290,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,316,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,81,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-79,189,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,356,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,140,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,445,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,477,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,235,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300487,160,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,71,1,0,20040106,NJN,LAC
-Shot Chart Detail,0020300493,80,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,84,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,62,189,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,133,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,77,1,1,20040107,PHI,LAC
-Shot Chart Detail,0020300493,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,356,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,192,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,362,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,97,1,1,20040107,PHI,LAC
-Shot Chart Detail,0020300493,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,45,1,1,20040107,PHI,LAC
-Shot Chart Detail,0020300493,398,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,247,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,445,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,15,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300507,24,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,151,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,26,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,90,126,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,98,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,189,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,25,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,261,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,155,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300542,101,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,57,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-100,94,1,0,20040113,LAC,POR
-Shot Chart Detail,0020300542,113,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-28,68,1,0,20040113,LAC,POR
-Shot Chart Detail,0020300542,130,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-99,169,1,0,20040113,LAC,POR
-Shot Chart Detail,0020300563,87,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,161,1,0,20040116,LAC,MIA
-Shot Chart Detail,0020300563,365,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,5,1,1,20040116,LAC,MIA
-Shot Chart Detail,0020300575,172,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,40,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,15,151,1,1,20040117,LAL,LAC
-Shot Chart Detail,0020300575,325,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,0,20040117,LAL,LAC
-Shot Chart Detail,0020300585,421,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,169,66,1,1,20040119,LAC,SAC
-Shot Chart Detail,0020300604,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,77,138,1,1,20040121,LAC,GSW
-Shot Chart Detail,0020300604,335,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,18,1,0,20040121,LAC,GSW
-Shot Chart Detail,0020300604,345,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,156,1,1,20040121,LAC,GSW
-Shot Chart Detail,0020300604,405,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,212,1,0,20040121,LAC,GSW
-Shot Chart Detail,0020300604,501,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,171,1,1,20040121,LAC,GSW
-Shot Chart Detail,0020300639,124,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,177,97,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,135,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,151,160,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,313,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,36,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,-28,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,352,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,-19,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300639,361,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-156,155,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,371,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,169,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300639,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-31,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300639,394,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,133,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,405,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-16,207,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300671,120,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,28,1,1,20040131,ORL,LAC
-Shot Chart Detail,0020300671,155,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-146,140,1,1,20040131,ORL,LAC
-Shot Chart Detail,0020300671,381,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040131,ORL,LAC
-Shot Chart Detail,0020300744,220,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,0,20040210,MIN,LAC
-Shot Chart Detail,0020300744,246,77,Doug Overton,1610612746,Los Angeles Clippers,3,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,8,1,0,20040210,MIN,LAC
-Shot Chart Detail,0020300944,423,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,113,151,1,0,20040312,MEM,LAC
-Shot Chart Detail,0020300963,130,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,81,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,147,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,135,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,208,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,156,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,354,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,189,1,1,20040314,LAC,DAL
-Shot Chart Detail,0020300963,452,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,158,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,471,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,128,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300974,376,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,184,1,0,20040316,PHX,LAC
-Shot Chart Detail,0020300974,382,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-164,141,1,1,20040316,PHX,LAC
-Shot Chart Detail,0020300974,424,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,167,82,1,0,20040316,PHX,LAC
-Shot Chart Detail,0020300981,117,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-156,114,1,0,20040317,LAC,LAL
-Shot Chart Detail,0020300981,165,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-84,160,1,0,20040317,LAC,LAL
-Shot Chart Detail,0020300981,169,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,-18,230,1,0,20040317,LAC,LAL
-Shot Chart Detail,0020300981,214,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-3,1,1,20040317,LAC,LAL
-Shot Chart Detail,0020300995,472,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-6,189,1,1,20040319,LAL,LAC
-Shot Chart Detail,0020301006,2,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,22,1,0,20040321,LAC,GSW
-Shot Chart Detail,0020301016,101,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,81,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,150,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,68,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,191,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,53,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,209,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,24,156,1,1,20040322,DEN,LAC
-Shot Chart Detail,0020301016,217,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,5,1,1,20040322,DEN,LAC
-Shot Chart Detail,0020301016,335,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,197,1,1,20040322,DEN,LAC
-Shot Chart Detail,0020301016,339,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,3,194,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,18,192,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,447,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,61,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301031,165,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040324,POR,LAC
-Shot Chart Detail,0020301031,334,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,209,-1,1,0,20040324,POR,LAC
-Shot Chart Detail,0020301031,337,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,1,20040324,POR,LAC
-Shot Chart Detail,0020301037,173,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,20040325,LAC,WAS
-Shot Chart Detail,0020301037,373,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-163,82,1,1,20040325,LAC,WAS
-Shot Chart Detail,0020301055,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-16,1,1,20040327,LAC,MIN
-Shot Chart Detail,0020301055,233,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-61,120,1,1,20040327,LAC,MIN
-Shot Chart Detail,0020301055,275,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,169,1,0,20040327,LAC,MIN
-Shot Chart Detail,0020301061,24,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-8,1,0,20040328,GSW,LAC
-Shot Chart Detail,0020301061,60,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,31,1,1,20040328,GSW,LAC
-Shot Chart Detail,0020301061,239,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,-7,1,0,20040328,GSW,LAC
-Shot Chart Detail,0020301082,45,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,84,178,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,218,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,68,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,238,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-87,189,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,262,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,23,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,281,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,38,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,359,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,26,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,38,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,368,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,161,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,453,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,107,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,478,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,29,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,138,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301096,5,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,25,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,45,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,17,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,256,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,151,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,270,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,155,1,1,20040402,CHI,LAC
-Shot Chart Detail,0020301096,280,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,25,1,1,20040402,CHI,LAC
-Shot Chart Detail,0020301096,295,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,72,184,1,1,20040402,CHI,LAC
-Shot Chart Detail,0020301096,496,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,526,77,Doug Overton,1610612746,Los Angeles Clippers,5,3,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,63,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,545,77,Doug Overton,1610612746,Los Angeles Clippers,5,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,76,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301114,9,77,Doug Overton,1610612746,Los Angeles Clippers,1,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-6,1,1,20040404,LAC,UTA
-Shot Chart Detail,0020301114,33,77,Doug Overton,1610612746,Los Angeles Clippers,1,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,161,1,1,20040404,LAC,UTA
-Shot Chart Detail,0020301114,55,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,66,148,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301114,209,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,84,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301114,284,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,31,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301114,392,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,82,120,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301132,363,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,22,1,1,20040407,LAC,HOU
-Shot Chart Detail,0020301132,404,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,45,1,1,20040407,LAC,HOU
-Shot Chart Detail,0020301160,132,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-13,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,149,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-18,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-52,91,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301160,324,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-118,186,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,403,77,Doug Overton,1610612746,Los Angeles Clippers,4,5,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,131,192,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301160,430,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,433,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,437,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-28,265,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301160,477,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-6,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301174,25,77,Doug Overton,1610612746,Los Angeles Clippers,1,9,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,104,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,35,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-148,125,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,52,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,184,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,68,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,132,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,73,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,100,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,35,148,319,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,244,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040413,PHX,LAC
-Shot Chart Detail,0020301174,260,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,17,1,1,20040413,PHX,LAC
-Shot Chart Detail,0020301174,381,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,257,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,431,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,156,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301188,187,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,151,1,1,20040414,LAC,SEA
-Shot Chart Detail,0020301188,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,0,20040414,LAC,SEA
-Shot Chart Detail,0020300007,380,77,Doug Overton,1610612751,New Jersey Nets,4,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,138,1,1,20031029,TOR,NJN
-Shot Chart Detail,0020300027,390,77,Doug Overton,1610612751,New Jersey Nets,4,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,155,1,0,20031101,WAS,NJN
-Shot Chart Detail,0020300027,458,77,Doug Overton,1610612751,New Jersey Nets,4,1,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-197,-37,1,1,20031101,WAS,NJN
-Shot Chart Detail,0020300027,471,77,Doug Overton,1610612751,New Jersey Nets,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,43,1,0,20031101,WAS,NJN
-Shot Chart Detail,0020300066,81,77,Doug Overton,1610612751,New Jersey Nets,1,1,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,13,1,0,20031107,BOS,NJN
-Shot Chart Detail,0020300066,92,77,Doug Overton,1610612751,New Jersey Nets,1,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,69,1,0,20031107,BOS,NJN
-Shot Chart Detail,0020300104,427,77,Doug Overton,1610612751,New Jersey Nets,4,1,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-159,127,1,1,20031112,NJN,SAS
-Shot Chart Detail,0020300104,435,77,Doug Overton,1610612751,New Jersey Nets,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,107,173,1,0,20031112,NJN,SAS
-Shot Chart Detail,0020300179,401,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031122,MIN,LAC
-Shot Chart Detail,0020300179,416,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,148,41,1,0,20031122,MIN,LAC
-Shot Chart Detail,0020300191,126,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,161,1,1,20031124,LAC,HOU
-Shot Chart Detail,0020300191,132,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,13,1,0,20031124,LAC,HOU
-Shot Chart Detail,0020300191,182,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,26,1,0,20031124,LAC,HOU
-Shot Chart Detail,0020300191,220,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,8,1,1,20031124,LAC,HOU
-Shot Chart Detail,0020300191,483,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-16,212,1,1,20031124,LAC,HOU
-Shot Chart Detail,0020300191,533,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,1,145,1,0,20031124,LAC,HOU
-Shot Chart Detail,0020300210,134,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,139,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-29,260,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300210,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300210,184,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,90,163,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,421,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,427,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,17,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,441,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,LAC,NJN
-Shot Chart Detail,0020300210,484,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300210,512,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-8,130,1,0,20031127,LAC,NJN
-Shot Chart Detail,0020300231,54,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,141,1,0,20031129,LAC,DEN
-Shot Chart Detail,0020300231,104,77,Doug Overton,1610612746,Los Angeles Clippers,1,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,135,1,0,20031129,LAC,DEN
-Shot Chart Detail,0020300231,330,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,LAC,DEN
-Shot Chart Detail,0020300240,28,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,137,1,1,20031201,LAC,SAS
-Shot Chart Detail,0020300240,34,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-13,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,51,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,125,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,306,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,319,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-1,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300240,328,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031201,LAC,SAS
-Shot Chart Detail,0020300255,123,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,13,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,152,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,114,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-18,125,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,224,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,356,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,-3,1,1,20031203,LAC,CLE
-Shot Chart Detail,0020300255,362,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031203,LAC,CLE
-Shot Chart Detail,0020300255,383,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,153,1,1,20031203,LAC,CLE
-Shot Chart Detail,0020300267,4,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031205,UTA,LAC
-Shot Chart Detail,0020300267,70,77,Doug Overton,1610612746,Los Angeles Clippers,1,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,28,199,1,1,20031205,UTA,LAC
-Shot Chart Detail,0020300267,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,204,-14,1,0,20031205,UTA,LAC
-Shot Chart Detail,0020300267,320,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,0,20031205,UTA,LAC
-Shot Chart Detail,0020300279,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,38,181,1,0,20031207,LAC,MIN
-Shot Chart Detail,0020300279,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-9,1,0,20031207,LAC,MIN
-Shot Chart Detail,0020300279,394,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031207,LAC,MIN
-Shot Chart Detail,0020300297,160,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031209,SAC,LAC
-Shot Chart Detail,0020300297,162,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,8,1,1,20031209,SAC,LAC
-Shot Chart Detail,0020300297,166,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,-5,1,0,20031209,SAC,LAC
-Shot Chart Detail,0020300305,86,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,31,1,0,20031210,LAC,DAL
-Shot Chart Detail,0020300305,354,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,71,164,1,0,20031210,LAC,DAL
-Shot Chart Detail,0020300327,172,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,183,1,1,20031213,LAC,PHX
-Shot Chart Detail,0020300327,204,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-146,26,1,0,20031213,LAC,PHX
-Shot Chart Detail,0020300327,408,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,105,1,0,20031213,LAC,PHX
-Shot Chart Detail,0020300337,123,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-36,140,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,178,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-99,49,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,195,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,64,153,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,238,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,30,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,338,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,104,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,412,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,140,1,1,20031215,LAC,NOH
-Shot Chart Detail,0020300337,415,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300337,436,77,Doug Overton,1610612746,Los Angeles Clippers,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,-1,1,0,20031215,LAC,NOH
-Shot Chart Detail,0020300356,134,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,155,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,167,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,158,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,446,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,23,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,452,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,3,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300356,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,209,1,1,20031217,LAC,MIL
-Shot Chart Detail,0020300356,478,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-118,58,1,0,20031217,LAC,MIL
-Shot Chart Detail,0020300368,116,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,196,1,0,20031219,HOU,LAC
-Shot Chart Detail,0020300368,174,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,51,1,0,20031219,HOU,LAC
-Shot Chart Detail,0020300368,397,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,155,1,0,20031219,HOU,LAC
-Shot Chart Detail,0020300376,117,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-24,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,137,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-171,97,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,246,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,183,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,358,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,54,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,409,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,155,1,1,20031220,DAL,LAC
-Shot Chart Detail,0020300376,430,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-140,164,1,0,20031220,DAL,LAC
-Shot Chart Detail,0020300396,107,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,143,125,1,0,20031223,SAS,LAC
-Shot Chart Detail,0020300396,121,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-79,179,1,1,20031223,SAS,LAC
-Shot Chart Detail,0020300414,139,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,261,1,0,20031226,LAC,PHI
-Shot Chart Detail,0020300414,142,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,140,1,0,20031226,LAC,PHI
-Shot Chart Detail,0020300414,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-75,66,1,1,20031226,LAC,PHI
-Shot Chart Detail,0020300423,127,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,57,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300423,174,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,64,176,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300423,182,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-3,1,0,20031228,LAC,TOR
-Shot Chart Detail,0020300423,288,77,Doug Overton,1610612746,Los Angeles Clippers,3,6,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031228,LAC,TOR
-Shot Chart Detail,0020300423,319,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20031228,LAC,TOR
-Shot Chart Detail,0020300423,371,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,168,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300423,390,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-16,1,1,20031228,LAC,TOR
-Shot Chart Detail,0020300437,106,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,181,1,0,20031229,LAC,PHX
-Shot Chart Detail,0020300437,177,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,186,1,0,20031229,LAC,PHX
-Shot Chart Detail,0020300437,348,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-159,140,1,0,20031229,LAC,PHX
-Shot Chart Detail,0020300449,157,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,128,1,0,20031231,LAC,DEN
-Shot Chart Detail,0020300449,198,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,158,1,1,20031231,LAC,DEN
-Shot Chart Detail,0020300449,221,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,132,1,0,20031231,LAC,DEN
-Shot Chart Detail,0020300464,105,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040103,LAC,SAC
-Shot Chart Detail,0020300464,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-36,151,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,152,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-122,173,1,0,20040103,LAC,SAC
-Shot Chart Detail,0020300464,324,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,127,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,122,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,419,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,153,1,1,20040103,LAC,SAC
-Shot Chart Detail,0020300464,422,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,84,128,1,0,20040103,LAC,SAC
-Shot Chart Detail,0020300476,40,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-16,209,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,189,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-102,45,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,204,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,115,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,228,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,127,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,288,77,Doug Overton,1610612746,Los Angeles Clippers,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,158,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,290,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,316,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,81,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-79,189,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,356,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,140,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300476,445,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,LAC,LAL
-Shot Chart Detail,0020300476,477,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,235,1,0,20040104,LAC,LAL
-Shot Chart Detail,0020300487,160,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,71,1,0,20040106,NJN,LAC
-Shot Chart Detail,0020300493,80,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,84,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,62,189,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,133,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,187,77,1,1,20040107,PHI,LAC
-Shot Chart Detail,0020300493,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,356,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,192,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,362,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,97,1,1,20040107,PHI,LAC
-Shot Chart Detail,0020300493,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-187,45,1,1,20040107,PHI,LAC
-Shot Chart Detail,0020300493,398,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,247,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300493,445,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,15,1,0,20040107,PHI,LAC
-Shot Chart Detail,0020300507,24,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,151,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,26,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,90,126,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,98,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,189,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,25,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300507,261,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,155,1,0,20040109,TOR,LAC
-Shot Chart Detail,0020300542,101,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,57,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-100,94,1,0,20040113,LAC,POR
-Shot Chart Detail,0020300542,113,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-28,68,1,0,20040113,LAC,POR
-Shot Chart Detail,0020300542,130,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-99,169,1,0,20040113,LAC,POR
-Shot Chart Detail,0020300563,87,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,161,1,0,20040116,LAC,MIA
-Shot Chart Detail,0020300563,365,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,5,1,1,20040116,LAC,MIA
-Shot Chart Detail,0020300575,172,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,40,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,15,151,1,1,20040117,LAL,LAC
-Shot Chart Detail,0020300575,325,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,0,20040117,LAL,LAC
-Shot Chart Detail,0020300585,421,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,169,66,1,1,20040119,LAC,SAC
-Shot Chart Detail,0020300604,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,14,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,77,138,1,1,20040121,LAC,GSW
-Shot Chart Detail,0020300604,335,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,18,1,0,20040121,LAC,GSW
-Shot Chart Detail,0020300604,345,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,156,1,1,20040121,LAC,GSW
-Shot Chart Detail,0020300604,405,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,212,1,0,20040121,LAC,GSW
-Shot Chart Detail,0020300604,501,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,171,1,1,20040121,LAC,GSW
-Shot Chart Detail,0020300639,124,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,177,97,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,135,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,151,160,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,313,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,36,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,-28,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,352,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-179,-19,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300639,361,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-156,155,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,371,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,169,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300639,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-31,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300639,394,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,133,1,1,20040126,UTA,LAC
-Shot Chart Detail,0020300639,405,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-16,207,1,0,20040126,UTA,LAC
-Shot Chart Detail,0020300671,120,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,28,1,1,20040131,ORL,LAC
-Shot Chart Detail,0020300671,155,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-146,140,1,1,20040131,ORL,LAC
-Shot Chart Detail,0020300671,381,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040131,ORL,LAC
-Shot Chart Detail,0020300744,220,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,0,20040210,MIN,LAC
-Shot Chart Detail,0020300744,246,77,Doug Overton,1610612746,Los Angeles Clippers,3,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,8,1,0,20040210,MIN,LAC
-Shot Chart Detail,0020300944,423,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,113,151,1,0,20040312,MEM,LAC
-Shot Chart Detail,0020300963,130,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,81,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,147,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,135,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,208,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,156,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,354,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,189,1,1,20040314,LAC,DAL
-Shot Chart Detail,0020300963,452,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,158,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300963,471,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-84,128,1,0,20040314,LAC,DAL
-Shot Chart Detail,0020300974,376,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,184,1,0,20040316,PHX,LAC
-Shot Chart Detail,0020300974,382,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-164,141,1,1,20040316,PHX,LAC
-Shot Chart Detail,0020300974,424,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,167,82,1,0,20040316,PHX,LAC
-Shot Chart Detail,0020300981,117,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-156,114,1,0,20040317,LAC,LAL
-Shot Chart Detail,0020300981,165,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-84,160,1,0,20040317,LAC,LAL
-Shot Chart Detail,0020300981,169,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,-18,230,1,0,20040317,LAC,LAL
-Shot Chart Detail,0020300981,214,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,-3,1,1,20040317,LAC,LAL
-Shot Chart Detail,0020300995,472,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-6,189,1,1,20040319,LAL,LAC
-Shot Chart Detail,0020301006,2,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,22,1,0,20040321,LAC,GSW
-Shot Chart Detail,0020301016,101,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,95,81,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,150,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,68,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,191,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,53,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,209,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,24,156,1,1,20040322,DEN,LAC
-Shot Chart Detail,0020301016,217,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,5,1,1,20040322,DEN,LAC
-Shot Chart Detail,0020301016,335,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-8,197,1,1,20040322,DEN,LAC
-Shot Chart Detail,0020301016,339,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,3,194,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,18,192,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301016,447,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,61,1,0,20040322,DEN,LAC
-Shot Chart Detail,0020301031,165,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040324,POR,LAC
-Shot Chart Detail,0020301031,334,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,209,-1,1,0,20040324,POR,LAC
-Shot Chart Detail,0020301031,337,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,1,20040324,POR,LAC
-Shot Chart Detail,0020301037,173,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,20040325,LAC,WAS
-Shot Chart Detail,0020301037,373,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-163,82,1,1,20040325,LAC,WAS
-Shot Chart Detail,0020301055,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-16,1,1,20040327,LAC,MIN
-Shot Chart Detail,0020301055,233,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-61,120,1,1,20040327,LAC,MIN
-Shot Chart Detail,0020301055,275,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,169,1,0,20040327,LAC,MIN
-Shot Chart Detail,0020301061,24,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-8,1,0,20040328,GSW,LAC
-Shot Chart Detail,0020301061,60,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,20,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,31,1,1,20040328,GSW,LAC
-Shot Chart Detail,0020301061,239,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,172,-7,1,0,20040328,GSW,LAC
-Shot Chart Detail,0020301082,45,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,84,178,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,218,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,68,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,238,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-87,189,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,262,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,23,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,281,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,194,38,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301082,359,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,26,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,38,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,368,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,161,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,453,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,107,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,478,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,29,1,0,20040331,DET,LAC
-Shot Chart Detail,0020301082,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,138,1,1,20040331,DET,LAC
-Shot Chart Detail,0020301096,5,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,25,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,45,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,17,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,256,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,151,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,270,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,155,1,1,20040402,CHI,LAC
-Shot Chart Detail,0020301096,280,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,25,1,1,20040402,CHI,LAC
-Shot Chart Detail,0020301096,295,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,72,184,1,1,20040402,CHI,LAC
-Shot Chart Detail,0020301096,496,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,526,77,Doug Overton,1610612746,Los Angeles Clippers,5,3,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,63,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301096,545,77,Doug Overton,1610612746,Los Angeles Clippers,5,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,76,1,0,20040402,CHI,LAC
-Shot Chart Detail,0020301114,9,77,Doug Overton,1610612746,Los Angeles Clippers,1,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-6,1,1,20040404,LAC,UTA
-Shot Chart Detail,0020301114,33,77,Doug Overton,1610612746,Los Angeles Clippers,1,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,161,1,1,20040404,LAC,UTA
-Shot Chart Detail,0020301114,55,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,66,148,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301114,209,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,84,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301114,284,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,31,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301114,392,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,82,120,1,0,20040404,LAC,UTA
-Shot Chart Detail,0020301132,363,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,22,1,1,20040407,LAC,HOU
-Shot Chart Detail,0020301132,404,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,177,45,1,1,20040407,LAC,HOU
-Shot Chart Detail,0020301160,132,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-13,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,149,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,-18,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-52,91,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301160,324,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-118,186,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,403,77,Doug Overton,1610612746,Los Angeles Clippers,4,5,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,131,192,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301160,430,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,433,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040411,LAC,SAS
-Shot Chart Detail,0020301160,437,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-28,265,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301160,477,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-6,1,0,20040411,LAC,SAS
-Shot Chart Detail,0020301174,25,77,Doug Overton,1610612746,Los Angeles Clippers,1,9,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,104,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,35,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-148,125,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,52,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,184,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,68,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,132,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,73,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,100,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,35,148,319,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,244,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040413,PHX,LAC
-Shot Chart Detail,0020301174,260,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,133,17,1,1,20040413,PHX,LAC
-Shot Chart Detail,0020301174,381,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,38,257,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301174,431,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,156,1,0,20040413,PHX,LAC
-Shot Chart Detail,0020301188,187,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,151,1,1,20040414,LAC,SEA
-Shot Chart Detail,0020301188,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,0,20040414,LAC,SEA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20300179,401,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,45,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031122,0,MIN,LAC
+Shot Chart Detail,20300179,416,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,27,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,148,41,1,0,20031122,0,MIN,LAC
+Shot Chart Detail,20300191,126,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,41,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,161,1,1,20031124,1,LAC,HOU
+Shot Chart Detail,20300191,132,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,49,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,13,1,0,20031124,0,LAC,HOU
+Shot Chart Detail,20300191,182,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,18,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,26,1,0,20031124,0,LAC,HOU
+Shot Chart Detail,20300191,220,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,56,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-195,8,1,1,20031124,0,LAC,HOU
+Shot Chart Detail,20300191,483,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,29,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-16,212,1,1,20031124,1,LAC,HOU
+Shot Chart Detail,20300191,533,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,33,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,1,145,1,0,20031124,0,LAC,HOU
+Shot Chart Detail,20300210,134,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,51,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,0,LAC,NJN
+Shot Chart Detail,20300210,139,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,9,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-29,260,1,0,20031127,0,LAC,NJN
+Shot Chart Detail,20300210,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,21,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031127,0,LAC,NJN
+Shot Chart Detail,20300210,184,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,57,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,90,163,1,1,20031127,1,LAC,NJN
+Shot Chart Detail,20300210,421,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,0,LAC,NJN
+Shot Chart Detail,20300210,427,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,57,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,176,17,1,1,20031127,1,LAC,NJN
+Shot Chart Detail,20300210,441,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031127,0,LAC,NJN
+Shot Chart Detail,20300210,484,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031127,0,LAC,NJN
+Shot Chart Detail,20300210,512,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-8,130,1,0,20031127,0,LAC,NJN
+Shot Chart Detail,20300231,54,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,141,1,0,20031129,0,LAC,DEN
+Shot Chart Detail,20300231,104,77,Doug Overton,1610612746,Los Angeles Clippers,1,1,36,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,135,1,0,20031129,0,LAC,DEN
+Shot Chart Detail,20300231,330,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031129,0,LAC,DEN
+Shot Chart Detail,20300240,28,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,30,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,137,1,1,20031201,1,LAC,SAS
+Shot Chart Detail,20300240,34,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-189,-13,1,0,20031201,0,LAC,SAS
+Shot Chart Detail,20300240,51,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,36,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-79,125,1,0,20031201,0,LAC,SAS
+Shot Chart Detail,20300240,306,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,21,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031201,0,LAC,SAS
+Shot Chart Detail,20300240,319,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-189,-1,1,0,20031201,0,LAC,SAS
+Shot Chart Detail,20300240,328,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031201,0,LAC,SAS
+Shot Chart Detail,20300255,123,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,5,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-151,13,1,0,20031203,0,LAC,CLE
+Shot Chart Detail,20300255,152,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,50,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,114,1,0,20031203,0,LAC,CLE
+Shot Chart Detail,20300255,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,26,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-18,125,1,0,20031203,0,LAC,CLE
+Shot Chart Detail,20300255,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,224,1,0,20031203,0,LAC,CLE
+Shot Chart Detail,20300255,356,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,23,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-186,-3,1,1,20031203,1,LAC,CLE
+Shot Chart Detail,20300255,362,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031203,0,LAC,CLE
+Shot Chart Detail,20300255,383,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,41,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,153,1,1,20031203,0,LAC,CLE
+Shot Chart Detail,20300267,4,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,49,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031205,0,UTA,LAC
+Shot Chart Detail,20300267,70,77,Doug Overton,1610612746,Los Angeles Clippers,1,1,56,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,28,199,1,1,20031205,1,UTA,LAC
+Shot Chart Detail,20300267,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,54,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,204,-14,1,0,20031205,0,UTA,LAC
+Shot Chart Detail,20300267,320,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-171,0,1,0,20031205,0,UTA,LAC
+Shot Chart Detail,20300279,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,11,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,38,181,1,0,20031207,0,LAC,MIN
+Shot Chart Detail,20300279,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,20,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-191,-9,1,0,20031207,0,LAC,MIN
+Shot Chart Detail,20300279,394,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031207,0,LAC,MIN
+Shot Chart Detail,20300297,160,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20031209,0,SAC,LAC
+Shot Chart Detail,20300297,162,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,16,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,167,8,1,1,20031209,1,SAC,LAC
+Shot Chart Detail,20300297,166,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,49,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,87,-5,1,0,20031209,0,SAC,LAC
+Shot Chart Detail,20300305,86,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-204,31,1,0,20031210,0,LAC,DAL
+Shot Chart Detail,20300305,354,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,15,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,71,164,1,0,20031210,0,LAC,DAL
+Shot Chart Detail,20300327,172,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,33,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,61,183,1,1,20031213,0,LAC,PHX
+Shot Chart Detail,20300327,204,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-146,26,1,0,20031213,0,LAC,PHX
+Shot Chart Detail,20300327,408,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,33,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-146,105,1,0,20031213,0,LAC,PHX
+Shot Chart Detail,20300337,123,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,24,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-36,140,1,1,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,178,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,28,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-99,49,1,0,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,195,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,14,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,64,153,1,1,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,238,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,36,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,30,1,0,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,338,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,19,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-153,104,1,1,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,412,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,10,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-149,140,1,1,20031215,1,LAC,NOH
+Shot Chart Detail,20300337,415,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031215,0,LAC,NOH
+Shot Chart Detail,20300337,436,77,Doug Overton,1610612746,Los Angeles Clippers,4,5,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,192,-1,1,0,20031215,0,LAC,NOH
+Shot Chart Detail,20300356,134,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,20,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-103,155,1,0,20031217,0,LAC,MIL
+Shot Chart Detail,20300356,167,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,7,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,158,1,0,20031217,0,LAC,MIL
+Shot Chart Detail,20300356,446,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,30,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,23,1,0,20031217,0,LAC,MIL
+Shot Chart Detail,20300356,452,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,16,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,3,1,0,20031217,0,LAC,MIL
+Shot Chart Detail,20300356,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,9,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,209,1,1,20031217,1,LAC,MIL
+Shot Chart Detail,20300356,478,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,32,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-118,58,1,0,20031217,0,LAC,MIL
+Shot Chart Detail,20300368,116,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,196,1,0,20031219,0,HOU,LAC
+Shot Chart Detail,20300368,174,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,57,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,169,51,1,0,20031219,0,HOU,LAC
+Shot Chart Detail,20300368,397,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,155,1,0,20031219,0,HOU,LAC
+Shot Chart Detail,20300376,117,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,44,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,207,-24,1,1,20031220,1,DAL,LAC
+Shot Chart Detail,20300376,137,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,13,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-171,97,1,1,20031220,1,DAL,LAC
+Shot Chart Detail,20300376,246,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,54,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-85,183,1,1,20031220,1,DAL,LAC
+Shot Chart Detail,20300376,358,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,38,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,54,1,1,20031220,1,DAL,LAC
+Shot Chart Detail,20300376,409,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,53,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,155,1,1,20031220,1,DAL,LAC
+Shot Chart Detail,20300376,430,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,7,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-140,164,1,0,20031220,0,DAL,LAC
+Shot Chart Detail,20300396,107,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,3,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,143,125,1,0,20031223,0,SAS,LAC
+Shot Chart Detail,20300396,121,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,13,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-79,179,1,1,20031223,1,SAS,LAC
+Shot Chart Detail,20300414,139,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,25,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,33,261,1,0,20031226,0,LAC,PHI
+Shot Chart Detail,20300414,142,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,18,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-125,140,1,0,20031226,0,LAC,PHI
+Shot Chart Detail,20300414,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,46,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-75,66,1,1,20031226,0,LAC,PHI
+Shot Chart Detail,20300423,127,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,57,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,3,125,1,1,20031228,1,LAC,TOR
+Shot Chart Detail,20300423,174,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,0,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,64,176,1,1,20031228,0,LAC,TOR
+Shot Chart Detail,20300423,182,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,-3,1,0,20031228,0,LAC,TOR
+Shot Chart Detail,20300423,288,77,Doug Overton,1610612746,Los Angeles Clippers,3,6,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20031228,0,LAC,TOR
+Shot Chart Detail,20300423,319,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,55,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20031228,0,LAC,TOR
+Shot Chart Detail,20300423,371,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,51,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,1,168,1,1,20031228,0,LAC,TOR
+Shot Chart Detail,20300423,390,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,57,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-163,-16,1,1,20031228,1,LAC,TOR
+Shot Chart Detail,20300437,106,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,181,1,0,20031229,0,LAC,PHX
+Shot Chart Detail,20300437,177,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,12,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-84,186,1,0,20031229,0,LAC,PHX
+Shot Chart Detail,20300437,348,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,46,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-159,140,1,0,20031229,0,LAC,PHX
+Shot Chart Detail,20300449,157,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,23,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,130,128,1,0,20031231,0,LAC,DEN
+Shot Chart Detail,20300449,198,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,53,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,158,1,1,20031231,0,LAC,DEN
+Shot Chart Detail,20300449,221,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,19,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,132,1,0,20031231,0,LAC,DEN
+Shot Chart Detail,20300464,105,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040103,0,LAC,SAC
+Shot Chart Detail,20300464,148,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,48,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-36,151,1,1,20040103,0,LAC,SAC
+Shot Chart Detail,20300464,152,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-122,173,1,0,20040103,0,LAC,SAC
+Shot Chart Detail,20300464,324,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,39,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-84,127,1,1,20040103,0,LAC,SAC
+Shot Chart Detail,20300464,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,0,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-128,122,1,1,20040103,0,LAC,SAC
+Shot Chart Detail,20300464,419,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,34,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-118,153,1,1,20040103,1,LAC,SAC
+Shot Chart Detail,20300464,422,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,55,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,84,128,1,0,20040103,0,LAC,SAC
+Shot Chart Detail,20300476,40,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,45,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-16,209,1,1,20040104,1,LAC,LAL
+Shot Chart Detail,20300476,189,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-102,45,1,0,20040104,0,LAC,LAL
+Shot Chart Detail,20300476,204,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,7,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,115,1,0,20040104,0,LAC,LAL
+Shot Chart Detail,20300476,228,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,58,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,127,1,0,20040104,0,LAC,LAL
+Shot Chart Detail,20300476,288,77,Doug Overton,1610612746,Los Angeles Clippers,3,8,18,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,158,1,1,20040104,1,LAC,LAL
+Shot Chart Detail,20300476,290,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,45,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,1,LAC,LAL
+Shot Chart Detail,20300476,316,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,0,LAC,LAL
+Shot Chart Detail,20300476,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,3,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,117,81,1,1,20040104,1,LAC,LAL
+Shot Chart Detail,20300476,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,31,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-79,189,1,1,20040104,1,LAC,LAL
+Shot Chart Detail,20300476,356,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,10,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,118,140,1,0,20040104,0,LAC,LAL
+Shot Chart Detail,20300476,445,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040104,0,LAC,LAL
+Shot Chart Detail,20300476,477,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,59,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-125,235,1,0,20040104,0,LAC,LAL
+Shot Chart Detail,20300487,160,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,184,71,1,0,20040106,0,NJN,LAC
+Shot Chart Detail,20300493,80,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,54,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,84,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,19,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,62,189,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,133,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,48,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,187,77,1,1,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,356,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,20,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,0,192,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,362,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,29,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,97,1,1,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,39,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-187,45,1,1,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,398,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,25,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,51,247,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300493,445,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,15,1,0,20040107,0,PHI,LAC
+Shot Chart Detail,20300507,24,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,44,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,151,1,0,20040109,0,TOR,LAC
+Shot Chart Detail,20300507,26,77,Doug Overton,1610612746,Los Angeles Clippers,1,8,40,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,90,126,1,0,20040109,0,TOR,LAC
+Shot Chart Detail,20300507,98,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,189,1,0,20040109,0,TOR,LAC
+Shot Chart Detail,20300507,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,52,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,25,1,0,20040109,0,TOR,LAC
+Shot Chart Detail,20300507,261,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,52,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,155,1,0,20040109,0,TOR,LAC
+Shot Chart Detail,20300542,101,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,57,Missed Shot,Running Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-100,94,1,0,20040113,0,LAC,POR
+Shot Chart Detail,20300542,113,77,Doug Overton,1610612746,Los Angeles Clippers,2,11,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-28,68,1,0,20040113,0,LAC,POR
+Shot Chart Detail,20300542,130,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,46,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-99,169,1,0,20040113,0,LAC,POR
+Shot Chart Detail,20300563,87,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,161,1,0,20040116,0,LAC,MIA
+Shot Chart Detail,20300563,365,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,28,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,5,1,1,20040116,1,LAC,MIA
+Shot Chart Detail,20300575,172,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,40,Made Shot,Running Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,15,151,1,1,20040117,0,LAL,LAC
+Shot Chart Detail,20300575,325,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,49,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,0,20040117,0,LAL,LAC
+Shot Chart Detail,20300585,421,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,169,66,1,1,20040119,1,LAC,SAC
+Shot Chart Detail,20300604,333,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,14,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,77,138,1,1,20040121,1,LAC,GSW
+Shot Chart Detail,20300604,335,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-164,18,1,0,20040121,0,LAC,GSW
+Shot Chart Detail,20300604,345,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,26,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,62,156,1,1,20040121,1,LAC,GSW
+Shot Chart Detail,20300604,405,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,17,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,212,1,0,20040121,0,LAC,GSW
+Shot Chart Detail,20300604,501,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,8,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,171,1,1,20040121,1,LAC,GSW
+Shot Chart Detail,20300639,124,77,Doug Overton,1610612746,Los Angeles Clippers,2,9,57,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,177,97,1,1,20040126,1,UTA,LAC
+Shot Chart Detail,20300639,135,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,50,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,151,160,1,1,20040126,0,UTA,LAC
+Shot Chart Detail,20300639,313,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,35,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,36,1,1,20040126,1,UTA,LAC
+Shot Chart Detail,20300639,349,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,2,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,202,-28,1,1,20040126,0,UTA,LAC
+Shot Chart Detail,20300639,352,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-179,-19,1,0,20040126,0,UTA,LAC
+Shot Chart Detail,20300639,361,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,50,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-156,155,1,1,20040126,1,UTA,LAC
+Shot Chart Detail,20300639,371,77,Doug Overton,1610612746,Los Angeles Clippers,4,10,22,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,115,169,1,0,20040126,0,UTA,LAC
+Shot Chart Detail,20300639,387,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-192,-31,1,0,20040126,0,UTA,LAC
+Shot Chart Detail,20300639,394,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,30,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,133,1,1,20040126,0,UTA,LAC
+Shot Chart Detail,20300639,405,77,Doug Overton,1610612746,Los Angeles Clippers,4,6,16,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-16,207,1,0,20040126,0,UTA,LAC
+Shot Chart Detail,20300671,120,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,57,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-187,28,1,1,20040131,1,ORL,LAC
+Shot Chart Detail,20300671,155,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,10,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-146,140,1,1,20040131,1,ORL,LAC
+Shot Chart Detail,20300671,381,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040131,0,ORL,LAC
+Shot Chart Detail,20300744,220,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,39,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,0,20040210,0,MIN,LAC
+Shot Chart Detail,20300744,246,77,Doug Overton,1610612746,Los Angeles Clippers,3,6,51,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-131,8,1,0,20040210,0,MIN,LAC
+Shot Chart Detail,20300944,423,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,37,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,113,151,1,0,20040312,0,MEM,LAC
+Shot Chart Detail,20300963,130,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,23,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,181,81,1,0,20040314,0,LAC,DAL
+Shot Chart Detail,20300963,147,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,8,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,149,135,1,0,20040314,0,LAC,DAL
+Shot Chart Detail,20300963,208,77,Doug Overton,1610612746,Los Angeles Clippers,2,2,36,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,156,1,0,20040314,0,LAC,DAL
+Shot Chart Detail,20300963,354,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,38,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,189,1,1,20040314,0,LAC,DAL
+Shot Chart Detail,20300963,452,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,135,158,1,0,20040314,0,LAC,DAL
+Shot Chart Detail,20300963,471,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-84,128,1,0,20040314,0,LAC,DAL
+Shot Chart Detail,20300974,376,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,41,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-168,184,1,0,20040316,0,PHX,LAC
+Shot Chart Detail,20300974,382,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,0,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-164,141,1,1,20040316,0,PHX,LAC
+Shot Chart Detail,20300974,424,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,23,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,167,82,1,0,20040316,0,PHX,LAC
+Shot Chart Detail,20300981,117,77,Doug Overton,1610612746,Los Angeles Clippers,2,10,59,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-156,114,1,0,20040317,0,LAC,LAL
+Shot Chart Detail,20300981,165,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,46,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-84,160,1,0,20040317,0,LAC,LAL
+Shot Chart Detail,20300981,169,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,9,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,23,-18,230,1,0,20040317,0,LAC,LAL
+Shot Chart Detail,20300981,214,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,42,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-192,-3,1,1,20040317,1,LAC,LAL
+Shot Chart Detail,20300995,472,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,25,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-6,189,1,1,20040319,1,LAL,LAC
+Shot Chart Detail,20301006,2,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-113,22,1,0,20040321,0,LAC,GSW
+Shot Chart Detail,20301016,101,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,95,81,1,0,20040322,0,DEN,LAC
+Shot Chart Detail,20301016,150,77,Doug Overton,1610612746,Los Angeles Clippers,2,6,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,68,1,0,20040322,0,DEN,LAC
+Shot Chart Detail,20301016,191,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-177,53,1,0,20040322,0,DEN,LAC
+Shot Chart Detail,20301016,209,77,Doug Overton,1610612746,Los Angeles Clippers,2,1,40,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,24,156,1,1,20040322,1,DEN,LAC
+Shot Chart Detail,20301016,217,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,18,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-186,5,1,1,20040322,1,DEN,LAC
+Shot Chart Detail,20301016,335,77,Doug Overton,1610612746,Los Angeles Clippers,3,2,10,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-8,197,1,1,20040322,1,DEN,LAC
+Shot Chart Detail,20301016,339,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,22,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,3,194,1,0,20040322,0,DEN,LAC
+Shot Chart Detail,20301016,346,77,Doug Overton,1610612746,Los Angeles Clippers,3,0,39,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,18,192,1,0,20040322,0,DEN,LAC
+Shot Chart Detail,20301016,447,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,167,61,1,0,20040322,0,DEN,LAC
+Shot Chart Detail,20301031,165,77,Doug Overton,1610612746,Los Angeles Clippers,2,5,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040324,1,POR,LAC
+Shot Chart Detail,20301031,334,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,209,-1,1,0,20040324,0,POR,LAC
+Shot Chart Detail,20301031,337,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,24,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,1,20040324,1,POR,LAC
+Shot Chart Detail,20301037,173,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,0,20040325,0,LAC,WAS
+Shot Chart Detail,20301037,373,77,Doug Overton,1610612746,Los Angeles Clippers,4,11,30,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-163,82,1,1,20040325,1,LAC,WAS
+Shot Chart Detail,20301055,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,14,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-184,-16,1,1,20040327,1,LAC,MIN
+Shot Chart Detail,20301055,233,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,41,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-61,120,1,1,20040327,1,LAC,MIN
+Shot Chart Detail,20301055,275,77,Doug Overton,1610612746,Los Angeles Clippers,3,4,49,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,95,169,1,0,20040327,0,LAC,MIN
+Shot Chart Detail,20301061,24,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,56,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,182,-8,1,0,20040328,0,GSW,LAC
+Shot Chart Detail,20301061,60,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,20,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,31,1,1,20040328,0,GSW,LAC
+Shot Chart Detail,20301061,239,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,172,-7,1,0,20040328,0,GSW,LAC
+Shot Chart Detail,20301082,45,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,29,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,84,178,1,1,20040331,1,DET,LAC
+Shot Chart Detail,20301082,218,77,Doug Overton,1610612746,Los Angeles Clippers,2,0,35,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-177,68,1,1,20040331,1,DET,LAC
+Shot Chart Detail,20301082,238,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,21,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-87,189,1,1,20040331,0,DET,LAC
+Shot Chart Detail,20301082,262,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,49,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,23,1,1,20040331,1,DET,LAC
+Shot Chart Detail,20301082,281,77,Doug Overton,1610612746,Los Angeles Clippers,3,5,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,194,38,1,1,20040331,0,DET,LAC
+Shot Chart Detail,20301082,359,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,26,Missed Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,138,38,1,0,20040331,0,DET,LAC
+Shot Chart Detail,20301082,368,77,Doug Overton,1610612746,Los Angeles Clippers,4,9,0,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,161,1,0,20040331,0,DET,LAC
+Shot Chart Detail,20301082,453,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,46,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-130,107,1,0,20040331,0,DET,LAC
+Shot Chart Detail,20301082,478,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,31,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,153,29,1,0,20040331,0,DET,LAC
+Shot Chart Detail,20301082,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,4,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,138,1,1,20040331,0,DET,LAC
+Shot Chart Detail,20301096,5,77,Doug Overton,1610612746,Los Angeles Clippers,1,11,23,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,179,25,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,45,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,199,17,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,256,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,47,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-122,151,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,270,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,3,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-75,155,1,1,20040402,1,CHI,LAC
+Shot Chart Detail,20301096,280,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,17,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,25,1,1,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,295,77,Doug Overton,1610612746,Los Angeles Clippers,3,7,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,476,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,53,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,72,184,1,1,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,496,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,526,77,Doug Overton,1610612746,Los Angeles Clippers,5,3,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-56,63,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301096,545,77,Doug Overton,1610612746,Los Angeles Clippers,5,1,23,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-140,76,1,0,20040402,0,CHI,LAC
+Shot Chart Detail,20301114,9,77,Doug Overton,1610612746,Los Angeles Clippers,1,10,2,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-164,-6,1,1,20040404,1,LAC,UTA
+Shot Chart Detail,20301114,33,77,Doug Overton,1610612746,Los Angeles Clippers,1,6,10,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,161,1,1,20040404,0,LAC,UTA
+Shot Chart Detail,20301114,55,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,20,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,66,148,1,0,20040404,0,LAC,UTA
+Shot Chart Detail,20301114,209,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-149,84,1,0,20040404,0,LAC,UTA
+Shot Chart Detail,20301114,284,77,Doug Overton,1610612746,Los Angeles Clippers,3,3,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-125,31,1,0,20040404,0,LAC,UTA
+Shot Chart Detail,20301114,392,77,Doug Overton,1610612746,Los Angeles Clippers,4,4,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,82,120,1,0,20040404,0,LAC,UTA
+Shot Chart Detail,20301132,363,77,Doug Overton,1610612746,Los Angeles Clippers,4,8,57,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-182,22,1,1,20040407,1,LAC,HOU
+Shot Chart Detail,20301132,404,77,Doug Overton,1610612746,Los Angeles Clippers,4,3,48,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,177,45,1,1,20040407,1,LAC,HOU
+Shot Chart Detail,20301160,132,77,Doug Overton,1610612746,Los Angeles Clippers,2,8,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,-13,1,1,20040411,1,LAC,SAS
+Shot Chart Detail,20301160,149,77,Doug Overton,1610612746,Los Angeles Clippers,2,7,13,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-182,-18,1,1,20040411,1,LAC,SAS
+Shot Chart Detail,20301160,176,77,Doug Overton,1610612746,Los Angeles Clippers,2,4,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-52,91,1,0,20040411,0,LAC,SAS
+Shot Chart Detail,20301160,324,77,Doug Overton,1610612746,Los Angeles Clippers,3,1,58,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-118,186,1,1,20040411,1,LAC,SAS
+Shot Chart Detail,20301160,403,77,Doug Overton,1610612746,Los Angeles Clippers,4,5,34,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,23,131,192,1,0,20040411,0,LAC,SAS
+Shot Chart Detail,20301160,430,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,48,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040411,0,LAC,SAS
+Shot Chart Detail,20301160,433,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040411,0,LAC,SAS
+Shot Chart Detail,20301160,437,77,Doug Overton,1610612746,Los Angeles Clippers,4,1,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-28,265,1,0,20040411,0,LAC,SAS
+Shot Chart Detail,20301160,477,77,Doug Overton,1610612746,Los Angeles Clippers,4,0,8,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,-6,1,0,20040411,0,LAC,SAS
+Shot Chart Detail,20301174,25,77,Doug Overton,1610612746,Los Angeles Clippers,1,9,7,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,11,104,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,35,77,Doug Overton,1610612746,Los Angeles Clippers,1,7,42,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-148,125,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,52,77,Doug Overton,1610612746,Los Angeles Clippers,1,5,17,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,184,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,68,77,Doug Overton,1610612746,Los Angeles Clippers,1,3,24,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,138,132,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,73,77,Doug Overton,1610612746,Los Angeles Clippers,1,2,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,100,77,Doug Overton,1610612746,Los Angeles Clippers,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,35,148,319,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,244,77,Doug Overton,1610612746,Los Angeles Clippers,3,11,6,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,260,77,Doug Overton,1610612746,Los Angeles Clippers,3,9,16,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,133,17,1,1,20040413,1,PHX,LAC
+Shot Chart Detail,20301174,381,77,Doug Overton,1610612746,Los Angeles Clippers,4,7,11,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,38,257,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301174,431,77,Doug Overton,1610612746,Los Angeles Clippers,4,2,12,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,98,156,1,0,20040413,0,PHX,LAC
+Shot Chart Detail,20301188,187,77,Doug Overton,1610612746,Los Angeles Clippers,2,3,5,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,110,151,1,1,20040414,1,LAC,SEA
+Shot Chart Detail,20301188,226,77,Doug Overton,1610612746,Los Angeles Clippers,3,10,55,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,0,20040414,0,LAC,SEA
+Shot Chart Detail,20300007,380,77,Doug Overton,1610612751,New Jersey Nets,4,9,39,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-85,138,1,1,20031029,0,TOR,NJN
+Shot Chart Detail,20300027,390,77,Doug Overton,1610612751,New Jersey Nets,4,9,44,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,155,1,0,20031101,0,WAS,NJN
+Shot Chart Detail,20300027,458,77,Doug Overton,1610612751,New Jersey Nets,4,1,10,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-197,-37,1,1,20031101,1,WAS,NJN
+Shot Chart Detail,20300027,471,77,Doug Overton,1610612751,New Jersey Nets,4,0,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,43,1,0,20031101,0,WAS,NJN
+Shot Chart Detail,20300066,81,77,Doug Overton,1610612751,New Jersey Nets,1,1,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-189,13,1,0,20031107,0,BOS,NJN
+Shot Chart Detail,20300066,92,77,Doug Overton,1610612751,New Jersey Nets,1,0,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-51,69,1,0,20031107,0,BOS,NJN
+Shot Chart Detail,20300104,427,77,Doug Overton,1610612751,New Jersey Nets,4,1,23,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-159,127,1,1,20031112,1,NJN,SAS
+Shot Chart Detail,20300104,435,77,Doug Overton,1610612751,New Jersey Nets,4,0,23,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,107,173,1,0,20031112,0,NJN,SAS

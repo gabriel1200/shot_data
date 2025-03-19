@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041700111,172,203092,Tyler Zeller,1610612749,Milwaukee Bucks,2,9,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,29,1,1,20180415,BOS,MIL
-Shot Chart Detail,0041700113,351,203092,Tyler Zeller,1610612749,Milwaukee Bucks,3,10,13,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20180420,MIL,BOS
-Shot Chart Detail,0041700114,92,203092,Tyler Zeller,1610612749,Milwaukee Bucks,1,5,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,-7,1,0,20180422,MIL,BOS
-Shot Chart Detail,0041700114,343,203092,Tyler Zeller,1610612749,Milwaukee Bucks,3,11,43,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,8,1,1,20180422,MIL,BOS
-Shot Chart Detail,0041700116,101,203092,Tyler Zeller,1610612749,Milwaukee Bucks,1,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,156,1,1,20180426,MIL,BOS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41700111,172,203092,Tyler Zeller,1610612749,Milwaukee Bucks,2,9,38,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,29,1,1,20180415,0,BOS,MIL
+Shot Chart Detail,41700113,351,203092,Tyler Zeller,1610612749,Milwaukee Bucks,3,10,13,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,1,20180420,1,MIL,BOS
+Shot Chart Detail,41700114,92,203092,Tyler Zeller,1610612749,Milwaukee Bucks,1,5,17,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,-7,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,343,203092,Tyler Zeller,1610612749,Milwaukee Bucks,3,11,43,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,14,8,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700116,101,203092,Tyler Zeller,1610612749,Milwaukee Bucks,1,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-25,156,1,1,20180426,1,MIL,BOS

@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021900766,238,1629621,Marial Shayok,1610612755,Philadelphia 76ers,2,7,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,151,1,1,20200206,MIL,PHI
-Shot Chart Detail,0021900766,266,1629621,Marial Shayok,1610612755,Philadelphia 76ers,2,4,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,13,1,0,20200206,MIL,PHI
-Shot Chart Detail,0021900766,281,1629621,Marial Shayok,1610612755,Philadelphia 76ers,2,3,58,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-20,1,0,20200206,MIL,PHI
-Shot Chart Detail,0021900769,723,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,0,20200207,PHI,MEM
-Shot Chart Detail,0021900769,732,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,0,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,76,185,1,0,20200207,PHI,MEM
-Shot Chart Detail,0021901305,682,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,3,30,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,117,1,0,20200812,PHI,TOR
-Shot Chart Detail,0021901305,691,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,2,59,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,25,1,1,20200812,PHI,TOR
-Shot Chart Detail,0021901305,694,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,2,21,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,121,151,1,0,20200812,PHI,TOR
-Shot Chart Detail,0021901315,540,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,4,59,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,105,1,0,20200814,HOU,PHI
-Shot Chart Detail,0021901315,552,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-12,288,1,1,20200814,HOU,PHI
-Shot Chart Detail,0021901315,581,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,251,1,0,20200814,HOU,PHI
-Shot Chart Detail,0021901315,599,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,71,270,1,0,20200814,HOU,PHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21900766,238,1629621,Marial Shayok,1610612755,Philadelphia 76ers,2,7,58,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,151,1,1,20200206,1,MIL,PHI
+Shot Chart Detail,21900766,266,1629621,Marial Shayok,1610612755,Philadelphia 76ers,2,4,47,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,13,1,0,20200206,0,MIL,PHI
+Shot Chart Detail,21900766,281,1629621,Marial Shayok,1610612755,Philadelphia 76ers,2,3,58,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,-20,1,0,20200206,0,MIL,PHI
+Shot Chart Detail,21900769,723,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,1,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,0,20200207,0,PHI,MEM
+Shot Chart Detail,21900769,732,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,0,45,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,76,185,1,0,20200207,0,PHI,MEM
+Shot Chart Detail,21901305,682,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,3,30,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,117,1,0,20200812,0,PHI,TOR
+Shot Chart Detail,21901305,691,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,2,59,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,25,1,1,20200812,0,PHI,TOR
+Shot Chart Detail,21901305,694,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,2,21,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,121,151,1,0,20200812,0,PHI,TOR
+Shot Chart Detail,21901315,540,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,4,59,Missed Shot,Layup Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,105,1,0,20200814,0,HOU,PHI
+Shot Chart Detail,21901315,552,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-12,288,1,1,20200814,1,HOU,PHI
+Shot Chart Detail,21901315,581,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-103,251,1,0,20200814,0,HOU,PHI
+Shot Chart Detail,21901315,599,1629621,Marial Shayok,1610612755,Philadelphia 76ers,4,0,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,71,270,1,0,20200814,0,HOU,PHI

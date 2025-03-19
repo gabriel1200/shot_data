@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041300211,435,201563,Michael Beasley,1610612748,Miami Heat,4,1,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20140506,MIA,BKN
-Shot Chart Detail,0041300213,462,201563,Michael Beasley,1610612748,Miami Heat,4,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,0,1,0,20140510,BKN,MIA
-Shot Chart Detail,0041300305,306,201563,Michael Beasley,1610612748,Miami Heat,3,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,19,1,0,20140528,IND,MIA
-Shot Chart Detail,0041300405,358,201563,Michael Beasley,1610612748,Miami Heat,3,1,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,0,20140615,SAS,MIA
-Shot Chart Detail,0041300405,380,201563,Michael Beasley,1610612748,Miami Heat,4,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20140615,SAS,MIA
-Shot Chart Detail,0041300405,421,201563,Michael Beasley,1610612748,Miami Heat,4,8,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20140615,SAS,MIA
-Shot Chart Detail,0041300405,432,201563,Michael Beasley,1610612748,Miami Heat,4,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,148,1,0,20140615,SAS,MIA
-Shot Chart Detail,0041300405,456,201563,Michael Beasley,1610612748,Miami Heat,4,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20140615,SAS,MIA
-Shot Chart Detail,0041300405,458,201563,Michael Beasley,1610612748,Miami Heat,4,3,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,1,20140615,SAS,MIA
-Shot Chart Detail,0041300405,473,201563,Michael Beasley,1610612748,Miami Heat,4,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-40,78,1,0,20140615,SAS,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41300211,435,201563,Michael Beasley,1610612748,Miami Heat,4,1,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,1,20140506,0,MIA,BKN
+Shot Chart Detail,41300213,462,201563,Michael Beasley,1610612748,Miami Heat,4,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,0,1,0,20140510,0,BKN,MIA
+Shot Chart Detail,41300305,306,201563,Michael Beasley,1610612748,Miami Heat,3,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,19,1,0,20140528,0,IND,MIA
+Shot Chart Detail,41300405,358,201563,Michael Beasley,1610612748,Miami Heat,3,1,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,0,20140615,0,SAS,MIA
+Shot Chart Detail,41300405,380,201563,Michael Beasley,1610612748,Miami Heat,4,10,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20140615,1,SAS,MIA
+Shot Chart Detail,41300405,421,201563,Michael Beasley,1610612748,Miami Heat,4,8,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20140615,0,SAS,MIA
+Shot Chart Detail,41300405,432,201563,Michael Beasley,1610612748,Miami Heat,4,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,78,148,1,0,20140615,0,SAS,MIA
+Shot Chart Detail,41300405,456,201563,Michael Beasley,1610612748,Miami Heat,4,4,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,1,20140615,0,SAS,MIA
+Shot Chart Detail,41300405,458,201563,Michael Beasley,1610612748,Miami Heat,4,3,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,61,1,1,20140615,0,SAS,MIA
+Shot Chart Detail,41300405,473,201563,Michael Beasley,1610612748,Miami Heat,4,2,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-40,78,1,0,20140615,0,SAS,MIA

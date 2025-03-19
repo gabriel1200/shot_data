@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0042100156,204,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,11,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,16,1,0,20220429,MIN,MEM
-Shot Chart Detail,0042100156,171,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,9,27,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,1,20220429,MIN,MEM
-Shot Chart Detail,0042100156,195,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20220429,MIN,MEM
-Shot Chart Detail,0042100156,198,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,7,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,17,1,0,20220429,MIN,MEM
-Shot Chart Detail,0042100156,479,202328,Greg Monroe,1610612750,Minnesota Timberwolves,3,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,0,20220429,MIN,MEM
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,42100156,204,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,11,47,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-15,16,1,0,20220429,0,MIN,MEM
+Shot Chart Detail,42100156,171,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,9,27,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-20,7,1,1,20220429,0,MIN,MEM
+Shot Chart Detail,42100156,195,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,7,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20220429,0,MIN,MEM
+Shot Chart Detail,42100156,198,202328,Greg Monroe,1610612750,Minnesota Timberwolves,2,7,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-17,17,1,0,20220429,0,MIN,MEM
+Shot Chart Detail,42100156,479,202328,Greg Monroe,1610612750,Minnesota Timberwolves,3,0,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,21,1,0,20220429,0,MIN,MEM

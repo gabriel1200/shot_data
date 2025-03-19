@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021801116,668,203159,Scott Machado,1610612747,Los Angeles Lakers,4,0,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-5,169,1,0,20190326,LAL,WAS
-Shot Chart Detail,0021801116,674,203159,Scott Machado,1610612747,Los Angeles Lakers,4,0,20,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20190326,LAL,WAS
-Shot Chart Detail,0021801121,558,203159,Scott Machado,1610612747,Los Angeles Lakers,4,9,50,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,1,1,1,20190327,UTA,LAL
-Shot Chart Detail,0021801121,604,203159,Scott Machado,1610612747,Los Angeles Lakers,4,7,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,0,20190327,UTA,LAL
-Shot Chart Detail,0021801121,699,203159,Scott Machado,1610612747,Los Angeles Lakers,4,1,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,1,20190327,UTA,LAL
-Shot Chart Detail,0021801121,705,203159,Scott Machado,1610612747,Los Angeles Lakers,4,1,28,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,117,222,1,1,20190327,UTA,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21801116,668,203159,Scott Machado,1610612747,Los Angeles Lakers,4,0,45,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-5,169,1,0,20190326,0,LAL,WAS
+Shot Chart Detail,21801116,674,203159,Scott Machado,1610612747,Los Angeles Lakers,4,0,20,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20190326,1,LAL,WAS
+Shot Chart Detail,21801121,558,203159,Scott Machado,1610612747,Los Angeles Lakers,4,9,50,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,1,1,1,20190327,0,UTA,LAL
+Shot Chart Detail,21801121,604,203159,Scott Machado,1610612747,Los Angeles Lakers,4,7,15,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,0,20190327,0,UTA,LAL
+Shot Chart Detail,21801121,699,203159,Scott Machado,1610612747,Los Angeles Lakers,4,1,48,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,1,20190327,0,UTA,LAL
+Shot Chart Detail,21801121,705,203159,Scott Machado,1610612747,Los Angeles Lakers,4,1,28,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,117,222,1,1,20190327,0,UTA,LAL

@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040800111,124,1630,Mikki Moore,1610612738,Boston Celtics,1,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,0,20090418,BOS,CHI
-Shot Chart Detail,0040800111,159,1630,Mikki Moore,1610612738,Boston Celtics,2,10,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20090418,BOS,CHI
-Shot Chart Detail,0040800111,176,1630,Mikki Moore,1610612738,Boston Celtics,2,8,25,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,0,20090418,BOS,CHI
-Shot Chart Detail,0040800112,236,1630,Mikki Moore,1610612738,Boston Celtics,2,4,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,50,1,1,20090420,BOS,CHI
-Shot Chart Detail,0040800116,247,1630,Mikki Moore,1610612738,Boston Celtics,2,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,168,102,1,0,20090430,CHI,BOS
-Shot Chart Detail,0040800117,236,1630,Mikki Moore,1610612738,Boston Celtics,2,1,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20090502,BOS,CHI
-Shot Chart Detail,0040800212,499,1630,Mikki Moore,1610612738,Boston Celtics,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-8,1,0,20090506,BOS,ORL
-Shot Chart Detail,0040800213,546,1630,Mikki Moore,1610612738,Boston Celtics,4,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,49,1,1,20090508,ORL,BOS
-Shot Chart Detail,0040800214,265,1630,Mikki Moore,1610612738,Boston Celtics,2,0,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090510,ORL,BOS
-Shot Chart Detail,0040800217,471,1630,Mikki Moore,1610612738,Boston Celtics,4,1,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20090517,BOS,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40800111,124,1630,Mikki Moore,1610612738,Boston Celtics,1,0,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,0,20090418,0,BOS,CHI
+Shot Chart Detail,40800111,159,1630,Mikki Moore,1610612738,Boston Celtics,2,10,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-2,1,1,20090418,0,BOS,CHI
+Shot Chart Detail,40800111,176,1630,Mikki Moore,1610612738,Boston Celtics,2,8,25,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,0,20090418,0,BOS,CHI
+Shot Chart Detail,40800112,236,1630,Mikki Moore,1610612738,Boston Celtics,2,4,0,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,50,1,1,20090420,1,BOS,CHI
+Shot Chart Detail,40800116,247,1630,Mikki Moore,1610612738,Boston Celtics,2,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,168,102,1,0,20090430,0,CHI,BOS
+Shot Chart Detail,40800117,236,1630,Mikki Moore,1610612738,Boston Celtics,2,1,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20090502,0,BOS,CHI
+Shot Chart Detail,40800212,499,1630,Mikki Moore,1610612738,Boston Celtics,4,1,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,157,-8,1,0,20090506,0,BOS,ORL
+Shot Chart Detail,40800213,546,1630,Mikki Moore,1610612738,Boston Celtics,4,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,49,1,1,20090508,1,ORL,BOS
+Shot Chart Detail,40800214,265,1630,Mikki Moore,1610612738,Boston Celtics,2,0,55,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090510,0,ORL,BOS
+Shot Chart Detail,40800217,471,1630,Mikki Moore,1610612738,Boston Celtics,4,1,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20090517,1,BOS,ORL

@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020800009,203,1903,Kenny Thomas,1610612758,Sacramento Kings,2,6,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,39,1,0,20081029,MIN,SAC
-Shot Chart Detail,0020800502,154,1903,Kenny Thomas,1610612758,Sacramento Kings,2,8,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090105,NJN,SAC
-Shot Chart Detail,0020800537,172,1903,Kenny Thomas,1610612758,Sacramento Kings,2,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,SAC,MIA
-Shot Chart Detail,0020800537,220,1903,Kenny Thomas,1610612758,Sacramento Kings,2,5,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090109,SAC,MIA
-Shot Chart Detail,0020800537,227,1903,Kenny Thomas,1610612758,Sacramento Kings,2,5,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,SAC,MIA
-Shot Chart Detail,0020800565,251,1903,Kenny Thomas,1610612758,Sacramento Kings,2,1,47,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090113,SAC,ORL
-Shot Chart Detail,0020800781,135,1903,Kenny Thomas,1610612758,Sacramento Kings,2,7,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,69,1,0,20090211,HOU,SAC
-Shot Chart Detail,0020800813,159,1903,Kenny Thomas,1610612758,Sacramento Kings,2,8,41,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,0,20090220,MEM,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20800009,203,1903,Kenny Thomas,1610612758,Sacramento Kings,2,6,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,39,1,0,20081029,0,MIN,SAC
+Shot Chart Detail,20800502,154,1903,Kenny Thomas,1610612758,Sacramento Kings,2,8,10,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090105,0,NJN,SAC
+Shot Chart Detail,20800537,172,1903,Kenny Thomas,1610612758,Sacramento Kings,2,9,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,1,SAC,MIA
+Shot Chart Detail,20800537,220,1903,Kenny Thomas,1610612758,Sacramento Kings,2,5,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090109,0,SAC,MIA
+Shot Chart Detail,20800537,227,1903,Kenny Thomas,1610612758,Sacramento Kings,2,5,13,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090109,0,SAC,MIA
+Shot Chart Detail,20800565,251,1903,Kenny Thomas,1610612758,Sacramento Kings,2,1,47,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090113,0,SAC,ORL
+Shot Chart Detail,20800781,135,1903,Kenny Thomas,1610612758,Sacramento Kings,2,7,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-15,69,1,0,20090211,0,HOU,SAC
+Shot Chart Detail,20800813,159,1903,Kenny Thomas,1610612758,Sacramento Kings,2,8,41,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,61,41,1,0,20090220,0,MEM,SAC

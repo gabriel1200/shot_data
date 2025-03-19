@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041400126,356,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,85,1,0,20150430,MIL,CHI
-Shot Chart Detail,0041400126,367,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,236,91,1,0,20150430,MIL,CHI
-Shot Chart Detail,0041400126,382,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,0,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,0,20150430,MIL,CHI
-Shot Chart Detail,0041400126,389,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-164,231,1,1,20150430,MIL,CHI
-Shot Chart Detail,0041400126,394,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,266,1,0,20150430,MIL,CHI
-Shot Chart Detail,0041400126,410,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,8,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,106,107,1,1,20150430,MIL,CHI
-Shot Chart Detail,0041400126,443,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,4,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,0,20150430,MIL,CHI
-Shot Chart Detail,0041400126,449,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,4,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-142,236,1,0,20150430,MIL,CHI
-Shot Chart Detail,0041400126,495,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,230,129,1,0,20150430,MIL,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41400126,356,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,3,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-160,85,1,0,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,367,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,1,48,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,236,91,1,0,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,382,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,0,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,0,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,389,203898,Tyler Ennis,1610612749,Milwaukee Bucks,3,0,0,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-164,231,1,1,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,394,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,11,22,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,6,266,1,0,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,410,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,8,24,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,106,107,1,1,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,443,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,4,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,3,1,0,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,449,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,4,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-142,236,1,0,20150430,0,MIL,CHI
+Shot Chart Detail,41400126,495,203898,Tyler Ennis,1610612749,Milwaukee Bucks,4,0,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,230,129,1,0,20150430,0,MIL,CHI

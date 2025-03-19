@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500201,561,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20160502,CLE,ATL
-Shot Chart Detail,0041500202,530,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,4,38,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-1,1,0,20160504,CLE,ATL
-Shot Chart Detail,0041500202,554,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,2,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,31,1,1,20160504,CLE,ATL
-Shot Chart Detail,0041500301,514,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-11,1,0,20160517,CLE,TOR
-Shot Chart Detail,0041500302,536,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,1,25,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-5,1,1,20160519,CLE,TOR
-Shot Chart Detail,0041500305,487,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-166,70,1,0,20160525,CLE,TOR
-Shot Chart Detail,0041500305,542,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,1,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,1,20160525,CLE,TOR
-Shot Chart Detail,0041500305,547,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-176,80,1,0,20160525,CLE,TOR
-Shot Chart Detail,0041500306,474,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,36,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,148,154,1,0,20160527,TOR,CLE
-Shot Chart Detail,0041500402,460,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,2,36,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20160605,GSW,CLE
-Shot Chart Detail,0041500402,474,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,70,1,0,20160605,GSW,CLE
-Shot Chart Detail,0041500403,518,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,2,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,7,1,0,20160608,CLE,GSW
-Shot Chart Detail,0041500406,268,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,2,1,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,51,1,1,20160616,CLE,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500201,561,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,30,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20160502,0,CLE,ATL
+Shot Chart Detail,41500202,530,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,4,38,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,-1,1,0,20160504,0,CLE,ATL
+Shot Chart Detail,41500202,554,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,2,22,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,31,1,1,20160504,1,CLE,ATL
+Shot Chart Detail,41500301,514,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,45,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-238,-11,1,0,20160517,0,CLE,TOR
+Shot Chart Detail,41500302,536,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,1,25,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-5,1,1,20160519,1,CLE,TOR
+Shot Chart Detail,41500305,487,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,6,24,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-166,70,1,0,20160525,0,CLE,TOR
+Shot Chart Detail,41500305,542,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,1,5,Made Shot,Turnaround Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,1,20160525,0,CLE,TOR
+Shot Chart Detail,41500305,547,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,28,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-176,80,1,0,20160525,0,CLE,TOR
+Shot Chart Detail,41500306,474,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,0,36,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,148,154,1,0,20160527,0,TOR,CLE
+Shot Chart Detail,41500402,460,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,2,36,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,16,1,1,20160605,0,GSW,CLE
+Shot Chart Detail,41500402,474,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,1,5,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,140,70,1,0,20160605,0,GSW,CLE
+Shot Chart Detail,41500403,518,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,4,2,11,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,7,1,0,20160608,0,CLE,GSW
+Shot Chart Detail,41500406,268,2563,Dahntay Jones,1610612739,Cleveland Cavaliers,2,1,1,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,51,1,1,20160616,1,CLE,GSW

@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041000121,22,1497,Chauncey Billups,1610612752,New York Knicks,1,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,227,1,1,20110417,BOS,NYK
-Shot Chart Detail,0041000121,45,1497,Chauncey Billups,1610612752,New York Knicks,1,6,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,64,209,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,53,1497,Chauncey Billups,1610612752,New York Knicks,1,5,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,124,179,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,187,1497,Chauncey Billups,1610612752,New York Knicks,2,5,2,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,12,1,1,20110417,BOS,NYK
-Shot Chart Detail,0041000121,262,1497,Chauncey Billups,1610612752,New York Knicks,3,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,164,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,274,1497,Chauncey Billups,1610612752,New York Knicks,3,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,206,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,280,1497,Chauncey Billups,1610612752,New York Knicks,3,8,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,1,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,334,1497,Chauncey Billups,1610612752,New York Knicks,3,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,179,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,404,1497,Chauncey Billups,1610612752,New York Knicks,4,7,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,7,249,1,0,20110417,BOS,NYK
-Shot Chart Detail,0041000121,440,1497,Chauncey Billups,1610612752,New York Knicks,4,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,40,244,1,1,20110417,BOS,NYK
-Shot Chart Detail,0041000121,465,1497,Chauncey Billups,1610612752,New York Knicks,4,0,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,0,20110417,BOS,NYK
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41000121,22,1497,Chauncey Billups,1610612752,New York Knicks,1,9,38,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,227,1,1,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,45,1497,Chauncey Billups,1610612752,New York Knicks,1,6,50,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,64,209,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,53,1497,Chauncey Billups,1610612752,New York Knicks,1,5,44,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,124,179,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,187,1497,Chauncey Billups,1610612752,New York Knicks,2,5,2,Made Shot,Step Back Jump shot,,Mid-Range,Left Side(L),8-16 ft.,13,-131,12,1,1,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,262,1497,Chauncey Billups,1610612752,New York Knicks,3,9,39,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-60,164,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,274,1497,Chauncey Billups,1610612752,New York Knicks,3,9,9,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,206,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,280,1497,Chauncey Billups,1610612752,New York Knicks,3,8,16,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,1,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,334,1497,Chauncey Billups,1610612752,New York Knicks,3,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,179,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,404,1497,Chauncey Billups,1610612752,New York Knicks,4,7,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,7,249,1,0,20110417,0,BOS,NYK
+Shot Chart Detail,41000121,440,1497,Chauncey Billups,1610612752,New York Knicks,4,4,15,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,40,244,1,1,20110417,1,BOS,NYK
+Shot Chart Detail,41000121,465,1497,Chauncey Billups,1610612752,New York Knicks,4,0,59,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,0,20110417,0,BOS,NYK

@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020600248,270,2788,DJ Mbenga,1610612742,Dallas Mavericks,3,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,0,20061204,WAS,DAL
-Shot Chart Detail,0020600248,316,2788,DJ Mbenga,1610612742,Dallas Mavericks,3,2,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,64,184,1,0,20061204,WAS,DAL
-Shot Chart Detail,0020600307,410,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,8,21,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,59,1,0,20061211,UTA,DAL
-Shot Chart Detail,0020600307,484,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,25,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,38,1,1,20061211,UTA,DAL
-Shot Chart Detail,0020600361,466,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,20,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20061218,SAC,DAL
-Shot Chart Detail,0020600388,387,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,5,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,DAL,LAC
-Shot Chart Detail,0020600388,390,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,5,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,143,63,1,0,20061222,DAL,LAC
-Shot Chart Detail,0020600388,426,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20061222,DAL,LAC
-Shot Chart Detail,0020600388,432,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,87,1,0,20061222,DAL,LAC
-Shot Chart Detail,0020600448,110,2788,DJ Mbenga,1610612742,Dallas Mavericks,1,0,1,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,58,1,0,20061230,DAL,NOK
-Shot Chart Detail,0020600448,485,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,91,1,0,20061230,DAL,NOK
-Shot Chart Detail,0020600464,481,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,DAL,SEA
-Shot Chart Detail,0020600477,505,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,95,1,0,20070104,DAL,IND
-Shot Chart Detail,0020600524,362,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,10,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070110,DAL,POR
-Shot Chart Detail,0020600617,475,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070123,ORL,DAL
-Shot Chart Detail,0020600632,503,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070125,CHI,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20600248,270,2788,DJ Mbenga,1610612742,Dallas Mavericks,3,7,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,-5,1,0,20061204,0,WAS,DAL
+Shot Chart Detail,20600248,316,2788,DJ Mbenga,1610612742,Dallas Mavericks,3,2,40,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,64,184,1,0,20061204,0,WAS,DAL
+Shot Chart Detail,20600307,410,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,8,21,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,59,1,0,20061211,0,UTA,DAL
+Shot Chart Detail,20600307,484,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,25,Made Shot,Jump Bank Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,38,1,1,20061211,1,UTA,DAL
+Shot Chart Detail,20600361,466,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,20,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20061218,0,SAC,DAL
+Shot Chart Detail,20600388,387,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,5,46,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20061222,1,DAL,LAC
+Shot Chart Detail,20600388,390,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,5,6,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,143,63,1,0,20061222,0,DAL,LAC
+Shot Chart Detail,20600388,426,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,58,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20061222,0,DAL,LAC
+Shot Chart Detail,20600388,432,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,5,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-97,87,1,0,20061222,0,DAL,LAC
+Shot Chart Detail,20600448,110,2788,DJ Mbenga,1610612742,Dallas Mavericks,1,0,1,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,58,1,0,20061230,0,DAL,NOK
+Shot Chart Detail,20600448,485,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,19,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,91,1,0,20061230,0,DAL,NOK
+Shot Chart Detail,20600464,481,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,1,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070102,0,DAL,SEA
+Shot Chart Detail,20600477,505,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,59,95,1,0,20070104,0,DAL,IND
+Shot Chart Detail,20600524,362,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,10,30,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070110,1,DAL,POR
+Shot Chart Detail,20600617,475,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070123,0,ORL,DAL
+Shot Chart Detail,20600632,503,2788,DJ Mbenga,1610612742,Dallas Mavericks,4,0,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070125,1,CHI,DAL

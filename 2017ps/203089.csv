@@ -1,5 +1,5 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041600125,494,203089,John Henson,1610612749,Milwaukee Bucks,4,0,46,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,16,1,0,20170424,TOR,MIL
-Shot Chart Detail,0041600125,497,203089,John Henson,1610612749,Milwaukee Bucks,4,0,26,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,38,1,1,20170424,TOR,MIL
-Shot Chart Detail,0041600126,115,203089,John Henson,1610612749,Milwaukee Bucks,1,0,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-4,1,0,20170427,MIL,TOR
-Shot Chart Detail,0041600126,188,203089,John Henson,1610612749,Milwaukee Bucks,2,5,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,52,1,0,20170427,MIL,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41600125,494,203089,John Henson,1610612749,Milwaukee Bucks,4,0,46,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,16,1,0,20170424,0,TOR,MIL
+Shot Chart Detail,41600125,497,203089,John Henson,1610612749,Milwaukee Bucks,4,0,26,Made Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,9,38,1,1,20170424,1,TOR,MIL
+Shot Chart Detail,41600126,115,203089,John Henson,1610612749,Milwaukee Bucks,1,0,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-4,1,0,20170427,0,MIL,TOR
+Shot Chart Detail,41600126,188,203089,John Henson,1610612749,Milwaukee Bucks,2,5,11,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,52,1,0,20170427,0,MIL,TOR

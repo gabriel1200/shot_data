@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020001132,451,1952,Raja Bell,1610612755,Philadelphia 76ers,4,3,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,247,1,0,20010412,ORL,PHI
-Shot Chart Detail,0020001174,186,1952,Raja Bell,1610612755,Philadelphia 76ers,2,3,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,26,1,1,20010417,IND,PHI
-Shot Chart Detail,0020001174,209,1952,Raja Bell,1610612755,Philadelphia 76ers,2,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,96,194,1,0,20010417,IND,PHI
-Shot Chart Detail,0020001174,437,1952,Raja Bell,1610612755,Philadelphia 76ers,4,4,44,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,36,1,0,20010417,IND,PHI
-Shot Chart Detail,0020001174,441,1952,Raja Bell,1610612755,Philadelphia 76ers,4,4,16,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,-8,1,0,20010417,IND,PHI
-Shot Chart Detail,0020001181,152,1952,Raja Bell,1610612755,Philadelphia 76ers,2,5,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,PHI,CHI
-Shot Chart Detail,0020001181,198,1952,Raja Bell,1610612755,Philadelphia 76ers,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,48,56,479,1,0,20010418,PHI,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20001132,451,1952,Raja Bell,1610612755,Philadelphia 76ers,4,3,3,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,1,247,1,0,20010412,0,ORL,PHI
+Shot Chart Detail,20001174,186,1952,Raja Bell,1610612755,Philadelphia 76ers,2,3,21,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,26,1,1,20010417,1,IND,PHI
+Shot Chart Detail,20001174,209,1952,Raja Bell,1610612755,Philadelphia 76ers,2,1,39,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,96,194,1,0,20010417,0,IND,PHI
+Shot Chart Detail,20001174,437,1952,Raja Bell,1610612755,Philadelphia 76ers,4,4,44,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-4,36,1,0,20010417,0,IND,PHI
+Shot Chart Detail,20001174,441,1952,Raja Bell,1610612755,Philadelphia 76ers,4,4,16,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,37,-8,1,0,20010417,0,IND,PHI
+Shot Chart Detail,20001181,152,1952,Raja Bell,1610612755,Philadelphia 76ers,2,5,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,0,PHI,CHI
+Shot Chart Detail,20001181,198,1952,Raja Bell,1610612755,Philadelphia 76ers,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,48,56,479,1,0,20010418,0,PHI,CHI

@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021400003,180,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,0,20141028,LAL,HOU
-Shot Chart Detail,0021400003,479,202333,Xavier Henry,1610612747,Los Angeles Lakers,3,0,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,31,1,0,20141028,LAL,HOU
-Shot Chart Detail,0021400003,486,202333,Xavier Henry,1610612747,Los Angeles Lakers,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20141028,LAL,HOU
-Shot Chart Detail,0021400003,500,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-101,148,1,0,20141028,LAL,HOU
-Shot Chart Detail,0021400097,136,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,9,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,0,20141109,LAL,CHA
-Shot Chart Detail,0021400097,155,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,7,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-141,151,1,0,20141109,LAL,CHA
-Shot Chart Detail,0021400104,122,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,41,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,119,82,1,0,20141111,MEM,LAL
-Shot Chart Detail,0021400104,126,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,4,1,1,20141111,MEM,LAL
-Shot Chart Detail,0021400114,133,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,0,20141112,NOP,LAL
-Shot Chart Detail,0021400114,170,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,7,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20141112,NOP,LAL
-Shot Chart Detail,0021400131,510,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,0,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,15,1,0,20141114,LAL,SAS
-Shot Chart Detail,0021400145,551,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,4,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,162,1,1,20141116,LAL,GSW
-Shot Chart Detail,0021400180,429,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,7,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,30,1,0,20141121,DAL,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21400003,180,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,0,20141028,0,LAL,HOU
+Shot Chart Detail,21400003,479,202333,Xavier Henry,1610612747,Los Angeles Lakers,3,0,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,187,31,1,0,20141028,0,LAL,HOU
+Shot Chart Detail,21400003,486,202333,Xavier Henry,1610612747,Los Angeles Lakers,3,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,0,20141028,0,LAL,HOU
+Shot Chart Detail,21400003,500,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,10,51,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-101,148,1,0,20141028,0,LAL,HOU
+Shot Chart Detail,21400097,136,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,9,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,0,20141109,0,LAL,CHA
+Shot Chart Detail,21400097,155,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,7,34,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-141,151,1,0,20141109,0,LAL,CHA
+Shot Chart Detail,21400104,122,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,41,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,119,82,1,0,20141111,0,MEM,LAL
+Shot Chart Detail,21400104,126,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,10,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-133,4,1,1,20141111,1,MEM,LAL
+Shot Chart Detail,21400114,133,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,11,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,0,20141112,0,NOP,LAL
+Shot Chart Detail,21400114,170,202333,Xavier Henry,1610612747,Los Angeles Lakers,2,7,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20141112,0,NOP,LAL
+Shot Chart Detail,21400131,510,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,0,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,15,1,0,20141114,0,LAL,SAS
+Shot Chart Detail,21400145,551,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,4,56,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,97,162,1,1,20141116,1,LAL,GSW
+Shot Chart Detail,21400180,429,202333,Xavier Henry,1610612747,Los Angeles Lakers,4,7,20,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-155,30,1,0,20141121,0,DAL,LAL

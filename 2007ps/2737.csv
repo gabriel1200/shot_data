@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040600174,463,2737,Rafael Araujo,1610612762,Utah Jazz,4,0,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,31,174,1,0,20070428,UTA,HOU
-Shot Chart Detail,0040600223,494,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,48,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,17,1,0,20070511,GSW,UTA
-Shot Chart Detail,0040600223,496,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,44,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,18,1,0,20070511,GSW,UTA
-Shot Chart Detail,0040600311,439,2737,Rafael Araujo,1610612762,Utah Jazz,4,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20070520,SAS,UTA
-Shot Chart Detail,0040600311,468,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,2,1,0,20070520,SAS,UTA
-Shot Chart Detail,0040600315,312,2737,Rafael Araujo,1610612762,Utah Jazz,3,5,16,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,53,1,1,20070530,SAS,UTA
-Shot Chart Detail,0040600315,457,2737,Rafael Araujo,1610612762,Utah Jazz,4,2,36,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,68,1,0,20070530,SAS,UTA
-Shot Chart Detail,0040600315,463,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-1,1,1,20070530,SAS,UTA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40600174,463,2737,Rafael Araujo,1610612762,Utah Jazz,4,0,19,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,31,174,1,0,20070428,0,UTA,HOU
+Shot Chart Detail,40600223,494,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,48,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-26,17,1,0,20070511,0,GSW,UTA
+Shot Chart Detail,40600223,496,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,44,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,33,18,1,0,20070511,0,GSW,UTA
+Shot Chart Detail,40600311,439,2737,Rafael Araujo,1610612762,Utah Jazz,4,5,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20070520,1,SAS,UTA
+Shot Chart Detail,40600311,468,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,37,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-113,2,1,0,20070520,0,SAS,UTA
+Shot Chart Detail,40600315,312,2737,Rafael Araujo,1610612762,Utah Jazz,3,5,16,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,53,1,1,20070530,0,SAS,UTA
+Shot Chart Detail,40600315,457,2737,Rafael Araujo,1610612762,Utah Jazz,4,2,36,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,13,68,1,0,20070530,0,SAS,UTA
+Shot Chart Detail,40600315,463,2737,Rafael Araujo,1610612762,Utah Jazz,4,1,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,-1,1,1,20070530,0,SAS,UTA

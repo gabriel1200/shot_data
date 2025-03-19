@@ -1,5 +1,5 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021700183,563,1627856,Matt Costello,1610612759,San Antonio Spurs,4,1,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20171111,SAS,CHI
-Shot Chart Detail,0021700596,142,1627856,Matt Costello,1610612759,San Antonio Spurs,2,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,9,1,0,20180108,SAC,SAS
-Shot Chart Detail,0021700617,624,1627856,Matt Costello,1610612759,San Antonio Spurs,4,0,17,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180111,LAL,SAS
-Shot Chart Detail,0021701001,566,1627856,Matt Costello,1610612759,San Antonio Spurs,4,5,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,17,1,1,20180312,HOU,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21700183,563,1627856,Matt Costello,1610612759,San Antonio Spurs,4,1,59,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,9,1,1,20171111,1,SAS,CHI
+Shot Chart Detail,21700596,142,1627856,Matt Costello,1610612759,San Antonio Spurs,2,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,9,1,0,20180108,0,SAC,SAS
+Shot Chart Detail,21700617,624,1627856,Matt Costello,1610612759,San Antonio Spurs,4,0,17,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20180111,0,LAL,SAS
+Shot Chart Detail,21701001,566,1627856,Matt Costello,1610612759,San Antonio Spurs,4,5,34,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-3,17,1,1,20180312,1,HOU,SAS

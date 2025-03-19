@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041900161,134,1628396,Tony Bradley,1610612762,Utah Jazz,1,1,18,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200817,DEN,UTA
-Shot Chart Detail,0041900161,136,1628396,Tony Bradley,1610612762,Utah Jazz,1,1,16,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200817,DEN,UTA
-Shot Chart Detail,0041900161,462,1628396,Tony Bradley,1610612762,Utah Jazz,3,0,38,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,19,52,1,0,20200817,DEN,UTA
-Shot Chart Detail,0041900162,179,1628396,Tony Bradley,1610612762,Utah Jazz,2,7,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20200819,DEN,UTA
-Shot Chart Detail,0041900162,580,1628396,Tony Bradley,1610612762,Utah Jazz,4,3,45,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,0,20200819,DEN,UTA
-Shot Chart Detail,0041900163,162,1628396,Tony Bradley,1610612762,Utah Jazz,2,11,39,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20200821,UTA,DEN
-Shot Chart Detail,0041900164,511,1628396,Tony Bradley,1610612762,Utah Jazz,4,9,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,0,20200823,UTA,DEN
-Shot Chart Detail,0041900165,155,1628396,Tony Bradley,1610612762,Utah Jazz,2,11,11,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,20,1,1,20200825,DEN,UTA
-Shot Chart Detail,0041900166,168,1628396,Tony Bradley,1610612762,Utah Jazz,2,10,22,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,58,1,0,20200830,UTA,DEN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41900161,134,1628396,Tony Bradley,1610612762,Utah Jazz,1,1,18,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200817,0,DEN,UTA
+Shot Chart Detail,41900161,136,1628396,Tony Bradley,1610612762,Utah Jazz,1,1,16,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200817,0,DEN,UTA
+Shot Chart Detail,41900161,462,1628396,Tony Bradley,1610612762,Utah Jazz,3,0,38,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,19,52,1,0,20200817,0,DEN,UTA
+Shot Chart Detail,41900162,179,1628396,Tony Bradley,1610612762,Utah Jazz,2,7,54,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20200819,1,DEN,UTA
+Shot Chart Detail,41900162,580,1628396,Tony Bradley,1610612762,Utah Jazz,4,3,45,Missed Shot,Tip Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,0,20200819,0,DEN,UTA
+Shot Chart Detail,41900163,162,1628396,Tony Bradley,1610612762,Utah Jazz,2,11,39,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20200821,0,UTA,DEN
+Shot Chart Detail,41900164,511,1628396,Tony Bradley,1610612762,Utah Jazz,4,9,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,25,1,0,20200823,0,UTA,DEN
+Shot Chart Detail,41900165,155,1628396,Tony Bradley,1610612762,Utah Jazz,2,11,11,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,27,20,1,1,20200825,1,DEN,UTA
+Shot Chart Detail,41900166,168,1628396,Tony Bradley,1610612762,Utah Jazz,2,10,22,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,58,1,0,20200830,0,UTA,DEN

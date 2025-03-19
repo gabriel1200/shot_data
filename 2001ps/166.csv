@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000049,466,166,Ron Harper,1610612747,Los Angeles Lakers,4,4,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,135,1,0,20010508,LAL,SAC
-Shot Chart Detail,0040000072,253,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-17,1,0,20010527,LAL,SAS
-Shot Chart Detail,0040000084,225,166,Ron Harper,1610612747,Los Angeles Lakers,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,196,1,0,20010608,LAL,PHI
-Shot Chart Detail,0040000084,234,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010608,LAL,PHI
-Shot Chart Detail,0040000084,490,166,Ron Harper,1610612747,Los Angeles Lakers,4,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,-2,1,1,20010608,LAL,PHI
-Shot Chart Detail,0040000086,158,166,Ron Harper,1610612747,Los Angeles Lakers,2,5,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010613,PHI,LAL
-Shot Chart Detail,0040000086,165,166,Ron Harper,1610612747,Los Angeles Lakers,2,5,20,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010613,PHI,LAL
-Shot Chart Detail,0040000086,177,166,Ron Harper,1610612747,Los Angeles Lakers,2,4,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-2,1,1,20010613,PHI,LAL
-Shot Chart Detail,0040000086,211,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-2,1,0,20010613,PHI,LAL
-Shot Chart Detail,0040000086,217,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,42,1,0,20010613,PHI,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000049,466,166,Ron Harper,1610612747,Los Angeles Lakers,4,4,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,15,-79,135,1,0,20010508,0,LAL,SAC
+Shot Chart Detail,40000072,253,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,2,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-17,1,0,20010527,0,LAL,SAS
+Shot Chart Detail,40000084,225,166,Ron Harper,1610612747,Los Angeles Lakers,2,1,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,196,1,0,20010608,0,LAL,PHI
+Shot Chart Detail,40000084,234,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010608,1,LAL,PHI
+Shot Chart Detail,40000084,490,166,Ron Harper,1610612747,Los Angeles Lakers,4,1,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,-2,1,1,20010608,1,LAL,PHI
+Shot Chart Detail,40000086,158,166,Ron Harper,1610612747,Los Angeles Lakers,2,5,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010613,1,PHI,LAL
+Shot Chart Detail,40000086,165,166,Ron Harper,1610612747,Los Angeles Lakers,2,5,20,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010613,1,PHI,LAL
+Shot Chart Detail,40000086,177,166,Ron Harper,1610612747,Los Angeles Lakers,2,4,4,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,-2,1,1,20010613,1,PHI,LAL
+Shot Chart Detail,40000086,211,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-2,1,0,20010613,0,PHI,LAL
+Shot Chart Detail,40000086,217,166,Ron Harper,1610612747,Los Angeles Lakers,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,42,1,0,20010613,0,PHI,LAL

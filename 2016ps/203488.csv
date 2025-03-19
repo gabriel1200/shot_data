@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500132,78,203488,Mike Muscala,1610612737,Atlanta Hawks,1,4,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,0,20160419,ATL,BOS
-Shot Chart Detail,0041500132,95,203488,Mike Muscala,1610612737,Atlanta Hawks,1,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,27,247,1,0,20160419,ATL,BOS
-Shot Chart Detail,0041500132,475,203488,Mike Muscala,1610612737,Atlanta Hawks,4,5,59,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,82,1,0,20160419,ATL,BOS
-Shot Chart Detail,0041500132,546,203488,Mike Muscala,1610612737,Atlanta Hawks,4,0,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20160419,ATL,BOS
-Shot Chart Detail,0041500133,94,203488,Mike Muscala,1610612737,Atlanta Hawks,1,3,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,7,1,0,20160422,BOS,ATL
-Shot Chart Detail,0041500133,104,203488,Mike Muscala,1610612737,Atlanta Hawks,1,3,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-68,234,1,0,20160422,BOS,ATL
-Shot Chart Detail,0041500134,150,203488,Mike Muscala,1610612737,Atlanta Hawks,2,9,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,7,1,1,20160424,BOS,ATL
-Shot Chart Detail,0041500134,158,203488,Mike Muscala,1610612737,Atlanta Hawks,2,9,14,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,20160424,BOS,ATL
-Shot Chart Detail,0041500134,427,203488,Mike Muscala,1610612737,Atlanta Hawks,4,11,4,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,2,1,1,20160424,BOS,ATL
-Shot Chart Detail,0041500135,140,203488,Mike Muscala,1610612737,Atlanta Hawks,2,11,48,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,2,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500135,148,203488,Mike Muscala,1610612737,Atlanta Hawks,2,10,50,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500135,482,203488,Mike Muscala,1610612737,Atlanta Hawks,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,11,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500135,490,203488,Mike Muscala,1610612737,Atlanta Hawks,4,5,54,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,0,20160426,ATL,BOS
-Shot Chart Detail,0041500136,128,203488,Mike Muscala,1610612737,Atlanta Hawks,2,10,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,3,1,1,20160428,BOS,ATL
-Shot Chart Detail,0041500136,153,203488,Mike Muscala,1610612737,Atlanta Hawks,2,8,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,2,1,1,20160428,BOS,ATL
-Shot Chart Detail,0041500202,471,203488,Mike Muscala,1610612737,Atlanta Hawks,4,10,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-1,1,1,20160504,CLE,ATL
-Shot Chart Detail,0041500202,503,203488,Mike Muscala,1610612737,Atlanta Hawks,4,6,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-1,1,1,20160504,CLE,ATL
-Shot Chart Detail,0041500202,535,203488,Mike Muscala,1610612737,Atlanta Hawks,4,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,252,1,1,20160504,CLE,ATL
-Shot Chart Detail,0041500202,546,203488,Mike Muscala,1610612737,Atlanta Hawks,4,3,32,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,21,1,0,20160504,CLE,ATL
-Shot Chart Detail,0041500202,561,203488,Mike Muscala,1610612737,Atlanta Hawks,4,1,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-53,67,1,1,20160504,CLE,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500132,78,203488,Mike Muscala,1610612737,Atlanta Hawks,1,4,16,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,2,1,0,20160419,0,ATL,BOS
+Shot Chart Detail,41500132,95,203488,Mike Muscala,1610612737,Atlanta Hawks,1,2,38,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,27,247,1,0,20160419,0,ATL,BOS
+Shot Chart Detail,41500132,475,203488,Mike Muscala,1610612737,Atlanta Hawks,4,5,59,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,125,82,1,0,20160419,0,ATL,BOS
+Shot Chart Detail,41500132,546,203488,Mike Muscala,1610612737,Atlanta Hawks,4,0,44,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20160419,1,ATL,BOS
+Shot Chart Detail,41500133,94,203488,Mike Muscala,1610612737,Atlanta Hawks,1,3,50,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,7,1,0,20160422,0,BOS,ATL
+Shot Chart Detail,41500133,104,203488,Mike Muscala,1610612737,Atlanta Hawks,1,3,2,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-68,234,1,0,20160422,0,BOS,ATL
+Shot Chart Detail,41500134,150,203488,Mike Muscala,1610612737,Atlanta Hawks,2,9,51,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,7,1,1,20160424,1,BOS,ATL
+Shot Chart Detail,41500134,158,203488,Mike Muscala,1610612737,Atlanta Hawks,2,9,14,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,20160424,0,BOS,ATL
+Shot Chart Detail,41500134,427,203488,Mike Muscala,1610612737,Atlanta Hawks,4,11,4,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,2,1,1,20160424,1,BOS,ATL
+Shot Chart Detail,41500135,140,203488,Mike Muscala,1610612737,Atlanta Hawks,2,11,48,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,2,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500135,148,203488,Mike Muscala,1610612737,Atlanta Hawks,2,10,50,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500135,482,203488,Mike Muscala,1610612737,Atlanta Hawks,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,11,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500135,490,203488,Mike Muscala,1610612737,Atlanta Hawks,4,5,54,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,8,1,0,20160426,0,ATL,BOS
+Shot Chart Detail,41500136,128,203488,Mike Muscala,1610612737,Atlanta Hawks,2,10,45,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,155,3,1,1,20160428,1,BOS,ATL
+Shot Chart Detail,41500136,153,203488,Mike Muscala,1610612737,Atlanta Hawks,2,8,12,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,2,1,1,20160428,1,BOS,ATL
+Shot Chart Detail,41500202,471,203488,Mike Muscala,1610612737,Atlanta Hawks,4,10,32,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,-1,1,1,20160504,1,CLE,ATL
+Shot Chart Detail,41500202,503,203488,Mike Muscala,1610612737,Atlanta Hawks,4,6,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,-1,1,1,20160504,0,CLE,ATL
+Shot Chart Detail,41500202,535,203488,Mike Muscala,1610612737,Atlanta Hawks,4,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,252,1,1,20160504,1,CLE,ATL
+Shot Chart Detail,41500202,546,203488,Mike Muscala,1610612737,Atlanta Hawks,4,3,32,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,21,1,0,20160504,0,CLE,ATL
+Shot Chart Detail,41500202,561,203488,Mike Muscala,1610612737,Atlanta Hawks,4,1,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-53,67,1,1,20160504,0,CLE,ATL

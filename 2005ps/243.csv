@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040400111,127,243,Aaron McKie,1610612755,Philadelphia 76ers,2,8,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,17,1,0,20050423,DET,PHI
-Shot Chart Detail,0040400112,98,243,Aaron McKie,1610612755,Philadelphia 76ers,2,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050426,DET,PHI
-Shot Chart Detail,0040400112,180,243,Aaron McKie,1610612755,Philadelphia 76ers,2,3,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,2,1,0,20050426,DET,PHI
-Shot Chart Detail,0040400115,83,243,Aaron McKie,1610612755,Philadelphia 76ers,1,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050503,DET,PHI
-Shot Chart Detail,0040400115,122,243,Aaron McKie,1610612755,Philadelphia 76ers,2,9,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,28,1,0,20050503,DET,PHI
-Shot Chart Detail,0040400115,216,243,Aaron McKie,1610612755,Philadelphia 76ers,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,64,1,1,20050503,DET,PHI
-Shot Chart Detail,0040400115,296,243,Aaron McKie,1610612755,Philadelphia 76ers,3,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,187,0,1,0,20050503,DET,PHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40400111,127,243,Aaron McKie,1610612755,Philadelphia 76ers,2,8,33,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-112,17,1,0,20050423,0,DET,PHI
+Shot Chart Detail,40400112,98,243,Aaron McKie,1610612755,Philadelphia 76ers,2,11,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050426,1,DET,PHI
+Shot Chart Detail,40400112,180,243,Aaron McKie,1610612755,Philadelphia 76ers,2,3,11,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,2,1,0,20050426,0,DET,PHI
+Shot Chart Detail,40400115,83,243,Aaron McKie,1610612755,Philadelphia 76ers,1,2,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050503,1,DET,PHI
+Shot Chart Detail,40400115,122,243,Aaron McKie,1610612755,Philadelphia 76ers,2,9,31,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,28,1,0,20050503,0,DET,PHI
+Shot Chart Detail,40400115,216,243,Aaron McKie,1610612755,Philadelphia 76ers,2,0,30,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,227,64,1,1,20050503,1,DET,PHI
+Shot Chart Detail,40400115,296,243,Aaron McKie,1610612755,Philadelphia 76ers,3,4,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,187,0,1,0,20050503,0,DET,PHI

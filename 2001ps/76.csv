@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000003,420,76,Cedric Ceballos,1610612748,Miami Heat,4,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-157,160,1,1,20010421,MIA,CHH
-Shot Chart Detail,0040000003,422,76,Cedric Ceballos,1610612748,Miami Heat,4,3,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-8,215,1,0,20010421,MIA,CHH
-Shot Chart Detail,0040000003,452,76,Cedric Ceballos,1610612748,Miami Heat,4,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010421,MIA,CHH
-Shot Chart Detail,0040000009,396,76,Cedric Ceballos,1610612748,Miami Heat,4,4,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,420,76,Cedric Ceballos,1610612748,Miami Heat,4,3,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010423,MIA,CHH
-Shot Chart Detail,0040000009,434,76,Cedric Ceballos,1610612748,Miami Heat,4,2,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010423,MIA,CHH
-Shot Chart Detail,0040000017,136,76,Cedric Ceballos,1610612748,Miami Heat,2,8,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,72,1,0,20010427,CHH,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000003,420,76,Cedric Ceballos,1610612748,Miami Heat,4,3,50,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-157,160,1,1,20010421,1,MIA,CHH
+Shot Chart Detail,40000003,422,76,Cedric Ceballos,1610612748,Miami Heat,4,3,14,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-8,215,1,0,20010421,0,MIA,CHH
+Shot Chart Detail,40000003,452,76,Cedric Ceballos,1610612748,Miami Heat,4,0,50,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010421,0,MIA,CHH
+Shot Chart Detail,40000009,396,76,Cedric Ceballos,1610612748,Miami Heat,4,4,51,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,420,76,Cedric Ceballos,1610612748,Miami Heat,4,3,20,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010423,0,MIA,CHH
+Shot Chart Detail,40000009,434,76,Cedric Ceballos,1610612748,Miami Heat,4,2,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010423,0,MIA,CHH
+Shot Chart Detail,40000017,136,76,Cedric Ceballos,1610612748,Miami Heat,2,8,56,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,72,1,0,20010427,0,CHH,MIA

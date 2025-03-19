@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040900233,44,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100508,UTA,LAL
-Shot Chart Detail,0040900233,45,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,6,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100508,UTA,LAL
-Shot Chart Detail,0040900233,58,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,4,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,23,94,1,0,20100508,UTA,LAL
-Shot Chart Detail,0040900233,84,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,1,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100508,UTA,LAL
-Shot Chart Detail,0040900233,219,1905,Andrei Kirilenko,1610612762,Utah Jazz,2,1,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100508,UTA,LAL
-Shot Chart Detail,0040900233,337,1905,Andrei Kirilenko,1610612762,Utah Jazz,3,3,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,56,1,0,20100508,UTA,LAL
-Shot Chart Detail,0040900233,378,1905,Andrei Kirilenko,1610612762,Utah Jazz,4,10,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,154,1,1,20100508,UTA,LAL
-Shot Chart Detail,0040900234,75,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100510,UTA,LAL
-Shot Chart Detail,0040900234,94,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,0,20100510,UTA,LAL
-Shot Chart Detail,0040900234,418,1905,Andrei Kirilenko,1610612762,Utah Jazz,4,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,175,1,0,20100510,UTA,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40900233,44,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,6,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100508,0,UTA,LAL
+Shot Chart Detail,40900233,45,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,6,7,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100508,0,UTA,LAL
+Shot Chart Detail,40900233,58,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,4,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,23,94,1,0,20100508,0,UTA,LAL
+Shot Chart Detail,40900233,84,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,1,43,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100508,1,UTA,LAL
+Shot Chart Detail,40900233,219,1905,Andrei Kirilenko,1610612762,Utah Jazz,2,1,54,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100508,1,UTA,LAL
+Shot Chart Detail,40900233,337,1905,Andrei Kirilenko,1610612762,Utah Jazz,3,3,5,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,201,56,1,0,20100508,0,UTA,LAL
+Shot Chart Detail,40900233,378,1905,Andrei Kirilenko,1610612762,Utah Jazz,4,10,46,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,61,154,1,1,20100508,0,UTA,LAL
+Shot Chart Detail,40900234,75,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,2,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100510,1,UTA,LAL
+Shot Chart Detail,40900234,94,1905,Andrei Kirilenko,1610612762,Utah Jazz,1,0,59,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,189,-3,1,0,20100510,0,UTA,LAL
+Shot Chart Detail,40900234,418,1905,Andrei Kirilenko,1610612762,Utah Jazz,4,9,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,175,1,0,20100510,0,UTA,LAL

@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0022000039,648,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-29,248,1,0,20201227,SAC,PHX
-Shot Chart Detail,0022000039,652,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,10,1,1,20201227,SAC,PHX
-Shot Chart Detail,0022000101,664,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,4,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-3,295,1,0,20210104,GSW,SAC
-Shot Chart Detail,0022000101,682,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,56,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,63,1,0,20210104,GSW,SAC
-Shot Chart Detail,0022000101,684,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,50,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210104,GSW,SAC
-Shot Chart Detail,0022000101,692,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,0,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,78,1,0,20210104,GSW,SAC
-Shot Chart Detail,0022000101,718,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,59,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,0,20210104,GSW,SAC
-Shot Chart Detail,0022000101,694,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,27,1,1,20210104,GSW,SAC
-Shot Chart Detail,0022000132,676,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,20,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20210108,SAC,TOR
-Shot Chart Detail,0022000140,701,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,210,123,1,1,20210109,SAC,POR
-Shot Chart Detail,0022000188,595,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20210115,SAC,LAC
-Shot Chart Detail,0022000263,134,1630218,Robert Woodard II,1610612758,Sacramento Kings,1,1,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,232,1,0,20210514,MEM,SAC
-Shot Chart Detail,0022000263,172,1630218,Robert Woodard II,1610612758,Sacramento Kings,1,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,47,0,474,1,0,20210514,MEM,SAC
-Shot Chart Detail,0022000641,677,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,36,-92,355,1,0,20210320,PHI,SAC
-Shot Chart Detail,0022000682,568,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,0,47,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-114,91,1,0,20210325,SAC,GSW
-Shot Chart Detail,0022000746,615,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,93,153,1,1,20210402,SAC,LAL
-Shot Chart Detail,0022001077,161,1630218,Robert Woodard II,1610612758,Sacramento Kings,2,11,31,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,10,1,1,20210516,SAC,UTA
-Shot Chart Detail,0022001077,186,1630218,Robert Woodard II,1610612758,Sacramento Kings,2,8,49,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-20,184,1,0,20210516,SAC,UTA
-Shot Chart Detail,0022001077,430,1630218,Robert Woodard II,1610612758,Sacramento Kings,3,2,38,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,3,1,0,20210516,SAC,UTA
-Shot Chart Detail,0022001077,459,1630218,Robert Woodard II,1610612758,Sacramento Kings,3,0,0,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,50,1,0,20210516,SAC,UTA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22000039,648,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,14,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-29,248,1,0,20201227,0,SAC,PHX
+Shot Chart Detail,22000039,652,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,37,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,10,1,1,20201227,1,SAC,PHX
+Shot Chart Detail,22000101,664,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,4,15,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,29,-3,295,1,0,20210104,0,GSW,SAC
+Shot Chart Detail,22000101,682,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,56,Missed Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,63,1,0,20210104,0,GSW,SAC
+Shot Chart Detail,22000101,684,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,50,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210104,0,GSW,SAC
+Shot Chart Detail,22000101,692,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,0,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,78,1,0,20210104,0,GSW,SAC
+Shot Chart Detail,22000101,718,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,59,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,5,36,1,0,20210104,0,GSW,SAC
+Shot Chart Detail,22000101,694,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,58,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-2,27,1,1,20210104,0,GSW,SAC
+Shot Chart Detail,22000132,676,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,20,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20210108,1,SAC,TOR
+Shot Chart Detail,22000140,701,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,2,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,210,123,1,1,20210109,1,SAC,POR
+Shot Chart Detail,22000188,595,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,8,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20210115,0,SAC,LAC
+Shot Chart Detail,22000263,134,1630218,Robert Woodard II,1610612758,Sacramento Kings,1,1,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,232,1,0,20210514,0,MEM,SAC
+Shot Chart Detail,22000263,172,1630218,Robert Woodard II,1610612758,Sacramento Kings,1,0,0,Missed Shot,Running Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,47,0,474,1,0,20210514,0,MEM,SAC
+Shot Chart Detail,22000641,677,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,1,24,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,36,-92,355,1,0,20210320,0,PHI,SAC
+Shot Chart Detail,22000682,568,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,0,47,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,14,-114,91,1,0,20210325,0,SAC,GSW
+Shot Chart Detail,22000746,615,1630218,Robert Woodard II,1610612758,Sacramento Kings,4,2,32,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,93,153,1,1,20210402,1,SAC,LAL
+Shot Chart Detail,22001077,161,1630218,Robert Woodard II,1610612758,Sacramento Kings,2,11,31,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,10,1,1,20210516,1,SAC,UTA
+Shot Chart Detail,22001077,186,1630218,Robert Woodard II,1610612758,Sacramento Kings,2,8,49,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,18,-20,184,1,0,20210516,0,SAC,UTA
+Shot Chart Detail,22001077,430,1630218,Robert Woodard II,1610612758,Sacramento Kings,3,2,38,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,3,1,0,20210516,0,SAC,UTA
+Shot Chart Detail,22001077,459,1630218,Robert Woodard II,1610612758,Sacramento Kings,3,0,0,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-52,50,1,0,20210516,0,SAC,UTA

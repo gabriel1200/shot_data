@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020100476,392,2073,Brian Cardinal,1610612765,Detroit Pistons,4,3,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,159,118,1,0,20020107,MIN,DET
-Shot Chart Detail,0020100476,402,2073,Brian Cardinal,1610612765,Detroit Pistons,4,2,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-23,1,1,20020107,MIN,DET
-Shot Chart Detail,0020100476,425,2073,Brian Cardinal,1610612765,Detroit Pistons,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,15,1,0,20020107,MIN,DET
-Shot Chart Detail,0020100482,406,2073,Brian Cardinal,1610612765,Detroit Pistons,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,231,87,1,0,20020108,DET,LAL
-Shot Chart Detail,0020100482,444,2073,Brian Cardinal,1610612765,Detroit Pistons,4,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,222,1,0,20020108,DET,LAL
-Shot Chart Detail,0020100503,442,2073,Brian Cardinal,1610612765,Detroit Pistons,4,3,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,19,1,1,20020111,BOS,DET
-Shot Chart Detail,0020100513,449,2073,Brian Cardinal,1610612765,Detroit Pistons,4,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-15,1,0,20020112,DET,CHH
-Shot Chart Detail,0020100573,130,2073,Brian Cardinal,1610612765,Detroit Pistons,2,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-117,141,1,1,20020121,DET,MIL
-Shot Chart Detail,0020100573,138,2073,Brian Cardinal,1610612765,Detroit Pistons,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,0,20020121,DET,MIL
-Shot Chart Detail,0020100573,157,2073,Brian Cardinal,1610612765,Detroit Pistons,2,7,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-96,243,1,0,20020121,DET,MIL
-Shot Chart Detail,0020100573,166,2073,Brian Cardinal,1610612765,Detroit Pistons,2,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,0,1,1,20020121,DET,MIL
-Shot Chart Detail,0020100573,470,2073,Brian Cardinal,1610612765,Detroit Pistons,4,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,150,101,1,1,20020121,DET,MIL
-Shot Chart Detail,0020100608,489,2073,Brian Cardinal,1610612765,Detroit Pistons,4,1,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,34,1,1,20020125,ATL,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20100476,392,2073,Brian Cardinal,1610612765,Detroit Pistons,4,3,22,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,159,118,1,0,20020107,0,MIN,DET
+Shot Chart Detail,20100476,402,2073,Brian Cardinal,1610612765,Detroit Pistons,4,2,42,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-23,1,1,20020107,1,MIN,DET
+Shot Chart Detail,20100476,425,2073,Brian Cardinal,1610612765,Detroit Pistons,4,0,15,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,15,1,0,20020107,0,MIN,DET
+Shot Chart Detail,20100482,406,2073,Brian Cardinal,1610612765,Detroit Pistons,4,4,30,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,231,87,1,0,20020108,0,DET,LAL
+Shot Chart Detail,20100482,444,2073,Brian Cardinal,1610612765,Detroit Pistons,4,0,13,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,222,1,0,20020108,0,DET,LAL
+Shot Chart Detail,20100503,442,2073,Brian Cardinal,1610612765,Detroit Pistons,4,3,9,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,19,1,1,20020111,1,BOS,DET
+Shot Chart Detail,20100513,449,2073,Brian Cardinal,1610612765,Detroit Pistons,4,1,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,-15,1,0,20020112,0,DET,CHH
+Shot Chart Detail,20100573,130,2073,Brian Cardinal,1610612765,Detroit Pistons,2,11,3,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-117,141,1,1,20020121,1,DET,MIL
+Shot Chart Detail,20100573,138,2073,Brian Cardinal,1610612765,Detroit Pistons,2,9,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,0,1,0,20020121,0,DET,MIL
+Shot Chart Detail,20100573,157,2073,Brian Cardinal,1610612765,Detroit Pistons,2,7,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-96,243,1,0,20020121,0,DET,MIL
+Shot Chart Detail,20100573,166,2073,Brian Cardinal,1610612765,Detroit Pistons,2,6,49,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,0,1,1,20020121,1,DET,MIL
+Shot Chart Detail,20100573,470,2073,Brian Cardinal,1610612765,Detroit Pistons,4,2,9,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,150,101,1,1,20020121,0,DET,MIL
+Shot Chart Detail,20100608,489,2073,Brian Cardinal,1610612765,Detroit Pistons,4,1,19,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,34,1,1,20020125,1,ATL,DET

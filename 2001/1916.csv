@@ -1,505 +1,253 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020000119,185,1916,Calvin Booth,1610612764,Washington Wizards,2,2,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-44,129,1,0,20001116,WAS,SAS
-Shot Chart Detail,0020000135,433,1916,Calvin Booth,1610612764,Washington Wizards,4,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,57,1,0,20001118,WAS,BOS
-Shot Chart Detail,0020000135,447,1916,Calvin Booth,1610612764,Washington Wizards,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-6,1,0,20001118,WAS,BOS
-Shot Chart Detail,0020000135,457,1916,Calvin Booth,1610612764,Washington Wizards,4,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20001118,WAS,BOS
-Shot Chart Detail,0020000175,495,1916,Calvin Booth,1610612764,Washington Wizards,4,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,7,1,1,20001124,IND,WAS
-Shot Chart Detail,0020000200,105,1916,Calvin Booth,1610612764,Washington Wizards,1,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,0,20001128,WAS,ATL
-Shot Chart Detail,0020000200,402,1916,Calvin Booth,1610612764,Washington Wizards,4,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,0,20001128,WAS,ATL
-Shot Chart Detail,0020000200,404,1916,Calvin Booth,1610612764,Washington Wizards,4,9,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20001128,WAS,ATL
-Shot Chart Detail,0020000200,504,1916,Calvin Booth,1610612764,Washington Wizards,4,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,3,158,1,1,20001128,WAS,ATL
-Shot Chart Detail,0020000235,230,1916,Calvin Booth,1610612764,Washington Wizards,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,-6,1,0,20001202,WAS,MIA
-Shot Chart Detail,0020000262,52,1916,Calvin Booth,1610612764,Washington Wizards,1,5,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,42,1,0,20001206,WAS,LAC
-Shot Chart Detail,0020000262,285,1916,Calvin Booth,1610612764,Washington Wizards,3,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20001206,WAS,LAC
-Shot Chart Detail,0020000272,340,1916,Calvin Booth,1610612764,Washington Wizards,4,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,28,1,1,20001207,MIN,WAS
-Shot Chart Detail,0020000272,348,1916,Calvin Booth,1610612764,Washington Wizards,4,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,14,192,1,0,20001207,MIN,WAS
-Shot Chart Detail,0020000272,355,1916,Calvin Booth,1610612764,Washington Wizards,4,8,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001207,MIN,WAS
-Shot Chart Detail,0020000272,370,1916,Calvin Booth,1610612764,Washington Wizards,4,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-21,1,1,20001207,MIN,WAS
-Shot Chart Detail,0020000272,416,1916,Calvin Booth,1610612764,Washington Wizards,4,2,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,0,20001207,MIN,WAS
-Shot Chart Detail,0020000287,48,1916,Calvin Booth,1610612764,Washington Wizards,1,6,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,15,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,64,1916,Calvin Booth,1610612764,Washington Wizards,1,4,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,69,1916,Calvin Booth,1610612764,Washington Wizards,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,173,1916,Calvin Booth,1610612764,Washington Wizards,2,7,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,198,1916,Calvin Booth,1610612764,Washington Wizards,2,4,50,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,317,1916,Calvin Booth,1610612764,Washington Wizards,3,6,8,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,334,1916,Calvin Booth,1610612764,Washington Wizards,3,5,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,19,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,366,1916,Calvin Booth,1610612764,Washington Wizards,3,3,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,373,1916,Calvin Booth,1610612764,Washington Wizards,3,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,19,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,381,1916,Calvin Booth,1610612764,Washington Wizards,3,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,89,106,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000313,61,1916,Calvin Booth,1610612764,Washington Wizards,1,6,31,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20001213,WAS,PHI
-Shot Chart Detail,0020000313,117,1916,Calvin Booth,1610612764,Washington Wizards,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,104,118,1,0,20001213,WAS,PHI
-Shot Chart Detail,0020000313,221,1916,Calvin Booth,1610612764,Washington Wizards,2,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-23,1,0,20001213,WAS,PHI
-Shot Chart Detail,0020000328,124,1916,Calvin Booth,1610612764,Washington Wizards,2,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,19,1,1,20001215,WAS,CHH
-Shot Chart Detail,0020000328,167,1916,Calvin Booth,1610612764,Washington Wizards,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-23,108,1,0,20001215,WAS,CHH
-Shot Chart Detail,0020000328,313,1916,Calvin Booth,1610612764,Washington Wizards,3,4,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,30,1,1,20001215,WAS,CHH
-Shot Chart Detail,0020000328,334,1916,Calvin Booth,1610612764,Washington Wizards,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-86,101,1,0,20001215,WAS,CHH
-Shot Chart Detail,0020000349,130,1916,Calvin Booth,1610612764,Washington Wizards,1,0,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,72,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,173,1916,Calvin Booth,1610612764,Washington Wizards,2,9,28,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,177,1916,Calvin Booth,1610612764,Washington Wizards,2,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,106,1,1,20001217,LAC,WAS
-Shot Chart Detail,0020000349,187,1916,Calvin Booth,1610612764,Washington Wizards,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,275,1916,Calvin Booth,1610612764,Washington Wizards,2,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001217,LAC,WAS
-Shot Chart Detail,0020000349,280,1916,Calvin Booth,1610612764,Washington Wizards,2,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,38,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,325,1916,Calvin Booth,1610612764,Washington Wizards,3,7,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,403,1916,Calvin Booth,1610612764,Washington Wizards,4,9,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,4,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000359,42,1916,Calvin Booth,1610612764,Washington Wizards,1,8,4,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,53,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000359,64,1916,Calvin Booth,1610612764,Washington Wizards,1,5,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,47,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000359,99,1916,Calvin Booth,1610612764,Washington Wizards,1,2,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,19,1,1,20001219,SAC,WAS
-Shot Chart Detail,0020000359,110,1916,Calvin Booth,1610612764,Washington Wizards,1,1,59,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000359,242,1916,Calvin Booth,1610612764,Washington Wizards,2,2,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001219,SAC,WAS
-Shot Chart Detail,0020000359,267,1916,Calvin Booth,1610612764,Washington Wizards,2,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000369,369,1916,Calvin Booth,1610612764,Washington Wizards,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20001220,VAN,WAS
-Shot Chart Detail,0020000369,393,1916,Calvin Booth,1610612764,Washington Wizards,4,9,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20001220,VAN,WAS
-Shot Chart Detail,0020000382,133,1916,Calvin Booth,1610612764,Washington Wizards,2,11,38,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-6,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000382,156,1916,Calvin Booth,1610612764,Washington Wizards,2,9,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,0,1,1,20001222,SEA,WAS
-Shot Chart Detail,0020000382,159,1916,Calvin Booth,1610612764,Washington Wizards,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,24,150,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000382,198,1916,Calvin Booth,1610612764,Washington Wizards,2,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-13,1,1,20001222,SEA,WAS
-Shot Chart Detail,0020000382,361,1916,Calvin Booth,1610612764,Washington Wizards,3,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,89,49,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000382,483,1916,Calvin Booth,1610612764,Washington Wizards,4,5,50,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,36,1,1,20001222,SEA,WAS
-Shot Chart Detail,0020000382,563,1916,Calvin Booth,1610612764,Washington Wizards,4,0,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,59,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000395,18,1916,Calvin Booth,1610612764,Washington Wizards,1,9,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001223,POR,WAS
-Shot Chart Detail,0020000395,57,1916,Calvin Booth,1610612764,Washington Wizards,1,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000395,177,1916,Calvin Booth,1610612764,Washington Wizards,2,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,91,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000395,198,1916,Calvin Booth,1610612764,Washington Wizards,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,158,1,1,20001223,POR,WAS
-Shot Chart Detail,0020000395,230,1916,Calvin Booth,1610612764,Washington Wizards,3,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,133,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000395,236,1916,Calvin Booth,1610612764,Washington Wizards,3,11,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,40,1,1,20001223,POR,WAS
-Shot Chart Detail,0020000395,245,1916,Calvin Booth,1610612764,Washington Wizards,3,9,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,51,158,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000408,10,1916,Calvin Booth,1610612764,Washington Wizards,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-23,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,29,1916,Calvin Booth,1610612764,Washington Wizards,1,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,34,1916,Calvin Booth,1610612764,Washington Wizards,1,7,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,80,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000408,128,1916,Calvin Booth,1610612764,Washington Wizards,2,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,4,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000408,196,1916,Calvin Booth,1610612764,Washington Wizards,2,3,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000423,15,1916,Calvin Booth,1610612764,Washington Wizards,1,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,0,20001229,MIA,WAS
-Shot Chart Detail,0020000423,143,1916,Calvin Booth,1610612764,Washington Wizards,2,6,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-16,137,1,0,20001229,MIA,WAS
-Shot Chart Detail,0020000423,255,1916,Calvin Booth,1610612764,Washington Wizards,3,6,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-8,1,1,20001229,MIA,WAS
-Shot Chart Detail,0020000423,394,1916,Calvin Booth,1610612764,Washington Wizards,4,2,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,MIA,WAS
-Shot Chart Detail,0020000438,6,1916,Calvin Booth,1610612764,Washington Wizards,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,4,1,0,20001231,WAS,DET
-Shot Chart Detail,0020000438,304,1916,Calvin Booth,1610612764,Washington Wizards,3,10,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20001231,WAS,DET
-Shot Chart Detail,0020000442,5,1916,Calvin Booth,1610612764,Washington Wizards,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-6,1,0,20010102,WAS,MIN
-Shot Chart Detail,0020000442,26,1916,Calvin Booth,1610612764,Washington Wizards,1,8,33,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010102,WAS,MIN
-Shot Chart Detail,0020000442,127,1916,Calvin Booth,1610612764,Washington Wizards,2,8,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20010102,WAS,MIN
-Shot Chart Detail,0020000442,246,1916,Calvin Booth,1610612764,Washington Wizards,3,10,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,63,1,0,20010102,WAS,MIN
-Shot Chart Detail,0020000442,386,1916,Calvin Booth,1610612764,Washington Wizards,4,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-13,1,0,20010102,WAS,MIN
-Shot Chart Detail,0020000462,7,1916,Calvin Booth,1610612764,Washington Wizards,1,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,12,1916,Calvin Booth,1610612764,Washington Wizards,1,9,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,36,1916,Calvin Booth,1610612764,Washington Wizards,1,6,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,47,1916,Calvin Booth,1610612764,Washington Wizards,1,5,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,72,1,0,20010104,CHI,WAS
-Shot Chart Detail,0020000462,62,1916,Calvin Booth,1610612764,Washington Wizards,1,4,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010104,CHI,WAS
-Shot Chart Detail,0020000462,148,1916,Calvin Booth,1610612764,Washington Wizards,2,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,234,1916,Calvin Booth,1610612764,Washington Wizards,3,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010104,CHI,WAS
-Shot Chart Detail,0020000462,239,1916,Calvin Booth,1610612764,Washington Wizards,3,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000474,9,1916,Calvin Booth,1610612764,Washington Wizards,1,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20010106,WAS,DAL
-Shot Chart Detail,0020000474,24,1916,Calvin Booth,1610612764,Washington Wizards,1,9,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,26,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,42,1916,Calvin Booth,1610612764,Washington Wizards,1,7,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,50,1916,Calvin Booth,1610612764,Washington Wizards,1,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20010106,WAS,DAL
-Shot Chart Detail,0020000474,166,1916,Calvin Booth,1610612764,Washington Wizards,2,5,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,207,1916,Calvin Booth,1610612764,Washington Wizards,2,1,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,30,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,217,1916,Calvin Booth,1610612764,Washington Wizards,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,-17,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000480,231,1916,Calvin Booth,1610612764,Washington Wizards,3,10,41,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,15,1,0,20010107,NYK,WAS
-Shot Chart Detail,0020000480,397,1916,Calvin Booth,1610612764,Washington Wizards,4,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010107,NYK,WAS
-Shot Chart Detail,0020000497,9,1916,Calvin Booth,1610612764,Washington Wizards,1,10,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010109,MIL,WAS
-Shot Chart Detail,0020000497,250,1916,Calvin Booth,1610612764,Washington Wizards,3,9,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-6,1,0,20010109,MIL,WAS
-Shot Chart Detail,0020000497,263,1916,Calvin Booth,1610612764,Washington Wizards,3,8,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010109,MIL,WAS
-Shot Chart Detail,0020000497,292,1916,Calvin Booth,1610612764,Washington Wizards,3,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,30,1,1,20010109,MIL,WAS
-Shot Chart Detail,0020000502,8,1916,Calvin Booth,1610612764,Washington Wizards,1,10,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20010110,WAS,SEA
-Shot Chart Detail,0020000502,16,1916,Calvin Booth,1610612764,Washington Wizards,1,9,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,91,1,0,20010110,WAS,SEA
-Shot Chart Detail,0020000502,247,1916,Calvin Booth,1610612764,Washington Wizards,3,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,11,158,1,0,20010110,WAS,SEA
-Shot Chart Detail,0020000514,38,1916,Calvin Booth,1610612764,Washington Wizards,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,101,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000514,64,1916,Calvin Booth,1610612764,Washington Wizards,1,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000514,85,1916,Calvin Booth,1610612764,Washington Wizards,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-14,197,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000514,209,1916,Calvin Booth,1610612764,Washington Wizards,2,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,-13,1,1,20010112,WAS,PHI
-Shot Chart Detail,0020000514,250,1916,Calvin Booth,1610612764,Washington Wizards,3,8,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,30,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000537,2,1916,Calvin Booth,1610612764,Washington Wizards,1,11,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,114,1,0,20010115,WAS,MIL
-Shot Chart Detail,0020000537,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20010115,WAS,MIL
-Shot Chart Detail,0020000537,46,1916,Calvin Booth,1610612764,Washington Wizards,1,6,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20010115,WAS,MIL
-Shot Chart Detail,0020000537,205,1916,Calvin Booth,1610612764,Washington Wizards,2,1,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-27,1,1,20010115,WAS,MIL
-Shot Chart Detail,0020000551,22,1916,Calvin Booth,1610612764,Washington Wizards,1,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,4,1,0,20010117,NJN,WAS
-Shot Chart Detail,0020000551,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,87,1,1,20010117,NJN,WAS
-Shot Chart Detail,0020000551,54,1916,Calvin Booth,1610612764,Washington Wizards,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,73,129,1,0,20010117,NJN,WAS
-Shot Chart Detail,0020000551,61,1916,Calvin Booth,1610612764,Washington Wizards,1,4,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,40,1,0,20010117,NJN,WAS
-Shot Chart Detail,0020000567,3,1916,Calvin Booth,1610612764,Washington Wizards,1,11,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,101,1,1,20010119,TOR,WAS
-Shot Chart Detail,0020000567,19,1916,Calvin Booth,1610612764,Washington Wizards,1,9,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,9,1,1,20010119,TOR,WAS
-Shot Chart Detail,0020000567,32,1916,Calvin Booth,1610612764,Washington Wizards,1,7,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,27,1,0,20010119,TOR,WAS
-Shot Chart Detail,0020000567,191,1916,Calvin Booth,1610612764,Washington Wizards,2,4,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,TOR,WAS
-Shot Chart Detail,0020000567,345,1916,Calvin Booth,1610612764,Washington Wizards,3,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,9,1,0,20010119,TOR,WAS
-Shot Chart Detail,0020000567,402,1916,Calvin Booth,1610612764,Washington Wizards,4,6,42,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,70,1,0,20010119,TOR,WAS
-Shot Chart Detail,0020000580,13,1916,Calvin Booth,1610612764,Washington Wizards,1,10,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,0,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,28,1916,Calvin Booth,1610612764,Washington Wizards,1,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,52,1916,Calvin Booth,1610612764,Washington Wizards,1,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1,152,1,1,20010121,WAS,ATL
-Shot Chart Detail,0020000580,64,1916,Calvin Booth,1610612764,Washington Wizards,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,114,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,69,1916,Calvin Booth,1610612764,Washington Wizards,1,5,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,169,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,72,1916,Calvin Booth,1610612764,Washington Wizards,1,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,30,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,217,1916,Calvin Booth,1610612764,Washington Wizards,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-13,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,216,1916,Calvin Booth,1610612764,Washington Wizards,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-13,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000589,18,1916,Calvin Booth,1610612764,Washington Wizards,1,10,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20010123,WAS,CHH
-Shot Chart Detail,0020000589,20,1916,Calvin Booth,1610612764,Washington Wizards,1,10,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000589,266,1916,Calvin Booth,1610612764,Washington Wizards,3,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,11,179,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000589,271,1916,Calvin Booth,1610612764,Washington Wizards,3,7,1,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,-13,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000589,282,1916,Calvin Booth,1610612764,Washington Wizards,3,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000614,39,1916,Calvin Booth,1610612764,Washington Wizards,1,6,51,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,4,1,1,20010126,ATL,WAS
-Shot Chart Detail,0020000614,189,1916,Calvin Booth,1610612764,Washington Wizards,2,1,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,66,1,1,20010126,ATL,WAS
-Shot Chart Detail,0020000614,207,1916,Calvin Booth,1610612764,Washington Wizards,3,10,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,2,1,0,20010126,ATL,WAS
-Shot Chart Detail,0020000614,222,1916,Calvin Booth,1610612764,Washington Wizards,3,9,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,59,1,0,20010126,ATL,WAS
-Shot Chart Detail,0020000614,320,1916,Calvin Booth,1610612764,Washington Wizards,4,9,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010126,ATL,WAS
-Shot Chart Detail,0020000618,22,1916,Calvin Booth,1610612764,Washington Wizards,1,8,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20010127,WAS,PHX
-Shot Chart Detail,0020000618,222,1916,Calvin Booth,1610612764,Washington Wizards,3,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,9,1,0,20010127,WAS,PHX
-Shot Chart Detail,0020000618,228,1916,Calvin Booth,1610612764,Washington Wizards,3,10,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,1,20010127,WAS,PHX
-Shot Chart Detail,0020000618,231,1916,Calvin Booth,1610612764,Washington Wizards,3,9,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,0,20010127,WAS,PHX
-Shot Chart Detail,0020000632,9,1916,Calvin Booth,1610612764,Washington Wizards,1,11,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,30,1,1,20010129,WAS,CLE
-Shot Chart Detail,0020000632,42,1916,Calvin Booth,1610612764,Washington Wizards,1,6,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,87,1,0,20010129,WAS,CLE
-Shot Chart Detail,0020000632,47,1916,Calvin Booth,1610612764,Washington Wizards,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20010129,WAS,CLE
-Shot Chart Detail,0020000632,263,1916,Calvin Booth,1610612764,Washington Wizards,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,53,1,0,20010129,WAS,CLE
-Shot Chart Detail,0020000647,5,1916,Calvin Booth,1610612764,Washington Wizards,1,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,36,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,19,1916,Calvin Booth,1610612764,Washington Wizards,1,9,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20010131,WAS,ORL
-Shot Chart Detail,0020000647,249,1916,Calvin Booth,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-79,101,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,262,1916,Calvin Booth,1610612764,Washington Wizards,3,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,15,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,282,1916,Calvin Booth,1610612764,Washington Wizards,3,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-23,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,301,1916,Calvin Booth,1610612764,Washington Wizards,3,5,4,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,310,1916,Calvin Booth,1610612764,Washington Wizards,3,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,42,1,0,20010131,WAS,ORL
-Shot Chart Detail,0020000647,329,1916,Calvin Booth,1610612764,Washington Wizards,3,2,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,345,1916,Calvin Booth,1610612764,Washington Wizards,3,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,3,158,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000668,3,1916,Calvin Booth,1610612764,Washington Wizards,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,119,101,1,0,20010203,WAS,DEN
-Shot Chart Detail,0020000668,11,1916,Calvin Booth,1610612764,Washington Wizards,1,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,70,1,0,20010203,WAS,DEN
-Shot Chart Detail,0020000668,180,1916,Calvin Booth,1610612764,Washington Wizards,2,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,104,125,1,1,20010203,WAS,DEN
-Shot Chart Detail,0020000699,7,1916,Calvin Booth,1610612764,Washington Wizards,1,11,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010207,ORL,WAS
-Shot Chart Detail,0020000699,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,32,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,0,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000699,45,1916,Calvin Booth,1610612764,Washington Wizards,1,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,165,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000699,192,1916,Calvin Booth,1610612764,Washington Wizards,2,6,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010207,ORL,WAS
-Shot Chart Detail,0020000699,288,1916,Calvin Booth,1610612764,Washington Wizards,3,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-8,188,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000699,424,1916,Calvin Booth,1610612764,Washington Wizards,4,9,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,72,1,1,20010207,ORL,WAS
-Shot Chart Detail,0020000699,452,1916,Calvin Booth,1610612764,Washington Wizards,4,6,37,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,55,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000982,251,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,38,1,0,20010321,MIN,DAL
-Shot Chart Detail,0020000982,259,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,MIN,DAL
-Shot Chart Detail,0020000982,268,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,32,1,0,20010321,MIN,DAL
-Shot Chart Detail,0020000982,409,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,MIN,DAL
-Shot Chart Detail,0020000982,412,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,148,1,1,20010321,MIN,DAL
-Shot Chart Detail,0020001000,138,1916,Calvin Booth,1610612742,Dallas Mavericks,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,30,135,1,0,20010324,DAL,CHH
-Shot Chart Detail,0020001000,387,1916,Calvin Booth,1610612742,Dallas Mavericks,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,152,1,0,20010324,DAL,CHH
-Shot Chart Detail,0020001000,396,1916,Calvin Booth,1610612742,Dallas Mavericks,4,10,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010324,DAL,CHH
-Shot Chart Detail,0020001013,249,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,34,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,7,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,300,1916,Calvin Booth,1610612742,Dallas Mavericks,3,4,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,347,1916,Calvin Booth,1610612742,Dallas Mavericks,3,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,13,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,363,1916,Calvin Booth,1610612742,Dallas Mavericks,4,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,13,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,367,1916,Calvin Booth,1610612742,Dallas Mavericks,4,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-208,-15,1,0,20010326,UTA,DAL
-Shot Chart Detail,0020001029,118,1916,Calvin Booth,1610612742,Dallas Mavericks,2,11,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,POR,DAL
-Shot Chart Detail,0020001029,125,1916,Calvin Booth,1610612742,Dallas Mavericks,2,10,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,4,1,1,20010328,POR,DAL
-Shot Chart Detail,0020001029,490,1916,Calvin Booth,1610612742,Dallas Mavericks,4,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,66,1,0,20010328,POR,DAL
-Shot Chart Detail,0020001044,66,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-12,163,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,68,1916,Calvin Booth,1610612742,Dallas Mavericks,1,2,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,83,1916,Calvin Booth,1610612742,Dallas Mavericks,1,1,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,47,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,160,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-69,169,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,166,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-8,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,232,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-2,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,281,1916,Calvin Booth,1610612742,Dallas Mavericks,3,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-15,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,319,1916,Calvin Booth,1610612742,Dallas Mavericks,3,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,407,1916,Calvin Booth,1610612742,Dallas Mavericks,4,3,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001060,23,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,56,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,13,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,56,1916,Calvin Booth,1610612742,Dallas Mavericks,1,5,39,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,63,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,74,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,0,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,257,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,63,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,259,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,270,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,13,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,273,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,278,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,120,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,283,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001069,73,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010403,HOU,DAL
-Shot Chart Detail,0020001069,79,1916,Calvin Booth,1610612742,Dallas Mavericks,1,2,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,36,1,0,20010403,HOU,DAL
-Shot Chart Detail,0020001084,4,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001084,19,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,30,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,192,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,241,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,8,112,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,262,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001084,445,1916,Calvin Booth,1610612742,Dallas Mavericks,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,19,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001084,477,1916,Calvin Booth,1610612742,Dallas Mavericks,4,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,53,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001100,3,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,59,1,1,20010407,DAL,UTA
-Shot Chart Detail,0020001100,13,1916,Calvin Booth,1610612742,Dallas Mavericks,1,10,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20010407,DAL,UTA
-Shot Chart Detail,0020001100,28,1916,Calvin Booth,1610612742,Dallas Mavericks,1,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,30,1,1,20010407,DAL,UTA
-Shot Chart Detail,0020001120,51,1916,Calvin Booth,1610612742,Dallas Mavericks,1,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001120,65,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001120,125,1916,Calvin Booth,1610612742,Dallas Mavericks,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,70,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,136,1916,Calvin Booth,1610612742,Dallas Mavericks,2,8,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,55,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001120,148,1916,Calvin Booth,1610612742,Dallas Mavericks,2,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,280,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,49,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,288,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,4,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,36,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001130,164,1916,Calvin Booth,1610612742,Dallas Mavericks,2,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010411,PHX,DAL
-Shot Chart Detail,0020001130,184,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010411,PHX,DAL
-Shot Chart Detail,0020001130,330,1916,Calvin Booth,1610612742,Dallas Mavericks,3,1,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,11,1,1,20010411,PHX,DAL
-Shot Chart Detail,0020001144,55,1916,Calvin Booth,1610612742,Dallas Mavericks,1,5,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,129,1,1,20010413,DAL,SAC
-Shot Chart Detail,0020001144,143,1916,Calvin Booth,1610612742,Dallas Mavericks,2,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,47,1,0,20010413,DAL,SAC
-Shot Chart Detail,0020001144,205,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,26,1,0,20010413,DAL,SAC
-Shot Chart Detail,0020001144,210,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,DAL,SAC
-Shot Chart Detail,0020001144,232,1916,Calvin Booth,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,DAL,SAC
-Shot Chart Detail,0020001163,20,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,4,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,239,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,42,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010415,SEA,DAL
-Shot Chart Detail,0020001163,257,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,271,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,11,158,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,51,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,335,1916,Calvin Booth,1610612742,Dallas Mavericks,3,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,68,158,1,0,20010415,SEA,DAL
-Shot Chart Detail,0020001163,343,1916,Calvin Booth,1610612742,Dallas Mavericks,3,1,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,7,1,0,20010415,SEA,DAL
-Shot Chart Detail,0020001168,193,1916,Calvin Booth,1610612742,Dallas Mavericks,2,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,17,1,1,20010416,GSW,DAL
-Shot Chart Detail,0020001168,448,1916,Calvin Booth,1610612742,Dallas Mavericks,4,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,23,1,0,20010416,GSW,DAL
-Shot Chart Detail,0020001168,492,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,13,1,0,20010416,GSW,DAL
-Shot Chart Detail,0020001185,5,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,26,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,22,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,26,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,28,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,45,1916,Calvin Booth,1610612742,Dallas Mavericks,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,65,1916,Calvin Booth,1610612742,Dallas Mavericks,1,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,266,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,279,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,36,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,295,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,58,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,300,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,36,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,306,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020000119,185,1916,Calvin Booth,1610612764,Washington Wizards,2,2,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-44,129,1,0,20001116,WAS,SAS
-Shot Chart Detail,0020000135,433,1916,Calvin Booth,1610612764,Washington Wizards,4,5,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,57,1,0,20001118,WAS,BOS
-Shot Chart Detail,0020000135,447,1916,Calvin Booth,1610612764,Washington Wizards,4,2,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,-6,1,0,20001118,WAS,BOS
-Shot Chart Detail,0020000135,457,1916,Calvin Booth,1610612764,Washington Wizards,4,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20001118,WAS,BOS
-Shot Chart Detail,0020000175,495,1916,Calvin Booth,1610612764,Washington Wizards,4,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,7,1,1,20001124,IND,WAS
-Shot Chart Detail,0020000200,105,1916,Calvin Booth,1610612764,Washington Wizards,1,0,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,0,20001128,WAS,ATL
-Shot Chart Detail,0020000200,402,1916,Calvin Booth,1610612764,Washington Wizards,4,10,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,0,20001128,WAS,ATL
-Shot Chart Detail,0020000200,404,1916,Calvin Booth,1610612764,Washington Wizards,4,9,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20001128,WAS,ATL
-Shot Chart Detail,0020000200,504,1916,Calvin Booth,1610612764,Washington Wizards,4,1,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,3,158,1,1,20001128,WAS,ATL
-Shot Chart Detail,0020000235,230,1916,Calvin Booth,1610612764,Washington Wizards,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,-6,1,0,20001202,WAS,MIA
-Shot Chart Detail,0020000262,52,1916,Calvin Booth,1610612764,Washington Wizards,1,5,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,42,1,0,20001206,WAS,LAC
-Shot Chart Detail,0020000262,285,1916,Calvin Booth,1610612764,Washington Wizards,3,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20001206,WAS,LAC
-Shot Chart Detail,0020000272,340,1916,Calvin Booth,1610612764,Washington Wizards,4,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,28,1,1,20001207,MIN,WAS
-Shot Chart Detail,0020000272,348,1916,Calvin Booth,1610612764,Washington Wizards,4,9,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,14,192,1,0,20001207,MIN,WAS
-Shot Chart Detail,0020000272,355,1916,Calvin Booth,1610612764,Washington Wizards,4,8,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001207,MIN,WAS
-Shot Chart Detail,0020000272,370,1916,Calvin Booth,1610612764,Washington Wizards,4,6,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-21,1,1,20001207,MIN,WAS
-Shot Chart Detail,0020000272,416,1916,Calvin Booth,1610612764,Washington Wizards,4,2,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,0,20001207,MIN,WAS
-Shot Chart Detail,0020000287,48,1916,Calvin Booth,1610612764,Washington Wizards,1,6,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,15,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,64,1916,Calvin Booth,1610612764,Washington Wizards,1,4,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,69,1916,Calvin Booth,1610612764,Washington Wizards,1,4,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,173,1916,Calvin Booth,1610612764,Washington Wizards,2,7,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,198,1916,Calvin Booth,1610612764,Washington Wizards,2,4,50,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,317,1916,Calvin Booth,1610612764,Washington Wizards,3,6,8,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,334,1916,Calvin Booth,1610612764,Washington Wizards,3,5,4,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,19,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,366,1916,Calvin Booth,1610612764,Washington Wizards,3,3,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,MIL,WAS
-Shot Chart Detail,0020000287,373,1916,Calvin Booth,1610612764,Washington Wizards,3,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,19,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000287,381,1916,Calvin Booth,1610612764,Washington Wizards,3,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,89,106,1,0,20001209,MIL,WAS
-Shot Chart Detail,0020000313,61,1916,Calvin Booth,1610612764,Washington Wizards,1,6,31,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20001213,WAS,PHI
-Shot Chart Detail,0020000313,117,1916,Calvin Booth,1610612764,Washington Wizards,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,104,118,1,0,20001213,WAS,PHI
-Shot Chart Detail,0020000313,221,1916,Calvin Booth,1610612764,Washington Wizards,2,4,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,-23,1,0,20001213,WAS,PHI
-Shot Chart Detail,0020000328,124,1916,Calvin Booth,1610612764,Washington Wizards,2,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,19,1,1,20001215,WAS,CHH
-Shot Chart Detail,0020000328,167,1916,Calvin Booth,1610612764,Washington Wizards,2,5,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-23,108,1,0,20001215,WAS,CHH
-Shot Chart Detail,0020000328,313,1916,Calvin Booth,1610612764,Washington Wizards,3,4,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,30,1,1,20001215,WAS,CHH
-Shot Chart Detail,0020000328,334,1916,Calvin Booth,1610612764,Washington Wizards,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-86,101,1,0,20001215,WAS,CHH
-Shot Chart Detail,0020000349,130,1916,Calvin Booth,1610612764,Washington Wizards,1,0,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,72,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,173,1916,Calvin Booth,1610612764,Washington Wizards,2,9,28,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,177,1916,Calvin Booth,1610612764,Washington Wizards,2,9,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,106,1,1,20001217,LAC,WAS
-Shot Chart Detail,0020000349,187,1916,Calvin Booth,1610612764,Washington Wizards,2,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,275,1916,Calvin Booth,1610612764,Washington Wizards,2,0,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001217,LAC,WAS
-Shot Chart Detail,0020000349,280,1916,Calvin Booth,1610612764,Washington Wizards,2,0,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,38,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,325,1916,Calvin Booth,1610612764,Washington Wizards,3,7,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000349,403,1916,Calvin Booth,1610612764,Washington Wizards,4,9,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,4,1,0,20001217,LAC,WAS
-Shot Chart Detail,0020000359,42,1916,Calvin Booth,1610612764,Washington Wizards,1,8,4,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,53,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000359,64,1916,Calvin Booth,1610612764,Washington Wizards,1,5,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,47,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000359,99,1916,Calvin Booth,1610612764,Washington Wizards,1,2,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,19,1,1,20001219,SAC,WAS
-Shot Chart Detail,0020000359,110,1916,Calvin Booth,1610612764,Washington Wizards,1,1,59,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000359,242,1916,Calvin Booth,1610612764,Washington Wizards,2,2,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001219,SAC,WAS
-Shot Chart Detail,0020000359,267,1916,Calvin Booth,1610612764,Washington Wizards,2,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001219,SAC,WAS
-Shot Chart Detail,0020000369,369,1916,Calvin Booth,1610612764,Washington Wizards,3,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20001220,VAN,WAS
-Shot Chart Detail,0020000369,393,1916,Calvin Booth,1610612764,Washington Wizards,4,9,30,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20001220,VAN,WAS
-Shot Chart Detail,0020000382,133,1916,Calvin Booth,1610612764,Washington Wizards,2,11,38,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-6,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000382,156,1916,Calvin Booth,1610612764,Washington Wizards,2,9,21,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,0,1,1,20001222,SEA,WAS
-Shot Chart Detail,0020000382,159,1916,Calvin Booth,1610612764,Washington Wizards,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,24,150,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000382,198,1916,Calvin Booth,1610612764,Washington Wizards,2,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-101,-13,1,1,20001222,SEA,WAS
-Shot Chart Detail,0020000382,361,1916,Calvin Booth,1610612764,Washington Wizards,3,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,89,49,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000382,483,1916,Calvin Booth,1610612764,Washington Wizards,4,5,50,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,36,1,1,20001222,SEA,WAS
-Shot Chart Detail,0020000382,563,1916,Calvin Booth,1610612764,Washington Wizards,4,0,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,59,1,0,20001222,SEA,WAS
-Shot Chart Detail,0020000395,18,1916,Calvin Booth,1610612764,Washington Wizards,1,9,51,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001223,POR,WAS
-Shot Chart Detail,0020000395,57,1916,Calvin Booth,1610612764,Washington Wizards,1,4,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000395,177,1916,Calvin Booth,1610612764,Washington Wizards,2,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-130,91,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000395,198,1916,Calvin Booth,1610612764,Washington Wizards,2,2,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,158,1,1,20001223,POR,WAS
-Shot Chart Detail,0020000395,230,1916,Calvin Booth,1610612764,Washington Wizards,3,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,133,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000395,236,1916,Calvin Booth,1610612764,Washington Wizards,3,11,8,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,40,1,1,20001223,POR,WAS
-Shot Chart Detail,0020000395,245,1916,Calvin Booth,1610612764,Washington Wizards,3,9,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,51,158,1,0,20001223,POR,WAS
-Shot Chart Detail,0020000408,10,1916,Calvin Booth,1610612764,Washington Wizards,1,10,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-23,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,29,1916,Calvin Booth,1610612764,Washington Wizards,1,8,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20001227,WAS,NYK
-Shot Chart Detail,0020000408,34,1916,Calvin Booth,1610612764,Washington Wizards,1,7,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,80,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000408,128,1916,Calvin Booth,1610612764,Washington Wizards,2,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,4,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000408,196,1916,Calvin Booth,1610612764,Washington Wizards,2,3,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,0,20001227,WAS,NYK
-Shot Chart Detail,0020000423,15,1916,Calvin Booth,1610612764,Washington Wizards,1,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,0,20001229,MIA,WAS
-Shot Chart Detail,0020000423,143,1916,Calvin Booth,1610612764,Washington Wizards,2,6,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-16,137,1,0,20001229,MIA,WAS
-Shot Chart Detail,0020000423,255,1916,Calvin Booth,1610612764,Washington Wizards,3,6,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-8,1,1,20001229,MIA,WAS
-Shot Chart Detail,0020000423,394,1916,Calvin Booth,1610612764,Washington Wizards,4,2,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,MIA,WAS
-Shot Chart Detail,0020000438,6,1916,Calvin Booth,1610612764,Washington Wizards,1,11,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,4,1,0,20001231,WAS,DET
-Shot Chart Detail,0020000438,304,1916,Calvin Booth,1610612764,Washington Wizards,3,10,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20001231,WAS,DET
-Shot Chart Detail,0020000442,5,1916,Calvin Booth,1610612764,Washington Wizards,1,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-6,1,0,20010102,WAS,MIN
-Shot Chart Detail,0020000442,26,1916,Calvin Booth,1610612764,Washington Wizards,1,8,33,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010102,WAS,MIN
-Shot Chart Detail,0020000442,127,1916,Calvin Booth,1610612764,Washington Wizards,2,8,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20010102,WAS,MIN
-Shot Chart Detail,0020000442,246,1916,Calvin Booth,1610612764,Washington Wizards,3,10,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,63,1,0,20010102,WAS,MIN
-Shot Chart Detail,0020000442,386,1916,Calvin Booth,1610612764,Washington Wizards,4,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-13,1,0,20010102,WAS,MIN
-Shot Chart Detail,0020000462,7,1916,Calvin Booth,1610612764,Washington Wizards,1,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,12,1916,Calvin Booth,1610612764,Washington Wizards,1,9,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,36,1916,Calvin Booth,1610612764,Washington Wizards,1,6,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,47,1916,Calvin Booth,1610612764,Washington Wizards,1,5,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,72,1,0,20010104,CHI,WAS
-Shot Chart Detail,0020000462,62,1916,Calvin Booth,1610612764,Washington Wizards,1,4,4,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010104,CHI,WAS
-Shot Chart Detail,0020000462,148,1916,Calvin Booth,1610612764,Washington Wizards,2,6,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000462,234,1916,Calvin Booth,1610612764,Washington Wizards,3,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010104,CHI,WAS
-Shot Chart Detail,0020000462,239,1916,Calvin Booth,1610612764,Washington Wizards,3,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,CHI,WAS
-Shot Chart Detail,0020000474,9,1916,Calvin Booth,1610612764,Washington Wizards,1,10,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20010106,WAS,DAL
-Shot Chart Detail,0020000474,24,1916,Calvin Booth,1610612764,Washington Wizards,1,9,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,26,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,42,1916,Calvin Booth,1610612764,Washington Wizards,1,7,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,50,1916,Calvin Booth,1610612764,Washington Wizards,1,6,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20010106,WAS,DAL
-Shot Chart Detail,0020000474,166,1916,Calvin Booth,1610612764,Washington Wizards,2,5,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,207,1916,Calvin Booth,1610612764,Washington Wizards,2,1,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,30,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000474,217,1916,Calvin Booth,1610612764,Washington Wizards,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,-17,1,0,20010106,WAS,DAL
-Shot Chart Detail,0020000480,231,1916,Calvin Booth,1610612764,Washington Wizards,3,10,41,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,15,1,0,20010107,NYK,WAS
-Shot Chart Detail,0020000480,397,1916,Calvin Booth,1610612764,Washington Wizards,4,5,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010107,NYK,WAS
-Shot Chart Detail,0020000497,9,1916,Calvin Booth,1610612764,Washington Wizards,1,10,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010109,MIL,WAS
-Shot Chart Detail,0020000497,250,1916,Calvin Booth,1610612764,Washington Wizards,3,9,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,-6,1,0,20010109,MIL,WAS
-Shot Chart Detail,0020000497,263,1916,Calvin Booth,1610612764,Washington Wizards,3,8,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010109,MIL,WAS
-Shot Chart Detail,0020000497,292,1916,Calvin Booth,1610612764,Washington Wizards,3,5,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-109,30,1,1,20010109,MIL,WAS
-Shot Chart Detail,0020000502,8,1916,Calvin Booth,1610612764,Washington Wizards,1,10,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20010110,WAS,SEA
-Shot Chart Detail,0020000502,16,1916,Calvin Booth,1610612764,Washington Wizards,1,9,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,91,1,0,20010110,WAS,SEA
-Shot Chart Detail,0020000502,247,1916,Calvin Booth,1610612764,Washington Wizards,3,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,11,158,1,0,20010110,WAS,SEA
-Shot Chart Detail,0020000514,38,1916,Calvin Booth,1610612764,Washington Wizards,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,101,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000514,64,1916,Calvin Booth,1610612764,Washington Wizards,1,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000514,85,1916,Calvin Booth,1610612764,Washington Wizards,1,1,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-14,197,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000514,209,1916,Calvin Booth,1610612764,Washington Wizards,2,1,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,-13,1,1,20010112,WAS,PHI
-Shot Chart Detail,0020000514,250,1916,Calvin Booth,1610612764,Washington Wizards,3,8,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,30,1,0,20010112,WAS,PHI
-Shot Chart Detail,0020000537,2,1916,Calvin Booth,1610612764,Washington Wizards,1,11,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,114,1,0,20010115,WAS,MIL
-Shot Chart Detail,0020000537,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20010115,WAS,MIL
-Shot Chart Detail,0020000537,46,1916,Calvin Booth,1610612764,Washington Wizards,1,6,29,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20010115,WAS,MIL
-Shot Chart Detail,0020000537,205,1916,Calvin Booth,1610612764,Washington Wizards,2,1,35,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,-27,1,1,20010115,WAS,MIL
-Shot Chart Detail,0020000551,22,1916,Calvin Booth,1610612764,Washington Wizards,1,9,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,4,1,0,20010117,NJN,WAS
-Shot Chart Detail,0020000551,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-141,87,1,1,20010117,NJN,WAS
-Shot Chart Detail,0020000551,54,1916,Calvin Booth,1610612764,Washington Wizards,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,73,129,1,0,20010117,NJN,WAS
-Shot Chart Detail,0020000551,61,1916,Calvin Booth,1610612764,Washington Wizards,1,4,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,40,1,0,20010117,NJN,WAS
-Shot Chart Detail,0020000567,3,1916,Calvin Booth,1610612764,Washington Wizards,1,11,44,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,101,1,1,20010119,TOR,WAS
-Shot Chart Detail,0020000567,19,1916,Calvin Booth,1610612764,Washington Wizards,1,9,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,9,1,1,20010119,TOR,WAS
-Shot Chart Detail,0020000567,32,1916,Calvin Booth,1610612764,Washington Wizards,1,7,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,27,1,0,20010119,TOR,WAS
-Shot Chart Detail,0020000567,191,1916,Calvin Booth,1610612764,Washington Wizards,2,4,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,TOR,WAS
-Shot Chart Detail,0020000567,345,1916,Calvin Booth,1610612764,Washington Wizards,3,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,167,9,1,0,20010119,TOR,WAS
-Shot Chart Detail,0020000567,402,1916,Calvin Booth,1610612764,Washington Wizards,4,6,42,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,70,1,0,20010119,TOR,WAS
-Shot Chart Detail,0020000580,13,1916,Calvin Booth,1610612764,Washington Wizards,1,10,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,0,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,28,1916,Calvin Booth,1610612764,Washington Wizards,1,8,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,52,1916,Calvin Booth,1610612764,Washington Wizards,1,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1,152,1,1,20010121,WAS,ATL
-Shot Chart Detail,0020000580,64,1916,Calvin Booth,1610612764,Washington Wizards,1,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,114,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,69,1916,Calvin Booth,1610612764,Washington Wizards,1,5,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,169,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,72,1916,Calvin Booth,1610612764,Washington Wizards,1,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,30,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,216,1916,Calvin Booth,1610612764,Washington Wizards,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-13,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000580,217,1916,Calvin Booth,1610612764,Washington Wizards,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-13,1,0,20010121,WAS,ATL
-Shot Chart Detail,0020000589,18,1916,Calvin Booth,1610612764,Washington Wizards,1,10,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20010123,WAS,CHH
-Shot Chart Detail,0020000589,20,1916,Calvin Booth,1610612764,Washington Wizards,1,10,8,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000589,266,1916,Calvin Booth,1610612764,Washington Wizards,3,8,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,11,179,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000589,271,1916,Calvin Booth,1610612764,Washington Wizards,3,7,1,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,-13,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000589,282,1916,Calvin Booth,1610612764,Washington Wizards,3,5,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,1,20010123,WAS,CHH
-Shot Chart Detail,0020000614,39,1916,Calvin Booth,1610612764,Washington Wizards,1,6,51,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,4,1,1,20010126,ATL,WAS
-Shot Chart Detail,0020000614,189,1916,Calvin Booth,1610612764,Washington Wizards,2,1,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,66,1,1,20010126,ATL,WAS
-Shot Chart Detail,0020000614,207,1916,Calvin Booth,1610612764,Washington Wizards,3,10,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,2,1,0,20010126,ATL,WAS
-Shot Chart Detail,0020000614,222,1916,Calvin Booth,1610612764,Washington Wizards,3,9,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,102,59,1,0,20010126,ATL,WAS
-Shot Chart Detail,0020000614,320,1916,Calvin Booth,1610612764,Washington Wizards,4,9,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010126,ATL,WAS
-Shot Chart Detail,0020000618,22,1916,Calvin Booth,1610612764,Washington Wizards,1,8,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20010127,WAS,PHX
-Shot Chart Detail,0020000618,222,1916,Calvin Booth,1610612764,Washington Wizards,3,11,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,9,1,0,20010127,WAS,PHX
-Shot Chart Detail,0020000618,228,1916,Calvin Booth,1610612764,Washington Wizards,3,10,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,1,20010127,WAS,PHX
-Shot Chart Detail,0020000618,231,1916,Calvin Booth,1610612764,Washington Wizards,3,9,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,0,20010127,WAS,PHX
-Shot Chart Detail,0020000632,9,1916,Calvin Booth,1610612764,Washington Wizards,1,11,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,30,1,1,20010129,WAS,CLE
-Shot Chart Detail,0020000632,42,1916,Calvin Booth,1610612764,Washington Wizards,1,6,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,87,1,0,20010129,WAS,CLE
-Shot Chart Detail,0020000632,47,1916,Calvin Booth,1610612764,Washington Wizards,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20010129,WAS,CLE
-Shot Chart Detail,0020000632,263,1916,Calvin Booth,1610612764,Washington Wizards,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,53,1,0,20010129,WAS,CLE
-Shot Chart Detail,0020000647,5,1916,Calvin Booth,1610612764,Washington Wizards,1,11,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,36,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,19,1916,Calvin Booth,1610612764,Washington Wizards,1,9,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20010131,WAS,ORL
-Shot Chart Detail,0020000647,249,1916,Calvin Booth,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-79,101,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,262,1916,Calvin Booth,1610612764,Washington Wizards,3,10,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,15,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,282,1916,Calvin Booth,1610612764,Washington Wizards,3,7,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-23,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,301,1916,Calvin Booth,1610612764,Washington Wizards,3,5,4,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,310,1916,Calvin Booth,1610612764,Washington Wizards,3,4,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,167,42,1,0,20010131,WAS,ORL
-Shot Chart Detail,0020000647,329,1916,Calvin Booth,1610612764,Washington Wizards,3,2,32,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000647,345,1916,Calvin Booth,1610612764,Washington Wizards,3,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,3,158,1,1,20010131,WAS,ORL
-Shot Chart Detail,0020000668,3,1916,Calvin Booth,1610612764,Washington Wizards,1,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,119,101,1,0,20010203,WAS,DEN
-Shot Chart Detail,0020000668,11,1916,Calvin Booth,1610612764,Washington Wizards,1,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,70,1,0,20010203,WAS,DEN
-Shot Chart Detail,0020000668,180,1916,Calvin Booth,1610612764,Washington Wizards,2,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,104,125,1,1,20010203,WAS,DEN
-Shot Chart Detail,0020000699,7,1916,Calvin Booth,1610612764,Washington Wizards,1,11,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010207,ORL,WAS
-Shot Chart Detail,0020000699,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,32,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,0,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000699,45,1916,Calvin Booth,1610612764,Washington Wizards,1,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,165,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000699,192,1916,Calvin Booth,1610612764,Washington Wizards,2,6,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010207,ORL,WAS
-Shot Chart Detail,0020000699,288,1916,Calvin Booth,1610612764,Washington Wizards,3,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-8,188,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000699,424,1916,Calvin Booth,1610612764,Washington Wizards,4,9,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,72,1,1,20010207,ORL,WAS
-Shot Chart Detail,0020000699,452,1916,Calvin Booth,1610612764,Washington Wizards,4,6,37,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,140,55,1,0,20010207,ORL,WAS
-Shot Chart Detail,0020000982,251,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,38,1,0,20010321,MIN,DAL
-Shot Chart Detail,0020000982,259,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,MIN,DAL
-Shot Chart Detail,0020000982,268,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,127,32,1,0,20010321,MIN,DAL
-Shot Chart Detail,0020000982,409,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,MIN,DAL
-Shot Chart Detail,0020000982,412,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,148,1,1,20010321,MIN,DAL
-Shot Chart Detail,0020001000,138,1916,Calvin Booth,1610612742,Dallas Mavericks,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,30,135,1,0,20010324,DAL,CHH
-Shot Chart Detail,0020001000,387,1916,Calvin Booth,1610612742,Dallas Mavericks,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,152,1,0,20010324,DAL,CHH
-Shot Chart Detail,0020001000,396,1916,Calvin Booth,1610612742,Dallas Mavericks,4,10,54,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010324,DAL,CHH
-Shot Chart Detail,0020001013,249,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,34,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,7,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,300,1916,Calvin Booth,1610612742,Dallas Mavericks,3,4,48,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,347,1916,Calvin Booth,1610612742,Dallas Mavericks,3,0,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,13,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,363,1916,Calvin Booth,1610612742,Dallas Mavericks,4,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,91,13,1,1,20010326,UTA,DAL
-Shot Chart Detail,0020001013,367,1916,Calvin Booth,1610612742,Dallas Mavericks,4,10,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-208,-15,1,0,20010326,UTA,DAL
-Shot Chart Detail,0020001029,118,1916,Calvin Booth,1610612742,Dallas Mavericks,2,11,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,POR,DAL
-Shot Chart Detail,0020001029,125,1916,Calvin Booth,1610612742,Dallas Mavericks,2,10,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,4,1,1,20010328,POR,DAL
-Shot Chart Detail,0020001029,490,1916,Calvin Booth,1610612742,Dallas Mavericks,4,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,66,1,0,20010328,POR,DAL
-Shot Chart Detail,0020001044,66,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-12,163,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,68,1916,Calvin Booth,1610612742,Dallas Mavericks,1,2,51,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,83,1916,Calvin Booth,1610612742,Dallas Mavericks,1,1,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,47,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,160,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-69,169,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,166,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-8,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,232,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-2,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001044,281,1916,Calvin Booth,1610612742,Dallas Mavericks,3,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,134,-15,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,319,1916,Calvin Booth,1610612742,Dallas Mavericks,3,0,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,LAL,DAL
-Shot Chart Detail,0020001044,407,1916,Calvin Booth,1610612742,Dallas Mavericks,4,3,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,LAL,DAL
-Shot Chart Detail,0020001060,23,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,56,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,13,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,56,1916,Calvin Booth,1610612742,Dallas Mavericks,1,5,39,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,63,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,74,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,27,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,0,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,257,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,63,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,259,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,39,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,270,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,13,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,273,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001060,278,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,120,1,0,20010401,SAC,DAL
-Shot Chart Detail,0020001060,283,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,1,20010401,SAC,DAL
-Shot Chart Detail,0020001069,73,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010403,HOU,DAL
-Shot Chart Detail,0020001069,79,1916,Calvin Booth,1610612742,Dallas Mavericks,1,2,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,36,1,0,20010403,HOU,DAL
-Shot Chart Detail,0020001084,4,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001084,19,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,30,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,192,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,241,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,8,112,1,0,20010405,DAL,ATL
-Shot Chart Detail,0020001084,262,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001084,445,1916,Calvin Booth,1610612742,Dallas Mavericks,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,19,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001084,477,1916,Calvin Booth,1610612742,Dallas Mavericks,4,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,53,1,1,20010405,DAL,ATL
-Shot Chart Detail,0020001100,3,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-172,59,1,1,20010407,DAL,UTA
-Shot Chart Detail,0020001100,13,1916,Calvin Booth,1610612742,Dallas Mavericks,1,10,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20010407,DAL,UTA
-Shot Chart Detail,0020001100,28,1916,Calvin Booth,1610612742,Dallas Mavericks,1,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,30,1,1,20010407,DAL,UTA
-Shot Chart Detail,0020001120,51,1916,Calvin Booth,1610612742,Dallas Mavericks,1,4,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001120,65,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,7,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001120,125,1916,Calvin Booth,1610612742,Dallas Mavericks,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,70,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,136,1916,Calvin Booth,1610612742,Dallas Mavericks,2,8,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,55,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001120,148,1916,Calvin Booth,1610612742,Dallas Mavericks,2,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,280,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,49,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,288,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,0,20010410,SAS,DAL
-Shot Chart Detail,0020001120,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,4,29,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,36,1,1,20010410,SAS,DAL
-Shot Chart Detail,0020001130,164,1916,Calvin Booth,1610612742,Dallas Mavericks,2,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010411,PHX,DAL
-Shot Chart Detail,0020001130,184,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010411,PHX,DAL
-Shot Chart Detail,0020001130,330,1916,Calvin Booth,1610612742,Dallas Mavericks,3,1,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,11,1,1,20010411,PHX,DAL
-Shot Chart Detail,0020001144,55,1916,Calvin Booth,1610612742,Dallas Mavericks,1,5,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,129,1,1,20010413,DAL,SAC
-Shot Chart Detail,0020001144,143,1916,Calvin Booth,1610612742,Dallas Mavericks,2,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,47,1,0,20010413,DAL,SAC
-Shot Chart Detail,0020001144,205,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,26,1,0,20010413,DAL,SAC
-Shot Chart Detail,0020001144,210,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,DAL,SAC
-Shot Chart Detail,0020001144,232,1916,Calvin Booth,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,DAL,SAC
-Shot Chart Detail,0020001163,20,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,4,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,239,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,42,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010415,SEA,DAL
-Shot Chart Detail,0020001163,257,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,271,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,11,158,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,51,1,1,20010415,SEA,DAL
-Shot Chart Detail,0020001163,335,1916,Calvin Booth,1610612742,Dallas Mavericks,3,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,68,158,1,0,20010415,SEA,DAL
-Shot Chart Detail,0020001163,343,1916,Calvin Booth,1610612742,Dallas Mavericks,3,1,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,7,1,0,20010415,SEA,DAL
-Shot Chart Detail,0020001168,193,1916,Calvin Booth,1610612742,Dallas Mavericks,2,5,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-82,17,1,1,20010416,GSW,DAL
-Shot Chart Detail,0020001168,448,1916,Calvin Booth,1610612742,Dallas Mavericks,4,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,23,1,0,20010416,GSW,DAL
-Shot Chart Detail,0020001168,492,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,13,1,0,20010416,GSW,DAL
-Shot Chart Detail,0020001185,5,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,26,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,22,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,29,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,26,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,28,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,45,1916,Calvin Booth,1610612742,Dallas Mavericks,1,6,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,65,1916,Calvin Booth,1610612742,Dallas Mavericks,1,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,266,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,279,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,36,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,295,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,27,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,DAL,MIN
-Shot Chart Detail,0020001185,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,58,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,300,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,36,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,36,1,0,20010418,DAL,MIN
-Shot Chart Detail,0020001185,306,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,0,1,1,20010418,DAL,MIN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20000982,251,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,38,1,0,20010321,0,MIN,DAL
+Shot Chart Detail,20000982,259,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,20,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,1,MIN,DAL
+Shot Chart Detail,20000982,268,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,7,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,127,32,1,0,20010321,0,MIN,DAL
+Shot Chart Detail,20000982,409,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010321,0,MIN,DAL
+Shot Chart Detail,20000982,412,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,7,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,106,148,1,1,20010321,1,MIN,DAL
+Shot Chart Detail,20001000,138,1916,Calvin Booth,1610612742,Dallas Mavericks,2,9,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,30,135,1,0,20010324,0,DAL,CHH
+Shot Chart Detail,20001000,387,1916,Calvin Booth,1610612742,Dallas Mavericks,4,11,38,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-92,152,1,0,20010324,0,DAL,CHH
+Shot Chart Detail,20001000,396,1916,Calvin Booth,1610612742,Dallas Mavericks,4,10,54,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010324,0,DAL,CHH
+Shot Chart Detail,20001013,249,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,34,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,39,7,1,1,20010326,0,UTA,DAL
+Shot Chart Detail,20001013,300,1916,Calvin Booth,1610612742,Dallas Mavericks,3,4,48,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010326,0,UTA,DAL
+Shot Chart Detail,20001013,347,1916,Calvin Booth,1610612742,Dallas Mavericks,3,0,18,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,13,1,1,20010326,1,UTA,DAL
+Shot Chart Detail,20001013,363,1916,Calvin Booth,1610612742,Dallas Mavericks,4,11,0,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,91,13,1,1,20010326,1,UTA,DAL
+Shot Chart Detail,20001013,367,1916,Calvin Booth,1610612742,Dallas Mavericks,4,10,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-208,-15,1,0,20010326,0,UTA,DAL
+Shot Chart Detail,20001029,118,1916,Calvin Booth,1610612742,Dallas Mavericks,2,11,14,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010328,0,POR,DAL
+Shot Chart Detail,20001029,125,1916,Calvin Booth,1610612742,Dallas Mavericks,2,10,35,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,4,1,1,20010328,0,POR,DAL
+Shot Chart Detail,20001029,490,1916,Calvin Booth,1610612742,Dallas Mavericks,4,0,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,66,1,0,20010328,0,POR,DAL
+Shot Chart Detail,20001044,66,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,17,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-12,163,1,1,20010330,1,LAL,DAL
+Shot Chart Detail,20001044,68,1916,Calvin Booth,1610612742,Dallas Mavericks,1,2,51,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,1,LAL,DAL
+Shot Chart Detail,20001044,83,1916,Calvin Booth,1610612742,Dallas Mavericks,1,1,38,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-105,47,1,1,20010330,0,LAL,DAL
+Shot Chart Detail,20001044,160,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,46,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-69,169,1,0,20010330,0,LAL,DAL
+Shot Chart Detail,20001044,166,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,-8,1,0,20010330,0,LAL,DAL
+Shot Chart Detail,20001044,232,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,53,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,-2,1,1,20010330,1,LAL,DAL
+Shot Chart Detail,20001044,281,1916,Calvin Booth,1610612742,Dallas Mavericks,3,3,48,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,134,-15,1,0,20010330,0,LAL,DAL
+Shot Chart Detail,20001044,319,1916,Calvin Booth,1610612742,Dallas Mavericks,3,0,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010330,0,LAL,DAL
+Shot Chart Detail,20001044,407,1916,Calvin Booth,1610612742,Dallas Mavericks,4,3,39,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010330,0,LAL,DAL
+Shot Chart Detail,20001060,23,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,56,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,13,1,1,20010401,1,SAC,DAL
+Shot Chart Detail,20001060,56,1916,Calvin Booth,1610612742,Dallas Mavericks,1,5,39,Missed Shot,Running Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-31,63,1,0,20010401,0,SAC,DAL
+Shot Chart Detail,20001060,74,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,27,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-52,0,1,1,20010401,1,SAC,DAL
+Shot Chart Detail,20001060,257,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,63,1,0,20010401,0,SAC,DAL
+Shot Chart Detail,20001060,259,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,39,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,1,20010401,0,SAC,DAL
+Shot Chart Detail,20001060,270,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,18,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-82,13,1,0,20010401,0,SAC,DAL
+Shot Chart Detail,20001060,273,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,0,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010401,1,SAC,DAL
+Shot Chart Detail,20001060,278,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,5,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,120,1,0,20010401,0,SAC,DAL
+Shot Chart Detail,20001060,283,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,39,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-162,0,1,1,20010401,1,SAC,DAL
+Shot Chart Detail,20001069,73,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010403,1,HOU,DAL
+Shot Chart Detail,20001069,79,1916,Calvin Booth,1610612742,Dallas Mavericks,1,2,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,36,1,0,20010403,0,HOU,DAL
+Shot Chart Detail,20001084,4,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010405,1,DAL,ATL
+Shot Chart Detail,20001084,19,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010405,0,DAL,ATL
+Shot Chart Detail,20001084,30,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,8,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010405,0,DAL,ATL
+Shot Chart Detail,20001084,192,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010405,0,DAL,ATL
+Shot Chart Detail,20001084,241,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,41,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,8,112,1,0,20010405,0,DAL,ATL
+Shot Chart Detail,20001084,262,1916,Calvin Booth,1610612742,Dallas Mavericks,3,8,54,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010405,0,DAL,ATL
+Shot Chart Detail,20001084,445,1916,Calvin Booth,1610612742,Dallas Mavericks,4,3,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,19,1,1,20010405,1,DAL,ATL
+Shot Chart Detail,20001084,477,1916,Calvin Booth,1610612742,Dallas Mavericks,4,1,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-155,53,1,1,20010405,1,DAL,ATL
+Shot Chart Detail,20001100,3,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,25,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-172,59,1,1,20010407,1,DAL,UTA
+Shot Chart Detail,20001100,13,1916,Calvin Booth,1610612742,Dallas Mavericks,1,10,6,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,53,1,1,20010407,1,DAL,UTA
+Shot Chart Detail,20001100,28,1916,Calvin Booth,1610612742,Dallas Mavericks,1,7,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,144,30,1,1,20010407,1,DAL,UTA
+Shot Chart Detail,20001120,51,1916,Calvin Booth,1610612742,Dallas Mavericks,1,4,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,1,20010410,0,SAS,DAL
+Shot Chart Detail,20001120,65,1916,Calvin Booth,1610612742,Dallas Mavericks,1,3,7,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010410,0,SAS,DAL
+Shot Chart Detail,20001120,125,1916,Calvin Booth,1610612742,Dallas Mavericks,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-115,70,1,0,20010410,0,SAS,DAL
+Shot Chart Detail,20001120,136,1916,Calvin Booth,1610612742,Dallas Mavericks,2,8,2,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-1,55,1,1,20010410,1,SAS,DAL
+Shot Chart Detail,20001120,148,1916,Calvin Booth,1610612742,Dallas Mavericks,2,6,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20010410,0,SAS,DAL
+Shot Chart Detail,20001120,280,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,49,1,0,20010410,0,SAS,DAL
+Shot Chart Detail,20001120,288,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,0,20010410,0,SAS,DAL
+Shot Chart Detail,20001120,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,4,29,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,36,1,1,20010410,0,SAS,DAL
+Shot Chart Detail,20001130,164,1916,Calvin Booth,1610612742,Dallas Mavericks,2,6,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010411,0,PHX,DAL
+Shot Chart Detail,20001130,184,1916,Calvin Booth,1610612742,Dallas Mavericks,2,4,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010411,0,PHX,DAL
+Shot Chart Detail,20001130,330,1916,Calvin Booth,1610612742,Dallas Mavericks,3,1,39,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,11,1,1,20010411,1,PHX,DAL
+Shot Chart Detail,20001144,55,1916,Calvin Booth,1610612742,Dallas Mavericks,1,5,43,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,37,129,1,1,20010413,1,DAL,SAC
+Shot Chart Detail,20001144,143,1916,Calvin Booth,1610612742,Dallas Mavericks,2,8,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,94,47,1,0,20010413,0,DAL,SAC
+Shot Chart Detail,20001144,205,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,41,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,26,1,0,20010413,0,DAL,SAC
+Shot Chart Detail,20001144,210,1916,Calvin Booth,1610612742,Dallas Mavericks,2,2,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010413,1,DAL,SAC
+Shot Chart Detail,20001144,232,1916,Calvin Booth,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010413,0,DAL,SAC
+Shot Chart Detail,20001163,20,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,4,1,1,20010415,1,SEA,DAL
+Shot Chart Detail,20001163,239,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,42,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010415,0,SEA,DAL
+Shot Chart Detail,20001163,257,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,49,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010415,1,SEA,DAL
+Shot Chart Detail,20001163,271,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,55,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,11,158,1,1,20010415,1,SEA,DAL
+Shot Chart Detail,20001163,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,5,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,140,51,1,1,20010415,1,SEA,DAL
+Shot Chart Detail,20001163,335,1916,Calvin Booth,1610612742,Dallas Mavericks,3,2,1,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,68,158,1,0,20010415,0,SEA,DAL
+Shot Chart Detail,20001163,343,1916,Calvin Booth,1610612742,Dallas Mavericks,3,1,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,7,1,0,20010415,0,SEA,DAL
+Shot Chart Detail,20001168,193,1916,Calvin Booth,1610612742,Dallas Mavericks,2,5,20,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-82,17,1,1,20010416,1,GSW,DAL
+Shot Chart Detail,20001168,448,1916,Calvin Booth,1610612742,Dallas Mavericks,4,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-79,23,1,0,20010416,0,GSW,DAL
+Shot Chart Detail,20001168,492,1916,Calvin Booth,1610612742,Dallas Mavericks,4,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,13,1,0,20010416,0,GSW,DAL
+Shot Chart Detail,20001185,5,1916,Calvin Booth,1610612742,Dallas Mavericks,1,11,7,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-105,26,1,0,20010418,0,DAL,MIN
+Shot Chart Detail,20001185,22,1916,Calvin Booth,1610612742,Dallas Mavericks,1,9,29,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,26,1,1,20010418,1,DAL,MIN
+Shot Chart Detail,20001185,28,1916,Calvin Booth,1610612742,Dallas Mavericks,1,8,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010418,0,DAL,MIN
+Shot Chart Detail,20001185,45,1916,Calvin Booth,1610612742,Dallas Mavericks,1,6,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,1,DAL,MIN
+Shot Chart Detail,20001185,65,1916,Calvin Booth,1610612742,Dallas Mavericks,1,4,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,1,DAL,MIN
+Shot Chart Detail,20001185,266,1916,Calvin Booth,1610612742,Dallas Mavericks,3,11,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010418,0,DAL,MIN
+Shot Chart Detail,20001185,279,1916,Calvin Booth,1610612742,Dallas Mavericks,3,9,36,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,1,DAL,MIN
+Shot Chart Detail,20001185,295,1916,Calvin Booth,1610612742,Dallas Mavericks,3,7,27,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010418,1,DAL,MIN
+Shot Chart Detail,20001185,297,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,58,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,115,9,1,0,20010418,0,DAL,MIN
+Shot Chart Detail,20001185,300,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,36,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,36,1,0,20010418,0,DAL,MIN
+Shot Chart Detail,20001185,306,1916,Calvin Booth,1610612742,Dallas Mavericks,3,6,4,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-128,0,1,1,20010418,1,DAL,MIN
+Shot Chart Detail,20000119,185,1916,Calvin Booth,1610612764,Washington Wizards,2,2,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-44,129,1,0,20001116,0,WAS,SAS
+Shot Chart Detail,20000135,433,1916,Calvin Booth,1610612764,Washington Wizards,4,5,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,161,57,1,0,20001118,0,WAS,BOS
+Shot Chart Detail,20000135,447,1916,Calvin Booth,1610612764,Washington Wizards,4,2,59,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,161,-6,1,0,20001118,0,WAS,BOS
+Shot Chart Detail,20000135,457,1916,Calvin Booth,1610612764,Washington Wizards,4,2,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20001118,1,WAS,BOS
+Shot Chart Detail,20000175,495,1916,Calvin Booth,1610612764,Washington Wizards,4,0,40,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,7,1,1,20001124,1,IND,WAS
+Shot Chart Detail,20000200,105,1916,Calvin Booth,1610612764,Washington Wizards,1,0,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,0,20001128,0,WAS,ATL
+Shot Chart Detail,20000200,402,1916,Calvin Booth,1610612764,Washington Wizards,4,10,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,9,1,0,20001128,0,WAS,ATL
+Shot Chart Detail,20000200,404,1916,Calvin Booth,1610612764,Washington Wizards,4,9,58,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20001128,0,WAS,ATL
+Shot Chart Detail,20000200,504,1916,Calvin Booth,1610612764,Washington Wizards,4,1,6,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,3,158,1,1,20001128,1,WAS,ATL
+Shot Chart Detail,20000235,230,1916,Calvin Booth,1610612764,Washington Wizards,2,0,0,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-37,-6,1,0,20001202,0,WAS,MIA
+Shot Chart Detail,20000262,52,1916,Calvin Booth,1610612764,Washington Wizards,1,5,40,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,42,1,0,20001206,0,WAS,LAC
+Shot Chart Detail,20000262,285,1916,Calvin Booth,1610612764,Washington Wizards,3,8,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,0,20001206,0,WAS,LAC
+Shot Chart Detail,20000272,340,1916,Calvin Booth,1610612764,Washington Wizards,4,10,44,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-160,28,1,1,20001207,1,MIN,WAS
+Shot Chart Detail,20000272,348,1916,Calvin Booth,1610612764,Washington Wizards,4,9,26,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,14,192,1,0,20001207,0,MIN,WAS
+Shot Chart Detail,20000272,355,1916,Calvin Booth,1610612764,Washington Wizards,4,8,37,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001207,1,MIN,WAS
+Shot Chart Detail,20000272,370,1916,Calvin Booth,1610612764,Washington Wizards,4,6,51,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-168,-21,1,1,20001207,1,MIN,WAS
+Shot Chart Detail,20000272,416,1916,Calvin Booth,1610612764,Washington Wizards,4,2,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,0,20001207,0,MIN,WAS
+Shot Chart Detail,20000287,48,1916,Calvin Booth,1610612764,Washington Wizards,1,6,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,15,1,0,20001209,0,MIL,WAS
+Shot Chart Detail,20000287,64,1916,Calvin Booth,1610612764,Washington Wizards,1,4,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,93,1,0,20001209,0,MIL,WAS
+Shot Chart Detail,20000287,69,1916,Calvin Booth,1610612764,Washington Wizards,1,4,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,1,MIL,WAS
+Shot Chart Detail,20000287,173,1916,Calvin Booth,1610612764,Washington Wizards,2,7,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,1,MIL,WAS
+Shot Chart Detail,20000287,198,1916,Calvin Booth,1610612764,Washington Wizards,2,4,50,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,0,MIL,WAS
+Shot Chart Detail,20000287,317,1916,Calvin Booth,1610612764,Washington Wizards,3,6,8,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001209,0,MIL,WAS
+Shot Chart Detail,20000287,334,1916,Calvin Booth,1610612764,Washington Wizards,3,5,4,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,19,1,1,20001209,1,MIL,WAS
+Shot Chart Detail,20000287,366,1916,Calvin Booth,1610612764,Washington Wizards,3,3,6,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001209,0,MIL,WAS
+Shot Chart Detail,20000287,373,1916,Calvin Booth,1610612764,Washington Wizards,3,2,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,19,1,0,20001209,0,MIL,WAS
+Shot Chart Detail,20000287,381,1916,Calvin Booth,1610612764,Washington Wizards,3,1,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,89,106,1,0,20001209,0,MIL,WAS
+Shot Chart Detail,20000313,61,1916,Calvin Booth,1610612764,Washington Wizards,1,6,31,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20001213,1,WAS,PHI
+Shot Chart Detail,20000313,117,1916,Calvin Booth,1610612764,Washington Wizards,1,1,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,104,118,1,0,20001213,0,WAS,PHI
+Shot Chart Detail,20000313,221,1916,Calvin Booth,1610612764,Washington Wizards,2,4,49,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-130,-23,1,0,20001213,0,WAS,PHI
+Shot Chart Detail,20000328,124,1916,Calvin Booth,1610612764,Washington Wizards,2,10,26,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,19,1,1,20001215,1,WAS,CHH
+Shot Chart Detail,20000328,167,1916,Calvin Booth,1610612764,Washington Wizards,2,5,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-23,108,1,0,20001215,0,WAS,CHH
+Shot Chart Detail,20000328,313,1916,Calvin Booth,1610612764,Washington Wizards,3,4,21,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,30,1,1,20001215,1,WAS,CHH
+Shot Chart Detail,20000328,334,1916,Calvin Booth,1610612764,Washington Wizards,3,2,17,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-86,101,1,0,20001215,0,WAS,CHH
+Shot Chart Detail,20000349,130,1916,Calvin Booth,1610612764,Washington Wizards,1,0,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,37,72,1,0,20001217,0,LAC,WAS
+Shot Chart Detail,20000349,173,1916,Calvin Booth,1610612764,Washington Wizards,2,9,28,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,0,LAC,WAS
+Shot Chart Detail,20000349,177,1916,Calvin Booth,1610612764,Washington Wizards,2,9,23,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-119,106,1,1,20001217,1,LAC,WAS
+Shot Chart Detail,20000349,187,1916,Calvin Booth,1610612764,Washington Wizards,2,8,22,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,0,1,0,20001217,0,LAC,WAS
+Shot Chart Detail,20000349,275,1916,Calvin Booth,1610612764,Washington Wizards,2,0,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001217,1,LAC,WAS
+Shot Chart Detail,20000349,280,1916,Calvin Booth,1610612764,Washington Wizards,2,0,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-71,38,1,0,20001217,0,LAC,WAS
+Shot Chart Detail,20000349,325,1916,Calvin Booth,1610612764,Washington Wizards,3,7,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001217,0,LAC,WAS
+Shot Chart Detail,20000349,403,1916,Calvin Booth,1610612764,Washington Wizards,4,9,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,4,1,0,20001217,0,LAC,WAS
+Shot Chart Detail,20000359,42,1916,Calvin Booth,1610612764,Washington Wizards,1,8,4,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,53,1,0,20001219,0,SAC,WAS
+Shot Chart Detail,20000359,64,1916,Calvin Booth,1610612764,Washington Wizards,1,5,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,47,1,0,20001219,0,SAC,WAS
+Shot Chart Detail,20000359,99,1916,Calvin Booth,1610612764,Washington Wizards,1,2,49,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,19,1,1,20001219,1,SAC,WAS
+Shot Chart Detail,20000359,110,1916,Calvin Booth,1610612764,Washington Wizards,1,1,59,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001219,0,SAC,WAS
+Shot Chart Detail,20000359,242,1916,Calvin Booth,1610612764,Washington Wizards,2,2,54,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001219,0,SAC,WAS
+Shot Chart Detail,20000359,267,1916,Calvin Booth,1610612764,Washington Wizards,2,0,20,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20001219,0,SAC,WAS
+Shot Chart Detail,20000369,369,1916,Calvin Booth,1610612764,Washington Wizards,3,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,0,20001220,0,VAN,WAS
+Shot Chart Detail,20000369,393,1916,Calvin Booth,1610612764,Washington Wizards,4,9,30,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20001220,0,VAN,WAS
+Shot Chart Detail,20000382,133,1916,Calvin Booth,1610612764,Washington Wizards,2,11,38,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-35,-6,1,0,20001222,0,SEA,WAS
+Shot Chart Detail,20000382,156,1916,Calvin Booth,1610612764,Washington Wizards,2,9,21,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-35,0,1,1,20001222,0,SEA,WAS
+Shot Chart Detail,20000382,159,1916,Calvin Booth,1610612764,Washington Wizards,2,9,1,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,24,150,1,0,20001222,0,SEA,WAS
+Shot Chart Detail,20000382,198,1916,Calvin Booth,1610612764,Washington Wizards,2,5,37,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-101,-13,1,1,20001222,1,SEA,WAS
+Shot Chart Detail,20000382,361,1916,Calvin Booth,1610612764,Washington Wizards,3,4,7,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,89,49,1,0,20001222,0,SEA,WAS
+Shot Chart Detail,20000382,483,1916,Calvin Booth,1610612764,Washington Wizards,4,5,50,Made Shot,Running Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,36,1,1,20001222,0,SEA,WAS
+Shot Chart Detail,20000382,563,1916,Calvin Booth,1610612764,Washington Wizards,4,0,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,3,59,1,0,20001222,0,SEA,WAS
+Shot Chart Detail,20000395,18,1916,Calvin Booth,1610612764,Washington Wizards,1,9,51,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001223,1,POR,WAS
+Shot Chart Detail,20000395,57,1916,Calvin Booth,1610612764,Washington Wizards,1,4,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,0,20001223,0,POR,WAS
+Shot Chart Detail,20000395,177,1916,Calvin Booth,1610612764,Washington Wizards,2,5,2,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-130,91,1,0,20001223,0,POR,WAS
+Shot Chart Detail,20000395,198,1916,Calvin Booth,1610612764,Washington Wizards,2,2,43,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-86,158,1,1,20001223,1,POR,WAS
+Shot Chart Detail,20000395,230,1916,Calvin Booth,1610612764,Washington Wizards,3,11,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-12,133,1,0,20001223,0,POR,WAS
+Shot Chart Detail,20000395,236,1916,Calvin Booth,1610612764,Washington Wizards,3,11,8,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,40,1,1,20001223,1,POR,WAS
+Shot Chart Detail,20000395,245,1916,Calvin Booth,1610612764,Washington Wizards,3,9,58,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,51,158,1,0,20001223,0,POR,WAS
+Shot Chart Detail,20000408,10,1916,Calvin Booth,1610612764,Washington Wizards,1,10,23,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,132,-23,1,1,20001227,1,WAS,NYK
+Shot Chart Detail,20000408,29,1916,Calvin Booth,1610612764,Washington Wizards,1,8,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20001227,1,WAS,NYK
+Shot Chart Detail,20000408,34,1916,Calvin Booth,1610612764,Washington Wizards,1,7,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-8,80,1,0,20001227,0,WAS,NYK
+Shot Chart Detail,20000408,128,1916,Calvin Booth,1610612764,Washington Wizards,2,9,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,4,1,0,20001227,0,WAS,NYK
+Shot Chart Detail,20000408,196,1916,Calvin Booth,1610612764,Washington Wizards,2,3,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,0,20001227,0,WAS,NYK
+Shot Chart Detail,20000423,15,1916,Calvin Booth,1610612764,Washington Wizards,1,9,40,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,161,0,1,0,20001229,0,MIA,WAS
+Shot Chart Detail,20000423,143,1916,Calvin Booth,1610612764,Washington Wizards,2,6,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-16,137,1,0,20001229,0,MIA,WAS
+Shot Chart Detail,20000423,255,1916,Calvin Booth,1610612764,Washington Wizards,3,6,5,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-8,1,1,20001229,0,MIA,WAS
+Shot Chart Detail,20000423,394,1916,Calvin Booth,1610612764,Washington Wizards,4,2,56,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20001229,1,MIA,WAS
+Shot Chart Detail,20000438,6,1916,Calvin Booth,1610612764,Washington Wizards,1,11,23,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,4,1,0,20001231,0,WAS,DET
+Shot Chart Detail,20000438,304,1916,Calvin Booth,1610612764,Washington Wizards,3,10,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20001231,1,WAS,DET
+Shot Chart Detail,20000442,5,1916,Calvin Booth,1610612764,Washington Wizards,1,11,20,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,-6,1,0,20010102,0,WAS,MIN
+Shot Chart Detail,20000442,26,1916,Calvin Booth,1610612764,Washington Wizards,1,8,33,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20010102,1,WAS,MIN
+Shot Chart Detail,20000442,127,1916,Calvin Booth,1610612764,Washington Wizards,2,8,28,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20010102,0,WAS,MIN
+Shot Chart Detail,20000442,246,1916,Calvin Booth,1610612764,Washington Wizards,3,10,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,63,1,0,20010102,0,WAS,MIN
+Shot Chart Detail,20000442,386,1916,Calvin Booth,1610612764,Washington Wizards,4,5,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,-13,1,0,20010102,0,WAS,MIN
+Shot Chart Detail,20000462,7,1916,Calvin Booth,1610612764,Washington Wizards,1,10,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,1,CHI,WAS
+Shot Chart Detail,20000462,12,1916,Calvin Booth,1610612764,Washington Wizards,1,9,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,1,CHI,WAS
+Shot Chart Detail,20000462,36,1916,Calvin Booth,1610612764,Washington Wizards,1,6,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,1,CHI,WAS
+Shot Chart Detail,20000462,47,1916,Calvin Booth,1610612764,Washington Wizards,1,5,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,20,72,1,0,20010104,0,CHI,WAS
+Shot Chart Detail,20000462,62,1916,Calvin Booth,1610612764,Washington Wizards,1,4,4,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010104,0,CHI,WAS
+Shot Chart Detail,20000462,148,1916,Calvin Booth,1610612764,Washington Wizards,2,6,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,1,CHI,WAS
+Shot Chart Detail,20000462,234,1916,Calvin Booth,1610612764,Washington Wizards,3,11,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010104,0,CHI,WAS
+Shot Chart Detail,20000462,239,1916,Calvin Booth,1610612764,Washington Wizards,3,10,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010104,1,CHI,WAS
+Shot Chart Detail,20000474,9,1916,Calvin Booth,1610612764,Washington Wizards,1,10,58,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20010106,0,WAS,DAL
+Shot Chart Detail,20000474,24,1916,Calvin Booth,1610612764,Washington Wizards,1,9,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,26,1,0,20010106,0,WAS,DAL
+Shot Chart Detail,20000474,42,1916,Calvin Booth,1610612764,Washington Wizards,1,7,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,9,1,0,20010106,0,WAS,DAL
+Shot Chart Detail,20000474,50,1916,Calvin Booth,1610612764,Washington Wizards,1,6,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,19,1,1,20010106,0,WAS,DAL
+Shot Chart Detail,20000474,166,1916,Calvin Booth,1610612764,Washington Wizards,2,5,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,0,20010106,0,WAS,DAL
+Shot Chart Detail,20000474,207,1916,Calvin Booth,1610612764,Washington Wizards,2,1,4,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-16,30,1,0,20010106,0,WAS,DAL
+Shot Chart Detail,20000474,217,1916,Calvin Booth,1610612764,Washington Wizards,2,0,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,83,-17,1,0,20010106,0,WAS,DAL
+Shot Chart Detail,20000480,231,1916,Calvin Booth,1610612764,Washington Wizards,3,10,41,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-138,15,1,0,20010107,0,NYK,WAS
+Shot Chart Detail,20000480,397,1916,Calvin Booth,1610612764,Washington Wizards,4,5,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010107,1,NYK,WAS
+Shot Chart Detail,20000497,9,1916,Calvin Booth,1610612764,Washington Wizards,1,10,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010109,0,MIL,WAS
+Shot Chart Detail,20000497,250,1916,Calvin Booth,1610612764,Washington Wizards,3,9,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,153,-6,1,0,20010109,0,MIL,WAS
+Shot Chart Detail,20000497,263,1916,Calvin Booth,1610612764,Washington Wizards,3,8,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010109,1,MIL,WAS
+Shot Chart Detail,20000497,292,1916,Calvin Booth,1610612764,Washington Wizards,3,5,0,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-109,30,1,1,20010109,1,MIL,WAS
+Shot Chart Detail,20000502,8,1916,Calvin Booth,1610612764,Washington Wizards,1,10,59,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20010110,1,WAS,SEA
+Shot Chart Detail,20000502,16,1916,Calvin Booth,1610612764,Washington Wizards,1,9,52,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-124,91,1,0,20010110,0,WAS,SEA
+Shot Chart Detail,20000502,247,1916,Calvin Booth,1610612764,Washington Wizards,3,9,39,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,11,158,1,0,20010110,0,WAS,SEA
+Shot Chart Detail,20000514,38,1916,Calvin Booth,1610612764,Washington Wizards,1,6,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,101,1,0,20010112,0,WAS,PHI
+Shot Chart Detail,20000514,64,1916,Calvin Booth,1610612764,Washington Wizards,1,3,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,47,1,0,20010112,0,WAS,PHI
+Shot Chart Detail,20000514,85,1916,Calvin Booth,1610612764,Washington Wizards,1,1,44,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-14,197,1,0,20010112,0,WAS,PHI
+Shot Chart Detail,20000514,209,1916,Calvin Booth,1610612764,Washington Wizards,2,1,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,-13,1,1,20010112,0,WAS,PHI
+Shot Chart Detail,20000514,250,1916,Calvin Booth,1610612764,Washington Wizards,3,8,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-1,30,1,0,20010112,0,WAS,PHI
+Shot Chart Detail,20000537,2,1916,Calvin Booth,1610612764,Washington Wizards,1,11,40,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,56,114,1,0,20010115,0,WAS,MIL
+Shot Chart Detail,20000537,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20010115,1,WAS,MIL
+Shot Chart Detail,20000537,46,1916,Calvin Booth,1610612764,Washington Wizards,1,6,29,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20010115,0,WAS,MIL
+Shot Chart Detail,20000537,205,1916,Calvin Booth,1610612764,Washington Wizards,2,1,35,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,132,-27,1,1,20010115,0,WAS,MIL
+Shot Chart Detail,20000551,22,1916,Calvin Booth,1610612764,Washington Wizards,1,9,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-149,4,1,0,20010117,0,NJN,WAS
+Shot Chart Detail,20000551,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-141,87,1,1,20010117,1,NJN,WAS
+Shot Chart Detail,20000551,54,1916,Calvin Booth,1610612764,Washington Wizards,1,5,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,73,129,1,0,20010117,0,NJN,WAS
+Shot Chart Detail,20000551,61,1916,Calvin Booth,1610612764,Washington Wizards,1,4,56,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,73,40,1,0,20010117,0,NJN,WAS
+Shot Chart Detail,20000567,3,1916,Calvin Booth,1610612764,Washington Wizards,1,11,44,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,101,1,1,20010119,1,TOR,WAS
+Shot Chart Detail,20000567,19,1916,Calvin Booth,1610612764,Washington Wizards,1,9,54,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-134,9,1,1,20010119,0,TOR,WAS
+Shot Chart Detail,20000567,32,1916,Calvin Booth,1610612764,Washington Wizards,1,7,50,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,27,1,0,20010119,0,TOR,WAS
+Shot Chart Detail,20000567,191,1916,Calvin Booth,1610612764,Washington Wizards,2,4,28,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010119,0,TOR,WAS
+Shot Chart Detail,20000567,345,1916,Calvin Booth,1610612764,Washington Wizards,3,1,6,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,167,9,1,0,20010119,0,TOR,WAS
+Shot Chart Detail,20000567,402,1916,Calvin Booth,1610612764,Washington Wizards,4,6,42,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-27,70,1,0,20010119,0,TOR,WAS
+Shot Chart Detail,20000580,13,1916,Calvin Booth,1610612764,Washington Wizards,1,10,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-79,0,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000580,28,1916,Calvin Booth,1610612764,Washington Wizards,1,8,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,83,36,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000580,52,1916,Calvin Booth,1610612764,Washington Wizards,1,6,29,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-1,152,1,1,20010121,1,WAS,ATL
+Shot Chart Detail,20000580,64,1916,Calvin Booth,1610612764,Washington Wizards,1,5,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-1,114,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000580,69,1916,Calvin Booth,1610612764,Washington Wizards,1,5,15,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,3,169,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000580,72,1916,Calvin Booth,1610612764,Washington Wizards,1,4,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,104,30,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000580,217,1916,Calvin Booth,1610612764,Washington Wizards,2,0,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,-13,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000580,216,1916,Calvin Booth,1610612764,Washington Wizards,2,0,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-13,1,0,20010121,0,WAS,ATL
+Shot Chart Detail,20000589,18,1916,Calvin Booth,1610612764,Washington Wizards,1,10,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,0,20010123,0,WAS,CHH
+Shot Chart Detail,20000589,20,1916,Calvin Booth,1610612764,Washington Wizards,1,10,8,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20010123,0,WAS,CHH
+Shot Chart Detail,20000589,266,1916,Calvin Booth,1610612764,Washington Wizards,3,8,13,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,11,179,1,1,20010123,1,WAS,CHH
+Shot Chart Detail,20000589,271,1916,Calvin Booth,1610612764,Washington Wizards,3,7,1,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,98,-13,1,1,20010123,0,WAS,CHH
+Shot Chart Detail,20000589,282,1916,Calvin Booth,1610612764,Washington Wizards,3,5,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-6,1,1,20010123,1,WAS,CHH
+Shot Chart Detail,20000614,39,1916,Calvin Booth,1610612764,Washington Wizards,1,6,51,Made Shot,Turnaround Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-86,4,1,1,20010126,0,ATL,WAS
+Shot Chart Detail,20000614,189,1916,Calvin Booth,1610612764,Washington Wizards,2,1,36,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,66,1,1,20010126,0,ATL,WAS
+Shot Chart Detail,20000614,207,1916,Calvin Booth,1610612764,Washington Wizards,3,10,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,2,1,0,20010126,0,ATL,WAS
+Shot Chart Detail,20000614,222,1916,Calvin Booth,1610612764,Washington Wizards,3,9,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,102,59,1,0,20010126,0,ATL,WAS
+Shot Chart Detail,20000614,320,1916,Calvin Booth,1610612764,Washington Wizards,4,9,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010126,1,ATL,WAS
+Shot Chart Detail,20000618,22,1916,Calvin Booth,1610612764,Washington Wizards,1,8,46,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20010127,0,WAS,PHX
+Shot Chart Detail,20000618,222,1916,Calvin Booth,1610612764,Washington Wizards,3,11,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,9,1,0,20010127,0,WAS,PHX
+Shot Chart Detail,20000618,228,1916,Calvin Booth,1610612764,Washington Wizards,3,10,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,3,30,1,1,20010127,1,WAS,PHX
+Shot Chart Detail,20000618,231,1916,Calvin Booth,1610612764,Washington Wizards,3,9,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,4,1,0,20010127,0,WAS,PHX
+Shot Chart Detail,20000632,9,1916,Calvin Booth,1610612764,Washington Wizards,1,11,20,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,30,1,1,20010129,0,WAS,CLE
+Shot Chart Detail,20000632,42,1916,Calvin Booth,1610612764,Washington Wizards,1,6,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,87,1,0,20010129,0,WAS,CLE
+Shot Chart Detail,20000632,47,1916,Calvin Booth,1610612764,Washington Wizards,1,5,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,9,1,1,20010129,0,WAS,CLE
+Shot Chart Detail,20000632,263,1916,Calvin Booth,1610612764,Washington Wizards,3,9,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-37,53,1,0,20010129,0,WAS,CLE
+Shot Chart Detail,20000647,5,1916,Calvin Booth,1610612764,Washington Wizards,1,11,4,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,36,1,1,20010131,1,WAS,ORL
+Shot Chart Detail,20000647,19,1916,Calvin Booth,1610612764,Washington Wizards,1,9,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20010131,0,WAS,ORL
+Shot Chart Detail,20000647,249,1916,Calvin Booth,1610612764,Washington Wizards,2,0,0,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-79,101,1,1,20010131,1,WAS,ORL
+Shot Chart Detail,20000647,262,1916,Calvin Booth,1610612764,Washington Wizards,3,10,5,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,176,15,1,1,20010131,1,WAS,ORL
+Shot Chart Detail,20000647,282,1916,Calvin Booth,1610612764,Washington Wizards,3,7,8,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,-23,1,1,20010131,1,WAS,ORL
+Shot Chart Detail,20000647,301,1916,Calvin Booth,1610612764,Washington Wizards,3,5,4,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010131,0,WAS,ORL
+Shot Chart Detail,20000647,310,1916,Calvin Booth,1610612764,Washington Wizards,3,4,7,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,167,42,1,0,20010131,0,WAS,ORL
+Shot Chart Detail,20000647,329,1916,Calvin Booth,1610612764,Washington Wizards,3,2,32,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,4,1,1,20010131,0,WAS,ORL
+Shot Chart Detail,20000647,345,1916,Calvin Booth,1610612764,Washington Wizards,3,0,47,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,3,158,1,1,20010131,1,WAS,ORL
+Shot Chart Detail,20000668,3,1916,Calvin Booth,1610612764,Washington Wizards,1,11,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,119,101,1,0,20010203,0,WAS,DEN
+Shot Chart Detail,20000668,11,1916,Calvin Booth,1610612764,Washington Wizards,1,10,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-115,70,1,0,20010203,0,WAS,DEN
+Shot Chart Detail,20000668,180,1916,Calvin Booth,1610612764,Washington Wizards,2,6,28,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,104,125,1,1,20010203,1,WAS,DEN
+Shot Chart Detail,20000699,7,1916,Calvin Booth,1610612764,Washington Wizards,1,11,23,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010207,0,ORL,WAS
+Shot Chart Detail,20000699,33,1916,Calvin Booth,1610612764,Washington Wizards,1,8,32,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,0,1,0,20010207,0,ORL,WAS
+Shot Chart Detail,20000699,45,1916,Calvin Booth,1610612764,Washington Wizards,1,7,19,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-86,165,1,0,20010207,0,ORL,WAS
+Shot Chart Detail,20000699,192,1916,Calvin Booth,1610612764,Washington Wizards,2,6,2,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010207,0,ORL,WAS
+Shot Chart Detail,20000699,288,1916,Calvin Booth,1610612764,Washington Wizards,3,9,28,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-8,188,1,0,20010207,0,ORL,WAS
+Shot Chart Detail,20000699,424,1916,Calvin Booth,1610612764,Washington Wizards,4,9,34,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,125,72,1,1,20010207,0,ORL,WAS
+Shot Chart Detail,20000699,452,1916,Calvin Booth,1610612764,Washington Wizards,4,6,37,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,140,55,1,0,20010207,0,ORL,WAS

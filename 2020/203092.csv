@@ -1,5 +1,5 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021901254,309,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,2,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,13,1,1,20200803,PHI,SAS
-Shot Chart Detail,0021901254,334,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,1,11,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-55,51,1,0,20200803,PHI,SAS
-Shot Chart Detail,0021901254,346,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,0,33,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200803,PHI,SAS
-Shot Chart Detail,0021901254,358,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,0,1,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200803,PHI,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21901254,309,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,2,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,30,13,1,1,20200803,1,PHI,SAS
+Shot Chart Detail,21901254,334,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,1,11,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-55,51,1,0,20200803,0,PHI,SAS
+Shot Chart Detail,21901254,346,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,0,33,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200803,0,PHI,SAS
+Shot Chart Detail,21901254,358,203092,Tyler Zeller,1610612759,San Antonio Spurs,2,0,1,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,0,20200803,0,PHI,SAS

@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040900172,106,101130,Johan Petro,1610612743,Denver Nuggets,1,2,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,45,1,1,20100419,DEN,UTA
-Shot Chart Detail,0040900172,120,101130,Johan Petro,1610612743,Denver Nuggets,1,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100419,DEN,UTA
-Shot Chart Detail,0040900174,425,101130,Johan Petro,1610612743,Denver Nuggets,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,154,1,0,20100425,UTA,DEN
-Shot Chart Detail,0040900175,135,101130,Johan Petro,1610612743,Denver Nuggets,2,9,10,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100428,DEN,UTA
-Shot Chart Detail,0040900175,143,101130,Johan Petro,1610612743,Denver Nuggets,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-35,159,1,0,20100428,DEN,UTA
-Shot Chart Detail,0040900175,171,101130,Johan Petro,1610612743,Denver Nuggets,2,7,4,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,10,1,1,20100428,DEN,UTA
-Shot Chart Detail,0040900175,239,101130,Johan Petro,1610612743,Denver Nuggets,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,165,1,0,20100428,DEN,UTA
-Shot Chart Detail,0040900175,436,101130,Johan Petro,1610612743,Denver Nuggets,4,6,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100428,DEN,UTA
-Shot Chart Detail,0040900176,11,101130,Johan Petro,1610612743,Denver Nuggets,1,10,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100430,UTA,DEN
-Shot Chart Detail,0040900176,70,101130,Johan Petro,1610612743,Denver Nuggets,1,5,3,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20100430,UTA,DEN
-Shot Chart Detail,0040900176,338,101130,Johan Petro,1610612743,Denver Nuggets,3,10,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100430,UTA,DEN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40900172,106,101130,Johan Petro,1610612743,Denver Nuggets,1,2,22,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,45,1,1,20100419,1,DEN,UTA
+Shot Chart Detail,40900172,120,101130,Johan Petro,1610612743,Denver Nuggets,1,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100419,1,DEN,UTA
+Shot Chart Detail,40900174,425,101130,Johan Petro,1610612743,Denver Nuggets,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,2,154,1,0,20100425,0,UTA,DEN
+Shot Chart Detail,40900175,135,101130,Johan Petro,1610612743,Denver Nuggets,2,9,10,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100428,0,DEN,UTA
+Shot Chart Detail,40900175,143,101130,Johan Petro,1610612743,Denver Nuggets,2,8,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-35,159,1,0,20100428,0,DEN,UTA
+Shot Chart Detail,40900175,171,101130,Johan Petro,1610612743,Denver Nuggets,2,7,4,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,10,1,1,20100428,1,DEN,UTA
+Shot Chart Detail,40900175,239,101130,Johan Petro,1610612743,Denver Nuggets,2,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,0,165,1,0,20100428,0,DEN,UTA
+Shot Chart Detail,40900175,436,101130,Johan Petro,1610612743,Denver Nuggets,4,6,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100428,0,DEN,UTA
+Shot Chart Detail,40900176,11,101130,Johan Petro,1610612743,Denver Nuggets,1,10,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100430,1,UTA,DEN
+Shot Chart Detail,40900176,70,101130,Johan Petro,1610612743,Denver Nuggets,1,5,3,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,52,1,1,20100430,0,UTA,DEN
+Shot Chart Detail,40900176,338,101130,Johan Petro,1610612743,Denver Nuggets,3,10,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100430,0,UTA,DEN

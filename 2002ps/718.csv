@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040100171,90,718,Gary Trent,1610612750,Minnesota Timberwolves,1,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,53,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100171,327,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,80,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100171,330,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,87,1,1,20020421,DAL,MIN
-Shot Chart Detail,0040100171,338,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100171,340,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020421,DAL,MIN
-Shot Chart Detail,0040100171,373,718,Gary Trent,1610612750,Minnesota Timberwolves,4,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100171,375,718,Gary Trent,1610612750,Minnesota Timberwolves,4,11,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100172,151,718,Gary Trent,1610612750,Minnesota Timberwolves,2,10,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020424,DAL,MIN
-Shot Chart Detail,0040100172,171,718,Gary Trent,1610612750,Minnesota Timberwolves,2,7,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,21,1,1,20020424,DAL,MIN
-Shot Chart Detail,0040100172,176,718,Gary Trent,1610612750,Minnesota Timberwolves,2,7,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,66,63,1,1,20020424,DAL,MIN
-Shot Chart Detail,0040100172,220,718,Gary Trent,1610612750,Minnesota Timberwolves,2,3,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,59,1,0,20020424,DAL,MIN
-Shot Chart Detail,0040100172,236,718,Gary Trent,1610612750,Minnesota Timberwolves,2,1,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,59,1,0,20020424,DAL,MIN
-Shot Chart Detail,0040100172,398,718,Gary Trent,1610612750,Minnesota Timberwolves,4,11,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020424,DAL,MIN
-Shot Chart Detail,0040100173,384,718,Gary Trent,1610612750,Minnesota Timberwolves,3,0,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-189,-23,1,0,20020428,MIN,DAL
-Shot Chart Detail,0040100173,409,718,Gary Trent,1610612750,Minnesota Timberwolves,4,10,35,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,53,1,1,20020428,MIN,DAL
-Shot Chart Detail,0040100173,445,718,Gary Trent,1610612750,Minnesota Timberwolves,4,6,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020428,MIN,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40100171,90,718,Gary Trent,1610612750,Minnesota Timberwolves,1,1,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,53,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,327,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-23,80,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,330,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,45,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,87,1,1,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,338,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,340,718,Gary Trent,1610612750,Minnesota Timberwolves,3,2,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,373,718,Gary Trent,1610612750,Minnesota Timberwolves,4,11,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,375,718,Gary Trent,1610612750,Minnesota Timberwolves,4,11,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100172,151,718,Gary Trent,1610612750,Minnesota Timberwolves,2,10,7,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020424,1,DAL,MIN
+Shot Chart Detail,40100172,171,718,Gary Trent,1610612750,Minnesota Timberwolves,2,7,54,Made Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,87,21,1,1,20020424,1,DAL,MIN
+Shot Chart Detail,40100172,176,718,Gary Trent,1610612750,Minnesota Timberwolves,2,7,13,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,66,63,1,1,20020424,0,DAL,MIN
+Shot Chart Detail,40100172,220,718,Gary Trent,1610612750,Minnesota Timberwolves,2,3,8,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,59,1,0,20020424,0,DAL,MIN
+Shot Chart Detail,40100172,236,718,Gary Trent,1610612750,Minnesota Timberwolves,2,1,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,59,1,0,20020424,0,DAL,MIN
+Shot Chart Detail,40100172,398,718,Gary Trent,1610612750,Minnesota Timberwolves,4,11,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020424,0,DAL,MIN
+Shot Chart Detail,40100173,384,718,Gary Trent,1610612750,Minnesota Timberwolves,3,0,37,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-189,-23,1,0,20020428,0,MIN,DAL
+Shot Chart Detail,40100173,409,718,Gary Trent,1610612750,Minnesota Timberwolves,4,10,35,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,53,1,1,20020428,1,MIN,DAL
+Shot Chart Detail,40100173,445,718,Gary Trent,1610612750,Minnesota Timberwolves,4,6,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020428,0,MIN,DAL

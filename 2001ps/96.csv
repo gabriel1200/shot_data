@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000015,337,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,125,1,1,20010426,LAL,POR
-Shot Chart Detail,0040000015,498,96,Detlef Schrempf,1610612757,Portland Trail Blazers,4,0,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,179,1,1,20010426,LAL,POR
-Shot Chart Detail,0040000022,278,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,7,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,1,20010429,POR,LAL
-Shot Chart Detail,0040000022,290,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,6,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-46,150,1,1,20010429,POR,LAL
-Shot Chart Detail,0040000022,317,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,2,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-6,1,0,20010429,POR,LAL
-Shot Chart Detail,0040000022,338,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,0,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,9,1,0,20010429,POR,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000015,337,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,0,47,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,146,125,1,1,20010426,1,LAL,POR
+Shot Chart Detail,40000015,498,96,Detlef Schrempf,1610612757,Portland Trail Blazers,4,0,50,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,179,1,1,20010426,1,LAL,POR
+Shot Chart Detail,40000022,278,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,7,22,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,-13,1,1,20010429,1,POR,LAL
+Shot Chart Detail,40000022,290,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,6,0,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-46,150,1,1,20010429,1,POR,LAL
+Shot Chart Detail,40000022,317,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,2,46,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,-6,1,0,20010429,0,POR,LAL
+Shot Chart Detail,40000022,338,96,Detlef Schrempf,1610612757,Portland Trail Blazers,3,0,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-143,9,1,0,20010429,0,POR,LAL

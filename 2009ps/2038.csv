@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040800171,18,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,9,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,POR,HOU
-Shot Chart Detail,0040800171,27,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,8,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,POR,HOU
-Shot Chart Detail,0040800171,60,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,2,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,POR,HOU
-Shot Chart Detail,0040800171,63,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,2,18,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,POR,HOU
-Shot Chart Detail,0040800171,62,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,2,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,POR,HOU
-Shot Chart Detail,0040800171,178,2038,Joel Przybilla,1610612757,Portland Trail Blazers,2,4,49,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,POR,HOU
-Shot Chart Detail,0040800171,181,2038,Joel Przybilla,1610612757,Portland Trail Blazers,2,4,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,POR,HOU
-Shot Chart Detail,0040800171,259,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,POR,HOU
-Shot Chart Detail,0040800172,70,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,4,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090421,POR,HOU
-Shot Chart Detail,0040800173,2,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,11,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090424,HOU,POR
-Shot Chart Detail,0040800174,283,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,4,36,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,47,1,1,20090426,HOU,POR
-Shot Chart Detail,0040800174,373,2038,Joel Przybilla,1610612757,Portland Trail Blazers,4,9,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090426,HOU,POR
-Shot Chart Detail,0040800175,11,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,10,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090428,POR,HOU
-Shot Chart Detail,0040800175,244,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,7,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090428,POR,HOU
-Shot Chart Detail,0040800175,258,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090428,POR,HOU
-Shot Chart Detail,0040800176,10,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090430,HOU,POR
-Shot Chart Detail,0040800176,56,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,4,38,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090430,HOU,POR
-Shot Chart Detail,0040800176,117,2038,Joel Przybilla,1610612757,Portland Trail Blazers,2,10,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090430,HOU,POR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40800171,18,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,9,52,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,0,POR,HOU
+Shot Chart Detail,40800171,27,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,8,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,0,POR,HOU
+Shot Chart Detail,40800171,60,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,2,52,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,1,POR,HOU
+Shot Chart Detail,40800171,62,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,2,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,0,POR,HOU
+Shot Chart Detail,40800171,63,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,2,18,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,0,POR,HOU
+Shot Chart Detail,40800171,178,2038,Joel Przybilla,1610612757,Portland Trail Blazers,2,4,49,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090418,0,POR,HOU
+Shot Chart Detail,40800171,181,2038,Joel Przybilla,1610612757,Portland Trail Blazers,2,4,37,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,0,POR,HOU
+Shot Chart Detail,40800171,259,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,10,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090418,1,POR,HOU
+Shot Chart Detail,40800172,70,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,4,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090421,0,POR,HOU
+Shot Chart Detail,40800173,2,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,11,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090424,1,HOU,POR
+Shot Chart Detail,40800174,283,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,4,36,Made Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,47,1,1,20090426,1,HOU,POR
+Shot Chart Detail,40800174,373,2038,Joel Przybilla,1610612757,Portland Trail Blazers,4,9,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090426,0,HOU,POR
+Shot Chart Detail,40800175,11,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,10,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090428,1,POR,HOU
+Shot Chart Detail,40800175,244,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,7,58,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090428,1,POR,HOU
+Shot Chart Detail,40800175,258,2038,Joel Przybilla,1610612757,Portland Trail Blazers,3,5,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090428,0,POR,HOU
+Shot Chart Detail,40800176,10,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,10,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090430,0,HOU,POR
+Shot Chart Detail,40800176,56,2038,Joel Przybilla,1610612757,Portland Trail Blazers,1,4,38,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090430,0,HOU,POR
+Shot Chart Detail,40800176,117,2038,Joel Przybilla,1610612757,Portland Trail Blazers,2,10,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090430,0,HOU,POR

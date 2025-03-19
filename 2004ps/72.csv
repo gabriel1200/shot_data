@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040300103,421,72,Kenny Anderson,1610612754,Indiana Pacers,4,4,5,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,33,1,1,20040423,BOS,IND
-Shot Chart Detail,0040300103,430,72,Kenny Anderson,1610612754,Indiana Pacers,4,3,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,10,1,0,20040423,BOS,IND
-Shot Chart Detail,0040300103,449,72,Kenny Anderson,1610612754,Indiana Pacers,4,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,158,1,1,20040423,BOS,IND
-Shot Chart Detail,0040300103,451,72,Kenny Anderson,1610612754,Indiana Pacers,4,1,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20040423,BOS,IND
-Shot Chart Detail,0040300202,441,72,Kenny Anderson,1610612754,Indiana Pacers,4,3,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20040508,IND,MIA
-Shot Chart Detail,0040300304,364,72,Kenny Anderson,1610612754,Indiana Pacers,4,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,130,1,0,20040528,DET,IND
-Shot Chart Detail,0040300306,126,72,Kenny Anderson,1610612754,Indiana Pacers,2,9,47,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,97,26,1,0,20040601,DET,IND
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40300103,421,72,Kenny Anderson,1610612754,Indiana Pacers,4,4,5,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,33,1,1,20040423,0,BOS,IND
+Shot Chart Detail,40300103,430,72,Kenny Anderson,1610612754,Indiana Pacers,4,3,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,10,1,0,20040423,0,BOS,IND
+Shot Chart Detail,40300103,449,72,Kenny Anderson,1610612754,Indiana Pacers,4,1,55,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,100,158,1,1,20040423,0,BOS,IND
+Shot Chart Detail,40300103,451,72,Kenny Anderson,1610612754,Indiana Pacers,4,1,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20040423,0,BOS,IND
+Shot Chart Detail,40300202,441,72,Kenny Anderson,1610612754,Indiana Pacers,4,3,29,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,3,1,0,20040508,0,IND,MIA
+Shot Chart Detail,40300304,364,72,Kenny Anderson,1610612754,Indiana Pacers,4,8,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-149,130,1,0,20040528,0,DET,IND
+Shot Chart Detail,40300306,126,72,Kenny Anderson,1610612754,Indiana Pacers,2,9,47,Missed Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,97,26,1,0,20040601,0,DET,IND

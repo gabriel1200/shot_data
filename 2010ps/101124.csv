@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040900101,166,101124,Hakim Warrick,1610612741,Chicago Bulls,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,-8,1,0,20100417,CLE,CHI
-Shot Chart Detail,0040900101,172,101124,Hakim Warrick,1610612741,Chicago Bulls,2,7,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,47,1,1,20100417,CLE,CHI
-Shot Chart Detail,0040900101,174,101124,Hakim Warrick,1610612741,Chicago Bulls,2,6,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,50,1,0,20100417,CLE,CHI
-Shot Chart Detail,0040900101,235,101124,Hakim Warrick,1610612741,Chicago Bulls,2,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-93,146,1,1,20100417,CLE,CHI
-Shot Chart Detail,0040900104,102,101124,Hakim Warrick,1610612741,Chicago Bulls,1,1,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100425,CHI,CLE
-Shot Chart Detail,0040900104,133,101124,Hakim Warrick,1610612741,Chicago Bulls,1,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100425,CHI,CLE
-Shot Chart Detail,0040900104,467,101124,Hakim Warrick,1610612741,Chicago Bulls,3,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,151,1,0,20100425,CHI,CLE
-Shot Chart Detail,0040900104,580,101124,Hakim Warrick,1610612741,Chicago Bulls,4,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,140,1,0,20100425,CHI,CLE
-Shot Chart Detail,0040900105,88,101124,Hakim Warrick,1610612741,Chicago Bulls,1,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,36,1,0,20100427,CLE,CHI
-Shot Chart Detail,0040900105,116,101124,Hakim Warrick,1610612741,Chicago Bulls,2,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,34,170,1,0,20100427,CLE,CHI
-Shot Chart Detail,0040900105,159,101124,Hakim Warrick,1610612741,Chicago Bulls,2,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,0,20100427,CLE,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40900101,166,101124,Hakim Warrick,1610612741,Chicago Bulls,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,-8,1,0,20100417,0,CLE,CHI
+Shot Chart Detail,40900101,172,101124,Hakim Warrick,1610612741,Chicago Bulls,2,7,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-95,47,1,1,20100417,0,CLE,CHI
+Shot Chart Detail,40900101,174,101124,Hakim Warrick,1610612741,Chicago Bulls,2,6,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-105,50,1,0,20100417,0,CLE,CHI
+Shot Chart Detail,40900101,235,101124,Hakim Warrick,1610612741,Chicago Bulls,2,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-93,146,1,1,20100417,1,CLE,CHI
+Shot Chart Detail,40900104,102,101124,Hakim Warrick,1610612741,Chicago Bulls,1,1,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100425,0,CHI,CLE
+Shot Chart Detail,40900104,133,101124,Hakim Warrick,1610612741,Chicago Bulls,1,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100425,0,CHI,CLE
+Shot Chart Detail,40900104,467,101124,Hakim Warrick,1610612741,Chicago Bulls,3,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,151,1,0,20100425,0,CHI,CLE
+Shot Chart Detail,40900104,580,101124,Hakim Warrick,1610612741,Chicago Bulls,4,1,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,86,140,1,0,20100425,0,CHI,CLE
+Shot Chart Detail,40900105,88,101124,Hakim Warrick,1610612741,Chicago Bulls,1,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,36,1,0,20100427,0,CLE,CHI
+Shot Chart Detail,40900105,116,101124,Hakim Warrick,1610612741,Chicago Bulls,2,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,34,170,1,0,20100427,0,CLE,CHI
+Shot Chart Detail,40900105,159,101124,Hakim Warrick,1610612741,Chicago Bulls,2,6,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,0,20100427,0,CLE,CHI

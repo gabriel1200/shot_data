@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040100151,129,95,Mark Bryant,1610612759,San Antonio Spurs,2,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,142,0,1,0,20020420,SAS,SEA
-Shot Chart Detail,0040100151,222,95,Mark Bryant,1610612759,San Antonio Spurs,3,9,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,0,20020420,SAS,SEA
-Shot Chart Detail,0040100151,342,95,Mark Bryant,1610612759,San Antonio Spurs,4,5,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,148,4,1,0,20020420,SAS,SEA
-Shot Chart Detail,0040100151,357,95,Mark Bryant,1610612759,San Antonio Spurs,4,3,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,-6,1,0,20020420,SAS,SEA
-Shot Chart Detail,0040100151,366,95,Mark Bryant,1610612759,San Antonio Spurs,4,3,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,1,20020420,SAS,SEA
-Shot Chart Detail,0040100152,10,95,Mark Bryant,1610612759,San Antonio Spurs,1,10,39,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,1,20020422,SAS,SEA
-Shot Chart Detail,0040100152,24,95,Mark Bryant,1610612759,San Antonio Spurs,1,9,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,9,1,0,20020422,SAS,SEA
-Shot Chart Detail,0040100154,4,95,Mark Bryant,1610612759,San Antonio Spurs,1,11,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020501,SEA,SAS
-Shot Chart Detail,0040100154,8,95,Mark Bryant,1610612759,San Antonio Spurs,1,11,4,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,7,1,0,20020501,SEA,SAS
-Shot Chart Detail,0040100154,138,95,Mark Bryant,1610612759,San Antonio Spurs,2,9,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020501,SEA,SAS
-Shot Chart Detail,0040100154,240,95,Mark Bryant,1610612759,San Antonio Spurs,3,10,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,20020501,SEA,SAS
-Shot Chart Detail,0040100155,118,95,Mark Bryant,1610612759,San Antonio Spurs,2,10,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20020503,SAS,SEA
-Shot Chart Detail,0040100155,398,95,Mark Bryant,1610612759,San Antonio Spurs,4,3,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,152,1,0,20020503,SAS,SEA
-Shot Chart Detail,0040100231,199,95,Mark Bryant,1610612759,San Antonio Spurs,2,6,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-2,1,0,20020505,LAL,SAS
-Shot Chart Detail,0040100231,288,95,Mark Bryant,1610612759,San Antonio Spurs,3,10,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,7,1,1,20020505,LAL,SAS
-Shot Chart Detail,0040100232,45,95,Mark Bryant,1610612759,San Antonio Spurs,1,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,142,70,1,1,20020507,LAL,SAS
-Shot Chart Detail,0040100232,143,95,Mark Bryant,1610612759,San Antonio Spurs,2,8,8,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020507,LAL,SAS
-Shot Chart Detail,0040100232,161,95,Mark Bryant,1610612759,San Antonio Spurs,2,6,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-138,76,1,1,20020507,LAL,SAS
-Shot Chart Detail,0040100232,177,95,Mark Bryant,1610612759,San Antonio Spurs,2,4,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-96,87,1,1,20020507,LAL,SAS
-Shot Chart Detail,0040100234,204,95,Mark Bryant,1610612759,San Antonio Spurs,2,1,48,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,53,1,0,20020512,SAS,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40100151,129,95,Mark Bryant,1610612759,San Antonio Spurs,2,8,24,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,142,0,1,0,20020420,0,SAS,SEA
+Shot Chart Detail,40100151,222,95,Mark Bryant,1610612759,San Antonio Spurs,3,9,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,0,20020420,0,SAS,SEA
+Shot Chart Detail,40100151,342,95,Mark Bryant,1610612759,San Antonio Spurs,4,5,24,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,148,4,1,0,20020420,0,SAS,SEA
+Shot Chart Detail,40100151,357,95,Mark Bryant,1610612759,San Antonio Spurs,4,3,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,-6,1,0,20020420,0,SAS,SEA
+Shot Chart Detail,40100151,366,95,Mark Bryant,1610612759,San Antonio Spurs,4,3,0,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-138,0,1,1,20020420,1,SAS,SEA
+Shot Chart Detail,40100152,10,95,Mark Bryant,1610612759,San Antonio Spurs,1,10,39,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,1,20020422,0,SAS,SEA
+Shot Chart Detail,40100152,24,95,Mark Bryant,1610612759,San Antonio Spurs,1,9,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,9,1,0,20020422,0,SAS,SEA
+Shot Chart Detail,40100154,4,95,Mark Bryant,1610612759,San Antonio Spurs,1,11,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020501,0,SEA,SAS
+Shot Chart Detail,40100154,8,95,Mark Bryant,1610612759,San Antonio Spurs,1,11,4,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-33,7,1,0,20020501,0,SEA,SAS
+Shot Chart Detail,40100154,138,95,Mark Bryant,1610612759,San Antonio Spurs,2,9,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020501,0,SEA,SAS
+Shot Chart Detail,40100154,240,95,Mark Bryant,1610612759,San Antonio Spurs,3,10,38,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,20020501,0,SEA,SAS
+Shot Chart Detail,40100155,118,95,Mark Bryant,1610612759,San Antonio Spurs,2,10,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20020503,1,SAS,SEA
+Shot Chart Detail,40100155,398,95,Mark Bryant,1610612759,San Antonio Spurs,4,3,39,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,77,152,1,0,20020503,0,SAS,SEA
+Shot Chart Detail,40100231,199,95,Mark Bryant,1610612759,San Antonio Spurs,2,6,54,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,-2,1,0,20020505,0,LAL,SAS
+Shot Chart Detail,40100231,288,95,Mark Bryant,1610612759,San Antonio Spurs,3,10,35,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-183,7,1,1,20020505,1,LAL,SAS
+Shot Chart Detail,40100232,45,95,Mark Bryant,1610612759,San Antonio Spurs,1,7,31,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,142,70,1,1,20020507,1,LAL,SAS
+Shot Chart Detail,40100232,143,95,Mark Bryant,1610612759,San Antonio Spurs,2,8,8,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020507,0,LAL,SAS
+Shot Chart Detail,40100232,161,95,Mark Bryant,1610612759,San Antonio Spurs,2,6,7,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-138,76,1,1,20020507,1,LAL,SAS
+Shot Chart Detail,40100232,177,95,Mark Bryant,1610612759,San Antonio Spurs,2,4,41,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-96,87,1,1,20020507,1,LAL,SAS
+Shot Chart Detail,40100234,204,95,Mark Bryant,1610612759,San Antonio Spurs,2,1,48,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,53,1,0,20020512,0,SAS,LAL

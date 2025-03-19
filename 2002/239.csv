@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020100111,406,239,Darrick Martin,1610612742,Dallas Mavericks,4,2,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,117,110,1,0,20011114,CLE,DAL
-Shot Chart Detail,0020100117,148,239,Darrick Martin,1610612742,Dallas Mavericks,2,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011115,DET,DAL
-Shot Chart Detail,0020100117,394,239,Darrick Martin,1610612742,Dallas Mavericks,4,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,104,163,1,0,20011115,DET,DAL
-Shot Chart Detail,0020100117,400,239,Darrick Martin,1610612742,Dallas Mavericks,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,55,1,0,20011115,DET,DAL
-Shot Chart Detail,0020100117,422,239,Darrick Martin,1610612742,Dallas Mavericks,4,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,11,1,0,20011115,DET,DAL
-Shot Chart Detail,0020100117,431,239,Darrick Martin,1610612742,Dallas Mavericks,4,0,38,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,4,1,0,20011115,DET,DAL
-Shot Chart Detail,0020100138,318,239,Darrick Martin,1610612742,Dallas Mavericks,3,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,144,241,1,0,20011117,HOU,DAL
-Shot Chart Detail,0020100138,323,239,Darrick Martin,1610612742,Dallas Mavericks,4,11,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,70,1,0,20011117,HOU,DAL
-Shot Chart Detail,0020100138,333,239,Darrick Martin,1610612742,Dallas Mavericks,4,10,27,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,9,1,0,20011117,HOU,DAL
-Shot Chart Detail,0020100138,347,239,Darrick Martin,1610612742,Dallas Mavericks,4,9,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011117,HOU,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20100111,406,239,Darrick Martin,1610612742,Dallas Mavericks,4,2,42,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,117,110,1,0,20011114,0,CLE,DAL
+Shot Chart Detail,20100117,148,239,Darrick Martin,1610612742,Dallas Mavericks,2,6,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011115,0,DET,DAL
+Shot Chart Detail,20100117,394,239,Darrick Martin,1610612742,Dallas Mavericks,4,4,50,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,104,163,1,0,20011115,0,DET,DAL
+Shot Chart Detail,20100117,400,239,Darrick Martin,1610612742,Dallas Mavericks,4,3,58,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,55,1,0,20011115,0,DET,DAL
+Shot Chart Detail,20100117,422,239,Darrick Martin,1610612742,Dallas Mavericks,4,1,33,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,146,11,1,0,20011115,0,DET,DAL
+Shot Chart Detail,20100117,431,239,Darrick Martin,1610612742,Dallas Mavericks,4,0,38,Missed Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,89,4,1,0,20011115,0,DET,DAL
+Shot Chart Detail,20100138,318,239,Darrick Martin,1610612742,Dallas Mavericks,3,0,0,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,144,241,1,0,20011117,0,HOU,DAL
+Shot Chart Detail,20100138,323,239,Darrick Martin,1610612742,Dallas Mavericks,4,11,42,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-227,70,1,0,20011117,0,HOU,DAL
+Shot Chart Detail,20100138,333,239,Darrick Martin,1610612742,Dallas Mavericks,4,10,27,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,9,1,0,20011117,0,HOU,DAL
+Shot Chart Detail,20100138,347,239,Darrick Martin,1610612742,Dallas Mavericks,4,9,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20011117,0,HOU,DAL

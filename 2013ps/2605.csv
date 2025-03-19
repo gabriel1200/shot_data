@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041200101,128,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,10,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,33,1,0,20130421,MIA,MIL
-Shot Chart Detail,0041200101,174,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,6,57,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,6,1,0,20130421,MIA,MIL
-Shot Chart Detail,0041200101,428,2605,Marquis Daniels,1610612749,Milwaukee Bucks,4,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,-2,1,1,20130421,MIA,MIL
-Shot Chart Detail,0041200102,121,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,11,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-2,151,1,1,20130423,MIA,MIL
-Shot Chart Detail,0041200102,124,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,10,46,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20130423,MIA,MIL
-Shot Chart Detail,0041200102,134,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,47,1,0,20130423,MIA,MIL
-Shot Chart Detail,0041200102,136,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,9,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,58,1,0,20130423,MIA,MIL
-Shot Chart Detail,0041200102,206,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,2,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20130423,MIA,MIL
-Shot Chart Detail,0041200102,208,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,2,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20130423,MIA,MIL
-Shot Chart Detail,0041200103,150,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,8,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,121,1,1,20130425,MIL,MIA
-Shot Chart Detail,0041200103,167,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,7,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,4,151,1,0,20130425,MIL,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41200101,128,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,10,46,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,33,1,0,20130421,0,MIA,MIL
+Shot Chart Detail,41200101,174,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,6,57,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,6,1,0,20130421,0,MIA,MIL
+Shot Chart Detail,41200101,428,2605,Marquis Daniels,1610612749,Milwaukee Bucks,4,8,56,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,-2,1,1,20130421,1,MIA,MIL
+Shot Chart Detail,41200102,121,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,11,10,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-2,151,1,1,20130423,1,MIA,MIL
+Shot Chart Detail,41200102,124,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,10,46,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,1,1,1,20130423,1,MIA,MIL
+Shot Chart Detail,41200102,134,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,9,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,47,1,0,20130423,0,MIA,MIL
+Shot Chart Detail,41200102,136,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,9,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,58,1,0,20130423,0,MIA,MIL
+Shot Chart Detail,41200102,206,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,2,49,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,9,1,1,20130423,1,MIA,MIL
+Shot Chart Detail,41200102,208,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,2,29,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20130423,0,MIA,MIL
+Shot Chart Detail,41200103,150,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,8,21,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,0,121,1,1,20130425,1,MIL,MIA
+Shot Chart Detail,41200103,167,2605,Marquis Daniels,1610612749,Milwaukee Bucks,2,7,4,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,4,151,1,0,20130425,0,MIL,MIA

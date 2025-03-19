@@ -1,5 +1,5 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021600999,499,202336,Larry Sanders,1610612739,Cleveland Cavaliers,4,0,47,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,27,56,1,0,20170314,CLE,DET
-Shot Chart Detail,0021601169,540,202336,Larry Sanders,1610612739,Cleveland Cavaliers,4,1,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,0,20170405,BOS,CLE
-Shot Chart Detail,0021601205,104,202336,Larry Sanders,1610612739,Cleveland Cavaliers,1,2,57,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,10,1,0,20170410,MIA,CLE
-Shot Chart Detail,0021601205,80,202336,Larry Sanders,1610612739,Cleveland Cavaliers,1,2,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20170410,MIA,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21600999,499,202336,Larry Sanders,1610612739,Cleveland Cavaliers,4,0,47,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,27,56,1,0,20170314,0,CLE,DET
+Shot Chart Detail,21601169,540,202336,Larry Sanders,1610612739,Cleveland Cavaliers,4,1,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,0,20170405,0,BOS,CLE
+Shot Chart Detail,21601205,104,202336,Larry Sanders,1610612739,Cleveland Cavaliers,1,2,57,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,10,1,0,20170410,0,MIA,CLE
+Shot Chart Detail,21601205,80,202336,Larry Sanders,1610612739,Cleveland Cavaliers,1,2,55,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,1,20170410,0,MIA,CLE

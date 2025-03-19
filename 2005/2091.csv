@@ -1,22 +1,22 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020400064,94,2091,Daniel Santiago,1610612749,Milwaukee Bucks,1,2,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041110,MIL,CHA
-Shot Chart Detail,0020400086,32,2091,Daniel Santiago,1610612749,Milwaukee Bucks,1,8,27,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,38,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,172,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,2,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,315,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,10,50,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400093,107,2091,Daniel Santiago,1610612749,Milwaukee Bucks,1,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-176,77,1,0,20041114,MIA,MIL
-Shot Chart Detail,0020400093,132,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,11,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,57,1,0,20041114,MIA,MIL
-Shot Chart Detail,0020400093,138,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,10,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,41,1,1,20041114,MIA,MIL
-Shot Chart Detail,0020400093,169,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,7,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041114,MIA,MIL
-Shot Chart Detail,0020400112,186,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,4,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400112,413,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,3,37,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-85,0,1,0,20041117,MIL,MIA
-Shot Chart Detail,0020400500,388,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-3,1,1,20050111,ATL,MIL
-Shot Chart Detail,0020400690,505,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-49,-3,1,0,20050205,WAS,MIL
-Shot Chart Detail,0020400711,414,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,7,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050208,MIL,BOS
-Shot Chart Detail,0020400711,482,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,33,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-3,1,0,20050208,MIL,BOS
-Shot Chart Detail,0020400744,405,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,20,1,0,20050212,MIL,ATL
-Shot Chart Detail,0020400744,413,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,5,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050212,MIL,ATL
-Shot Chart Detail,0020400744,451,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,2,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,10,1,0,20050212,MIL,ATL
-Shot Chart Detail,0020400759,429,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-140,100,1,1,20050214,DET,MIL
-Shot Chart Detail,0020401213,446,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-3,184,1,0,20050419,MIL,TOR
-Shot Chart Detail,0020401213,454,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,-6,1,0,20050419,MIL,TOR
-Shot Chart Detail,0020401213,460,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050419,MIL,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20400064,94,2091,Daniel Santiago,1610612749,Milwaukee Bucks,1,2,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041110,0,MIL,CHA
+Shot Chart Detail,20400086,32,2091,Daniel Santiago,1610612749,Milwaukee Bucks,1,8,27,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,1,38,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,172,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,2,39,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,315,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,10,50,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400093,107,2091,Daniel Santiago,1610612749,Milwaukee Bucks,1,1,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-176,77,1,0,20041114,0,MIA,MIL
+Shot Chart Detail,20400093,132,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,11,5,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,57,1,0,20041114,0,MIA,MIL
+Shot Chart Detail,20400093,138,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,10,34,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,41,1,1,20041114,1,MIA,MIL
+Shot Chart Detail,20400093,169,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,7,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041114,1,MIA,MIL
+Shot Chart Detail,20400112,186,2091,Daniel Santiago,1610612749,Milwaukee Bucks,2,4,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,5,26,1,0,20041117,0,MIL,MIA
+Shot Chart Detail,20400112,413,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,3,37,Missed Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-85,0,1,0,20041117,0,MIL,MIA
+Shot Chart Detail,20400500,388,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,6,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-115,-3,1,1,20050111,1,ATL,MIL
+Shot Chart Detail,20400690,505,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,5,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-49,-3,1,0,20050205,0,WAS,MIL
+Shot Chart Detail,20400711,414,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,7,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050208,1,MIL,BOS
+Shot Chart Detail,20400711,482,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,33,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,-3,1,0,20050208,0,MIL,BOS
+Shot Chart Detail,20400744,405,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,6,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-123,20,1,0,20050212,0,MIL,ATL
+Shot Chart Detail,20400744,413,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,5,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050212,1,MIL,ATL
+Shot Chart Detail,20400744,451,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,2,6,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-125,10,1,0,20050212,0,MIL,ATL
+Shot Chart Detail,20400759,429,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,37,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-140,100,1,1,20050214,1,DET,MIL
+Shot Chart Detail,20401213,446,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,52,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-3,184,1,0,20050419,0,MIL,TOR
+Shot Chart Detail,20401213,454,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,100,-6,1,0,20050419,0,MIL,TOR
+Shot Chart Detail,20401213,460,2091,Daniel Santiago,1610612749,Milwaukee Bucks,4,0,22,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050419,1,MIL,TOR

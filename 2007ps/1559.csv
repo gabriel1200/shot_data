@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040600202,466,1559,Adrian Griffin,1610612741,Chicago Bulls,4,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-5,1,0,20070507,DET,CHI
-Shot Chart Detail,0040600202,500,1559,Adrian Griffin,1610612741,Chicago Bulls,4,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,25,1,0,20070507,DET,CHI
-Shot Chart Detail,0040600202,505,1559,Adrian Griffin,1610612741,Chicago Bulls,4,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070507,DET,CHI
-Shot Chart Detail,0040600205,417,1559,Adrian Griffin,1610612741,Chicago Bulls,4,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,74,1,0,20070515,DET,CHI
-Shot Chart Detail,0040600205,434,1559,Adrian Griffin,1610612741,Chicago Bulls,4,0,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070515,DET,CHI
-Shot Chart Detail,0040600206,500,1559,Adrian Griffin,1610612741,Chicago Bulls,4,0,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-66,72,1,0,20070517,CHI,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40600202,466,1559,Adrian Griffin,1610612741,Chicago Bulls,4,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-189,-5,1,0,20070507,0,DET,CHI
+Shot Chart Detail,40600202,500,1559,Adrian Griffin,1610612741,Chicago Bulls,4,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,25,1,0,20070507,0,DET,CHI
+Shot Chart Detail,40600202,505,1559,Adrian Griffin,1610612741,Chicago Bulls,4,0,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070507,0,DET,CHI
+Shot Chart Detail,40600205,417,1559,Adrian Griffin,1610612741,Chicago Bulls,4,1,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,115,74,1,0,20070515,0,DET,CHI
+Shot Chart Detail,40600205,434,1559,Adrian Griffin,1610612741,Chicago Bulls,4,0,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070515,0,DET,CHI
+Shot Chart Detail,40600206,500,1559,Adrian Griffin,1610612741,Chicago Bulls,4,0,18,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-66,72,1,0,20070517,0,CHI,DET

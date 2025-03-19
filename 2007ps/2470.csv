@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040600151,139,2470,Smush Parker,1610612747,Los Angeles Lakers,2,9,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-112,146,1,0,20070422,PHX,LAL
-Shot Chart Detail,0040600152,107,2470,Smush Parker,1610612747,Los Angeles Lakers,2,11,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070424,PHX,LAL
-Shot Chart Detail,0040600153,203,2470,Smush Parker,1610612747,Los Angeles Lakers,2,2,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070426,LAL,PHX
-Shot Chart Detail,0040600153,204,2470,Smush Parker,1610612747,Los Angeles Lakers,2,2,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,181,1,0,20070426,LAL,PHX
-Shot Chart Detail,0040600153,399,2470,Smush Parker,1610612747,Los Angeles Lakers,4,4,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,49,1,0,20070426,LAL,PHX
-Shot Chart Detail,0040600153,402,2470,Smush Parker,1610612747,Los Angeles Lakers,4,4,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,30,1,0,20070426,LAL,PHX
-Shot Chart Detail,0040600154,84,2470,Smush Parker,1610612747,Los Angeles Lakers,1,2,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,123,141,1,1,20070429,LAL,PHX
-Shot Chart Detail,0040600154,197,2470,Smush Parker,1610612747,Los Angeles Lakers,2,4,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,191,1,0,20070429,LAL,PHX
-Shot Chart Detail,0040600154,310,2470,Smush Parker,1610612747,Los Angeles Lakers,3,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-66,148,1,0,20070429,LAL,PHX
-Shot Chart Detail,0040600154,346,2470,Smush Parker,1610612747,Los Angeles Lakers,3,3,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,8,255,1,0,20070429,LAL,PHX
-Shot Chart Detail,0040600154,468,2470,Smush Parker,1610612747,Los Angeles Lakers,4,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,243,1,1,20070429,LAL,PHX
-Shot Chart Detail,0040600155,171,2470,Smush Parker,1610612747,Los Angeles Lakers,2,7,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,210,1,0,20070502,PHX,LAL
-Shot Chart Detail,0040600155,240,2470,Smush Parker,1610612747,Los Angeles Lakers,2,1,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,52,143,1,0,20070502,PHX,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40600151,139,2470,Smush Parker,1610612747,Los Angeles Lakers,2,9,54,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-112,146,1,0,20070422,0,PHX,LAL
+Shot Chart Detail,40600152,107,2470,Smush Parker,1610612747,Los Angeles Lakers,2,11,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070424,0,PHX,LAL
+Shot Chart Detail,40600153,203,2470,Smush Parker,1610612747,Los Angeles Lakers,2,2,58,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070426,0,LAL,PHX
+Shot Chart Detail,40600153,204,2470,Smush Parker,1610612747,Los Angeles Lakers,2,2,53,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-182,181,1,0,20070426,0,LAL,PHX
+Shot Chart Detail,40600153,399,2470,Smush Parker,1610612747,Los Angeles Lakers,4,4,35,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,49,1,0,20070426,0,LAL,PHX
+Shot Chart Detail,40600153,402,2470,Smush Parker,1610612747,Los Angeles Lakers,4,4,6,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-238,30,1,0,20070426,0,LAL,PHX
+Shot Chart Detail,40600154,84,2470,Smush Parker,1610612747,Los Angeles Lakers,1,2,31,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,123,141,1,1,20070429,1,LAL,PHX
+Shot Chart Detail,40600154,197,2470,Smush Parker,1610612747,Los Angeles Lakers,2,4,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,191,1,0,20070429,0,LAL,PHX
+Shot Chart Detail,40600154,310,2470,Smush Parker,1610612747,Los Angeles Lakers,3,7,11,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-66,148,1,0,20070429,0,LAL,PHX
+Shot Chart Detail,40600154,346,2470,Smush Parker,1610612747,Los Angeles Lakers,3,3,36,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,8,255,1,0,20070429,0,LAL,PHX
+Shot Chart Detail,40600154,468,2470,Smush Parker,1610612747,Los Angeles Lakers,4,4,53,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,243,1,1,20070429,1,LAL,PHX
+Shot Chart Detail,40600155,171,2470,Smush Parker,1610612747,Los Angeles Lakers,2,7,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,210,1,0,20070502,0,PHX,LAL
+Shot Chart Detail,40600155,240,2470,Smush Parker,1610612747,Los Angeles Lakers,2,1,54,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,52,143,1,0,20070502,0,PHX,LAL

@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300025,616,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,2,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-188,89,1,0,20131101,HOU,DAL
-Shot Chart Detail,0021300025,621,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,1,20131101,HOU,DAL
-Shot Chart Detail,0021300025,638,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,7,1,0,20131101,HOU,DAL
-Shot Chart Detail,0021300056,465,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,4,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,19,1,0,20131105,DAL,LAL
-Shot Chart Detail,0021300056,483,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,2,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,73,213,1,0,20131105,DAL,LAL
-Shot Chart Detail,0021300069,537,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,131,1,0,20131106,OKC,DAL
-Shot Chart Detail,0021300069,544,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-46,236,1,0,20131106,OKC,DAL
-Shot Chart Detail,0021300108,537,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,214,1,0,20131112,DAL,WAS
-Shot Chart Detail,0021300130,541,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20131115,MIA,DAL
-Shot Chart Detail,0021300207,521,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,28,Missed Shot,Driving Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,22,1,0,20131125,DAL,DEN
-Shot Chart Detail,0021300520,469,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20140108,SAS,DAL
-Shot Chart Detail,0021300520,480,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,198,1,1,20140108,SAS,DAL
-Shot Chart Detail,0021300536,103,203495,Ricky Ledo,1610612742,Dallas Mavericks,1,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,127,1,0,20140110,NOP,DAL
-Shot Chart Detail,0021300536,116,203495,Ricky Ledo,1610612742,Dallas Mavericks,1,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20140110,NOP,DAL
-Shot Chart Detail,0021300536,151,203495,Ricky Ledo,1610612742,Dallas Mavericks,2,9,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,45,1,0,20140110,NOP,DAL
-Shot Chart Detail,0021300560,477,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,151,1,0,20140113,DAL,ORL
-Shot Chart Detail,0021300560,481,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,135,1,1,20140113,DAL,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300025,616,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,2,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-188,89,1,0,20131101,0,HOU,DAL
+Shot Chart Detail,21300025,621,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,40,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,1,20131101,1,HOU,DAL
+Shot Chart Detail,21300025,638,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,29,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,7,1,0,20131101,0,HOU,DAL
+Shot Chart Detail,21300056,465,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,4,45,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-226,19,1,0,20131105,0,DAL,LAL
+Shot Chart Detail,21300056,483,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,2,55,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,73,213,1,0,20131105,0,DAL,LAL
+Shot Chart Detail,21300069,537,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,6,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,124,131,1,0,20131106,0,OKC,DAL
+Shot Chart Detail,21300069,544,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,13,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-46,236,1,0,20131106,0,OKC,DAL
+Shot Chart Detail,21300108,537,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,214,1,0,20131112,0,DAL,WAS
+Shot Chart Detail,21300130,541,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,7,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20131115,0,MIA,DAL
+Shot Chart Detail,21300207,521,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,28,Missed Shot,Driving Bank shot,,Mid-Range,Right Side(R),8-16 ft.,10,100,22,1,0,20131125,0,DAL,DEN
+Shot Chart Detail,21300520,469,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20140108,1,SAS,DAL
+Shot Chart Detail,21300520,480,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,0,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,198,1,1,20140108,0,SAS,DAL
+Shot Chart Detail,21300536,103,203495,Ricky Ledo,1610612742,Dallas Mavericks,1,1,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,127,1,0,20140110,0,NOP,DAL
+Shot Chart Detail,21300536,116,203495,Ricky Ledo,1610612742,Dallas Mavericks,1,1,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,12,1,1,20140110,0,NOP,DAL
+Shot Chart Detail,21300536,151,203495,Ricky Ledo,1610612742,Dallas Mavericks,2,9,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,45,1,0,20140110,0,NOP,DAL
+Shot Chart Detail,21300560,477,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,1,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,151,1,0,20140113,0,DAL,ORL
+Shot Chart Detail,21300560,481,203495,Ricky Ledo,1610612742,Dallas Mavericks,4,0,46,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,135,1,1,20140113,1,DAL,ORL

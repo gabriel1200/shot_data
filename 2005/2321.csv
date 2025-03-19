@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020400649,433,2321,Paul Shirley,1610612756,Phoenix Suns,4,10,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,158,1,0,20050130,TOR,PHX
-Shot Chart Detail,0020400871,477,2321,Paul Shirley,1610612756,Phoenix Suns,4,1,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,135,35,1,1,20050305,PHX,POR
-Shot Chart Detail,0020400871,479,2321,Paul Shirley,1610612756,Phoenix Suns,4,1,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,192,63,1,1,20050305,PHX,POR
-Shot Chart Detail,0020401103,444,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,118,1,1,20050405,PHX,LAL
-Shot Chart Detail,0020401103,453,2321,Paul Shirley,1610612756,Phoenix Suns,4,1,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050405,PHX,LAL
-Shot Chart Detail,0020401190,463,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,149,156,1,0,20050416,PHX,SAC
-Shot Chart Detail,0020401190,470,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,0,20050416,PHX,SAC
-Shot Chart Detail,0020401190,482,2321,Paul Shirley,1610612756,Phoenix Suns,4,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-156,110,1,0,20050416,PHX,SAC
-Shot Chart Detail,0020401207,481,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,187,66,1,0,20050418,PHX,DEN
-Shot Chart Detail,0020401207,504,2321,Paul Shirley,1610612756,Phoenix Suns,4,0,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-122,97,1,1,20050418,PHX,DEN
-Shot Chart Detail,0020401230,470,2321,Paul Shirley,1610612756,Phoenix Suns,4,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,49,1,0,20050420,SAC,PHX
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20400649,433,2321,Paul Shirley,1610612756,Phoenix Suns,4,10,7,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,103,158,1,0,20050130,0,TOR,PHX
+Shot Chart Detail,20400871,477,2321,Paul Shirley,1610612756,Phoenix Suns,4,1,35,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,135,35,1,1,20050305,1,PHX,POR
+Shot Chart Detail,20400871,479,2321,Paul Shirley,1610612756,Phoenix Suns,4,1,17,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,192,63,1,1,20050305,1,PHX,POR
+Shot Chart Detail,20401103,444,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,30,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,144,118,1,1,20050405,1,PHX,LAL
+Shot Chart Detail,20401103,453,2321,Paul Shirley,1610612756,Phoenix Suns,4,1,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050405,0,PHX,LAL
+Shot Chart Detail,20401190,463,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,28,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,149,156,1,0,20050416,0,PHX,SAC
+Shot Chart Detail,20401190,470,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,0,20050416,0,PHX,SAC
+Shot Chart Detail,20401190,482,2321,Paul Shirley,1610612756,Phoenix Suns,4,0,44,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-156,110,1,0,20050416,0,PHX,SAC
+Shot Chart Detail,20401207,481,2321,Paul Shirley,1610612756,Phoenix Suns,4,2,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,187,66,1,0,20050418,0,PHX,DEN
+Shot Chart Detail,20401207,504,2321,Paul Shirley,1610612756,Phoenix Suns,4,0,32,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-122,97,1,1,20050418,1,PHX,DEN
+Shot Chart Detail,20401230,470,2321,Paul Shirley,1610612756,Phoenix Suns,4,0,36,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,184,49,1,0,20050420,0,SAC,PHX

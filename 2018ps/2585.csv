@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041700233,651,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,1,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-81,176,1,0,20180504,NOP,GSW
-Shot Chart Detail,0041700233,659,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,0,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180504,NOP,GSW
-Shot Chart Detail,0041700312,576,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,4,28,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,12,1,1,20180516,HOU,GSW
-Shot Chart Detail,0041700312,631,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,0,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20180516,HOU,GSW
-Shot Chart Detail,0041700402,655,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,1,46,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,0,20180603,GSW,CLE
-Shot Chart Detail,0041700402,657,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,1,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180603,GSW,CLE
-Shot Chart Detail,0041700404,633,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,2,41,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,0,20180608,CLE,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41700233,651,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,1,21,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-81,176,1,0,20180504,0,NOP,GSW
+Shot Chart Detail,41700233,659,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,0,52,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180504,0,NOP,GSW
+Shot Chart Detail,41700312,576,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,4,28,Made Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,8,85,12,1,1,20180516,0,HOU,GSW
+Shot Chart Detail,41700312,631,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,0,37,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,8,1,1,20180516,1,HOU,GSW
+Shot Chart Detail,41700402,655,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,1,46,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,0,20180603,0,GSW,CLE
+Shot Chart Detail,41700402,657,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,1,45,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180603,0,GSW,CLE
+Shot Chart Detail,41700404,633,2585,Zaza Pachulia,1610612744,Golden State Warriors,4,2,41,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,0,20180608,0,CLE,GSW

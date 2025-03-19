@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040100171,108,123,Robert Pack,1610612750,Minnesota Timberwolves,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,205,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100171,508,123,Robert Pack,1610612750,Minnesota Timberwolves,4,0,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,DAL,MIN
-Shot Chart Detail,0040100172,120,123,Robert Pack,1610612750,Minnesota Timberwolves,1,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020424,DAL,MIN
-Shot Chart Detail,0040100172,131,123,Robert Pack,1610612750,Minnesota Timberwolves,1,0,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,7,1,0,20020424,DAL,MIN
-Shot Chart Detail,0040100173,369,123,Robert Pack,1610612750,Minnesota Timberwolves,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,110,1,0,20020428,MIN,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40100171,108,123,Robert Pack,1610612750,Minnesota Timberwolves,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,144,205,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100171,508,123,Robert Pack,1610612750,Minnesota Timberwolves,4,0,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20020421,0,DAL,MIN
+Shot Chart Detail,40100172,120,123,Robert Pack,1610612750,Minnesota Timberwolves,1,0,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20020424,0,DAL,MIN
+Shot Chart Detail,40100172,131,123,Robert Pack,1610612750,Minnesota Timberwolves,1,0,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,7,1,0,20020424,0,DAL,MIN
+Shot Chart Detail,40100173,369,123,Robert Pack,1610612750,Minnesota Timberwolves,3,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,110,1,0,20020428,0,MIN,DAL

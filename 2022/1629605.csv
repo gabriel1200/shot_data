@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0022100017,651,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,1,36,Missed Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,75,1,0,20211022,CLE,CHA
-Shot Chart Detail,0022100176,579,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,3,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20211112,CLE,DET
-Shot Chart Detail,0022100387,637,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,4,46,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-17,72,1,0,20211210,MIN,CLE
-Shot Chart Detail,0022100387,656,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,4,2,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,-20,1,0,20211210,MIN,CLE
-Shot Chart Detail,0022100387,670,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,2,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20211210,MIN,CLE
-Shot Chart Detail,0022100471,34,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,9,20,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20211222,BOS,CLE
-Shot Chart Detail,0022100471,36,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,9,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211222,BOS,CLE
-Shot Chart Detail,0022100471,46,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,8,46,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,0,20211222,BOS,CLE
-Shot Chart Detail,0022100471,153,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,2,6,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20211222,BOS,CLE
-Shot Chart Detail,0022100471,299,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,2,3,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,42,1,0,20211222,BOS,CLE
-Shot Chart Detail,0022100494,642,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,3,8,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20211226,CLE,TOR
-Shot Chart Detail,0022100494,661,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,2,15,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,46,1,0,20211226,CLE,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22100017,651,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,1,36,Missed Shot,Turnaround Bank Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,47,75,1,0,20211022,0,CLE,CHA
+Shot Chart Detail,22100176,579,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,3,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20211112,1,CLE,DET
+Shot Chart Detail,22100387,637,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,4,46,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-17,72,1,0,20211210,0,MIN,CLE
+Shot Chart Detail,22100387,656,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,4,2,Missed Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,-20,1,0,20211210,0,MIN,CLE
+Shot Chart Detail,22100387,670,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,2,55,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,4,1,1,20211210,0,MIN,CLE
+Shot Chart Detail,22100471,34,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,9,20,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20211222,0,BOS,CLE
+Shot Chart Detail,22100471,36,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,9,17,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20211222,0,BOS,CLE
+Shot Chart Detail,22100471,46,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,8,46,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,0,20211222,0,BOS,CLE
+Shot Chart Detail,22100471,153,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,1,2,6,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20211222,1,BOS,CLE
+Shot Chart Detail,22100471,299,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,2,3,34,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,42,1,0,20211222,0,BOS,CLE
+Shot Chart Detail,22100494,642,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,3,8,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20211226,1,CLE,TOR
+Shot Chart Detail,22100494,661,1629605,Tacko Fall,1610612739,Cleveland Cavaliers,4,2,15,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,46,1,0,20211226,0,CLE,TOR

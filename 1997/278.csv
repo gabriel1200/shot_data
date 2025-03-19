@@ -1,441 +1,221 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029600007,80,278,Stacey Augmon,1610612765,Detroit Pistons,1,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,DET,IND
-Shot Chart Detail,0029600007,313,278,Stacey Augmon,1610612765,Detroit Pistons,3,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,DET,IND
-Shot Chart Detail,0029600007,407,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961101,DET,IND
-Shot Chart Detail,0029600007,427,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,0,19961101,DET,IND
-Shot Chart Detail,0029600017,16,278,Stacey Augmon,1610612765,Detroit Pistons,1,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,46,278,Stacey Augmon,1610612765,Detroit Pistons,1,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,50,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,57,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,69,278,Stacey Augmon,1610612765,Detroit Pistons,1,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,116,86,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,180,278,Stacey Augmon,1610612765,Detroit Pistons,2,2,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,224,278,Stacey Augmon,1610612765,Detroit Pistons,3,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,239,278,Stacey Augmon,1610612765,Detroit Pistons,3,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-14,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,259,278,Stacey Augmon,1610612765,Detroit Pistons,3,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600032,117,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961105,PHI,DET
-Shot Chart Detail,0029600032,143,278,Stacey Augmon,1610612765,Detroit Pistons,2,6,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600032,157,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600032,200,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600032,305,278,Stacey Augmon,1610612765,Detroit Pistons,3,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600045,32,278,Stacey Augmon,1610612765,Detroit Pistons,1,6,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,60,1,1,19961106,DET,DAL
-Shot Chart Detail,0029600045,182,278,Stacey Augmon,1610612765,Detroit Pistons,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,49,1,0,19961106,DET,DAL
-Shot Chart Detail,0029600045,278,278,Stacey Augmon,1610612765,Detroit Pistons,3,3,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961106,DET,DAL
-Shot Chart Detail,0029600045,340,278,Stacey Augmon,1610612765,Detroit Pistons,4,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961106,DET,DAL
-Shot Chart Detail,0029600059,56,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,56,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,167,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,198,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,23,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600059,200,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,36,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,350,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,28,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,15,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600059,352,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,30,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,367,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600059,382,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,384,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600080,91,278,Stacey Augmon,1610612765,Detroit Pistons,1,0,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,32,1,1,19961112,WAS,DET
-Shot Chart Detail,0029600080,114,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,47,1,0,19961112,WAS,DET
-Shot Chart Detail,0029600093,101,278,Stacey Augmon,1610612765,Detroit Pistons,2,11,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,43,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600093,119,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600093,123,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600093,355,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600109,93,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,8,1,0,19961115,DET,WAS
-Shot Chart Detail,0029600119,116,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,0,19961116,CLE,DET
-Shot Chart Detail,0029600119,158,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,13,1,0,19961116,CLE,DET
-Shot Chart Detail,0029600138,401,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961120,BOS,DET
-Shot Chart Detail,0029600138,419,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961120,BOS,DET
-Shot Chart Detail,0029600148,132,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,6,1,1,19961121,DET,NJN
-Shot Chart Detail,0029600148,308,278,Stacey Augmon,1610612765,Detroit Pistons,4,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961121,DET,NJN
-Shot Chart Detail,0029600148,316,278,Stacey Augmon,1610612765,Detroit Pistons,4,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,54,1,0,19961121,DET,NJN
-Shot Chart Detail,0029600161,148,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,CHH,DET
-Shot Chart Detail,0029600161,150,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,CHH,DET
-Shot Chart Detail,0029600161,207,278,Stacey Augmon,1610612765,Detroit Pistons,3,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-1,1,1,19961123,CHH,DET
-Shot Chart Detail,0029600161,210,278,Stacey Augmon,1610612765,Detroit Pistons,3,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,CHH,DET
-Shot Chart Detail,0029600190,61,278,Stacey Augmon,1610612765,Detroit Pistons,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-129,78,1,0,19961127,DET,VAN
-Shot Chart Detail,0029600190,98,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-34,112,1,1,19961127,DET,VAN
-Shot Chart Detail,0029600190,137,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961127,DET,VAN
-Shot Chart Detail,0029600218,146,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,86,1,0,19961201,DET,SAC
-Shot Chart Detail,0029600218,367,278,Stacey Augmon,1610612765,Detroit Pistons,4,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-3,88,1,0,19961201,DET,SAC
-Shot Chart Detail,0029600218,421,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,DET,SAC
-Shot Chart Detail,0029600218,424,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,DET,SAC
-Shot Chart Detail,0029600218,458,278,Stacey Augmon,1610612765,Detroit Pistons,4,0,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961201,DET,SAC
-Shot Chart Detail,0029600258,338,278,Stacey Augmon,1610612765,Detroit Pistons,4,6,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,NJN,DET
-Shot Chart Detail,0029600258,346,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,NJN,DET
-Shot Chart Detail,0029600258,360,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,NJN,DET
-Shot Chart Detail,0029600258,371,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,34,1,0,19961207,NJN,DET
-Shot Chart Detail,0029600258,386,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,NJN,DET
-Shot Chart Detail,0029600295,377,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961212,HOU,DET
-Shot Chart Detail,0029600295,382,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,93,1,1,19961212,HOU,DET
-Shot Chart Detail,0029600336,111,278,Stacey Augmon,1610612765,Detroit Pistons,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,4,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600336,363,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,32,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600336,371,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600336,388,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961218,DET,NYK
-Shot Chart Detail,0029600336,397,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600386,290,278,Stacey Augmon,1610612765,Detroit Pistons,3,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,39,1,0,19961226,DET,IND
-Shot Chart Detail,0029600445,338,278,Stacey Augmon,1610612765,Detroit Pistons,4,11,36,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,2,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,352,278,Stacey Augmon,1610612765,Detroit Pistons,4,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,379,278,Stacey Augmon,1610612765,Detroit Pistons,4,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,30,1,0,19970104,DET,TOR
-Shot Chart Detail,0029600445,419,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,425,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970104,DET,TOR
-Shot Chart Detail,0029600445,429,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,439,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970104,DET,TOR
-Shot Chart Detail,0029600599,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,6,1,0,19970125,POR,MIN
-Shot Chart Detail,0029600599,352,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970125,POR,MIN
-Shot Chart Detail,0029600609,146,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,148,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,392,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,26,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,401,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,TOR,POR
-Shot Chart Detail,0029600609,474,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,21,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600622,61,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,43,1,0,19970129,DET,POR
-Shot Chart Detail,0029600631,113,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,BOS,POR
-Shot Chart Detail,0029600631,126,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,BOS,POR
-Shot Chart Detail,0029600631,352,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,BOS,POR
-Shot Chart Detail,0029600652,121,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,-5,1,0,19970202,MIN,POR
-Shot Chart Detail,0029600652,142,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,21,155,1,1,19970202,MIN,POR
-Shot Chart Detail,0029600652,153,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970202,MIN,POR
-Shot Chart Detail,0029600652,154,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970202,MIN,POR
-Shot Chart Detail,0029600652,324,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,56,1,0,19970202,MIN,POR
-Shot Chart Detail,0029600692,115,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,120,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,367,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,375,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-1,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,402,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600705,365,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-125,114,1,0,19970213,UTA,POR
-Shot Chart Detail,0029600705,391,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600705,409,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,131,112,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600705,414,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600705,425,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,UTA,POR
-Shot Chart Detail,0029600705,455,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600721,195,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970215,POR,HOU
-Shot Chart Detail,0029600721,217,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970215,POR,HOU
-Shot Chart Detail,0029600721,368,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,4,1,0,19970215,POR,HOU
-Shot Chart Detail,0029600721,427,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,1,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970215,POR,HOU
-Shot Chart Detail,0029600729,138,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,47,1,1,19970216,POR,BOS
-Shot Chart Detail,0029600729,218,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970216,POR,BOS
-Shot Chart Detail,0029600729,511,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,POR,BOS
-Shot Chart Detail,0029600743,145,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,67,1,1,19970219,ORL,POR
-Shot Chart Detail,0029600743,176,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970219,ORL,POR
-Shot Chart Detail,0029600743,321,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970219,ORL,POR
-Shot Chart Detail,0029600743,335,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970219,ORL,POR
-Shot Chart Detail,0029600743,337,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,23,1,0,19970219,ORL,POR
-Shot Chart Detail,0029600760,363,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,2,1,1,19970221,MIA,POR
-Shot Chart Detail,0029600760,376,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970221,MIA,POR
-Shot Chart Detail,0029600769,107,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,11,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,PHI,POR
-Shot Chart Detail,0029600769,129,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,58,1,0,19970222,PHI,POR
-Shot Chart Detail,0029600769,141,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,PHI,POR
-Shot Chart Detail,0029600769,264,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,5,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,54,1,1,19970222,PHI,POR
-Shot Chart Detail,0029600769,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,88,1,0,19970222,PHI,POR
-Shot Chart Detail,0029600785,30,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,54,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600785,61,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,4,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,13,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600785,199,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,201,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,211,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,82,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,230,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600785,242,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,258,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,292,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,88,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600802,132,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,POR,NYK
-Shot Chart Detail,0029600802,311,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,POR,NYK
-Shot Chart Detail,0029600818,139,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,POR,UTA
-Shot Chart Detail,0029600818,141,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,22,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,28,1,0,19970228,POR,UTA
-Shot Chart Detail,0029600832,22,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970302,POR,PHI
-Shot Chart Detail,0029600832,383,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,4,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,19970302,POR,PHI
-Shot Chart Detail,0029600832,397,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970302,POR,PHI
-Shot Chart Detail,0029600846,165,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,142,1,1,19970304,POR,NJN
-Shot Chart Detail,0029600846,345,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970304,POR,NJN
-Shot Chart Detail,0029600846,446,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,2,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970304,POR,NJN
-Shot Chart Detail,0029600853,13,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,10,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-31,134,1,0,19970305,PHX,POR
-Shot Chart Detail,0029600853,100,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,PHX,POR
-Shot Chart Detail,0029600853,105,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,PHX,POR
-Shot Chart Detail,0029600853,177,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,105,151,1,0,19970305,PHX,POR
-Shot Chart Detail,0029600871,44,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,6,8,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,34,1,0,19970307,POR,DAL
-Shot Chart Detail,0029600871,74,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,POR,DAL
-Shot Chart Detail,0029600886,108,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,POR,SEA
-Shot Chart Detail,0029600886,149,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,2,1,0,19970309,POR,SEA
-Shot Chart Detail,0029600898,80,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-64,73,1,1,19970311,POR,LAC
-Shot Chart Detail,0029600898,122,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600898,124,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,39,1,1,19970311,POR,LAC
-Shot Chart Detail,0029600898,359,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,81,84,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600898,386,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,47,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600898,429,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,19,84,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600921,19,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-25,58,1,1,19970314,POR,CLE
-Shot Chart Detail,0029600921,223,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,36,1,0,19970314,POR,CLE
-Shot Chart Detail,0029600934,31,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,43,1,1,19970316,LAC,POR
-Shot Chart Detail,0029600934,223,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAC,POR
-Shot Chart Detail,0029600934,269,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAC,POR
-Shot Chart Detail,0029600934,273,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,49,1,0,19970316,LAC,POR
-Shot Chart Detail,0029600934,335,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,LAC,POR
-Shot Chart Detail,0029600934,357,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,127,97,1,0,19970316,LAC,POR
-Shot Chart Detail,0029600951,9,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,POR,SAC
-Shot Chart Detail,0029600951,28,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,POR,SAC
-Shot Chart Detail,0029600951,69,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,3,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,POR,SAC
-Shot Chart Detail,0029600962,111,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970320,MIL,POR
-Shot Chart Detail,0029600962,116,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,MIL,POR
-Shot Chart Detail,0029600962,119,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,MIL,POR
-Shot Chart Detail,0029600962,143,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,36,93,1,0,19970320,MIL,POR
-Shot Chart Detail,0029600975,104,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,58,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-14,36,1,1,19970322,WAS,POR
-Shot Chart Detail,0029600975,117,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,10,1,1,19970322,WAS,POR
-Shot Chart Detail,0029600975,151,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,WAS,POR
-Shot Chart Detail,0029600975,385,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,30,1,0,19970322,WAS,POR
-Shot Chart Detail,0029600993,98,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,ATL,POR
-Shot Chart Detail,0029600993,100,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,ATL,POR
-Shot Chart Detail,0029600993,105,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,88,153,1,1,19970325,ATL,POR
-Shot Chart Detail,0029600993,124,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,93,1,0,19970325,ATL,POR
-Shot Chart Detail,0029600993,128,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,ATL,POR
-Shot Chart Detail,0029601005,130,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970326,CHH,POR
-Shot Chart Detail,0029601005,312,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,5,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,26,1,0,19970326,CHH,POR
-Shot Chart Detail,0029601023,144,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601023,165,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-86,78,1,0,19970328,POR,VAN
-Shot Chart Detail,0029601023,207,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,47,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601045,140,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,9,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,52,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,147,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601045,166,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,78,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601072,158,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,POR,MIL
-Shot Chart Detail,0029601072,160,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,POR,MIL
-Shot Chart Detail,0029601072,447,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,POR,MIL
-Shot Chart Detail,0029601077,126,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,POR,PHX
-Shot Chart Detail,0029601077,153,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,26,1,1,19970405,POR,PHX
-Shot Chart Detail,0029601077,340,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970405,POR,PHX
-Shot Chart Detail,0029601077,356,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,0,19970405,POR,PHX
-Shot Chart Detail,0029601077,409,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,2,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,POR,PHX
-Shot Chart Detail,0029601090,167,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,DEN,POR
-Shot Chart Detail,0029601090,169,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,DEN,POR
-Shot Chart Detail,0029601090,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,DEN,POR
-Shot Chart Detail,0029601095,334,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,-18,1,0,19970408,DAL,POR
-Shot Chart Detail,0029601095,362,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970408,DAL,POR
-Shot Chart Detail,0029601111,87,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,-3,1,0,19970410,SAS,POR
-Shot Chart Detail,0029601111,130,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,SAS,POR
-Shot Chart Detail,0029601111,157,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,SAS,POR
-Shot Chart Detail,0029601159,121,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,0,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,134,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,28,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,39,1,0,19970416,POR,DEN
-Shot Chart Detail,0029601159,146,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,353,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,120,160,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,386,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,2,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,392,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,435,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970416,POR,DEN
-Shot Chart Detail,0029601163,7,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970417,VAN,POR
-Shot Chart Detail,0029601163,45,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,56,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,57,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,59,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,60,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,395,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970417,VAN,POR
-Shot Chart Detail,0029601189,118,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,32,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,45,1,0,19970420,POR,LAL
-Shot Chart Detail,0029601189,127,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970420,POR,LAL
-Shot Chart Detail,0029600007,80,278,Stacey Augmon,1610612765,Detroit Pistons,1,1,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,DET,IND
-Shot Chart Detail,0029600007,313,278,Stacey Augmon,1610612765,Detroit Pistons,3,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,DET,IND
-Shot Chart Detail,0029600007,407,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961101,DET,IND
-Shot Chart Detail,0029600007,427,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,0,19961101,DET,IND
-Shot Chart Detail,0029600017,16,278,Stacey Augmon,1610612765,Detroit Pistons,1,10,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,46,278,Stacey Augmon,1610612765,Detroit Pistons,1,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,50,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,57,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,69,278,Stacey Augmon,1610612765,Detroit Pistons,1,2,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,116,86,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,180,278,Stacey Augmon,1610612765,Detroit Pistons,2,2,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,224,278,Stacey Augmon,1610612765,Detroit Pistons,3,10,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600017,239,278,Stacey Augmon,1610612765,Detroit Pistons,3,9,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,-14,1,0,19961102,ATL,DET
-Shot Chart Detail,0029600017,259,278,Stacey Augmon,1610612765,Detroit Pistons,3,6,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,ATL,DET
-Shot Chart Detail,0029600032,117,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961105,PHI,DET
-Shot Chart Detail,0029600032,143,278,Stacey Augmon,1610612765,Detroit Pistons,2,6,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600032,157,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600032,200,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600032,305,278,Stacey Augmon,1610612765,Detroit Pistons,3,2,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,PHI,DET
-Shot Chart Detail,0029600045,32,278,Stacey Augmon,1610612765,Detroit Pistons,1,6,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,60,1,1,19961106,DET,DAL
-Shot Chart Detail,0029600045,182,278,Stacey Augmon,1610612765,Detroit Pistons,2,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,149,49,1,0,19961106,DET,DAL
-Shot Chart Detail,0029600045,278,278,Stacey Augmon,1610612765,Detroit Pistons,3,3,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961106,DET,DAL
-Shot Chart Detail,0029600045,340,278,Stacey Augmon,1610612765,Detroit Pistons,4,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961106,DET,DAL
-Shot Chart Detail,0029600059,56,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,56,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,167,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,198,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,49,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,23,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600059,200,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,36,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,350,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,28,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,15,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600059,352,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,30,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,367,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600059,382,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,DET,CHI
-Shot Chart Detail,0029600059,384,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,DET,CHI
-Shot Chart Detail,0029600080,91,278,Stacey Augmon,1610612765,Detroit Pistons,1,0,51,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,32,1,1,19961112,WAS,DET
-Shot Chart Detail,0029600080,114,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-135,47,1,0,19961112,WAS,DET
-Shot Chart Detail,0029600093,101,278,Stacey Augmon,1610612765,Detroit Pistons,2,11,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,43,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600093,119,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600093,123,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600093,355,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,DET,DEN
-Shot Chart Detail,0029600109,93,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,8,1,0,19961115,DET,WAS
-Shot Chart Detail,0029600119,116,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,0,19961116,CLE,DET
-Shot Chart Detail,0029600119,158,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,13,1,0,19961116,CLE,DET
-Shot Chart Detail,0029600138,401,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961120,BOS,DET
-Shot Chart Detail,0029600138,419,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,4,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961120,BOS,DET
-Shot Chart Detail,0029600148,132,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,6,1,1,19961121,DET,NJN
-Shot Chart Detail,0029600148,308,278,Stacey Augmon,1610612765,Detroit Pistons,4,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961121,DET,NJN
-Shot Chart Detail,0029600148,316,278,Stacey Augmon,1610612765,Detroit Pistons,4,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,54,1,0,19961121,DET,NJN
-Shot Chart Detail,0029600161,148,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,CHH,DET
-Shot Chart Detail,0029600161,150,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,CHH,DET
-Shot Chart Detail,0029600161,207,278,Stacey Augmon,1610612765,Detroit Pistons,3,11,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,-1,1,1,19961123,CHH,DET
-Shot Chart Detail,0029600161,210,278,Stacey Augmon,1610612765,Detroit Pistons,3,10,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,CHH,DET
-Shot Chart Detail,0029600190,61,278,Stacey Augmon,1610612765,Detroit Pistons,1,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-129,78,1,0,19961127,DET,VAN
-Shot Chart Detail,0029600190,98,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-34,112,1,1,19961127,DET,VAN
-Shot Chart Detail,0029600190,137,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961127,DET,VAN
-Shot Chart Detail,0029600218,146,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,129,86,1,0,19961201,DET,SAC
-Shot Chart Detail,0029600218,367,278,Stacey Augmon,1610612765,Detroit Pistons,4,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-3,88,1,0,19961201,DET,SAC
-Shot Chart Detail,0029600218,421,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,DET,SAC
-Shot Chart Detail,0029600218,424,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,DET,SAC
-Shot Chart Detail,0029600218,458,278,Stacey Augmon,1610612765,Detroit Pistons,4,0,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961201,DET,SAC
-Shot Chart Detail,0029600258,338,278,Stacey Augmon,1610612765,Detroit Pistons,4,6,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,NJN,DET
-Shot Chart Detail,0029600258,346,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,NJN,DET
-Shot Chart Detail,0029600258,360,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,NJN,DET
-Shot Chart Detail,0029600258,371,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,34,1,0,19961207,NJN,DET
-Shot Chart Detail,0029600258,386,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,NJN,DET
-Shot Chart Detail,0029600295,377,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961212,HOU,DET
-Shot Chart Detail,0029600295,382,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,93,1,1,19961212,HOU,DET
-Shot Chart Detail,0029600336,111,278,Stacey Augmon,1610612765,Detroit Pistons,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,4,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600336,363,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,32,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600336,371,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600336,388,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961218,DET,NYK
-Shot Chart Detail,0029600336,397,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,DET,NYK
-Shot Chart Detail,0029600386,290,278,Stacey Augmon,1610612765,Detroit Pistons,3,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,39,1,0,19961226,DET,IND
-Shot Chart Detail,0029600445,338,278,Stacey Augmon,1610612765,Detroit Pistons,4,11,36,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,2,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,352,278,Stacey Augmon,1610612765,Detroit Pistons,4,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,379,278,Stacey Augmon,1610612765,Detroit Pistons,4,7,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,30,1,0,19970104,DET,TOR
-Shot Chart Detail,0029600445,419,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,425,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970104,DET,TOR
-Shot Chart Detail,0029600445,429,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,DET,TOR
-Shot Chart Detail,0029600445,439,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970104,DET,TOR
-Shot Chart Detail,0029600599,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,6,1,0,19970125,POR,MIN
-Shot Chart Detail,0029600599,352,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970125,POR,MIN
-Shot Chart Detail,0029600609,146,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,148,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,392,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,26,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600609,401,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,TOR,POR
-Shot Chart Detail,0029600609,474,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,21,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,TOR,POR
-Shot Chart Detail,0029600622,61,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,43,1,0,19970129,DET,POR
-Shot Chart Detail,0029600631,113,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,BOS,POR
-Shot Chart Detail,0029600631,126,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,BOS,POR
-Shot Chart Detail,0029600631,352,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,BOS,POR
-Shot Chart Detail,0029600652,121,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,-5,1,0,19970202,MIN,POR
-Shot Chart Detail,0029600652,142,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,21,155,1,1,19970202,MIN,POR
-Shot Chart Detail,0029600652,153,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970202,MIN,POR
-Shot Chart Detail,0029600652,154,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970202,MIN,POR
-Shot Chart Detail,0029600652,324,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,56,1,0,19970202,MIN,POR
-Shot Chart Detail,0029600692,115,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,120,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,367,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,375,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-1,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600692,402,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,4,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,POR,PHX
-Shot Chart Detail,0029600705,365,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-125,114,1,0,19970213,UTA,POR
-Shot Chart Detail,0029600705,391,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600705,409,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,131,112,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600705,414,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600705,425,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,UTA,POR
-Shot Chart Detail,0029600705,455,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,1,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,UTA,POR
-Shot Chart Detail,0029600721,195,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970215,POR,HOU
-Shot Chart Detail,0029600721,217,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970215,POR,HOU
-Shot Chart Detail,0029600721,368,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,4,1,0,19970215,POR,HOU
-Shot Chart Detail,0029600721,427,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,1,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970215,POR,HOU
-Shot Chart Detail,0029600729,138,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,47,1,1,19970216,POR,BOS
-Shot Chart Detail,0029600729,218,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970216,POR,BOS
-Shot Chart Detail,0029600729,511,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,POR,BOS
-Shot Chart Detail,0029600743,145,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,7,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,67,1,1,19970219,ORL,POR
-Shot Chart Detail,0029600743,176,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970219,ORL,POR
-Shot Chart Detail,0029600743,321,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970219,ORL,POR
-Shot Chart Detail,0029600743,335,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970219,ORL,POR
-Shot Chart Detail,0029600743,337,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,90,23,1,0,19970219,ORL,POR
-Shot Chart Detail,0029600760,363,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,2,1,1,19970221,MIA,POR
-Shot Chart Detail,0029600760,376,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970221,MIA,POR
-Shot Chart Detail,0029600769,107,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,11,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,PHI,POR
-Shot Chart Detail,0029600769,129,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,58,1,0,19970222,PHI,POR
-Shot Chart Detail,0029600769,141,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,PHI,POR
-Shot Chart Detail,0029600769,264,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,5,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,54,1,1,19970222,PHI,POR
-Shot Chart Detail,0029600769,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,88,1,0,19970222,PHI,POR
-Shot Chart Detail,0029600785,30,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,54,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600785,61,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,4,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,13,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600785,199,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,201,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,211,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,82,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,230,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600785,242,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,258,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,CHI,POR
-Shot Chart Detail,0029600785,292,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,88,1,0,19970224,CHI,POR
-Shot Chart Detail,0029600802,132,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,POR,NYK
-Shot Chart Detail,0029600802,311,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,POR,NYK
-Shot Chart Detail,0029600818,139,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,POR,UTA
-Shot Chart Detail,0029600818,141,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,22,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,28,1,0,19970228,POR,UTA
-Shot Chart Detail,0029600832,22,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970302,POR,PHI
-Shot Chart Detail,0029600832,383,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,4,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,19970302,POR,PHI
-Shot Chart Detail,0029600832,397,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970302,POR,PHI
-Shot Chart Detail,0029600846,165,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-3,142,1,1,19970304,POR,NJN
-Shot Chart Detail,0029600846,345,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970304,POR,NJN
-Shot Chart Detail,0029600846,446,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,2,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970304,POR,NJN
-Shot Chart Detail,0029600853,13,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,10,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-31,134,1,0,19970305,PHX,POR
-Shot Chart Detail,0029600853,100,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,PHX,POR
-Shot Chart Detail,0029600853,105,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,PHX,POR
-Shot Chart Detail,0029600853,177,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,105,151,1,0,19970305,PHX,POR
-Shot Chart Detail,0029600871,44,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,6,8,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,34,1,0,19970307,POR,DAL
-Shot Chart Detail,0029600871,74,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,POR,DAL
-Shot Chart Detail,0029600886,108,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,POR,SEA
-Shot Chart Detail,0029600886,149,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,84,2,1,0,19970309,POR,SEA
-Shot Chart Detail,0029600898,80,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-64,73,1,1,19970311,POR,LAC
-Shot Chart Detail,0029600898,122,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600898,124,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,36,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,39,1,1,19970311,POR,LAC
-Shot Chart Detail,0029600898,359,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,81,84,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600898,386,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,47,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600898,429,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,19,84,1,0,19970311,POR,LAC
-Shot Chart Detail,0029600921,19,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-25,58,1,1,19970314,POR,CLE
-Shot Chart Detail,0029600921,223,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,36,1,0,19970314,POR,CLE
-Shot Chart Detail,0029600934,31,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,43,1,1,19970316,LAC,POR
-Shot Chart Detail,0029600934,223,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAC,POR
-Shot Chart Detail,0029600934,269,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,LAC,POR
-Shot Chart Detail,0029600934,273,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,49,1,0,19970316,LAC,POR
-Shot Chart Detail,0029600934,335,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,LAC,POR
-Shot Chart Detail,0029600934,357,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,127,97,1,0,19970316,LAC,POR
-Shot Chart Detail,0029600951,9,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,POR,SAC
-Shot Chart Detail,0029600951,28,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,POR,SAC
-Shot Chart Detail,0029600951,69,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,3,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,POR,SAC
-Shot Chart Detail,0029600962,111,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970320,MIL,POR
-Shot Chart Detail,0029600962,116,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,MIL,POR
-Shot Chart Detail,0029600962,119,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,MIL,POR
-Shot Chart Detail,0029600962,143,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,36,93,1,0,19970320,MIL,POR
-Shot Chart Detail,0029600975,104,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,58,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-14,36,1,1,19970322,WAS,POR
-Shot Chart Detail,0029600975,117,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-170,10,1,1,19970322,WAS,POR
-Shot Chart Detail,0029600975,151,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,WAS,POR
-Shot Chart Detail,0029600975,385,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,30,1,0,19970322,WAS,POR
-Shot Chart Detail,0029600993,98,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,ATL,POR
-Shot Chart Detail,0029600993,100,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,ATL,POR
-Shot Chart Detail,0029600993,105,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,88,153,1,1,19970325,ATL,POR
-Shot Chart Detail,0029600993,124,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-144,93,1,0,19970325,ATL,POR
-Shot Chart Detail,0029600993,128,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,ATL,POR
-Shot Chart Detail,0029601005,130,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970326,CHH,POR
-Shot Chart Detail,0029601005,312,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,5,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,26,1,0,19970326,CHH,POR
-Shot Chart Detail,0029601023,144,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601023,165,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-86,78,1,0,19970328,POR,VAN
-Shot Chart Detail,0029601023,207,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,47,1,1,19970328,POR,VAN
-Shot Chart Detail,0029601045,140,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,9,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,52,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601045,147,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970401,POR,GSW
-Shot Chart Detail,0029601045,166,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,78,1,0,19970401,POR,GSW
-Shot Chart Detail,0029601072,158,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,POR,MIL
-Shot Chart Detail,0029601072,160,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,POR,MIL
-Shot Chart Detail,0029601072,447,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,47,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,POR,MIL
-Shot Chart Detail,0029601077,126,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,POR,PHX
-Shot Chart Detail,0029601077,153,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,26,1,1,19970405,POR,PHX
-Shot Chart Detail,0029601077,340,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,4,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970405,POR,PHX
-Shot Chart Detail,0029601077,356,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,0,19970405,POR,PHX
-Shot Chart Detail,0029601077,409,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,2,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,POR,PHX
-Shot Chart Detail,0029601090,167,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,DEN,POR
-Shot Chart Detail,0029601090,169,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,DEN,POR
-Shot Chart Detail,0029601090,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,DEN,POR
-Shot Chart Detail,0029601095,334,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,-18,1,0,19970408,DAL,POR
-Shot Chart Detail,0029601095,362,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,17,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970408,DAL,POR
-Shot Chart Detail,0029601111,87,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,-3,1,0,19970410,SAS,POR
-Shot Chart Detail,0029601111,130,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,SAS,POR
-Shot Chart Detail,0029601111,157,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,SAS,POR
-Shot Chart Detail,0029601159,121,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,0,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,134,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,28,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,39,1,0,19970416,POR,DEN
-Shot Chart Detail,0029601159,146,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,353,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,120,160,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,386,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,2,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,392,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,5,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970416,POR,DEN
-Shot Chart Detail,0029601159,435,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970416,POR,DEN
-Shot Chart Detail,0029601163,7,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970417,VAN,POR
-Shot Chart Detail,0029601163,45,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,56,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,57,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,59,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,60,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,VAN,POR
-Shot Chart Detail,0029601163,395,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970417,VAN,POR
-Shot Chart Detail,0029601189,118,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,32,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,45,1,0,19970420,POR,LAL
-Shot Chart Detail,0029601189,127,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970420,POR,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29600007,80,278,Stacey Augmon,1610612765,Detroit Pistons,1,1,59,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,0,DET,IND
+Shot Chart Detail,29600007,313,278,Stacey Augmon,1610612765,Detroit Pistons,3,2,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961101,1,DET,IND
+Shot Chart Detail,29600007,407,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961101,0,DET,IND
+Shot Chart Detail,29600007,427,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,0,19961101,0,DET,IND
+Shot Chart Detail,29600017,16,278,Stacey Augmon,1610612765,Detroit Pistons,1,10,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,1,ATL,DET
+Shot Chart Detail,29600017,46,278,Stacey Augmon,1610612765,Detroit Pistons,1,5,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,1,ATL,DET
+Shot Chart Detail,29600017,50,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,0,ATL,DET
+Shot Chart Detail,29600017,57,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,0,ATL,DET
+Shot Chart Detail,29600017,69,278,Stacey Augmon,1610612765,Detroit Pistons,1,2,19,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,116,86,1,1,19961102,0,ATL,DET
+Shot Chart Detail,29600017,180,278,Stacey Augmon,1610612765,Detroit Pistons,2,2,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961102,0,ATL,DET
+Shot Chart Detail,29600017,224,278,Stacey Augmon,1610612765,Detroit Pistons,3,10,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,0,ATL,DET
+Shot Chart Detail,29600017,239,278,Stacey Augmon,1610612765,Detroit Pistons,3,9,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,-14,1,0,19961102,0,ATL,DET
+Shot Chart Detail,29600017,259,278,Stacey Augmon,1610612765,Detroit Pistons,3,6,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961102,1,ATL,DET
+Shot Chart Detail,29600032,117,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961105,1,PHI,DET
+Shot Chart Detail,29600032,143,278,Stacey Augmon,1610612765,Detroit Pistons,2,6,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,0,PHI,DET
+Shot Chart Detail,29600032,157,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,0,PHI,DET
+Shot Chart Detail,29600032,200,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,0,PHI,DET
+Shot Chart Detail,29600032,305,278,Stacey Augmon,1610612765,Detroit Pistons,3,2,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961105,0,PHI,DET
+Shot Chart Detail,29600045,32,278,Stacey Augmon,1610612765,Detroit Pistons,1,6,40,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,45,60,1,1,19961106,1,DET,DAL
+Shot Chart Detail,29600045,182,278,Stacey Augmon,1610612765,Detroit Pistons,2,3,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,149,49,1,0,19961106,0,DET,DAL
+Shot Chart Detail,29600045,278,278,Stacey Augmon,1610612765,Detroit Pistons,3,3,56,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961106,1,DET,DAL
+Shot Chart Detail,29600045,340,278,Stacey Augmon,1610612765,Detroit Pistons,4,7,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961106,0,DET,DAL
+Shot Chart Detail,29600059,56,278,Stacey Augmon,1610612765,Detroit Pistons,1,4,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,56,1,0,19961108,0,DET,CHI
+Shot Chart Detail,29600059,167,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,0,DET,CHI
+Shot Chart Detail,29600059,198,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,49,Made Shot,Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,23,1,1,19961108,0,DET,CHI
+Shot Chart Detail,29600059,200,278,Stacey Augmon,1610612765,Detroit Pistons,2,0,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,36,1,0,19961108,0,DET,CHI
+Shot Chart Detail,29600059,350,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,28,Made Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,11,112,15,1,1,19961108,0,DET,CHI
+Shot Chart Detail,29600059,352,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-88,30,1,0,19961108,0,DET,CHI
+Shot Chart Detail,29600059,367,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,0,DET,CHI
+Shot Chart Detail,29600059,382,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961108,0,DET,CHI
+Shot Chart Detail,29600059,384,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961108,0,DET,CHI
+Shot Chart Detail,29600080,91,278,Stacey Augmon,1610612765,Detroit Pistons,1,0,51,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,32,1,1,19961112,0,WAS,DET
+Shot Chart Detail,29600080,114,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-135,47,1,0,19961112,0,WAS,DET
+Shot Chart Detail,29600093,101,278,Stacey Augmon,1610612765,Detroit Pistons,2,11,28,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,43,1,0,19961113,0,DET,DEN
+Shot Chart Detail,29600093,119,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,0,DET,DEN
+Shot Chart Detail,29600093,123,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,0,DET,DEN
+Shot Chart Detail,29600093,355,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961113,0,DET,DEN
+Shot Chart Detail,29600109,93,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,120,8,1,0,19961115,0,DET,WAS
+Shot Chart Detail,29600119,116,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,42,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,10,1,0,19961116,0,CLE,DET
+Shot Chart Detail,29600119,158,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,45,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,13,1,0,19961116,0,CLE,DET
+Shot Chart Detail,29600138,401,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961120,0,BOS,DET
+Shot Chart Detail,29600138,419,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,4,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961120,0,BOS,DET
+Shot Chart Detail,29600148,132,278,Stacey Augmon,1610612765,Detroit Pistons,2,9,58,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,6,1,1,19961121,0,DET,NJN
+Shot Chart Detail,29600148,308,278,Stacey Augmon,1610612765,Detroit Pistons,4,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961121,0,DET,NJN
+Shot Chart Detail,29600148,316,278,Stacey Augmon,1610612765,Detroit Pistons,4,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,155,54,1,0,19961121,0,DET,NJN
+Shot Chart Detail,29600161,148,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,0,CHH,DET
+Shot Chart Detail,29600161,150,278,Stacey Augmon,1610612765,Detroit Pistons,2,4,58,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,0,CHH,DET
+Shot Chart Detail,29600161,207,278,Stacey Augmon,1610612765,Detroit Pistons,3,11,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-151,-1,1,1,19961123,0,CHH,DET
+Shot Chart Detail,29600161,210,278,Stacey Augmon,1610612765,Detroit Pistons,3,10,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961123,0,CHH,DET
+Shot Chart Detail,29600190,61,278,Stacey Augmon,1610612765,Detroit Pistons,1,1,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-129,78,1,0,19961127,0,DET,VAN
+Shot Chart Detail,29600190,98,278,Stacey Augmon,1610612765,Detroit Pistons,2,10,9,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-34,112,1,1,19961127,0,DET,VAN
+Shot Chart Detail,29600190,137,278,Stacey Augmon,1610612765,Detroit Pistons,2,5,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961127,0,DET,VAN
+Shot Chart Detail,29600218,146,278,Stacey Augmon,1610612765,Detroit Pistons,2,8,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,129,86,1,0,19961201,0,DET,SAC
+Shot Chart Detail,29600218,367,278,Stacey Augmon,1610612765,Detroit Pistons,4,8,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-3,88,1,0,19961201,0,DET,SAC
+Shot Chart Detail,29600218,421,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,1,DET,SAC
+Shot Chart Detail,29600218,424,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961201,1,DET,SAC
+Shot Chart Detail,29600218,458,278,Stacey Augmon,1610612765,Detroit Pistons,4,0,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961201,0,DET,SAC
+Shot Chart Detail,29600258,338,278,Stacey Augmon,1610612765,Detroit Pistons,4,6,13,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,0,NJN,DET
+Shot Chart Detail,29600258,346,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,7,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,1,NJN,DET
+Shot Chart Detail,29600258,360,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,51,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961207,0,NJN,DET
+Shot Chart Detail,29600258,371,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,138,34,1,0,19961207,0,NJN,DET
+Shot Chart Detail,29600258,386,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961207,0,NJN,DET
+Shot Chart Detail,29600295,377,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961212,0,HOU,DET
+Shot Chart Detail,29600295,382,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,9,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,1,93,1,1,19961212,0,HOU,DET
+Shot Chart Detail,29600336,111,278,Stacey Augmon,1610612765,Detroit Pistons,2,11,45,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,84,4,1,0,19961218,0,DET,NYK
+Shot Chart Detail,29600336,363,278,Stacey Augmon,1610612765,Detroit Pistons,4,5,49,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-144,32,1,0,19961218,0,DET,NYK
+Shot Chart Detail,29600336,371,278,Stacey Augmon,1610612765,Detroit Pistons,4,4,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,0,DET,NYK
+Shot Chart Detail,29600336,388,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,15,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19961218,1,DET,NYK
+Shot Chart Detail,29600336,397,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19961218,0,DET,NYK
+Shot Chart Detail,29600386,290,278,Stacey Augmon,1610612765,Detroit Pistons,3,5,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,39,1,0,19961226,0,DET,IND
+Shot Chart Detail,29600445,338,278,Stacey Augmon,1610612765,Detroit Pistons,4,11,36,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,2,1,1,19970104,1,DET,TOR
+Shot Chart Detail,29600445,352,278,Stacey Augmon,1610612765,Detroit Pistons,4,10,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,0,DET,TOR
+Shot Chart Detail,29600445,379,278,Stacey Augmon,1610612765,Detroit Pistons,4,7,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,123,30,1,0,19970104,0,DET,TOR
+Shot Chart Detail,29600445,419,278,Stacey Augmon,1610612765,Detroit Pistons,4,3,12,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,0,DET,TOR
+Shot Chart Detail,29600445,425,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970104,0,DET,TOR
+Shot Chart Detail,29600445,429,278,Stacey Augmon,1610612765,Detroit Pistons,4,2,15,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970104,1,DET,TOR
+Shot Chart Detail,29600445,439,278,Stacey Augmon,1610612765,Detroit Pistons,4,1,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970104,0,DET,TOR
+Shot Chart Detail,29600599,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,6,1,0,19970125,0,POR,MIN
+Shot Chart Detail,29600599,352,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970125,1,POR,MIN
+Shot Chart Detail,29600609,146,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,49,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,0,TOR,POR
+Shot Chart Detail,29600609,148,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,0,TOR,POR
+Shot Chart Detail,29600609,392,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,196,26,1,0,19970128,0,TOR,POR
+Shot Chart Detail,29600609,401,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970128,0,TOR,POR
+Shot Chart Detail,29600609,474,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,21,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970128,0,TOR,POR
+Shot Chart Detail,29600622,61,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,43,1,0,19970129,0,DET,POR
+Shot Chart Detail,29600631,113,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,58,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,0,BOS,POR
+Shot Chart Detail,29600631,126,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,0,BOS,POR
+Shot Chart Detail,29600631,352,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970131,0,BOS,POR
+Shot Chart Detail,29600652,121,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,114,-5,1,0,19970202,0,MIN,POR
+Shot Chart Detail,29600652,142,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,30,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,21,155,1,1,19970202,1,MIN,POR
+Shot Chart Detail,29600652,153,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970202,0,MIN,POR
+Shot Chart Detail,29600652,154,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970202,0,MIN,POR
+Shot Chart Detail,29600652,324,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,10,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,56,1,0,19970202,0,MIN,POR
+Shot Chart Detail,29600692,115,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,1,POR,PHX
+Shot Chart Detail,29600692,120,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,1,POR,PHX
+Shot Chart Detail,29600692,367,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,1,POR,PHX
+Shot Chart Detail,29600692,375,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,-1,1,1,19970211,0,POR,PHX
+Shot Chart Detail,29600692,402,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,4,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970211,0,POR,PHX
+Shot Chart Detail,29600705,365,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,13,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-125,114,1,0,19970213,0,UTA,POR
+Shot Chart Detail,29600705,391,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,0,UTA,POR
+Shot Chart Detail,29600705,409,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,40,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,131,112,1,1,19970213,0,UTA,POR
+Shot Chart Detail,29600705,414,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,26,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,0,UTA,POR
+Shot Chart Detail,29600705,425,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,5,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970213,0,UTA,POR
+Shot Chart Detail,29600705,455,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,1,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970213,1,UTA,POR
+Shot Chart Detail,29600721,195,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970215,0,POR,HOU
+Shot Chart Detail,29600721,217,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970215,0,POR,HOU
+Shot Chart Detail,29600721,368,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,4,1,0,19970215,0,POR,HOU
+Shot Chart Detail,29600721,427,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,1,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970215,0,POR,HOU
+Shot Chart Detail,29600729,138,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,57,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,47,1,1,19970216,0,POR,BOS
+Shot Chart Detail,29600729,218,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,1,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970216,0,POR,BOS
+Shot Chart Detail,29600729,511,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970216,1,POR,BOS
+Shot Chart Detail,29600743,145,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,7,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,67,1,1,19970219,0,ORL,POR
+Shot Chart Detail,29600743,176,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970219,0,ORL,POR
+Shot Chart Detail,29600743,321,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970219,0,ORL,POR
+Shot Chart Detail,29600743,335,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970219,1,ORL,POR
+Shot Chart Detail,29600743,337,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,42,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,90,23,1,0,19970219,0,ORL,POR
+Shot Chart Detail,29600760,363,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,11,38,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,146,2,1,1,19970221,1,MIA,POR
+Shot Chart Detail,29600760,376,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,14,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970221,1,MIA,POR
+Shot Chart Detail,29600769,107,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,11,31,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,1,PHI,POR
+Shot Chart Detail,29600769,129,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-64,58,1,0,19970222,0,PHI,POR
+Shot Chart Detail,29600769,141,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970222,1,PHI,POR
+Shot Chart Detail,29600769,264,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,5,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,54,1,1,19970222,0,PHI,POR
+Shot Chart Detail,29600769,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,88,1,0,19970222,0,PHI,POR
+Shot Chart Detail,29600785,30,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,1,CHI,POR
+Shot Chart Detail,29600785,54,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,0,CHI,POR
+Shot Chart Detail,29600785,61,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,4,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,13,1,0,19970224,0,CHI,POR
+Shot Chart Detail,29600785,199,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,1,CHI,POR
+Shot Chart Detail,29600785,201,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,1,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,1,CHI,POR
+Shot Chart Detail,29600785,211,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-131,82,1,1,19970224,1,CHI,POR
+Shot Chart Detail,29600785,230,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970224,0,CHI,POR
+Shot Chart Detail,29600785,242,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,1,CHI,POR
+Shot Chart Detail,29600785,258,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,7,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970224,0,CHI,POR
+Shot Chart Detail,29600785,292,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,5,5,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-92,88,1,0,19970224,0,CHI,POR
+Shot Chart Detail,29600802,132,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,1,POR,NYK
+Shot Chart Detail,29600802,311,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,44,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970226,0,POR,NYK
+Shot Chart Detail,29600818,139,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,5,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970228,0,POR,UTA
+Shot Chart Detail,29600818,141,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,22,Missed Shot,Running Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,12,28,1,0,19970228,0,POR,UTA
+Shot Chart Detail,29600832,22,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970302,0,POR,PHI
+Shot Chart Detail,29600832,383,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,4,52,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,17,1,1,19970302,1,POR,PHI
+Shot Chart Detail,29600832,397,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970302,0,POR,PHI
+Shot Chart Detail,29600846,165,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,27,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-3,142,1,1,19970304,0,POR,NJN
+Shot Chart Detail,29600846,345,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970304,0,POR,NJN
+Shot Chart Detail,29600846,446,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,2,53,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970304,0,POR,NJN
+Shot Chart Detail,29600853,13,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,10,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-31,134,1,0,19970305,0,PHX,POR
+Shot Chart Detail,29600853,100,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,1,PHX,POR
+Shot Chart Detail,29600853,105,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970305,1,PHX,POR
+Shot Chart Detail,29600853,177,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,105,151,1,0,19970305,0,PHX,POR
+Shot Chart Detail,29600871,44,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,6,8,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,34,1,0,19970307,0,POR,DAL
+Shot Chart Detail,29600871,74,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970307,0,POR,DAL
+Shot Chart Detail,29600886,108,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,47,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970309,0,POR,SEA
+Shot Chart Detail,29600886,149,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,48,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,84,2,1,0,19970309,0,POR,SEA
+Shot Chart Detail,29600898,80,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,45,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-64,73,1,1,19970311,0,POR,LAC
+Shot Chart Detail,29600898,122,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,39,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970311,0,POR,LAC
+Shot Chart Detail,29600898,124,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,36,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,8,39,1,1,19970311,0,POR,LAC
+Shot Chart Detail,29600898,359,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,26,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,81,84,1,0,19970311,0,POR,LAC
+Shot Chart Detail,29600898,386,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-21,47,1,0,19970311,0,POR,LAC
+Shot Chart Detail,29600898,429,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,19,84,1,0,19970311,0,POR,LAC
+Shot Chart Detail,29600921,19,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,51,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-25,58,1,1,19970314,0,POR,CLE
+Shot Chart Detail,29600921,223,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,36,1,0,19970314,0,POR,CLE
+Shot Chart Detail,29600934,31,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,43,1,1,19970316,0,LAC,POR
+Shot Chart Detail,29600934,223,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,11,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,0,LAC,POR
+Shot Chart Detail,29600934,269,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,7,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970316,1,LAC,POR
+Shot Chart Detail,29600934,273,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,6,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,49,1,0,19970316,0,LAC,POR
+Shot Chart Detail,29600934,335,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,1,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970316,0,LAC,POR
+Shot Chart Detail,29600934,357,278,Stacey Augmon,1610612757,Portland Trail Blazers,3,0,5,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,127,97,1,0,19970316,0,LAC,POR
+Shot Chart Detail,29600951,9,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,0,POR,SAC
+Shot Chart Detail,29600951,28,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,8,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,1,POR,SAC
+Shot Chart Detail,29600951,69,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,3,59,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970318,0,POR,SAC
+Shot Chart Detail,29600962,111,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970320,0,MIL,POR
+Shot Chart Detail,29600962,116,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,0,MIL,POR
+Shot Chart Detail,29600962,119,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970320,1,MIL,POR
+Shot Chart Detail,29600962,143,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,36,93,1,0,19970320,0,MIL,POR
+Shot Chart Detail,29600975,104,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,58,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-14,36,1,1,19970322,0,WAS,POR
+Shot Chart Detail,29600975,117,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,48,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-170,10,1,1,19970322,0,WAS,POR
+Shot Chart Detail,29600975,151,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,33,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970322,0,WAS,POR
+Shot Chart Detail,29600975,385,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,8,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,30,1,0,19970322,0,WAS,POR
+Shot Chart Detail,29600993,98,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,0,ATL,POR
+Shot Chart Detail,29600993,100,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970325,1,ATL,POR
+Shot Chart Detail,29600993,105,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,56,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,88,153,1,1,19970325,1,ATL,POR
+Shot Chart Detail,29600993,124,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,23,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-144,93,1,0,19970325,0,ATL,POR
+Shot Chart Detail,29600993,128,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970325,0,ATL,POR
+Shot Chart Detail,29601005,130,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970326,1,CHH,POR
+Shot Chart Detail,29601005,312,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,9,5,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,26,1,0,19970326,0,CHH,POR
+Shot Chart Detail,29601023,144,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,38,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970328,1,POR,VAN
+Shot Chart Detail,29601023,165,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-86,78,1,0,19970328,0,POR,VAN
+Shot Chart Detail,29601023,207,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,0,40,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,131,47,1,1,19970328,0,POR,VAN
+Shot Chart Detail,29601045,140,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,9,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,52,1,0,19970401,0,POR,GSW
+Shot Chart Detail,29601045,147,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970401,1,POR,GSW
+Shot Chart Detail,29601045,166,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-3,78,1,0,19970401,0,POR,GSW
+Shot Chart Detail,29601072,158,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,0,POR,MIL
+Shot Chart Detail,29601072,160,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,5,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,1,POR,MIL
+Shot Chart Detail,29601072,447,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,47,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970404,1,POR,MIL
+Shot Chart Detail,29601077,126,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,0,POR,PHX
+Shot Chart Detail,29601077,153,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,22,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,138,26,1,1,19970405,1,POR,PHX
+Shot Chart Detail,29601077,340,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,4,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970405,1,POR,PHX
+Shot Chart Detail,29601077,356,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,0,19970405,0,POR,PHX
+Shot Chart Detail,29601077,409,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,2,6,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970405,0,POR,PHX
+Shot Chart Detail,29601090,167,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,0,DEN,POR
+Shot Chart Detail,29601090,169,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,6,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,0,DEN,POR
+Shot Chart Detail,29601090,328,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970407,0,DEN,POR
+Shot Chart Detail,29601095,334,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,55,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,105,-18,1,0,19970408,0,DAL,POR
+Shot Chart Detail,29601095,362,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,7,17,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970408,1,DAL,POR
+Shot Chart Detail,29601111,87,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,2,23,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,112,-3,1,0,19970410,0,SAS,POR
+Shot Chart Detail,29601111,130,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970410,0,SAS,POR
+Shot Chart Detail,29601111,157,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970410,1,SAS,POR
+Shot Chart Detail,29601159,121,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,0,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,0,1,1,19970416,0,POR,DEN
+Shot Chart Detail,29601159,134,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,8,28,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,3,39,1,0,19970416,0,POR,DEN
+Shot Chart Detail,29601159,146,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,7,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970416,1,POR,DEN
+Shot Chart Detail,29601159,353,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,10,28,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,120,160,1,1,19970416,0,POR,DEN
+Shot Chart Detail,29601159,386,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,6,10,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,2,1,1,19970416,0,POR,DEN
+Shot Chart Detail,29601159,392,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,5,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970416,1,POR,DEN
+Shot Chart Detail,29601159,435,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,0,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970416,0,POR,DEN
+Shot Chart Detail,29601163,7,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970417,1,VAN,POR
+Shot Chart Detail,29601163,45,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-125,56,1,0,19970417,0,VAN,POR
+Shot Chart Detail,29601163,57,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,0,VAN,POR
+Shot Chart Detail,29601163,59,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,0,VAN,POR
+Shot Chart Detail,29601163,60,278,Stacey Augmon,1610612757,Portland Trail Blazers,1,5,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970417,0,VAN,POR
+Shot Chart Detail,29601163,395,278,Stacey Augmon,1610612757,Portland Trail Blazers,4,3,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970417,1,VAN,POR
+Shot Chart Detail,29601189,118,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,10,32,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,45,1,0,19970420,0,POR,LAL
+Shot Chart Detail,29601189,127,278,Stacey Augmon,1610612757,Portland Trail Blazers,2,9,43,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970420,1,POR,LAL

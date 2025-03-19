@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0022000659,659,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,0,59,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,4,1,0,20210322,MIL,IND
-Shot Chart Detail,0022000685,629,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,2,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20210326,MIL,BOS
-Shot Chart Detail,0022000695,36,1626253,Axel Toupane,1610612749,Milwaukee Bucks,1,8,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,20,1,0,20210327,MIL,NYK
-Shot Chart Detail,0022000695,50,1626253,Axel Toupane,1610612749,Milwaukee Bucks,1,7,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,22,1,1,20210327,MIL,NYK
-Shot Chart Detail,0022000695,456,1626253,Axel Toupane,1610612749,Milwaukee Bucks,3,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,9,1,0,20210327,MIL,NYK
-Shot Chart Detail,0022000695,464,1626253,Axel Toupane,1610612749,Milwaukee Bucks,3,0,50,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,0,20210327,MIL,NYK
-Shot Chart Detail,0022000717,595,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,1,19,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,29,1,0,20210329,LAC,MIL
-Shot Chart Detail,0022000796,517,1626253,Axel Toupane,1610612749,Milwaukee Bucks,3,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-185,6,1,0,20210409,MIL,CHA
-Shot Chart Detail,0022000796,637,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,4,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,25,1,1,20210409,MIL,CHA
-Shot Chart Detail,0022000796,665,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,3,14,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,0,20210409,MIL,CHA
-Shot Chart Detail,0022000796,707,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,0,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-106,239,1,1,20210409,MIL,CHA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22000659,659,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,0,59,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-116,4,1,0,20210322,0,MIL,IND
+Shot Chart Detail,22000685,629,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,2,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20210326,1,MIL,BOS
+Shot Chart Detail,22000695,36,1626253,Axel Toupane,1610612749,Milwaukee Bucks,1,8,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,20,1,0,20210327,0,MIL,NYK
+Shot Chart Detail,22000695,50,1626253,Axel Toupane,1610612749,Milwaukee Bucks,1,7,17,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,22,1,1,20210327,1,MIL,NYK
+Shot Chart Detail,22000695,456,1626253,Axel Toupane,1610612749,Milwaukee Bucks,3,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,9,1,0,20210327,0,MIL,NYK
+Shot Chart Detail,22000695,464,1626253,Axel Toupane,1610612749,Milwaukee Bucks,3,0,50,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,0,20210327,0,MIL,NYK
+Shot Chart Detail,22000717,595,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,1,19,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,29,1,0,20210329,0,LAC,MIL
+Shot Chart Detail,22000796,517,1626253,Axel Toupane,1610612749,Milwaukee Bucks,3,1,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-185,6,1,0,20210409,0,MIL,CHA
+Shot Chart Detail,22000796,637,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,4,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,25,1,1,20210409,1,MIL,CHA
+Shot Chart Detail,22000796,665,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,3,14,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,13,1,0,20210409,0,MIL,CHA
+Shot Chart Detail,22000796,707,1626253,Axel Toupane,1610612749,Milwaukee Bucks,4,0,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-106,239,1,1,20210409,0,MIL,CHA

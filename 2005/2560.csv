@@ -1,355 +1,178 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020400305,478,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,PHX,ORL
-Shot Chart Detail,0020400305,514,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,PHX,ORL
-Shot Chart Detail,0020400405,460,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20041228,SAS,PHX
-Shot Chart Detail,0020400405,473,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,10,1,0,20041228,SAS,PHX
-Shot Chart Detail,0020400405,477,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,2,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20041228,SAS,PHX
-Shot Chart Detail,0020400405,493,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-44,72,1,0,20041228,SAS,PHX
-Shot Chart Detail,0020400405,494,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,12,1,1,20041228,SAS,PHX
-Shot Chart Detail,0020400453,230,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,5,1,0,20050105,BOS,GSW
-Shot Chart Detail,0020400471,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050107,NJN,GSW
-Shot Chart Detail,0020400471,318,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,NJN,GSW
-Shot Chart Detail,0020400471,341,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,76,1,0,20050107,NJN,GSW
-Shot Chart Detail,0020400471,343,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,NJN,GSW
-Shot Chart Detail,0020400495,109,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,49,1,1,20050110,CHI,GSW
-Shot Chart Detail,0020400495,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,133,1,1,20050110,CHI,GSW
-Shot Chart Detail,0020400495,342,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,54,1,0,20050110,CHI,GSW
-Shot Chart Detail,0020400495,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,222,1,0,20050110,CHI,GSW
-Shot Chart Detail,0020400495,356,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050110,CHI,GSW
-Shot Chart Detail,0020400515,153,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,145,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400515,346,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,35,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400676,113,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,128,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20050202,GSW,SAC
-Shot Chart Detail,0020400676,149,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,128,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,325,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,40,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,334,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,51,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,347,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,130,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,355,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400688,85,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,6,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050204,GSW,NOH
-Shot Chart Detail,0020400688,88,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-136,100,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,171,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,40,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,242,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,247,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,8,58,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,35,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,295,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,117,1,1,20050204,GSW,NOH
-Shot Chart Detail,0020400694,110,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,418,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,8,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,434,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,85,214,1,0,20050205,DEN,GSW
-Shot Chart Detail,0020400694,449,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,466,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,2,52,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050205,DEN,GSW
-Shot Chart Detail,0020400694,471,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,229,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,482,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,235,1,0,20050205,DEN,GSW
-Shot Chart Detail,0020400694,484,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,53,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400706,125,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-200,66,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400706,136,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,166,143,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400706,153,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-3,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400706,163,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,12,1,0,20050207,MIA,GSW
-Shot Chart Detail,0020400706,366,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,137,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400709,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-3,1,0,20050208,ORL,GSW
-Shot Chart Detail,0020400709,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,37,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,234,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,312,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-3,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,323,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-13,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-8,1,0,20050208,ORL,GSW
-Shot Chart Detail,0020400756,147,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20050213,GSW,PHX
-Shot Chart Detail,0020400756,154,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,26,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-13,1,0,20050213,GSW,PHX
-Shot Chart Detail,0020400756,168,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,57,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,12,1,0,20050213,GSW,PHX
-Shot Chart Detail,0020400779,158,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-3,1,1,20050216,SEA,GSW
-Shot Chart Detail,0020400828,328,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-13,1,0,20050227,GSW,DET
-Shot Chart Detail,0020400828,350,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,18,1,0,20050227,GSW,DET
-Shot Chart Detail,0020400834,188,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,33,1,0,20050301,MEM,GSW
-Shot Chart Detail,0020400834,191,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,12,1,1,20050301,MEM,GSW
-Shot Chart Detail,0020400834,235,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,1,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,43,1,0,20050301,MEM,GSW
-Shot Chart Detail,0020400834,408,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,56,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050301,MEM,GSW
-Shot Chart Detail,0020400834,409,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050301,MEM,GSW
-Shot Chart Detail,0020400846,110,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,35,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,46,1,1,20050302,MIN,GSW
-Shot Chart Detail,0020400846,139,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,250,1,1,20050302,MIN,GSW
-Shot Chart Detail,0020400846,150,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,58,1,0,20050302,MIN,GSW
-Shot Chart Detail,0020400855,219,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,2,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,77,1,0,20050304,WAS,GSW
-Shot Chart Detail,0020400877,429,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,49,1,1,20050306,NYK,GSW
-Shot Chart Detail,0020400877,434,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,38,1,0,20050306,NYK,GSW
-Shot Chart Detail,0020400886,119,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,1,20050308,PHI,GSW
-Shot Chart Detail,0020400886,121,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,0,1,0,20050308,PHI,GSW
-Shot Chart Detail,0020400898,360,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050309,DET,GSW
-Shot Chart Detail,0020400907,143,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,10,1,0,20050311,IND,GSW
-Shot Chart Detail,0020400916,433,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,56,186,1,0,20050312,ATL,GSW
-Shot Chart Detail,0020400936,189,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,36,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,191,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,209,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,122,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,300,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-80,201,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,309,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,47,Made Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,51,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,319,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,210,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,344,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,346,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,225,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,395,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,61,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,407,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,40,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,416,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,56,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,419,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,4,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,38,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,429,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,3,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,63,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400956,102,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,132,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,10,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,155,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,0,20050317,GSW,SAC
-Shot Chart Detail,0020400956,310,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,36,Missed Shot,Running Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,51,1,0,20050317,GSW,SAC
-Shot Chart Detail,0020400956,311,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,321,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,169,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,361,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,58,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,35,1,0,20050317,GSW,SAC
-Shot Chart Detail,0020400968,90,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,148,133,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,126,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,74,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,140,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,319,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,150,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400968,354,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400968,373,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,380,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,222,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400968,412,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400983,74,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,3,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,64,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,87,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,114,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-197,141,1,0,20050320,SAC,GSW
-Shot Chart Detail,0020400983,137,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,248,1,0,20050320,SAC,GSW
-Shot Chart Detail,0020400983,141,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,35,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,22,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,290,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,304,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,325,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,465,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-66,66,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020401005,126,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,64,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,163,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,181,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,53,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,184,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,196,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,11,127,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,200,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-19,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,202,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,343,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-41,68,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,436,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,71,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401020,128,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,40,1,0,20050325,GSW,MIL
-Shot Chart Detail,0020401020,354,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,51,Made Shot,Turnaround Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,43,1,1,20050325,GSW,MIL
-Shot Chart Detail,0020401020,360,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20050325,GSW,MIL
-Shot Chart Detail,0020401020,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,13,1,0,20050325,GSW,MIL
-Shot Chart Detail,0020401020,411,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,135,1,0,20050325,GSW,MIL
-Shot Chart Detail,0020401047,134,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,194,1,0,20050328,GSW,NYK
-Shot Chart Detail,0020401047,152,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,58,1,0,20050328,GSW,NYK
-Shot Chart Detail,0020401047,173,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,35,1,1,20050328,GSW,NYK
-Shot Chart Detail,0020401047,358,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,45,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,36,1,1,20050328,GSW,NYK
-Shot Chart Detail,0020401058,134,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,30,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,141,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,82,233,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,165,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,188,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-5,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,355,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,128,1,1,20050330,MIL,GSW
-Shot Chart Detail,0020401058,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,189,1,1,20050330,MIL,GSW
-Shot Chart Detail,0020401058,390,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,-6,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401075,132,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,161,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,185,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,399,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,437,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,26,1,0,20050401,UTA,GSW
-Shot Chart Detail,0020401075,528,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,19,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-95,74,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401091,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20050403,GSW,SEA
-Shot Chart Detail,0020401091,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-9,1,1,20050403,GSW,SEA
-Shot Chart Detail,0020401091,138,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-3,1,0,20050403,GSW,SEA
-Shot Chart Detail,0020401091,156,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,50,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,35,1,1,20050403,GSW,SEA
-Shot Chart Detail,0020401091,337,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-23,1,0,20050403,GSW,SEA
-Shot Chart Detail,0020401105,120,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,219,1,1,20050405,GSW,HOU
-Shot Chart Detail,0020401105,147,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-11,1,1,20050405,GSW,HOU
-Shot Chart Detail,0020401105,241,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,10,1,0,20050405,GSW,HOU
-Shot Chart Detail,0020401105,392,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,206,1,1,20050405,GSW,HOU
-Shot Chart Detail,0020401129,431,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,201,1,1,20050408,GSW,PHX
-Shot Chart Detail,0020401129,433,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,36,1,1,20050408,GSW,PHX
-Shot Chart Detail,0020401145,176,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,220,1,1,20050410,GSW,SAS
-Shot Chart Detail,0020401145,383,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,247,1,1,20050410,GSW,SAS
-Shot Chart Detail,0020401165,142,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,118,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,304,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,13,178,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,307,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,151,1,1,20050413,MIN,GSW
-Shot Chart Detail,0020401165,316,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,135,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,328,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,-181,495,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050413,MIN,GSW
-Shot Chart Detail,0020401165,364,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,421,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,12,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,425,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,17,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,430,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,212,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401183,166,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-3,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,118,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,119,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,10,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,121,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,10,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,149,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,34,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,169,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,177,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,219,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,53,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,408,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-135,100,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,420,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,19,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,26,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,421,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,478,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,36,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,480,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,38,1,0,20050415,GSW,POR
-Shot Chart Detail,0020400305,478,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,3,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,PHX,ORL
-Shot Chart Detail,0020400305,514,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,PHX,ORL
-Shot Chart Detail,0020400405,460,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,3,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20041228,SAS,PHX
-Shot Chart Detail,0020400405,473,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,2,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,98,10,1,0,20041228,SAS,PHX
-Shot Chart Detail,0020400405,477,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,2,13,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20041228,SAS,PHX
-Shot Chart Detail,0020400405,493,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-44,72,1,0,20041228,SAS,PHX
-Shot Chart Detail,0020400405,494,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,12,1,1,20041228,SAS,PHX
-Shot Chart Detail,0020400453,230,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,5,1,0,20050105,BOS,GSW
-Shot Chart Detail,0020400471,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,53,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050107,NJN,GSW
-Shot Chart Detail,0020400471,318,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,NJN,GSW
-Shot Chart Detail,0020400471,341,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,76,1,0,20050107,NJN,GSW
-Shot Chart Detail,0020400471,343,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,NJN,GSW
-Shot Chart Detail,0020400495,109,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-148,49,1,1,20050110,CHI,GSW
-Shot Chart Detail,0020400495,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,133,1,1,20050110,CHI,GSW
-Shot Chart Detail,0020400495,342,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,126,54,1,0,20050110,CHI,GSW
-Shot Chart Detail,0020400495,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,222,1,0,20050110,CHI,GSW
-Shot Chart Detail,0020400495,356,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050110,CHI,GSW
-Shot Chart Detail,0020400515,153,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,145,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400515,346,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,35,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,0,20050112,GSW,MIA
-Shot Chart Detail,0020400676,113,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,128,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20050202,GSW,SAC
-Shot Chart Detail,0020400676,149,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,128,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,325,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,40,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,334,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,51,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,347,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,130,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400676,355,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,0,20050202,GSW,SAC
-Shot Chart Detail,0020400688,85,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,6,Made Shot,Follow Up Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050204,GSW,NOH
-Shot Chart Detail,0020400688,88,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-136,100,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,171,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,40,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,242,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,9,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,247,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,8,58,Missed Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,35,1,0,20050204,GSW,NOH
-Shot Chart Detail,0020400688,295,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,117,1,1,20050204,GSW,NOH
-Shot Chart Detail,0020400694,110,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,418,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,8,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,434,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,85,214,1,0,20050205,DEN,GSW
-Shot Chart Detail,0020400694,449,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,466,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,2,52,Missed Shot,Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050205,DEN,GSW
-Shot Chart Detail,0020400694,471,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,229,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400694,482,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,235,1,0,20050205,DEN,GSW
-Shot Chart Detail,0020400694,484,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,53,1,1,20050205,DEN,GSW
-Shot Chart Detail,0020400706,125,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-200,66,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400706,136,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,166,143,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400706,153,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-164,-3,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400706,163,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,12,1,0,20050207,MIA,GSW
-Shot Chart Detail,0020400706,366,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,137,1,1,20050207,MIA,GSW
-Shot Chart Detail,0020400709,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,-3,1,0,20050208,ORL,GSW
-Shot Chart Detail,0020400709,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,37,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,234,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,312,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,-3,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,323,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-13,1,1,20050208,ORL,GSW
-Shot Chart Detail,0020400709,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,-8,1,0,20050208,ORL,GSW
-Shot Chart Detail,0020400756,147,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20050213,GSW,PHX
-Shot Chart Detail,0020400756,154,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,26,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-13,1,0,20050213,GSW,PHX
-Shot Chart Detail,0020400756,168,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,57,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,12,1,0,20050213,GSW,PHX
-Shot Chart Detail,0020400779,158,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,-3,1,1,20050216,SEA,GSW
-Shot Chart Detail,0020400828,328,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-13,1,0,20050227,GSW,DET
-Shot Chart Detail,0020400828,350,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,18,1,0,20050227,GSW,DET
-Shot Chart Detail,0020400834,188,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,33,1,0,20050301,MEM,GSW
-Shot Chart Detail,0020400834,191,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,12,1,1,20050301,MEM,GSW
-Shot Chart Detail,0020400834,235,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,1,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,43,1,0,20050301,MEM,GSW
-Shot Chart Detail,0020400834,408,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,56,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050301,MEM,GSW
-Shot Chart Detail,0020400834,409,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050301,MEM,GSW
-Shot Chart Detail,0020400846,110,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,35,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,46,1,1,20050302,MIN,GSW
-Shot Chart Detail,0020400846,139,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,250,1,1,20050302,MIN,GSW
-Shot Chart Detail,0020400846,150,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,58,1,0,20050302,MIN,GSW
-Shot Chart Detail,0020400855,219,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,2,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,77,1,0,20050304,WAS,GSW
-Shot Chart Detail,0020400877,429,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,49,1,1,20050306,NYK,GSW
-Shot Chart Detail,0020400877,434,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-177,38,1,0,20050306,NYK,GSW
-Shot Chart Detail,0020400886,119,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,34,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,1,20050308,PHI,GSW
-Shot Chart Detail,0020400886,121,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,0,1,0,20050308,PHI,GSW
-Shot Chart Detail,0020400898,360,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050309,DET,GSW
-Shot Chart Detail,0020400907,143,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,10,1,0,20050311,IND,GSW
-Shot Chart Detail,0020400916,433,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,56,186,1,0,20050312,ATL,GSW
-Shot Chart Detail,0020400936,189,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,36,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,191,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,209,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,122,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,300,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,6,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-80,201,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,309,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,47,Made Shot,Driving Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,51,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,319,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,210,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,344,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,346,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,225,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,395,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,61,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400936,407,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,40,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,416,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,56,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,419,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,4,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,38,1,1,20050314,GSW,HOU
-Shot Chart Detail,0020400936,429,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,3,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,63,1,0,20050314,GSW,HOU
-Shot Chart Detail,0020400956,102,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,132,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,10,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,155,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,0,20050317,GSW,SAC
-Shot Chart Detail,0020400956,310,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,36,Missed Shot,Running Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,51,1,0,20050317,GSW,SAC
-Shot Chart Detail,0020400956,311,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,321,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,169,1,1,20050317,GSW,SAC
-Shot Chart Detail,0020400956,361,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,58,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,35,1,0,20050317,GSW,SAC
-Shot Chart Detail,0020400968,90,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,1,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,148,133,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,126,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,74,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,140,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,319,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,150,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400968,354,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400968,373,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050318,PHX,GSW
-Shot Chart Detail,0020400968,380,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,222,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400968,412,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050318,PHX,GSW
-Shot Chart Detail,0020400983,74,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,3,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,64,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,87,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,114,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-197,141,1,0,20050320,SAC,GSW
-Shot Chart Detail,0020400983,137,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,248,1,0,20050320,SAC,GSW
-Shot Chart Detail,0020400983,141,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,35,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,22,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,290,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,6,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,304,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,325,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020400983,465,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-66,66,1,1,20050320,SAC,GSW
-Shot Chart Detail,0020401005,126,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,64,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,163,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,181,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,53,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,184,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,196,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,11,127,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,200,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,-19,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,202,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20050323,GSW,DAL
-Shot Chart Detail,0020401005,343,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-41,68,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401005,436,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,71,1,0,20050323,GSW,DAL
-Shot Chart Detail,0020401020,128,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,40,1,0,20050325,GSW,MIL
-Shot Chart Detail,0020401020,354,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,51,Made Shot,Turnaround Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,43,1,1,20050325,GSW,MIL
-Shot Chart Detail,0020401020,360,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20050325,GSW,MIL
-Shot Chart Detail,0020401020,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,13,1,0,20050325,GSW,MIL
-Shot Chart Detail,0020401020,411,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,135,1,0,20050325,GSW,MIL
-Shot Chart Detail,0020401047,134,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,194,1,0,20050328,GSW,NYK
-Shot Chart Detail,0020401047,152,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,58,1,0,20050328,GSW,NYK
-Shot Chart Detail,0020401047,173,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,59,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,35,1,1,20050328,GSW,NYK
-Shot Chart Detail,0020401047,358,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,45,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,36,1,1,20050328,GSW,NYK
-Shot Chart Detail,0020401058,134,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,30,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,141,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,82,233,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,165,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,188,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-5,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401058,355,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,128,1,1,20050330,MIL,GSW
-Shot Chart Detail,0020401058,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-10,189,1,1,20050330,MIL,GSW
-Shot Chart Detail,0020401058,390,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,-6,1,0,20050330,MIL,GSW
-Shot Chart Detail,0020401075,132,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,161,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,185,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,399,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401075,437,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,26,1,0,20050401,UTA,GSW
-Shot Chart Detail,0020401075,528,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,19,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-95,74,1,1,20050401,UTA,GSW
-Shot Chart Detail,0020401091,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20050403,GSW,SEA
-Shot Chart Detail,0020401091,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,-9,1,1,20050403,GSW,SEA
-Shot Chart Detail,0020401091,138,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,-3,1,0,20050403,GSW,SEA
-Shot Chart Detail,0020401091,156,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,50,Made Shot,Driving Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,35,1,1,20050403,GSW,SEA
-Shot Chart Detail,0020401091,337,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-23,1,0,20050403,GSW,SEA
-Shot Chart Detail,0020401105,120,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,219,1,1,20050405,GSW,HOU
-Shot Chart Detail,0020401105,147,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-11,1,1,20050405,GSW,HOU
-Shot Chart Detail,0020401105,241,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,10,1,0,20050405,GSW,HOU
-Shot Chart Detail,0020401105,392,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,206,1,1,20050405,GSW,HOU
-Shot Chart Detail,0020401129,431,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,201,1,1,20050408,GSW,PHX
-Shot Chart Detail,0020401129,433,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,57,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,36,1,1,20050408,GSW,PHX
-Shot Chart Detail,0020401145,176,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,220,1,1,20050410,GSW,SAS
-Shot Chart Detail,0020401145,383,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,247,1,1,20050410,GSW,SAS
-Shot Chart Detail,0020401165,142,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,118,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,304,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,13,178,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,307,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,151,1,1,20050413,MIN,GSW
-Shot Chart Detail,0020401165,316,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,135,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,328,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,52,-181,495,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050413,MIN,GSW
-Shot Chart Detail,0020401165,364,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,421,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,177,12,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,425,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,17,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401165,430,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,212,1,0,20050413,MIN,GSW
-Shot Chart Detail,0020401183,166,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-3,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,118,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,119,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,10,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,121,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,10,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,149,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,34,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,169,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,177,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,219,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,53,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,408,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-135,100,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,420,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,19,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,26,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,421,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,17,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20050415,GSW,POR
-Shot Chart Detail,0020401183,478,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,36,1,0,20050415,GSW,POR
-Shot Chart Detail,0020401183,480,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,38,1,0,20050415,GSW,POR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20400305,478,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,3,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,0,PHX,ORL
+Shot Chart Detail,20400305,514,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,0,PHX,ORL
+Shot Chart Detail,20400405,460,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,3,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20041228,0,SAS,PHX
+Shot Chart Detail,20400405,473,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,2,44,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,98,10,1,0,20041228,0,SAS,PHX
+Shot Chart Detail,20400405,477,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,2,13,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20041228,1,SAS,PHX
+Shot Chart Detail,20400405,493,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,15,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-44,72,1,0,20041228,0,SAS,PHX
+Shot Chart Detail,20400405,494,2560,Zarko Cabarkapa,1610612756,Phoenix Suns,4,0,13,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,12,1,1,20041228,0,SAS,PHX
+Shot Chart Detail,20400453,230,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,10,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,5,1,0,20050105,0,BOS,GSW
+Shot Chart Detail,20400471,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,53,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050107,1,NJN,GSW
+Shot Chart Detail,20400471,318,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,12,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,0,NJN,GSW
+Shot Chart Detail,20400471,341,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,9,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,76,1,0,20050107,0,NJN,GSW
+Shot Chart Detail,20400471,343,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050107,0,NJN,GSW
+Shot Chart Detail,20400495,109,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,44,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-148,49,1,1,20050110,1,CHI,GSW
+Shot Chart Detail,20400495,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,0,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-140,133,1,1,20050110,1,CHI,GSW
+Shot Chart Detail,20400495,342,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,126,54,1,0,20050110,0,CHI,GSW
+Shot Chart Detail,20400495,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,222,1,0,20050110,0,CHI,GSW
+Shot Chart Detail,20400495,356,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050110,0,CHI,GSW
+Shot Chart Detail,20400515,153,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,21,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,145,1,0,20050112,0,GSW,MIA
+Shot Chart Detail,20400515,346,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,35,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,0,20050112,0,GSW,MIA
+Shot Chart Detail,20400676,113,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,29,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-13,17,1,0,20050202,0,GSW,SAC
+Shot Chart Detail,20400676,128,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,36,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20050202,1,GSW,SAC
+Shot Chart Detail,20400676,149,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,128,1,0,20050202,0,GSW,SAC
+Shot Chart Detail,20400676,325,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,40,1,0,20050202,0,GSW,SAC
+Shot Chart Detail,20400676,334,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,51,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20050202,0,GSW,SAC
+Shot Chart Detail,20400676,347,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,37,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-117,130,1,0,20050202,0,GSW,SAC
+Shot Chart Detail,20400676,355,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,0,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,0,20050202,0,GSW,SAC
+Shot Chart Detail,20400688,85,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,6,Made Shot,Follow Up Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050204,0,GSW,NOH
+Shot Chart Detail,20400688,88,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,1,27,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-136,100,1,0,20050204,0,GSW,NOH
+Shot Chart Detail,20400688,171,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,40,1,0,20050204,0,GSW,NOH
+Shot Chart Detail,20400688,242,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,9,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,163,0,1,0,20050204,0,GSW,NOH
+Shot Chart Detail,20400688,247,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,8,58,Missed Shot,Driving Finger Roll Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,35,1,0,20050204,0,GSW,NOH
+Shot Chart Detail,20400688,295,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,48,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,117,1,1,20050204,1,GSW,NOH
+Shot Chart Detail,20400694,110,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,1,DEN,GSW
+Shot Chart Detail,20400694,418,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,8,7,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,0,DEN,GSW
+Shot Chart Detail,20400694,434,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,85,214,1,0,20050205,0,DEN,GSW
+Shot Chart Detail,20400694,449,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050205,0,DEN,GSW
+Shot Chart Detail,20400694,466,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,2,52,Missed Shot,Finger Roll Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050205,0,DEN,GSW
+Shot Chart Detail,20400694,471,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,45,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-79,229,1,1,20050205,1,DEN,GSW
+Shot Chart Detail,20400694,482,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,40,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,235,1,0,20050205,0,DEN,GSW
+Shot Chart Detail,20400694,484,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,33,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-112,53,1,1,20050205,1,DEN,GSW
+Shot Chart Detail,20400706,125,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,52,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-200,66,1,1,20050207,1,MIA,GSW
+Shot Chart Detail,20400706,136,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,4,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,166,143,1,1,20050207,1,MIA,GSW
+Shot Chart Detail,20400706,153,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,9,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-164,-3,1,1,20050207,1,MIA,GSW
+Shot Chart Detail,20400706,163,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,31,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,195,12,1,0,20050207,0,MIA,GSW
+Shot Chart Detail,20400706,366,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,49,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,137,1,1,20050207,1,MIA,GSW
+Shot Chart Detail,20400709,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,45,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,169,-3,1,0,20050208,0,ORL,GSW
+Shot Chart Detail,20400709,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,37,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,1,20050208,0,ORL,GSW
+Shot Chart Detail,20400709,234,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,26,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050208,0,ORL,GSW
+Shot Chart Detail,20400709,312,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,53,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-131,-3,1,1,20050208,1,ORL,GSW
+Shot Chart Detail,20400709,323,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,36,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-194,-13,1,1,20050208,1,ORL,GSW
+Shot Chart Detail,20400709,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,-8,1,0,20050208,0,ORL,GSW
+Shot Chart Detail,20400756,147,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20050213,0,GSW,PHX
+Shot Chart Detail,20400756,154,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,26,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,-13,1,0,20050213,0,GSW,PHX
+Shot Chart Detail,20400756,168,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,57,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-100,12,1,0,20050213,0,GSW,PHX
+Shot Chart Detail,20400779,158,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,39,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,182,-3,1,1,20050216,1,SEA,GSW
+Shot Chart Detail,20400828,328,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,56,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-169,-13,1,0,20050227,0,GSW,DET
+Shot Chart Detail,20400828,350,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,18,1,0,20050227,0,GSW,DET
+Shot Chart Detail,20400834,188,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,6,33,1,0,20050301,0,MEM,GSW
+Shot Chart Detail,20400834,191,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,32,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,12,1,1,20050301,1,MEM,GSW
+Shot Chart Detail,20400834,235,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,1,37,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-241,43,1,0,20050301,0,MEM,GSW
+Shot Chart Detail,20400834,408,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,56,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050301,0,MEM,GSW
+Shot Chart Detail,20400834,409,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,54,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050301,0,MEM,GSW
+Shot Chart Detail,20400846,110,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,35,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,46,1,1,20050302,0,MIN,GSW
+Shot Chart Detail,20400846,139,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,47,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-25,250,1,1,20050302,1,MIN,GSW
+Shot Chart Detail,20400846,150,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,58,1,0,20050302,0,MIN,GSW
+Shot Chart Detail,20400855,219,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,2,1,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,233,77,1,0,20050304,0,WAS,GSW
+Shot Chart Detail,20400877,429,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,18,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-202,49,1,1,20050306,1,NYK,GSW
+Shot Chart Detail,20400877,434,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-177,38,1,0,20050306,0,NYK,GSW
+Shot Chart Detail,20400886,119,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,34,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,1,20050308,0,PHI,GSW
+Shot Chart Detail,20400886,121,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,0,1,0,20050308,0,PHI,GSW
+Shot Chart Detail,20400898,360,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050309,0,DET,GSW
+Shot Chart Detail,20400907,143,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,10,1,0,20050311,0,IND,GSW
+Shot Chart Detail,20400916,433,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,3,11,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,56,186,1,0,20050312,0,ATL,GSW
+Shot Chart Detail,20400936,189,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-205,36,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,191,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,9,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,209,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,41,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-138,122,1,0,20050314,0,GSW,HOU
+Shot Chart Detail,20400936,300,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,6,35,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-80,201,1,0,20050314,0,GSW,HOU
+Shot Chart Detail,20400936,309,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,47,Made Shot,Driving Finger Roll Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,51,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,319,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,4,38,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,210,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,344,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,49,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,346,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,11,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,225,1,0,20050314,0,GSW,HOU
+Shot Chart Detail,20400936,395,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,8,34,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-48,61,1,0,20050314,0,GSW,HOU
+Shot Chart Detail,20400936,407,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,30,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,40,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,416,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,26,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,56,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,419,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,4,49,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-227,38,1,1,20050314,1,GSW,HOU
+Shot Chart Detail,20400936,429,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,3,50,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-233,63,1,0,20050314,0,GSW,HOU
+Shot Chart Detail,20400956,102,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,15,1,1,20050317,0,GSW,SAC
+Shot Chart Detail,20400956,132,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,8,10,1,1,20050317,1,GSW,SAC
+Shot Chart Detail,20400956,155,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,29,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,15,1,0,20050317,0,GSW,SAC
+Shot Chart Detail,20400956,310,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,36,Missed Shot,Running Finger Roll Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,51,1,0,20050317,0,GSW,SAC
+Shot Chart Detail,20400956,311,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050317,0,GSW,SAC
+Shot Chart Detail,20400956,321,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,41,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-118,169,1,1,20050317,1,GSW,SAC
+Shot Chart Detail,20400956,361,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,5,58,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-11,35,1,0,20050317,0,GSW,SAC
+Shot Chart Detail,20400968,90,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,1,56,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,148,133,1,1,20050318,1,PHX,GSW
+Shot Chart Detail,20400968,126,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,0,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,74,1,1,20050318,0,PHX,GSW
+Shot Chart Detail,20400968,140,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,29,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050318,0,PHX,GSW
+Shot Chart Detail,20400968,319,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,0,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,140,150,1,0,20050318,0,PHX,GSW
+Shot Chart Detail,20400968,354,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050318,0,PHX,GSW
+Shot Chart Detail,20400968,373,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050318,0,PHX,GSW
+Shot Chart Detail,20400968,380,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,34,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,222,1,0,20050318,0,PHX,GSW
+Shot Chart Detail,20400968,412,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050318,0,PHX,GSW
+Shot Chart Detail,20400983,74,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,3,1,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,64,1,1,20050320,0,SAC,GSW
+Shot Chart Detail,20400983,87,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,2,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,1,SAC,GSW
+Shot Chart Detail,20400983,114,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,6,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-197,141,1,0,20050320,0,SAC,GSW
+Shot Chart Detail,20400983,137,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,0,248,1,0,20050320,0,SAC,GSW
+Shot Chart Detail,20400983,141,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,35,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,22,1,1,20050320,0,SAC,GSW
+Shot Chart Detail,20400983,290,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,6,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,1,SAC,GSW
+Shot Chart Detail,20400983,304,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,5,6,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,1,SAC,GSW
+Shot Chart Detail,20400983,325,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,57,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050320,0,SAC,GSW
+Shot Chart Detail,20400983,465,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,6,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-66,66,1,1,20050320,1,SAC,GSW
+Shot Chart Detail,20401005,126,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,32,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-237,64,1,0,20050323,0,GSW,DAL
+Shot Chart Detail,20401005,163,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,23,20,1,1,20050323,1,GSW,DAL
+Shot Chart Detail,20401005,181,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,59,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,53,1,1,20050323,1,GSW,DAL
+Shot Chart Detail,20401005,184,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,39,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,10,1,1,20050323,1,GSW,DAL
+Shot Chart Detail,20401005,196,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,49,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,11,127,1,0,20050323,0,GSW,DAL
+Shot Chart Detail,20401005,200,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-194,-19,1,0,20050323,0,GSW,DAL
+Shot Chart Detail,20401005,202,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,3,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20050323,1,GSW,DAL
+Shot Chart Detail,20401005,343,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,3,6,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-41,68,1,0,20050323,0,GSW,DAL
+Shot Chart Detail,20401005,436,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,154,71,1,0,20050323,0,GSW,DAL
+Shot Chart Detail,20401020,128,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,11,9,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-20,40,1,0,20050325,0,GSW,MIL
+Shot Chart Detail,20401020,354,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,51,Made Shot,Turnaround Finger Roll Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,43,1,1,20050325,0,GSW,MIL
+Shot Chart Detail,20401020,360,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,3,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20050325,1,GSW,MIL
+Shot Chart Detail,20401020,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-28,13,1,0,20050325,0,GSW,MIL
+Shot Chart Detail,20401020,411,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,20,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-136,135,1,0,20050325,0,GSW,MIL
+Shot Chart Detail,20401047,134,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,194,1,0,20050328,0,GSW,NYK
+Shot Chart Detail,20401047,152,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,38,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-44,58,1,0,20050328,0,GSW,NYK
+Shot Chart Detail,20401047,173,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,59,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-16,35,1,1,20050328,0,GSW,NYK
+Shot Chart Detail,20401047,358,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,45,Made Shot,Jump Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,13,36,1,1,20050328,1,GSW,NYK
+Shot Chart Detail,20401058,134,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-39,30,1,0,20050330,0,MIL,GSW
+Shot Chart Detail,20401058,141,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,35,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,82,233,1,0,20050330,0,MIL,GSW
+Shot Chart Detail,20401058,165,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050330,0,MIL,GSW
+Shot Chart Detail,20401058,188,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,6,35,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,-5,1,0,20050330,0,MIL,GSW
+Shot Chart Detail,20401058,355,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,39,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-145,128,1,1,20050330,1,MIL,GSW
+Shot Chart Detail,20401058,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,2,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-10,189,1,1,20050330,1,MIL,GSW
+Shot Chart Detail,20401058,390,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,24,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,-6,1,0,20050330,0,MIL,GSW
+Shot Chart Detail,20401075,132,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,37,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,1,UTA,GSW
+Shot Chart Detail,20401075,161,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,19,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,0,UTA,GSW
+Shot Chart Detail,20401075,185,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,0,UTA,GSW
+Shot Chart Detail,20401075,399,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050401,0,UTA,GSW
+Shot Chart Detail,20401075,437,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,34,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,26,1,0,20050401,0,UTA,GSW
+Shot Chart Detail,20401075,528,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,19,Made Shot,Running Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-95,74,1,1,20050401,0,UTA,GSW
+Shot Chart Detail,20401091,116,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,1,0,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20050403,1,GSW,SEA
+Shot Chart Detail,20401091,131,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,31,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-176,-9,1,1,20050403,1,GSW,SEA
+Shot Chart Detail,20401091,138,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,9,38,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-145,-3,1,0,20050403,0,GSW,SEA
+Shot Chart Detail,20401091,156,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,50,Made Shot,Driving Finger Roll Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,35,1,1,20050403,1,GSW,SEA
+Shot Chart Detail,20401091,337,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-238,-23,1,0,20050403,0,GSW,SEA
+Shot Chart Detail,20401105,120,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,59,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,219,1,1,20050405,1,GSW,HOU
+Shot Chart Detail,20401105,147,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,8,21,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-11,1,1,20050405,1,GSW,HOU
+Shot Chart Detail,20401105,241,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,0,2,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,10,1,0,20050405,0,GSW,HOU
+Shot Chart Detail,20401105,392,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,54,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,8,206,1,1,20050405,1,GSW,HOU
+Shot Chart Detail,20401129,431,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,32,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,201,1,1,20050408,1,GSW,PHX
+Shot Chart Detail,20401129,433,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,57,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-61,36,1,1,20050408,1,GSW,PHX
+Shot Chart Detail,20401145,176,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,22,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,220,1,1,20050410,1,GSW,SAS
+Shot Chart Detail,20401145,383,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,11,42,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,72,247,1,1,20050410,1,GSW,SAS
+Shot Chart Detail,20401165,142,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,48,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,125,118,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,304,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,2,21,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,13,178,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,307,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,1,52,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-89,151,1,1,20050413,1,MIN,GSW
+Shot Chart Detail,20401165,316,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,135,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,328,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,3,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,52,-181,495,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,348,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,9,29,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050413,1,MIN,GSW
+Shot Chart Detail,20401165,364,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,421,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,177,12,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,425,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,17,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401165,430,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,0,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,212,1,0,20050413,0,MIN,GSW
+Shot Chart Detail,20401183,166,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,13,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-3,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,118,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,119,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,10,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,121,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,10,10,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050415,0,GSW,POR
+Shot Chart Detail,20401183,149,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,7,34,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20050415,1,GSW,POR
+Shot Chart Detail,20401183,169,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,5,23,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,20,1,1,20050415,1,GSW,POR
+Shot Chart Detail,20401183,177,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,2,4,38,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,219,1,1,20050415,1,GSW,POR
+Shot Chart Detail,20401183,379,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,10,2,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-238,53,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,408,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,7,44,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-135,100,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,420,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,19,Missed Shot,Running Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,26,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,421,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,6,17,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20050415,0,GSW,POR
+Shot Chart Detail,20401183,478,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,36,1,0,20050415,0,GSW,POR
+Shot Chart Detail,20401183,480,2560,Zarko Cabarkapa,1610612744,Golden State Warriors,4,1,7,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,38,1,0,20050415,0,GSW,POR

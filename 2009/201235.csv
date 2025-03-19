@@ -1,13 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020801166,209,201235,Courtney Sims,1610612752,New York Knicks,2,2,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090408,NYK,DET
-Shot Chart Detail,0020801166,214,201235,Courtney Sims,1610612752,New York Knicks,2,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,165,1,0,20090408,NYK,DET
-Shot Chart Detail,0020801166,222,201235,Courtney Sims,1610612752,New York Knicks,2,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,NYK,DET
-Shot Chart Detail,0020801166,381,201235,Courtney Sims,1610612752,New York Knicks,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,NYK,DET
-Shot Chart Detail,0020801166,440,201235,Courtney Sims,1610612752,New York Knicks,4,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,NYK,DET
-Shot Chart Detail,0020801166,443,201235,Courtney Sims,1610612752,New York Knicks,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,0,20090408,NYK,DET
-Shot Chart Detail,0020801166,209,201235,Courtney Sims,1610612752,New York Knicks,2,2,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090408,NYK,DET
-Shot Chart Detail,0020801166,214,201235,Courtney Sims,1610612752,New York Knicks,2,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,165,1,0,20090408,NYK,DET
-Shot Chart Detail,0020801166,222,201235,Courtney Sims,1610612752,New York Knicks,2,0,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,NYK,DET
-Shot Chart Detail,0020801166,381,201235,Courtney Sims,1610612752,New York Knicks,4,6,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,NYK,DET
-Shot Chart Detail,0020801166,440,201235,Courtney Sims,1610612752,New York Knicks,4,0,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,NYK,DET
-Shot Chart Detail,0020801166,443,201235,Courtney Sims,1610612752,New York Knicks,4,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,0,20090408,NYK,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20801166,209,201235,Courtney Sims,1610612752,New York Knicks,2,2,6,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090408,0,NYK,DET
+Shot Chart Detail,20801166,214,201235,Courtney Sims,1610612752,New York Knicks,2,1,42,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-41,165,1,0,20090408,0,NYK,DET
+Shot Chart Detail,20801166,222,201235,Courtney Sims,1610612752,New York Knicks,2,0,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,1,NYK,DET
+Shot Chart Detail,20801166,381,201235,Courtney Sims,1610612752,New York Knicks,4,6,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,1,NYK,DET
+Shot Chart Detail,20801166,440,201235,Courtney Sims,1610612752,New York Knicks,4,0,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090408,0,NYK,DET
+Shot Chart Detail,20801166,443,201235,Courtney Sims,1610612752,New York Knicks,4,0,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-27,44,1,0,20090408,0,NYK,DET

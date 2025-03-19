@@ -1,165 +1,83 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021200092,519,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,14,1,0,20121111,MEM,MIA
-Shot Chart Detail,0021200216,513,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,3,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,123,1,1,20121128,MEM,TOR
-Shot Chart Detail,0021200345,45,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,54,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,20,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,69,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,3,59,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,19,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,74,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,3,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,186,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,5,7,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,39,1,1,20121215,UTA,MEM
-Shot Chart Detail,0021200394,494,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,184,1,1,20121222,HOU,MEM
-Shot Chart Detail,0021200442,369,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,9,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20121229,MEM,DEN
-Shot Chart Detail,0021200484,369,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-10,1,1,20130104,MEM,POR
-Shot Chart Detail,0021200502,107,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,12,1,0,20130106,PHX,MEM
-Shot Chart Detail,0021200547,204,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,3,19,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200547,211,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,2,32,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,9,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200547,455,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,6,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200547,481,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,5,4,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,96,1,1,20130112,DAL,MEM
-Shot Chart Detail,0021200547,509,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,108,187,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200576,450,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20130116,SAS,MEM
-Shot Chart Detail,0021200576,453,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-8,175,1,0,20130116,SAS,MEM
-Shot Chart Detail,0021200621,66,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,37,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,12,1,0,20130123,MEM,LAL
-Shot Chart Detail,0021200637,460,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,36,1,0,20130125,MEM,BKN
-Shot Chart Detail,0021200637,462,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,159,1,0,20130125,MEM,BKN
-Shot Chart Detail,0021200910,444,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,3,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,34,1,0,20130306,PHX,TOR
-Shot Chart Detail,0021200924,112,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,58,1,0,20130308,SAC,PHX
-Shot Chart Detail,0021200924,392,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,0,20130308,SAC,PHX
-Shot Chart Detail,0021200932,197,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,55,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200932,223,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,154,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200932,245,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20130309,PHX,HOU
-Shot Chart Detail,0021200932,374,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-37,178,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200932,392,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,3,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130309,PHX,HOU
-Shot Chart Detail,0021200932,455,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,9,10,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,37,1,1,20130309,PHX,HOU
-Shot Chart Detail,0021200932,512,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,47,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200946,150,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,16,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,36,1,0,20130311,PHX,DEN
-Shot Chart Detail,0021200946,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,14,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,19,1,0,20130311,PHX,DEN
-Shot Chart Detail,0021200946,152,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200946,184,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200946,403,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,11,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200946,409,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20130311,PHX,DEN
-Shot Chart Detail,0021200946,433,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,20,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200961,231,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,44,1,0,20130313,HOU,PHX
-Shot Chart Detail,0021200961,543,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,159,1,0,20130313,HOU,PHX
-Shot Chart Detail,0021200972,96,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,14,1,0,20130315,ATL,PHX
-Shot Chart Detail,0021200972,516,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,159,1,1,20130315,ATL,PHX
-Shot Chart Detail,0021200972,540,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,39,1,0,20130315,ATL,PHX
-Shot Chart Detail,0021200972,568,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,48,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20130315,ATL,PHX
-Shot Chart Detail,0021200979,108,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20130316,WAS,PHX
-Shot Chart Detail,0021201002,85,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-60,146,1,1,20130318,PHX,LAL
-Shot Chart Detail,0021201002,171,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20130318,PHX,LAL
-Shot Chart Detail,0021201017,406,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201017,427,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201017,429,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20130320,PHX,WAS
-Shot Chart Detail,0021201017,433,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201017,525,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,16,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,146,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201031,534,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,3,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20130322,PHX,MIN
-Shot Chart Detail,0021201031,541,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20130322,PHX,MIN
-Shot Chart Detail,0021201031,551,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,1,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,28,1,1,20130322,PHX,MIN
-Shot Chart Detail,0021201031,557,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,59,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,42,1,0,20130322,PHX,MIN
-Shot Chart Detail,0021201046,27,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,8,54,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,86,1,0,20130324,PHX,BKN
-Shot Chart Detail,0021201046,412,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,9,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20130324,PHX,BKN
-Shot Chart Detail,0021201046,574,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20130324,PHX,BKN
-Shot Chart Detail,0021201073,91,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,59,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,31,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201073,118,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,1,29,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201073,120,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20130328,PHX,SAC
-Shot Chart Detail,0021201073,166,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,9,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20130328,PHX,SAC
-Shot Chart Detail,0021201073,209,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201073,200,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201092,127,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,0,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,89,1,0,20130330,PHX,IND
-Shot Chart Detail,0021201152,126,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,10,46,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,4,1,0,20130407,PHX,NOH
-Shot Chart Detail,0021201152,130,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,10,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20130407,PHX,NOH
-Shot Chart Detail,0021201152,135,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,9,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,37,1,1,20130407,PHX,NOH
-Shot Chart Detail,0021201152,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,3,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,26,1,0,20130407,PHX,NOH
-Shot Chart Detail,0021201193,376,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,189,1,0,20130413,MIN,PHX
-Shot Chart Detail,0021201227,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,8,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,402,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,1,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,415,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,0,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,77,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,472,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,7,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,97,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,478,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,3,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,498,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,4,26,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,37,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,518,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,43,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-5,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,522,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,524,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,540,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,1,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,549,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,15,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021200092,519,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,2,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,14,1,0,20121111,MEM,MIA
-Shot Chart Detail,0021200216,513,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,3,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,123,1,1,20121128,MEM,TOR
-Shot Chart Detail,0021200345,45,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,54,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,20,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,69,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,3,59,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,19,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,74,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,3,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,0,20121215,UTA,MEM
-Shot Chart Detail,0021200345,186,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,5,7,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,39,1,1,20121215,UTA,MEM
-Shot Chart Detail,0021200394,494,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,184,1,1,20121222,HOU,MEM
-Shot Chart Detail,0021200442,369,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,9,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20121229,MEM,DEN
-Shot Chart Detail,0021200484,369,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,9,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-10,1,1,20130104,MEM,POR
-Shot Chart Detail,0021200502,107,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,1,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,99,12,1,0,20130106,PHX,MEM
-Shot Chart Detail,0021200547,204,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,3,19,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200547,211,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,2,32,Missed Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,9,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200547,455,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,6,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200547,481,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,5,4,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,96,1,1,20130112,DAL,MEM
-Shot Chart Detail,0021200547,509,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,108,187,1,0,20130112,DAL,MEM
-Shot Chart Detail,0021200576,450,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20130116,SAS,MEM
-Shot Chart Detail,0021200576,453,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-8,175,1,0,20130116,SAS,MEM
-Shot Chart Detail,0021200621,66,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,37,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,12,1,0,20130123,MEM,LAL
-Shot Chart Detail,0021200637,460,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,36,1,0,20130125,MEM,BKN
-Shot Chart Detail,0021200637,462,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,159,1,0,20130125,MEM,BKN
-Shot Chart Detail,0021200910,444,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,3,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,34,1,0,20130306,PHX,TOR
-Shot Chart Detail,0021200924,112,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,0,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,58,1,0,20130308,SAC,PHX
-Shot Chart Detail,0021200924,392,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,0,20130308,SAC,PHX
-Shot Chart Detail,0021200932,197,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,55,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200932,223,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,4,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-8,154,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200932,245,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,2,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20130309,PHX,HOU
-Shot Chart Detail,0021200932,374,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-37,178,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200932,392,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,3,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130309,PHX,HOU
-Shot Chart Detail,0021200932,455,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,9,10,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,37,1,1,20130309,PHX,HOU
-Shot Chart Detail,0021200932,512,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,47,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,0,20130309,PHX,HOU
-Shot Chart Detail,0021200946,150,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,16,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,36,1,0,20130311,PHX,DEN
-Shot Chart Detail,0021200946,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,14,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,19,1,0,20130311,PHX,DEN
-Shot Chart Detail,0021200946,152,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200946,184,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200946,403,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,11,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200946,409,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20130311,PHX,DEN
-Shot Chart Detail,0021200946,433,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,20,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20130311,PHX,DEN
-Shot Chart Detail,0021200961,231,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,44,1,0,20130313,HOU,PHX
-Shot Chart Detail,0021200961,543,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-4,159,1,0,20130313,HOU,PHX
-Shot Chart Detail,0021200972,96,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,14,1,0,20130315,ATL,PHX
-Shot Chart Detail,0021200972,516,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,21,159,1,1,20130315,ATL,PHX
-Shot Chart Detail,0021200972,540,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,39,1,0,20130315,ATL,PHX
-Shot Chart Detail,0021200972,568,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,48,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20130315,ATL,PHX
-Shot Chart Detail,0021200979,108,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,34,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20130316,WAS,PHX
-Shot Chart Detail,0021201002,85,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-60,146,1,1,20130318,PHX,LAL
-Shot Chart Detail,0021201002,171,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20130318,PHX,LAL
-Shot Chart Detail,0021201017,406,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201017,427,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201017,429,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20130320,PHX,WAS
-Shot Chart Detail,0021201017,433,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,6,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201017,525,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,16,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,146,1,0,20130320,PHX,WAS
-Shot Chart Detail,0021201031,534,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,3,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20130322,PHX,MIN
-Shot Chart Detail,0021201031,541,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20130322,PHX,MIN
-Shot Chart Detail,0021201031,551,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,1,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-93,28,1,1,20130322,PHX,MIN
-Shot Chart Detail,0021201031,557,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,59,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,42,1,0,20130322,PHX,MIN
-Shot Chart Detail,0021201046,27,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,8,54,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,86,1,0,20130324,PHX,BKN
-Shot Chart Detail,0021201046,412,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,9,44,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20130324,PHX,BKN
-Shot Chart Detail,0021201046,574,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20130324,PHX,BKN
-Shot Chart Detail,0021201073,91,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,59,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,31,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201073,118,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,1,29,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201073,120,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20130328,PHX,SAC
-Shot Chart Detail,0021201073,166,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,9,20,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20130328,PHX,SAC
-Shot Chart Detail,0021201073,209,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201073,200,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,30,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,0,20130328,PHX,SAC
-Shot Chart Detail,0021201092,127,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,0,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,89,1,0,20130330,PHX,IND
-Shot Chart Detail,0021201152,126,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,10,46,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,4,1,0,20130407,PHX,NOH
-Shot Chart Detail,0021201152,130,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,10,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20130407,PHX,NOH
-Shot Chart Detail,0021201152,135,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,9,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,37,1,1,20130407,PHX,NOH
-Shot Chart Detail,0021201152,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,3,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,26,1,0,20130407,PHX,NOH
-Shot Chart Detail,0021201193,376,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,189,1,0,20130413,MIN,PHX
-Shot Chart Detail,0021201227,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,8,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,402,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,1,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,415,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,0,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,77,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,472,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,7,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,97,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,478,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,3,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,498,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,4,26,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,37,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,518,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,43,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-5,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,522,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,0,20130417,DEN,PHX
-Shot Chart Detail,0021201227,524,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,540,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,1,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20130417,DEN,PHX
-Shot Chart Detail,0021201227,549,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,15,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20130417,DEN,PHX
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21200910,444,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,3,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-34,34,1,0,20130306,0,PHX,TOR
+Shot Chart Detail,21200924,112,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,0,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,58,1,0,20130308,0,SAC,PHX
+Shot Chart Detail,21200924,392,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,8,1,0,20130308,0,SAC,PHX
+Shot Chart Detail,21200932,197,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,6,40,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,55,1,0,20130309,0,PHX,HOU
+Shot Chart Detail,21200932,223,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,4,2,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-8,154,1,0,20130309,0,PHX,HOU
+Shot Chart Detail,21200932,245,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,2,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20130309,1,PHX,HOU
+Shot Chart Detail,21200932,374,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,4,18,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-37,178,1,0,20130309,0,PHX,HOU
+Shot Chart Detail,21200932,392,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,3,27,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20130309,1,PHX,HOU
+Shot Chart Detail,21200932,455,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,9,10,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,37,1,1,20130309,1,PHX,HOU
+Shot Chart Detail,21200932,512,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,47,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,0,20130309,0,PHX,HOU
+Shot Chart Detail,21200946,150,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,16,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,10,36,1,0,20130311,0,PHX,DEN
+Shot Chart Detail,21200946,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,14,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-30,19,1,0,20130311,0,PHX,DEN
+Shot Chart Detail,21200946,152,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,11,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,1,20130311,0,PHX,DEN
+Shot Chart Detail,21200946,184,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,4,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20130311,1,PHX,DEN
+Shot Chart Detail,21200946,403,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,11,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,1,20130311,1,PHX,DEN
+Shot Chart Detail,21200946,409,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20130311,0,PHX,DEN
+Shot Chart Detail,21200946,433,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,20,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,1,1,1,20130311,0,PHX,DEN
+Shot Chart Detail,21200961,231,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,4,44,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,151,44,1,0,20130313,0,HOU,PHX
+Shot Chart Detail,21200961,543,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,23,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-4,159,1,0,20130313,0,HOU,PHX
+Shot Chart Detail,21200972,96,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-26,14,1,0,20130315,0,ATL,PHX
+Shot Chart Detail,21200972,516,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,4,31,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,21,159,1,1,20130315,0,ATL,PHX
+Shot Chart Detail,21200972,540,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,47,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,165,39,1,0,20130315,0,ATL,PHX
+Shot Chart Detail,21200972,568,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,48,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,1,20130315,0,ATL,PHX
+Shot Chart Detail,21200979,108,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,34,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,3,1,1,20130316,0,WAS,PHX
+Shot Chart Detail,21201002,85,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,3,41,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-60,146,1,1,20130318,0,PHX,LAL
+Shot Chart Detail,21201002,171,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20130318,1,PHX,LAL
+Shot Chart Detail,21201017,406,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,3,1,0,20130320,0,PHX,WAS
+Shot Chart Detail,21201017,427,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,9,1,0,20130320,0,PHX,WAS
+Shot Chart Detail,21201017,429,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20130320,0,PHX,WAS
+Shot Chart Detail,21201017,433,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,8,6,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20130320,0,PHX,WAS
+Shot Chart Detail,21201017,525,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,16,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,146,1,0,20130320,0,PHX,WAS
+Shot Chart Detail,21201031,534,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,3,4,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,1,1,1,20130322,1,PHX,MIN
+Shot Chart Detail,21201031,541,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,0,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20130322,0,PHX,MIN
+Shot Chart Detail,21201031,551,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,1,40,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-93,28,1,1,20130322,0,PHX,MIN
+Shot Chart Detail,21201031,557,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,59,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,42,1,0,20130322,0,PHX,MIN
+Shot Chart Detail,21201046,27,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,8,54,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,86,1,0,20130324,0,PHX,BKN
+Shot Chart Detail,21201046,412,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,9,44,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20130324,1,PHX,BKN
+Shot Chart Detail,21201046,574,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20130324,0,PHX,BKN
+Shot Chart Detail,21201073,91,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,2,59,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,13,31,1,0,20130328,0,PHX,SAC
+Shot Chart Detail,21201073,118,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,1,29,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,0,20130328,0,PHX,SAC
+Shot Chart Detail,21201073,120,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,1,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,0,1,1,20130328,0,PHX,SAC
+Shot Chart Detail,21201073,166,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,9,20,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20130328,1,PHX,SAC
+Shot Chart Detail,21201073,200,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,30,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,0,20130328,0,PHX,SAC
+Shot Chart Detail,21201073,209,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,30,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,0,1,0,20130328,0,PHX,SAC
+Shot Chart Detail,21201092,127,201632,Hamed Haddadi,1610612756,Phoenix Suns,1,0,17,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,89,1,0,20130330,0,PHX,IND
+Shot Chart Detail,21201152,126,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,10,46,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,4,1,0,20130407,0,PHX,NOH
+Shot Chart Detail,21201152,130,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,10,27,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,1,20130407,1,PHX,NOH
+Shot Chart Detail,21201152,135,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,9,38,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,37,1,1,20130407,0,PHX,NOH
+Shot Chart Detail,21201152,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,7,3,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,89,26,1,0,20130407,0,PHX,NOH
+Shot Chart Detail,21201193,376,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,10,47,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,75,189,1,0,20130413,0,MIN,PHX
+Shot Chart Detail,21201227,161,201632,Hamed Haddadi,1610612756,Phoenix Suns,2,8,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-17,3,1,0,20130417,0,DEN,PHX
+Shot Chart Detail,21201227,402,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,1,55,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,0,1,1,20130417,1,DEN,PHX
+Shot Chart Detail,21201227,415,201632,Hamed Haddadi,1610612756,Phoenix Suns,3,0,24,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-64,77,1,1,20130417,1,DEN,PHX
+Shot Chart Detail,21201227,472,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,7,30,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,61,97,1,1,20130417,1,DEN,PHX
+Shot Chart Detail,21201227,478,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,6,56,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-152,3,1,0,20130417,0,DEN,PHX
+Shot Chart Detail,21201227,498,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,4,26,Made Shot,Jump Bank Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,37,1,1,20130417,1,DEN,PHX
+Shot Chart Detail,21201227,518,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,43,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-5,1,0,20130417,0,DEN,PHX
+Shot Chart Detail,21201227,522,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,0,20130417,0,DEN,PHX
+Shot Chart Detail,21201227,524,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,2,15,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,1,20130417,0,DEN,PHX
+Shot Chart Detail,21201227,540,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,1,13,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,0,1,1,20130417,1,DEN,PHX
+Shot Chart Detail,21201227,549,201632,Hamed Haddadi,1610612756,Phoenix Suns,4,0,15,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,15,1,1,20130417,0,DEN,PHX
+Shot Chart Detail,21200092,519,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,2,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,14,1,0,20121111,0,MEM,MIA
+Shot Chart Detail,21200216,513,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,3,6,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,123,1,1,20121128,1,MEM,TOR
+Shot Chart Detail,21200345,45,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,0,20121215,0,UTA,MEM
+Shot Chart Detail,21200345,54,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,20,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,0,20121215,0,UTA,MEM
+Shot Chart Detail,21200345,69,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,3,59,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,19,1,0,20121215,0,UTA,MEM
+Shot Chart Detail,21200345,74,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,3,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,0,20121215,0,UTA,MEM
+Shot Chart Detail,21200345,186,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,5,7,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,39,1,1,20121215,1,UTA,MEM
+Shot Chart Detail,21200394,494,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,9,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,81,184,1,1,20121222,1,HOU,MEM
+Shot Chart Detail,21200442,369,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,9,36,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20121229,1,MEM,DEN
+Shot Chart Detail,21200484,369,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,9,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-10,1,1,20130104,1,MEM,POR
+Shot Chart Detail,21200502,107,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,1,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,99,12,1,0,20130106,0,PHX,MEM
+Shot Chart Detail,21200547,204,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,3,19,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,0,20130112,0,DAL,MEM
+Shot Chart Detail,21200547,211,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,2,2,32,Missed Shot,Driving Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,34,9,1,0,20130112,0,DAL,MEM
+Shot Chart Detail,21200547,455,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,6,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,0,20130112,0,DAL,MEM
+Shot Chart Detail,21200547,481,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,5,4,Made Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,21,96,1,1,20130112,1,DAL,MEM
+Shot Chart Detail,21200547,509,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,30,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,108,187,1,0,20130112,0,DAL,MEM
+Shot Chart Detail,21200576,450,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,58,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,1,20130116,0,SAS,MEM
+Shot Chart Detail,21200576,453,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,31,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-8,175,1,0,20130116,0,SAS,MEM
+Shot Chart Detail,21200621,66,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,1,5,37,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,12,1,0,20130123,0,MEM,LAL
+Shot Chart Detail,21200637,460,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,147,36,1,0,20130125,0,MEM,BKN
+Shot Chart Detail,21200637,462,201632,Hamed Haddadi,1610612763,Memphis Grizzlies,4,0,7,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-141,159,1,0,20130125,0,MEM,BKN

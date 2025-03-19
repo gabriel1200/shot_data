@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041900131,450,204456,T.J. McConnell,1610612754,Indiana Pacers,3,0,41,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,33,116,1,1,20200818,IND,MIA
-Shot Chart Detail,0041900131,465,204456,T.J. McConnell,1610612754,Indiana Pacers,4,11,27,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,83,43,1,0,20200818,IND,MIA
-Shot Chart Detail,0041900131,474,204456,T.J. McConnell,1610612754,Indiana Pacers,4,10,23,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,3,1,1,20200818,IND,MIA
-Shot Chart Detail,0041900131,491,204456,T.J. McConnell,1610612754,Indiana Pacers,4,8,33,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,93,93,1,0,20200818,IND,MIA
-Shot Chart Detail,0041900132,155,204456,T.J. McConnell,1610612754,Indiana Pacers,1,1,0,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,39,1,0,20200820,IND,MIA
-Shot Chart Detail,0041900132,178,204456,T.J. McConnell,1610612754,Indiana Pacers,2,11,46,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,41,1,0,20200820,IND,MIA
-Shot Chart Detail,0041900132,221,204456,T.J. McConnell,1610612754,Indiana Pacers,2,8,36,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,117,1,0,20200820,IND,MIA
-Shot Chart Detail,0041900132,522,204456,T.J. McConnell,1610612754,Indiana Pacers,4,10,0,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,32,131,1,1,20200820,IND,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41900131,450,204456,T.J. McConnell,1610612754,Indiana Pacers,3,0,41,Made Shot,Turnaround Fadeaway Bank Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,33,116,1,1,20200818,0,IND,MIA
+Shot Chart Detail,41900131,465,204456,T.J. McConnell,1610612754,Indiana Pacers,4,11,27,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,9,83,43,1,0,20200818,0,IND,MIA
+Shot Chart Detail,41900131,474,204456,T.J. McConnell,1610612754,Indiana Pacers,4,10,23,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,10,107,3,1,1,20200818,0,IND,MIA
+Shot Chart Detail,41900131,491,204456,T.J. McConnell,1610612754,Indiana Pacers,4,8,33,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,13,93,93,1,0,20200818,0,IND,MIA
+Shot Chart Detail,41900132,155,204456,T.J. McConnell,1610612754,Indiana Pacers,1,1,0,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,9,87,39,1,0,20200820,0,IND,MIA
+Shot Chart Detail,41900132,178,204456,T.J. McConnell,1610612754,Indiana Pacers,2,11,46,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,41,1,0,20200820,0,IND,MIA
+Shot Chart Detail,41900132,221,204456,T.J. McConnell,1610612754,Indiana Pacers,2,8,36,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,117,1,0,20200820,0,IND,MIA
+Shot Chart Detail,41900132,522,204456,T.J. McConnell,1610612754,Indiana Pacers,4,10,0,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,32,131,1,1,20200820,1,IND,MIA

@@ -1,15 +1,15 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021400010,502,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,1,34,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,0,20141029,NYK,CHI
-Shot Chart Detail,0021400209,76,203946,Cameron Bairstow,1610612741,Chicago Bulls,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,168,66,1,0,20141125,DEN,CHI
-Shot Chart Detail,0021400209,296,203946,Cameron Bairstow,1610612741,Chicago Bulls,3,10,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,0,20141125,DEN,CHI
-Shot Chart Detail,0021400209,302,203946,Cameron Bairstow,1610612741,Chicago Bulls,3,9,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-193,6,1,1,20141125,DEN,CHI
-Shot Chart Detail,0021400209,334,203946,Cameron Bairstow,1610612741,Chicago Bulls,3,5,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,29,162,1,0,20141125,DEN,CHI
-Shot Chart Detail,0021400320,241,203946,Cameron Bairstow,1610612741,Chicago Bulls,2,5,36,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,23,1,0,20141210,CHI,BKN
-Shot Chart Detail,0021400320,288,203946,Cameron Bairstow,1610612741,Chicago Bulls,2,1,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,0,20141210,CHI,BKN
-Shot Chart Detail,0021400320,306,203946,Cameron Bairstow,1610612741,Chicago Bulls,2,0,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,-2,1,0,20141210,CHI,BKN
-Shot Chart Detail,0021400528,500,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,182,39,1,1,20150107,CHI,UTA
-Shot Chart Detail,0021400620,545,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,23,1,0,20150119,CLE,CHI
-Shot Chart Detail,0021400637,487,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,1,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,14,1,0,20150122,CHI,SAS
-Shot Chart Detail,0021400637,494,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,0,43,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20150122,CHI,SAS
-Shot Chart Detail,0021400758,439,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,145,1,0,20150207,NOP,CHI
-Shot Chart Detail,0021400785,456,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,0,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,110,74,1,0,20150210,CHI,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21400010,502,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,1,34,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,0,20141029,0,NYK,CHI
+Shot Chart Detail,21400209,76,203946,Cameron Bairstow,1610612741,Chicago Bulls,1,3,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,168,66,1,0,20141125,0,DEN,CHI
+Shot Chart Detail,21400209,296,203946,Cameron Bairstow,1610612741,Chicago Bulls,3,10,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,0,20141125,0,DEN,CHI
+Shot Chart Detail,21400209,302,203946,Cameron Bairstow,1610612741,Chicago Bulls,3,9,34,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-193,6,1,1,20141125,1,DEN,CHI
+Shot Chart Detail,21400209,334,203946,Cameron Bairstow,1610612741,Chicago Bulls,3,5,0,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,29,162,1,0,20141125,0,DEN,CHI
+Shot Chart Detail,21400320,241,203946,Cameron Bairstow,1610612741,Chicago Bulls,2,5,36,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,23,1,0,20141210,0,CHI,BKN
+Shot Chart Detail,21400320,288,203946,Cameron Bairstow,1610612741,Chicago Bulls,2,1,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,6,1,0,20141210,0,CHI,BKN
+Shot Chart Detail,21400320,306,203946,Cameron Bairstow,1610612741,Chicago Bulls,2,0,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,170,-2,1,0,20141210,0,CHI,BKN
+Shot Chart Detail,21400528,500,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,2,22,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,182,39,1,1,20150107,1,CHI,UTA
+Shot Chart Detail,21400620,545,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,0,50,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-97,23,1,0,20150119,0,CLE,CHI
+Shot Chart Detail,21400637,487,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,1,42,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,14,1,0,20150122,0,CHI,SAS
+Shot Chart Detail,21400637,494,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,0,43,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20150122,0,CHI,SAS
+Shot Chart Detail,21400758,439,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,1,11,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,83,145,1,0,20150207,0,NOP,CHI
+Shot Chart Detail,21400785,456,203946,Cameron Bairstow,1610612741,Chicago Bulls,4,0,54,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,110,74,1,0,20150210,0,CHI,SAC

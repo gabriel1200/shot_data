@@ -1,327 +1,164 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020900002,435,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,228,1,0,20091027,DAL,WAS
-Shot Chart Detail,0020900002,455,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,194,1,0,20091027,DAL,WAS
-Shot Chart Detail,0020900021,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20091030,ATL,WAS
-Shot Chart Detail,0020900032,116,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,164,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,170,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,263,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,379,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,118,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,411,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,118,1,0,20091031,WAS,NJN
-Shot Chart Detail,0020900032,451,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,187,1,0,20091031,WAS,NJN
-Shot Chart Detail,0020900051,175,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,8,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,25,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900051,207,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,222,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900051,466,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,203,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900051,509,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,4,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,201,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900062,135,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,149,1,0,20091104,WAS,MIA
-Shot Chart Detail,0020900062,294,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,6,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-11,1,0,20091104,WAS,MIA
-Shot Chart Detail,0020900062,298,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,5,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,168,1,0,20091104,WAS,MIA
-Shot Chart Detail,0020900073,149,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,10,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20091106,IND,WAS
-Shot Chart Detail,0020900073,366,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,268,1,0,20091106,IND,WAS
-Shot Chart Detail,0020900073,427,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,36,1,0,20091106,IND,WAS
-Shot Chart Detail,0020900093,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-175,55,1,1,20091108,WAS,PHX
-Shot Chart Detail,0020900093,81,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-193,83,1,0,20091108,WAS,PHX
-Shot Chart Detail,0020900093,107,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,0,20091108,WAS,PHX
-Shot Chart Detail,0020900093,181,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20091108,WAS,PHX
-Shot Chart Detail,0020900093,407,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,187,148,1,0,20091108,WAS,PHX
-Shot Chart Detail,0020900104,47,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,146,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,189,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091110,MIA,WAS
-Shot Chart Detail,0020900104,251,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,121,1,1,20091110,MIA,WAS
-Shot Chart Detail,0020900104,253,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-193,146,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,307,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,121,1,1,20091110,MIA,WAS
-Shot Chart Detail,0020900104,355,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,0,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,47,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,444,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,449,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,194,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900136,150,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-19,208,1,1,20091114,WAS,DET
-Shot Chart Detail,0020900136,397,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,-13,1,0,20091114,WAS,DET
-Shot Chart Detail,0020900188,250,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,181,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,463,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,6,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,224,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,478,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,129,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,506,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,184,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900234,52,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,5,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-25,1,0,20091128,WAS,CHA
-Shot Chart Detail,0020900293,32,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-150,113,1,0,20091206,DET,WAS
-Shot Chart Detail,0020900318,357,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-139,108,1,0,20091210,WAS,BOS
-Shot Chart Detail,0020900318,400,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,37,-7,373,1,0,20091210,WAS,BOS
-Shot Chart Detail,0020900318,411,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-2,1,1,20091210,WAS,BOS
-Shot Chart Detail,0020900318,502,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,-25,1,0,20091210,WAS,BOS
-Shot Chart Detail,0020900331,33,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-239,108,1,0,20091212,WAS,IND
-Shot Chart Detail,0020900331,79,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,113,1,1,20091212,WAS,IND
-Shot Chart Detail,0020900331,244,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,55,1,0,20091212,WAS,IND
-Shot Chart Detail,0020900350,19,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091214,LAC,WAS
-Shot Chart Detail,0020900350,274,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,186,1,0,20091214,LAC,WAS
-Shot Chart Detail,0020900350,393,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,31,1,0,20091214,LAC,WAS
-Shot Chart Detail,0020900368,4,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,20,1,0,20091216,SAC,WAS
-Shot Chart Detail,0020900368,77,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20091216,SAC,WAS
-Shot Chart Detail,0020900368,249,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-160,178,1,0,20091216,SAC,WAS
-Shot Chart Detail,0020900383,21,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,10,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,142,1,0,20091218,GSW,WAS
-Shot Chart Detail,0020900383,278,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,198,1,0,20091218,GSW,WAS
-Shot Chart Detail,0020900383,293,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,162,220,1,0,20091218,GSW,WAS
-Shot Chart Detail,0020900392,28,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,75,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900392,57,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,149,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900392,280,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900392,293,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,22,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900500,419,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20100105,PHI,WAS
-Shot Chart Detail,0020900508,212,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,17,1,1,20100106,CLE,WAS
-Shot Chart Detail,0020900508,410,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,108,1,0,20100106,CLE,WAS
-Shot Chart Detail,0020900554,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,0,20100112,WAS,DET
-Shot Chart Detail,0020900554,111,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,0,20100112,WAS,DET
-Shot Chart Detail,0020900558,260,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,93,1,1,20100113,ATL,WAS
-Shot Chart Detail,0020900558,375,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,11,1,0,20100113,ATL,WAS
-Shot Chart Detail,0020900574,14,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,11,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,36,1,0,20100115,CHI,WAS
-Shot Chart Detail,0020900574,22,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,201,1,1,20100115,CHI,WAS
-Shot Chart Detail,0020900574,200,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,0,20100115,CHI,WAS
-Shot Chart Detail,0020900574,490,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,1,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-3,1,1,20100115,CHI,WAS
-Shot Chart Detail,0020900586,257,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-187,72,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900586,262,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,194,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900586,275,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-185,110,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900586,286,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,159,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900595,22,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,1,1,0,20100118,WAS,POR
-Shot Chart Detail,0020900595,208,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,0,20100118,WAS,POR
-Shot Chart Detail,0020900612,21,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,-17,1,0,20100120,WAS,DAL
-Shot Chart Detail,0020900612,43,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,104,1,0,20100120,WAS,DAL
-Shot Chart Detail,0020900612,268,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-22,1,0,20100120,WAS,DAL
-Shot Chart Detail,0020900626,41,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,141,194,1,0,20100122,WAS,MIA
-Shot Chart Detail,0020900647,8,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,58,1,1,20100124,WAS,LAC
-Shot Chart Detail,0020900647,39,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,30,1,1,20100124,WAS,LAC
-Shot Chart Detail,0020900647,56,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,134,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,60,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,44,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,260,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,262,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-16,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,294,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,28,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900658,80,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,195,1,1,20100126,WAS,LAL
-Shot Chart Detail,0020900658,82,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,185,167,1,1,20100126,WAS,LAL
-Shot Chart Detail,0020900658,98,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-8,1,0,20100126,WAS,LAL
-Shot Chart Detail,0020900658,317,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-232,121,1,0,20100126,WAS,LAL
-Shot Chart Detail,0020900658,360,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-10,1,1,20100126,WAS,LAL
-Shot Chart Detail,0020900658,387,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,53,1,0,20100126,WAS,LAL
-Shot Chart Detail,0020900682,81,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,217,1,0,20100129,NJN,WAS
-Shot Chart Detail,0020900682,107,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,54,197,1,1,20100129,NJN,WAS
-Shot Chart Detail,0020900682,135,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,265,1,0,20100129,NJN,WAS
-Shot Chart Detail,0020900721,35,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,129,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900721,57,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,62,242,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900721,191,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,80,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900721,250,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,5,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,42,190,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900758,192,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-64,194,1,0,20100209,CHA,WAS
-Shot Chart Detail,0020900758,199,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,4,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20100209,CHA,WAS
-Shot Chart Detail,0020900786,547,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,149,101,1,0,20100216,OKC,DAL
-Shot Chart Detail,0020900834,149,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,173,1,1,20100222,DAL,IND
-Shot Chart Detail,0020900834,171,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,11,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,0,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900834,207,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,64,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900834,218,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,39,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,67,198,1,1,20100222,DAL,IND
-Shot Chart Detail,0020900834,269,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,2,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,4,1,1,20100222,DAL,IND
-Shot Chart Detail,0020900834,458,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,171,107,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900834,505,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,176,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900852,10,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,9,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,190,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900852,39,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,DAL,LAL
-Shot Chart Detail,0020900852,41,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900852,56,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,3,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,213,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900852,344,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,11,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900861,7,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-2,1,1,20100226,ATL,DAL
-Shot Chart Detail,0020900861,134,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,26,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900861,136,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900861,181,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,2,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900861,235,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,9,27,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,37,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900885,333,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,131,1,0,20100228,DAL,NOH
-Shot Chart Detail,0020900906,124,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,0,20100303,DAL,MIN
-Shot Chart Detail,0020900921,54,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,4,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900921,70,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,189,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900921,83,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,1,20100305,DAL,SAC
-Shot Chart Detail,0020900921,91,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,73,197,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900921,396,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100305,DAL,SAC
-Shot Chart Detail,0020900921,398,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,137,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900928,141,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-3,1,1,20100306,CHI,DAL
-Shot Chart Detail,0020900928,346,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,94,1,1,20100306,CHI,DAL
-Shot Chart Detail,0020900928,367,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,8,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-5,1,0,20100306,CHI,DAL
-Shot Chart Detail,0020900943,108,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20100308,MIN,DAL
-Shot Chart Detail,0020900943,172,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100308,MIN,DAL
-Shot Chart Detail,0020900959,144,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100310,DAL,NJN
-Shot Chart Detail,0020900959,163,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,175,1,0,20100310,DAL,NJN
-Shot Chart Detail,0020900959,405,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-114,148,1,1,20100310,DAL,NJN
-Shot Chart Detail,0020900979,161,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-101,167,1,0,20100313,DAL,NYK
-Shot Chart Detail,0020900979,460,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,2,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-243,69,1,0,20100313,DAL,NYK
-Shot Chart Detail,0020901011,139,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,97,1,0,20100317,DAL,CHI
-Shot Chart Detail,0020901056,287,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,91,165,1,0,20100323,DAL,LAC
-Shot Chart Detail,0020901070,451,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,219,1,0,20100325,POR,DAL
-Shot Chart Detail,0020901086,403,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,181,1,0,20100327,GSW,DAL
-Shot Chart Detail,0020901086,416,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,173,1,0,20100327,GSW,DAL
-Shot Chart Detail,0020901086,495,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,252,1,0,20100327,GSW,DAL
-Shot Chart Detail,0020901100,501,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,33,1,0,20100329,DAL,DEN
-Shot Chart Detail,0020901100,507,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,185,107,1,0,20100329,DAL,DEN
-Shot Chart Detail,0020901167,36,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,7,1,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901167,48,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-174,94,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901167,273,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,11,26,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901167,474,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,168,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901186,314,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,6,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,15,1,0,20100409,POR,DAL
-Shot Chart Detail,0020901193,32,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,7,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,17,1,0,20100410,SAC,DAL
-Shot Chart Detail,0020901193,144,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-147,115,1,0,20100410,SAC,DAL
-Shot Chart Detail,0020901193,271,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,1,20100410,SAC,DAL
-Shot Chart Detail,0020901193,499,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,45,1,1,20100410,SAC,DAL
-Shot Chart Detail,0020901212,113,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,349,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,86,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,379,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,10,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,45,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,384,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,8,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,4,1,0,20100412,LAC,DAL
-Shot Chart Detail,0020901212,429,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,151,1,0,20100412,LAC,DAL
-Shot Chart Detail,0020901212,433,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,216,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,435,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,195,1,0,20100412,LAC,DAL
-Shot Chart Detail,0020900002,435,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,228,1,0,20091027,DAL,WAS
-Shot Chart Detail,0020900002,455,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,7,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,194,1,0,20091027,DAL,WAS
-Shot Chart Detail,0020900021,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20091030,ATL,WAS
-Shot Chart Detail,0020900032,116,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,164,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,170,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,40,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,263,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,379,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,118,1,1,20091031,WAS,NJN
-Shot Chart Detail,0020900032,411,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,118,1,0,20091031,WAS,NJN
-Shot Chart Detail,0020900032,451,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,187,1,0,20091031,WAS,NJN
-Shot Chart Detail,0020900051,175,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,8,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,25,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900051,207,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,6,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,222,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900051,466,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,203,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900051,509,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,4,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,201,1,0,20091103,CLE,WAS
-Shot Chart Detail,0020900062,135,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,149,1,0,20091104,WAS,MIA
-Shot Chart Detail,0020900062,294,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,6,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-11,1,0,20091104,WAS,MIA
-Shot Chart Detail,0020900062,298,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,5,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,168,1,0,20091104,WAS,MIA
-Shot Chart Detail,0020900073,149,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,10,46,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20091106,IND,WAS
-Shot Chart Detail,0020900073,366,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,268,1,0,20091106,IND,WAS
-Shot Chart Detail,0020900073,427,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,36,1,0,20091106,IND,WAS
-Shot Chart Detail,0020900093,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-175,55,1,1,20091108,WAS,PHX
-Shot Chart Detail,0020900093,81,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-193,83,1,0,20091108,WAS,PHX
-Shot Chart Detail,0020900093,107,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,0,20091108,WAS,PHX
-Shot Chart Detail,0020900093,181,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20091108,WAS,PHX
-Shot Chart Detail,0020900093,407,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,187,148,1,0,20091108,WAS,PHX
-Shot Chart Detail,0020900104,47,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,146,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,189,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091110,MIA,WAS
-Shot Chart Detail,0020900104,251,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,121,1,1,20091110,MIA,WAS
-Shot Chart Detail,0020900104,253,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-193,146,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,307,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,121,1,1,20091110,MIA,WAS
-Shot Chart Detail,0020900104,355,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,0,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,47,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,444,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900104,449,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,194,1,0,20091110,MIA,WAS
-Shot Chart Detail,0020900136,150,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,8,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-19,208,1,1,20091114,WAS,DET
-Shot Chart Detail,0020900136,397,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,-13,1,0,20091114,WAS,DET
-Shot Chart Detail,0020900188,250,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,181,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,463,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,6,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,224,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,478,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,129,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900188,506,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,184,1,0,20091121,SAS,WAS
-Shot Chart Detail,0020900234,52,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,5,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,-25,1,0,20091128,WAS,CHA
-Shot Chart Detail,0020900293,32,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-150,113,1,0,20091206,DET,WAS
-Shot Chart Detail,0020900318,357,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-139,108,1,0,20091210,WAS,BOS
-Shot Chart Detail,0020900318,400,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,37,-7,373,1,0,20091210,WAS,BOS
-Shot Chart Detail,0020900318,411,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-2,1,1,20091210,WAS,BOS
-Shot Chart Detail,0020900318,502,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,-25,1,0,20091210,WAS,BOS
-Shot Chart Detail,0020900331,33,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-239,108,1,0,20091212,WAS,IND
-Shot Chart Detail,0020900331,79,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-163,113,1,1,20091212,WAS,IND
-Shot Chart Detail,0020900331,244,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,55,1,0,20091212,WAS,IND
-Shot Chart Detail,0020900350,19,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091214,LAC,WAS
-Shot Chart Detail,0020900350,274,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,186,1,0,20091214,LAC,WAS
-Shot Chart Detail,0020900350,393,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,31,1,0,20091214,LAC,WAS
-Shot Chart Detail,0020900368,4,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,20,1,0,20091216,SAC,WAS
-Shot Chart Detail,0020900368,77,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,35,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20091216,SAC,WAS
-Shot Chart Detail,0020900368,249,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-160,178,1,0,20091216,SAC,WAS
-Shot Chart Detail,0020900383,21,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,10,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,142,1,0,20091218,GSW,WAS
-Shot Chart Detail,0020900383,278,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,198,1,0,20091218,GSW,WAS
-Shot Chart Detail,0020900383,293,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,162,220,1,0,20091218,GSW,WAS
-Shot Chart Detail,0020900392,28,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-183,75,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900392,57,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,149,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900392,280,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900392,293,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,22,1,0,20091219,PHX,WAS
-Shot Chart Detail,0020900500,419,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20100105,PHI,WAS
-Shot Chart Detail,0020900508,212,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,17,1,1,20100106,CLE,WAS
-Shot Chart Detail,0020900508,410,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,108,1,0,20100106,CLE,WAS
-Shot Chart Detail,0020900554,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,0,20100112,WAS,DET
-Shot Chart Detail,0020900554,111,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,0,20100112,WAS,DET
-Shot Chart Detail,0020900558,260,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,93,1,1,20100113,ATL,WAS
-Shot Chart Detail,0020900558,375,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,11,1,0,20100113,ATL,WAS
-Shot Chart Detail,0020900574,14,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,11,0,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,36,1,0,20100115,CHI,WAS
-Shot Chart Detail,0020900574,22,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,201,1,1,20100115,CHI,WAS
-Shot Chart Detail,0020900574,200,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,0,20100115,CHI,WAS
-Shot Chart Detail,0020900574,490,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,1,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-3,1,1,20100115,CHI,WAS
-Shot Chart Detail,0020900586,257,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-187,72,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900586,262,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,194,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900586,275,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-185,110,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900586,286,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,9,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,159,1,1,20100116,WAS,SAC
-Shot Chart Detail,0020900595,22,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,1,1,0,20100118,WAS,POR
-Shot Chart Detail,0020900595,208,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,0,20100118,WAS,POR
-Shot Chart Detail,0020900612,21,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,2,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,-17,1,0,20100120,WAS,DAL
-Shot Chart Detail,0020900612,43,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,104,1,0,20100120,WAS,DAL
-Shot Chart Detail,0020900612,268,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-22,1,0,20100120,WAS,DAL
-Shot Chart Detail,0020900626,41,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,141,194,1,0,20100122,WAS,MIA
-Shot Chart Detail,0020900647,8,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,10,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,176,58,1,1,20100124,WAS,LAC
-Shot Chart Detail,0020900647,39,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,195,30,1,1,20100124,WAS,LAC
-Shot Chart Detail,0020900647,56,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,134,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,60,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,44,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,260,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,262,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,9,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-16,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900647,294,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,7,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,28,1,0,20100124,WAS,LAC
-Shot Chart Detail,0020900658,80,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-5,195,1,1,20100126,WAS,LAL
-Shot Chart Detail,0020900658,82,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,185,167,1,1,20100126,WAS,LAL
-Shot Chart Detail,0020900658,98,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-8,1,0,20100126,WAS,LAL
-Shot Chart Detail,0020900658,317,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,1,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-232,121,1,0,20100126,WAS,LAL
-Shot Chart Detail,0020900658,360,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-10,1,1,20100126,WAS,LAL
-Shot Chart Detail,0020900658,387,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,7,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,53,1,0,20100126,WAS,LAL
-Shot Chart Detail,0020900682,81,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,217,1,0,20100129,NJN,WAS
-Shot Chart Detail,0020900682,107,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,10,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,54,197,1,1,20100129,NJN,WAS
-Shot Chart Detail,0020900682,135,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,265,1,0,20100129,NJN,WAS
-Shot Chart Detail,0020900721,35,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,129,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900721,57,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,62,242,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900721,191,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,80,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900721,250,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,5,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,42,190,1,0,20100203,NYK,WAS
-Shot Chart Detail,0020900758,192,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-64,194,1,0,20100209,CHA,WAS
-Shot Chart Detail,0020900758,199,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,4,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20100209,CHA,WAS
-Shot Chart Detail,0020900786,547,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,149,101,1,0,20100216,OKC,DAL
-Shot Chart Detail,0020900834,149,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,173,1,1,20100222,DAL,IND
-Shot Chart Detail,0020900834,171,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,11,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,0,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900834,207,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,64,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900834,218,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,39,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,67,198,1,1,20100222,DAL,IND
-Shot Chart Detail,0020900834,269,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,2,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,4,1,1,20100222,DAL,IND
-Shot Chart Detail,0020900834,458,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,171,107,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900834,505,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,176,1,0,20100222,DAL,IND
-Shot Chart Detail,0020900852,10,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,9,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,190,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900852,39,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,DAL,LAL
-Shot Chart Detail,0020900852,41,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,12,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900852,56,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,3,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,213,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900852,344,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,11,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,0,20100224,DAL,LAL
-Shot Chart Detail,0020900861,7,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,10,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-2,1,1,20100226,ATL,DAL
-Shot Chart Detail,0020900861,134,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,26,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900861,136,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900861,181,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,2,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900861,235,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,9,27,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,185,37,1,0,20100226,ATL,DAL
-Shot Chart Detail,0020900885,333,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,131,1,0,20100228,DAL,NOH
-Shot Chart Detail,0020900906,124,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,0,20100303,DAL,MIN
-Shot Chart Detail,0020900921,54,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,4,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900921,70,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,189,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900921,83,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,1,20100305,DAL,SAC
-Shot Chart Detail,0020900921,91,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,73,197,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900921,396,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,29,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100305,DAL,SAC
-Shot Chart Detail,0020900921,398,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,137,1,0,20100305,DAL,SAC
-Shot Chart Detail,0020900928,141,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-3,1,1,20100306,CHI,DAL
-Shot Chart Detail,0020900928,346,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,94,1,1,20100306,CHI,DAL
-Shot Chart Detail,0020900928,367,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,8,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-5,1,0,20100306,CHI,DAL
-Shot Chart Detail,0020900943,108,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20100308,MIN,DAL
-Shot Chart Detail,0020900943,172,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,56,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100308,MIN,DAL
-Shot Chart Detail,0020900959,144,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100310,DAL,NJN
-Shot Chart Detail,0020900959,163,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-54,175,1,0,20100310,DAL,NJN
-Shot Chart Detail,0020900959,405,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,11,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-114,148,1,1,20100310,DAL,NJN
-Shot Chart Detail,0020900979,161,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-101,167,1,0,20100313,DAL,NYK
-Shot Chart Detail,0020900979,460,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,2,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-243,69,1,0,20100313,DAL,NYK
-Shot Chart Detail,0020901011,139,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,97,1,0,20100317,DAL,CHI
-Shot Chart Detail,0020901056,287,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,91,165,1,0,20100323,DAL,LAC
-Shot Chart Detail,0020901070,451,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,219,1,0,20100325,POR,DAL
-Shot Chart Detail,0020901086,403,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,181,1,0,20100327,GSW,DAL
-Shot Chart Detail,0020901086,416,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,173,1,0,20100327,GSW,DAL
-Shot Chart Detail,0020901086,495,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,252,1,0,20100327,GSW,DAL
-Shot Chart Detail,0020901100,501,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,33,1,0,20100329,DAL,DEN
-Shot Chart Detail,0020901100,507,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,185,107,1,0,20100329,DAL,DEN
-Shot Chart Detail,0020901167,36,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,7,1,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901167,48,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-174,94,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901167,273,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,11,26,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901167,474,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,168,1,0,20100407,DAL,MEM
-Shot Chart Detail,0020901186,314,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,6,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,15,1,0,20100409,POR,DAL
-Shot Chart Detail,0020901193,32,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,7,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,17,1,0,20100410,SAC,DAL
-Shot Chart Detail,0020901193,144,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,9,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-147,115,1,0,20100410,SAC,DAL
-Shot Chart Detail,0020901193,271,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,10,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,1,20100410,SAC,DAL
-Shot Chart Detail,0020901193,499,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,45,1,1,20100410,SAC,DAL
-Shot Chart Detail,0020901212,113,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,349,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,151,86,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,379,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,10,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,45,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,384,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,8,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,4,1,0,20100412,LAC,DAL
-Shot Chart Detail,0020901212,429,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,4,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,151,1,0,20100412,LAC,DAL
-Shot Chart Detail,0020901212,433,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,216,1,1,20100412,LAC,DAL
-Shot Chart Detail,0020901212,435,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,195,1,0,20100412,LAC,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20900786,547,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,149,101,1,0,20100216,0,OKC,DAL
+Shot Chart Detail,20900834,149,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,27,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-84,173,1,1,20100222,0,DAL,IND
+Shot Chart Detail,20900834,171,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,11,24,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,0,1,0,20100222,0,DAL,IND
+Shot Chart Detail,20900834,207,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,25,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,64,1,0,20100222,0,DAL,IND
+Shot Chart Detail,20900834,218,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,39,Made Shot,Floating Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,67,198,1,1,20100222,1,DAL,IND
+Shot Chart Detail,20900834,269,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,2,14,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,4,1,1,20100222,1,DAL,IND
+Shot Chart Detail,20900834,458,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,42,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,171,107,1,0,20100222,0,DAL,IND
+Shot Chart Detail,20900834,505,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,31,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,105,176,1,0,20100222,0,DAL,IND
+Shot Chart Detail,20900852,10,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,9,51,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,190,1,0,20100224,0,DAL,LAL
+Shot Chart Detail,20900852,39,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,46,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100224,1,DAL,LAL
+Shot Chart Detail,20900852,41,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,12,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100224,0,DAL,LAL
+Shot Chart Detail,20900852,56,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,3,9,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,213,1,0,20100224,0,DAL,LAL
+Shot Chart Detail,20900852,344,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,11,42,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,11,1,0,20100224,0,DAL,LAL
+Shot Chart Detail,20900861,7,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,10,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,-2,1,1,20100226,1,ATL,DAL
+Shot Chart Detail,20900861,134,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,31,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,237,26,1,0,20100226,0,ATL,DAL
+Shot Chart Detail,20900861,136,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100226,0,ATL,DAL
+Shot Chart Detail,20900861,181,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,2,59,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-3,1,0,20100226,0,ATL,DAL
+Shot Chart Detail,20900861,235,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,9,27,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,185,37,1,0,20100226,0,ATL,DAL
+Shot Chart Detail,20900885,333,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,0,50,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,131,1,0,20100228,0,DAL,NOH
+Shot Chart Detail,20900906,124,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-229,30,1,0,20100303,0,DAL,MIN
+Shot Chart Detail,20900921,54,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,4,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100305,0,DAL,SAC
+Shot Chart Detail,20900921,70,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,2,10,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,189,1,0,20100305,0,DAL,SAC
+Shot Chart Detail,20900921,83,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,1,1,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,6,1,1,20100305,1,DAL,SAC
+Shot Chart Detail,20900921,91,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,25,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,73,197,1,0,20100305,0,DAL,SAC
+Shot Chart Detail,20900921,396,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,29,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100305,1,DAL,SAC
+Shot Chart Detail,20900921,398,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,200,137,1,0,20100305,0,DAL,SAC
+Shot Chart Detail,20900928,141,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,0,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,237,-3,1,1,20100306,1,CHI,DAL
+Shot Chart Detail,20900928,346,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,10,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,166,94,1,1,20100306,1,CHI,DAL
+Shot Chart Detail,20900928,367,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,8,14,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-5,1,0,20100306,0,CHI,DAL
+Shot Chart Detail,20900943,108,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,0,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20100308,0,MIN,DAL
+Shot Chart Detail,20900943,172,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,56,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20100308,1,MIN,DAL
+Shot Chart Detail,20900959,144,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,50,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100310,0,DAL,NJN
+Shot Chart Detail,20900959,163,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,7,2,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-54,175,1,0,20100310,0,DAL,NJN
+Shot Chart Detail,20900959,405,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,11,27,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-114,148,1,1,20100310,1,DAL,NJN
+Shot Chart Detail,20900979,161,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,8,23,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-101,167,1,0,20100313,0,DAL,NYK
+Shot Chart Detail,20900979,460,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,2,20,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,25,-243,69,1,0,20100313,0,DAL,NYK
+Shot Chart Detail,20901011,139,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,9,40,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,234,97,1,0,20100317,0,DAL,CHI
+Shot Chart Detail,20901056,287,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,9,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,91,165,1,0,20100323,0,DAL,LAC
+Shot Chart Detail,20901070,451,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,219,1,0,20100325,0,POR,DAL
+Shot Chart Detail,20901086,403,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,7,53,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,97,181,1,0,20100327,0,GSW,DAL
+Shot Chart Detail,20901086,416,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,6,59,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,108,173,1,0,20100327,0,GSW,DAL
+Shot Chart Detail,20901086,495,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-4,252,1,0,20100327,0,GSW,DAL
+Shot Chart Detail,20901100,501,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,26,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,147,33,1,0,20100329,0,DAL,DEN
+Shot Chart Detail,20901100,507,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,0,45,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,185,107,1,0,20100329,0,DAL,DEN
+Shot Chart Detail,20901167,36,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,7,1,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100407,0,DAL,MEM
+Shot Chart Detail,20901167,48,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,5,55,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-174,94,1,0,20100407,0,DAL,MEM
+Shot Chart Detail,20901167,273,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,11,26,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20100407,0,DAL,MEM
+Shot Chart Detail,20901167,474,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,1,49,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,114,168,1,0,20100407,0,DAL,MEM
+Shot Chart Detail,20901186,314,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,6,36,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,15,1,0,20100409,0,POR,DAL
+Shot Chart Detail,20901193,32,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,7,1,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,17,1,0,20100410,0,SAC,DAL
+Shot Chart Detail,20901193,144,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,2,9,42,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-147,115,1,0,20100410,0,SAC,DAL
+Shot Chart Detail,20901193,271,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,10,17,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,20,1,1,20100410,1,SAC,DAL
+Shot Chart Detail,20901193,499,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,46,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,45,1,1,20100410,1,SAC,DAL
+Shot Chart Detail,20901212,113,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,1,1,2,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,183,1,1,20100412,1,LAC,DAL
+Shot Chart Detail,20901212,349,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,3,1,28,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,151,86,1,1,20100412,1,LAC,DAL
+Shot Chart Detail,20901212,379,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,10,4,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,45,1,1,20100412,1,LAC,DAL
+Shot Chart Detail,20901212,384,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,8,54,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,4,1,0,20100412,0,LAC,DAL
+Shot Chart Detail,20901212,429,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,4,56,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,151,1,0,20100412,0,LAC,DAL
+Shot Chart Detail,20901212,433,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,4,29,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,216,1,1,20100412,1,LAC,DAL
+Shot Chart Detail,20901212,435,2052,DeShawn Stevenson,1610612742,Dallas Mavericks,4,3,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,195,1,0,20100412,0,LAC,DAL
+Shot Chart Detail,20900002,435,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,21,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-97,228,1,0,20091027,0,DAL,WAS
+Shot Chart Detail,20900002,455,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,7,37,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,100,194,1,0,20091027,0,DAL,WAS
+Shot Chart Detail,20900021,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,3,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20091030,1,ATL,WAS
+Shot Chart Detail,20900032,116,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,34,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,164,1,1,20091031,1,WAS,NJN
+Shot Chart Detail,20900032,170,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,40,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20091031,0,WAS,NJN
+Shot Chart Detail,20900032,263,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,1,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20091031,0,WAS,NJN
+Shot Chart Detail,20900032,379,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,1,33,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,118,1,1,20091031,1,WAS,NJN
+Shot Chart Detail,20900032,411,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,217,118,1,0,20091031,0,WAS,NJN
+Shot Chart Detail,20900032,451,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,6,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,173,187,1,0,20091031,0,WAS,NJN
+Shot Chart Detail,20900051,175,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,8,23,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,25,1,0,20091103,0,CLE,WAS
+Shot Chart Detail,20900051,207,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,6,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,222,1,0,20091103,0,CLE,WAS
+Shot Chart Detail,20900051,466,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,7,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,203,1,0,20091103,0,CLE,WAS
+Shot Chart Detail,20900051,509,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,4,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,201,1,0,20091103,0,CLE,WAS
+Shot Chart Detail,20900062,135,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,22,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,196,149,1,0,20091104,0,WAS,MIA
+Shot Chart Detail,20900062,294,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,6,3,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,-11,1,0,20091104,0,WAS,MIA
+Shot Chart Detail,20900062,298,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,5,35,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,168,1,0,20091104,0,WAS,MIA
+Shot Chart Detail,20900073,149,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,10,46,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20091106,0,IND,WAS
+Shot Chart Detail,20900073,366,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,3,38,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,9,268,1,0,20091106,0,IND,WAS
+Shot Chart Detail,20900073,427,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,49,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-242,36,1,0,20091106,0,IND,WAS
+Shot Chart Detail,20900093,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-175,55,1,1,20091108,1,WAS,PHX
+Shot Chart Detail,20900093,81,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-193,83,1,0,20091108,0,WAS,PHX
+Shot Chart Detail,20900093,107,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,0,20091108,0,WAS,PHX
+Shot Chart Detail,20900093,181,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,6,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20091108,1,WAS,PHX
+Shot Chart Detail,20900093,407,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,187,148,1,0,20091108,0,WAS,PHX
+Shot Chart Detail,20900104,47,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,5,13,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-86,146,1,0,20091110,0,MIA,WAS
+Shot Chart Detail,20900104,189,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091110,0,MIA,WAS
+Shot Chart Detail,20900104,251,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,43,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,121,1,1,20091110,1,MIA,WAS
+Shot Chart Detail,20900104,253,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-193,146,1,0,20091110,0,MIA,WAS
+Shot Chart Detail,20900104,307,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,4,32,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,121,1,1,20091110,0,MIA,WAS
+Shot Chart Detail,20900104,355,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,0,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,65,47,1,0,20091110,0,MIA,WAS
+Shot Chart Detail,20900104,444,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,52,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,0,20091110,0,MIA,WAS
+Shot Chart Detail,20900104,449,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,18,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,194,1,0,20091110,0,MIA,WAS
+Shot Chart Detail,20900136,150,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,8,48,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-19,208,1,1,20091114,1,WAS,DET
+Shot Chart Detail,20900136,397,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-246,-13,1,0,20091114,0,WAS,DET
+Shot Chart Detail,20900188,250,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,26,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,181,1,0,20091121,0,SAS,WAS
+Shot Chart Detail,20900188,463,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,6,2,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-117,224,1,0,20091121,0,SAS,WAS
+Shot Chart Detail,20900188,478,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,4,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,129,1,0,20091121,0,SAS,WAS
+Shot Chart Detail,20900188,506,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,184,1,0,20091121,0,SAS,WAS
+Shot Chart Detail,20900234,52,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,5,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,-25,1,0,20091128,0,WAS,CHA
+Shot Chart Detail,20900293,32,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,7,49,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-150,113,1,0,20091206,0,DET,WAS
+Shot Chart Detail,20900318,357,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,4,27,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-139,108,1,0,20091210,0,WAS,BOS
+Shot Chart Detail,20900318,400,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,37,-7,373,1,0,20091210,0,WAS,BOS
+Shot Chart Detail,20900318,411,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,24,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-2,1,1,20091210,1,WAS,BOS
+Shot Chart Detail,20900318,502,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,2,29,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-239,-25,1,0,20091210,0,WAS,BOS
+Shot Chart Detail,20900331,33,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,8,29,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-239,108,1,0,20091212,0,WAS,IND
+Shot Chart Detail,20900331,79,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,50,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-163,113,1,1,20091212,1,WAS,IND
+Shot Chart Detail,20900331,244,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,50,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,55,1,0,20091212,0,WAS,IND
+Shot Chart Detail,20900350,19,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20091214,0,LAC,WAS
+Shot Chart Detail,20900350,274,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,1,26,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,186,1,0,20091214,0,LAC,WAS
+Shot Chart Detail,20900350,393,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,2,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-169,31,1,0,20091214,0,LAC,WAS
+Shot Chart Detail,20900368,4,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,11,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,155,20,1,0,20091216,0,SAC,WAS
+Shot Chart Detail,20900368,77,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,35,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20091216,0,SAC,WAS
+Shot Chart Detail,20900368,249,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,23,-160,178,1,0,20091216,0,SAC,WAS
+Shot Chart Detail,20900383,21,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,10,13,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,143,142,1,0,20091218,0,GSW,WAS
+Shot Chart Detail,20900383,278,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,198,1,0,20091218,0,GSW,WAS
+Shot Chart Detail,20900383,293,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,8,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,162,220,1,0,20091218,0,GSW,WAS
+Shot Chart Detail,20900392,28,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,8,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-183,75,1,0,20091219,0,PHX,WAS
+Shot Chart Detail,20900392,57,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,15,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-125,149,1,0,20091219,0,PHX,WAS
+Shot Chart Detail,20900392,280,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,40,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,0,20091219,0,PHX,WAS
+Shot Chart Detail,20900392,293,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,22,1,0,20091219,0,PHX,WAS
+Shot Chart Detail,20900500,419,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,9,49,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20100105,0,PHI,WAS
+Shot Chart Detail,20900508,212,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,16,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,17,1,1,20100106,1,CLE,WAS
+Shot Chart Detail,20900508,410,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,11,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,163,108,1,0,20100106,0,CLE,WAS
+Shot Chart Detail,20900554,78,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,46,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,228,-2,1,0,20100112,0,WAS,DET
+Shot Chart Detail,20900554,111,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,0,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-11,252,1,0,20100112,0,WAS,DET
+Shot Chart Detail,20900558,260,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,6,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,93,1,1,20100113,1,ATL,WAS
+Shot Chart Detail,20900558,375,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-155,11,1,0,20100113,0,ATL,WAS
+Shot Chart Detail,20900574,14,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,11,0,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,53,36,1,0,20100115,0,CHI,WAS
+Shot Chart Detail,20900574,22,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,1,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,201,1,1,20100115,1,CHI,WAS
+Shot Chart Detail,20900574,200,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,10,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,0,20100115,0,CHI,WAS
+Shot Chart Detail,20900574,490,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,1,7,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-3,1,1,20100115,1,CHI,WAS
+Shot Chart Detail,20900586,257,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,55,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-187,72,1,1,20100116,1,WAS,SAC
+Shot Chart Detail,20900586,262,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,1,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,194,1,1,20100116,1,WAS,SAC
+Shot Chart Detail,20900586,275,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,29,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-185,110,1,1,20100116,0,WAS,SAC
+Shot Chart Detail,20900586,286,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,9,10,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-117,159,1,1,20100116,1,WAS,SAC
+Shot Chart Detail,20900595,22,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,0,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-243,1,1,0,20100118,0,WAS,POR
+Shot Chart Detail,20900595,208,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,43,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,14,1,0,20100118,0,WAS,POR
+Shot Chart Detail,20900612,21,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,9,2,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-34,-17,1,0,20100120,0,WAS,DAL
+Shot Chart Detail,20900612,43,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,25,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-237,104,1,0,20100120,0,WAS,DAL
+Shot Chart Detail,20900612,268,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,11,24,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,-22,1,0,20100120,0,WAS,DAL
+Shot Chart Detail,20900626,41,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,25,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,141,194,1,0,20100122,0,WAS,MIA
+Shot Chart Detail,20900647,8,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,10,29,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,176,58,1,1,20100124,1,WAS,LAC
+Shot Chart Detail,20900647,39,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,7,10,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,195,30,1,1,20100124,1,WAS,LAC
+Shot Chart Detail,20900647,56,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-220,134,1,0,20100124,0,WAS,LAC
+Shot Chart Detail,20900647,60,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,4,35,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-183,44,1,0,20100124,0,WAS,LAC
+Shot Chart Detail,20900647,260,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,10,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,0,20100124,0,WAS,LAC
+Shot Chart Detail,20900647,262,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,9,56,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-177,-16,1,0,20100124,0,WAS,LAC
+Shot Chart Detail,20900647,294,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,7,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-204,28,1,0,20100124,0,WAS,LAC
+Shot Chart Detail,20900658,80,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,2,1,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-5,195,1,1,20100126,1,WAS,LAL
+Shot Chart Detail,20900658,82,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,21,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,185,167,1,1,20100126,0,WAS,LAL
+Shot Chart Detail,20900658,98,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,11,46,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,-8,1,0,20100126,0,WAS,LAL
+Shot Chart Detail,20900658,317,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,1,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-232,121,1,0,20100126,0,WAS,LAL
+Shot Chart Detail,20900658,360,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,10,5,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,-10,1,1,20100126,1,WAS,LAL
+Shot Chart Detail,20900658,387,2052,DeShawn Stevenson,1610612764,Washington Wizards,4,7,48,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,237,53,1,0,20100126,0,WAS,LAL
+Shot Chart Detail,20900682,81,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,1,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,217,1,0,20100129,0,NJN,WAS
+Shot Chart Detail,20900682,107,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,10,31,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,54,197,1,1,20100129,0,NJN,WAS
+Shot Chart Detail,20900682,135,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,7,12,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,15,265,1,0,20100129,0,NJN,WAS
+Shot Chart Detail,20900721,35,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,6,38,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-210,129,1,0,20100203,0,NYK,WAS
+Shot Chart Detail,20900721,57,2052,DeShawn Stevenson,1610612764,Washington Wizards,1,3,53,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,62,242,1,0,20100203,0,NYK,WAS
+Shot Chart Detail,20900721,191,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,0,27,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-229,80,1,0,20100203,0,NYK,WAS
+Shot Chart Detail,20900721,250,2052,DeShawn Stevenson,1610612764,Washington Wizards,3,5,31,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,42,190,1,0,20100203,0,NYK,WAS
+Shot Chart Detail,20900758,192,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,5,49,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-64,194,1,0,20100209,0,CHA,WAS
+Shot Chart Detail,20900758,199,2052,DeShawn Stevenson,1610612764,Washington Wizards,2,4,32,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20100209,0,CHA,WAS

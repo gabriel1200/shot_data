@@ -1,93 +1,47 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300579,469,203263,James Nunnally,1610612737,Atlanta Hawks,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,136,160,1,1,20140116,ATL,BKN
-Shot Chart Detail,0021300579,490,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,42,1,1,20140116,ATL,BKN
-Shot Chart Detail,0021300579,502,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,23,1,0,20140116,ATL,BKN
-Shot Chart Detail,0021300635,129,203263,James Nunnally,1610612737,Atlanta Hawks,2,10,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,28,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,251,203263,James Nunnally,1610612737,Atlanta Hawks,2,1,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,22,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,459,203263,James Nunnally,1610612737,Atlanta Hawks,4,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,154,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,473,203263,James Nunnally,1610612737,Atlanta Hawks,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-15,142,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,511,203263,James Nunnally,1610612737,Atlanta Hawks,4,3,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,28,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,518,203263,James Nunnally,1610612737,Atlanta Hawks,4,2,55,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20140124,ATL,SAS
-Shot Chart Detail,0021300635,526,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20140124,ATL,SAS
-Shot Chart Detail,0021300635,538,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-153,131,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300650,400,203263,James Nunnally,1610612737,Atlanta Hawks,4,8,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,213,1,0,20140125,MIL,ATL
-Shot Chart Detail,0021300650,438,203263,James Nunnally,1610612737,Atlanta Hawks,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,126,1,1,20140125,MIL,ATL
-Shot Chart Detail,0021300650,470,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,254,1,0,20140125,MIL,ATL
-Shot Chart Detail,0021300690,503,203263,James Nunnally,1610612737,Atlanta Hawks,4,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,0,1,0,20140131,PHI,ATL
-Shot Chart Detail,0021300690,533,203263,James Nunnally,1610612737,Atlanta Hawks,4,6,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-32,1,0,20140131,PHI,ATL
-Shot Chart Detail,0021300690,562,203263,James Nunnally,1610612737,Atlanta Hawks,4,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,173,1,1,20140131,PHI,ATL
-Shot Chart Detail,0021300690,599,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,0,20140131,PHI,ATL
-Shot Chart Detail,0021300997,164,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-101,235,1,0,20140317,IND,PHI
-Shot Chart Detail,0021301008,113,203263,James Nunnally,1610612755,Philadelphia 76ers,1,0,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-19,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,155,203263,James Nunnally,1610612755,Philadelphia 76ers,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-14,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,253,203263,James Nunnally,1610612755,Philadelphia 76ers,2,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-11,211,1,0,20140319,PHI,CHI
-Shot Chart Detail,0021301008,350,203263,James Nunnally,1610612755,Philadelphia 76ers,3,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,375,203263,James Nunnally,1610612755,Philadelphia 76ers,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,209,1,0,20140319,PHI,CHI
-Shot Chart Detail,0021301023,199,203263,James Nunnally,1610612755,Philadelphia 76ers,2,5,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,189,1,0,20140321,PHI,NYK
-Shot Chart Detail,0021301023,227,203263,James Nunnally,1610612755,Philadelphia 76ers,2,3,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,209,1,0,20140321,PHI,NYK
-Shot Chart Detail,0021301023,231,203263,James Nunnally,1610612755,Philadelphia 76ers,2,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,6,1,0,20140321,PHI,NYK
-Shot Chart Detail,0021301023,507,203263,James Nunnally,1610612755,Philadelphia 76ers,4,3,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-21,1,1,20140321,PHI,NYK
-Shot Chart Detail,0021301034,154,203263,James Nunnally,1610612755,Philadelphia 76ers,1,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-152,170,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,197,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-16,217,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,411,203263,James Nunnally,1610612755,Philadelphia 76ers,4,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,200,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301054,144,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,55,1,0,20140324,SAS,PHI
-Shot Chart Detail,0021301054,480,203263,James Nunnally,1610612755,Philadelphia 76ers,4,0,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20140324,SAS,PHI
-Shot Chart Detail,0021301054,483,203263,James Nunnally,1610612755,Philadelphia 76ers,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,21,58,1,0,20140324,SAS,PHI
-Shot Chart Detail,0021301072,90,203263,James Nunnally,1610612755,Philadelphia 76ers,1,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,1,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301072,459,203263,James Nunnally,1610612755,Philadelphia 76ers,3,1,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,78,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301072,506,203263,James Nunnally,1610612755,Philadelphia 76ers,4,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,227,1,1,20140327,HOU,PHI
-Shot Chart Detail,0021301072,537,203263,James Nunnally,1610612755,Philadelphia 76ers,4,6,33,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,39,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301072,561,203263,James Nunnally,1610612755,Philadelphia 76ers,4,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,126,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301087,518,203263,James Nunnally,1610612755,Philadelphia 76ers,4,4,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-30,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,525,203263,James Nunnally,1610612755,Philadelphia 76ers,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,31,246,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301117,151,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,233,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,367,203263,James Nunnally,1610612755,Philadelphia 76ers,3,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,183,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,402,203263,James Nunnally,1610612755,Philadelphia 76ers,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,497,203263,James Nunnally,1610612755,Philadelphia 76ers,4,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20140402,PHI,CHA
-Shot Chart Detail,0021301147,83,203263,James Nunnally,1610612755,Philadelphia 76ers,1,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140405,PHI,BKN
-Shot Chart Detail,0021300579,469,203263,James Nunnally,1610612737,Atlanta Hawks,4,4,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,136,160,1,1,20140116,ATL,BKN
-Shot Chart Detail,0021300579,490,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,42,1,1,20140116,ATL,BKN
-Shot Chart Detail,0021300579,502,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,23,1,0,20140116,ATL,BKN
-Shot Chart Detail,0021300635,129,203263,James Nunnally,1610612737,Atlanta Hawks,2,10,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,28,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,251,203263,James Nunnally,1610612737,Atlanta Hawks,2,1,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,22,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,459,203263,James Nunnally,1610612737,Atlanta Hawks,4,8,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,154,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,473,203263,James Nunnally,1610612737,Atlanta Hawks,4,7,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-15,142,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,511,203263,James Nunnally,1610612737,Atlanta Hawks,4,3,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,28,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300635,518,203263,James Nunnally,1610612737,Atlanta Hawks,4,2,55,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20140124,ATL,SAS
-Shot Chart Detail,0021300635,526,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20140124,ATL,SAS
-Shot Chart Detail,0021300635,538,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-153,131,1,0,20140124,ATL,SAS
-Shot Chart Detail,0021300650,400,203263,James Nunnally,1610612737,Atlanta Hawks,4,8,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,213,1,0,20140125,MIL,ATL
-Shot Chart Detail,0021300650,438,203263,James Nunnally,1610612737,Atlanta Hawks,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,126,1,1,20140125,MIL,ATL
-Shot Chart Detail,0021300650,470,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,36,254,1,0,20140125,MIL,ATL
-Shot Chart Detail,0021300690,503,203263,James Nunnally,1610612737,Atlanta Hawks,4,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,0,1,0,20140131,PHI,ATL
-Shot Chart Detail,0021300690,533,203263,James Nunnally,1610612737,Atlanta Hawks,4,6,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-32,1,0,20140131,PHI,ATL
-Shot Chart Detail,0021300690,562,203263,James Nunnally,1610612737,Atlanta Hawks,4,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,173,1,1,20140131,PHI,ATL
-Shot Chart Detail,0021300690,599,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,0,20140131,PHI,ATL
-Shot Chart Detail,0021300997,164,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-101,235,1,0,20140317,IND,PHI
-Shot Chart Detail,0021301008,113,203263,James Nunnally,1610612755,Philadelphia 76ers,1,0,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-19,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,155,203263,James Nunnally,1610612755,Philadelphia 76ers,2,9,17,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-14,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,253,203263,James Nunnally,1610612755,Philadelphia 76ers,2,1,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-11,211,1,0,20140319,PHI,CHI
-Shot Chart Detail,0021301008,350,203263,James Nunnally,1610612755,Philadelphia 76ers,3,3,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,375,203263,James Nunnally,1610612755,Philadelphia 76ers,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,209,1,0,20140319,PHI,CHI
-Shot Chart Detail,0021301023,199,203263,James Nunnally,1610612755,Philadelphia 76ers,2,5,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,189,1,0,20140321,PHI,NYK
-Shot Chart Detail,0021301023,227,203263,James Nunnally,1610612755,Philadelphia 76ers,2,3,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,209,1,0,20140321,PHI,NYK
-Shot Chart Detail,0021301023,231,203263,James Nunnally,1610612755,Philadelphia 76ers,2,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,6,1,0,20140321,PHI,NYK
-Shot Chart Detail,0021301023,507,203263,James Nunnally,1610612755,Philadelphia 76ers,4,3,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,-21,1,1,20140321,PHI,NYK
-Shot Chart Detail,0021301034,154,203263,James Nunnally,1610612755,Philadelphia 76ers,1,0,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-152,170,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,197,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-16,217,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,411,203263,James Nunnally,1610612755,Philadelphia 76ers,4,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,200,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301054,144,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,55,1,0,20140324,SAS,PHI
-Shot Chart Detail,0021301054,480,203263,James Nunnally,1610612755,Philadelphia 76ers,4,0,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20140324,SAS,PHI
-Shot Chart Detail,0021301054,483,203263,James Nunnally,1610612755,Philadelphia 76ers,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,21,58,1,0,20140324,SAS,PHI
-Shot Chart Detail,0021301072,90,203263,James Nunnally,1610612755,Philadelphia 76ers,1,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,1,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301072,459,203263,James Nunnally,1610612755,Philadelphia 76ers,3,1,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,78,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301072,506,203263,James Nunnally,1610612755,Philadelphia 76ers,4,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,227,1,1,20140327,HOU,PHI
-Shot Chart Detail,0021301072,537,203263,James Nunnally,1610612755,Philadelphia 76ers,4,6,33,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,39,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301072,561,203263,James Nunnally,1610612755,Philadelphia 76ers,4,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,126,1,0,20140327,HOU,PHI
-Shot Chart Detail,0021301087,518,203263,James Nunnally,1610612755,Philadelphia 76ers,4,4,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-30,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,525,203263,James Nunnally,1610612755,Philadelphia 76ers,4,3,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,31,246,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301117,151,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,233,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,367,203263,James Nunnally,1610612755,Philadelphia 76ers,3,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,183,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,402,203263,James Nunnally,1610612755,Philadelphia 76ers,4,9,37,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,497,203263,James Nunnally,1610612755,Philadelphia 76ers,4,1,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20140402,PHI,CHA
-Shot Chart Detail,0021301147,83,203263,James Nunnally,1610612755,Philadelphia 76ers,1,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140405,PHI,BKN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300579,469,203263,James Nunnally,1610612737,Atlanta Hawks,4,4,31,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,136,160,1,1,20140116,1,ATL,BKN
+Shot Chart Detail,21300579,490,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,34,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,42,1,1,20140116,1,ATL,BKN
+Shot Chart Detail,21300579,502,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,47,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,23,1,0,20140116,0,ATL,BKN
+Shot Chart Detail,21300635,129,203263,James Nunnally,1610612737,Atlanta Hawks,2,10,26,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,28,1,0,20140124,0,ATL,SAS
+Shot Chart Detail,21300635,251,203263,James Nunnally,1610612737,Atlanta Hawks,2,1,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-229,22,1,0,20140124,0,ATL,SAS
+Shot Chart Detail,21300635,459,203263,James Nunnally,1610612737,Atlanta Hawks,4,8,30,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,154,1,0,20140124,0,ATL,SAS
+Shot Chart Detail,21300635,473,203263,James Nunnally,1610612737,Atlanta Hawks,4,7,3,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-15,142,1,0,20140124,0,ATL,SAS
+Shot Chart Detail,21300635,511,203263,James Nunnally,1610612737,Atlanta Hawks,4,3,44,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,239,28,1,0,20140124,0,ATL,SAS
+Shot Chart Detail,21300635,518,203263,James Nunnally,1610612737,Atlanta Hawks,4,2,55,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20140124,1,ATL,SAS
+Shot Chart Detail,21300635,526,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,52,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20140124,1,ATL,SAS
+Shot Chart Detail,21300635,538,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,10,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-153,131,1,0,20140124,0,ATL,SAS
+Shot Chart Detail,21300650,400,203263,James Nunnally,1610612737,Atlanta Hawks,4,8,11,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,213,1,0,20140125,0,MIL,ATL
+Shot Chart Detail,21300650,438,203263,James Nunnally,1610612737,Atlanta Hawks,4,4,48,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,126,1,1,20140125,1,MIL,ATL
+Shot Chart Detail,21300650,470,203263,James Nunnally,1610612737,Atlanta Hawks,4,1,34,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,36,254,1,0,20140125,0,MIL,ATL
+Shot Chart Detail,21300690,503,203263,James Nunnally,1610612737,Atlanta Hawks,4,9,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-163,0,1,0,20140131,0,PHI,ATL
+Shot Chart Detail,21300690,533,203263,James Nunnally,1610612737,Atlanta Hawks,4,6,16,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-229,-32,1,0,20140131,0,PHI,ATL
+Shot Chart Detail,21300690,562,203263,James Nunnally,1610612737,Atlanta Hawks,4,3,33,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-172,173,1,1,20140131,1,PHI,ATL
+Shot Chart Detail,21300690,599,203263,James Nunnally,1610612737,Atlanta Hawks,4,0,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,0,20140131,0,PHI,ATL
+Shot Chart Detail,21300997,164,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,37,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-101,235,1,0,20140317,0,IND,PHI
+Shot Chart Detail,21301008,113,203263,James Nunnally,1610612755,Philadelphia 76ers,1,0,54,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,-19,1,1,20140319,1,PHI,CHI
+Shot Chart Detail,21301008,155,203263,James Nunnally,1610612755,Philadelphia 76ers,2,9,17,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,-14,1,1,20140319,0,PHI,CHI
+Shot Chart Detail,21301008,253,203263,James Nunnally,1610612755,Philadelphia 76ers,2,1,46,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-11,211,1,0,20140319,0,PHI,CHI
+Shot Chart Detail,21301008,350,203263,James Nunnally,1610612755,Philadelphia 76ers,3,3,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20140319,1,PHI,CHI
+Shot Chart Detail,21301008,375,203263,James Nunnally,1610612755,Philadelphia 76ers,3,2,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,209,1,0,20140319,0,PHI,CHI
+Shot Chart Detail,21301023,199,203263,James Nunnally,1610612755,Philadelphia 76ers,2,5,51,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,189,1,0,20140321,0,PHI,NYK
+Shot Chart Detail,21301023,227,203263,James Nunnally,1610612755,Philadelphia 76ers,2,3,31,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,209,1,0,20140321,0,PHI,NYK
+Shot Chart Detail,21301023,231,203263,James Nunnally,1610612755,Philadelphia 76ers,2,3,11,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,6,1,0,20140321,0,PHI,NYK
+Shot Chart Detail,21301023,507,203263,James Nunnally,1610612755,Philadelphia 76ers,4,3,30,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-226,-21,1,1,20140321,1,PHI,NYK
+Shot Chart Detail,21301034,154,203263,James Nunnally,1610612755,Philadelphia 76ers,1,0,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-152,170,1,0,20140322,0,CHI,PHI
+Shot Chart Detail,21301034,197,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,12,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-16,217,1,0,20140322,0,CHI,PHI
+Shot Chart Detail,21301034,411,203263,James Nunnally,1610612755,Philadelphia 76ers,4,11,13,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,200,1,0,20140322,0,CHI,PHI
+Shot Chart Detail,21301054,144,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,55,1,0,20140324,0,SAS,PHI
+Shot Chart Detail,21301054,480,203263,James Nunnally,1610612755,Philadelphia 76ers,4,0,41,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20140324,0,SAS,PHI
+Shot Chart Detail,21301054,483,203263,James Nunnally,1610612755,Philadelphia 76ers,4,0,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,21,58,1,0,20140324,0,SAS,PHI
+Shot Chart Detail,21301072,90,203263,James Nunnally,1610612755,Philadelphia 76ers,1,4,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-14,1,1,0,20140327,0,HOU,PHI
+Shot Chart Detail,21301072,459,203263,James Nunnally,1610612755,Philadelphia 76ers,3,1,32,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,234,78,1,0,20140327,0,HOU,PHI
+Shot Chart Detail,21301072,506,203263,James Nunnally,1610612755,Philadelphia 76ers,4,9,50,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-122,227,1,1,20140327,1,HOU,PHI
+Shot Chart Detail,21301072,537,203263,James Nunnally,1610612755,Philadelphia 76ers,4,6,33,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,39,1,0,20140327,0,HOU,PHI
+Shot Chart Detail,21301072,561,203263,James Nunnally,1610612755,Philadelphia 76ers,4,5,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,126,1,0,20140327,0,HOU,PHI
+Shot Chart Detail,21301087,518,203263,James Nunnally,1610612755,Philadelphia 76ers,4,4,26,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,-30,1,1,20140329,1,PHI,DET
+Shot Chart Detail,21301087,525,203263,James Nunnally,1610612755,Philadelphia 76ers,4,3,7,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,31,246,1,1,20140329,1,PHI,DET
+Shot Chart Detail,21301117,151,203263,James Nunnally,1610612755,Philadelphia 76ers,2,8,32,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,233,1,0,20140402,0,PHI,CHA
+Shot Chart Detail,21301117,367,203263,James Nunnally,1610612755,Philadelphia 76ers,3,0,57,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,183,1,0,20140402,0,PHI,CHA
+Shot Chart Detail,21301117,402,203263,James Nunnally,1610612755,Philadelphia 76ers,4,9,37,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,7,31,1,0,20140402,0,PHI,CHA
+Shot Chart Detail,21301117,497,203263,James Nunnally,1610612755,Philadelphia 76ers,4,1,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20140402,0,PHI,CHA
+Shot Chart Detail,21301147,83,203263,James Nunnally,1610612755,Philadelphia 76ers,1,1,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,3,1,1,20140405,1,PHI,BKN

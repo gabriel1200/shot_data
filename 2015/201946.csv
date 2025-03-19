@@ -1,166 +1,81 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021400008,227,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,4,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20141029,TOR,ATL
-Shot Chart Detail,0021400008,357,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,5,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20141029,TOR,ATL
-Shot Chart Detail,0021400029,121,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,0,20141101,ORL,TOR
-Shot Chart Detail,0021400029,189,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,6,1,0,20141101,ORL,TOR
-Shot Chart Detail,0021400029,458,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,9,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,20,1,1,20141101,ORL,TOR
-Shot Chart Detail,0021400040,172,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20141102,MIA,TOR
-Shot Chart Detail,0021400052,296,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,11,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,6,1,0,20141104,TOR,OKC
-Shot Chart Detail,0021400052,308,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,10,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,3,1,0,20141104,TOR,OKC
-Shot Chart Detail,0021400052,328,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,8,8,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20141104,TOR,OKC
-Shot Chart Detail,0021400052,330,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,7,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,0,20141104,TOR,OKC
-Shot Chart Detail,0021400052,422,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,25,1,1,20141104,TOR,OKC
-Shot Chart Detail,0021400052,564,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,1,10,Missed Shot,Jump Bank Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,7,1,0,20141104,TOR,OKC
-Shot Chart Detail,0021400059,38,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,7,58,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20141105,BOS,TOR
-Shot Chart Detail,0021400059,218,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,3,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,0,20141105,BOS,TOR
-Shot Chart Detail,0021400077,116,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,27,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,1,20141107,TOR,WAS
-Shot Chart Detail,0021400077,426,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,26,1,0,20141107,TOR,WAS
-Shot Chart Detail,0021400077,478,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,11,1,0,20141107,TOR,WAS
-Shot Chart Detail,0021400093,104,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,2,25,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,1,20141109,TOR,PHI
-Shot Chart Detail,0021400093,480,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,6,31,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20141109,TOR,PHI
-Shot Chart Detail,0021400119,357,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,0,20141113,TOR,CHI
-Shot Chart Detail,0021400134,88,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,42,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,0,20141115,TOR,UTA
-Shot Chart Detail,0021400134,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,46,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,0,20141115,TOR,UTA
-Shot Chart Detail,0021400166,114,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,43,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,-3,1,0,20141119,TOR,MEM
-Shot Chart Detail,0021400248,441,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,32,151,1,0,20141130,LAL,TOR
-Shot Chart Detail,0021400304,129,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,17,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,34,1,0,20141208,TOR,DEN
-Shot Chart Detail,0021400333,430,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,32,Made Shot,Running Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,17,1,1,20141212,TOR,IND
-Shot Chart Detail,0021400353,170,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,13,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,0,20141214,NYK,TOR
-Shot Chart Detail,0021400353,365,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141214,NYK,TOR
-Shot Chart Detail,0021400353,400,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20141214,NYK,TOR
-Shot Chart Detail,0021400359,97,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,31,1,1,20141215,TOR,ORL
-Shot Chart Detail,0021400359,161,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,9,1,0,20141215,TOR,ORL
-Shot Chart Detail,0021400359,163,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,52,Made Shot,Hook Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,1,20141215,TOR,ORL
-Shot Chart Detail,0021400359,387,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,8,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20141215,TOR,ORL
-Shot Chart Detail,0021400359,416,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,4,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,170,0,1,0,20141215,TOR,ORL
-Shot Chart Detail,0021400359,454,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,0,20141215,TOR,ORL
-Shot Chart Detail,0021400374,88,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,52,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,0,20141217,TOR,BKN
-Shot Chart Detail,0021400374,117,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,49,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,4,1,0,20141217,TOR,BKN
-Shot Chart Detail,0021400374,357,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,0,57,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20141217,TOR,BKN
-Shot Chart Detail,0021400387,108,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,31,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141219,DET,TOR
-Shot Chart Detail,0021400387,118,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20141219,DET,TOR
-Shot Chart Detail,0021400387,152,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,5,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,0,20141219,DET,TOR
-Shot Chart Detail,0021400400,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,46,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,0,20141221,TOR,NYK
-Shot Chart Detail,0021400400,220,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,3,34,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,0,20141221,TOR,NYK
-Shot Chart Detail,0021400443,157,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,47,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20141227,LAC,TOR
-Shot Chart Detail,0021400457,146,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,56,1,0,20141228,DEN,TOR
-Shot Chart Detail,0021400457,151,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,12,1,1,20141228,DEN,TOR
-Shot Chart Detail,0021400457,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,7,1,0,20141228,DEN,TOR
-Shot Chart Detail,0021400457,159,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141228,DEN,TOR
-Shot Chart Detail,0021400457,162,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-114,126,1,1,20141228,DEN,TOR
-Shot Chart Detail,0021400457,421,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,42,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,0,20141228,DEN,TOR
-Shot Chart Detail,0021400457,423,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,39,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20141228,DEN,TOR
-Shot Chart Detail,0021400457,441,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20141228,DEN,TOR
-Shot Chart Detail,0021400473,362,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,33,1,0,20141230,POR,TOR
-Shot Chart Detail,0021400493,478,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,1,20150102,GSW,TOR
-Shot Chart Detail,0021400493,485,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20150102,GSW,TOR
-Shot Chart Detail,0021400507,137,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,1,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20150104,PHX,TOR
-Shot Chart Detail,0021400507,155,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,0,20150104,PHX,TOR
-Shot Chart Detail,0021400535,77,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,4,1,Made Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,1,20150108,TOR,CHA
-Shot Chart Detail,0021400535,101,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,37,Made Shot,Driving Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,52,1,1,20150108,TOR,CHA
-Shot Chart Detail,0021400535,139,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-6,1,1,20150108,TOR,CHA
-Shot Chart Detail,0021400535,360,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,51,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20150108,TOR,CHA
-Shot Chart Detail,0021400553,111,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,51,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,34,1,0,20150110,TOR,BOS
-Shot Chart Detail,0021400553,218,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,2,36,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,-10,1,0,20150110,TOR,BOS
-Shot Chart Detail,0021400553,428,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,0,20150110,TOR,BOS
-Shot Chart Detail,0021400565,416,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,7,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,34,1,1,20150112,TOR,DET
-Shot Chart Detail,0021400578,85,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,3,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,3,1,0,20150114,TOR,PHI
-Shot Chart Detail,0021400578,107,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,24,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150114,TOR,PHI
-Shot Chart Detail,0021400578,170,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,38,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150114,TOR,PHI
-Shot Chart Detail,0021400592,146,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,17,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,44,1,1,20150116,TOR,ATL
-Shot Chart Detail,0021400592,149,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,45,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,TOR,ATL
-Shot Chart Detail,0021400592,180,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,2,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,50,1,0,20150116,TOR,ATL
-Shot Chart Detail,0021400592,444,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,2,38,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,72,1,0,20150116,TOR,ATL
-Shot Chart Detail,0021400592,461,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-6,1,0,20150116,TOR,ATL
-Shot Chart Detail,0021400592,465,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,10,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,55,1,0,20150116,TOR,ATL
-Shot Chart Detail,0021400619,130,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20150119,MIL,TOR
-Shot Chart Detail,0021400619,394,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,26,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-5,1,0,20150119,MIL,TOR
-Shot Chart Detail,0021400630,193,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,3,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20150121,MEM,TOR
-Shot Chart Detail,0021400641,75,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,3,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,0,20150123,PHI,TOR
-Shot Chart Detail,0021400641,343,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,0,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,0,20150123,PHI,TOR
-Shot Chart Detail,0021400664,158,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,1,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,1,20150125,TOR,DET
-Shot Chart Detail,0021400675,128,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20150127,IND,TOR
-Shot Chart Detail,0021400707,99,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,95,131,1,1,20150131,WAS,TOR
-Shot Chart Detail,0021400707,135,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20150131,WAS,TOR
-Shot Chart Detail,0021400707,404,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,0,20150131,WAS,TOR
-Shot Chart Detail,0021400707,437,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,7,1,0,20150131,WAS,TOR
-Shot Chart Detail,0021400721,470,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,3,33,Made Shot,Running Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,23,1,1,20150202,TOR,MIL
-Shot Chart Detail,0021400734,127,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,30,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,37,15,1,1,20150204,TOR,BKN
-Shot Chart Detail,0021400734,348,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,8,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,23,1,0,20150204,TOR,BKN
-Shot Chart Detail,0021400772,136,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,31,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-5,1,0,20150208,TOR,SAS
-Shot Chart Detail,0021400791,151,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,54,11,1,0,20150211,TOR,WAS
-Shot Chart Detail,0021400791,153,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,54,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,0,20150211,TOR,WAS
-Shot Chart Detail,0021400805,179,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,1,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150220,ATL,TOR
-Shot Chart Detail,0021400805,535,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,75,1,0,20150220,ATL,TOR
-Shot Chart Detail,0021400819,165,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,0,20150221,HOU,TOR
-Shot Chart Detail,0021400861,368,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,3,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,1,20150227,TOR,GSW
-Shot Chart Detail,0021400861,394,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,43,Missed Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,63,1,0,20150227,TOR,GSW
-Shot Chart Detail,0021400872,151,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,0,20150228,NYK,TOR
-Shot Chart Detail,0021400885,146,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150302,PHI,TOR
-Shot Chart Detail,0021400885,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-43,-6,1,0,20150302,PHI,TOR
-Shot Chart Detail,0021400885,168,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150302,PHI,TOR
-Shot Chart Detail,0021400885,360,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,1,20150302,PHI,TOR
-Shot Chart Detail,0021400900,133,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,18,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,0,1,1,20150304,TOR,CLE
-Shot Chart Detail,0021400911,139,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20150306,CHA,TOR
-Shot Chart Detail,0021400911,141,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150306,CHA,TOR
-Shot Chart Detail,0021400949,382,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,9,20,Missed Shot,Running Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,52,1,0,20150310,SAS,TOR
-Shot Chart Detail,0021400949,383,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,9,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,0,20150310,SAS,TOR
-Shot Chart Detail,0021400970,324,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,7,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150313,TOR,MIA
-Shot Chart Detail,0021400987,121,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20150315,TOR,POR
-Shot Chart Detail,0021400987,389,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,8,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150315,TOR,POR
-Shot Chart Detail,0021400990,139,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,32,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150316,IND,TOR
-Shot Chart Detail,0021401008,111,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,0,1,1,20150318,TOR,MIN
-Shot Chart Detail,0021401008,192,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,0,20150318,TOR,MIN
-Shot Chart Detail,0021401025,169,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,25,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150320,CHI,TOR
-Shot Chart Detail,0021401025,378,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,2,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,0,20150320,CHI,TOR
-Shot Chart Detail,0021401025,443,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,5,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,12,1,0,20150320,CHI,TOR
-Shot Chart Detail,0021401041,152,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401041,158,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,20,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,9,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401041,175,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,36,Made Shot,Driving Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,22,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401041,180,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,43,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401041,203,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,17,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,3,1,0,20150322,TOR,NYK
-Shot Chart Detail,0021401041,372,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,3,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401041,405,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401041,461,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,6,23,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,1,20150322,TOR,NYK
-Shot Chart Detail,0021401054,152,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,0,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,22,1,1,20150324,DET,TOR
-Shot Chart Detail,0021401065,98,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,26,1,0,20150325,TOR,CHI
-Shot Chart Detail,0021401065,112,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,8,Missed Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,-3,1,0,20150325,TOR,CHI
-Shot Chart Detail,0021401080,110,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,17,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,4,1,0,20150327,TOR,LAL
-Shot Chart Detail,0021401080,418,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,9,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,0,20150327,TOR,LAL
-Shot Chart Detail,0021401119,75,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,1,20150401,MIN,TOR
-Shot Chart Detail,0021401119,314,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,19,1,1,20150401,MIN,TOR
-Shot Chart Detail,0021401119,399,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,5,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,63,1,1,20150401,MIN,TOR
-Shot Chart Detail,0021401130,94,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,41,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,30,1,0,20150403,BKN,TOR
-Shot Chart Detail,0021401130,101,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20150403,BKN,TOR
-Shot Chart Detail,0021401130,134,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150403,BKN,TOR
-Shot Chart Detail,0021401140,36,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,7,18,Made Shot,Jump Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,88,20,1,1,20150404,TOR,BOS
-Shot Chart Detail,0021401140,101,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20150404,TOR,BOS
-Shot Chart Detail,0021401140,181,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,172,1,1,20150404,TOR,BOS
-Shot Chart Detail,0021401140,318,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,6,20,Made Shot,Driving Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150404,TOR,BOS
-Shot Chart Detail,0021401140,376,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,24,Made Shot,Jump Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,23,1,1,20150404,TOR,BOS
-Shot Chart Detail,0021401160,13,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,10,27,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,28,1,1,20150408,CHA,TOR
-Shot Chart Detail,0021401160,31,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,7,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20150408,CHA,TOR
-Shot Chart Detail,0021401160,80,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,2,19,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,0,20150408,CHA,TOR
-Shot Chart Detail,0021401160,82,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,2,17,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,0,20150408,CHA,TOR
-Shot Chart Detail,0021401160,84,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,2,15,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,0,20150408,CHA,TOR
-Shot Chart Detail,0021401160,177,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,13,53,1,0,20150408,CHA,TOR
-Shot Chart Detail,0021401160,179,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,9,1,0,20150408,CHA,TOR
-Shot Chart Detail,0021401160,185,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,4,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150408,CHA,TOR
-Shot Chart Detail,0021401160,381,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,8,14,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20150408,CHA,TOR
-Shot Chart Detail,0021401175,5,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,11,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,7,1,0,20150410,ORL,TOR
-Shot Chart Detail,0021401175,31,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,8,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,9,1,0,20150410,ORL,TOR
-Shot Chart Detail,0021401175,66,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,4,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,0,20150410,ORL,TOR
-Shot Chart Detail,0021401175,68,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,4,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,0,20150410,ORL,TOR
-Shot Chart Detail,0021401175,100,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401175,263,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,10,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401175,265,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,10,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401175,313,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,5,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401175,323,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,4,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,7,138,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401175,349,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,6,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401175,467,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,3,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,14,1,0,20150410,ORL,TOR
-Shot Chart Detail,0021401175,499,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,1,21,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150410,ORL,TOR
-Shot Chart Detail,0021401188,215,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-2,104,1,0,20150411,MIA,TOR
-Shot Chart Detail,0021401188,333,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,11,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,4,1,0,20150411,MIA,TOR
-Shot Chart Detail,0021401214,6,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,11,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,53,153,1,0,20150414,BOS,TOR
-Shot Chart Detail,0021401228,34,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,6,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150415,TOR,CHA
-Shot Chart Detail,0021401228,252,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,28,1,1,20150415,TOR,CHA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21400008,227,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,4,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20141029,1,TOR,ATL
+Shot Chart Detail,21400008,357,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,5,15,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,7,1,1,20141029,1,TOR,ATL
+Shot Chart Detail,21400029,121,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,39,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,26,1,0,20141101,0,ORL,TOR
+Shot Chart Detail,21400029,189,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,27,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-131,6,1,0,20141101,0,ORL,TOR
+Shot Chart Detail,21400029,458,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,9,24,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,20,1,1,20141101,0,ORL,TOR
+Shot Chart Detail,21400040,172,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,58,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-2,1,1,20141102,0,MIA,TOR
+Shot Chart Detail,21400052,296,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,11,15,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-19,6,1,0,20141104,0,TOR,OKC
+Shot Chart Detail,21400052,308,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,10,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,3,1,0,20141104,0,TOR,OKC
+Shot Chart Detail,21400052,328,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,8,8,Made Shot,Running Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-3,1,1,20141104,0,TOR,OKC
+Shot Chart Detail,21400052,330,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,7,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,0,20141104,0,TOR,OKC
+Shot Chart Detail,21400052,422,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,25,1,1,20141104,1,TOR,OKC
+Shot Chart Detail,21400052,564,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,1,10,Missed Shot,Jump Bank Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,7,1,0,20141104,0,TOR,OKC
+Shot Chart Detail,21400059,38,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,7,58,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20141105,0,BOS,TOR
+Shot Chart Detail,21400059,218,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,3,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,0,1,0,20141105,0,BOS,TOR
+Shot Chart Detail,21400077,116,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,27,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,1,20141107,1,TOR,WAS
+Shot Chart Detail,21400077,426,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,9,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,26,1,0,20141107,0,TOR,WAS
+Shot Chart Detail,21400077,478,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,11,1,0,20141107,0,TOR,WAS
+Shot Chart Detail,21400093,104,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,2,25,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,19,1,1,20141109,1,TOR,PHI
+Shot Chart Detail,21400093,480,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,6,31,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20141109,1,TOR,PHI
+Shot Chart Detail,21400119,357,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,15,1,0,20141113,0,TOR,CHI
+Shot Chart Detail,21400134,88,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,42,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,42,1,0,20141115,0,TOR,UTA
+Shot Chart Detail,21400134,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,46,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,26,1,0,20141115,0,TOR,UTA
+Shot Chart Detail,21400166,114,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,43,Missed Shot,Driving Bank Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,-3,1,0,20141119,0,TOR,MEM
+Shot Chart Detail,21400248,441,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,6,52,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,32,151,1,0,20141130,0,LAL,TOR
+Shot Chart Detail,21400304,129,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,17,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,2,34,1,0,20141208,0,TOR,DEN
+Shot Chart Detail,21400333,430,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,32,Made Shot,Running Bank shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-35,17,1,1,20141212,1,TOR,IND
+Shot Chart Detail,21400353,170,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,13,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,0,20141214,0,NYK,TOR
+Shot Chart Detail,21400353,365,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141214,1,NYK,TOR
+Shot Chart Detail,21400353,400,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,1,1,1,20141214,1,NYK,TOR
+Shot Chart Detail,21400359,97,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,40,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-10,31,1,1,20141215,1,TOR,ORL
+Shot Chart Detail,21400359,161,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,56,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-38,9,1,0,20141215,0,TOR,ORL
+Shot Chart Detail,21400359,163,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,6,52,Made Shot,Hook Bank Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,1,20141215,0,TOR,ORL
+Shot Chart Detail,21400359,387,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,8,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20141215,0,TOR,ORL
+Shot Chart Detail,21400359,416,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,4,44,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,170,0,1,0,20141215,0,TOR,ORL
+Shot Chart Detail,21400359,454,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,20,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,0,20141215,0,TOR,ORL
+Shot Chart Detail,21400374,88,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,52,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,0,20141217,0,TOR,BKN
+Shot Chart Detail,21400374,117,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,49,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,4,1,0,20141217,0,TOR,BKN
+Shot Chart Detail,21400374,357,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,0,57,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,0,1,0,20141217,0,TOR,BKN
+Shot Chart Detail,21400387,108,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,31,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20141219,0,DET,TOR
+Shot Chart Detail,21400387,118,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20141219,1,DET,TOR
+Shot Chart Detail,21400387,152,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,5,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,0,20141219,0,DET,TOR
+Shot Chart Detail,21400400,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,46,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,0,20141221,0,TOR,NYK
+Shot Chart Detail,21400400,220,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,3,34,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,7,1,0,20141221,0,TOR,NYK
+Shot Chart Detail,21400443,157,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,47,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,9,-2,1,1,20141227,0,LAC,TOR
+Shot Chart Detail,21400457,146,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,24,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,56,1,0,20141228,0,DEN,TOR
+Shot Chart Detail,21400457,150,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,7,1,0,20141228,0,DEN,TOR
+Shot Chart Detail,21400457,151,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,0,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,12,1,1,20141228,0,DEN,TOR
+Shot Chart Detail,21400457,159,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,11,35,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20141228,1,DEN,TOR
+Shot Chart Detail,21400457,162,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,49,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-114,126,1,1,20141228,1,DEN,TOR
+Shot Chart Detail,21400457,421,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,42,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,0,20141228,0,DEN,TOR
+Shot Chart Detail,21400457,423,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,2,39,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20141228,0,DEN,TOR
+Shot Chart Detail,21400457,441,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20141228,1,DEN,TOR
+Shot Chart Detail,21400473,362,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-65,33,1,0,20141230,0,POR,TOR
+Shot Chart Detail,21400493,478,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,1,20150102,1,GSW,TOR
+Shot Chart Detail,21400493,485,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,19,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20150102,0,GSW,TOR
+Shot Chart Detail,21400507,137,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,1,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20150104,0,PHX,TOR
+Shot Chart Detail,21400507,155,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,0,20150104,0,PHX,TOR
+Shot Chart Detail,21400535,77,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,4,1,Made Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,62,30,1,1,20150108,1,TOR,CHA
+Shot Chart Detail,21400535,101,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,37,Made Shot,Driving Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,52,1,1,20150108,1,TOR,CHA
+Shot Chart Detail,21400535,139,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,10,10,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-228,-6,1,1,20150108,1,TOR,CHA
+Shot Chart Detail,21400535,360,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,1,51,Made Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,30,1,1,20150108,1,TOR,CHA
+Shot Chart Detail,21400553,111,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,0,51,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,34,1,0,20150110,0,TOR,BOS
+Shot Chart Detail,21400553,218,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,2,36,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,-10,1,0,20150110,0,TOR,BOS
+Shot Chart Detail,21400553,428,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,8,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-10,22,1,0,20150110,0,TOR,BOS
+Shot Chart Detail,21400565,416,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,10,7,Made Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,34,1,1,20150112,1,TOR,DET
+Shot Chart Detail,21400578,85,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,3,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,3,1,0,20150114,0,TOR,PHI
+Shot Chart Detail,21400578,107,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,1,24,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150114,1,TOR,PHI
+Shot Chart Detail,21400578,170,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,38,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150114,1,TOR,PHI
+Shot Chart Detail,21400592,146,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,8,17,Made Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,44,1,1,20150116,1,TOR,ATL
+Shot Chart Detail,21400592,149,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,45,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20150116,1,TOR,ATL
+Shot Chart Detail,21400592,180,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,5,2,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,50,1,0,20150116,0,TOR,ATL
+Shot Chart Detail,21400592,444,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,2,38,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,72,1,0,20150116,0,TOR,ATL
+Shot Chart Detail,21400592,461,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-6,1,0,20150116,0,TOR,ATL
+Shot Chart Detail,21400592,465,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,0,10,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,55,1,0,20150116,0,TOR,ATL
+Shot Chart Detail,21400619,130,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,9,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,9,1,1,20150119,1,MIL,TOR
+Shot Chart Detail,21400619,394,201946,Tyler Hansbrough,1610612761,Toronto Raptors,4,11,26,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-5,1,0,20150119,0,MIL,TOR
+Shot Chart Detail,21400630,193,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,3,55,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-2,1,1,20150121,0,MEM,TOR
+Shot Chart Detail,21400641,75,201946,Tyler Hansbrough,1610612761,Toronto Raptors,1,3,56,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,4,1,0,20150123,0,PHI,TOR
+Shot Chart Detail,21400641,343,201946,Tyler Hansbrough,1610612761,Toronto Raptors,3,0,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,17,1,0,20150123,0,PHI,TOR
+Shot Chart Detail,21400664,158,201946,Tyler Hansbrough,1610612761,Toronto Raptors,2,7,1,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,1,20150125,1,TOR,DET

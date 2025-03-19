@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020700870,481,101162,Marcin Gortat,1610612753,Orlando Magic,4,1,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080301,ORL,NYK
-Shot Chart Detail,0020700897,397,101162,Marcin Gortat,1610612753,Orlando Magic,4,4,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,-18,1,0,20080305,WAS,ORL
-Shot Chart Detail,0020700897,399,101162,Marcin Gortat,1610612753,Orlando Magic,4,4,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,53,1,1,20080305,WAS,ORL
-Shot Chart Detail,0020700897,431,101162,Marcin Gortat,1610612753,Orlando Magic,4,0,15,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,20080305,WAS,ORL
-Shot Chart Detail,0020700940,447,101162,Marcin Gortat,1610612753,Orlando Magic,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,48,1,0,20080310,ORL,ATL
-Shot Chart Detail,0020700940,457,101162,Marcin Gortat,1610612753,Orlando Magic,4,0,25,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-43,71,1,0,20080310,ORL,ATL
-Shot Chart Detail,0020701218,187,101162,Marcin Gortat,1610612753,Orlando Magic,2,2,6,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080416,ORL,WAS
-Shot Chart Detail,0020701218,214,101162,Marcin Gortat,1610612753,Orlando Magic,3,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,46,1,0,20080416,ORL,WAS
-Shot Chart Detail,0020701218,287,101162,Marcin Gortat,1610612753,Orlando Magic,3,3,43,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,89,1,0,20080416,ORL,WAS
-Shot Chart Detail,0020701218,308,101162,Marcin Gortat,1610612753,Orlando Magic,3,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,ORL,WAS
-Shot Chart Detail,0020701218,316,101162,Marcin Gortat,1610612753,Orlando Magic,3,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080416,ORL,WAS
-Shot Chart Detail,0020701218,335,101162,Marcin Gortat,1610612753,Orlando Magic,4,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,ORL,WAS
-Shot Chart Detail,0020701218,338,101162,Marcin Gortat,1610612753,Orlando Magic,4,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,ORL,WAS
-Shot Chart Detail,0020701218,372,101162,Marcin Gortat,1610612753,Orlando Magic,4,5,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080416,ORL,WAS
-Shot Chart Detail,0020701218,394,101162,Marcin Gortat,1610612753,Orlando Magic,4,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,ORL,WAS
-Shot Chart Detail,0020701218,396,101162,Marcin Gortat,1610612753,Orlando Magic,4,3,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,ORL,WAS
-Shot Chart Detail,0020701218,405,101162,Marcin Gortat,1610612753,Orlando Magic,4,2,36,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,6,92,1,0,20080416,ORL,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20700870,481,101162,Marcin Gortat,1610612753,Orlando Magic,4,1,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080301,0,ORL,NYK
+Shot Chart Detail,20700897,397,101162,Marcin Gortat,1610612753,Orlando Magic,4,4,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,-18,1,0,20080305,0,WAS,ORL
+Shot Chart Detail,20700897,399,101162,Marcin Gortat,1610612753,Orlando Magic,4,4,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,53,1,1,20080305,0,WAS,ORL
+Shot Chart Detail,20700897,431,101162,Marcin Gortat,1610612753,Orlando Magic,4,0,15,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,20080305,1,WAS,ORL
+Shot Chart Detail,20700940,447,101162,Marcin Gortat,1610612753,Orlando Magic,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,48,1,0,20080310,0,ORL,ATL
+Shot Chart Detail,20700940,457,101162,Marcin Gortat,1610612753,Orlando Magic,4,0,25,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-43,71,1,0,20080310,0,ORL,ATL
+Shot Chart Detail,20701218,187,101162,Marcin Gortat,1610612753,Orlando Magic,2,2,6,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080416,0,ORL,WAS
+Shot Chart Detail,20701218,214,101162,Marcin Gortat,1610612753,Orlando Magic,3,10,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,46,1,0,20080416,0,ORL,WAS
+Shot Chart Detail,20701218,287,101162,Marcin Gortat,1610612753,Orlando Magic,3,3,43,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,89,1,0,20080416,0,ORL,WAS
+Shot Chart Detail,20701218,308,101162,Marcin Gortat,1610612753,Orlando Magic,3,0,49,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,1,ORL,WAS
+Shot Chart Detail,20701218,316,101162,Marcin Gortat,1610612753,Orlando Magic,3,0,0,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080416,0,ORL,WAS
+Shot Chart Detail,20701218,335,101162,Marcin Gortat,1610612753,Orlando Magic,4,9,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,1,ORL,WAS
+Shot Chart Detail,20701218,338,101162,Marcin Gortat,1610612753,Orlando Magic,4,8,58,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,0,ORL,WAS
+Shot Chart Detail,20701218,372,101162,Marcin Gortat,1610612753,Orlando Magic,4,5,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080416,0,ORL,WAS
+Shot Chart Detail,20701218,394,101162,Marcin Gortat,1610612753,Orlando Magic,4,3,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,1,ORL,WAS
+Shot Chart Detail,20701218,396,101162,Marcin Gortat,1610612753,Orlando Magic,4,3,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080416,1,ORL,WAS
+Shot Chart Detail,20701218,405,101162,Marcin Gortat,1610612753,Orlando Magic,4,2,36,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,6,92,1,0,20080416,0,ORL,WAS

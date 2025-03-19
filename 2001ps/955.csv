@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040000010,125,955,Samaki Walker,1610612759,San Antonio Spurs,2,8,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010423,SAS,MIN
-Shot Chart Detail,0040000010,419,955,Samaki Walker,1610612759,San Antonio Spurs,4,3,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,0,20010423,SAS,MIN
-Shot Chart Detail,0040000019,107,955,Samaki Walker,1610612759,San Antonio Spurs,2,10,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,106,80,1,1,20010428,MIN,SAS
-Shot Chart Detail,0040000025,124,955,Samaki Walker,1610612759,San Antonio Spurs,2,11,26,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010430,MIN,SAS
-Shot Chart Detail,0040000055,374,955,Samaki Walker,1610612759,San Antonio Spurs,4,11,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,55,1,0,20010505,SAS,DAL
-Shot Chart Detail,0040000057,169,955,Samaki Walker,1610612759,San Antonio Spurs,2,8,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010509,DAL,SAS
-Shot Chart Detail,0040000057,180,955,Samaki Walker,1610612759,San Antonio Spurs,2,7,40,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010509,DAL,SAS
-Shot Chart Detail,0040000057,479,955,Samaki Walker,1610612759,San Antonio Spurs,4,2,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010509,DAL,SAS
-Shot Chart Detail,0040000058,118,955,Samaki Walker,1610612759,San Antonio Spurs,2,11,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,36,1,0,20010512,DAL,SAS
-Shot Chart Detail,0040000059,471,955,Samaki Walker,1610612759,San Antonio Spurs,4,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,26,1,1,20010514,SAS,DAL
-Shot Chart Detail,0040000071,475,955,Samaki Walker,1610612759,San Antonio Spurs,4,2,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,40,1,0,20010525,LAL,SAS
-Shot Chart Detail,0040000071,495,955,Samaki Walker,1610612759,San Antonio Spurs,4,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-31,175,1,0,20010525,LAL,SAS
-Shot Chart Detail,0040000072,458,955,Samaki Walker,1610612759,San Antonio Spurs,4,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,118,1,1,20010527,LAL,SAS
-Shot Chart Detail,0040000072,463,955,Samaki Walker,1610612759,San Antonio Spurs,4,3,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,161,61,1,0,20010527,LAL,SAS
-Shot Chart Detail,0040000072,492,955,Samaki Walker,1610612759,San Antonio Spurs,4,0,41,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,51,1,0,20010527,LAL,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40000010,125,955,Samaki Walker,1610612759,San Antonio Spurs,2,8,43,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,4,1,1,20010423,1,SAS,MIN
+Shot Chart Detail,40000010,419,955,Samaki Walker,1610612759,San Antonio Spurs,4,3,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,0,20010423,0,SAS,MIN
+Shot Chart Detail,40000019,107,955,Samaki Walker,1610612759,San Antonio Spurs,2,10,25,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,106,80,1,1,20010428,1,MIN,SAS
+Shot Chart Detail,40000025,124,955,Samaki Walker,1610612759,San Antonio Spurs,2,11,26,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20010430,0,MIN,SAS
+Shot Chart Detail,40000055,374,955,Samaki Walker,1610612759,San Antonio Spurs,4,11,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,62,55,1,0,20010505,0,SAS,DAL
+Shot Chart Detail,40000057,169,955,Samaki Walker,1610612759,San Antonio Spurs,2,8,51,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010509,0,DAL,SAS
+Shot Chart Detail,40000057,180,955,Samaki Walker,1610612759,San Antonio Spurs,2,7,40,Missed Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010509,0,DAL,SAS
+Shot Chart Detail,40000057,479,955,Samaki Walker,1610612759,San Antonio Spurs,4,2,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20010509,0,DAL,SAS
+Shot Chart Detail,40000058,118,955,Samaki Walker,1610612759,San Antonio Spurs,2,11,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,36,1,0,20010512,0,DAL,SAS
+Shot Chart Detail,40000059,471,955,Samaki Walker,1610612759,San Antonio Spurs,4,0,56,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-145,26,1,1,20010514,0,SAS,DAL
+Shot Chart Detail,40000071,475,955,Samaki Walker,1610612759,San Antonio Spurs,4,2,51,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-88,40,1,0,20010525,0,LAL,SAS
+Shot Chart Detail,40000071,495,955,Samaki Walker,1610612759,San Antonio Spurs,4,0,36,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-31,175,1,0,20010525,0,LAL,SAS
+Shot Chart Detail,40000072,458,955,Samaki Walker,1610612759,San Antonio Spurs,4,4,14,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,146,118,1,1,20010527,1,LAL,SAS
+Shot Chart Detail,40000072,463,955,Samaki Walker,1610612759,San Antonio Spurs,4,3,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,161,61,1,0,20010527,0,LAL,SAS
+Shot Chart Detail,40000072,492,955,Samaki Walker,1610612759,San Antonio Spurs,4,0,41,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,51,1,0,20010527,0,LAL,SAS

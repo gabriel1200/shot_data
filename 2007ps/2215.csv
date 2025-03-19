@@ -1,22 +1,22 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040600121,2,2215,Jason Collins,1610612751,New Jersey Nets,1,11,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070421,TOR,NJN
-Shot Chart Detail,0040600121,211,2215,Jason Collins,1610612751,New Jersey Nets,2,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070421,TOR,NJN
-Shot Chart Detail,0040600121,274,2215,Jason Collins,1610612751,New Jersey Nets,3,8,52,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070421,TOR,NJN
-Shot Chart Detail,0040600122,65,2215,Jason Collins,1610612751,New Jersey Nets,1,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070424,TOR,NJN
-Shot Chart Detail,0040600122,283,2215,Jason Collins,1610612751,New Jersey Nets,3,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070424,TOR,NJN
-Shot Chart Detail,0040600123,385,2215,Jason Collins,1610612751,New Jersey Nets,4,3,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070427,NJN,TOR
-Shot Chart Detail,0040600124,271,2215,Jason Collins,1610612751,New Jersey Nets,3,6,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,8,1,1,20070429,NJN,TOR
-Shot Chart Detail,0040600124,317,2215,Jason Collins,1610612751,New Jersey Nets,3,1,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,5,1,0,20070429,NJN,TOR
-Shot Chart Detail,0040600125,39,2215,Jason Collins,1610612751,New Jersey Nets,1,7,31,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070501,TOR,NJN
-Shot Chart Detail,0040600126,282,2215,Jason Collins,1610612751,New Jersey Nets,3,1,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070504,NJN,TOR
-Shot Chart Detail,0040600211,32,2215,Jason Collins,1610612751,New Jersey Nets,1,7,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20070506,CLE,NJN
-Shot Chart Detail,0040600211,61,2215,Jason Collins,1610612751,New Jersey Nets,1,3,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,0,20070506,CLE,NJN
-Shot Chart Detail,0040600211,193,2215,Jason Collins,1610612751,New Jersey Nets,2,3,50,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,15,1,0,20070506,CLE,NJN
-Shot Chart Detail,0040600211,248,2215,Jason Collins,1610612751,New Jersey Nets,3,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-67,168,1,1,20070506,CLE,NJN
-Shot Chart Detail,0040600212,24,2215,Jason Collins,1610612751,New Jersey Nets,1,8,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,5,1,0,20070508,CLE,NJN
-Shot Chart Detail,0040600212,259,2215,Jason Collins,1610612751,New Jersey Nets,3,9,36,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,33,1,0,20070508,CLE,NJN
-Shot Chart Detail,0040600212,381,2215,Jason Collins,1610612751,New Jersey Nets,4,10,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,2,1,1,20070508,CLE,NJN
-Shot Chart Detail,0040600215,269,2215,Jason Collins,1610612751,New Jersey Nets,3,4,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,51,1,0,20070516,CLE,NJN
-Shot Chart Detail,0040600216,61,2215,Jason Collins,1610612751,New Jersey Nets,1,4,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070518,NJN,CLE
-Shot Chart Detail,0040600216,69,2215,Jason Collins,1610612751,New Jersey Nets,1,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070518,NJN,CLE
-Shot Chart Detail,0040600216,287,2215,Jason Collins,1610612751,New Jersey Nets,3,5,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,135,1,0,20070518,NJN,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40600121,2,2215,Jason Collins,1610612751,New Jersey Nets,1,11,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070421,1,TOR,NJN
+Shot Chart Detail,40600121,211,2215,Jason Collins,1610612751,New Jersey Nets,2,1,55,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070421,0,TOR,NJN
+Shot Chart Detail,40600121,274,2215,Jason Collins,1610612751,New Jersey Nets,3,8,52,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070421,0,TOR,NJN
+Shot Chart Detail,40600122,65,2215,Jason Collins,1610612751,New Jersey Nets,1,4,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070424,0,TOR,NJN
+Shot Chart Detail,40600122,283,2215,Jason Collins,1610612751,New Jersey Nets,3,4,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070424,1,TOR,NJN
+Shot Chart Detail,40600123,385,2215,Jason Collins,1610612751,New Jersey Nets,4,3,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070427,1,NJN,TOR
+Shot Chart Detail,40600124,271,2215,Jason Collins,1610612751,New Jersey Nets,3,6,22,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,8,1,1,20070429,1,NJN,TOR
+Shot Chart Detail,40600124,317,2215,Jason Collins,1610612751,New Jersey Nets,3,1,14,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-153,5,1,0,20070429,0,NJN,TOR
+Shot Chart Detail,40600125,39,2215,Jason Collins,1610612751,New Jersey Nets,1,7,31,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070501,0,TOR,NJN
+Shot Chart Detail,40600126,282,2215,Jason Collins,1610612751,New Jersey Nets,3,1,51,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070504,1,NJN,TOR
+Shot Chart Detail,40600211,32,2215,Jason Collins,1610612751,New Jersey Nets,1,7,9,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,0,1,1,20070506,1,CLE,NJN
+Shot Chart Detail,40600211,61,2215,Jason Collins,1610612751,New Jersey Nets,1,3,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,0,20070506,0,CLE,NJN
+Shot Chart Detail,40600211,193,2215,Jason Collins,1610612751,New Jersey Nets,2,3,50,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-34,15,1,0,20070506,0,CLE,NJN
+Shot Chart Detail,40600211,248,2215,Jason Collins,1610612751,New Jersey Nets,3,11,2,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-67,168,1,1,20070506,1,CLE,NJN
+Shot Chart Detail,40600212,24,2215,Jason Collins,1610612751,New Jersey Nets,1,8,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,5,1,0,20070508,0,CLE,NJN
+Shot Chart Detail,40600212,259,2215,Jason Collins,1610612751,New Jersey Nets,3,9,36,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,18,33,1,0,20070508,0,CLE,NJN
+Shot Chart Detail,40600212,381,2215,Jason Collins,1610612751,New Jersey Nets,4,10,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,2,1,1,20070508,1,CLE,NJN
+Shot Chart Detail,40600215,269,2215,Jason Collins,1610612751,New Jersey Nets,3,4,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,51,1,0,20070516,0,CLE,NJN
+Shot Chart Detail,40600216,61,2215,Jason Collins,1610612751,New Jersey Nets,1,4,28,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20070518,1,NJN,CLE
+Shot Chart Detail,40600216,69,2215,Jason Collins,1610612751,New Jersey Nets,1,3,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20070518,0,NJN,CLE
+Shot Chart Detail,40600216,287,2215,Jason Collins,1610612751,New Jersey Nets,3,5,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-90,135,1,0,20070518,0,NJN,CLE

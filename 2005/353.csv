@@ -1,555 +1,278 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020400010,93,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041103,NOH,DAL
-Shot Chart Detail,0020400010,96,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,199,1,0,20041103,NOH,DAL
-Shot Chart Detail,0020400010,376,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,163,1,0,20041103,NOH,DAL
-Shot Chart Detail,0020400010,411,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-118,219,1,0,20041103,NOH,DAL
-Shot Chart Detail,0020400024,91,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,118,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,112,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,128,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,139,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,126,95,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,310,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,202,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,375,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,10,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,126,163,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,384,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,253,1,1,20041105,NOH,ORL
-Shot Chart Detail,0020400024,387,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-25,183,1,1,20041105,NOH,ORL
-Shot Chart Detail,0020400036,326,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,178,1,0,20041106,MIN,NOH
-Shot Chart Detail,0020400036,330,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-105,225,1,1,20041106,MIN,NOH
-Shot Chart Detail,0020400036,347,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,141,155,1,1,20041106,MIN,NOH
-Shot Chart Detail,0020400053,102,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,112,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,171,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,114,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,186,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,131,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,334,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,3,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,343,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,161,178,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,365,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,426,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,155,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,438,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,487,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400077,93,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-154,127,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,108,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,17,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,116,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,179,1,1,20041112,NOH,ATL
-Shot Chart Detail,0020400077,129,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,10,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-16,242,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,135,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,10,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-38,181,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,307,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,313,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,404,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,409,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,186,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,3,240,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400086,13,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,207,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,45,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,49,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,47,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,55,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,5,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-18,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,189,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,230,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,194,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,168,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,212,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-11,273,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,221,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,15,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,255,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,264,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,84,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,317,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,132,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,338,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-16,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,355,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,222,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,362,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,397,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,232,102,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,413,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,418,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,258,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400111,4,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,11,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,25,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,247,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,27,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,41,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,11,194,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,160,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,219,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,162,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,164,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,171,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,15,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,222,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-128,196,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,251,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,262,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,8,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,342,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,242,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,352,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,227,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,354,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,176,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,370,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,151,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,375,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,55,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,51,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,384,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,155,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400134,4,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,11,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,38,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-69,230,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,61,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-25,164,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,66,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-156,169,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,266,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,273,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-10,227,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,276,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,194,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,305,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,95,217,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,317,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,160,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,395,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-51,161,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,148,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400148,15,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,9,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,24,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,238,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,234,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,136,196,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,274,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,-41,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,277,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-13,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,314,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-148,169,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,319,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,128,150,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,398,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,112,158,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,411,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,196,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,444,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-102,192,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,450,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,146,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400159,139,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,132,1,0,20041123,GSW,NOH
-Shot Chart Detail,0020400159,173,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,GSW,NOH
-Shot Chart Detail,0020400159,211,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,132,1,1,20041123,GSW,NOH
-Shot Chart Detail,0020400159,370,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-9,1,1,20041123,GSW,NOH
-Shot Chart Detail,0020400159,379,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,169,1,0,20041123,GSW,NOH
-Shot Chart Detail,0020400180,22,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,36,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,40,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,49,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,44,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,43,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,127,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,179,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,155,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,164,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,177,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,6,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,191,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,169,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,197,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,160,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,252,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,141,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,296,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,299,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,204,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,367,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,174,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,394,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,192,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,412,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,64,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-197,189,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,444,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-149,178,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,471,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-207,174,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,491,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,222,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400198,13,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,8,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,30,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,95,120,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,52,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,107,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,156,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,109,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,100,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,185,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,191,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,46,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,203,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,212,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,156,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,230,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,135,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,181,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,260,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,8,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,181,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,276,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-3,201,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,366,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,9,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,72,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,372,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,386,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,36,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,390,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,420,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-59,155,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,438,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,450,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,219,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400200,9,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041129,DEN,NOH
-Shot Chart Detail,0020400200,18,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,82,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,69,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-79,168,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,74,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,181,1,1,20041129,DEN,NOH
-Shot Chart Detail,0020400200,106,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,109,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-79,284,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,114,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,184,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,197,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041129,DEN,NOH
-Shot Chart Detail,0020400200,217,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,37,199,317,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,238,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,174,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,358,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-59,179,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,365,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,7,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,387,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,32,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,160,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,400,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,23,-200,125,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400215,29,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041201,NOH,SAC
-Shot Chart Detail,0020400215,34,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,217,-3,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,41,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,15,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,162,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,186,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,167,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,6,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,222,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,199,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,112,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,213,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,163,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,217,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,43,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,224,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,22,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,245,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,10,1,1,20041201,NOH,SAC
-Shot Chart Detail,0020400215,270,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,135,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400241,130,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,141,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400241,132,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,114,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400241,162,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,51,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400241,442,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,82,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400251,123,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,174,1,1,20041206,DAL,DET
-Shot Chart Detail,0020400251,157,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041206,DAL,DET
-Shot Chart Detail,0020400251,175,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,161,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,184,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,168,1,1,20041206,DAL,DET
-Shot Chart Detail,0020400251,190,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,199,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-80,79,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,250,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,0,238,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,294,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,222,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,440,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,196,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,486,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,17,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400259,25,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,169,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,66,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-151,104,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,68,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,166,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,227,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,243,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,219,1,1,20041207,MIN,DAL
-Shot Chart Detail,0020400259,270,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041207,MIN,DAL
-Shot Chart Detail,0020400259,456,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,18,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400274,7,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,61,179,1,1,20041209,DAL,SEA
-Shot Chart Detail,0020400274,49,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,44,197,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400274,59,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,160,1,1,20041209,DAL,SEA
-Shot Chart Detail,0020400274,170,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,61,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400274,226,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,122,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400274,240,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,11,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,115,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400291,266,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041211,HOU,DAL
-Shot Chart Detail,0020400291,272,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,204,1,0,20041211,HOU,DAL
-Shot Chart Detail,0020400291,319,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,217,1,0,20041211,HOU,DAL
-Shot Chart Detail,0020400291,325,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,1,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041211,HOU,DAL
-Shot Chart Detail,0020400304,30,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,117,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,41,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,238,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,44,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-2,201,1,1,20041213,CHI,DAL
-Shot Chart Detail,0020400304,54,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,CHI,DAL
-Shot Chart Detail,0020400304,137,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,171,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,196,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,200,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,1,20041213,CHI,DAL
-Shot Chart Detail,0020400304,333,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,352,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,191,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,358,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400313,51,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,304,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,312,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,5,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,173,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,339,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041214,DAL,GSW
-Shot Chart Detail,0020400313,360,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-46,183,1,1,20041214,DAL,GSW
-Shot Chart Detail,0020400313,362,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,184,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,483,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,232,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,499,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041214,DAL,GSW
-Shot Chart Detail,0020400313,502,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,209,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,522,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,30,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400346,489,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041218,DAL,ATL
-Shot Chart Detail,0020400346,495,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,26,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041218,DAL,ATL
-Shot Chart Detail,0020400346,520,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,59,1,0,20041218,DAL,ATL
-Shot Chart Detail,0020400362,434,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,1,20041221,NYK,DAL
-Shot Chart Detail,0020400362,471,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,174,1,1,20041221,NYK,DAL
-Shot Chart Detail,0020400371,198,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,2,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,273,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,132,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,314,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,31,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,514,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,169,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,517,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,245,64,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400404,486,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,35,1,0,20041228,DAL,BOS
-Shot Chart Detail,0020400404,493,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041228,DAL,BOS
-Shot Chart Detail,0020400404,515,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,181,1,0,20041228,DAL,BOS
-Shot Chart Detail,0020400486,512,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,84,1,1,20050108,DAL,IND
-Shot Chart Detail,0020400511,36,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-6,1,1,20050112,DAL,HOU
-Shot Chart Detail,0020400511,254,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,-9,1,0,20050112,DAL,HOU
-Shot Chart Detail,0020400525,432,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20050114,SAS,DAL
-Shot Chart Detail,0020400525,453,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,204,1,0,20050114,SAS,DAL
-Shot Chart Detail,0020400538,224,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,18,1,1,20050115,DAL,NJN
-Shot Chart Detail,0020400538,362,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,30,1,0,20050115,DAL,NJN
-Shot Chart Detail,0020400605,322,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050124,LAC,DAL
-Shot Chart Detail,0020400605,336,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,166,1,0,20050124,LAC,DAL
-Shot Chart Detail,0020400605,390,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,187,1,0,20050124,LAC,DAL
-Shot Chart Detail,0020400621,103,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,28,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400621,109,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,1,20050126,POR,DAL
-Shot Chart Detail,0020400621,141,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-115,214,1,1,20050126,POR,DAL
-Shot Chart Detail,0020400621,219,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,-136,546,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400621,298,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,2,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400621,390,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,38,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400644,326,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,3,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050129,DAL,PHI
-Shot Chart Detail,0020400644,368,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,229,1,1,20050129,DAL,PHI
-Shot Chart Detail,0020400741,102,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,1,11,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,26,1,1,20050211,SAC,DAL
-Shot Chart Detail,0020400741,219,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050211,SAC,DAL
-Shot Chart Detail,0020400754,321,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,2,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,22,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400754,379,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400754,382,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400754,451,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400768,179,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,163,1,0,20050215,GSW,DAL
-Shot Chart Detail,0020400768,210,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,63,1,0,20050215,GSW,DAL
-Shot Chart Detail,0020400768,374,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,8,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20050215,GSW,DAL
-Shot Chart Detail,0020400768,417,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,130,1,1,20050215,GSW,DAL
-Shot Chart Detail,0020400781,119,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,89,1,1,20050217,PHX,DAL
-Shot Chart Detail,0020400781,413,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050217,PHX,DAL
-Shot Chart Detail,0020400797,497,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,141,1,0,20050223,UTA,DAL
-Shot Chart Detail,0020400802,280,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,8,28,Made Shot,Running Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050224,DAL,SAC
-Shot Chart Detail,0020400802,309,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,5,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-80,104,1,0,20050224,DAL,SAC
-Shot Chart Detail,0020400850,155,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,199,1,1,20050302,LAC,DAL
-Shot Chart Detail,0020400850,164,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,16,Missed Shot,Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,0,20050302,LAC,DAL
-Shot Chart Detail,0020400850,406,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,30,1,0,20050302,LAC,DAL
-Shot Chart Detail,0020400872,239,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050306,HOU,DAL
-Shot Chart Detail,0020400872,355,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,169,1,1,20050306,HOU,DAL
-Shot Chart Detail,0020400872,434,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,136,173,1,0,20050306,HOU,DAL
-Shot Chart Detail,0020400872,438,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,38,1,1,20050306,HOU,DAL
-Shot Chart Detail,0020400883,161,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20050307,DAL,TOR
-Shot Chart Detail,0020400903,175,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,39,179,1,0,20050310,DAL,LAL
-Shot Chart Detail,0020400903,386,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-8,1,0,20050310,DAL,LAL
-Shot Chart Detail,0020400903,389,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,110,1,0,20050310,DAL,LAL
-Shot Chart Detail,0020401066,469,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-9,1,0,20050401,PHI,DAL
-Shot Chart Detail,0020401085,493,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,168,1,0,20050403,CLE,DAL
-Shot Chart Detail,0020401117,454,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-186,148,1,1,20050407,DAL,SAS
-Shot Chart Detail,0020401117,497,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,217,1,0,20050407,DAL,SAS
-Shot Chart Detail,0020401136,365,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,31,1,0,20050409,DAL,UTA
-Shot Chart Detail,0020401215,258,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,94,207,1,1,20050419,DAL,SEA
-Shot Chart Detail,0020401215,263,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,10,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20050419,DAL,SEA
-Shot Chart Detail,0020401215,288,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,46,1,0,20050419,DAL,SEA
-Shot Chart Detail,0020401224,353,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,125,546,1,0,20050420,MEM,DAL
-Shot Chart Detail,0020401224,413,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,32,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050420,MEM,DAL
-Shot Chart Detail,0020400010,93,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041103,NOH,DAL
-Shot Chart Detail,0020400010,96,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,199,1,0,20041103,NOH,DAL
-Shot Chart Detail,0020400010,376,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,163,1,0,20041103,NOH,DAL
-Shot Chart Detail,0020400010,411,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-118,219,1,0,20041103,NOH,DAL
-Shot Chart Detail,0020400024,91,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,118,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,112,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,128,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,139,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,126,95,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,310,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,202,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,375,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,10,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,126,163,1,0,20041105,NOH,ORL
-Shot Chart Detail,0020400024,384,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,9,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,253,1,1,20041105,NOH,ORL
-Shot Chart Detail,0020400024,387,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-25,183,1,1,20041105,NOH,ORL
-Shot Chart Detail,0020400036,326,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,178,1,0,20041106,MIN,NOH
-Shot Chart Detail,0020400036,330,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-105,225,1,1,20041106,MIN,NOH
-Shot Chart Detail,0020400036,347,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,141,155,1,1,20041106,MIN,NOH
-Shot Chart Detail,0020400053,102,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,112,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,171,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,114,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,186,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,131,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,334,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,3,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,343,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,161,178,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,365,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,426,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,155,1,1,20041109,NOH,LAL
-Shot Chart Detail,0020400053,438,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400053,487,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,0,20041109,NOH,LAL
-Shot Chart Detail,0020400077,93,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-154,127,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,108,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,17,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,116,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,179,1,1,20041112,NOH,ATL
-Shot Chart Detail,0020400077,129,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,10,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-16,242,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,135,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,10,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-38,181,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,307,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,313,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,404,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,409,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,186,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400077,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,3,240,1,0,20041112,NOH,ATL
-Shot Chart Detail,0020400086,13,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,207,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,45,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,49,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,47,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,55,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,5,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-18,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,189,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,230,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,194,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,168,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,212,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-11,273,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,221,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,15,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,255,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,264,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,140,84,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,317,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,132,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,338,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,-16,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,355,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,222,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,362,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,MIL,NOH
-Shot Chart Detail,0020400086,397,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,232,102,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,413,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400086,418,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,258,1,1,20041113,MIL,NOH
-Shot Chart Detail,0020400111,4,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,11,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,25,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,0,247,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,27,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,41,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,11,194,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,160,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,219,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,162,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,164,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,171,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,15,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,222,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-128,196,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,251,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,262,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,8,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,342,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,242,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,352,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,227,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,354,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,176,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,370,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,151,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400111,375,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,55,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,51,1,1,20041117,NOH,PHX
-Shot Chart Detail,0020400111,384,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,13,155,1,0,20041117,NOH,PHX
-Shot Chart Detail,0020400134,4,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,11,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,38,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-69,230,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,61,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-25,164,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,66,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-156,169,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,266,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,273,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,-10,227,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,276,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,194,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,305,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,95,217,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,317,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,160,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400134,395,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-51,161,1,1,20041120,NOH,MIN
-Shot Chart Detail,0020400134,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,148,1,0,20041120,NOH,MIN
-Shot Chart Detail,0020400148,15,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,9,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,24,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-54,238,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,234,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,136,196,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,274,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,7,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,-41,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,277,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-13,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,314,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,2,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-148,169,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,319,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,128,150,1,1,20041122,UTA,NOH
-Shot Chart Detail,0020400148,398,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,112,158,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,411,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,4,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,196,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,444,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-102,192,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400148,450,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,146,1,0,20041122,UTA,NOH
-Shot Chart Detail,0020400159,139,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,132,1,0,20041123,GSW,NOH
-Shot Chart Detail,0020400159,173,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,4,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,GSW,NOH
-Shot Chart Detail,0020400159,211,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,132,1,1,20041123,GSW,NOH
-Shot Chart Detail,0020400159,370,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-187,-9,1,1,20041123,GSW,NOH
-Shot Chart Detail,0020400159,379,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,169,1,0,20041123,GSW,NOH
-Shot Chart Detail,0020400180,22,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,36,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,40,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,49,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,44,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-136,43,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,127,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-2,179,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,155,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,164,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,177,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,6,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,191,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,169,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,197,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,160,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,252,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,141,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,296,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,1,20041126,PHX,NOH
-Shot Chart Detail,0020400180,299,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,204,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,367,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,174,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,394,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,192,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,412,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,64,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-197,189,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,444,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-149,178,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,471,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-207,174,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400180,491,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,222,1,0,20041126,PHX,NOH
-Shot Chart Detail,0020400198,13,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,8,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,30,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,95,120,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,52,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,5,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,107,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,156,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,109,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,3,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-174,100,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,185,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,191,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,46,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,203,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,212,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,156,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,230,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,135,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,10,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,181,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,260,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,8,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,181,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,276,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-3,201,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,366,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,9,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,72,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,372,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,386,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,36,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,390,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,26,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,420,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-59,155,1,1,20041128,LAL,NOH
-Shot Chart Detail,0020400198,438,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400198,450,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,219,1,0,20041128,LAL,NOH
-Shot Chart Detail,0020400200,9,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041129,DEN,NOH
-Shot Chart Detail,0020400200,18,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,136,82,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,69,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-79,168,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,74,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,181,1,1,20041129,DEN,NOH
-Shot Chart Detail,0020400200,106,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,109,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-79,284,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,114,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,184,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,197,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041129,DEN,NOH
-Shot Chart Detail,0020400200,217,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,37,199,317,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,238,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,174,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,358,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-59,179,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,365,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,7,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,387,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,32,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,160,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400200,400,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,23,-200,125,1,0,20041129,DEN,NOH
-Shot Chart Detail,0020400215,29,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041201,NOH,SAC
-Shot Chart Detail,0020400215,34,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,217,-3,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,41,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,15,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,162,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,186,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,167,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,6,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,222,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,199,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,112,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,213,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,163,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,217,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,43,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,224,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,22,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400215,245,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,10,1,1,20041201,NOH,SAC
-Shot Chart Detail,0020400215,270,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,135,1,0,20041201,NOH,SAC
-Shot Chart Detail,0020400241,130,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,141,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400241,132,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,114,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400241,162,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,51,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400241,442,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,82,1,0,20041204,DAL,UTA
-Shot Chart Detail,0020400251,123,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,11,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-41,174,1,1,20041206,DAL,DET
-Shot Chart Detail,0020400251,157,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041206,DAL,DET
-Shot Chart Detail,0020400251,175,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,161,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,184,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,168,1,1,20041206,DAL,DET
-Shot Chart Detail,0020400251,190,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,199,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-80,79,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,250,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,0,238,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,294,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,222,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,440,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,29,Missed Shot,Jump Shot,2PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,196,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400251,486,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,17,1,0,20041206,DAL,DET
-Shot Chart Detail,0020400259,25,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,9,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,169,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,66,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-151,104,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,68,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,166,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,227,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400259,243,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,219,1,1,20041207,MIN,DAL
-Shot Chart Detail,0020400259,270,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041207,MIN,DAL
-Shot Chart Detail,0020400259,456,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,18,1,0,20041207,MIN,DAL
-Shot Chart Detail,0020400274,7,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,61,179,1,1,20041209,DAL,SEA
-Shot Chart Detail,0020400274,49,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,44,197,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400274,59,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,160,1,1,20041209,DAL,SEA
-Shot Chart Detail,0020400274,170,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,5,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,200,61,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400274,226,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,122,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400274,240,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,11,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,115,1,0,20041209,DAL,SEA
-Shot Chart Detail,0020400291,266,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,7,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041211,HOU,DAL
-Shot Chart Detail,0020400291,272,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,204,1,0,20041211,HOU,DAL
-Shot Chart Detail,0020400291,319,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,1,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,217,1,0,20041211,HOU,DAL
-Shot Chart Detail,0020400291,325,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,1,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041211,HOU,DAL
-Shot Chart Detail,0020400304,30,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,8,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,97,117,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,41,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,238,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,44,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-2,201,1,1,20041213,CHI,DAL
-Shot Chart Detail,0020400304,54,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,CHI,DAL
-Shot Chart Detail,0020400304,137,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,171,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,196,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,26,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,200,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,10,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,1,20041213,CHI,DAL
-Shot Chart Detail,0020400304,333,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,352,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,191,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400304,358,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,CHI,DAL
-Shot Chart Detail,0020400313,51,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,304,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,312,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,5,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,173,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,339,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,3,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041214,DAL,GSW
-Shot Chart Detail,0020400313,360,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-46,183,1,1,20041214,DAL,GSW
-Shot Chart Detail,0020400313,362,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,184,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,483,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-71,232,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,499,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041214,DAL,GSW
-Shot Chart Detail,0020400313,502,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,209,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400313,522,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,30,1,0,20041214,DAL,GSW
-Shot Chart Detail,0020400346,489,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,3,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041218,DAL,ATL
-Shot Chart Detail,0020400346,495,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,26,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041218,DAL,ATL
-Shot Chart Detail,0020400346,520,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,59,1,0,20041218,DAL,ATL
-Shot Chart Detail,0020400362,434,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,6,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,1,20041221,NYK,DAL
-Shot Chart Detail,0020400362,471,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,174,1,1,20041221,NYK,DAL
-Shot Chart Detail,0020400371,198,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,2,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,273,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,8,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,132,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,314,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,4,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,31,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,514,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,169,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400371,517,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,245,64,1,0,20041222,ATL,DAL
-Shot Chart Detail,0020400404,486,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,169,35,1,0,20041228,DAL,BOS
-Shot Chart Detail,0020400404,493,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041228,DAL,BOS
-Shot Chart Detail,0020400404,515,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,181,1,0,20041228,DAL,BOS
-Shot Chart Detail,0020400486,512,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,132,84,1,1,20050108,DAL,IND
-Shot Chart Detail,0020400511,36,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-6,1,1,20050112,DAL,HOU
-Shot Chart Detail,0020400511,254,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-105,-9,1,0,20050112,DAL,HOU
-Shot Chart Detail,0020400525,432,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20050114,SAS,DAL
-Shot Chart Detail,0020400525,453,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,204,1,0,20050114,SAS,DAL
-Shot Chart Detail,0020400538,224,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,18,1,1,20050115,DAL,NJN
-Shot Chart Detail,0020400538,362,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,85,30,1,0,20050115,DAL,NJN
-Shot Chart Detail,0020400605,322,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050124,LAC,DAL
-Shot Chart Detail,0020400605,336,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,166,1,0,20050124,LAC,DAL
-Shot Chart Detail,0020400605,390,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,187,1,0,20050124,LAC,DAL
-Shot Chart Detail,0020400621,103,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,0,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,28,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400621,109,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,0,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,1,20050126,POR,DAL
-Shot Chart Detail,0020400621,141,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-115,214,1,1,20050126,POR,DAL
-Shot Chart Detail,0020400621,219,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,-136,546,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400621,298,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,2,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400621,390,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,38,1,0,20050126,POR,DAL
-Shot Chart Detail,0020400644,326,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,3,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050129,DAL,PHI
-Shot Chart Detail,0020400644,368,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,229,1,1,20050129,DAL,PHI
-Shot Chart Detail,0020400741,102,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,1,11,Made Shot,Running Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,26,1,1,20050211,SAC,DAL
-Shot Chart Detail,0020400741,219,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,50,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050211,SAC,DAL
-Shot Chart Detail,0020400754,321,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,2,20,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,22,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400754,379,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400754,382,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400754,451,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,10,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20050213,SEA,DAL
-Shot Chart Detail,0020400768,179,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,163,1,0,20050215,GSW,DAL
-Shot Chart Detail,0020400768,210,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,63,1,0,20050215,GSW,DAL
-Shot Chart Detail,0020400768,374,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,8,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20050215,GSW,DAL
-Shot Chart Detail,0020400768,417,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,130,1,1,20050215,GSW,DAL
-Shot Chart Detail,0020400781,119,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-146,89,1,1,20050217,PHX,DAL
-Shot Chart Detail,0020400781,413,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050217,PHX,DAL
-Shot Chart Detail,0020400797,497,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,141,1,0,20050223,UTA,DAL
-Shot Chart Detail,0020400802,280,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,8,28,Made Shot,Running Finger Roll Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050224,DAL,SAC
-Shot Chart Detail,0020400802,309,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,5,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-80,104,1,0,20050224,DAL,SAC
-Shot Chart Detail,0020400850,155,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,0,199,1,1,20050302,LAC,DAL
-Shot Chart Detail,0020400850,164,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,16,Missed Shot,Finger Roll Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,0,20050302,LAC,DAL
-Shot Chart Detail,0020400850,406,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,6,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,30,1,0,20050302,LAC,DAL
-Shot Chart Detail,0020400872,239,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050306,HOU,DAL
-Shot Chart Detail,0020400872,355,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,11,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,169,1,1,20050306,HOU,DAL
-Shot Chart Detail,0020400872,434,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,136,173,1,0,20050306,HOU,DAL
-Shot Chart Detail,0020400872,438,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,38,1,1,20050306,HOU,DAL
-Shot Chart Detail,0020400883,161,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20050307,DAL,TOR
-Shot Chart Detail,0020400903,175,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,39,179,1,0,20050310,DAL,LAL
-Shot Chart Detail,0020400903,386,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-8,1,0,20050310,DAL,LAL
-Shot Chart Detail,0020400903,389,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,110,1,0,20050310,DAL,LAL
-Shot Chart Detail,0020401066,469,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,-9,1,0,20050401,PHI,DAL
-Shot Chart Detail,0020401085,493,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,168,1,0,20050403,CLE,DAL
-Shot Chart Detail,0020401117,454,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-186,148,1,1,20050407,DAL,SAS
-Shot Chart Detail,0020401117,497,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,217,1,0,20050407,DAL,SAS
-Shot Chart Detail,0020401136,365,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-204,31,1,0,20050409,DAL,UTA
-Shot Chart Detail,0020401215,258,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,11,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,94,207,1,1,20050419,DAL,SEA
-Shot Chart Detail,0020401215,263,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,10,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20050419,DAL,SEA
-Shot Chart Detail,0020401215,288,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,46,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,46,1,0,20050419,DAL,SEA
-Shot Chart Detail,0020401224,353,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,56,125,546,1,0,20050420,MEM,DAL
-Shot Chart Detail,0020401224,413,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,32,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050420,MEM,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20400010,93,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041103,1,NOH,DAL
+Shot Chart Detail,20400010,96,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,199,1,0,20041103,0,NOH,DAL
+Shot Chart Detail,20400010,376,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,26,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,163,1,0,20041103,0,NOH,DAL
+Shot Chart Detail,20400010,411,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-118,219,1,0,20041103,0,NOH,DAL
+Shot Chart Detail,20400024,91,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,212,118,1,0,20041105,0,NOH,ORL
+Shot Chart Detail,20400024,112,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-222,128,1,0,20041105,0,NOH,ORL
+Shot Chart Detail,20400024,139,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,9,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,126,95,1,0,20041105,0,NOH,ORL
+Shot Chart Detail,20400024,310,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,202,1,0,20041105,0,NOH,ORL
+Shot Chart Detail,20400024,375,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,10,18,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,126,163,1,0,20041105,0,NOH,ORL
+Shot Chart Detail,20400024,384,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,9,16,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-6,253,1,1,20041105,1,NOH,ORL
+Shot Chart Detail,20400024,387,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,52,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-25,183,1,1,20041105,0,NOH,ORL
+Shot Chart Detail,20400036,326,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,38,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,178,1,0,20041106,0,MIN,NOH
+Shot Chart Detail,20400036,330,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,8,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-105,225,1,1,20041106,1,MIN,NOH
+Shot Chart Detail,20400036,347,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,38,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,141,155,1,1,20041106,0,MIN,NOH
+Shot Chart Detail,20400053,102,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,22,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,158,10,1,1,20041109,1,NOH,LAL
+Shot Chart Detail,20400053,112,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,59,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-66,171,1,0,20041109,0,NOH,LAL
+Shot Chart Detail,20400053,114,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,55,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,186,1,0,20041109,0,NOH,LAL
+Shot Chart Detail,20400053,131,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,0,20041109,0,NOH,LAL
+Shot Chart Detail,20400053,334,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,4,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-204,3,1,1,20041109,1,NOH,LAL
+Shot Chart Detail,20400053,343,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,2,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,161,178,1,0,20041109,0,NOH,LAL
+Shot Chart Detail,20400053,365,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041109,0,NOH,LAL
+Shot Chart Detail,20400053,426,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,13,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,189,155,1,1,20041109,1,NOH,LAL
+Shot Chart Detail,20400053,438,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,11,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,0,1,0,20041109,0,NOH,LAL
+Shot Chart Detail,20400053,487,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,-6,1,0,20041109,0,NOH,LAL
+Shot Chart Detail,20400077,93,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,2,12,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-154,127,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,108,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,1,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,17,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,116,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,1,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,179,1,1,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,129,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,10,38,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-16,242,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,135,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,10,7,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-38,181,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,307,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,23,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,313,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,404,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,53,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,409,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,186,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400077,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,45,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,3,240,1,0,20041112,0,NOH,ATL
+Shot Chart Detail,20400086,13,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,207,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,45,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,4,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,241,49,1,1,20041113,1,MIL,NOH
+Shot Chart Detail,20400086,47,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,55,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,5,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,-18,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,189,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,8,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,230,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,194,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,40,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,168,1,1,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,212,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,10,13,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-11,273,1,1,20041113,1,MIL,NOH
+Shot Chart Detail,20400086,221,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,8,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,15,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,255,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,264,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,16,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,140,84,1,1,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,317,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,10,33,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,132,1,1,20041113,1,MIL,NOH
+Shot Chart Detail,20400086,338,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-140,-16,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,355,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-128,222,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,362,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,397,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,33,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,232,102,1,1,20041113,1,MIL,NOH
+Shot Chart Detail,20400086,413,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041113,0,MIL,NOH
+Shot Chart Detail,20400086,418,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,6,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-64,258,1,1,20041113,0,MIL,NOH
+Shot Chart Detail,20400111,4,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,11,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,15,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,25,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,26,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,0,247,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,27,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,1,NOH,PHX
+Shot Chart Detail,20400111,41,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,25,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,11,194,1,1,20041117,1,NOH,PHX
+Shot Chart Detail,20400111,160,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,52,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,219,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,162,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,38,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,164,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,171,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,37,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,15,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,222,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-128,196,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,251,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,52,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,262,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,3,47,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,8,1,1,20041117,1,NOH,PHX
+Shot Chart Detail,20400111,342,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,14,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,1,242,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,352,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,52,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,227,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,354,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-164,176,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,370,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,34,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,197,151,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400111,375,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,55,Made Shot,Running Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-110,51,1,1,20041117,1,NOH,PHX
+Shot Chart Detail,20400111,384,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,16,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,13,155,1,0,20041117,0,NOH,PHX
+Shot Chart Detail,20400134,4,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,11,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,38,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,31,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-69,230,1,1,20041120,1,NOH,MIN
+Shot Chart Detail,20400134,61,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,27,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-25,164,1,1,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,66,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,3,46,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-156,169,1,1,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,266,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,48,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,273,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,8,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,-10,227,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,276,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,5,2,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-163,194,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,305,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,37,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,23,95,217,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,317,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,0,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,160,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,395,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,6,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-51,161,1,1,20041120,0,NOH,MIN
+Shot Chart Detail,20400134,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,148,1,0,20041120,0,NOH,MIN
+Shot Chart Detail,20400148,15,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,9,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041122,1,UTA,NOH
+Shot Chart Detail,20400148,24,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,31,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-54,238,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,234,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,136,196,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,274,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,7,26,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-199,-41,1,1,20041122,1,UTA,NOH
+Shot Chart Detail,20400148,277,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,50,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-13,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,314,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,2,9,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-148,169,1,1,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,319,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,1,9,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,128,150,1,1,20041122,1,UTA,NOH
+Shot Chart Detail,20400148,398,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,5,50,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,112,158,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,411,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,4,59,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,0,196,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,444,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,11,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-102,192,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400148,450,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,11,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-130,146,1,0,20041122,0,UTA,NOH
+Shot Chart Detail,20400159,139,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,46,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,56,132,1,0,20041123,0,GSW,NOH
+Shot Chart Detail,20400159,173,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,4,56,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041123,1,GSW,NOH
+Shot Chart Detail,20400159,211,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,52,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,132,1,1,20041123,0,GSW,NOH
+Shot Chart Detail,20400159,370,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,7,50,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-187,-9,1,1,20041123,1,GSW,NOH
+Shot Chart Detail,20400159,379,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,58,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,169,1,0,20041123,0,GSW,NOH
+Shot Chart Detail,20400180,22,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,56,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,140,36,1,1,20041126,1,PHX,NOH
+Shot Chart Detail,20400180,40,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,29,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,49,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,44,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,21,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-136,43,1,1,20041126,1,PHX,NOH
+Shot Chart Detail,20400180,127,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,0,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-2,179,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,155,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,55,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,164,1,1,20041126,1,PHX,NOH
+Shot Chart Detail,20400180,177,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,6,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,191,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,5,10,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,169,1,1,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,197,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,59,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,160,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,252,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-128,141,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,296,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,7,29,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,120,1,1,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,299,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,55,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,204,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,367,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,11,23,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,174,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,394,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,9,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,94,192,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,412,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,12,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-141,64,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,414,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,8,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-197,189,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,444,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,24,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-149,178,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,471,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-207,174,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400180,491,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,222,1,0,20041126,0,PHX,NOH
+Shot Chart Detail,20400198,13,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,26,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,8,1,1,20041128,1,LAL,NOH
+Shot Chart Detail,20400198,30,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,26,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,95,120,1,1,20041128,1,LAL,NOH
+Shot Chart Detail,20400198,52,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,5,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,107,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,41,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,156,1,1,20041128,1,LAL,NOH
+Shot Chart Detail,20400198,109,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,3,Made Shot,Running Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-174,100,1,1,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,185,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,3,19,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,191,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,154,46,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,203,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,212,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,49,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-113,156,1,1,20041128,1,LAL,NOH
+Shot Chart Detail,20400198,230,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,11,39,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,135,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,10,23,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,181,1,1,20041128,1,LAL,NOH
+Shot Chart Detail,20400198,260,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,8,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,181,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,276,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,32,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-3,201,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,366,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,9,40,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-10,72,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,372,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,8,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,386,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,51,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-115,36,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,390,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,26,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041128,1,LAL,NOH
+Shot Chart Detail,20400198,420,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,11,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-59,155,1,1,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,438,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,1,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400198,450,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,0,31,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,219,1,0,20041128,0,LAL,NOH
+Shot Chart Detail,20400200,9,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,10,41,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041129,1,DEN,NOH
+Shot Chart Detail,20400200,18,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,9,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,136,82,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,69,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,28,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-79,168,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,74,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,4,1,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-105,181,1,1,20041129,1,DEN,NOH
+Shot Chart Detail,20400200,106,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,27,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,109,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,0,0,Missed Shot,Jump Bank Shot,,Above the Break 3,Center(C),24+ ft.,29,-79,284,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,114,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,11,45,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-69,184,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,197,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,1,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041129,1,DEN,NOH
+Shot Chart Detail,20400200,217,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,0,Missed Shot,Turnaround Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,37,199,317,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,238,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,8,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,174,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,358,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,47,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-59,179,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,365,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,6,7,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-166,-6,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,387,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,3,32,Missed Shot,Running Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,6,160,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400200,400,353,Darrell Armstrong,1610612740,New Orleans Hornets,4,2,5,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,23,-200,125,1,0,20041129,0,DEN,NOH
+Shot Chart Detail,20400215,29,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,8,20,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,34,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,7,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,217,-3,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,41,353,Darrell Armstrong,1610612740,New Orleans Hornets,1,6,59,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-210,15,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,162,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,7,20,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,186,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,167,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,6,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,222,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,199,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,2,44,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,112,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,213,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,43,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,89,163,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,217,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-237,43,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,224,353,Darrell Armstrong,1610612740,New Orleans Hornets,2,0,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,243,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,30,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-243,22,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,245,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,9,25,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,10,1,1,20041201,0,NOH,SAC
+Shot Chart Detail,20400215,270,353,Darrell Armstrong,1610612740,New Orleans Hornets,3,6,11,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,135,1,0,20041201,0,NOH,SAC
+Shot Chart Detail,20400241,130,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,36,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,141,1,0,20041204,0,DAL,UTA
+Shot Chart Detail,20400241,132,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,29,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,114,1,0,20041204,0,DAL,UTA
+Shot Chart Detail,20400241,162,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,32,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-140,51,1,0,20041204,0,DAL,UTA
+Shot Chart Detail,20400241,442,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,31,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,87,82,1,0,20041204,0,DAL,UTA
+Shot Chart Detail,20400251,123,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,11,19,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-41,174,1,1,20041206,0,DAL,DET
+Shot Chart Detail,20400251,157,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041206,0,DAL,DET
+Shot Chart Detail,20400251,175,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,24,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,62,161,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400251,184,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,5,49,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,168,1,1,20041206,1,DAL,DET
+Shot Chart Detail,20400251,190,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400251,199,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-80,79,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400251,250,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,23,0,238,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400251,294,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,32,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,222,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400251,440,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,29,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,196,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400251,486,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,44,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,17,1,0,20041206,0,DAL,DET
+Shot Chart Detail,20400259,25,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,9,36,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-120,169,1,0,20041207,0,MIN,DAL
+Shot Chart Detail,20400259,66,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-151,104,1,0,20041207,0,MIN,DAL
+Shot Chart Detail,20400259,68,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,47,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,177,166,1,0,20041207,0,MIN,DAL
+Shot Chart Detail,20400259,227,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,2,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041207,0,MIN,DAL
+Shot Chart Detail,20400259,243,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,29,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,219,1,1,20041207,1,MIN,DAL
+Shot Chart Detail,20400259,270,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,9,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041207,1,MIN,DAL
+Shot Chart Detail,20400259,456,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,11,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-237,18,1,0,20041207,0,MIN,DAL
+Shot Chart Detail,20400274,7,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,10,58,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,61,179,1,1,20041209,0,DAL,SEA
+Shot Chart Detail,20400274,49,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,37,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,44,197,1,0,20041209,0,DAL,SEA
+Shot Chart Detail,20400274,59,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,4,59,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,160,1,1,20041209,1,DAL,SEA
+Shot Chart Detail,20400274,170,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,5,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,200,61,1,0,20041209,0,DAL,SEA
+Shot Chart Detail,20400274,226,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,122,1,0,20041209,0,DAL,SEA
+Shot Chart Detail,20400274,240,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,11,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,215,115,1,0,20041209,0,DAL,SEA
+Shot Chart Detail,20400291,266,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,7,34,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041211,0,HOU,DAL
+Shot Chart Detail,20400291,272,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,204,1,0,20041211,0,HOU,DAL
+Shot Chart Detail,20400291,319,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,1,50,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,217,1,0,20041211,0,HOU,DAL
+Shot Chart Detail,20400291,325,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,1,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041211,1,HOU,DAL
+Shot Chart Detail,20400304,30,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,8,22,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,97,117,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,41,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,7,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,238,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,44,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,34,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-2,201,1,1,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,54,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,5,18,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,137,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,31,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,171,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,196,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,26,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,200,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,3,10,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,91,1,1,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,333,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,352,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,43,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,159,191,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400304,358,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041213,0,CHI,DAL
+Shot Chart Detail,20400313,51,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,4,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,189,-6,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,304,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,312,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,5,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,182,173,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,339,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,3,35,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,360,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,57,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-46,183,1,1,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,362,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,44,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,89,184,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,483,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,49,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-71,232,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,499,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,502,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,49,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,140,209,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400313,522,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,8,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,79,30,1,0,20041214,0,DAL,GSW
+Shot Chart Detail,20400346,489,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,3,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041218,0,DAL,ATL
+Shot Chart Detail,20400346,495,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,26,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041218,0,DAL,ATL
+Shot Chart Detail,20400346,520,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,16,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,59,1,0,20041218,0,DAL,ATL
+Shot Chart Detail,20400362,434,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,6,49,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-130,118,1,1,20041221,1,NYK,DAL
+Shot Chart Detail,20400362,471,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,3,2,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,174,1,1,20041221,1,NYK,DAL
+Shot Chart Detail,20400371,198,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,2,35,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,-11,1,0,20041222,0,ATL,DAL
+Shot Chart Detail,20400371,273,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,8,34,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,61,132,1,0,20041222,0,ATL,DAL
+Shot Chart Detail,20400371,314,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,4,28,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,138,31,1,0,20041222,0,ATL,DAL
+Shot Chart Detail,20400371,514,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,169,1,0,20041222,0,ATL,DAL
+Shot Chart Detail,20400371,517,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,21,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,25,245,64,1,0,20041222,0,ATL,DAL
+Shot Chart Detail,20400404,486,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,16,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,169,35,1,0,20041228,0,DAL,BOS
+Shot Chart Detail,20400404,493,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20041228,0,DAL,BOS
+Shot Chart Detail,20400404,515,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,181,1,0,20041228,0,DAL,BOS
+Shot Chart Detail,20400486,512,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,7,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,132,84,1,1,20050108,0,DAL,IND
+Shot Chart Detail,20400511,36,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,6,40,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-6,1,1,20050112,1,DAL,HOU
+Shot Chart Detail,20400511,254,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,7,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-105,-9,1,0,20050112,0,DAL,HOU
+Shot Chart Detail,20400525,432,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,38,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20050114,0,SAS,DAL
+Shot Chart Detail,20400525,453,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,204,1,0,20050114,0,SAS,DAL
+Shot Chart Detail,20400538,224,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,18,1,1,20050115,0,DAL,NJN
+Shot Chart Detail,20400538,362,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,8,27,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,85,30,1,0,20050115,0,DAL,NJN
+Shot Chart Detail,20400605,322,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050124,0,LAC,DAL
+Shot Chart Detail,20400605,336,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,194,166,1,0,20050124,0,LAC,DAL
+Shot Chart Detail,20400605,390,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,29,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,187,1,0,20050124,0,LAC,DAL
+Shot Chart Detail,20400621,103,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,0,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-191,28,1,0,20050126,0,POR,DAL
+Shot Chart Detail,20400621,109,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,0,1,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,1,20050126,1,POR,DAL
+Shot Chart Detail,20400621,141,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,19,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-115,214,1,1,20050126,1,POR,DAL
+Shot Chart Detail,20400621,219,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,56,-136,546,1,0,20050126,0,POR,DAL
+Shot Chart Detail,20400621,298,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,2,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-5,1,0,20050126,0,POR,DAL
+Shot Chart Detail,20400621,390,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,55,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,159,38,1,0,20050126,0,POR,DAL
+Shot Chart Detail,20400644,326,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,3,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050129,0,DAL,PHI
+Shot Chart Detail,20400644,368,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,11,24,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,229,1,1,20050129,1,DAL,PHI
+Shot Chart Detail,20400741,102,353,Darrell Armstrong,1610612742,Dallas Mavericks,1,1,11,Made Shot,Running Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-77,26,1,1,20050211,0,SAC,DAL
+Shot Chart Detail,20400741,219,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,50,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050211,0,SAC,DAL
+Shot Chart Detail,20400754,321,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,2,20,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,28,22,1,0,20050213,0,SEA,DAL
+Shot Chart Detail,20400754,379,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20050213,0,SEA,DAL
+Shot Chart Detail,20400754,382,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,41,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,0,20050213,0,SEA,DAL
+Shot Chart Detail,20400754,451,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,10,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,0,20050213,0,SEA,DAL
+Shot Chart Detail,20400768,179,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,55,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-115,163,1,0,20050215,0,GSW,DAL
+Shot Chart Detail,20400768,210,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,1,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,63,1,0,20050215,0,GSW,DAL
+Shot Chart Detail,20400768,374,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,8,57,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20050215,0,GSW,DAL
+Shot Chart Detail,20400768,417,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,4,39,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-110,130,1,1,20050215,0,GSW,DAL
+Shot Chart Detail,20400781,119,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,9,43,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-146,89,1,1,20050217,0,PHX,DAL
+Shot Chart Detail,20400781,413,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050217,0,PHX,DAL
+Shot Chart Detail,20400797,497,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,1,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,133,141,1,0,20050223,0,UTA,DAL
+Shot Chart Detail,20400802,280,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,8,28,Made Shot,Running Finger Roll Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050224,0,DAL,SAC
+Shot Chart Detail,20400802,309,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,5,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-80,104,1,0,20050224,0,DAL,SAC
+Shot Chart Detail,20400850,155,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,8,7,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,0,199,1,1,20050302,0,LAC,DAL
+Shot Chart Detail,20400850,164,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,16,Missed Shot,Finger Roll Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,8,41,1,0,20050302,0,LAC,DAL
+Shot Chart Detail,20400850,406,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,6,18,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,174,30,1,0,20050302,0,LAC,DAL
+Shot Chart Detail,20400872,239,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,0,33,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20050306,0,HOU,DAL
+Shot Chart Detail,20400872,355,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,11,11,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-115,169,1,1,20050306,1,HOU,DAL
+Shot Chart Detail,20400872,434,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,2,22,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,136,173,1,0,20050306,0,HOU,DAL
+Shot Chart Detail,20400872,438,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,1,48,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-238,38,1,1,20050306,1,HOU,DAL
+Shot Chart Detail,20400883,161,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,6,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,214,1,0,20050307,0,DAL,TOR
+Shot Chart Detail,20400903,175,353,Darrell Armstrong,1610612742,Dallas Mavericks,2,4,37,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,39,179,1,0,20050310,0,DAL,LAL
+Shot Chart Detail,20400903,386,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,10,22,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-222,-8,1,0,20050310,0,DAL,LAL
+Shot Chart Detail,20400903,389,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,9,46,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-21,110,1,0,20050310,0,DAL,LAL
+Shot Chart Detail,20401066,469,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,5,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-126,-9,1,0,20050401,0,PHI,DAL
+Shot Chart Detail,20401085,493,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,168,1,0,20050403,0,CLE,DAL
+Shot Chart Detail,20401117,454,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,11,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,23,-186,148,1,1,20050407,1,DAL,SAS
+Shot Chart Detail,20401117,497,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,0,27,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,217,1,0,20050407,0,DAL,SAS
+Shot Chart Detail,20401136,365,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-204,31,1,0,20050409,0,DAL,UTA
+Shot Chart Detail,20401215,258,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,11,35,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,94,207,1,1,20050419,1,DAL,SEA
+Shot Chart Detail,20401215,263,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,10,25,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,7,1,0,20050419,0,DAL,SEA
+Shot Chart Detail,20401215,288,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,6,46,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,46,1,0,20050419,0,DAL,SEA
+Shot Chart Detail,20401224,353,353,Darrell Armstrong,1610612742,Dallas Mavericks,3,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,56,125,546,1,0,20050420,0,MEM,DAL
+Shot Chart Detail,20401224,413,353,Darrell Armstrong,1610612742,Dallas Mavericks,4,5,32,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20050420,0,MEM,DAL

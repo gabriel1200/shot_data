@@ -1,121 +1,61 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300901,115,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,28,1,1,20140304,OKC,PHI
-Shot Chart Detail,0021300901,129,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,57,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,42,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,132,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,41,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,134,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,220,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,221,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20140304,OKC,PHI
-Shot Chart Detail,0021300901,418,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20140304,OKC,PHI
-Shot Chart Detail,0021300929,36,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,-35,1,1,20140308,PHI,UTA
-Shot Chart Detail,0021300929,73,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-8,181,1,0,20140308,PHI,UTA
-Shot Chart Detail,0021300946,74,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-21,1,1,20140310,NYK,PHI
-Shot Chart Detail,0021300946,84,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,53,1,0,20140310,NYK,PHI
-Shot Chart Detail,0021300959,433,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20140312,PHI,SAC
-Shot Chart Detail,0021300959,552,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-14,1,1,20140312,PHI,SAC
-Shot Chart Detail,0021300985,76,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,1,20140315,PHI,MEM
-Shot Chart Detail,0021300997,77,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-116,159,1,1,20140317,IND,PHI
-Shot Chart Detail,0021300997,98,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,11,1,0,20140317,IND,PHI
-Shot Chart Detail,0021301008,76,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,0,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,227,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,21,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,34,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,274,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,1,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301023,353,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,6,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20140321,PHI,NYK
-Shot Chart Detail,0021301034,59,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-10,168,1,1,20140322,CHI,PHI
-Shot Chart Detail,0021301034,128,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20140322,CHI,PHI
-Shot Chart Detail,0021301034,274,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,33,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,422,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,10,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,431,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,9,24,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140322,CHI,PHI
-Shot Chart Detail,0021301072,232,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,7,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20140327,HOU,PHI
-Shot Chart Detail,0021301072,442,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20140327,HOU,PHI
-Shot Chart Detail,0021301087,74,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,17,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,132,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,140,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,42,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,0,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,417,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,420,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,532,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,135,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,536,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-10,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,541,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301103,112,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,9,1,1,20140331,ATL,PHI
-Shot Chart Detail,0021301103,122,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,34,94,1,0,20140331,ATL,PHI
-Shot Chart Detail,0021301103,248,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20140331,ATL,PHI
-Shot Chart Detail,0021301117,67,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,44,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,69,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,77,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20140402,PHI,CHA
-Shot Chart Detail,0021301117,85,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,19,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,96,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,51,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,176,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20140402,PHI,CHA
-Shot Chart Detail,0021301133,234,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,22,1,1,20140404,BOS,PHI
-Shot Chart Detail,0021301133,390,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,22,1,1,20140404,BOS,PHI
-Shot Chart Detail,0021301147,45,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,113,1,0,20140405,PHI,BKN
-Shot Chart Detail,0021301147,184,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,66,1,0,20140405,PHI,BKN
-Shot Chart Detail,0021301147,188,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-15,184,1,1,20140405,PHI,BKN
-Shot Chart Detail,0021301164,53,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,3,1,1,20140409,TOR,PHI
-Shot Chart Detail,0021301164,353,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,4,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20140409,TOR,PHI
-Shot Chart Detail,0021301164,373,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,0,38,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,0,20140409,TOR,PHI
-Shot Chart Detail,0021301182,138,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,9,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20140411,MEM,PHI
-Shot Chart Detail,0021301182,502,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,26,1,0,20140411,MEM,PHI
-Shot Chart Detail,0021301182,511,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,131,1,1,20140411,MEM,PHI
-Shot Chart Detail,0021301204,133,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-13,1,1,20140414,PHI,BOS
-Shot Chart Detail,0021301225,106,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,43,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20140416,MIA,PHI
-Shot Chart Detail,0021301225,211,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,2,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,52,1,1,20140416,MIA,PHI
-Shot Chart Detail,0021301225,235,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,0,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,19,1,0,20140416,MIA,PHI
-Shot Chart Detail,0021301225,305,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,5,38,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,0,20140416,MIA,PHI
-Shot Chart Detail,0021301225,373,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,0,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,3,1,1,20140416,MIA,PHI
-Shot Chart Detail,0021300901,115,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-157,28,1,1,20140304,OKC,PHI
-Shot Chart Detail,0021300901,129,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,57,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,42,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,132,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,41,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,134,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,220,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,0,20140304,OKC,PHI
-Shot Chart Detail,0021300901,221,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,40,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20140304,OKC,PHI
-Shot Chart Detail,0021300901,418,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,45,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20140304,OKC,PHI
-Shot Chart Detail,0021300929,36,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,7,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,-35,1,1,20140308,PHI,UTA
-Shot Chart Detail,0021300929,73,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-8,181,1,0,20140308,PHI,UTA
-Shot Chart Detail,0021300946,74,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-127,-21,1,1,20140310,NYK,PHI
-Shot Chart Detail,0021300946,84,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,11,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,53,1,0,20140310,NYK,PHI
-Shot Chart Detail,0021300959,433,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20140312,PHI,SAC
-Shot Chart Detail,0021300959,552,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,-14,1,1,20140312,PHI,SAC
-Shot Chart Detail,0021300985,76,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,1,20140315,PHI,MEM
-Shot Chart Detail,0021300997,77,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-116,159,1,1,20140317,IND,PHI
-Shot Chart Detail,0021300997,98,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-138,11,1,0,20140317,IND,PHI
-Shot Chart Detail,0021301008,76,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,5,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,0,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,227,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,21,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,34,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301008,274,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,1,4,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20140319,PHI,CHI
-Shot Chart Detail,0021301023,353,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,6,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20140321,PHI,NYK
-Shot Chart Detail,0021301034,59,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-10,168,1,1,20140322,CHI,PHI
-Shot Chart Detail,0021301034,128,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20140322,CHI,PHI
-Shot Chart Detail,0021301034,274,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,33,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,422,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,10,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20140322,CHI,PHI
-Shot Chart Detail,0021301034,431,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,9,24,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140322,CHI,PHI
-Shot Chart Detail,0021301072,232,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,7,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20140327,HOU,PHI
-Shot Chart Detail,0021301072,442,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20140327,HOU,PHI
-Shot Chart Detail,0021301087,74,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,17,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,132,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,140,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,42,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,0,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,417,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,420,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,7,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301087,532,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-82,135,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,536,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-10,1,0,20140329,PHI,DET
-Shot Chart Detail,0021301087,541,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140329,PHI,DET
-Shot Chart Detail,0021301103,112,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,9,1,1,20140331,ATL,PHI
-Shot Chart Detail,0021301103,122,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,34,94,1,0,20140331,ATL,PHI
-Shot Chart Detail,0021301103,248,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,10,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20140331,ATL,PHI
-Shot Chart Detail,0021301117,67,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,44,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,69,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,77,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20140402,PHI,CHA
-Shot Chart Detail,0021301117,85,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,110,19,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,96,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,51,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,0,20140402,PHI,CHA
-Shot Chart Detail,0021301117,176,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20140402,PHI,CHA
-Shot Chart Detail,0021301133,234,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,124,22,1,1,20140404,BOS,PHI
-Shot Chart Detail,0021301133,390,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,22,1,1,20140404,BOS,PHI
-Shot Chart Detail,0021301147,45,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,5,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,113,1,0,20140405,PHI,BKN
-Shot Chart Detail,0021301147,184,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,4,28,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,66,1,0,20140405,PHI,BKN
-Shot Chart Detail,0021301147,188,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,4,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-15,184,1,1,20140405,PHI,BKN
-Shot Chart Detail,0021301164,53,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,3,1,1,20140409,TOR,PHI
-Shot Chart Detail,0021301164,353,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,4,10,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20140409,TOR,PHI
-Shot Chart Detail,0021301164,373,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,0,38,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,0,20140409,TOR,PHI
-Shot Chart Detail,0021301182,138,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,9,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20140411,MEM,PHI
-Shot Chart Detail,0021301182,502,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,26,1,0,20140411,MEM,PHI
-Shot Chart Detail,0021301182,511,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,131,1,1,20140411,MEM,PHI
-Shot Chart Detail,0021301204,133,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-13,1,1,20140414,PHI,BOS
-Shot Chart Detail,0021301225,106,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,43,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20140416,MIA,PHI
-Shot Chart Detail,0021301225,211,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,2,38,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,52,1,1,20140416,MIA,PHI
-Shot Chart Detail,0021301225,235,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,0,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,19,1,0,20140416,MIA,PHI
-Shot Chart Detail,0021301225,305,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,5,38,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,0,20140416,MIA,PHI
-Shot Chart Detail,0021301225,373,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,0,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,3,1,1,20140416,MIA,PHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300901,115,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,33,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-157,28,1,1,20140304,1,OKC,PHI
+Shot Chart Detail,21300901,129,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,57,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,42,1,0,20140304,0,OKC,PHI
+Shot Chart Detail,21300901,132,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,41,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-15,6,1,0,20140304,0,OKC,PHI
+Shot Chart Detail,21300901,134,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,39,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-16,7,1,0,20140304,0,OKC,PHI
+Shot Chart Detail,21300901,220,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-7,14,1,0,20140304,0,OKC,PHI
+Shot Chart Detail,21300901,221,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,40,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20140304,0,OKC,PHI
+Shot Chart Detail,21300901,418,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,45,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20140304,0,OKC,PHI
+Shot Chart Detail,21300929,36,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,7,49,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-157,-35,1,1,20140308,1,PHI,UTA
+Shot Chart Detail,21300929,73,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-8,181,1,0,20140308,0,PHI,UTA
+Shot Chart Detail,21300946,74,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,8,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-127,-21,1,1,20140310,1,NYK,PHI
+Shot Chart Detail,21300946,84,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,11,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,53,1,0,20140310,0,NYK,PHI
+Shot Chart Detail,21300959,433,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,56,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20140312,0,PHI,SAC
+Shot Chart Detail,21300959,552,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,6,33,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,-14,1,1,20140312,1,PHI,SAC
+Shot Chart Detail,21300985,76,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,1,20140315,0,PHI,MEM
+Shot Chart Detail,21300997,77,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,49,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-116,159,1,1,20140317,1,IND,PHI
+Shot Chart Detail,21300997,98,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,20,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-138,11,1,0,20140317,0,IND,PHI
+Shot Chart Detail,21301008,76,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,5,41,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-155,0,1,1,20140319,1,PHI,CHI
+Shot Chart Detail,21301008,227,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,21,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-4,34,1,1,20140319,1,PHI,CHI
+Shot Chart Detail,21301008,274,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,1,4,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20140319,0,PHI,CHI
+Shot Chart Detail,21301023,353,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,6,4,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20140321,1,PHI,NYK
+Shot Chart Detail,21301034,59,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,6,47,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-10,168,1,1,20140322,1,CHI,PHI
+Shot Chart Detail,21301034,128,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,2,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20140322,0,CHI,PHI
+Shot Chart Detail,21301034,274,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,1,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-10,33,1,0,20140322,0,CHI,PHI
+Shot Chart Detail,21301034,422,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,10,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20140322,0,CHI,PHI
+Shot Chart Detail,21301034,431,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,9,24,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20140322,1,CHI,PHI
+Shot Chart Detail,21301072,232,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,7,7,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20140327,1,HOU,PHI
+Shot Chart Detail,21301072,442,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,3,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,1,20140327,1,HOU,PHI
+Shot Chart Detail,21301087,74,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,17,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,149,17,1,0,20140329,0,PHI,DET
+Shot Chart Detail,21301087,132,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-4,0,1,1,20140329,1,PHI,DET
+Shot Chart Detail,21301087,140,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,42,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-32,0,1,0,20140329,0,PHI,DET
+Shot Chart Detail,21301087,417,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,39,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20140329,1,PHI,DET
+Shot Chart Detail,21301087,420,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,7,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20140329,1,PHI,DET
+Shot Chart Detail,21301087,532,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-82,135,1,0,20140329,0,PHI,DET
+Shot Chart Detail,21301087,536,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,147,-10,1,0,20140329,0,PHI,DET
+Shot Chart Detail,21301087,541,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,11,1,1,20140329,0,PHI,DET
+Shot Chart Detail,21301103,112,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,33,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,174,9,1,1,20140331,1,ATL,PHI
+Shot Chart Detail,21301103,122,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,26,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,34,94,1,0,20140331,0,ATL,PHI
+Shot Chart Detail,21301103,248,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,10,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20140331,1,ATL,PHI
+Shot Chart Detail,21301117,67,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,3,44,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,69,1,0,20140402,0,PHI,CHA
+Shot Chart Detail,21301117,77,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,26,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,1,20140402,1,PHI,CHA
+Shot Chart Detail,21301117,85,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,2,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,110,19,1,0,20140402,0,PHI,CHA
+Shot Chart Detail,21301117,96,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,51,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,0,20140402,0,PHI,CHA
+Shot Chart Detail,21301117,176,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,6,21,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20140402,1,PHI,CHA
+Shot Chart Detail,21301133,234,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,3,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,124,22,1,1,20140404,0,BOS,PHI
+Shot Chart Detail,21301133,390,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,2,47,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,22,1,1,20140404,1,BOS,PHI
+Shot Chart Detail,21301147,45,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,5,10,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,113,1,0,20140405,0,PHI,BKN
+Shot Chart Detail,21301147,184,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,4,28,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,66,1,0,20140405,0,PHI,BKN
+Shot Chart Detail,21301147,188,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,4,10,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-15,184,1,1,20140405,1,PHI,BKN
+Shot Chart Detail,21301164,53,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,4,39,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-149,3,1,1,20140409,1,TOR,PHI
+Shot Chart Detail,21301164,353,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,4,10,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,4,1,1,20140409,1,TOR,PHI
+Shot Chart Detail,21301164,373,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,0,38,Missed Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,0,20140409,0,TOR,PHI
+Shot Chart Detail,21301182,138,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,9,13,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20140411,1,MEM,PHI
+Shot Chart Detail,21301182,502,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,1,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-134,26,1,0,20140411,0,MEM,PHI
+Shot Chart Detail,21301182,511,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,4,0,28,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,131,1,1,20140411,1,MEM,PHI
+Shot Chart Detail,21301204,133,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,1,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,-13,1,1,20140414,1,PHI,BOS
+Shot Chart Detail,21301225,106,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,1,0,43,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,15,1,1,20140416,1,MIA,PHI
+Shot Chart Detail,21301225,211,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,2,38,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,52,1,1,20140416,1,MIA,PHI
+Shot Chart Detail,21301225,235,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,2,0,38,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,19,1,0,20140416,0,MIA,PHI
+Shot Chart Detail,21301225,305,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,5,38,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,0,20140416,0,MIA,PHI
+Shot Chart Detail,21301225,373,202363,Jarvis Varnado,1610612755,Philadelphia 76ers,3,0,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,3,1,1,20140416,1,MIA,PHI

@@ -1,11 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021400498,478,203315,Toure' Murry,1610612762,Utah Jazz,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,159,1,0,20150103,MIN,UTA
-Shot Chart Detail,0021400963,569,203315,Toure' Murry,1610612764,Washington Wizards,4,2,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20150312,WAS,MEM
-Shot Chart Detail,0021401042,434,203315,Toure' Murry,1610612764,Washington Wizards,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,121,1,0,20150322,SAC,WAS
-Shot Chart Detail,0021401042,498,203315,Toure' Murry,1610612764,Washington Wizards,4,2,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,12,1,0,20150322,SAC,WAS
-Shot Chart Detail,0021401053,491,203315,Toure' Murry,1610612764,Washington Wizards,4,2,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20150323,GSW,WAS
-Shot Chart Detail,0021400498,478,203315,Toure' Murry,1610612762,Utah Jazz,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,159,1,0,20150103,MIN,UTA
-Shot Chart Detail,0021400963,569,203315,Toure' Murry,1610612764,Washington Wizards,4,2,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20150312,WAS,MEM
-Shot Chart Detail,0021401042,434,203315,Toure' Murry,1610612764,Washington Wizards,4,8,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,121,1,0,20150322,SAC,WAS
-Shot Chart Detail,0021401042,498,203315,Toure' Murry,1610612764,Washington Wizards,4,2,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,12,1,0,20150322,SAC,WAS
-Shot Chart Detail,0021401053,491,203315,Toure' Murry,1610612764,Washington Wizards,4,2,41,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20150323,GSW,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21400963,569,203315,Toure' Murry,1610612764,Washington Wizards,4,2,10,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20150312,0,WAS,MEM
+Shot Chart Detail,21401042,434,203315,Toure' Murry,1610612764,Washington Wizards,4,8,27,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-158,121,1,0,20150322,0,SAC,WAS
+Shot Chart Detail,21401042,498,203315,Toure' Murry,1610612764,Washington Wizards,4,2,5,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,12,1,0,20150322,0,SAC,WAS
+Shot Chart Detail,21401053,491,203315,Toure' Murry,1610612764,Washington Wizards,4,2,41,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20150323,1,GSW,WAS
+Shot Chart Detail,21400498,478,203315,Toure' Murry,1610612762,Utah Jazz,4,0,15,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,122,159,1,0,20150103,0,MIN,UTA

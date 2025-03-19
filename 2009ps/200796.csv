@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040800111,158,200796,Leon Powe,1610612738,Boston Celtics,2,10,1,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,0,20090418,BOS,CHI
-Shot Chart Detail,0040800111,163,200796,Leon Powe,1610612738,Boston Celtics,2,9,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20090418,BOS,CHI
-Shot Chart Detail,0040800111,174,200796,Leon Powe,1610612738,Boston Celtics,2,8,28,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20090418,BOS,CHI
-Shot Chart Detail,0040800111,444,200796,Leon Powe,1610612738,Boston Celtics,4,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,114,3,1,0,20090418,BOS,CHI
-Shot Chart Detail,0040800111,450,200796,Leon Powe,1610612738,Boston Celtics,4,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20090418,BOS,CHI
-Shot Chart Detail,0040800112,93,200796,Leon Powe,1610612738,Boston Celtics,1,4,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20090420,BOS,CHI
-Shot Chart Detail,0040800112,162,200796,Leon Powe,1610612738,Boston Celtics,2,10,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,1,1,0,20090420,BOS,CHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40800111,158,200796,Leon Powe,1610612738,Boston Celtics,2,10,1,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,12,1,0,20090418,0,BOS,CHI
+Shot Chart Detail,40800111,163,200796,Leon Powe,1610612738,Boston Celtics,2,9,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20090418,0,BOS,CHI
+Shot Chart Detail,40800111,174,200796,Leon Powe,1610612738,Boston Celtics,2,8,28,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20090418,0,BOS,CHI
+Shot Chart Detail,40800111,444,200796,Leon Powe,1610612738,Boston Celtics,4,7,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,114,3,1,0,20090418,0,BOS,CHI
+Shot Chart Detail,40800111,450,200796,Leon Powe,1610612738,Boston Celtics,4,6,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,1,20090418,1,BOS,CHI
+Shot Chart Detail,40800112,93,200796,Leon Powe,1610612738,Boston Celtics,1,4,12,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20090420,0,BOS,CHI
+Shot Chart Detail,40800112,162,200796,Leon Powe,1610612738,Boston Celtics,2,10,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,1,1,0,20090420,0,BOS,CHI

@@ -1,21 +1,21 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020800021,488,2748,Dorell Wright,1610612748,Miami Heat,4,4,23,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-101,151,1,1,20081031,MIA,SAC
-Shot Chart Detail,0020800021,515,2748,Dorell Wright,1610612748,Miami Heat,4,2,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081031,MIA,SAC
-Shot Chart Detail,0020800919,173,2748,Dorell Wright,1610612748,Miami Heat,2,7,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,TOR,MIA
-Shot Chart Detail,0020800928,119,2748,Dorell Wright,1610612748,Miami Heat,2,9,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,0,1,0,20090307,CLE,MIA
-Shot Chart Detail,0020801214,171,2748,Dorell Wright,1610612748,Miami Heat,2,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,156,1,0,20090414,ATL,MIA
-Shot Chart Detail,0020801214,207,2748,Dorell Wright,1610612748,Miami Heat,2,2,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,50,1,1,20090414,ATL,MIA
-Shot Chart Detail,0020801214,365,2748,Dorell Wright,1610612748,Miami Heat,4,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-81,157,1,0,20090414,ATL,MIA
-Shot Chart Detail,0020801214,374,2748,Dorell Wright,1610612748,Miami Heat,4,6,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,1,20090414,ATL,MIA
-Shot Chart Detail,0020801214,382,2748,Dorell Wright,1610612748,Miami Heat,4,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,1,20090414,ATL,MIA
-Shot Chart Detail,0020801214,445,2748,Dorell Wright,1610612748,Miami Heat,4,0,58,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090414,ATL,MIA
-Shot Chart Detail,0020801223,190,2748,Dorell Wright,1610612748,Miami Heat,2,3,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,MIA,DET
-Shot Chart Detail,0020801223,211,2748,Dorell Wright,1610612748,Miami Heat,2,2,7,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,MIA,DET
-Shot Chart Detail,0020801223,220,2748,Dorell Wright,1610612748,Miami Heat,2,0,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,7,1,0,20090415,MIA,DET
-Shot Chart Detail,0020801223,318,2748,Dorell Wright,1610612748,Miami Heat,3,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,140,1,1,20090415,MIA,DET
-Shot Chart Detail,0020801223,356,2748,Dorell Wright,1610612748,Miami Heat,3,0,6,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,MIA,DET
-Shot Chart Detail,0020801223,375,2748,Dorell Wright,1610612748,Miami Heat,4,10,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,MIA,DET
-Shot Chart Detail,0020801223,407,2748,Dorell Wright,1610612748,Miami Heat,4,8,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,1,20090415,MIA,DET
-Shot Chart Detail,0020801223,444,2748,Dorell Wright,1610612748,Miami Heat,4,3,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,MIA,DET
-Shot Chart Detail,0020801223,451,2748,Dorell Wright,1610612748,Miami Heat,4,3,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,142,1,0,20090415,MIA,DET
-Shot Chart Detail,0020801223,531,2748,Dorell Wright,1610612748,Miami Heat,5,2,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-57,160,1,0,20090415,MIA,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20800021,488,2748,Dorell Wright,1610612748,Miami Heat,4,4,23,Made Shot,Jump Bank Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-101,151,1,1,20081031,1,MIA,SAC
+Shot Chart Detail,20800021,515,2748,Dorell Wright,1610612748,Miami Heat,4,2,16,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20081031,0,MIA,SAC
+Shot Chart Detail,20800919,173,2748,Dorell Wright,1610612748,Miami Heat,2,7,35,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090306,1,TOR,MIA
+Shot Chart Detail,20800928,119,2748,Dorell Wright,1610612748,Miami Heat,2,9,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,201,0,1,0,20090307,0,CLE,MIA
+Shot Chart Detail,20801214,171,2748,Dorell Wright,1610612748,Miami Heat,2,6,34,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-7,156,1,0,20090414,0,ATL,MIA
+Shot Chart Detail,20801214,207,2748,Dorell Wright,1610612748,Miami Heat,2,2,26,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-46,50,1,1,20090414,1,ATL,MIA
+Shot Chart Detail,20801214,365,2748,Dorell Wright,1610612748,Miami Heat,4,8,24,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-81,157,1,0,20090414,0,ATL,MIA
+Shot Chart Detail,20801214,374,2748,Dorell Wright,1610612748,Miami Heat,4,6,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,1,20090414,1,ATL,MIA
+Shot Chart Detail,20801214,382,2748,Dorell Wright,1610612748,Miami Heat,4,5,57,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,1,20090414,0,ATL,MIA
+Shot Chart Detail,20801214,445,2748,Dorell Wright,1610612748,Miami Heat,4,0,58,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090414,0,ATL,MIA
+Shot Chart Detail,20801223,190,2748,Dorell Wright,1610612748,Miami Heat,2,3,23,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,MIA,DET
+Shot Chart Detail,20801223,211,2748,Dorell Wright,1610612748,Miami Heat,2,2,7,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090415,1,MIA,DET
+Shot Chart Detail,20801223,220,2748,Dorell Wright,1610612748,Miami Heat,2,0,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-163,7,1,0,20090415,0,MIA,DET
+Shot Chart Detail,20801223,318,2748,Dorell Wright,1610612748,Miami Heat,3,3,43,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,140,1,1,20090415,0,MIA,DET
+Shot Chart Detail,20801223,356,2748,Dorell Wright,1610612748,Miami Heat,3,0,6,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,MIA,DET
+Shot Chart Detail,20801223,375,2748,Dorell Wright,1610612748,Miami Heat,4,10,44,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,MIA,DET
+Shot Chart Detail,20801223,407,2748,Dorell Wright,1610612748,Miami Heat,4,8,1,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,1,20090415,0,MIA,DET
+Shot Chart Detail,20801223,444,2748,Dorell Wright,1610612748,Miami Heat,4,3,57,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090415,0,MIA,DET
+Shot Chart Detail,20801223,451,2748,Dorell Wright,1610612748,Miami Heat,4,3,32,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-97,142,1,0,20090415,0,MIA,DET
+Shot Chart Detail,20801223,531,2748,Dorell Wright,1610612748,Miami Heat,5,2,43,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-57,160,1,0,20090415,0,MIA,DET

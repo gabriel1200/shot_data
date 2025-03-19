@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040800121,168,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,8,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090419,ORL,PHI
-Shot Chart Detail,0040800121,395,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,11,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,4,1,1,20090419,ORL,PHI
-Shot Chart Detail,0040800121,423,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,72,1,0,20090419,ORL,PHI
-Shot Chart Detail,0040800122,139,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-157,34,1,0,20090422,ORL,PHI
-Shot Chart Detail,0040800122,390,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,205,1,0,20090422,ORL,PHI
-Shot Chart Detail,0040800123,171,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,6,27,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,34,1,0,20090424,PHI,ORL
-Shot Chart Detail,0040800124,135,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,7,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,0,1,0,20090426,PHI,ORL
-Shot Chart Detail,0040800125,382,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,11,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,0,20090428,ORL,PHI
-Shot Chart Detail,0040800126,350,2767,Royal Ivey,1610612755,Philadelphia 76ers,3,0,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,31,1,1,20090430,PHI,ORL
-Shot Chart Detail,0040800126,357,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090430,PHI,ORL
-Shot Chart Detail,0040800126,497,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,0,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-128,228,1,0,20090430,PHI,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40800121,168,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,8,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20090419,1,ORL,PHI
+Shot Chart Detail,40800121,395,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,11,22,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,4,1,1,20090419,1,ORL,PHI
+Shot Chart Detail,40800121,423,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,7,11,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,234,72,1,0,20090419,0,ORL,PHI
+Shot Chart Detail,40800122,139,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,9,1,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-157,34,1,0,20090422,0,ORL,PHI
+Shot Chart Detail,40800122,390,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,10,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,205,1,0,20090422,0,ORL,PHI
+Shot Chart Detail,40800123,171,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,6,27,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,34,1,0,20090424,0,PHI,ORL
+Shot Chart Detail,40800124,135,2767,Royal Ivey,1610612755,Philadelphia 76ers,2,7,50,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,0,1,0,20090426,0,PHI,ORL
+Shot Chart Detail,40800125,382,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,11,46,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,0,20090428,0,ORL,PHI
+Shot Chart Detail,40800126,350,2767,Royal Ivey,1610612755,Philadelphia 76ers,3,0,19,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,241,31,1,1,20090430,1,PHI,ORL
+Shot Chart Detail,40800126,357,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,11,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20090430,0,PHI,ORL
+Shot Chart Detail,40800126,497,2767,Royal Ivey,1610612755,Philadelphia 76ers,4,0,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-128,228,1,0,20090430,0,PHI,ORL

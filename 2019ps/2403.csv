@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041800175,272,2403,Nene,1610612745,Houston Rockets,2,5,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20190424,HOU,UTA
-Shot Chart Detail,0041800175,306,2403,Nene,1610612745,Houston Rockets,2,2,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,32,197,1,1,20190424,HOU,UTA
-Shot Chart Detail,0041800175,502,2403,Nene,1610612745,Houston Rockets,3,0,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190424,HOU,UTA
-Shot Chart Detail,0041800221,93,2403,Nene,1610612745,Houston Rockets,1,4,57,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,16,1,1,20190428,GSW,HOU
-Shot Chart Detail,0041800221,234,2403,Nene,1610612745,Houston Rockets,2,6,10,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,41,87,1,1,20190428,GSW,HOU
-Shot Chart Detail,0041800221,585,2403,Nene,1610612745,Houston Rockets,4,6,0,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,55,1,1,20190428,GSW,HOU
-Shot Chart Detail,0041800223,200,2403,Nene,1610612745,Houston Rockets,2,10,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20190504,HOU,GSW
-Shot Chart Detail,0041800225,176,2403,Nene,1610612745,Houston Rockets,2,11,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,50,1,1,20190508,GSW,HOU
-Shot Chart Detail,0041800225,193,2403,Nene,1610612745,Houston Rockets,2,9,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,1,20190508,GSW,HOU
-Shot Chart Detail,0041800226,482,2403,Nene,1610612745,Houston Rockets,3,1,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190510,HOU,GSW
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41800175,272,2403,Nene,1610612745,Houston Rockets,2,5,35,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20190424,1,HOU,UTA
+Shot Chart Detail,41800175,306,2403,Nene,1610612745,Houston Rockets,2,2,25,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,32,197,1,1,20190424,0,HOU,UTA
+Shot Chart Detail,41800175,502,2403,Nene,1610612745,Houston Rockets,3,0,0,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190424,0,HOU,UTA
+Shot Chart Detail,41800221,93,2403,Nene,1610612745,Houston Rockets,1,4,57,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,12,16,1,1,20190428,0,GSW,HOU
+Shot Chart Detail,41800221,234,2403,Nene,1610612745,Houston Rockets,2,6,10,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,41,87,1,1,20190428,1,GSW,HOU
+Shot Chart Detail,41800221,585,2403,Nene,1610612745,Houston Rockets,4,6,0,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,55,1,1,20190428,0,GSW,HOU
+Shot Chart Detail,41800223,200,2403,Nene,1610612745,Houston Rockets,2,10,16,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20190504,1,HOU,GSW
+Shot Chart Detail,41800225,176,2403,Nene,1610612745,Houston Rockets,2,11,37,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,50,1,1,20190508,1,GSW,HOU
+Shot Chart Detail,41800225,193,2403,Nene,1610612745,Houston Rockets,2,9,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,1,20190508,1,GSW,HOU
+Shot Chart Detail,41800226,482,2403,Nene,1610612745,Houston Rockets,3,1,28,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20190510,0,HOU,GSW

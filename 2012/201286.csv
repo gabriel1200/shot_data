@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021100485,83,201286,Eric Dawson,1610612759,San Antonio Spurs,1,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,17,1,0,20120221,POR,SAS
-Shot Chart Detail,0021100485,114,201286,Eric Dawson,1610612759,San Antonio Spurs,2,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,34,1,0,20120221,POR,SAS
-Shot Chart Detail,0021100485,119,201286,Eric Dawson,1610612759,San Antonio Spurs,2,10,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,0,20120221,POR,SAS
-Shot Chart Detail,0021100485,146,201286,Eric Dawson,1610612759,San Antonio Spurs,2,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,146,1,1,20120221,POR,SAS
-Shot Chart Detail,0021100485,288,201286,Eric Dawson,1610612759,San Antonio Spurs,3,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,0,20120221,POR,SAS
-Shot Chart Detail,0021100485,395,201286,Eric Dawson,1610612759,San Antonio Spurs,4,10,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20120221,POR,SAS
-Shot Chart Detail,0021100485,403,201286,Eric Dawson,1610612759,San Antonio Spurs,4,9,31,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20120221,POR,SAS
-Shot Chart Detail,0021100485,480,201286,Eric Dawson,1610612759,San Antonio Spurs,4,2,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20120221,POR,SAS
-Shot Chart Detail,0021100690,520,201286,Eric Dawson,1610612759,San Antonio Spurs,4,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,122,137,1,0,20120321,SAS,MIN
-Shot Chart Detail,0021100707,475,201286,Eric Dawson,1610612759,San Antonio Spurs,4,1,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,17,1,1,20120323,SAS,DAL
-Shot Chart Detail,0021100707,478,201286,Eric Dawson,1610612759,San Antonio Spurs,4,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,15,1,1,20120323,SAS,DAL
-Shot Chart Detail,0021100707,487,201286,Eric Dawson,1610612759,San Antonio Spurs,4,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,142,1,1,20120323,SAS,DAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21100485,83,201286,Eric Dawson,1610612759,San Antonio Spurs,1,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,17,1,0,20120221,0,POR,SAS
+Shot Chart Detail,21100485,114,201286,Eric Dawson,1610612759,San Antonio Spurs,2,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,34,1,0,20120221,0,POR,SAS
+Shot Chart Detail,21100485,119,201286,Eric Dawson,1610612759,San Antonio Spurs,2,10,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,4,1,0,20120221,0,POR,SAS
+Shot Chart Detail,21100485,146,201286,Eric Dawson,1610612759,San Antonio Spurs,2,7,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-87,146,1,1,20120221,1,POR,SAS
+Shot Chart Detail,21100485,288,201286,Eric Dawson,1610612759,San Antonio Spurs,3,6,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-3,1,0,20120221,0,POR,SAS
+Shot Chart Detail,21100485,395,201286,Eric Dawson,1610612759,San Antonio Spurs,4,10,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20120221,0,POR,SAS
+Shot Chart Detail,21100485,403,201286,Eric Dawson,1610612759,San Antonio Spurs,4,9,31,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20120221,1,POR,SAS
+Shot Chart Detail,21100485,480,201286,Eric Dawson,1610612759,San Antonio Spurs,4,2,55,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,1,1,1,20120221,0,POR,SAS
+Shot Chart Detail,21100690,520,201286,Eric Dawson,1610612759,San Antonio Spurs,4,1,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,122,137,1,0,20120321,0,SAS,MIN
+Shot Chart Detail,21100707,475,201286,Eric Dawson,1610612759,San Antonio Spurs,4,1,9,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,173,17,1,1,20120323,1,SAS,DAL
+Shot Chart Detail,21100707,478,201286,Eric Dawson,1610612759,San Antonio Spurs,4,0,46,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,147,15,1,1,20120323,1,SAS,DAL
+Shot Chart Detail,21100707,487,201286,Eric Dawson,1610612759,San Antonio Spurs,4,0,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,146,142,1,1,20120323,1,SAS,DAL

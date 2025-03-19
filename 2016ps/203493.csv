@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041500101,107,203493,Reggie Bullock,1610612765,Detroit Pistons,2,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-119,188,1,1,20160417,CLE,DET
-Shot Chart Detail,0041500101,128,203493,Reggie Bullock,1610612765,Detroit Pistons,2,8,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,21,1,1,20160417,CLE,DET
-Shot Chart Detail,0041500101,342,203493,Reggie Bullock,1610612765,Detroit Pistons,4,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-238,95,1,1,20160417,CLE,DET
-Shot Chart Detail,0041500102,148,203493,Reggie Bullock,1610612765,Detroit Pistons,2,10,34,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20160420,CLE,DET
-Shot Chart Detail,0041500102,521,203493,Reggie Bullock,1610612765,Detroit Pistons,4,2,57,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20160420,CLE,DET
-Shot Chart Detail,0041500102,537,203493,Reggie Bullock,1610612765,Detroit Pistons,4,1,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,36,1,0,20160420,CLE,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41500101,107,203493,Reggie Bullock,1610612765,Detroit Pistons,2,10,58,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-119,188,1,1,20160417,1,CLE,DET
+Shot Chart Detail,41500101,128,203493,Reggie Bullock,1610612765,Detroit Pistons,2,8,32,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,227,21,1,1,20160417,1,CLE,DET
+Shot Chart Detail,41500101,342,203493,Reggie Bullock,1610612765,Detroit Pistons,4,11,4,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-238,95,1,1,20160417,1,CLE,DET
+Shot Chart Detail,41500102,148,203493,Reggie Bullock,1610612765,Detroit Pistons,2,10,34,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20160420,1,CLE,DET
+Shot Chart Detail,41500102,521,203493,Reggie Bullock,1610612765,Detroit Pistons,4,2,57,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20160420,1,CLE,DET
+Shot Chart Detail,41500102,537,203493,Reggie Bullock,1610612765,Detroit Pistons,4,1,54,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-243,36,1,0,20160420,0,CLE,DET

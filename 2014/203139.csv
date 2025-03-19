@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021300044,132,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,2,10,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20131103,OKC,PHX
-Shot Chart Detail,0021300055,98,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,1,2,48,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20131105,NOP,PHX
-Shot Chart Detail,0021300226,524,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20131127,PHX,POR
-Shot Chart Detail,0021300287,129,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,1,0,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,0,20131206,PHX,TOR
-Shot Chart Detail,0021300416,555,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20131223,PHX,LAL
-Shot Chart Detail,0021300416,563,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,14,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,0,20131223,PHX,LAL
-Shot Chart Detail,0021300435,490,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,5,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,14,1,0,20131227,GSW,PHX
-Shot Chart Detail,0021300435,519,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,3,36,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,1,20131227,GSW,PHX
-Shot Chart Detail,0021300435,523,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,2,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20131227,GSW,PHX
-Shot Chart Detail,0021300459,541,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,30,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20131230,LAC,PHX
-Shot Chart Detail,0021300629,516,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,2,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,7,1,0,20140122,PHX,IND
-Shot Chart Detail,0021300629,531,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,46,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20140122,PHX,IND
-Shot Chart Detail,0021300706,491,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20140201,PHX,CHA
-Shot Chart Detail,0021300706,507,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20140201,PHX,CHA
-Shot Chart Detail,0021300822,523,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-6,1,0,20140221,PHX,SAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21300044,132,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,2,10,28,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20131103,0,OKC,PHX
+Shot Chart Detail,21300055,98,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,1,2,48,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20131105,1,NOP,PHX
+Shot Chart Detail,21300226,524,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20131127,0,PHX,POR
+Shot Chart Detail,21300287,129,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,1,0,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,4,1,0,20131206,0,PHX,TOR
+Shot Chart Detail,21300416,555,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,56,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,1,1,1,20131223,1,PHX,LAL
+Shot Chart Detail,21300416,563,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,14,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,0,20131223,0,PHX,LAL
+Shot Chart Detail,21300435,490,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,5,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,14,1,0,20131227,0,GSW,PHX
+Shot Chart Detail,21300435,519,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,3,36,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,1,20131227,0,GSW,PHX
+Shot Chart Detail,21300435,523,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,2,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20131227,1,GSW,PHX
+Shot Chart Detail,21300459,541,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,30,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-7,19,1,1,20131230,1,LAC,PHX
+Shot Chart Detail,21300629,516,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,2,13,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,28,7,1,0,20140122,0,PHX,IND
+Shot Chart Detail,21300629,531,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,46,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20140122,1,PHX,IND
+Shot Chart Detail,21300706,491,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,38,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,7,1,1,20140201,0,PHX,CHA
+Shot Chart Detail,21300706,507,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,0,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,6,1,0,20140201,0,PHX,CHA
+Shot Chart Detail,21300822,523,203139,Viacheslav Kravtsov,1610612756,Phoenix Suns,4,1,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-6,1,0,20140221,0,PHX,SAS

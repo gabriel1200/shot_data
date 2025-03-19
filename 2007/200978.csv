@@ -1,13 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020600676,187,200978,Jeremy Richardson,1610612737,Atlanta Hawks,2,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,158,1,1,20070131,ATL,GSW
-Shot Chart Detail,0020600676,493,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,176,1,0,20070131,ATL,GSW
-Shot Chart Detail,0020600676,500,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-49,199,1,1,20070131,ATL,GSW
-Shot Chart Detail,0020600728,406,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,197,1,0,20070207,ATL,NJN
-Shot Chart Detail,0020600728,422,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,178,1,1,20070207,ATL,NJN
-Shot Chart Detail,0020600728,494,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-1,1,0,20070207,ATL,NJN
-Shot Chart Detail,0020600676,187,200978,Jeremy Richardson,1610612737,Atlanta Hawks,2,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,158,1,1,20070131,ATL,GSW
-Shot Chart Detail,0020600676,493,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,1,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,176,1,0,20070131,ATL,GSW
-Shot Chart Detail,0020600676,500,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-49,199,1,1,20070131,ATL,GSW
-Shot Chart Detail,0020600728,406,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,197,1,0,20070207,ATL,NJN
-Shot Chart Detail,0020600728,422,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,178,1,1,20070207,ATL,NJN
-Shot Chart Detail,0020600728,494,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-1,1,0,20070207,ATL,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20600676,187,200978,Jeremy Richardson,1610612737,Atlanta Hawks,2,4,54,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,158,1,1,20070131,1,ATL,GSW
+Shot Chart Detail,20600676,493,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,1,45,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,95,176,1,0,20070131,0,ATL,GSW
+Shot Chart Detail,20600676,500,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,1,8,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-49,199,1,1,20070131,0,ATL,GSW
+Shot Chart Detail,20600728,406,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,6,59,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-182,197,1,0,20070207,0,ATL,NJN
+Shot Chart Detail,20600728,422,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,5,15,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,178,1,1,20070207,1,ATL,NJN
+Shot Chart Detail,20600728,494,200978,Jeremy Richardson,1610612737,Atlanta Hawks,4,0,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,-1,1,0,20070207,0,ATL,NJN

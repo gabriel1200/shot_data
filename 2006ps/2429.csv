@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0040500101,441,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,23,1,1,20060423,DET,MIL
-Shot Chart Detail,0040500101,447,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,1,28,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060423,DET,MIL
-Shot Chart Detail,0040500105,351,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,10,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,DET,MIL
-Shot Chart Detail,0040500105,360,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,9,51,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,103,2,1,1,20060503,DET,MIL
-Shot Chart Detail,0040500105,378,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,8,10,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060503,DET,MIL
-Shot Chart Detail,0040500105,380,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,8,6,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,DET,MIL
-Shot Chart Detail,0040500105,393,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,6,16,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,13,1,1,20060503,DET,MIL
-Shot Chart Detail,0040500105,396,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,5,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,DET,MIL
-Shot Chart Detail,0040500105,403,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,5,25,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,DET,MIL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,40500101,441,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,2,2,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-133,23,1,1,20060423,1,DET,MIL
+Shot Chart Detail,40500101,447,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,1,28,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060423,1,DET,MIL
+Shot Chart Detail,40500105,351,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,10,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,1,DET,MIL
+Shot Chart Detail,40500105,360,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,9,51,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,103,2,1,1,20060503,1,DET,MIL
+Shot Chart Detail,40500105,378,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,8,10,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20060503,0,DET,MIL
+Shot Chart Detail,40500105,380,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,8,6,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,0,DET,MIL
+Shot Chart Detail,40500105,393,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,6,16,Made Shot,Hook Bank Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,13,1,1,20060503,0,DET,MIL
+Shot Chart Detail,40500105,396,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,5,52,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,1,DET,MIL
+Shot Chart Detail,40500105,403,2429,Dan Gadzuric,1610612749,Milwaukee Bucks,4,5,25,Made Shot,Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20060503,1,DET,MIL

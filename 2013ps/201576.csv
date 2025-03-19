@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0041200161,176,201576,Anthony Randolph,1610612743,Denver Nuggets,2,8,16,Missed Shot,Jump Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,33,1,0,20130420,DEN,GSW
-Shot Chart Detail,0041200161,437,201576,Anthony Randolph,1610612743,Denver Nuggets,4,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20130420,DEN,GSW
-Shot Chart Detail,0041200162,322,201576,Anthony Randolph,1610612743,Denver Nuggets,3,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20130423,DEN,GSW
-Shot Chart Detail,0041200162,345,201576,Anthony Randolph,1610612743,Denver Nuggets,3,2,44,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,61,1,0,20130423,DEN,GSW
-Shot Chart Detail,0041200162,375,201576,Anthony Randolph,1610612743,Denver Nuggets,3,0,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20130423,DEN,GSW
-Shot Chart Detail,0041200162,388,201576,Anthony Randolph,1610612743,Denver Nuggets,4,11,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20130423,DEN,GSW
-Shot Chart Detail,0041200162,391,201576,Anthony Randolph,1610612743,Denver Nuggets,4,11,24,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,66,1,1,20130423,DEN,GSW
-Shot Chart Detail,0041200162,553,201576,Anthony Randolph,1610612743,Denver Nuggets,4,0,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20130423,DEN,GSW
-Shot Chart Detail,0041200163,400,201576,Anthony Randolph,1610612743,Denver Nuggets,4,11,22,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,1,20130426,GSW,DEN
-Shot Chart Detail,0041200163,405,201576,Anthony Randolph,1610612743,Denver Nuggets,4,10,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20130426,GSW,DEN
-Shot Chart Detail,0041200164,562,201576,Anthony Randolph,1610612743,Denver Nuggets,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20130428,GSW,DEN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,41200161,176,201576,Anthony Randolph,1610612743,Denver Nuggets,2,8,16,Missed Shot,Jump Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,33,1,0,20130420,0,DEN,GSW
+Shot Chart Detail,41200161,437,201576,Anthony Randolph,1610612743,Denver Nuggets,4,10,50,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,21,9,1,1,20130420,1,DEN,GSW
+Shot Chart Detail,41200162,322,201576,Anthony Randolph,1610612743,Denver Nuggets,3,5,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,3,1,1,20130423,1,DEN,GSW
+Shot Chart Detail,41200162,345,201576,Anthony Randolph,1610612743,Denver Nuggets,3,2,44,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-34,61,1,0,20130423,0,DEN,GSW
+Shot Chart Detail,41200162,375,201576,Anthony Randolph,1610612743,Denver Nuggets,3,0,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20130423,1,DEN,GSW
+Shot Chart Detail,41200162,388,201576,Anthony Randolph,1610612743,Denver Nuggets,4,11,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,6,1,1,20130423,1,DEN,GSW
+Shot Chart Detail,41200162,391,201576,Anthony Randolph,1610612743,Denver Nuggets,4,11,24,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,66,1,1,20130423,0,DEN,GSW
+Shot Chart Detail,41200162,553,201576,Anthony Randolph,1610612743,Denver Nuggets,4,0,14,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20130423,0,DEN,GSW
+Shot Chart Detail,41200163,400,201576,Anthony Randolph,1610612743,Denver Nuggets,4,11,22,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,-3,1,1,20130426,1,GSW,DEN
+Shot Chart Detail,41200163,405,201576,Anthony Randolph,1610612743,Denver Nuggets,4,10,46,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,12,1,1,20130426,1,GSW,DEN
+Shot Chart Detail,41200164,562,201576,Anthony Randolph,1610612743,Denver Nuggets,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20130428,0,GSW,DEN

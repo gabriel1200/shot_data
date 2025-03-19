@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020200804,476,1585,Brandon Williams,1610612737,Atlanta Hawks,4,3,29,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,105,1,0,20030223,GSW,ATL
-Shot Chart Detail,0020200804,508,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-149,43,1,0,20030223,GSW,ATL
-Shot Chart Detail,0020200853,424,1585,Brandon Williams,1610612737,Atlanta Hawks,4,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,91,1,0,20030302,MIL,ATL
-Shot Chart Detail,0020200853,433,1585,Brandon Williams,1610612737,Atlanta Hawks,4,1,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,51,1,0,20030302,MIL,ATL
-Shot Chart Detail,0020200892,464,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,20,1,1,20030308,ATL,TOR
-Shot Chart Detail,0020200924,464,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,59,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,-1,1,0,20030312,ATL,MIL
-Shot Chart Detail,0020200924,468,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20030312,ATL,MIL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20200804,476,1585,Brandon Williams,1610612737,Atlanta Hawks,4,3,29,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,1,105,1,0,20030223,0,GSW,ATL
+Shot Chart Detail,20200804,508,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-149,43,1,0,20030223,0,GSW,ATL
+Shot Chart Detail,20200853,424,1585,Brandon Williams,1610612737,Atlanta Hawks,4,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,123,91,1,0,20030302,0,MIL,ATL
+Shot Chart Detail,20200853,433,1585,Brandon Williams,1610612737,Atlanta Hawks,4,1,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,236,51,1,0,20030302,0,MIL,ATL
+Shot Chart Detail,20200892,464,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,17,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-194,20,1,1,20030308,1,ATL,TOR
+Shot Chart Detail,20200924,464,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,59,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-80,-1,1,0,20030312,0,ATL,MIL
+Shot Chart Detail,20200924,468,1585,Brandon Williams,1610612737,Atlanta Hawks,4,0,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20030312,0,ATL,MIL

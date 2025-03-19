@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0020700148,483,201165,Morris Almond,1610612762,Utah Jazz,4,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-202,15,1,0,20071119,UTA,NJN
-Shot Chart Detail,0020700148,489,201165,Morris Almond,1610612762,Utah Jazz,4,1,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,168,1,0,20071119,UTA,NJN
-Shot Chart Detail,0020700231,479,201165,Morris Almond,1610612762,Utah Jazz,4,1,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,35,1,0,20071130,UTA,LAL
-Shot Chart Detail,0020700507,487,201165,Morris Almond,1610612762,Utah Jazz,4,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-31,1,0,20080108,UTA,IND
-Shot Chart Detail,0020700507,495,201165,Morris Almond,1610612762,Utah Jazz,4,3,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080108,UTA,IND
-Shot Chart Detail,0020700507,507,201165,Morris Almond,1610612762,Utah Jazz,4,1,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,48,1,0,20080108,UTA,IND
-Shot Chart Detail,0020700507,513,201165,Morris Almond,1610612762,Utah Jazz,4,0,56,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,7,1,1,20080108,UTA,IND
-Shot Chart Detail,0020700507,515,201165,Morris Almond,1610612762,Utah Jazz,4,0,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,17,1,0,20080108,UTA,IND
-Shot Chart Detail,0020700522,406,201165,Morris Almond,1610612762,Utah Jazz,4,6,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080110,UTA,PHX
-Shot Chart Detail,0020701102,363,201165,Morris Almond,1610612762,Utah Jazz,4,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,163,1,1,20080331,UTA,WAS
-Shot Chart Detail,0020701102,382,201165,Morris Almond,1610612762,Utah Jazz,4,3,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,181,122,1,0,20080331,UTA,WAS
-Shot Chart Detail,0020701102,402,201165,Morris Almond,1610612762,Utah Jazz,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,0,20080331,UTA,WAS
-Shot Chart Detail,0020701119,399,201165,Morris Almond,1610612762,Utah Jazz,4,3,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080402,UTA,MIN
-Shot Chart Detail,0020701119,416,201165,Morris Almond,1610612762,Utah Jazz,4,1,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,33,1,0,20080402,UTA,MIN
-Shot Chart Detail,0020701119,421,201165,Morris Almond,1610612762,Utah Jazz,4,1,9,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,210,18,1,1,20080402,UTA,MIN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,20700148,483,201165,Morris Almond,1610612762,Utah Jazz,4,2,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-202,15,1,0,20071119,0,UTA,NJN
+Shot Chart Detail,20700148,489,201165,Morris Almond,1610612762,Utah Jazz,4,1,53,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-112,168,1,0,20071119,0,UTA,NJN
+Shot Chart Detail,20700231,479,201165,Morris Almond,1610612762,Utah Jazz,4,1,3,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,35,1,0,20071130,0,UTA,LAL
+Shot Chart Detail,20700507,487,201165,Morris Almond,1610612762,Utah Jazz,4,4,8,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,-31,1,0,20080108,0,UTA,IND
+Shot Chart Detail,20700507,495,201165,Morris Almond,1610612762,Utah Jazz,4,3,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080108,0,UTA,IND
+Shot Chart Detail,20700507,507,201165,Morris Almond,1610612762,Utah Jazz,4,1,59,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,48,1,0,20080108,0,UTA,IND
+Shot Chart Detail,20700507,513,201165,Morris Almond,1610612762,Utah Jazz,4,0,56,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,7,1,1,20080108,0,UTA,IND
+Shot Chart Detail,20700507,515,201165,Morris Almond,1610612762,Utah Jazz,4,0,23,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,17,1,0,20080108,0,UTA,IND
+Shot Chart Detail,20700522,406,201165,Morris Almond,1610612762,Utah Jazz,4,6,46,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20080110,0,UTA,PHX
+Shot Chart Detail,20701102,363,201165,Morris Almond,1610612762,Utah Jazz,4,6,6,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-194,163,1,1,20080331,1,UTA,WAS
+Shot Chart Detail,20701102,382,201165,Morris Almond,1610612762,Utah Jazz,4,3,19,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,181,122,1,0,20080331,0,UTA,WAS
+Shot Chart Detail,20701102,402,201165,Morris Almond,1610612762,Utah Jazz,4,1,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,177,178,1,0,20080331,0,UTA,WAS
+Shot Chart Detail,20701119,399,201165,Morris Almond,1610612762,Utah Jazz,4,3,15,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20080402,1,UTA,MIN
+Shot Chart Detail,20701119,416,201165,Morris Almond,1610612762,Utah Jazz,4,1,42,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,33,1,0,20080402,0,UTA,MIN
+Shot Chart Detail,20701119,421,201165,Morris Almond,1610612762,Utah Jazz,4,1,9,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,210,18,1,1,20080402,1,UTA,MIN

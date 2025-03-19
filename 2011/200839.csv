@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0021001062,551,200839,Mike Harris,1610612745,Houston Rockets,4,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-179,127,1,1,20110323,HOU,GSW
-Shot Chart Detail,0021001102,452,200839,Mike Harris,1610612745,Houston Rockets,4,2,18,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-49,0,1,0,20110329,NJN,HOU
-Shot Chart Detail,0021001102,467,200839,Mike Harris,1610612745,Houston Rockets,4,0,22,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,15,1,1,20110329,NJN,HOU
-Shot Chart Detail,0021001189,215,200839,Mike Harris,1610612745,Houston Rockets,2,5,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20110409,HOU,LAC
-Shot Chart Detail,0021001189,224,200839,Mike Harris,1610612745,Houston Rockets,2,4,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20110409,HOU,LAC
-Shot Chart Detail,0021001189,265,200839,Mike Harris,1610612745,Houston Rockets,2,1,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,135,1,0,20110409,HOU,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,21001062,551,200839,Mike Harris,1610612745,Houston Rockets,4,0,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-179,127,1,1,20110323,1,HOU,GSW
+Shot Chart Detail,21001102,452,200839,Mike Harris,1610612745,Houston Rockets,4,2,18,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-49,0,1,0,20110329,0,NJN,HOU
+Shot Chart Detail,21001102,467,200839,Mike Harris,1610612745,Houston Rockets,4,0,22,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,15,1,1,20110329,0,NJN,HOU
+Shot Chart Detail,21001189,215,200839,Mike Harris,1610612745,Houston Rockets,2,5,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20110409,1,HOU,LAC
+Shot Chart Detail,21001189,224,200839,Mike Harris,1610612745,Houston Rockets,2,4,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,0,20110409,0,HOU,LAC
+Shot Chart Detail,21001189,265,200839,Mike Harris,1610612745,Houston Rockets,2,1,25,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,135,1,0,20110409,0,HOU,LAC
