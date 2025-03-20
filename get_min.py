@@ -407,7 +407,7 @@ def clean_assists(ps = False):
 clean_assists()
 
 
-# In[16]:
+# In[3]:
 
 
 ps = ''
@@ -446,6 +446,13 @@ print(all_shots.head())
 
 
 print(all_shots['assisted'].sum()/len(all_shots))
+for team in teams.get_teams():
+    team_id = team['id']
+    team_shots=all_shots[all_shots.TEAM_ID==team_id]
+    file_path = f'team/{year}{ps}/{team_id}.csv'
+    team_shots.to_csv(file_path,index=False)
+    print(team_shots.columns)
+    print(len(team_shots))
 
 
 # In[4]:
@@ -456,6 +463,7 @@ for team in teams.get_teams():
     team_id=team['id']
     team_games = all_shots[all_shots.TEAM_ID==team['id']].GAME_ID.unique()
     team_games = list(team_games)
+
     opp_shots = all_shots[(all_shots.TEAM_ID!=team['id']) &(all_shots.GAME_ID.isin(team_games))].reset_index(drop=True)
 
     opp_shots['PLAYER_ID']='0'
@@ -535,7 +543,7 @@ for team in teams.get_teams():
 # In[5]:
 
 
-df.columns
+year_assists = pd.read_csv(f'assists/{year}/ast.csv')
 
 
 # In[6]:
