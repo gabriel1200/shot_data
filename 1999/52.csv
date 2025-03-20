@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029800267,169,52,Micheal Williams,1610612761,Toronto Raptors,2,5,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990311,MIA,TOR
-Shot Chart Detail,0029800267,214,52,Micheal Williams,1610612761,Toronto Raptors,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,8,201,1,1,19990311,MIA,TOR
-Shot Chart Detail,0029800284,391,52,Micheal Williams,1610612761,Toronto Raptors,3,0,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,31,1,0,19990313,ATL,TOR
-Shot Chart Detail,0029800284,414,52,Micheal Williams,1610612761,Toronto Raptors,4,11,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,38,1,0,19990313,ATL,TOR
-Shot Chart Detail,0029800284,426,52,Micheal Williams,1610612761,Toronto Raptors,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,83,1,0,19990313,ATL,TOR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29800267,169,52,Micheal Williams,1610612761,Toronto Raptors,2,5,22,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990311,0,MIA,TOR
+Shot Chart Detail,29800267,214,52,Micheal Williams,1610612761,Toronto Raptors,2,0,42,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,8,201,1,1,19990311,1,MIA,TOR
+Shot Chart Detail,29800284,391,52,Micheal Williams,1610612761,Toronto Raptors,3,0,59,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,138,31,1,0,19990313,0,ATL,TOR
+Shot Chart Detail,29800284,414,52,Micheal Williams,1610612761,Toronto Raptors,4,11,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,102,38,1,0,19990313,0,ATL,TOR
+Shot Chart Detail,29800284,426,52,Micheal Williams,1610612761,Toronto Raptors,4,8,48,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,123,83,1,0,19990313,0,ATL,TOR

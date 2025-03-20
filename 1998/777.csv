@@ -1,107 +1,54 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700003,281,777,Rex Walters,1610612755,Philadelphia 76ers,3,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,1,1,0,19971031,PHI,MIL
-Shot Chart Detail,0029700003,332,777,Rex Walters,1610612755,Philadelphia 76ers,3,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,162,1,0,19971031,PHI,MIL
-Shot Chart Detail,0029700018,343,777,Rex Walters,1610612755,Philadelphia 76ers,3,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,63,162,1,0,19971101,CHI,PHI
-Shot Chart Detail,0029700018,347,777,Rex Walters,1610612755,Philadelphia 76ers,3,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,181,106,1,1,19971101,CHI,PHI
-Shot Chart Detail,0029700045,110,777,Rex Walters,1610612755,Philadelphia 76ers,2,11,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,53,1,0,19971105,PHI,ATL
-Shot Chart Detail,0029700052,150,777,Rex Walters,1610612755,Philadelphia 76ers,2,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,237,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700052,198,777,Rex Walters,1610612755,Philadelphia 76ers,2,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-5,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700052,471,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700052,493,777,Rex Walters,1610612755,Philadelphia 76ers,4,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,147,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700099,212,777,Rex Walters,1610612755,Philadelphia 76ers,2,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,151,1,0,19971113,DAL,PHI
-Shot Chart Detail,0029700112,432,777,Rex Walters,1610612755,Philadelphia 76ers,3,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,113,1,1,19971115,PHI,BOS
-Shot Chart Detail,0029700112,453,777,Rex Walters,1610612755,Philadelphia 76ers,4,10,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971115,PHI,BOS
-Shot Chart Detail,0029700230,303,777,Rex Walters,1610612755,Philadelphia 76ers,3,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,250,1,0,19971203,MIA,PHI
-Shot Chart Detail,0029700314,122,777,Rex Walters,1610612755,Philadelphia 76ers,1,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,177,1,1,19971215,BOS,PHI
-Shot Chart Detail,0029700314,146,777,Rex Walters,1610612755,Philadelphia 76ers,2,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,186,1,0,19971215,BOS,PHI
-Shot Chart Detail,0029700314,247,777,Rex Walters,1610612755,Philadelphia 76ers,2,1,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,0,19971215,BOS,PHI
-Shot Chart Detail,0029700421,473,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,-3,1,0,19971230,POR,PHI
-Shot Chart Detail,0029700438,412,777,Rex Walters,1610612755,Philadelphia 76ers,4,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,177,1,1,19980102,SEA,PHI
-Shot Chart Detail,0029700438,419,777,Rex Walters,1610612755,Philadelphia 76ers,4,9,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,29,1,0,19980102,SEA,PHI
-Shot Chart Detail,0029700438,423,777,Rex Walters,1610612755,Philadelphia 76ers,4,8,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-40,248,1,0,19980102,SEA,PHI
-Shot Chart Detail,0029700438,515,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980102,SEA,PHI
-Shot Chart Detail,0029700450,435,777,Rex Walters,1610612755,Philadelphia 76ers,4,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,209,1,0,19980104,LAL,PHI
-Shot Chart Detail,0029700461,316,777,Rex Walters,1610612755,Philadelphia 76ers,3,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,-10,231,1,1,19980106,UTA,PHI
-Shot Chart Detail,0029700461,330,777,Rex Walters,1610612755,Philadelphia 76ers,4,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,111,214,1,1,19980106,UTA,PHI
-Shot Chart Detail,0029700461,481,777,Rex Walters,1610612755,Philadelphia 76ers,5,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,128,1,0,19980106,UTA,PHI
-Shot Chart Detail,0029700509,446,777,Rex Walters,1610612755,Philadelphia 76ers,4,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,27,1,1,19980113,PHI,VAN
-Shot Chart Detail,0029700538,466,777,Rex Walters,1610612755,Philadelphia 76ers,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,143,1,1,19980117,PHI,GSW
-Shot Chart Detail,0029700538,490,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,0,19980117,PHI,GSW
-Shot Chart Detail,0029700538,503,777,Rex Walters,1610612755,Philadelphia 76ers,4,0,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,0,1,1,19980117,PHI,GSW
-Shot Chart Detail,0029700668,419,777,Rex Walters,1610612748,Miami Heat,4,3,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-36,269,1,0,19980204,PHI,MIA
-Shot Chart Detail,0029700684,523,777,Rex Walters,1610612748,Miami Heat,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-98,100,1,0,19980210,CLE,MIA
-Shot Chart Detail,0029700725,443,777,Rex Walters,1610612748,Miami Heat,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,179,1,1,19980215,TOR,MIA
-Shot Chart Detail,0029700737,424,777,Rex Walters,1610612748,Miami Heat,4,8,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,128,1,1,19980217,MIA,MIN
-Shot Chart Detail,0029700765,447,777,Rex Walters,1610612748,Miami Heat,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-12,1,0,19980220,SAC,MIA
-Shot Chart Detail,0029700765,473,777,Rex Walters,1610612748,Miami Heat,4,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,190,70,1,0,19980220,SAC,MIA
-Shot Chart Detail,0029700805,420,777,Rex Walters,1610612748,Miami Heat,4,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-8,218,1,0,19980226,MIA,DAL
-Shot Chart Detail,0029700898,412,777,Rex Walters,1610612748,Miami Heat,4,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,194,1,1,19980312,MIA,CLE
-Shot Chart Detail,0029700898,417,777,Rex Walters,1610612748,Miami Heat,4,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,175,1,1,19980312,MIA,CLE
-Shot Chart Detail,0029700898,427,777,Rex Walters,1610612748,Miami Heat,4,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,23,1,1,19980312,MIA,CLE
-Shot Chart Detail,0029700976,443,777,Rex Walters,1610612748,Miami Heat,4,0,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1,151,1,0,19980322,MIA,POR
-Shot Chart Detail,0029701012,480,777,Rex Walters,1610612748,Miami Heat,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,12,1,0,19980327,MIA,MIL
-Shot Chart Detail,0029701012,486,777,Rex Walters,1610612748,Miami Heat,4,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,188,1,1,19980327,MIA,MIL
-Shot Chart Detail,0029701025,449,777,Rex Walters,1610612748,Miami Heat,4,2,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,248,1,0,19980329,MIA,HOU
-Shot Chart Detail,0029701025,452,777,Rex Walters,1610612748,Miami Heat,4,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980329,MIA,HOU
-Shot Chart Detail,0029701038,418,777,Rex Walters,1610612748,Miami Heat,4,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,128,158,1,0,19980331,MIA,BOS
-Shot Chart Detail,0029701166,400,777,Rex Walters,1610612748,Miami Heat,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-57,254,1,1,19980417,MIA,WAS
-Shot Chart Detail,0029701166,428,777,Rex Walters,1610612748,Miami Heat,4,3,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980417,MIA,WAS
-Shot Chart Detail,0029701183,196,777,Rex Walters,1610612748,Miami Heat,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,177,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029701183,203,777,Rex Walters,1610612748,Miami Heat,2,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029701183,378,777,Rex Walters,1610612748,Miami Heat,4,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,175,1,0,19980419,ATL,MIA
-Shot Chart Detail,0029701183,382,777,Rex Walters,1610612748,Miami Heat,4,7,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,214,1,0,19980419,ATL,MIA
-Shot Chart Detail,0029701183,388,777,Rex Walters,1610612748,Miami Heat,4,6,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,8,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029701183,401,777,Rex Walters,1610612748,Miami Heat,4,4,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029700003,281,777,Rex Walters,1610612755,Philadelphia 76ers,3,5,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,1,1,0,19971031,PHI,MIL
-Shot Chart Detail,0029700003,332,777,Rex Walters,1610612755,Philadelphia 76ers,3,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,162,1,0,19971031,PHI,MIL
-Shot Chart Detail,0029700018,343,777,Rex Walters,1610612755,Philadelphia 76ers,3,3,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,63,162,1,0,19971101,CHI,PHI
-Shot Chart Detail,0029700018,347,777,Rex Walters,1610612755,Philadelphia 76ers,3,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,181,106,1,1,19971101,CHI,PHI
-Shot Chart Detail,0029700045,110,777,Rex Walters,1610612755,Philadelphia 76ers,2,11,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,53,1,0,19971105,PHI,ATL
-Shot Chart Detail,0029700052,150,777,Rex Walters,1610612755,Philadelphia 76ers,2,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,237,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700052,198,777,Rex Walters,1610612755,Philadelphia 76ers,2,5,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-5,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700052,471,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700052,493,777,Rex Walters,1610612755,Philadelphia 76ers,4,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,147,1,0,19971106,MIL,PHI
-Shot Chart Detail,0029700099,212,777,Rex Walters,1610612755,Philadelphia 76ers,2,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,151,1,0,19971113,DAL,PHI
-Shot Chart Detail,0029700112,432,777,Rex Walters,1610612755,Philadelphia 76ers,3,0,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,113,1,1,19971115,PHI,BOS
-Shot Chart Detail,0029700112,453,777,Rex Walters,1610612755,Philadelphia 76ers,4,10,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971115,PHI,BOS
-Shot Chart Detail,0029700230,303,777,Rex Walters,1610612755,Philadelphia 76ers,3,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,250,1,0,19971203,MIA,PHI
-Shot Chart Detail,0029700314,122,777,Rex Walters,1610612755,Philadelphia 76ers,1,0,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,177,1,1,19971215,BOS,PHI
-Shot Chart Detail,0029700314,146,777,Rex Walters,1610612755,Philadelphia 76ers,2,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,186,1,0,19971215,BOS,PHI
-Shot Chart Detail,0029700314,247,777,Rex Walters,1610612755,Philadelphia 76ers,2,1,14,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,0,19971215,BOS,PHI
-Shot Chart Detail,0029700421,473,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,-3,1,0,19971230,POR,PHI
-Shot Chart Detail,0029700438,412,777,Rex Walters,1610612755,Philadelphia 76ers,4,10,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,177,1,1,19980102,SEA,PHI
-Shot Chart Detail,0029700438,419,777,Rex Walters,1610612755,Philadelphia 76ers,4,9,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,29,1,0,19980102,SEA,PHI
-Shot Chart Detail,0029700438,423,777,Rex Walters,1610612755,Philadelphia 76ers,4,8,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-40,248,1,0,19980102,SEA,PHI
-Shot Chart Detail,0029700438,515,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980102,SEA,PHI
-Shot Chart Detail,0029700450,435,777,Rex Walters,1610612755,Philadelphia 76ers,4,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,209,1,0,19980104,LAL,PHI
-Shot Chart Detail,0029700461,316,777,Rex Walters,1610612755,Philadelphia 76ers,3,2,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,-10,231,1,1,19980106,UTA,PHI
-Shot Chart Detail,0029700461,330,777,Rex Walters,1610612755,Philadelphia 76ers,4,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,111,214,1,1,19980106,UTA,PHI
-Shot Chart Detail,0029700461,481,777,Rex Walters,1610612755,Philadelphia 76ers,5,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,128,1,0,19980106,UTA,PHI
-Shot Chart Detail,0029700509,446,777,Rex Walters,1610612755,Philadelphia 76ers,4,3,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,27,1,1,19980113,PHI,VAN
-Shot Chart Detail,0029700538,466,777,Rex Walters,1610612755,Philadelphia 76ers,4,3,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,143,1,1,19980117,PHI,GSW
-Shot Chart Detail,0029700538,490,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,0,19980117,PHI,GSW
-Shot Chart Detail,0029700538,503,777,Rex Walters,1610612755,Philadelphia 76ers,4,0,39,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,119,0,1,1,19980117,PHI,GSW
-Shot Chart Detail,0029700668,419,777,Rex Walters,1610612748,Miami Heat,4,3,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-36,269,1,0,19980204,PHI,MIA
-Shot Chart Detail,0029700684,523,777,Rex Walters,1610612748,Miami Heat,4,1,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-98,100,1,0,19980210,CLE,MIA
-Shot Chart Detail,0029700725,443,777,Rex Walters,1610612748,Miami Heat,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,179,1,1,19980215,TOR,MIA
-Shot Chart Detail,0029700737,424,777,Rex Walters,1610612748,Miami Heat,4,8,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,128,1,1,19980217,MIA,MIN
-Shot Chart Detail,0029700765,447,777,Rex Walters,1610612748,Miami Heat,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-12,1,0,19980220,SAC,MIA
-Shot Chart Detail,0029700765,473,777,Rex Walters,1610612748,Miami Heat,4,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,190,70,1,0,19980220,SAC,MIA
-Shot Chart Detail,0029700805,420,777,Rex Walters,1610612748,Miami Heat,4,0,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-8,218,1,0,19980226,MIA,DAL
-Shot Chart Detail,0029700898,412,777,Rex Walters,1610612748,Miami Heat,4,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,194,1,1,19980312,MIA,CLE
-Shot Chart Detail,0029700898,417,777,Rex Walters,1610612748,Miami Heat,4,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,175,1,1,19980312,MIA,CLE
-Shot Chart Detail,0029700898,427,777,Rex Walters,1610612748,Miami Heat,4,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,23,1,1,19980312,MIA,CLE
-Shot Chart Detail,0029700976,443,777,Rex Walters,1610612748,Miami Heat,4,0,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-1,151,1,0,19980322,MIA,POR
-Shot Chart Detail,0029701012,480,777,Rex Walters,1610612748,Miami Heat,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,12,1,0,19980327,MIA,MIL
-Shot Chart Detail,0029701012,486,777,Rex Walters,1610612748,Miami Heat,4,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,188,1,1,19980327,MIA,MIL
-Shot Chart Detail,0029701025,449,777,Rex Walters,1610612748,Miami Heat,4,2,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,248,1,0,19980329,MIA,HOU
-Shot Chart Detail,0029701025,452,777,Rex Walters,1610612748,Miami Heat,4,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980329,MIA,HOU
-Shot Chart Detail,0029701038,418,777,Rex Walters,1610612748,Miami Heat,4,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,128,158,1,0,19980331,MIA,BOS
-Shot Chart Detail,0029701166,400,777,Rex Walters,1610612748,Miami Heat,4,6,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-57,254,1,1,19980417,MIA,WAS
-Shot Chart Detail,0029701166,428,777,Rex Walters,1610612748,Miami Heat,4,3,30,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980417,MIA,WAS
-Shot Chart Detail,0029701183,196,777,Rex Walters,1610612748,Miami Heat,2,2,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,177,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029701183,203,777,Rex Walters,1610612748,Miami Heat,2,2,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029701183,378,777,Rex Walters,1610612748,Miami Heat,4,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,175,1,0,19980419,ATL,MIA
-Shot Chart Detail,0029701183,382,777,Rex Walters,1610612748,Miami Heat,4,7,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,214,1,0,19980419,ATL,MIA
-Shot Chart Detail,0029701183,388,777,Rex Walters,1610612748,Miami Heat,4,6,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,8,1,1,19980419,ATL,MIA
-Shot Chart Detail,0029701183,401,777,Rex Walters,1610612748,Miami Heat,4,4,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980419,ATL,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700668,419,777,Rex Walters,1610612748,Miami Heat,4,3,6,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-36,269,1,0,19980204,0,PHI,MIA
+Shot Chart Detail,29700684,523,777,Rex Walters,1610612748,Miami Heat,4,1,4,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-98,100,1,0,19980210,0,CLE,MIA
+Shot Chart Detail,29700725,443,777,Rex Walters,1610612748,Miami Heat,4,1,41,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,179,1,1,19980215,1,TOR,MIA
+Shot Chart Detail,29700737,424,777,Rex Walters,1610612748,Miami Heat,4,8,29,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,128,1,1,19980217,1,MIA,MIN
+Shot Chart Detail,29700765,447,777,Rex Walters,1610612748,Miami Heat,4,3,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,-12,1,0,19980220,0,SAC,MIA
+Shot Chart Detail,29700765,473,777,Rex Walters,1610612748,Miami Heat,4,1,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,190,70,1,0,19980220,0,SAC,MIA
+Shot Chart Detail,29700805,420,777,Rex Walters,1610612748,Miami Heat,4,0,58,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-8,218,1,0,19980226,0,MIA,DAL
+Shot Chart Detail,29700898,412,777,Rex Walters,1610612748,Miami Heat,4,5,29,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,194,1,1,19980312,1,MIA,CLE
+Shot Chart Detail,29700898,417,777,Rex Walters,1610612748,Miami Heat,4,4,45,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,117,175,1,1,19980312,1,MIA,CLE
+Shot Chart Detail,29700898,427,777,Rex Walters,1610612748,Miami Heat,4,3,21,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,23,1,1,19980312,1,MIA,CLE
+Shot Chart Detail,29700976,443,777,Rex Walters,1610612748,Miami Heat,4,0,17,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-1,151,1,0,19980322,0,MIA,POR
+Shot Chart Detail,29701012,480,777,Rex Walters,1610612748,Miami Heat,4,2,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-203,12,1,0,19980327,0,MIA,MIL
+Shot Chart Detail,29701012,486,777,Rex Walters,1610612748,Miami Heat,4,2,0,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,188,1,1,19980327,1,MIA,MIL
+Shot Chart Detail,29701025,449,777,Rex Walters,1610612748,Miami Heat,4,2,40,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,1,248,1,0,19980329,0,MIA,HOU
+Shot Chart Detail,29701025,452,777,Rex Walters,1610612748,Miami Heat,4,2,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980329,1,MIA,HOU
+Shot Chart Detail,29701038,418,777,Rex Walters,1610612748,Miami Heat,4,6,25,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,128,158,1,0,19980331,0,MIA,BOS
+Shot Chart Detail,29701166,400,777,Rex Walters,1610612748,Miami Heat,4,6,57,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-57,254,1,1,19980417,1,MIA,WAS
+Shot Chart Detail,29701166,428,777,Rex Walters,1610612748,Miami Heat,4,3,30,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980417,0,MIA,WAS
+Shot Chart Detail,29701183,196,777,Rex Walters,1610612748,Miami Heat,2,2,52,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,123,177,1,1,19980419,1,ATL,MIA
+Shot Chart Detail,29701183,203,777,Rex Walters,1610612748,Miami Heat,2,2,2,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980419,0,ATL,MIA
+Shot Chart Detail,29701183,378,777,Rex Walters,1610612748,Miami Heat,4,7,53,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,175,1,0,19980419,0,ATL,MIA
+Shot Chart Detail,29701183,382,777,Rex Walters,1610612748,Miami Heat,4,7,15,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,214,1,0,19980419,0,ATL,MIA
+Shot Chart Detail,29701183,388,777,Rex Walters,1610612748,Miami Heat,4,6,13,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,102,8,1,1,19980419,0,ATL,MIA
+Shot Chart Detail,29701183,401,777,Rex Walters,1610612748,Miami Heat,4,4,11,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980419,1,ATL,MIA
+Shot Chart Detail,29700003,281,777,Rex Walters,1610612755,Philadelphia 76ers,3,5,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-14,1,1,0,19971031,0,PHI,MIL
+Shot Chart Detail,29700003,332,777,Rex Walters,1610612755,Philadelphia 76ers,3,0,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,162,1,0,19971031,0,PHI,MIL
+Shot Chart Detail,29700018,343,777,Rex Walters,1610612755,Philadelphia 76ers,3,3,0,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,63,162,1,0,19971101,0,CHI,PHI
+Shot Chart Detail,29700018,347,777,Rex Walters,1610612755,Philadelphia 76ers,3,2,23,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,181,106,1,1,19971101,0,CHI,PHI
+Shot Chart Detail,29700045,110,777,Rex Walters,1610612755,Philadelphia 76ers,2,11,12,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-160,53,1,0,19971105,0,PHI,ATL
+Shot Chart Detail,29700052,150,777,Rex Walters,1610612755,Philadelphia 76ers,2,7,3,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,237,1,0,19971106,0,MIL,PHI
+Shot Chart Detail,29700052,198,777,Rex Walters,1610612755,Philadelphia 76ers,2,5,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-21,-5,1,0,19971106,0,MIL,PHI
+Shot Chart Detail,29700052,471,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971106,0,MIL,PHI
+Shot Chart Detail,29700052,493,777,Rex Walters,1610612755,Philadelphia 76ers,4,0,33,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,147,1,0,19971106,0,MIL,PHI
+Shot Chart Detail,29700099,212,777,Rex Walters,1610612755,Philadelphia 76ers,2,1,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,203,151,1,0,19971113,0,DAL,PHI
+Shot Chart Detail,29700112,432,777,Rex Walters,1610612755,Philadelphia 76ers,3,0,10,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,149,113,1,1,19971115,1,PHI,BOS
+Shot Chart Detail,29700112,453,777,Rex Walters,1610612755,Philadelphia 76ers,4,10,43,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971115,0,PHI,BOS
+Shot Chart Detail,29700230,303,777,Rex Walters,1610612755,Philadelphia 76ers,3,1,26,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-16,250,1,0,19971203,0,MIA,PHI
+Shot Chart Detail,29700314,122,777,Rex Walters,1610612755,Philadelphia 76ers,1,0,5,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,177,1,1,19971215,1,BOS,PHI
+Shot Chart Detail,29700314,146,777,Rex Walters,1610612755,Philadelphia 76ers,2,9,37,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-166,186,1,0,19971215,0,BOS,PHI
+Shot Chart Detail,29700314,247,777,Rex Walters,1610612755,Philadelphia 76ers,2,1,14,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,0,19971215,0,BOS,PHI
+Shot Chart Detail,29700421,473,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,17,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,-3,1,0,19971230,0,POR,PHI
+Shot Chart Detail,29700438,412,777,Rex Walters,1610612755,Philadelphia 76ers,4,10,16,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,177,1,1,19980102,1,SEA,PHI
+Shot Chart Detail,29700438,419,777,Rex Walters,1610612755,Philadelphia 76ers,4,9,24,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-239,29,1,0,19980102,0,SEA,PHI
+Shot Chart Detail,29700438,423,777,Rex Walters,1610612755,Philadelphia 76ers,4,8,51,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-40,248,1,0,19980102,0,SEA,PHI
+Shot Chart Detail,29700438,515,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980102,0,SEA,PHI
+Shot Chart Detail,29700450,435,777,Rex Walters,1610612755,Philadelphia 76ers,4,8,35,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,209,1,0,19980104,0,LAL,PHI
+Shot Chart Detail,29700461,316,777,Rex Walters,1610612755,Philadelphia 76ers,3,2,3,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,23,-10,231,1,1,19980106,1,UTA,PHI
+Shot Chart Detail,29700461,330,777,Rex Walters,1610612755,Philadelphia 76ers,4,11,47,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,111,214,1,1,19980106,1,UTA,PHI
+Shot Chart Detail,29700461,481,777,Rex Walters,1610612755,Philadelphia 76ers,5,0,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,128,1,0,19980106,0,UTA,PHI
+Shot Chart Detail,29700509,446,777,Rex Walters,1610612755,Philadelphia 76ers,4,3,15,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-154,27,1,1,19980113,0,PHI,VAN
+Shot Chart Detail,29700538,466,777,Rex Walters,1610612755,Philadelphia 76ers,4,3,53,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,126,143,1,1,19980117,0,PHI,GSW
+Shot Chart Detail,29700538,490,777,Rex Walters,1610612755,Philadelphia 76ers,4,1,52,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,162,1,0,19980117,0,PHI,GSW
+Shot Chart Detail,29700538,503,777,Rex Walters,1610612755,Philadelphia 76ers,4,0,39,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,119,0,1,1,19980117,1,PHI,GSW

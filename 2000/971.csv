@@ -1,17 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900416,103,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,11,32,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991230,MIL,CLE
-Shot Chart Detail,0029900416,359,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,3,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991230,MIL,CLE
-Shot Chart Detail,0029900433,98,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,1,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,3,1,1,20000104,CLE,SAC
-Shot Chart Detail,0029900433,124,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-1,1,1,20000104,CLE,SAC
-Shot Chart Detail,0029900514,244,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-154,61,1,1,20000114,VAN,CLE
-Shot Chart Detail,0029900514,246,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,0,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,16,1,0,20000114,VAN,CLE
-Shot Chart Detail,0029900514,402,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,4,10,11,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,0,20000114,VAN,CLE
-Shot Chart Detail,0029901122,294,971,Mark Hendrickson,1610612751,New Jersey Nets,3,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,119,106,1,0,20000412,NYK,NJN
-Shot Chart Detail,0029900416,103,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,11,32,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991230,MIL,CLE
-Shot Chart Detail,0029900416,359,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,3,0,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991230,MIL,CLE
-Shot Chart Detail,0029900433,98,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,1,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,115,3,1,1,20000104,CLE,SAC
-Shot Chart Detail,0029900433,124,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-1,1,1,20000104,CLE,SAC
-Shot Chart Detail,0029900514,244,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-154,61,1,1,20000114,VAN,CLE
-Shot Chart Detail,0029900514,246,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,0,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,16,1,0,20000114,VAN,CLE
-Shot Chart Detail,0029900514,402,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,4,10,11,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,0,20000114,VAN,CLE
-Shot Chart Detail,0029901122,294,971,Mark Hendrickson,1610612751,New Jersey Nets,3,2,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,119,106,1,0,20000412,NYK,NJN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29901122,294,971,Mark Hendrickson,1610612751,New Jersey Nets,3,2,14,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,119,106,1,0,20000412,0,NYK,NJN
+Shot Chart Detail,29900416,103,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,11,32,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991230,1,MIL,CLE
+Shot Chart Detail,29900416,359,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,3,0,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991230,1,MIL,CLE
+Shot Chart Detail,29900433,98,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,1,0,41,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,115,3,1,1,20000104,1,CLE,SAC
+Shot Chart Detail,29900433,124,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,9,33,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-1,1,1,20000104,1,CLE,SAC
+Shot Chart Detail,29900514,244,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,0,51,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-154,61,1,1,20000114,1,VAN,CLE
+Shot Chart Detail,29900514,246,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,2,0,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,16,1,0,20000114,0,VAN,CLE
+Shot Chart Detail,29900514,402,971,Mark Hendrickson,1610612739,Cleveland Cavaliers,4,10,11,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,0,20000114,0,VAN,CLE

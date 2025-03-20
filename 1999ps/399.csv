@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049800016,108,399,Sean Rooks,1610612747,Los Angeles Lakers,2,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-85,46,1,0,19990511,LAL,HOU
-Shot Chart Detail,0049800016,302,399,Sean Rooks,1610612747,Los Angeles Lakers,3,4,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-1,1,1,19990511,LAL,HOU
-Shot Chart Detail,0049800032,115,399,Sean Rooks,1610612747,Los Angeles Lakers,2,11,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-124,89,1,0,19990515,HOU,LAL
-Shot Chart Detail,0049800042,322,399,Sean Rooks,1610612747,Los Angeles Lakers,3,1,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,126,21,1,0,19990517,SAS,LAL
-Shot Chart Detail,0049800042,335,399,Sean Rooks,1610612747,Los Angeles Lakers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,3,1,0,19990517,SAS,LAL
-Shot Chart Detail,0049800042,344,399,Sean Rooks,1610612747,Los Angeles Lakers,4,11,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,111,81,1,1,19990517,SAS,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49800016,108,399,Sean Rooks,1610612747,Los Angeles Lakers,2,11,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-85,46,1,0,19990511,0,LAL,HOU
+Shot Chart Detail,49800016,302,399,Sean Rooks,1610612747,Los Angeles Lakers,3,4,12,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-128,-1,1,1,19990511,1,LAL,HOU
+Shot Chart Detail,49800032,115,399,Sean Rooks,1610612747,Los Angeles Lakers,2,11,47,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-124,89,1,0,19990515,0,HOU,LAL
+Shot Chart Detail,49800042,322,399,Sean Rooks,1610612747,Los Angeles Lakers,3,1,57,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,126,21,1,0,19990517,0,SAS,LAL
+Shot Chart Detail,49800042,335,399,Sean Rooks,1610612747,Los Angeles Lakers,3,0,0,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,83,3,1,0,19990517,0,SAS,LAL
+Shot Chart Detail,49800042,344,399,Sean Rooks,1610612747,Los Angeles Lakers,4,11,2,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,111,81,1,1,19990517,1,SAS,LAL

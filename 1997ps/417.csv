@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049600003,102,417,Sam Mitchell,1610612750,Minnesota Timberwolves,1,0,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,0,1,0,19970424,HOU,MIN
-Shot Chart Detail,0049600003,119,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,11,39,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,47,1,0,19970424,HOU,MIN
-Shot Chart Detail,0049600003,356,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970424,HOU,MIN
-Shot Chart Detail,0049600003,370,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,10,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,69,1,0,19970424,HOU,MIN
-Shot Chart Detail,0049600003,395,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,6,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970424,HOU,MIN
-Shot Chart Detail,0049600009,104,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,144,-5,1,0,19970426,HOU,MIN
-Shot Chart Detail,0049600009,337,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-172,13,1,0,19970426,HOU,MIN
-Shot Chart Detail,0049600021,113,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,9,17,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,1,19970429,MIN,HOU
-Shot Chart Detail,0049600021,304,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,1,40,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,17,1,1,19970429,MIN,HOU
-Shot Chart Detail,0049600021,310,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-138,95,1,0,19970429,MIN,HOU
-Shot Chart Detail,0049600021,333,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970429,MIN,HOU
-Shot Chart Detail,0049600021,339,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-135,129,1,1,19970429,MIN,HOU
-Shot Chart Detail,0049600021,367,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,6,1,0,19970429,MIN,HOU
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49600003,102,417,Sam Mitchell,1610612750,Minnesota Timberwolves,1,0,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,77,0,1,0,19970424,0,HOU,MIN
+Shot Chart Detail,49600003,119,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,11,39,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,47,1,0,19970424,0,HOU,MIN
+Shot Chart Detail,49600003,356,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970424,1,HOU,MIN
+Shot Chart Detail,49600003,370,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,10,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,69,1,0,19970424,0,HOU,MIN
+Shot Chart Detail,49600003,395,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,6,57,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970424,1,HOU,MIN
+Shot Chart Detail,49600009,104,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,11,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,144,-5,1,0,19970426,0,HOU,MIN
+Shot Chart Detail,49600009,337,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,6,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-172,13,1,0,19970426,0,HOU,MIN
+Shot Chart Detail,49600021,113,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,9,17,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,10,71,1,1,19970429,1,MIN,HOU
+Shot Chart Detail,49600021,304,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,1,40,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,125,17,1,1,19970429,1,MIN,HOU
+Shot Chart Detail,49600021,310,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,0,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-138,95,1,0,19970429,0,MIN,HOU
+Shot Chart Detail,49600021,333,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,25,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970429,0,MIN,HOU
+Shot Chart Detail,49600021,339,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,10,49,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-135,129,1,1,19970429,1,MIN,HOU
+Shot Chart Detail,49600021,367,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,7,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,159,6,1,0,19970429,0,MIN,HOU

@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029800184,408,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,8,25,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,61,1,1,19990228,DEN,VAN
-Shot Chart Detail,0029800204,124,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,19990302,VAN,SAC
-Shot Chart Detail,0029800204,376,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,10,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,0,19990302,VAN,SAC
-Shot Chart Detail,0029800204,411,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,6,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,53,1,1,19990302,VAN,SAC
-Shot Chart Detail,0029800204,415,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,5,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,222,1,0,19990302,VAN,SAC
-Shot Chart Detail,0029800209,101,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,196,1,1,19990303,UTA,VAN
-Shot Chart Detail,0029800209,288,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,111,218,1,0,19990303,UTA,VAN
-Shot Chart Detail,0029800256,111,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-113,106,1,0,19990309,GSW,VAN
-Shot Chart Detail,0029800256,270,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,7,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-36,244,1,0,19990309,GSW,VAN
-Shot Chart Detail,0029800256,281,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,6,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-164,124,1,1,19990309,GSW,VAN
-Shot Chart Detail,0029800271,67,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,2,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-3,1,0,19990311,HOU,VAN
-Shot Chart Detail,0029800271,100,195,Lee Mayberry,1610612763,Vancouver Grizzlies,2,11,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,12,1,1,19990311,HOU,VAN
-Shot Chart Detail,0029800271,123,195,Lee Mayberry,1610612763,Vancouver Grizzlies,2,8,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,184,154,1,0,19990311,HOU,VAN
-Shot Chart Detail,0029800271,136,195,Lee Mayberry,1610612763,Vancouver Grizzlies,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-115,194,1,0,19990311,HOU,VAN
-Shot Chart Detail,0029800271,361,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,160,1,1,19990311,HOU,VAN
-Shot Chart Detail,0029800271,474,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,0,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,233,1,0,19990311,HOU,VAN
-Shot Chart Detail,0029800285,77,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,1,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,188,1,0,19990313,DAL,VAN
-Shot Chart Detail,0029800305,105,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,19990315,DEN,VAN
-Shot Chart Detail,0029800305,311,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,1,16,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990315,DEN,VAN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29800184,408,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,8,25,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,61,1,1,19990228,0,DEN,VAN
+Shot Chart Detail,29800204,124,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,19990302,0,VAN,SAC
+Shot Chart Detail,29800204,376,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,10,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,0,19990302,0,VAN,SAC
+Shot Chart Detail,29800204,411,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,6,48,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,53,1,1,19990302,0,VAN,SAC
+Shot Chart Detail,29800204,415,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,5,51,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,222,1,0,19990302,0,VAN,SAC
+Shot Chart Detail,29800209,101,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,154,196,1,1,19990303,1,UTA,VAN
+Shot Chart Detail,29800209,288,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,111,218,1,0,19990303,0,UTA,VAN
+Shot Chart Detail,29800256,111,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,3,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-113,106,1,0,19990309,0,GSW,VAN
+Shot Chart Detail,29800256,270,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,7,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-36,244,1,0,19990309,0,GSW,VAN
+Shot Chart Detail,29800256,281,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,6,10,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-164,124,1,1,19990309,0,GSW,VAN
+Shot Chart Detail,29800271,67,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,2,38,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-3,1,0,19990311,0,HOU,VAN
+Shot Chart Detail,29800271,100,195,Lee Mayberry,1610612763,Vancouver Grizzlies,2,11,4,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,12,1,1,19990311,0,HOU,VAN
+Shot Chart Detail,29800271,123,195,Lee Mayberry,1610612763,Vancouver Grizzlies,2,8,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,184,154,1,0,19990311,0,HOU,VAN
+Shot Chart Detail,29800271,136,195,Lee Mayberry,1610612763,Vancouver Grizzlies,2,6,56,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-115,194,1,0,19990311,0,HOU,VAN
+Shot Chart Detail,29800271,361,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,9,38,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,160,1,1,19990311,1,HOU,VAN
+Shot Chart Detail,29800271,474,195,Lee Mayberry,1610612763,Vancouver Grizzlies,4,0,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,233,1,0,19990311,0,HOU,VAN
+Shot Chart Detail,29800285,77,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,1,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,188,1,0,19990313,0,DAL,VAN
+Shot Chart Detail,29800305,105,195,Lee Mayberry,1610612763,Vancouver Grizzlies,1,0,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,19990315,0,DEN,VAN
+Shot Chart Detail,29800305,311,195,Lee Mayberry,1610612763,Vancouver Grizzlies,3,1,16,Missed Shot,Running Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990315,0,DEN,VAN

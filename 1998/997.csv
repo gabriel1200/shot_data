@@ -1,349 +1,175 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700276,185,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,1,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,111,1,0,19971209,PHX,VAN
-Shot Chart Detail,0029700276,194,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,0,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,124,1,0,19971209,PHX,VAN
-Shot Chart Detail,0029700276,448,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,164,1,1,19971209,PHX,VAN
-Shot Chart Detail,0029700323,411,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,151,143,1,0,19971216,HOU,VAN
-Shot Chart Detail,0029700323,415,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,29,1,0,19971216,HOU,VAN
-Shot Chart Detail,0029700323,419,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,3,1,1,19971216,HOU,VAN
-Shot Chart Detail,0029700323,441,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971216,HOU,VAN
-Shot Chart Detail,0029700336,350,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,29,1,0,19971217,SAS,VAN
-Shot Chart Detail,0029700348,133,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971219,POR,VAN
-Shot Chart Detail,0029700348,350,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,55,100,1,0,19971219,POR,VAN
-Shot Chart Detail,0029700363,130,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,10,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-8,1,1,19971221,VAN,POR
-Shot Chart Detail,0029700363,140,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,70,181,1,0,19971221,VAN,POR
-Shot Chart Detail,0029700363,159,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,173,1,1,19971221,VAN,POR
-Shot Chart Detail,0029700363,342,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971221,VAN,POR
-Shot Chart Detail,0029700392,125,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,10,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-10,1,0,19971226,VAN,PHX
-Shot Chart Detail,0029700392,371,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,19971226,VAN,PHX
-Shot Chart Detail,0029700392,409,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,66,235,1,0,19971226,VAN,PHX
-Shot Chart Detail,0029700392,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,218,1,0,19971226,VAN,PHX
-Shot Chart Detail,0029700392,438,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,87,227,1,1,19971226,VAN,PHX
-Shot Chart Detail,0029700392,469,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,19971226,VAN,PHX
-Shot Chart Detail,0029700422,222,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,18,1,0,19971230,VAN,SAS
-Shot Chart Detail,0029700424,98,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,233,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,133,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,186,192,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,143,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,8,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-5,1,1,19980101,VAN,PHI
-Shot Chart Detail,0029700424,148,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,1,1,1,19980101,VAN,PHI
-Shot Chart Detail,0029700424,163,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,5,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,297,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,145,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,317,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,1,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,12,1,1,19980101,VAN,PHI
-Shot Chart Detail,0029700424,329,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,10,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,351,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,188,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700437,78,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,3,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,107,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,11,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,98,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,112,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,25,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,325,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,147,1,1,19980102,SAC,VAN
-Shot Chart Detail,0029700437,381,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,385,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-5,1,1,19980102,SAC,VAN
-Shot Chart Detail,0029700437,398,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,96,78,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,192,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,415,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,46,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,437,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-25,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700464,170,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-96,158,1,1,19980106,VAN,LAL
-Shot Chart Detail,0029700464,180,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,0,19980106,VAN,LAL
-Shot Chart Detail,0029700464,186,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,19980106,VAN,LAL
-Shot Chart Detail,0029700464,355,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-14,205,1,0,19980106,VAN,LAL
-Shot Chart Detail,0029700471,94,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,164,160,1,0,19980107,LAC,VAN
-Shot Chart Detail,0029700471,316,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980107,LAC,VAN
-Shot Chart Detail,0029700471,319,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,33,14,338,1,0,19980107,LAC,VAN
-Shot Chart Detail,0029700471,327,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,149,1,0,19980107,LAC,VAN
-Shot Chart Detail,0029700471,336,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,33,1,1,19980107,LAC,VAN
-Shot Chart Detail,0029700509,467,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980113,PHI,VAN
-Shot Chart Detail,0029700562,367,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,132,1,0,19980120,VAN,DEN
-Shot Chart Detail,0029700613,430,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,16,1,1,19980127,VAN,CHI
-Shot Chart Detail,0029700613,437,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,36,1,0,19980127,VAN,CHI
-Shot Chart Detail,0029700656,376,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,27,1,0,19980202,DAL,VAN
-Shot Chart Detail,0029700656,388,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,8,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700656,396,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,83,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700656,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,2,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,192,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700656,417,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700677,377,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,160,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,397,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,143,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,405,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,207,68,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,462,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,68,46,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,465,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,106,61,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700765,463,997,Chris Robinson,1610612758,Sacramento Kings,4,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,16,1,0,19980220,SAC,MIA
-Shot Chart Detail,0029700765,475,997,Chris Robinson,1610612758,Sacramento Kings,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,1,19980220,SAC,MIA
-Shot Chart Detail,0029700778,257,997,Chris Robinson,1610612758,Sacramento Kings,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-3,1,0,19980222,MIN,SAC
-Shot Chart Detail,0029700778,328,997,Chris Robinson,1610612758,Sacramento Kings,3,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,102,1,0,19980222,MIN,SAC
-Shot Chart Detail,0029700778,364,997,Chris Robinson,1610612758,Sacramento Kings,3,2,23,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,1,1,1,19980222,MIN,SAC
-Shot Chart Detail,0029700778,408,997,Chris Robinson,1610612758,Sacramento Kings,4,10,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,229,1,0,19980222,MIN,SAC
-Shot Chart Detail,0029700783,319,997,Chris Robinson,1610612758,Sacramento Kings,3,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,87,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,330,997,Chris Robinson,1610612758,Sacramento Kings,3,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-156,81,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,354,997,Chris Robinson,1610612758,Sacramento Kings,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,205,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,395,997,Chris Robinson,1610612758,Sacramento Kings,4,9,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,121,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,441,997,Chris Robinson,1610612758,Sacramento Kings,4,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,61,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,458,997,Chris Robinson,1610612758,Sacramento Kings,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,151,113,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,462,997,Chris Robinson,1610612758,Sacramento Kings,4,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,74,1,1,19980223,DET,SAC
-Shot Chart Detail,0029700794,401,997,Chris Robinson,1610612758,Sacramento Kings,4,8,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,0,19980225,BOS,SAC
-Shot Chart Detail,0029700794,421,997,Chris Robinson,1610612758,Sacramento Kings,4,6,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-177,128,1,0,19980225,BOS,SAC
-Shot Chart Detail,0029700794,482,997,Chris Robinson,1610612758,Sacramento Kings,4,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,42,1,0,19980225,BOS,SAC
-Shot Chart Detail,0029700850,430,997,Chris Robinson,1610612758,Sacramento Kings,4,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,68,1,0,19980304,SAC,DET
-Shot Chart Detail,0029700850,435,997,Chris Robinson,1610612758,Sacramento Kings,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-16,188,1,0,19980304,SAC,DET
-Shot Chart Detail,0029700895,135,997,Chris Robinson,1610612758,Sacramento Kings,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,31,214,1,0,19980311,UTA,SAC
-Shot Chart Detail,0029700895,169,997,Chris Robinson,1610612758,Sacramento Kings,2,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700895,362,997,Chris Robinson,1610612758,Sacramento Kings,4,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,199,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700895,381,997,Chris Robinson,1610612758,Sacramento Kings,4,5,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,16,136,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700895,388,997,Chris Robinson,1610612758,Sacramento Kings,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,53,1,0,19980311,UTA,SAC
-Shot Chart Detail,0029700895,417,997,Chris Robinson,1610612758,Sacramento Kings,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,14,1,0,19980311,UTA,SAC
-Shot Chart Detail,0029700895,418,997,Chris Robinson,1610612758,Sacramento Kings,4,0,25,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700901,171,997,Chris Robinson,1610612758,Sacramento Kings,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-18,199,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,176,997,Chris Robinson,1610612758,Sacramento Kings,2,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,96,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,186,997,Chris Robinson,1610612758,Sacramento Kings,2,2,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,214,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,194,997,Chris Robinson,1610612758,Sacramento Kings,2,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,3,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700941,352,997,Chris Robinson,1610612758,Sacramento Kings,4,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,19980317,PHX,SAC
-Shot Chart Detail,0029700941,371,997,Chris Robinson,1610612758,Sacramento Kings,4,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,91,207,1,0,19980317,PHX,SAC
-Shot Chart Detail,0029700941,391,997,Chris Robinson,1610612758,Sacramento Kings,4,1,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,188,1,0,19980317,PHX,SAC
-Shot Chart Detail,0029701020,379,997,Chris Robinson,1610612758,Sacramento Kings,4,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,162,104,1,0,19980327,SAC,POR
-Shot Chart Detail,0029701020,422,997,Chris Robinson,1610612758,Sacramento Kings,4,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,186,1,1,19980327,SAC,POR
-Shot Chart Detail,0029701020,438,997,Chris Robinson,1610612758,Sacramento Kings,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,14,1,1,19980327,SAC,POR
-Shot Chart Detail,0029701020,442,997,Chris Robinson,1610612758,Sacramento Kings,4,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-147,83,1,0,19980327,SAC,POR
-Shot Chart Detail,0029701035,153,997,Chris Robinson,1610612758,Sacramento Kings,2,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,186,1,0,19980329,SAC,MIN
-Shot Chart Detail,0029701035,174,997,Chris Robinson,1610612758,Sacramento Kings,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,96,156,1,0,19980329,SAC,MIN
-Shot Chart Detail,0029701035,191,997,Chris Robinson,1610612758,Sacramento Kings,2,2,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,19980329,SAC,MIN
-Shot Chart Detail,0029701068,379,997,Chris Robinson,1610612758,Sacramento Kings,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,218,1,1,19980403,SAC,MIL
-Shot Chart Detail,0029701084,134,997,Chris Robinson,1610612758,Sacramento Kings,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,44,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,153,997,Chris Robinson,1610612758,Sacramento Kings,2,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,5,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,244,997,Chris Robinson,1610612758,Sacramento Kings,3,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,164,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,253,997,Chris Robinson,1610612758,Sacramento Kings,3,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,12,248,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,265,997,Chris Robinson,1610612758,Sacramento Kings,3,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,281,997,Chris Robinson,1610612758,Sacramento Kings,3,5,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,12,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,304,997,Chris Robinson,1610612758,Sacramento Kings,3,2,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,42,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,308,997,Chris Robinson,1610612758,Sacramento Kings,3,2,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,311,997,Chris Robinson,1610612758,Sacramento Kings,3,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,345,997,Chris Robinson,1610612758,Sacramento Kings,4,11,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,235,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,347,997,Chris Robinson,1610612758,Sacramento Kings,4,10,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,373,997,Chris Robinson,1610612758,Sacramento Kings,4,8,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,408,997,Chris Robinson,1610612758,Sacramento Kings,4,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-171,111,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,426,997,Chris Robinson,1610612758,Sacramento Kings,4,2,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,462,997,Chris Robinson,1610612758,Sacramento Kings,4,0,9,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701099,113,997,Chris Robinson,1610612758,Sacramento Kings,2,9,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,175,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,147,997,Chris Robinson,1610612758,Sacramento Kings,2,5,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,36,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,171,997,Chris Robinson,1610612758,Sacramento Kings,2,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,1,19980407,SAC,PHX
-Shot Chart Detail,0029701099,312,997,Chris Robinson,1610612758,Sacramento Kings,3,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980407,SAC,PHX
-Shot Chart Detail,0029701099,359,997,Chris Robinson,1610612758,Sacramento Kings,4,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,244,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,413,997,Chris Robinson,1610612758,Sacramento Kings,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,93,1,1,19980407,SAC,PHX
-Shot Chart Detail,0029701099,416,997,Chris Robinson,1610612758,Sacramento Kings,4,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,433,997,Chris Robinson,1610612758,Sacramento Kings,4,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,162,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,462,997,Chris Robinson,1610612758,Sacramento Kings,4,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,218,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701111,94,997,Chris Robinson,1610612758,Sacramento Kings,1,0,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,149,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,108,997,Chris Robinson,1610612758,Sacramento Kings,2,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,83,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,110,997,Chris Robinson,1610612758,Sacramento Kings,2,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,111,997,Chris Robinson,1610612758,Sacramento Kings,2,10,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,161,997,Chris Robinson,1610612758,Sacramento Kings,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,239,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,163,997,Chris Robinson,1610612758,Sacramento Kings,2,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,190,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,248,997,Chris Robinson,1610612758,Sacramento Kings,3,9,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,282,997,Chris Robinson,1610612758,Sacramento Kings,3,7,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,126,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,286,997,Chris Robinson,1610612758,Sacramento Kings,3,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,298,997,Chris Robinson,1610612758,Sacramento Kings,3,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,16,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,314,997,Chris Robinson,1610612758,Sacramento Kings,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,164,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,415,997,Chris Robinson,1610612758,Sacramento Kings,4,5,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,1,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,463,997,Chris Robinson,1610612758,Sacramento Kings,4,1,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-8,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701121,107,997,Chris Robinson,1610612758,Sacramento Kings,1,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,124,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,111,997,Chris Robinson,1610612758,Sacramento Kings,1,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,SAC,HOU
-Shot Chart Detail,0029701121,172,997,Chris Robinson,1610612758,Sacramento Kings,2,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,SAC,HOU
-Shot Chart Detail,0029701121,249,997,Chris Robinson,1610612758,Sacramento Kings,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,49,38,497,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,360,997,Chris Robinson,1610612758,Sacramento Kings,4,10,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,199,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,436,997,Chris Robinson,1610612758,Sacramento Kings,4,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,SAC,HOU
-Shot Chart Detail,0029701121,438,997,Chris Robinson,1610612758,Sacramento Kings,4,3,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,484,997,Chris Robinson,1610612758,Sacramento Kings,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-63,248,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701148,144,997,Chris Robinson,1610612758,Sacramento Kings,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,81,218,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701148,156,997,Chris Robinson,1610612758,Sacramento Kings,2,6,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,158,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701148,292,997,Chris Robinson,1610612758,Sacramento Kings,3,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980414,POR,SAC
-Shot Chart Detail,0029701148,314,997,Chris Robinson,1610612758,Sacramento Kings,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-145,158,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701148,364,997,Chris Robinson,1610612758,Sacramento Kings,4,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,239,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701159,181,997,Chris Robinson,1610612758,Sacramento Kings,2,2,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,0,19980416,UTA,SAC
-Shot Chart Detail,0029701159,186,997,Chris Robinson,1610612758,Sacramento Kings,2,2,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980416,UTA,SAC
-Shot Chart Detail,0029701179,79,997,Chris Robinson,1610612758,Sacramento Kings,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,53,1,0,19980418,LAC,SAC
-Shot Chart Detail,0029701179,87,997,Chris Robinson,1610612758,Sacramento Kings,1,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-160,128,1,1,19980418,LAC,SAC
-Shot Chart Detail,0029701179,94,997,Chris Robinson,1610612758,Sacramento Kings,1,0,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,1,19980418,LAC,SAC
-Shot Chart Detail,0029701179,116,997,Chris Robinson,1610612758,Sacramento Kings,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,1,1,0,19980418,LAC,SAC
-Shot Chart Detail,0029701179,126,997,Chris Robinson,1610612758,Sacramento Kings,2,9,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,166,203,1,0,19980418,LAC,SAC
-Shot Chart Detail,0029701179,132,997,Chris Robinson,1610612758,Sacramento Kings,2,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980418,LAC,SAC
-Shot Chart Detail,0029701188,149,997,Chris Robinson,1610612758,Sacramento Kings,2,6,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,106,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,151,997,Chris Robinson,1610612758,Sacramento Kings,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,207,121,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,161,997,Chris Robinson,1610612758,Sacramento Kings,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-117,186,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,167,997,Chris Robinson,1610612758,Sacramento Kings,2,5,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,51,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,176,997,Chris Robinson,1610612758,Sacramento Kings,2,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,12,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,288,997,Chris Robinson,1610612758,Sacramento Kings,3,2,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,290,997,Chris Robinson,1610612758,Sacramento Kings,3,1,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,33,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,296,997,Chris Robinson,1610612758,Sacramento Kings,3,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,31,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,321,997,Chris Robinson,1610612758,Sacramento Kings,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,111,186,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,357,997,Chris Robinson,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,126,173,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,411,997,Chris Robinson,1610612758,Sacramento Kings,4,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,141,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,445,997,Chris Robinson,1610612758,Sacramento Kings,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,503,997,Chris Robinson,1610612758,Sacramento Kings,5,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,250,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029700276,185,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,1,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,111,1,0,19971209,PHX,VAN
-Shot Chart Detail,0029700276,194,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,0,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,124,1,0,19971209,PHX,VAN
-Shot Chart Detail,0029700276,448,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,164,1,1,19971209,PHX,VAN
-Shot Chart Detail,0029700323,411,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,151,143,1,0,19971216,HOU,VAN
-Shot Chart Detail,0029700323,415,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,29,1,0,19971216,HOU,VAN
-Shot Chart Detail,0029700323,419,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,3,1,1,19971216,HOU,VAN
-Shot Chart Detail,0029700323,441,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971216,HOU,VAN
-Shot Chart Detail,0029700336,350,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,4,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,29,1,0,19971217,SAS,VAN
-Shot Chart Detail,0029700348,133,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971219,POR,VAN
-Shot Chart Detail,0029700348,350,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,55,100,1,0,19971219,POR,VAN
-Shot Chart Detail,0029700363,130,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,10,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,-8,1,1,19971221,VAN,POR
-Shot Chart Detail,0029700363,140,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,70,181,1,0,19971221,VAN,POR
-Shot Chart Detail,0029700363,159,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,173,1,1,19971221,VAN,POR
-Shot Chart Detail,0029700363,342,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,13,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971221,VAN,POR
-Shot Chart Detail,0029700392,125,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,10,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-10,1,0,19971226,VAN,PHX
-Shot Chart Detail,0029700392,371,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,19971226,VAN,PHX
-Shot Chart Detail,0029700392,409,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,66,235,1,0,19971226,VAN,PHX
-Shot Chart Detail,0029700392,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,218,1,0,19971226,VAN,PHX
-Shot Chart Detail,0029700392,438,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,87,227,1,1,19971226,VAN,PHX
-Shot Chart Detail,0029700392,469,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,19971226,VAN,PHX
-Shot Chart Detail,0029700422,222,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,18,1,0,19971230,VAN,SAS
-Shot Chart Detail,0029700424,98,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,233,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,133,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,186,192,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,143,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,8,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-5,1,1,19980101,VAN,PHI
-Shot Chart Detail,0029700424,148,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,1,1,1,19980101,VAN,PHI
-Shot Chart Detail,0029700424,163,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,5,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,297,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,145,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,317,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,1,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,242,12,1,1,19980101,VAN,PHI
-Shot Chart Detail,0029700424,329,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,10,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700424,351,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,188,1,0,19980101,VAN,PHI
-Shot Chart Detail,0029700437,78,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-194,3,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,107,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,11,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,98,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,112,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,11,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,25,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,325,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,147,1,1,19980102,SAC,VAN
-Shot Chart Detail,0029700437,381,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,385,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-5,1,1,19980102,SAC,VAN
-Shot Chart Detail,0029700437,398,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,96,78,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,192,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,415,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,46,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700437,437,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-25,1,0,19980102,SAC,VAN
-Shot Chart Detail,0029700464,170,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,8,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-96,158,1,1,19980106,VAN,LAL
-Shot Chart Detail,0029700464,180,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,0,19980106,VAN,LAL
-Shot Chart Detail,0029700464,186,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,6,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,19980106,VAN,LAL
-Shot Chart Detail,0029700464,355,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-14,205,1,0,19980106,VAN,LAL
-Shot Chart Detail,0029700471,94,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,1,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,164,160,1,0,19980107,LAC,VAN
-Shot Chart Detail,0029700471,316,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980107,LAC,VAN
-Shot Chart Detail,0029700471,319,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,33,14,338,1,0,19980107,LAC,VAN
-Shot Chart Detail,0029700471,327,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,149,1,0,19980107,LAC,VAN
-Shot Chart Detail,0029700471,336,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,33,1,1,19980107,LAC,VAN
-Shot Chart Detail,0029700509,467,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980113,PHI,VAN
-Shot Chart Detail,0029700562,367,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,132,1,0,19980120,VAN,DEN
-Shot Chart Detail,0029700613,430,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,16,1,1,19980127,VAN,CHI
-Shot Chart Detail,0029700613,437,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-162,36,1,0,19980127,VAN,CHI
-Shot Chart Detail,0029700656,376,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,27,1,0,19980202,DAL,VAN
-Shot Chart Detail,0029700656,388,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,179,8,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700656,396,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,4,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-158,83,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700656,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,2,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,192,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700656,417,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,2,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980202,DAL,VAN
-Shot Chart Detail,0029700677,377,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,9,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,160,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,397,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,143,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,405,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,207,68,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,462,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,23,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,68,46,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700677,465,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,106,61,1,0,19980205,CHH,VAN
-Shot Chart Detail,0029700765,463,997,Chris Robinson,1610612758,Sacramento Kings,4,2,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-149,16,1,0,19980220,SAC,MIA
-Shot Chart Detail,0029700765,475,997,Chris Robinson,1610612758,Sacramento Kings,4,0,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,1,19980220,SAC,MIA
-Shot Chart Detail,0029700778,257,997,Chris Robinson,1610612758,Sacramento Kings,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-3,1,0,19980222,MIN,SAC
-Shot Chart Detail,0029700778,328,997,Chris Robinson,1610612758,Sacramento Kings,3,5,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,108,102,1,0,19980222,MIN,SAC
-Shot Chart Detail,0029700778,364,997,Chris Robinson,1610612758,Sacramento Kings,3,2,23,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,1,1,1,19980222,MIN,SAC
-Shot Chart Detail,0029700778,408,997,Chris Robinson,1610612758,Sacramento Kings,4,10,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,229,1,0,19980222,MIN,SAC
-Shot Chart Detail,0029700783,319,997,Chris Robinson,1610612758,Sacramento Kings,3,3,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-158,87,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,330,997,Chris Robinson,1610612758,Sacramento Kings,3,2,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-156,81,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,354,997,Chris Robinson,1610612758,Sacramento Kings,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,205,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,395,997,Chris Robinson,1610612758,Sacramento Kings,4,9,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,121,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,441,997,Chris Robinson,1610612758,Sacramento Kings,4,5,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,61,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,458,997,Chris Robinson,1610612758,Sacramento Kings,4,4,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,151,113,1,0,19980223,DET,SAC
-Shot Chart Detail,0029700783,462,997,Chris Robinson,1610612758,Sacramento Kings,4,3,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,74,1,1,19980223,DET,SAC
-Shot Chart Detail,0029700794,401,997,Chris Robinson,1610612758,Sacramento Kings,4,8,32,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,0,19980225,BOS,SAC
-Shot Chart Detail,0029700794,421,997,Chris Robinson,1610612758,Sacramento Kings,4,6,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-177,128,1,0,19980225,BOS,SAC
-Shot Chart Detail,0029700794,482,997,Chris Robinson,1610612758,Sacramento Kings,4,1,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,166,42,1,0,19980225,BOS,SAC
-Shot Chart Detail,0029700850,430,997,Chris Robinson,1610612758,Sacramento Kings,4,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-171,68,1,0,19980304,SAC,DET
-Shot Chart Detail,0029700850,435,997,Chris Robinson,1610612758,Sacramento Kings,4,2,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-16,188,1,0,19980304,SAC,DET
-Shot Chart Detail,0029700895,135,997,Chris Robinson,1610612758,Sacramento Kings,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,31,214,1,0,19980311,UTA,SAC
-Shot Chart Detail,0029700895,169,997,Chris Robinson,1610612758,Sacramento Kings,2,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700895,362,997,Chris Robinson,1610612758,Sacramento Kings,4,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,199,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700895,381,997,Chris Robinson,1610612758,Sacramento Kings,4,5,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,16,136,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700895,388,997,Chris Robinson,1610612758,Sacramento Kings,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,53,1,0,19980311,UTA,SAC
-Shot Chart Detail,0029700895,417,997,Chris Robinson,1610612758,Sacramento Kings,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,14,1,0,19980311,UTA,SAC
-Shot Chart Detail,0029700895,418,997,Chris Robinson,1610612758,Sacramento Kings,4,0,25,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980311,UTA,SAC
-Shot Chart Detail,0029700901,171,997,Chris Robinson,1610612758,Sacramento Kings,2,4,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-18,199,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,176,997,Chris Robinson,1610612758,Sacramento Kings,2,4,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-143,96,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,186,997,Chris Robinson,1610612758,Sacramento Kings,2,2,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,214,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,194,997,Chris Robinson,1610612758,Sacramento Kings,2,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,3,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700941,352,997,Chris Robinson,1610612758,Sacramento Kings,4,6,19,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,19980317,PHX,SAC
-Shot Chart Detail,0029700941,371,997,Chris Robinson,1610612758,Sacramento Kings,4,4,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,91,207,1,0,19980317,PHX,SAC
-Shot Chart Detail,0029700941,391,997,Chris Robinson,1610612758,Sacramento Kings,4,1,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,188,1,0,19980317,PHX,SAC
-Shot Chart Detail,0029701020,379,997,Chris Robinson,1610612758,Sacramento Kings,4,7,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,162,104,1,0,19980327,SAC,POR
-Shot Chart Detail,0029701020,422,997,Chris Robinson,1610612758,Sacramento Kings,4,2,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,186,1,1,19980327,SAC,POR
-Shot Chart Detail,0029701020,438,997,Chris Robinson,1610612758,Sacramento Kings,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,14,1,1,19980327,SAC,POR
-Shot Chart Detail,0029701020,442,997,Chris Robinson,1610612758,Sacramento Kings,4,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-147,83,1,0,19980327,SAC,POR
-Shot Chart Detail,0029701035,153,997,Chris Robinson,1610612758,Sacramento Kings,2,7,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,186,1,0,19980329,SAC,MIN
-Shot Chart Detail,0029701035,174,997,Chris Robinson,1610612758,Sacramento Kings,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,96,156,1,0,19980329,SAC,MIN
-Shot Chart Detail,0029701035,191,997,Chris Robinson,1610612758,Sacramento Kings,2,2,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,19980329,SAC,MIN
-Shot Chart Detail,0029701068,379,997,Chris Robinson,1610612758,Sacramento Kings,3,1,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,218,1,1,19980403,SAC,MIL
-Shot Chart Detail,0029701084,134,997,Chris Robinson,1610612758,Sacramento Kings,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,44,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,153,997,Chris Robinson,1610612758,Sacramento Kings,2,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,5,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,244,997,Chris Robinson,1610612758,Sacramento Kings,3,10,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,164,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,253,997,Chris Robinson,1610612758,Sacramento Kings,3,9,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,12,248,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,265,997,Chris Robinson,1610612758,Sacramento Kings,3,7,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,281,997,Chris Robinson,1610612758,Sacramento Kings,3,5,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,12,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,304,997,Chris Robinson,1610612758,Sacramento Kings,3,2,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,42,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,308,997,Chris Robinson,1610612758,Sacramento Kings,3,2,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,311,997,Chris Robinson,1610612758,Sacramento Kings,3,2,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,345,997,Chris Robinson,1610612758,Sacramento Kings,4,11,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,235,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,347,997,Chris Robinson,1610612758,Sacramento Kings,4,10,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,373,997,Chris Robinson,1610612758,Sacramento Kings,4,8,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,408,997,Chris Robinson,1610612758,Sacramento Kings,4,4,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-171,111,1,1,19980405,SAC,DAL
-Shot Chart Detail,0029701084,426,997,Chris Robinson,1610612758,Sacramento Kings,4,2,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701084,462,997,Chris Robinson,1610612758,Sacramento Kings,4,0,9,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980405,SAC,DAL
-Shot Chart Detail,0029701099,113,997,Chris Robinson,1610612758,Sacramento Kings,2,9,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,175,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,147,997,Chris Robinson,1610612758,Sacramento Kings,2,5,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,36,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,171,997,Chris Robinson,1610612758,Sacramento Kings,2,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,1,19980407,SAC,PHX
-Shot Chart Detail,0029701099,312,997,Chris Robinson,1610612758,Sacramento Kings,3,2,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980407,SAC,PHX
-Shot Chart Detail,0029701099,359,997,Chris Robinson,1610612758,Sacramento Kings,4,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,244,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,413,997,Chris Robinson,1610612758,Sacramento Kings,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,93,1,1,19980407,SAC,PHX
-Shot Chart Detail,0029701099,416,997,Chris Robinson,1610612758,Sacramento Kings,4,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,433,997,Chris Robinson,1610612758,Sacramento Kings,4,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,162,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701099,462,997,Chris Robinson,1610612758,Sacramento Kings,4,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,218,1,0,19980407,SAC,PHX
-Shot Chart Detail,0029701111,94,997,Chris Robinson,1610612758,Sacramento Kings,1,0,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,149,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,108,997,Chris Robinson,1610612758,Sacramento Kings,2,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,160,83,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,110,997,Chris Robinson,1610612758,Sacramento Kings,2,10,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,111,997,Chris Robinson,1610612758,Sacramento Kings,2,10,28,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,161,997,Chris Robinson,1610612758,Sacramento Kings,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,239,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,163,997,Chris Robinson,1610612758,Sacramento Kings,2,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,190,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,248,997,Chris Robinson,1610612758,Sacramento Kings,3,9,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,282,997,Chris Robinson,1610612758,Sacramento Kings,3,7,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,126,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,286,997,Chris Robinson,1610612758,Sacramento Kings,3,7,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,298,997,Chris Robinson,1610612758,Sacramento Kings,3,5,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,199,16,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,314,997,Chris Robinson,1610612758,Sacramento Kings,3,3,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,164,1,1,19980409,DEN,SAC
-Shot Chart Detail,0029701111,415,997,Chris Robinson,1610612758,Sacramento Kings,4,5,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,1,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701111,463,997,Chris Robinson,1610612758,Sacramento Kings,4,1,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-8,1,0,19980409,DEN,SAC
-Shot Chart Detail,0029701121,107,997,Chris Robinson,1610612758,Sacramento Kings,1,1,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,124,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,111,997,Chris Robinson,1610612758,Sacramento Kings,1,1,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,SAC,HOU
-Shot Chart Detail,0029701121,172,997,Chris Robinson,1610612758,Sacramento Kings,2,7,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,SAC,HOU
-Shot Chart Detail,0029701121,249,997,Chris Robinson,1610612758,Sacramento Kings,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,49,38,497,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,360,997,Chris Robinson,1610612758,Sacramento Kings,4,10,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,199,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,436,997,Chris Robinson,1610612758,Sacramento Kings,4,3,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,SAC,HOU
-Shot Chart Detail,0029701121,438,997,Chris Robinson,1610612758,Sacramento Kings,4,3,11,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701121,484,997,Chris Robinson,1610612758,Sacramento Kings,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-63,248,1,0,19980410,SAC,HOU
-Shot Chart Detail,0029701148,144,997,Chris Robinson,1610612758,Sacramento Kings,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,81,218,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701148,156,997,Chris Robinson,1610612758,Sacramento Kings,2,6,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,158,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701148,292,997,Chris Robinson,1610612758,Sacramento Kings,3,2,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980414,POR,SAC
-Shot Chart Detail,0029701148,314,997,Chris Robinson,1610612758,Sacramento Kings,3,0,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-145,158,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701148,364,997,Chris Robinson,1610612758,Sacramento Kings,4,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,38,239,1,0,19980414,POR,SAC
-Shot Chart Detail,0029701159,181,997,Chris Robinson,1610612758,Sacramento Kings,2,2,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,0,19980416,UTA,SAC
-Shot Chart Detail,0029701159,186,997,Chris Robinson,1610612758,Sacramento Kings,2,2,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980416,UTA,SAC
-Shot Chart Detail,0029701179,79,997,Chris Robinson,1610612758,Sacramento Kings,1,3,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,53,1,0,19980418,LAC,SAC
-Shot Chart Detail,0029701179,87,997,Chris Robinson,1610612758,Sacramento Kings,1,1,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-160,128,1,1,19980418,LAC,SAC
-Shot Chart Detail,0029701179,94,997,Chris Robinson,1610612758,Sacramento Kings,1,0,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,1,19980418,LAC,SAC
-Shot Chart Detail,0029701179,116,997,Chris Robinson,1610612758,Sacramento Kings,2,10,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,1,1,0,19980418,LAC,SAC
-Shot Chart Detail,0029701179,126,997,Chris Robinson,1610612758,Sacramento Kings,2,9,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,166,203,1,0,19980418,LAC,SAC
-Shot Chart Detail,0029701179,132,997,Chris Robinson,1610612758,Sacramento Kings,2,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980418,LAC,SAC
-Shot Chart Detail,0029701188,149,997,Chris Robinson,1610612758,Sacramento Kings,2,6,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,106,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,151,997,Chris Robinson,1610612758,Sacramento Kings,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,207,121,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,161,997,Chris Robinson,1610612758,Sacramento Kings,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-117,186,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,167,997,Chris Robinson,1610612758,Sacramento Kings,2,5,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,51,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,176,997,Chris Robinson,1610612758,Sacramento Kings,2,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,12,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,288,997,Chris Robinson,1610612758,Sacramento Kings,3,2,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,290,997,Chris Robinson,1610612758,Sacramento Kings,3,1,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,33,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,296,997,Chris Robinson,1610612758,Sacramento Kings,3,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,31,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,321,997,Chris Robinson,1610612758,Sacramento Kings,4,10,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,111,186,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,357,997,Chris Robinson,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,126,173,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,411,997,Chris Robinson,1610612758,Sacramento Kings,4,2,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,141,1,1,19980419,SAC,VAN
-Shot Chart Detail,0029701188,445,997,Chris Robinson,1610612758,Sacramento Kings,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,0,19980419,SAC,VAN
-Shot Chart Detail,0029701188,503,997,Chris Robinson,1610612758,Sacramento Kings,5,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,250,1,1,19980419,SAC,VAN
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700276,185,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,1,40,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,111,1,0,19971209,0,PHX,VAN
+Shot Chart Detail,29700276,194,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,0,39,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,124,1,0,19971209,0,PHX,VAN
+Shot Chart Detail,29700276,448,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,9,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,164,1,1,19971209,1,PHX,VAN
+Shot Chart Detail,29700323,411,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,16,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,151,143,1,0,19971216,0,HOU,VAN
+Shot Chart Detail,29700323,415,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,2,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-173,29,1,0,19971216,0,HOU,VAN
+Shot Chart Detail,29700323,419,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,29,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,3,1,1,19971216,1,HOU,VAN
+Shot Chart Detail,29700323,441,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,12,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971216,1,HOU,VAN
+Shot Chart Detail,29700336,350,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,4,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,29,1,0,19971217,0,SAS,VAN
+Shot Chart Detail,29700348,133,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,31,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971219,0,POR,VAN
+Shot Chart Detail,29700348,350,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,1,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,55,100,1,0,19971219,0,POR,VAN
+Shot Chart Detail,29700363,130,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,10,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,8,-8,1,1,19971221,0,VAN,POR
+Shot Chart Detail,29700363,140,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,18,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,70,181,1,0,19971221,0,VAN,POR
+Shot Chart Detail,29700363,159,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,47,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,102,173,1,1,19971221,0,VAN,POR
+Shot Chart Detail,29700363,342,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,13,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971221,0,VAN,POR
+Shot Chart Detail,29700392,125,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,10,30,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,-10,1,0,19971226,0,VAN,PHX
+Shot Chart Detail,29700392,371,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,19971226,1,VAN,PHX
+Shot Chart Detail,29700392,409,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,3,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,66,235,1,0,19971226,0,VAN,PHX
+Shot Chart Detail,29700392,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,41,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,218,1,0,19971226,0,VAN,PHX
+Shot Chart Detail,29700392,438,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,16,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,87,227,1,1,19971226,0,VAN,PHX
+Shot Chart Detail,29700392,469,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,6,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,5,1,1,19971226,1,VAN,PHX
+Shot Chart Detail,29700422,222,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,0,0,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,18,1,0,19971230,0,VAN,SAS
+Shot Chart Detail,29700424,98,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,0,27,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,233,1,0,19980101,0,VAN,PHI
+Shot Chart Detail,29700424,133,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,9,7,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,186,192,1,0,19980101,0,VAN,PHI
+Shot Chart Detail,29700424,143,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,8,4,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,-5,1,1,19980101,1,VAN,PHI
+Shot Chart Detail,29700424,148,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,25,1,1,1,19980101,1,VAN,PHI
+Shot Chart Detail,29700424,163,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,5,8,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,0,19980101,0,VAN,PHI
+Shot Chart Detail,29700424,297,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,4,19,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,111,145,1,0,19980101,0,VAN,PHI
+Shot Chart Detail,29700424,317,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,1,46,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,242,12,1,1,19980101,1,VAN,PHI
+Shot Chart Detail,29700424,329,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,10,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,10,1,0,19980101,0,VAN,PHI
+Shot Chart Detail,29700424,351,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,9,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,188,1,0,19980101,0,VAN,PHI
+Shot Chart Detail,29700437,78,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,1,39,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-194,3,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,107,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,11,34,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,74,98,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,112,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,11,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,25,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,325,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,52,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,147,147,1,1,19980102,1,SAC,VAN
+Shot Chart Detail,29700437,381,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,385,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,5,37,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,-5,1,1,19980102,1,SAC,VAN
+Shot Chart Detail,29700437,398,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,4,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,96,78,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,192,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,415,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,3,6,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,46,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700437,437,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,2,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,235,-25,1,0,19980102,0,SAC,VAN
+Shot Chart Detail,29700464,170,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,8,31,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-96,158,1,1,19980106,0,VAN,LAL
+Shot Chart Detail,29700464,180,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,7,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,0,19980106,0,VAN,LAL
+Shot Chart Detail,29700464,186,997,Chris Robinson,1610612763,Vancouver Grizzlies,2,6,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,19980106,1,VAN,LAL
+Shot Chart Detail,29700464,355,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,46,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-14,205,1,0,19980106,0,VAN,LAL
+Shot Chart Detail,29700471,94,997,Chris Robinson,1610612763,Vancouver Grizzlies,1,1,11,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,164,160,1,0,19980107,0,LAC,VAN
+Shot Chart Detail,29700471,316,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,19,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980107,0,LAC,VAN
+Shot Chart Detail,29700471,319,997,Chris Robinson,1610612763,Vancouver Grizzlies,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,33,14,338,1,0,19980107,0,LAC,VAN
+Shot Chart Detail,29700471,327,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,11,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,149,1,0,19980107,0,LAC,VAN
+Shot Chart Detail,29700471,336,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,10,26,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-175,33,1,1,19980107,1,LAC,VAN
+Shot Chart Detail,29700509,467,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,42,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980113,0,PHI,VAN
+Shot Chart Detail,29700562,367,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,27,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,132,1,0,19980120,0,VAN,DEN
+Shot Chart Detail,29700613,430,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,50,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,16,1,1,19980127,1,VAN,CHI
+Shot Chart Detail,29700613,437,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,0,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-162,36,1,0,19980127,0,VAN,CHI
+Shot Chart Detail,29700656,376,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,11,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,27,1,0,19980202,0,DAL,VAN
+Shot Chart Detail,29700656,388,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,6,5,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,179,8,1,1,19980202,1,DAL,VAN
+Shot Chart Detail,29700656,396,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,4,55,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-158,83,1,1,19980202,1,DAL,VAN
+Shot Chart Detail,29700656,412,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,2,58,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,192,1,1,19980202,1,DAL,VAN
+Shot Chart Detail,29700656,417,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,2,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980202,0,DAL,VAN
+Shot Chart Detail,29700677,377,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,9,35,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,141,160,1,0,19980205,0,CHH,VAN
+Shot Chart Detail,29700677,397,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,55,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,143,1,0,19980205,0,CHH,VAN
+Shot Chart Detail,29700677,405,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,7,26,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,207,68,1,0,19980205,0,CHH,VAN
+Shot Chart Detail,29700677,462,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,23,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,68,46,1,0,19980205,0,CHH,VAN
+Shot Chart Detail,29700677,465,997,Chris Robinson,1610612763,Vancouver Grizzlies,4,1,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,106,61,1,0,19980205,0,CHH,VAN
+Shot Chart Detail,29700765,463,997,Chris Robinson,1610612758,Sacramento Kings,4,2,7,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-149,16,1,0,19980220,0,SAC,MIA
+Shot Chart Detail,29700765,475,997,Chris Robinson,1610612758,Sacramento Kings,4,0,51,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,0,1,1,19980220,1,SAC,MIA
+Shot Chart Detail,29700778,257,997,Chris Robinson,1610612758,Sacramento Kings,2,0,0,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-3,1,0,19980222,0,MIN,SAC
+Shot Chart Detail,29700778,328,997,Chris Robinson,1610612758,Sacramento Kings,3,5,13,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,108,102,1,0,19980222,0,MIN,SAC
+Shot Chart Detail,29700778,364,997,Chris Robinson,1610612758,Sacramento Kings,3,2,23,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,1,1,1,19980222,0,MIN,SAC
+Shot Chart Detail,29700778,408,997,Chris Robinson,1610612758,Sacramento Kings,4,10,45,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,229,1,0,19980222,0,MIN,SAC
+Shot Chart Detail,29700783,319,997,Chris Robinson,1610612758,Sacramento Kings,3,3,12,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-158,87,1,0,19980223,0,DET,SAC
+Shot Chart Detail,29700783,330,997,Chris Robinson,1610612758,Sacramento Kings,3,2,45,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-156,81,1,0,19980223,0,DET,SAC
+Shot Chart Detail,29700783,354,997,Chris Robinson,1610612758,Sacramento Kings,3,0,1,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,205,1,0,19980223,0,DET,SAC
+Shot Chart Detail,29700783,395,997,Chris Robinson,1610612758,Sacramento Kings,4,9,33,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,121,1,0,19980223,0,DET,SAC
+Shot Chart Detail,29700783,441,997,Chris Robinson,1610612758,Sacramento Kings,4,5,23,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,136,61,1,0,19980223,0,DET,SAC
+Shot Chart Detail,29700783,458,997,Chris Robinson,1610612758,Sacramento Kings,4,4,17,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,151,113,1,0,19980223,0,DET,SAC
+Shot Chart Detail,29700783,462,997,Chris Robinson,1610612758,Sacramento Kings,4,3,45,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,160,74,1,1,19980223,1,DET,SAC
+Shot Chart Detail,29700794,401,997,Chris Robinson,1610612758,Sacramento Kings,4,8,32,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,0,19980225,0,BOS,SAC
+Shot Chart Detail,29700794,421,997,Chris Robinson,1610612758,Sacramento Kings,4,6,44,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-177,128,1,0,19980225,0,BOS,SAC
+Shot Chart Detail,29700794,482,997,Chris Robinson,1610612758,Sacramento Kings,4,1,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,166,42,1,0,19980225,0,BOS,SAC
+Shot Chart Detail,29700850,430,997,Chris Robinson,1610612758,Sacramento Kings,4,3,9,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-171,68,1,0,19980304,0,SAC,DET
+Shot Chart Detail,29700850,435,997,Chris Robinson,1610612758,Sacramento Kings,4,2,4,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-16,188,1,0,19980304,0,SAC,DET
+Shot Chart Detail,29700895,135,997,Chris Robinson,1610612758,Sacramento Kings,2,6,40,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,31,214,1,0,19980311,0,UTA,SAC
+Shot Chart Detail,29700895,169,997,Chris Robinson,1610612758,Sacramento Kings,2,3,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980311,1,UTA,SAC
+Shot Chart Detail,29700895,362,997,Chris Robinson,1610612758,Sacramento Kings,4,6,42,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,199,1,1,19980311,1,UTA,SAC
+Shot Chart Detail,29700895,381,997,Chris Robinson,1610612758,Sacramento Kings,4,5,42,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,16,136,1,1,19980311,1,UTA,SAC
+Shot Chart Detail,29700895,388,997,Chris Robinson,1610612758,Sacramento Kings,4,4,43,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-68,53,1,0,19980311,0,UTA,SAC
+Shot Chart Detail,29700895,417,997,Chris Robinson,1610612758,Sacramento Kings,4,0,29,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,14,1,0,19980311,0,UTA,SAC
+Shot Chart Detail,29700895,418,997,Chris Robinson,1610612758,Sacramento Kings,4,0,25,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980311,0,UTA,SAC
+Shot Chart Detail,29700901,171,997,Chris Robinson,1610612758,Sacramento Kings,2,4,51,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-18,199,1,0,19980312,0,SAS,SAC
+Shot Chart Detail,29700901,176,997,Chris Robinson,1610612758,Sacramento Kings,2,4,22,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-143,96,1,0,19980312,0,SAS,SAC
+Shot Chart Detail,29700901,186,997,Chris Robinson,1610612758,Sacramento Kings,2,2,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,214,1,0,19980312,0,SAS,SAC
+Shot Chart Detail,29700901,194,997,Chris Robinson,1610612758,Sacramento Kings,2,1,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,25,3,1,0,19980312,0,SAS,SAC
+Shot Chart Detail,29700941,352,997,Chris Robinson,1610612758,Sacramento Kings,4,6,19,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-201,0,1,1,19980317,1,PHX,SAC
+Shot Chart Detail,29700941,371,997,Chris Robinson,1610612758,Sacramento Kings,4,4,0,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,91,207,1,0,19980317,0,PHX,SAC
+Shot Chart Detail,29700941,391,997,Chris Robinson,1610612758,Sacramento Kings,4,1,36,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,188,1,0,19980317,0,PHX,SAC
+Shot Chart Detail,29701020,379,997,Chris Robinson,1610612758,Sacramento Kings,4,7,50,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,162,104,1,0,19980327,0,SAC,POR
+Shot Chart Detail,29701020,422,997,Chris Robinson,1610612758,Sacramento Kings,4,2,55,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,186,1,1,19980327,1,SAC,POR
+Shot Chart Detail,29701020,438,997,Chris Robinson,1610612758,Sacramento Kings,4,1,11,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,201,14,1,1,19980327,0,SAC,POR
+Shot Chart Detail,29701020,442,997,Chris Robinson,1610612758,Sacramento Kings,4,0,33,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-147,83,1,0,19980327,0,SAC,POR
+Shot Chart Detail,29701035,153,997,Chris Robinson,1610612758,Sacramento Kings,2,7,2,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,119,186,1,0,19980329,0,SAC,MIN
+Shot Chart Detail,29701035,174,997,Chris Robinson,1610612758,Sacramento Kings,2,4,50,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,96,156,1,0,19980329,0,SAC,MIN
+Shot Chart Detail,29701035,191,997,Chris Robinson,1610612758,Sacramento Kings,2,2,45,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,-3,1,1,19980329,1,SAC,MIN
+Shot Chart Detail,29701068,379,997,Chris Robinson,1610612758,Sacramento Kings,3,1,44,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,218,1,1,19980403,1,SAC,MIL
+Shot Chart Detail,29701084,134,997,Chris Robinson,1610612758,Sacramento Kings,2,8,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-192,44,1,0,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,153,997,Chris Robinson,1610612758,Sacramento Kings,2,7,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-91,5,1,1,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,244,997,Chris Robinson,1610612758,Sacramento Kings,3,10,47,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,1,164,1,0,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,253,997,Chris Robinson,1610612758,Sacramento Kings,3,9,43,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,12,248,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,265,997,Chris Robinson,1610612758,Sacramento Kings,3,7,56,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,281,997,Chris Robinson,1610612758,Sacramento Kings,3,5,15,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,151,12,1,0,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,304,997,Chris Robinson,1610612758,Sacramento Kings,3,2,59,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,42,1,0,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,308,997,Chris Robinson,1610612758,Sacramento Kings,3,2,24,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,311,997,Chris Robinson,1610612758,Sacramento Kings,3,2,1,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,345,997,Chris Robinson,1610612758,Sacramento Kings,4,11,7,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,78,235,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,347,997,Chris Robinson,1610612758,Sacramento Kings,4,10,52,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,373,997,Chris Robinson,1610612758,Sacramento Kings,4,8,17,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,408,997,Chris Robinson,1610612758,Sacramento Kings,4,4,48,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-171,111,1,1,19980405,1,SAC,DAL
+Shot Chart Detail,29701084,426,997,Chris Robinson,1610612758,Sacramento Kings,4,2,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,-5,1,0,19980405,0,SAC,DAL
+Shot Chart Detail,29701084,462,997,Chris Robinson,1610612758,Sacramento Kings,4,0,9,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980405,0,SAC,DAL
+Shot Chart Detail,29701099,113,997,Chris Robinson,1610612758,Sacramento Kings,2,9,57,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,175,1,0,19980407,0,SAC,PHX
+Shot Chart Detail,29701099,147,997,Chris Robinson,1610612758,Sacramento Kings,2,5,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,36,1,0,19980407,0,SAC,PHX
+Shot Chart Detail,29701099,171,997,Chris Robinson,1610612758,Sacramento Kings,2,3,53,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,0,1,1,19980407,1,SAC,PHX
+Shot Chart Detail,29701099,312,997,Chris Robinson,1610612758,Sacramento Kings,3,2,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980407,1,SAC,PHX
+Shot Chart Detail,29701099,359,997,Chris Robinson,1610612758,Sacramento Kings,4,8,24,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,1,244,1,0,19980407,0,SAC,PHX
+Shot Chart Detail,29701099,413,997,Chris Robinson,1610612758,Sacramento Kings,4,3,22,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,93,1,1,19980407,1,SAC,PHX
+Shot Chart Detail,29701099,416,997,Chris Robinson,1610612758,Sacramento Kings,4,2,49,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,162,1,0,19980407,0,SAC,PHX
+Shot Chart Detail,29701099,433,997,Chris Robinson,1610612758,Sacramento Kings,4,2,3,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,162,1,0,19980407,0,SAC,PHX
+Shot Chart Detail,29701099,462,997,Chris Robinson,1610612758,Sacramento Kings,4,0,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,121,218,1,0,19980407,0,SAC,PHX
+Shot Chart Detail,29701111,94,997,Chris Robinson,1610612758,Sacramento Kings,1,0,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,149,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,108,997,Chris Robinson,1610612758,Sacramento Kings,2,10,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,160,83,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,110,997,Chris Robinson,1610612758,Sacramento Kings,2,10,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,111,997,Chris Robinson,1610612758,Sacramento Kings,2,10,28,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,161,997,Chris Robinson,1610612758,Sacramento Kings,2,6,12,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,61,239,1,1,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,163,997,Chris Robinson,1610612758,Sacramento Kings,2,5,42,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,190,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,248,997,Chris Robinson,1610612758,Sacramento Kings,3,9,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,282,997,Chris Robinson,1610612758,Sacramento Kings,3,7,46,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,126,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,286,997,Chris Robinson,1610612758,Sacramento Kings,3,7,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980409,1,DEN,SAC
+Shot Chart Detail,29701111,298,997,Chris Robinson,1610612758,Sacramento Kings,3,5,58,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,199,16,1,1,19980409,1,DEN,SAC
+Shot Chart Detail,29701111,314,997,Chris Robinson,1610612758,Sacramento Kings,3,3,42,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,164,1,1,19980409,1,DEN,SAC
+Shot Chart Detail,29701111,415,997,Chris Robinson,1610612758,Sacramento Kings,4,5,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-139,1,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701111,463,997,Chris Robinson,1610612758,Sacramento Kings,4,1,43,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,-8,1,0,19980409,0,DEN,SAC
+Shot Chart Detail,29701121,107,997,Chris Robinson,1610612758,Sacramento Kings,1,1,40,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,124,1,0,19980410,0,SAC,HOU
+Shot Chart Detail,29701121,111,997,Chris Robinson,1610612758,Sacramento Kings,1,1,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,1,SAC,HOU
+Shot Chart Detail,29701121,172,997,Chris Robinson,1610612758,Sacramento Kings,2,7,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,1,SAC,HOU
+Shot Chart Detail,29701121,249,997,Chris Robinson,1610612758,Sacramento Kings,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,49,38,497,1,0,19980410,0,SAC,HOU
+Shot Chart Detail,29701121,360,997,Chris Robinson,1610612758,Sacramento Kings,4,10,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,199,1,0,19980410,0,SAC,HOU
+Shot Chart Detail,29701121,436,997,Chris Robinson,1610612758,Sacramento Kings,4,3,45,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980410,0,SAC,HOU
+Shot Chart Detail,29701121,438,997,Chris Robinson,1610612758,Sacramento Kings,4,3,11,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,14,1,0,19980410,0,SAC,HOU
+Shot Chart Detail,29701121,484,997,Chris Robinson,1610612758,Sacramento Kings,4,0,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-63,248,1,0,19980410,0,SAC,HOU
+Shot Chart Detail,29701148,144,997,Chris Robinson,1610612758,Sacramento Kings,2,8,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,23,81,218,1,0,19980414,0,POR,SAC
+Shot Chart Detail,29701148,156,997,Chris Robinson,1610612758,Sacramento Kings,2,6,41,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,184,158,1,0,19980414,0,POR,SAC
+Shot Chart Detail,29701148,292,997,Chris Robinson,1610612758,Sacramento Kings,3,2,19,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980414,0,POR,SAC
+Shot Chart Detail,29701148,314,997,Chris Robinson,1610612758,Sacramento Kings,3,0,24,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-145,158,1,0,19980414,0,POR,SAC
+Shot Chart Detail,29701148,364,997,Chris Robinson,1610612758,Sacramento Kings,4,7,29,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,38,239,1,0,19980414,0,POR,SAC
+Shot Chart Detail,29701159,181,997,Chris Robinson,1610612758,Sacramento Kings,2,2,56,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,214,1,0,19980416,0,UTA,SAC
+Shot Chart Detail,29701159,186,997,Chris Robinson,1610612758,Sacramento Kings,2,2,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980416,0,UTA,SAC
+Shot Chart Detail,29701179,79,997,Chris Robinson,1610612758,Sacramento Kings,1,3,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-31,53,1,0,19980418,0,LAC,SAC
+Shot Chart Detail,29701179,87,997,Chris Robinson,1610612758,Sacramento Kings,1,1,55,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-160,128,1,1,19980418,1,LAC,SAC
+Shot Chart Detail,29701179,94,997,Chris Robinson,1610612758,Sacramento Kings,1,0,58,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,239,1,1,1,19980418,1,LAC,SAC
+Shot Chart Detail,29701179,116,997,Chris Robinson,1610612758,Sacramento Kings,2,10,58,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,121,1,1,0,19980418,0,LAC,SAC
+Shot Chart Detail,29701179,126,997,Chris Robinson,1610612758,Sacramento Kings,2,9,31,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,166,203,1,0,19980418,0,LAC,SAC
+Shot Chart Detail,29701179,132,997,Chris Robinson,1610612758,Sacramento Kings,2,9,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980418,1,LAC,SAC
+Shot Chart Detail,29701188,149,997,Chris Robinson,1610612758,Sacramento Kings,2,6,18,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,106,1,0,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,151,997,Chris Robinson,1610612758,Sacramento Kings,2,6,12,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,207,121,1,1,19980419,1,SAC,VAN
+Shot Chart Detail,29701188,161,997,Chris Robinson,1610612758,Sacramento Kings,2,5,35,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-117,186,1,0,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,167,997,Chris Robinson,1610612758,Sacramento Kings,2,5,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,51,1,0,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,176,997,Chris Robinson,1610612758,Sacramento Kings,2,4,27,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,8,-83,12,1,0,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,288,997,Chris Robinson,1610612758,Sacramento Kings,3,2,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,290,997,Chris Robinson,1610612758,Sacramento Kings,3,1,52,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,33,1,1,19980419,1,SAC,VAN
+Shot Chart Detail,29701188,296,997,Chris Robinson,1610612758,Sacramento Kings,3,0,51,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,31,1,1,19980419,1,SAC,VAN
+Shot Chart Detail,29701188,321,997,Chris Robinson,1610612758,Sacramento Kings,4,10,49,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,111,186,1,1,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,357,997,Chris Robinson,1610612758,Sacramento Kings,4,7,51,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,126,173,1,1,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,411,997,Chris Robinson,1610612758,Sacramento Kings,4,2,46,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-209,141,1,1,19980419,1,SAC,VAN
+Shot Chart Detail,29701188,445,997,Chris Robinson,1610612758,Sacramento Kings,4,0,7,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,0,19980419,0,SAC,VAN
+Shot Chart Detail,29701188,503,997,Chris Robinson,1610612758,Sacramento Kings,5,1,4,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,1,250,1,1,19980419,1,SAC,VAN

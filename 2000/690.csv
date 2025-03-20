@@ -1,225 +1,113 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900004,16,690,Don Reid,1610612765,Detroit Pistons,1,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991102,MIA,DET
-Shot Chart Detail,0029900015,14,690,Don Reid,1610612765,Detroit Pistons,1,11,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991103,ORL,DET
-Shot Chart Detail,0029900015,37,690,Don Reid,1610612765,Detroit Pistons,1,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,31,1,0,19991103,ORL,DET
-Shot Chart Detail,0029900030,26,690,Don Reid,1610612765,Detroit Pistons,1,7,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,DET,NYK
-Shot Chart Detail,0029900114,124,690,Don Reid,1610612765,Detroit Pistons,2,11,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991117,DET,NJN
-Shot Chart Detail,0029900145,434,690,Don Reid,1610612765,Detroit Pistons,4,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,10,1,1,19991121,DET,MIL
-Shot Chart Detail,0029900194,422,690,Don Reid,1610612765,Detroit Pistons,4,9,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991128,DET,ORL
-Shot Chart Detail,0029900207,137,690,Don Reid,1610612765,Detroit Pistons,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,55,1,0,19991130,SAS,DET
-Shot Chart Detail,0029900207,170,690,Don Reid,1610612765,Detroit Pistons,2,6,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900207,328,690,Don Reid,1610612765,Detroit Pistons,3,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,55,171,1,0,19991130,SAS,DET
-Shot Chart Detail,0029900207,352,690,Don Reid,1610612765,Detroit Pistons,4,10,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900207,364,690,Don Reid,1610612765,Detroit Pistons,4,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,27,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900207,446,690,Don Reid,1610612765,Detroit Pistons,4,0,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900227,152,690,Don Reid,1610612765,Detroit Pistons,2,8,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,124,1,1,19991203,DET,SAS
-Shot Chart Detail,0029900227,154,690,Don Reid,1610612765,Detroit Pistons,2,7,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991203,DET,SAS
-Shot Chart Detail,0029900235,110,690,Don Reid,1610612765,Detroit Pistons,2,10,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991204,ATL,DET
-Shot Chart Detail,0029900235,207,690,Don Reid,1610612765,Detroit Pistons,2,1,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991204,ATL,DET
-Shot Chart Detail,0029900277,451,690,Don Reid,1610612765,Detroit Pistons,4,1,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,55,1,1,19991210,DET,LAC
-Shot Chart Detail,0029900277,460,690,Don Reid,1610612765,Detroit Pistons,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,42,1,0,19991210,DET,LAC
-Shot Chart Detail,0029900277,463,690,Don Reid,1610612765,Detroit Pistons,4,0,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,27,1,1,19991210,DET,LAC
-Shot Chart Detail,0029900277,466,690,Don Reid,1610612765,Detroit Pistons,4,0,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,42,1,1,19991210,DET,LAC
-Shot Chart Detail,0029900296,355,690,Don Reid,1610612765,Detroit Pistons,3,2,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,61,1,0,19991212,LAL,DET
-Shot Chart Detail,0029900321,122,690,Don Reid,1610612765,Detroit Pistons,1,1,23,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991216,GSW,DET
-Shot Chart Detail,0029900321,153,690,Don Reid,1610612765,Detroit Pistons,2,10,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,40,1,0,19991216,GSW,DET
-Shot Chart Detail,0029900321,185,690,Don Reid,1610612765,Detroit Pistons,2,7,46,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,16,1,0,19991216,GSW,DET
-Shot Chart Detail,0029900321,217,690,Don Reid,1610612765,Detroit Pistons,2,5,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,57,1,1,19991216,GSW,DET
-Shot Chart Detail,0029900517,345,690,Don Reid,1610612765,Detroit Pistons,3,2,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20000115,WAS,DET
-Shot Chart Detail,0029900517,373,690,Don Reid,1610612765,Detroit Pistons,4,11,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,0,20000115,WAS,DET
-Shot Chart Detail,0029900568,411,690,Don Reid,1610612765,Detroit Pistons,4,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000122,CHI,DET
-Shot Chart Detail,0029900568,431,690,Don Reid,1610612765,Detroit Pistons,4,6,16,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,57,1,0,20000122,CHI,DET
-Shot Chart Detail,0029900626,397,690,Don Reid,1610612765,Detroit Pistons,4,5,17,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000131,MIA,DET
-Shot Chart Detail,0029900626,401,690,Don Reid,1610612765,Detroit Pistons,4,4,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000131,MIA,DET
-Shot Chart Detail,0029900626,427,690,Don Reid,1610612765,Detroit Pistons,4,2,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,55,113,1,0,20000131,MIA,DET
-Shot Chart Detail,0029900626,431,690,Don Reid,1610612765,Detroit Pistons,4,2,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000131,MIA,DET
-Shot Chart Detail,0029900909,124,690,Don Reid,1610612764,Washington Wizards,2,10,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,155,690,Don Reid,1610612764,Washington Wizards,2,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,189,690,Don Reid,1610612764,Washington Wizards,2,5,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,218,690,Don Reid,1610612764,Washington Wizards,2,1,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,228,690,Don Reid,1610612764,Washington Wizards,2,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,318,690,Don Reid,1610612764,Washington Wizards,3,3,29,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,ORL,WAS
-Shot Chart Detail,0029900909,361,690,Don Reid,1610612764,Washington Wizards,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,ORL,WAS
-Shot Chart Detail,0029900909,400,690,Don Reid,1610612764,Washington Wizards,4,7,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,ORL,WAS
-Shot Chart Detail,0029900923,132,690,Don Reid,1610612764,Washington Wizards,2,10,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,12,1,1,20000316,WAS,LAL
-Shot Chart Detail,0029900923,311,690,Don Reid,1610612764,Washington Wizards,3,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000316,WAS,LAL
-Shot Chart Detail,0029900923,324,690,Don Reid,1610612764,Washington Wizards,3,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20000316,WAS,LAL
-Shot Chart Detail,0029900940,141,690,Don Reid,1610612764,Washington Wizards,2,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,18,1,0,20000318,WAS,CHI
-Shot Chart Detail,0029900940,194,690,Don Reid,1610612764,Washington Wizards,2,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-33,1,0,20000318,WAS,CHI
-Shot Chart Detail,0029900940,205,690,Don Reid,1610612764,Washington Wizards,2,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,-10,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900940,341,690,Don Reid,1610612764,Washington Wizards,3,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900940,405,690,Don Reid,1610612764,Washington Wizards,4,5,36,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,18,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900940,420,690,Don Reid,1610612764,Washington Wizards,4,4,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,0,20000318,WAS,CHI
-Shot Chart Detail,0029900940,439,690,Don Reid,1610612764,Washington Wizards,4,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900960,94,690,Don Reid,1610612764,Washington Wizards,1,1,29,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-83,40,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,100,690,Don Reid,1610612764,Washington Wizards,1,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,136,690,Don Reid,1610612764,Washington Wizards,2,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,307,690,Don Reid,1610612764,Washington Wizards,3,3,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000320,LAC,WAS
-Shot Chart Detail,0029900960,333,690,Don Reid,1610612764,Washington Wizards,3,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,341,690,Don Reid,1610612764,Washington Wizards,3,0,29,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000320,LAC,WAS
-Shot Chart Detail,0029900960,355,690,Don Reid,1610612764,Washington Wizards,4,11,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900967,123,690,Don Reid,1610612764,Washington Wizards,2,10,26,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,8,1,1,20000321,SAC,WAS
-Shot Chart Detail,0029900967,174,690,Don Reid,1610612764,Washington Wizards,2,5,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000321,SAC,WAS
-Shot Chart Detail,0029900982,170,690,Don Reid,1610612764,Washington Wizards,2,9,58,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,53,1,1,20000323,DEN,WAS
-Shot Chart Detail,0029900995,87,690,Don Reid,1610612764,Washington Wizards,1,0,50,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000325,DAL,WAS
-Shot Chart Detail,0029900995,284,690,Don Reid,1610612764,Washington Wizards,3,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,DAL,WAS
-Shot Chart Detail,0029900995,289,690,Don Reid,1610612764,Washington Wizards,3,4,22,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,DAL,WAS
-Shot Chart Detail,0029900995,299,690,Don Reid,1610612764,Washington Wizards,3,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,141,1,0,20000325,DAL,WAS
-Shot Chart Detail,0029901020,135,690,Don Reid,1610612764,Washington Wizards,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,57,1,0,20000329,WAS,DEN
-Shot Chart Detail,0029901020,140,690,Don Reid,1610612764,Washington Wizards,2,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,-16,1,0,20000329,WAS,DEN
-Shot Chart Detail,0029901020,152,690,Don Reid,1610612764,Washington Wizards,2,8,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,161,690,Don Reid,1610612764,Washington Wizards,2,7,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,213,690,Don Reid,1610612764,Washington Wizards,2,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,337,690,Don Reid,1610612764,Washington Wizards,3,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,348,690,Don Reid,1610612764,Washington Wizards,4,11,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-10,1,0,20000329,WAS,DEN
-Shot Chart Detail,0029901020,357,690,Don Reid,1610612764,Washington Wizards,4,10,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901033,260,690,Don Reid,1610612764,Washington Wizards,3,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,14,1,0,20000331,BOS,WAS
-Shot Chart Detail,0029901033,321,690,Don Reid,1610612764,Washington Wizards,3,3,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,72,1,1,20000331,BOS,WAS
-Shot Chart Detail,0029901033,343,690,Don Reid,1610612764,Washington Wizards,3,1,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,0,20000331,BOS,WAS
-Shot Chart Detail,0029901033,393,690,Don Reid,1610612764,Washington Wizards,4,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,1,20000331,BOS,WAS
-Shot Chart Detail,0029901033,409,690,Don Reid,1610612764,Washington Wizards,4,5,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,57,1,0,20000331,BOS,WAS
-Shot Chart Detail,0029901057,171,690,Don Reid,1610612764,Washington Wizards,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-10,1,0,20000404,WAS,NJN
-Shot Chart Detail,0029901075,318,690,Don Reid,1610612764,Washington Wizards,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000406,NYK,WAS
-Shot Chart Detail,0029901075,340,690,Don Reid,1610612764,Washington Wizards,4,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000406,NYK,WAS
-Shot Chart Detail,0029901075,443,690,Don Reid,1610612764,Washington Wizards,4,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000406,NYK,WAS
-Shot Chart Detail,0029901109,111,690,Don Reid,1610612764,Washington Wizards,2,11,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901109,134,690,Don Reid,1610612764,Washington Wizards,2,9,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,0,20000410,WAS,CHH
-Shot Chart Detail,0029901109,319,690,Don Reid,1610612764,Washington Wizards,3,2,36,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,23,1,0,20000410,WAS,CHH
-Shot Chart Detail,0029901109,322,690,Don Reid,1610612764,Washington Wizards,3,2,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901109,332,690,Don Reid,1610612764,Washington Wizards,3,0,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,5,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901109,379,690,Don Reid,1610612764,Washington Wizards,4,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901123,93,690,Don Reid,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,PHI,WAS
-Shot Chart Detail,0029901123,400,690,Don Reid,1610612764,Washington Wizards,4,6,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,PHI,WAS
-Shot Chart Detail,0029901123,440,690,Don Reid,1610612764,Washington Wizards,4,2,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,46,1,0,20000412,PHI,WAS
-Shot Chart Detail,0029901123,459,690,Don Reid,1610612764,Washington Wizards,4,0,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,PHI,WAS
-Shot Chart Detail,0029901131,310,690,Don Reid,1610612764,Washington Wizards,3,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,CHI,WAS
-Shot Chart Detail,0029901131,311,690,Don Reid,1610612764,Washington Wizards,3,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000413,CHI,WAS
-Shot Chart Detail,0029901131,394,690,Don Reid,1610612764,Washington Wizards,4,4,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,CHI,WAS
-Shot Chart Detail,0029901147,99,690,Don Reid,1610612764,Washington Wizards,1,1,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,63,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901147,123,690,Don Reid,1610612764,Washington Wizards,2,10,22,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,40,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901147,166,690,Don Reid,1610612764,Washington Wizards,2,6,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,40,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,367,690,Don Reid,1610612764,Washington Wizards,4,9,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901147,371,690,Don Reid,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,373,690,Don Reid,1610612764,Washington Wizards,4,8,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,12,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,413,690,Don Reid,1610612764,Washington Wizards,4,5,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,419,690,Don Reid,1610612764,Washington Wizards,4,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-16,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,471,690,Don Reid,1610612764,Washington Wizards,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901166,439,690,Don Reid,1610612764,Washington Wizards,4,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,-10,1,0,20000418,WAS,BOS
-Shot Chart Detail,0029901166,448,690,Don Reid,1610612764,Washington Wizards,4,5,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,53,1,0,20000418,WAS,BOS
-Shot Chart Detail,0029901166,497,690,Don Reid,1610612764,Washington Wizards,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,18,1,0,20000418,WAS,BOS
-Shot Chart Detail,0029901182,127,690,Don Reid,1610612764,Washington Wizards,2,9,44,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,48,1,0,20000419,MIL,WAS
-Shot Chart Detail,0029901182,385,690,Don Reid,1610612764,Washington Wizards,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-104,63,1,0,20000419,MIL,WAS
-Shot Chart Detail,0029901182,395,690,Don Reid,1610612764,Washington Wizards,4,7,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000419,MIL,WAS
-Shot Chart Detail,0029901182,425,690,Don Reid,1610612764,Washington Wizards,4,3,8,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000419,MIL,WAS
-Shot Chart Detail,0029900004,16,690,Don Reid,1610612765,Detroit Pistons,1,10,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991102,MIA,DET
-Shot Chart Detail,0029900015,14,690,Don Reid,1610612765,Detroit Pistons,1,11,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991103,ORL,DET
-Shot Chart Detail,0029900015,37,690,Don Reid,1610612765,Detroit Pistons,1,8,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,31,1,0,19991103,ORL,DET
-Shot Chart Detail,0029900030,26,690,Don Reid,1610612765,Detroit Pistons,1,7,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,DET,NYK
-Shot Chart Detail,0029900114,124,690,Don Reid,1610612765,Detroit Pistons,2,11,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991117,DET,NJN
-Shot Chart Detail,0029900145,434,690,Don Reid,1610612765,Detroit Pistons,4,3,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-113,10,1,1,19991121,DET,MIL
-Shot Chart Detail,0029900194,422,690,Don Reid,1610612765,Detroit Pistons,4,9,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991128,DET,ORL
-Shot Chart Detail,0029900207,137,690,Don Reid,1610612765,Detroit Pistons,2,8,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,55,1,0,19991130,SAS,DET
-Shot Chart Detail,0029900207,170,690,Don Reid,1610612765,Detroit Pistons,2,6,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900207,328,690,Don Reid,1610612765,Detroit Pistons,3,0,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,55,171,1,0,19991130,SAS,DET
-Shot Chart Detail,0029900207,352,690,Don Reid,1610612765,Detroit Pistons,4,10,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900207,364,690,Don Reid,1610612765,Detroit Pistons,4,9,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,27,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900207,446,690,Don Reid,1610612765,Detroit Pistons,4,0,54,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,1,19991130,SAS,DET
-Shot Chart Detail,0029900227,152,690,Don Reid,1610612765,Detroit Pistons,2,8,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,124,1,1,19991203,DET,SAS
-Shot Chart Detail,0029900227,154,690,Don Reid,1610612765,Detroit Pistons,2,7,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991203,DET,SAS
-Shot Chart Detail,0029900235,110,690,Don Reid,1610612765,Detroit Pistons,2,10,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991204,ATL,DET
-Shot Chart Detail,0029900235,207,690,Don Reid,1610612765,Detroit Pistons,2,1,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991204,ATL,DET
-Shot Chart Detail,0029900277,451,690,Don Reid,1610612765,Detroit Pistons,4,1,52,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,55,1,1,19991210,DET,LAC
-Shot Chart Detail,0029900277,460,690,Don Reid,1610612765,Detroit Pistons,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,42,1,0,19991210,DET,LAC
-Shot Chart Detail,0029900277,463,690,Don Reid,1610612765,Detroit Pistons,4,0,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,27,1,1,19991210,DET,LAC
-Shot Chart Detail,0029900277,466,690,Don Reid,1610612765,Detroit Pistons,4,0,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,42,1,1,19991210,DET,LAC
-Shot Chart Detail,0029900296,355,690,Don Reid,1610612765,Detroit Pistons,3,2,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,61,1,0,19991212,LAL,DET
-Shot Chart Detail,0029900321,122,690,Don Reid,1610612765,Detroit Pistons,1,1,23,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991216,GSW,DET
-Shot Chart Detail,0029900321,153,690,Don Reid,1610612765,Detroit Pistons,2,10,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,40,1,0,19991216,GSW,DET
-Shot Chart Detail,0029900321,185,690,Don Reid,1610612765,Detroit Pistons,2,7,46,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,16,1,0,19991216,GSW,DET
-Shot Chart Detail,0029900321,217,690,Don Reid,1610612765,Detroit Pistons,2,5,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,57,1,1,19991216,GSW,DET
-Shot Chart Detail,0029900517,345,690,Don Reid,1610612765,Detroit Pistons,3,2,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20000115,WAS,DET
-Shot Chart Detail,0029900517,373,690,Don Reid,1610612765,Detroit Pistons,4,11,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,0,20000115,WAS,DET
-Shot Chart Detail,0029900568,411,690,Don Reid,1610612765,Detroit Pistons,4,7,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000122,CHI,DET
-Shot Chart Detail,0029900568,431,690,Don Reid,1610612765,Detroit Pistons,4,6,16,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,57,1,0,20000122,CHI,DET
-Shot Chart Detail,0029900626,397,690,Don Reid,1610612765,Detroit Pistons,4,5,17,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000131,MIA,DET
-Shot Chart Detail,0029900626,401,690,Don Reid,1610612765,Detroit Pistons,4,4,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000131,MIA,DET
-Shot Chart Detail,0029900626,427,690,Don Reid,1610612765,Detroit Pistons,4,2,38,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,55,113,1,0,20000131,MIA,DET
-Shot Chart Detail,0029900626,431,690,Don Reid,1610612765,Detroit Pistons,4,2,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000131,MIA,DET
-Shot Chart Detail,0029900909,124,690,Don Reid,1610612764,Washington Wizards,2,10,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,155,690,Don Reid,1610612764,Washington Wizards,2,7,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,189,690,Don Reid,1610612764,Washington Wizards,2,5,15,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,218,690,Don Reid,1610612764,Washington Wizards,2,1,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,228,690,Don Reid,1610612764,Washington Wizards,2,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,ORL,WAS
-Shot Chart Detail,0029900909,318,690,Don Reid,1610612764,Washington Wizards,3,3,29,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,ORL,WAS
-Shot Chart Detail,0029900909,361,690,Don Reid,1610612764,Washington Wizards,3,0,9,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,ORL,WAS
-Shot Chart Detail,0029900909,400,690,Don Reid,1610612764,Washington Wizards,4,7,32,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,ORL,WAS
-Shot Chart Detail,0029900923,132,690,Don Reid,1610612764,Washington Wizards,2,10,29,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,12,1,1,20000316,WAS,LAL
-Shot Chart Detail,0029900923,311,690,Don Reid,1610612764,Washington Wizards,3,5,15,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000316,WAS,LAL
-Shot Chart Detail,0029900923,324,690,Don Reid,1610612764,Washington Wizards,3,3,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20000316,WAS,LAL
-Shot Chart Detail,0029900940,141,690,Don Reid,1610612764,Washington Wizards,2,8,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,18,1,0,20000318,WAS,CHI
-Shot Chart Detail,0029900940,194,690,Don Reid,1610612764,Washington Wizards,2,4,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-33,1,0,20000318,WAS,CHI
-Shot Chart Detail,0029900940,205,690,Don Reid,1610612764,Washington Wizards,2,3,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,-10,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900940,341,690,Don Reid,1610612764,Washington Wizards,3,0,33,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900940,405,690,Don Reid,1610612764,Washington Wizards,4,5,36,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,18,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900940,420,690,Don Reid,1610612764,Washington Wizards,4,4,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,0,20000318,WAS,CHI
-Shot Chart Detail,0029900940,439,690,Don Reid,1610612764,Washington Wizards,4,2,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20000318,WAS,CHI
-Shot Chart Detail,0029900960,94,690,Don Reid,1610612764,Washington Wizards,1,1,29,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-83,40,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,100,690,Don Reid,1610612764,Washington Wizards,1,0,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,136,690,Don Reid,1610612764,Washington Wizards,2,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,307,690,Don Reid,1610612764,Washington Wizards,3,3,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000320,LAC,WAS
-Shot Chart Detail,0029900960,333,690,Don Reid,1610612764,Washington Wizards,3,0,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900960,341,690,Don Reid,1610612764,Washington Wizards,3,0,29,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000320,LAC,WAS
-Shot Chart Detail,0029900960,355,690,Don Reid,1610612764,Washington Wizards,4,11,43,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900967,123,690,Don Reid,1610612764,Washington Wizards,2,10,26,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,8,1,1,20000321,SAC,WAS
-Shot Chart Detail,0029900967,174,690,Don Reid,1610612764,Washington Wizards,2,5,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000321,SAC,WAS
-Shot Chart Detail,0029900982,170,690,Don Reid,1610612764,Washington Wizards,2,9,58,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,53,1,1,20000323,DEN,WAS
-Shot Chart Detail,0029900995,87,690,Don Reid,1610612764,Washington Wizards,1,0,50,Missed Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000325,DAL,WAS
-Shot Chart Detail,0029900995,284,690,Don Reid,1610612764,Washington Wizards,3,4,50,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,DAL,WAS
-Shot Chart Detail,0029900995,289,690,Don Reid,1610612764,Washington Wizards,3,4,22,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,DAL,WAS
-Shot Chart Detail,0029900995,299,690,Don Reid,1610612764,Washington Wizards,3,3,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,3,141,1,0,20000325,DAL,WAS
-Shot Chart Detail,0029901020,135,690,Don Reid,1610612764,Washington Wizards,2,9,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,57,1,0,20000329,WAS,DEN
-Shot Chart Detail,0029901020,140,690,Don Reid,1610612764,Washington Wizards,2,9,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,-16,1,0,20000329,WAS,DEN
-Shot Chart Detail,0029901020,152,690,Don Reid,1610612764,Washington Wizards,2,8,31,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,161,690,Don Reid,1610612764,Washington Wizards,2,7,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,213,690,Don Reid,1610612764,Washington Wizards,2,2,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,337,690,Don Reid,1610612764,Washington Wizards,3,0,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901020,348,690,Don Reid,1610612764,Washington Wizards,4,11,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-10,1,0,20000329,WAS,DEN
-Shot Chart Detail,0029901020,357,690,Don Reid,1610612764,Washington Wizards,4,10,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20000329,WAS,DEN
-Shot Chart Detail,0029901033,260,690,Don Reid,1610612764,Washington Wizards,3,10,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,14,1,0,20000331,BOS,WAS
-Shot Chart Detail,0029901033,321,690,Don Reid,1610612764,Washington Wizards,3,3,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,72,1,1,20000331,BOS,WAS
-Shot Chart Detail,0029901033,343,690,Don Reid,1610612764,Washington Wizards,3,1,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,0,20000331,BOS,WAS
-Shot Chart Detail,0029901033,393,690,Don Reid,1610612764,Washington Wizards,4,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,1,20000331,BOS,WAS
-Shot Chart Detail,0029901033,409,690,Don Reid,1610612764,Washington Wizards,4,5,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,57,1,0,20000331,BOS,WAS
-Shot Chart Detail,0029901057,171,690,Don Reid,1610612764,Washington Wizards,2,6,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-128,-10,1,0,20000404,WAS,NJN
-Shot Chart Detail,0029901075,318,690,Don Reid,1610612764,Washington Wizards,3,0,40,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000406,NYK,WAS
-Shot Chart Detail,0029901075,340,690,Don Reid,1610612764,Washington Wizards,4,10,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000406,NYK,WAS
-Shot Chart Detail,0029901075,443,690,Don Reid,1610612764,Washington Wizards,4,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000406,NYK,WAS
-Shot Chart Detail,0029901109,111,690,Don Reid,1610612764,Washington Wizards,2,11,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901109,134,690,Don Reid,1610612764,Washington Wizards,2,9,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,0,20000410,WAS,CHH
-Shot Chart Detail,0029901109,319,690,Don Reid,1610612764,Washington Wizards,3,2,36,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,23,1,0,20000410,WAS,CHH
-Shot Chart Detail,0029901109,322,690,Don Reid,1610612764,Washington Wizards,3,2,3,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901109,332,690,Don Reid,1610612764,Washington Wizards,3,0,48,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,5,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901109,379,690,Don Reid,1610612764,Washington Wizards,4,7,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,20000410,WAS,CHH
-Shot Chart Detail,0029901123,93,690,Don Reid,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,PHI,WAS
-Shot Chart Detail,0029901123,400,690,Don Reid,1610612764,Washington Wizards,4,6,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,PHI,WAS
-Shot Chart Detail,0029901123,440,690,Don Reid,1610612764,Washington Wizards,4,2,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,46,1,0,20000412,PHI,WAS
-Shot Chart Detail,0029901123,459,690,Don Reid,1610612764,Washington Wizards,4,0,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,PHI,WAS
-Shot Chart Detail,0029901131,310,690,Don Reid,1610612764,Washington Wizards,3,1,35,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,CHI,WAS
-Shot Chart Detail,0029901131,311,690,Don Reid,1610612764,Washington Wizards,3,1,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000413,CHI,WAS
-Shot Chart Detail,0029901131,394,690,Don Reid,1610612764,Washington Wizards,4,4,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,CHI,WAS
-Shot Chart Detail,0029901147,99,690,Don Reid,1610612764,Washington Wizards,1,1,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,63,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901147,123,690,Don Reid,1610612764,Washington Wizards,2,10,22,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,40,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901147,166,690,Don Reid,1610612764,Washington Wizards,2,6,44,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,40,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,367,690,Don Reid,1610612764,Washington Wizards,4,9,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901147,371,690,Don Reid,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,373,690,Don Reid,1610612764,Washington Wizards,4,8,49,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,12,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,413,690,Don Reid,1610612764,Washington Wizards,4,5,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,419,690,Don Reid,1610612764,Washington Wizards,4,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-16,1,0,20000415,WAS,MIL
-Shot Chart Detail,0029901147,471,690,Don Reid,1610612764,Washington Wizards,4,0,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000415,WAS,MIL
-Shot Chart Detail,0029901166,439,690,Don Reid,1610612764,Washington Wizards,4,6,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,-10,1,0,20000418,WAS,BOS
-Shot Chart Detail,0029901166,448,690,Don Reid,1610612764,Washington Wizards,4,5,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,53,1,0,20000418,WAS,BOS
-Shot Chart Detail,0029901166,497,690,Don Reid,1610612764,Washington Wizards,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,18,1,0,20000418,WAS,BOS
-Shot Chart Detail,0029901182,127,690,Don Reid,1610612764,Washington Wizards,2,9,44,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,48,1,0,20000419,MIL,WAS
-Shot Chart Detail,0029901182,385,690,Don Reid,1610612764,Washington Wizards,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-104,63,1,0,20000419,MIL,WAS
-Shot Chart Detail,0029901182,395,690,Don Reid,1610612764,Washington Wizards,4,7,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000419,MIL,WAS
-Shot Chart Detail,0029901182,425,690,Don Reid,1610612764,Washington Wizards,4,3,8,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000419,MIL,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900004,16,690,Don Reid,1610612765,Detroit Pistons,1,10,25,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991102,1,MIA,DET
+Shot Chart Detail,29900015,14,690,Don Reid,1610612765,Detroit Pistons,1,11,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991103,0,ORL,DET
+Shot Chart Detail,29900015,37,690,Don Reid,1610612765,Detroit Pistons,1,8,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,31,1,0,19991103,0,ORL,DET
+Shot Chart Detail,29900030,26,690,Don Reid,1610612765,Detroit Pistons,1,7,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,0,DET,NYK
+Shot Chart Detail,29900114,124,690,Don Reid,1610612765,Detroit Pistons,2,11,0,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991117,1,DET,NJN
+Shot Chart Detail,29900145,434,690,Don Reid,1610612765,Detroit Pistons,4,3,7,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-113,10,1,1,19991121,1,DET,MIL
+Shot Chart Detail,29900194,422,690,Don Reid,1610612765,Detroit Pistons,4,9,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991128,0,DET,ORL
+Shot Chart Detail,29900207,137,690,Don Reid,1610612765,Detroit Pistons,2,8,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,5,55,1,0,19991130,0,SAS,DET
+Shot Chart Detail,29900207,170,690,Don Reid,1610612765,Detroit Pistons,2,6,8,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,19991130,1,SAS,DET
+Shot Chart Detail,29900207,328,690,Don Reid,1610612765,Detroit Pistons,3,0,50,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,55,171,1,0,19991130,0,SAS,DET
+Shot Chart Detail,29900207,352,690,Don Reid,1610612765,Detroit Pistons,4,10,35,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,19991130,1,SAS,DET
+Shot Chart Detail,29900207,364,690,Don Reid,1610612765,Detroit Pistons,4,9,40,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,85,27,1,1,19991130,1,SAS,DET
+Shot Chart Detail,29900207,446,690,Don Reid,1610612765,Detroit Pistons,4,0,54,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,21,1,1,19991130,1,SAS,DET
+Shot Chart Detail,29900227,152,690,Don Reid,1610612765,Detroit Pistons,2,8,23,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,23,124,1,1,19991203,1,DET,SAS
+Shot Chart Detail,29900227,154,690,Don Reid,1610612765,Detroit Pistons,2,7,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991203,1,DET,SAS
+Shot Chart Detail,29900235,110,690,Don Reid,1610612765,Detroit Pistons,2,10,17,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991204,1,ATL,DET
+Shot Chart Detail,29900235,207,690,Don Reid,1610612765,Detroit Pistons,2,1,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991204,0,ATL,DET
+Shot Chart Detail,29900277,451,690,Don Reid,1610612765,Detroit Pistons,4,1,52,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,44,55,1,1,19991210,1,DET,LAC
+Shot Chart Detail,29900277,460,690,Don Reid,1610612765,Detroit Pistons,4,0,57,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,44,42,1,0,19991210,0,DET,LAC
+Shot Chart Detail,29900277,463,690,Don Reid,1610612765,Detroit Pistons,4,0,41,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,27,1,1,19991210,0,DET,LAC
+Shot Chart Detail,29900277,466,690,Don Reid,1610612765,Detroit Pistons,4,0,16,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,42,1,1,19991210,1,DET,LAC
+Shot Chart Detail,29900296,355,690,Don Reid,1610612765,Detroit Pistons,3,2,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-46,61,1,0,19991212,0,LAL,DET
+Shot Chart Detail,29900321,122,690,Don Reid,1610612765,Detroit Pistons,1,1,23,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991216,0,GSW,DET
+Shot Chart Detail,29900321,153,690,Don Reid,1610612765,Detroit Pistons,2,10,21,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,40,1,0,19991216,0,GSW,DET
+Shot Chart Detail,29900321,185,690,Don Reid,1610612765,Detroit Pistons,2,7,46,Missed Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,8,85,16,1,0,19991216,0,GSW,DET
+Shot Chart Detail,29900321,217,690,Don Reid,1610612765,Detroit Pistons,2,5,44,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-14,57,1,1,19991216,1,GSW,DET
+Shot Chart Detail,29900517,345,690,Don Reid,1610612765,Detroit Pistons,3,2,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20000115,0,WAS,DET
+Shot Chart Detail,29900517,373,690,Don Reid,1610612765,Detroit Pistons,4,11,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,0,20000115,0,WAS,DET
+Shot Chart Detail,29900568,411,690,Don Reid,1610612765,Detroit Pistons,4,7,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000122,0,CHI,DET
+Shot Chart Detail,29900568,431,690,Don Reid,1610612765,Detroit Pistons,4,6,16,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,57,1,0,20000122,0,CHI,DET
+Shot Chart Detail,29900626,397,690,Don Reid,1610612765,Detroit Pistons,4,5,17,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000131,0,MIA,DET
+Shot Chart Detail,29900626,401,690,Don Reid,1610612765,Detroit Pistons,4,4,54,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000131,0,MIA,DET
+Shot Chart Detail,29900626,427,690,Don Reid,1610612765,Detroit Pistons,4,2,38,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,55,113,1,0,20000131,0,MIA,DET
+Shot Chart Detail,29900626,431,690,Don Reid,1610612765,Detroit Pistons,4,2,12,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000131,1,MIA,DET
+Shot Chart Detail,29900909,124,690,Don Reid,1610612764,Washington Wizards,2,10,57,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,1,ORL,WAS
+Shot Chart Detail,29900909,155,690,Don Reid,1610612764,Washington Wizards,2,7,41,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,1,ORL,WAS
+Shot Chart Detail,29900909,189,690,Don Reid,1610612764,Washington Wizards,2,5,15,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,1,ORL,WAS
+Shot Chart Detail,29900909,218,690,Don Reid,1610612764,Washington Wizards,2,1,39,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,1,ORL,WAS
+Shot Chart Detail,29900909,228,690,Don Reid,1610612764,Washington Wizards,2,0,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,1,ORL,WAS
+Shot Chart Detail,29900909,318,690,Don Reid,1610612764,Washington Wizards,3,3,29,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,0,ORL,WAS
+Shot Chart Detail,29900909,361,690,Don Reid,1610612764,Washington Wizards,3,0,9,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,0,ORL,WAS
+Shot Chart Detail,29900909,400,690,Don Reid,1610612764,Washington Wizards,4,7,32,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,0,ORL,WAS
+Shot Chart Detail,29900923,132,690,Don Reid,1610612764,Washington Wizards,2,10,29,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-3,12,1,1,20000316,1,WAS,LAL
+Shot Chart Detail,29900923,311,690,Don Reid,1610612764,Washington Wizards,3,5,15,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000316,1,WAS,LAL
+Shot Chart Detail,29900923,324,690,Don Reid,1610612764,Washington Wizards,3,3,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-3,1,1,20000316,1,WAS,LAL
+Shot Chart Detail,29900940,141,690,Don Reid,1610612764,Washington Wizards,2,8,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,10,18,1,0,20000318,0,WAS,CHI
+Shot Chart Detail,29900940,194,690,Don Reid,1610612764,Washington Wizards,2,4,19,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,156,-33,1,0,20000318,0,WAS,CHI
+Shot Chart Detail,29900940,205,690,Don Reid,1610612764,Washington Wizards,2,3,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-3,-10,1,1,20000318,0,WAS,CHI
+Shot Chart Detail,29900940,341,690,Don Reid,1610612764,Washington Wizards,3,0,33,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20000318,1,WAS,CHI
+Shot Chart Detail,29900940,405,690,Don Reid,1610612764,Washington Wizards,4,5,36,Made Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,8,83,18,1,1,20000318,1,WAS,CHI
+Shot Chart Detail,29900940,420,690,Don Reid,1610612764,Washington Wizards,4,4,1,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,5,1,0,20000318,0,WAS,CHI
+Shot Chart Detail,29900940,439,690,Don Reid,1610612764,Washington Wizards,4,2,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,5,1,1,20000318,1,WAS,CHI
+Shot Chart Detail,29900960,94,690,Don Reid,1610612764,Washington Wizards,1,1,29,Made Shot,Hook Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-83,40,1,1,20000320,1,LAC,WAS
+Shot Chart Detail,29900960,100,690,Don Reid,1610612764,Washington Wizards,1,0,32,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,1,LAC,WAS
+Shot Chart Detail,29900960,136,690,Don Reid,1610612764,Washington Wizards,2,9,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,1,LAC,WAS
+Shot Chart Detail,29900960,307,690,Don Reid,1610612764,Washington Wizards,3,3,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000320,0,LAC,WAS
+Shot Chart Detail,29900960,333,690,Don Reid,1610612764,Washington Wizards,3,0,56,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,1,LAC,WAS
+Shot Chart Detail,29900960,341,690,Don Reid,1610612764,Washington Wizards,3,0,29,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000320,0,LAC,WAS
+Shot Chart Detail,29900960,355,690,Don Reid,1610612764,Washington Wizards,4,11,43,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000320,0,LAC,WAS
+Shot Chart Detail,29900967,123,690,Don Reid,1610612764,Washington Wizards,2,10,26,Made Shot,Hook Shot,,Mid-Range,Right Side(R),8-16 ft.,9,96,8,1,1,20000321,0,SAC,WAS
+Shot Chart Detail,29900967,174,690,Don Reid,1610612764,Washington Wizards,2,5,30,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000321,1,SAC,WAS
+Shot Chart Detail,29900982,170,690,Don Reid,1610612764,Washington Wizards,2,9,58,Made Shot,Hook Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,61,53,1,1,20000323,1,DEN,WAS
+Shot Chart Detail,29900995,87,690,Don Reid,1610612764,Washington Wizards,1,0,50,Missed Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000325,0,DAL,WAS
+Shot Chart Detail,29900995,284,690,Don Reid,1610612764,Washington Wizards,3,4,50,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,0,DAL,WAS
+Shot Chart Detail,29900995,289,690,Don Reid,1610612764,Washington Wizards,3,4,22,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,1,DAL,WAS
+Shot Chart Detail,29900995,299,690,Don Reid,1610612764,Washington Wizards,3,3,9,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,3,141,1,0,20000325,0,DAL,WAS
+Shot Chart Detail,29901020,135,690,Don Reid,1610612764,Washington Wizards,2,9,53,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,57,1,0,20000329,0,WAS,DEN
+Shot Chart Detail,29901020,140,690,Don Reid,1610612764,Washington Wizards,2,9,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,-16,1,0,20000329,0,WAS,DEN
+Shot Chart Detail,29901020,152,690,Don Reid,1610612764,Washington Wizards,2,8,31,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20000329,1,WAS,DEN
+Shot Chart Detail,29901020,161,690,Don Reid,1610612764,Washington Wizards,2,7,16,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,-3,1,1,20000329,1,WAS,DEN
+Shot Chart Detail,29901020,213,690,Don Reid,1610612764,Washington Wizards,2,2,26,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,-10,1,1,20000329,1,WAS,DEN
+Shot Chart Detail,29901020,337,690,Don Reid,1610612764,Washington Wizards,3,0,34,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-18,-3,1,1,20000329,1,WAS,DEN
+Shot Chart Detail,29901020,348,690,Don Reid,1610612764,Washington Wizards,4,11,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-10,1,0,20000329,0,WAS,DEN
+Shot Chart Detail,29901020,357,690,Don Reid,1610612764,Washington Wizards,4,10,4,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20000329,1,WAS,DEN
+Shot Chart Detail,29901033,260,690,Don Reid,1610612764,Washington Wizards,3,10,40,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,14,1,0,20000331,0,BOS,WAS
+Shot Chart Detail,29901033,321,690,Don Reid,1610612764,Washington Wizards,3,3,32,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,3,72,1,1,20000331,1,BOS,WAS
+Shot Chart Detail,29901033,343,690,Don Reid,1610612764,Washington Wizards,3,1,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,0,1,0,20000331,0,BOS,WAS
+Shot Chart Detail,29901033,393,690,Don Reid,1610612764,Washington Wizards,4,6,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-27,8,1,1,20000331,1,BOS,WAS
+Shot Chart Detail,29901033,409,690,Don Reid,1610612764,Washington Wizards,4,5,15,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-134,57,1,0,20000331,0,BOS,WAS
+Shot Chart Detail,29901057,171,690,Don Reid,1610612764,Washington Wizards,2,6,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-128,-10,1,0,20000404,0,WAS,NJN
+Shot Chart Detail,29901075,318,690,Don Reid,1610612764,Washington Wizards,3,0,40,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000406,1,NYK,WAS
+Shot Chart Detail,29901075,340,690,Don Reid,1610612764,Washington Wizards,4,10,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000406,0,NYK,WAS
+Shot Chart Detail,29901075,443,690,Don Reid,1610612764,Washington Wizards,4,1,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000406,1,NYK,WAS
+Shot Chart Detail,29901109,111,690,Don Reid,1610612764,Washington Wizards,2,11,45,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000410,1,WAS,CHH
+Shot Chart Detail,29901109,134,690,Don Reid,1610612764,Washington Wizards,2,9,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,0,20000410,0,WAS,CHH
+Shot Chart Detail,29901109,319,690,Don Reid,1610612764,Washington Wizards,3,2,36,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,23,1,0,20000410,0,WAS,CHH
+Shot Chart Detail,29901109,322,690,Don Reid,1610612764,Washington Wizards,3,2,3,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000410,1,WAS,CHH
+Shot Chart Detail,29901109,332,690,Don Reid,1610612764,Washington Wizards,3,0,48,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,5,1,1,20000410,1,WAS,CHH
+Shot Chart Detail,29901109,379,690,Don Reid,1610612764,Washington Wizards,4,7,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,1,1,1,20000410,1,WAS,CHH
+Shot Chart Detail,29901123,93,690,Don Reid,1610612764,Washington Wizards,1,2,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,1,PHI,WAS
+Shot Chart Detail,29901123,400,690,Don Reid,1610612764,Washington Wizards,4,6,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,1,PHI,WAS
+Shot Chart Detail,29901123,440,690,Don Reid,1610612764,Washington Wizards,4,2,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,46,1,0,20000412,0,PHI,WAS
+Shot Chart Detail,29901123,459,690,Don Reid,1610612764,Washington Wizards,4,0,50,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000412,1,PHI,WAS
+Shot Chart Detail,29901131,310,690,Don Reid,1610612764,Washington Wizards,3,1,35,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,0,CHI,WAS
+Shot Chart Detail,29901131,311,690,Don Reid,1610612764,Washington Wizards,3,1,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000413,0,CHI,WAS
+Shot Chart Detail,29901131,394,690,Don Reid,1610612764,Washington Wizards,4,4,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,0,CHI,WAS
+Shot Chart Detail,29901147,99,690,Don Reid,1610612764,Washington Wizards,1,1,5,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,63,1,1,20000415,1,WAS,MIL
+Shot Chart Detail,29901147,123,690,Don Reid,1610612764,Washington Wizards,2,10,22,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,40,1,1,20000415,1,WAS,MIL
+Shot Chart Detail,29901147,166,690,Don Reid,1610612764,Washington Wizards,2,6,44,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,40,1,0,20000415,0,WAS,MIL
+Shot Chart Detail,29901147,367,690,Don Reid,1610612764,Washington Wizards,4,9,26,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,1,20000415,1,WAS,MIL
+Shot Chart Detail,29901147,371,690,Don Reid,1610612764,Washington Wizards,4,8,53,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,12,1,0,20000415,0,WAS,MIL
+Shot Chart Detail,29901147,373,690,Don Reid,1610612764,Washington Wizards,4,8,49,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,12,1,0,20000415,0,WAS,MIL
+Shot Chart Detail,29901147,413,690,Don Reid,1610612764,Washington Wizards,4,5,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,23,1,0,20000415,0,WAS,MIL
+Shot Chart Detail,29901147,419,690,Don Reid,1610612764,Washington Wizards,4,4,18,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,164,-16,1,0,20000415,0,WAS,MIL
+Shot Chart Detail,29901147,471,690,Don Reid,1610612764,Washington Wizards,4,0,7,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20000415,0,WAS,MIL
+Shot Chart Detail,29901166,439,690,Don Reid,1610612764,Washington Wizards,4,6,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-91,-10,1,0,20000418,0,WAS,BOS
+Shot Chart Detail,29901166,448,690,Don Reid,1610612764,Washington Wizards,4,5,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-76,53,1,0,20000418,0,WAS,BOS
+Shot Chart Detail,29901166,497,690,Don Reid,1610612764,Washington Wizards,4,0,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,18,1,0,20000418,0,WAS,BOS
+Shot Chart Detail,29901182,127,690,Don Reid,1610612764,Washington Wizards,2,9,44,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,48,1,0,20000419,0,MIL,WAS
+Shot Chart Detail,29901182,385,690,Don Reid,1610612764,Washington Wizards,4,8,51,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-104,63,1,0,20000419,0,MIL,WAS
+Shot Chart Detail,29901182,395,690,Don Reid,1610612764,Washington Wizards,4,7,15,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000419,1,MIL,WAS
+Shot Chart Detail,29901182,425,690,Don Reid,1610612764,Washington Wizards,4,3,8,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000419,0,MIL,WAS

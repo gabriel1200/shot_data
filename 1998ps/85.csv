@@ -1,16 +1,16 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049700003,104,85,Brent Price,1610612745,Houston Rockets,2,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,55,237,1,1,19980423,UTA,HOU
-Shot Chart Detail,0049700003,121,85,Brent Price,1610612745,Houston Rockets,2,8,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,203,1,1,19980423,UTA,HOU
-Shot Chart Detail,0049700003,128,85,Brent Price,1610612745,Houston Rockets,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,143,1,1,19980423,UTA,HOU
-Shot Chart Detail,0049700003,141,85,Brent Price,1610612745,Houston Rockets,2,5,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,-8,1,0,19980423,UTA,HOU
-Shot Chart Detail,0049700003,147,85,Brent Price,1610612745,Houston Rockets,2,4,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,265,1,0,19980423,UTA,HOU
-Shot Chart Detail,0049700003,331,85,Brent Price,1610612745,Houston Rockets,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,248,1,0,19980423,UTA,HOU
-Shot Chart Detail,0049700003,355,85,Brent Price,1610612745,Houston Rockets,4,11,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-102,224,1,1,19980423,UTA,HOU
-Shot Chart Detail,0049700012,55,85,Brent Price,1610612745,Houston Rockets,1,5,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980425,UTA,HOU
-Shot Chart Detail,0049700012,73,85,Brent Price,1610612745,Houston Rockets,1,4,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,218,1,0,19980425,UTA,HOU
-Shot Chart Detail,0049700012,95,85,Brent Price,1610612745,Houston Rockets,1,2,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,216,1,0,19980425,UTA,HOU
-Shot Chart Detail,0049700012,433,85,Brent Price,1610612745,Houston Rockets,4,8,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,149,1,1,19980425,UTA,HOU
-Shot Chart Detail,0049700012,446,85,Brent Price,1610612745,Houston Rockets,4,6,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-10,244,1,0,19980425,UTA,HOU
-Shot Chart Detail,0049700025,119,85,Brent Price,1610612745,Houston Rockets,2,10,26,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,3,1,0,19980429,HOU,UTA
-Shot Chart Detail,0049700025,130,85,Brent Price,1610612745,Houston Rockets,2,8,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,126,205,1,0,19980429,HOU,UTA
-Shot Chart Detail,0049700025,343,85,Brent Price,1610612745,Houston Rockets,4,8,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-21,246,1,0,19980429,HOU,UTA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49700003,104,85,Brent Price,1610612745,Houston Rockets,2,10,34,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,55,237,1,1,19980423,1,UTA,HOU
+Shot Chart Detail,49700003,121,85,Brent Price,1610612745,Houston Rockets,2,8,4,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-143,203,1,1,19980423,1,UTA,HOU
+Shot Chart Detail,49700003,128,85,Brent Price,1610612745,Houston Rockets,2,7,13,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,143,1,1,19980423,1,UTA,HOU
+Shot Chart Detail,49700003,141,85,Brent Price,1610612745,Houston Rockets,2,5,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,188,-8,1,0,19980423,0,UTA,HOU
+Shot Chart Detail,49700003,147,85,Brent Price,1610612745,Houston Rockets,2,4,59,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,0,265,1,0,19980423,0,UTA,HOU
+Shot Chart Detail,49700003,331,85,Brent Price,1610612745,Houston Rockets,3,0,43,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-55,248,1,0,19980423,0,UTA,HOU
+Shot Chart Detail,49700003,355,85,Brent Price,1610612745,Houston Rockets,4,11,32,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-102,224,1,1,19980423,1,UTA,HOU
+Shot Chart Detail,49700012,55,85,Brent Price,1610612745,Houston Rockets,1,5,25,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980425,1,UTA,HOU
+Shot Chart Detail,49700012,73,85,Brent Price,1610612745,Houston Rockets,1,4,36,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,102,218,1,0,19980425,0,UTA,HOU
+Shot Chart Detail,49700012,95,85,Brent Price,1610612745,Houston Rockets,1,2,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,108,216,1,0,19980425,0,UTA,HOU
+Shot Chart Detail,49700012,433,85,Brent Price,1610612745,Houston Rockets,4,8,24,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,149,1,1,19980425,0,UTA,HOU
+Shot Chart Detail,49700012,446,85,Brent Price,1610612745,Houston Rockets,4,6,53,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-10,244,1,0,19980425,0,UTA,HOU
+Shot Chart Detail,49700025,119,85,Brent Price,1610612745,Houston Rockets,2,10,26,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,3,1,0,19980429,0,HOU,UTA
+Shot Chart Detail,49700025,130,85,Brent Price,1610612745,Houston Rockets,2,8,45,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,126,205,1,0,19980429,0,HOU,UTA
+Shot Chart Detail,49700025,343,85,Brent Price,1610612745,Houston Rockets,4,8,56,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-21,246,1,0,19980429,0,HOU,UTA

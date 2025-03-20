@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700441,377,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,9,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,162,177,1,1,19980103,CLE,NJN
-Shot Chart Detail,0029700441,387,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,7,34,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-74,78,1,0,19980103,CLE,NJN
-Shot Chart Detail,0029700457,105,434,Tony Dumas,1610612739,Cleveland Cavaliers,2,10,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,0,19980106,CLE,HOU
-Shot Chart Detail,0029700457,357,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,9,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,19980106,CLE,HOU
-Shot Chart Detail,0029700457,427,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,2,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,220,1,1,19980106,CLE,HOU
-Shot Chart Detail,0029700476,316,434,Tony Dumas,1610612739,Cleveland Cavaliers,3,3,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-3,1,0,19980108,CLE,SEA
-Shot Chart Detail,0029700476,320,434,Tony Dumas,1610612739,Cleveland Cavaliers,3,2,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,0,1,0,19980108,CLE,SEA
-Shot Chart Detail,0029700476,351,434,Tony Dumas,1610612739,Cleveland Cavaliers,3,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-5,1,1,19980108,CLE,SEA
-Shot Chart Detail,0029700476,379,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,9,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,128,1,0,19980108,CLE,SEA
-Shot Chart Detail,0029700476,463,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,1,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,19980108,CLE,SEA
-Shot Chart Detail,0029700589,494,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,5,1,1,19980124,CLE,PHI
-Shot Chart Detail,0029700609,131,434,Tony Dumas,1610612739,Cleveland Cavaliers,2,10,52,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,76,134,1,0,19980127,DAL,CLE
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700441,377,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,9,18,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,162,177,1,1,19980103,1,CLE,NJN
+Shot Chart Detail,29700441,387,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,7,34,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-74,78,1,0,19980103,0,CLE,NJN
+Shot Chart Detail,29700457,105,434,Tony Dumas,1610612739,Cleveland Cavaliers,2,10,52,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,0,19980106,0,CLE,HOU
+Shot Chart Detail,29700457,357,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,9,52,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,19980106,0,CLE,HOU
+Shot Chart Detail,29700457,427,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,2,2,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,106,220,1,1,19980106,1,CLE,HOU
+Shot Chart Detail,29700476,316,434,Tony Dumas,1610612739,Cleveland Cavaliers,3,3,14,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,-3,1,0,19980108,0,CLE,SEA
+Shot Chart Detail,29700476,320,434,Tony Dumas,1610612739,Cleveland Cavaliers,3,2,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,0,1,0,19980108,0,CLE,SEA
+Shot Chart Detail,29700476,351,434,Tony Dumas,1610612739,Cleveland Cavaliers,3,0,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-5,1,1,19980108,1,CLE,SEA
+Shot Chart Detail,29700476,379,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,9,4,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,111,128,1,0,19980108,0,CLE,SEA
+Shot Chart Detail,29700476,463,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,1,27,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-3,1,1,19980108,1,CLE,SEA
+Shot Chart Detail,29700589,494,434,Tony Dumas,1610612739,Cleveland Cavaliers,4,0,28,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,14,5,1,1,19980124,1,CLE,PHI
+Shot Chart Detail,29700609,131,434,Tony Dumas,1610612739,Cleveland Cavaliers,2,10,52,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,76,134,1,0,19980127,0,DAL,CLE

@@ -1,20 +1,20 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049900016,470,1904,Devean George,1610612747,Los Angeles Lakers,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,139,1,0,20000427,LAL,SAC
-Shot Chart Detail,0049900024,216,1904,Devean George,1610612747,Los Angeles Lakers,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,18,1,1,20000430,SAC,LAL
-Shot Chart Detail,0049900039,460,1904,Devean George,1610612747,Los Angeles Lakers,4,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000505,LAL,SAC
-Shot Chart Detail,0049900039,470,1904,Devean George,1610612747,Los Angeles Lakers,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-3,1,0,20000505,LAL,SAC
-Shot Chart Detail,0049900039,473,1904,Devean George,1610612747,Los Angeles Lakers,4,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000505,LAL,SAC
-Shot Chart Detail,0049900055,462,1904,Devean George,1610612747,Los Angeles Lakers,4,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000507,LAL,PHX
-Shot Chart Detail,0049900055,481,1904,Devean George,1610612747,Los Angeles Lakers,4,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,115,1,1,20000507,LAL,PHX
-Shot Chart Detail,0049900055,487,1904,Devean George,1610612747,Los Angeles Lakers,4,2,14,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000507,LAL,PHX
-Shot Chart Detail,0049900055,490,1904,Devean George,1610612747,Los Angeles Lakers,4,1,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,171,166,1,0,20000507,LAL,PHX
-Shot Chart Detail,0049900055,507,1904,Devean George,1610612747,Los Angeles Lakers,4,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,239,1,1,20000507,LAL,PHX
-Shot Chart Detail,0049900058,398,1904,Devean George,1610612747,Los Angeles Lakers,4,11,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,173,1,0,20000514,PHX,LAL
-Shot Chart Detail,0049900058,416,1904,Devean George,1610612747,Los Angeles Lakers,4,8,36,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000514,PHX,LAL
-Shot Chart Detail,0049900058,469,1904,Devean George,1610612747,Los Angeles Lakers,4,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-12,242,1,0,20000514,PHX,LAL
-Shot Chart Detail,0049900058,499,1904,Devean George,1610612747,Los Angeles Lakers,4,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,5,1,1,20000514,PHX,LAL
-Shot Chart Detail,0049900058,509,1904,Devean George,1610612747,Los Angeles Lakers,4,0,57,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000514,PHX,LAL
-Shot Chart Detail,0049900070,386,1904,Devean George,1610612747,Los Angeles Lakers,4,9,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-23,1,0,20000522,LAL,POR
-Shot Chart Detail,0049900070,405,1904,Devean George,1610612747,Los Angeles Lakers,4,8,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6,267,1,0,20000522,LAL,POR
-Shot Chart Detail,0049900070,488,1904,Devean George,1610612747,Los Angeles Lakers,4,1,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,0,1,0,20000522,LAL,POR
-Shot Chart Detail,0049900087,472,1904,Devean George,1610612747,Los Angeles Lakers,4,0,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,46,1,0,20000616,IND,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49900016,470,1904,Devean George,1610612747,Los Angeles Lakers,4,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,130,139,1,0,20000427,0,LAL,SAC
+Shot Chart Detail,49900024,216,1904,Devean George,1610612747,Los Angeles Lakers,2,6,1,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,18,1,1,20000430,1,SAC,LAL
+Shot Chart Detail,49900039,460,1904,Devean George,1610612747,Los Angeles Lakers,4,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000505,0,LAL,SAC
+Shot Chart Detail,49900039,470,1904,Devean George,1610612747,Los Angeles Lakers,4,3,13,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-3,1,0,20000505,0,LAL,SAC
+Shot Chart Detail,49900039,473,1904,Devean George,1610612747,Los Angeles Lakers,4,3,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000505,1,LAL,SAC
+Shot Chart Detail,49900055,462,1904,Devean George,1610612747,Los Angeles Lakers,4,4,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000507,0,LAL,PHX
+Shot Chart Detail,49900055,481,1904,Devean George,1610612747,Los Angeles Lakers,4,2,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-134,115,1,1,20000507,0,LAL,PHX
+Shot Chart Detail,49900055,487,1904,Devean George,1610612747,Los Angeles Lakers,4,2,14,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000507,1,LAL,PHX
+Shot Chart Detail,49900055,490,1904,Devean George,1610612747,Los Angeles Lakers,4,1,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,171,166,1,0,20000507,0,LAL,PHX
+Shot Chart Detail,49900055,507,1904,Devean George,1610612747,Los Angeles Lakers,4,0,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,239,1,1,20000507,0,LAL,PHX
+Shot Chart Detail,49900058,398,1904,Devean George,1610612747,Los Angeles Lakers,4,11,2,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,173,1,0,20000514,0,PHX,LAL
+Shot Chart Detail,49900058,416,1904,Devean George,1610612747,Los Angeles Lakers,4,8,36,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000514,0,PHX,LAL
+Shot Chart Detail,49900058,469,1904,Devean George,1610612747,Los Angeles Lakers,4,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-12,242,1,0,20000514,0,PHX,LAL
+Shot Chart Detail,49900058,499,1904,Devean George,1610612747,Los Angeles Lakers,4,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-188,5,1,1,20000514,0,PHX,LAL
+Shot Chart Detail,49900058,509,1904,Devean George,1610612747,Los Angeles Lakers,4,0,57,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000514,0,PHX,LAL
+Shot Chart Detail,49900070,386,1904,Devean George,1610612747,Los Angeles Lakers,4,9,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,-23,1,0,20000522,0,LAL,POR
+Shot Chart Detail,49900070,405,1904,Devean George,1610612747,Los Angeles Lakers,4,8,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6,267,1,0,20000522,0,LAL,POR
+Shot Chart Detail,49900070,488,1904,Devean George,1610612747,Los Angeles Lakers,4,1,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,0,1,0,20000522,0,LAL,POR
+Shot Chart Detail,49900087,472,1904,Devean George,1610612747,Los Angeles Lakers,4,0,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,46,1,0,20000616,0,IND,LAL

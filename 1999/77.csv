@@ -1,169 +1,85 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029800002,435,77,Doug Overton,1610612753,Orlando Magic,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,164,1,0,19990205,ORL,NYK
-Shot Chart Detail,0029800014,271,77,Doug Overton,1610612753,Orlando Magic,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990206,PHI,ORL
-Shot Chart Detail,0029800014,426,77,Doug Overton,1610612753,Orlando Magic,4,7,42,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,46,1,1,19990206,PHI,ORL
-Shot Chart Detail,0029800014,451,77,Doug Overton,1610612753,Orlando Magic,4,5,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990206,PHI,ORL
-Shot Chart Detail,0029800083,215,77,Doug Overton,1610612753,Orlando Magic,2,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,128,1,1,19990216,CLE,ORL
-Shot Chart Detail,0029800083,246,77,Doug Overton,1610612753,Orlando Magic,2,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,63,598,1,0,19990216,CLE,ORL
-Shot Chart Detail,0029800125,393,77,Doug Overton,1610612753,Orlando Magic,4,3,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990221,ORL,HOU
-Shot Chart Detail,0029800146,409,77,Doug Overton,1610612753,Orlando Magic,4,9,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,18,1,0,19990224,BOS,ORL
-Shot Chart Detail,0029800146,443,77,Doug Overton,1610612753,Orlando Magic,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,104,96,1,0,19990224,BOS,ORL
-Shot Chart Detail,0029800146,458,77,Doug Overton,1610612753,Orlando Magic,4,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-121,102,1,0,19990224,BOS,ORL
-Shot Chart Detail,0029800146,489,77,Doug Overton,1610612753,Orlando Magic,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,25,1,1,19990224,BOS,ORL
-Shot Chart Detail,0029800146,493,77,Doug Overton,1610612753,Orlando Magic,4,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,145,1,1,19990224,BOS,ORL
-Shot Chart Detail,0029800212,100,77,Doug Overton,1610612751,New Jersey Nets,1,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,124,77,Doug Overton,1610612751,New Jersey Nets,2,9,48,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,195,77,Doug Overton,1610612751,New Jersey Nets,2,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,115,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,209,77,Doug Overton,1610612751,New Jersey Nets,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,225,77,Doug Overton,1610612751,New Jersey Nets,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-85,205,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,298,77,Doug Overton,1610612751,New Jersey Nets,3,5,58,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,33,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,329,77,Doug Overton,1610612751,New Jersey Nets,3,2,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,38,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,332,77,Doug Overton,1610612751,New Jersey Nets,3,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,132,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,354,77,Doug Overton,1610612751,New Jersey Nets,4,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,186,76,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,428,77,Doug Overton,1610612751,New Jersey Nets,4,2,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,57,254,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800234,101,77,Doug Overton,1610612751,New Jersey Nets,1,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,-38,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,106,77,Doug Overton,1610612751,New Jersey Nets,2,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,46,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,108,77,Doug Overton,1610612751,New Jersey Nets,2,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-154,164,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,233,77,Doug Overton,1610612751,New Jersey Nets,3,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-141,171,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,238,77,Doug Overton,1610612751,New Jersey Nets,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,175,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,269,77,Doug Overton,1610612751,New Jersey Nets,3,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,276,77,Doug Overton,1610612751,New Jersey Nets,3,3,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,333,77,Doug Overton,1610612751,New Jersey Nets,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,352,77,Doug Overton,1610612751,New Jersey Nets,4,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,254,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,357,77,Doug Overton,1610612751,New Jersey Nets,4,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,151,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,363,77,Doug Overton,1610612751,New Jersey Nets,4,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,143,164,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,389,77,Doug Overton,1610612751,New Jersey Nets,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,5,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,416,77,Doug Overton,1610612751,New Jersey Nets,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,434,77,Doug Overton,1610612751,New Jersey Nets,4,0,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,-21,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,436,77,Doug Overton,1610612751,New Jersey Nets,4,0,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,456,77,Doug Overton,1610612751,New Jersey Nets,4,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800250,148,77,Doug Overton,1610612751,New Jersey Nets,2,9,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990309,CHI,NJN
-Shot Chart Detail,0029800250,154,77,Doug Overton,1610612751,New Jersey Nets,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,55,205,1,0,19990309,CHI,NJN
-Shot Chart Detail,0029800250,348,77,Doug Overton,1610612751,New Jersey Nets,3,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,44,1,1,19990309,CHI,NJN
-Shot Chart Detail,0029800250,510,77,Doug Overton,1610612751,New Jersey Nets,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,233,1,0,19990309,CHI,NJN
-Shot Chart Detail,0029800275,14,77,Doug Overton,1610612751,New Jersey Nets,1,9,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,41,77,Doug Overton,1610612751,New Jersey Nets,1,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,33,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,79,77,Doug Overton,1610612751,New Jersey Nets,1,1,1,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,12,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,120,77,Doug Overton,1610612751,New Jersey Nets,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,81,106,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,177,77,Doug Overton,1610612751,New Jersey Nets,2,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,16,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,180,77,Doug Overton,1610612751,New Jersey Nets,2,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,51,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,183,77,Doug Overton,1610612751,New Jersey Nets,2,3,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-3,214,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,217,77,Doug Overton,1610612751,New Jersey Nets,2,0,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,72,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,406,77,Doug Overton,1610612751,New Jersey Nets,4,9,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,455,77,Doug Overton,1610612751,New Jersey Nets,4,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,12,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,477,77,Doug Overton,1610612751,New Jersey Nets,4,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,89,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,582,77,Doug Overton,1610612751,New Jersey Nets,5,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-141,276,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800293,140,77,Doug Overton,1610612751,New Jersey Nets,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,MIA,NJN
-Shot Chart Detail,0029800293,160,77,Doug Overton,1610612751,New Jersey Nets,2,7,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990314,MIA,NJN
-Shot Chart Detail,0029800309,166,77,Doug Overton,1610612751,New Jersey Nets,2,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-113,177,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,443,77,Doug Overton,1610612751,New Jersey Nets,4,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990316,TOR,NJN
-Shot Chart Detail,0029800309,457,77,Doug Overton,1610612751,New Jersey Nets,4,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,164,81,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,471,77,Doug Overton,1610612751,New Jersey Nets,4,8,9,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,515,77,Doug Overton,1610612751,New Jersey Nets,4,4,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,525,77,Doug Overton,1610612751,New Jersey Nets,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,207,70,1,1,19990316,TOR,NJN
-Shot Chart Detail,0029800309,532,77,Doug Overton,1610612751,New Jersey Nets,4,2,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,40,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800318,98,77,Doug Overton,1610612751,New Jersey Nets,1,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,5,1,1,19990317,NJN,DAL
-Shot Chart Detail,0029800318,116,77,Doug Overton,1610612751,New Jersey Nets,2,10,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,162,1,0,19990317,NJN,DAL
-Shot Chart Detail,0029800329,168,77,Doug Overton,1610612751,New Jersey Nets,2,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,76,181,1,1,19990318,CHI,NJN
-Shot Chart Detail,0029800329,171,77,Doug Overton,1610612751,New Jersey Nets,2,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,33,1,0,19990318,CHI,NJN
-Shot Chart Detail,0029800329,179,77,Doug Overton,1610612751,New Jersey Nets,2,7,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990318,CHI,NJN
-Shot Chart Detail,0029800329,241,77,Doug Overton,1610612751,New Jersey Nets,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990318,CHI,NJN
-Shot Chart Detail,0029800447,228,77,Doug Overton,1610612755,Philadelphia 76ers,2,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990402,PHI,CLE
-Shot Chart Detail,0029800447,333,77,Doug Overton,1610612755,Philadelphia 76ers,3,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,16,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,357,77,Doug Overton,1610612755,Philadelphia 76ers,3,0,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,33,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,364,77,Doug Overton,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,46,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,376,77,Doug Overton,1610612755,Philadelphia 76ers,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,40,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,514,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,68,1,1,19990402,PHI,CLE
-Shot Chart Detail,0029800465,105,77,Doug Overton,1610612755,Philadelphia 76ers,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,177,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800465,113,77,Doug Overton,1610612755,Philadelphia 76ers,2,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990404,TOR,PHI
-Shot Chart Detail,0029800465,120,77,Doug Overton,1610612755,Philadelphia 76ers,2,8,18,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,36,1,1,19990404,TOR,PHI
-Shot Chart Detail,0029800465,153,77,Doug Overton,1610612755,Philadelphia 76ers,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,162,109,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800465,309,77,Doug Overton,1610612755,Philadelphia 76ers,3,2,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800465,467,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,244,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800503,471,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,156,1,0,19990409,BOS,PHI
-Shot Chart Detail,0029800503,475,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,156,1,0,19990409,BOS,PHI
-Shot Chart Detail,0029800535,481,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,38,214,1,1,19990413,NYK,PHI
-Shot Chart Detail,0029800002,435,77,Doug Overton,1610612753,Orlando Magic,4,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,164,1,0,19990205,ORL,NYK
-Shot Chart Detail,0029800014,271,77,Doug Overton,1610612753,Orlando Magic,2,0,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990206,PHI,ORL
-Shot Chart Detail,0029800014,426,77,Doug Overton,1610612753,Orlando Magic,4,7,42,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,46,1,1,19990206,PHI,ORL
-Shot Chart Detail,0029800014,451,77,Doug Overton,1610612753,Orlando Magic,4,5,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990206,PHI,ORL
-Shot Chart Detail,0029800083,215,77,Doug Overton,1610612753,Orlando Magic,2,2,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,128,1,1,19990216,CLE,ORL
-Shot Chart Detail,0029800083,246,77,Doug Overton,1610612753,Orlando Magic,2,0,0,Missed Shot,Running Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,60,63,598,1,0,19990216,CLE,ORL
-Shot Chart Detail,0029800125,393,77,Doug Overton,1610612753,Orlando Magic,4,3,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990221,ORL,HOU
-Shot Chart Detail,0029800146,409,77,Doug Overton,1610612753,Orlando Magic,4,9,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,18,1,0,19990224,BOS,ORL
-Shot Chart Detail,0029800146,443,77,Doug Overton,1610612753,Orlando Magic,4,6,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,104,96,1,0,19990224,BOS,ORL
-Shot Chart Detail,0029800146,458,77,Doug Overton,1610612753,Orlando Magic,4,4,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-121,102,1,0,19990224,BOS,ORL
-Shot Chart Detail,0029800146,489,77,Doug Overton,1610612753,Orlando Magic,4,1,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,25,1,1,19990224,BOS,ORL
-Shot Chart Detail,0029800146,493,77,Doug Overton,1610612753,Orlando Magic,4,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,145,1,1,19990224,BOS,ORL
-Shot Chart Detail,0029800212,100,77,Doug Overton,1610612751,New Jersey Nets,1,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,124,77,Doug Overton,1610612751,New Jersey Nets,2,9,48,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,195,77,Doug Overton,1610612751,New Jersey Nets,2,3,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,115,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,209,77,Doug Overton,1610612751,New Jersey Nets,2,1,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,225,77,Doug Overton,1610612751,New Jersey Nets,2,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-85,205,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,298,77,Doug Overton,1610612751,New Jersey Nets,3,5,58,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,8,33,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,329,77,Doug Overton,1610612751,New Jersey Nets,3,2,26,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,38,1,0,19990304,NJN,CHH
-Shot Chart Detail,0029800212,332,77,Doug Overton,1610612751,New Jersey Nets,3,1,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,132,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,354,77,Doug Overton,1610612751,New Jersey Nets,4,11,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,186,76,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800212,428,77,Doug Overton,1610612751,New Jersey Nets,4,2,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,57,254,1,1,19990304,NJN,CHH
-Shot Chart Detail,0029800234,101,77,Doug Overton,1610612751,New Jersey Nets,1,0,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,-38,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,106,77,Doug Overton,1610612751,New Jersey Nets,2,11,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,179,46,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,108,77,Doug Overton,1610612751,New Jersey Nets,2,11,36,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-154,164,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,233,77,Doug Overton,1610612751,New Jersey Nets,3,8,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-141,171,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,238,77,Doug Overton,1610612751,New Jersey Nets,3,8,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,175,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,269,77,Doug Overton,1610612751,New Jersey Nets,3,5,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,276,77,Doug Overton,1610612751,New Jersey Nets,3,3,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,333,77,Doug Overton,1610612751,New Jersey Nets,4,10,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,352,77,Doug Overton,1610612751,New Jersey Nets,4,9,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,254,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,357,77,Doug Overton,1610612751,New Jersey Nets,4,8,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,151,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,363,77,Doug Overton,1610612751,New Jersey Nets,4,7,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,143,164,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,389,77,Doug Overton,1610612751,New Jersey Nets,4,3,58,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,5,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,416,77,Doug Overton,1610612751,New Jersey Nets,4,1,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,19990307,NYK,NJN
-Shot Chart Detail,0029800234,434,77,Doug Overton,1610612751,New Jersey Nets,4,0,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,-21,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,436,77,Doug Overton,1610612751,New Jersey Nets,4,0,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800234,456,77,Doug Overton,1610612751,New Jersey Nets,4,0,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,0,1,0,19990307,NYK,NJN
-Shot Chart Detail,0029800250,148,77,Doug Overton,1610612751,New Jersey Nets,2,9,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990309,CHI,NJN
-Shot Chart Detail,0029800250,154,77,Doug Overton,1610612751,New Jersey Nets,2,8,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,55,205,1,0,19990309,CHI,NJN
-Shot Chart Detail,0029800250,348,77,Doug Overton,1610612751,New Jersey Nets,3,4,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,44,1,1,19990309,CHI,NJN
-Shot Chart Detail,0029800250,510,77,Doug Overton,1610612751,New Jersey Nets,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,233,1,0,19990309,CHI,NJN
-Shot Chart Detail,0029800275,14,77,Doug Overton,1610612751,New Jersey Nets,1,9,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,41,77,Doug Overton,1610612751,New Jersey Nets,1,5,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,33,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,79,77,Doug Overton,1610612751,New Jersey Nets,1,1,1,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,12,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,120,77,Doug Overton,1610612751,New Jersey Nets,2,9,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,81,106,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,177,77,Doug Overton,1610612751,New Jersey Nets,2,4,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,16,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,180,77,Doug Overton,1610612751,New Jersey Nets,2,4,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,51,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,183,77,Doug Overton,1610612751,New Jersey Nets,2,3,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-3,214,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,217,77,Doug Overton,1610612751,New Jersey Nets,2,0,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,72,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,406,77,Doug Overton,1610612751,New Jersey Nets,4,9,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990312,PHI,NJN
-Shot Chart Detail,0029800275,455,77,Doug Overton,1610612751,New Jersey Nets,4,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,12,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,477,77,Doug Overton,1610612751,New Jersey Nets,4,2,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-147,89,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800275,582,77,Doug Overton,1610612751,New Jersey Nets,5,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-141,276,1,0,19990312,PHI,NJN
-Shot Chart Detail,0029800293,140,77,Doug Overton,1610612751,New Jersey Nets,2,8,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,MIA,NJN
-Shot Chart Detail,0029800293,160,77,Doug Overton,1610612751,New Jersey Nets,2,7,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990314,MIA,NJN
-Shot Chart Detail,0029800309,166,77,Doug Overton,1610612751,New Jersey Nets,2,7,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-113,177,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,443,77,Doug Overton,1610612751,New Jersey Nets,4,9,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990316,TOR,NJN
-Shot Chart Detail,0029800309,457,77,Doug Overton,1610612751,New Jersey Nets,4,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,164,81,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,471,77,Doug Overton,1610612751,New Jersey Nets,4,8,9,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,515,77,Doug Overton,1610612751,New Jersey Nets,4,4,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800309,525,77,Doug Overton,1610612751,New Jersey Nets,4,3,24,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,207,70,1,1,19990316,TOR,NJN
-Shot Chart Detail,0029800309,532,77,Doug Overton,1610612751,New Jersey Nets,4,2,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,192,40,1,0,19990316,TOR,NJN
-Shot Chart Detail,0029800318,98,77,Doug Overton,1610612751,New Jersey Nets,1,0,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,201,5,1,1,19990317,NJN,DAL
-Shot Chart Detail,0029800318,116,77,Doug Overton,1610612751,New Jersey Nets,2,10,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,162,1,0,19990317,NJN,DAL
-Shot Chart Detail,0029800329,168,77,Doug Overton,1610612751,New Jersey Nets,2,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,76,181,1,1,19990318,CHI,NJN
-Shot Chart Detail,0029800329,171,77,Doug Overton,1610612751,New Jersey Nets,2,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,33,1,0,19990318,CHI,NJN
-Shot Chart Detail,0029800329,179,77,Doug Overton,1610612751,New Jersey Nets,2,7,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990318,CHI,NJN
-Shot Chart Detail,0029800329,241,77,Doug Overton,1610612751,New Jersey Nets,2,0,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990318,CHI,NJN
-Shot Chart Detail,0029800447,228,77,Doug Overton,1610612755,Philadelphia 76ers,2,1,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990402,PHI,CLE
-Shot Chart Detail,0029800447,333,77,Doug Overton,1610612755,Philadelphia 76ers,3,2,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,16,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,357,77,Doug Overton,1610612755,Philadelphia 76ers,3,0,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,33,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,364,77,Doug Overton,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,46,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,376,77,Doug Overton,1610612755,Philadelphia 76ers,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,40,1,0,19990402,PHI,CLE
-Shot Chart Detail,0029800447,514,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,154,68,1,1,19990402,PHI,CLE
-Shot Chart Detail,0029800465,105,77,Doug Overton,1610612755,Philadelphia 76ers,2,9,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,1,177,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800465,113,77,Doug Overton,1610612755,Philadelphia 76ers,2,9,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990404,TOR,PHI
-Shot Chart Detail,0029800465,120,77,Doug Overton,1610612755,Philadelphia 76ers,2,8,18,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,36,1,1,19990404,TOR,PHI
-Shot Chart Detail,0029800465,153,77,Doug Overton,1610612755,Philadelphia 76ers,2,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,162,109,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800465,309,77,Doug Overton,1610612755,Philadelphia 76ers,3,2,33,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800465,467,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,244,1,0,19990404,TOR,PHI
-Shot Chart Detail,0029800503,471,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,156,1,0,19990409,BOS,PHI
-Shot Chart Detail,0029800503,475,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,156,1,0,19990409,BOS,PHI
-Shot Chart Detail,0029800535,481,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,38,214,1,1,19990413,NYK,PHI
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29800002,435,77,Doug Overton,1610612753,Orlando Magic,4,4,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,164,1,0,19990205,0,ORL,NYK
+Shot Chart Detail,29800014,271,77,Doug Overton,1610612753,Orlando Magic,2,0,0,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990206,0,PHI,ORL
+Shot Chart Detail,29800014,426,77,Doug Overton,1610612753,Orlando Magic,4,7,42,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,111,46,1,1,19990206,1,PHI,ORL
+Shot Chart Detail,29800014,451,77,Doug Overton,1610612753,Orlando Magic,4,5,26,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990206,0,PHI,ORL
+Shot Chart Detail,29800083,215,77,Doug Overton,1610612753,Orlando Magic,2,2,42,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,128,1,1,19990216,1,CLE,ORL
+Shot Chart Detail,29800083,246,77,Doug Overton,1610612753,Orlando Magic,2,0,0,Missed Shot,Running Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,60,63,598,1,0,19990216,0,CLE,ORL
+Shot Chart Detail,29800125,393,77,Doug Overton,1610612753,Orlando Magic,4,3,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990221,0,ORL,HOU
+Shot Chart Detail,29800146,409,77,Doug Overton,1610612753,Orlando Magic,4,9,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,18,1,0,19990224,0,BOS,ORL
+Shot Chart Detail,29800146,443,77,Doug Overton,1610612753,Orlando Magic,4,6,3,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,104,96,1,0,19990224,0,BOS,ORL
+Shot Chart Detail,29800146,458,77,Doug Overton,1610612753,Orlando Magic,4,4,27,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-121,102,1,0,19990224,0,BOS,ORL
+Shot Chart Detail,29800146,489,77,Doug Overton,1610612753,Orlando Magic,4,1,44,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,25,1,1,19990224,0,BOS,ORL
+Shot Chart Detail,29800146,493,77,Doug Overton,1610612753,Orlando Magic,4,1,29,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,145,1,1,19990224,0,BOS,ORL
+Shot Chart Detail,29800212,100,77,Doug Overton,1610612751,New Jersey Nets,1,0,1,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990304,1,NJN,CHH
+Shot Chart Detail,29800212,124,77,Doug Overton,1610612751,New Jersey Nets,2,9,48,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,195,77,Doug Overton,1610612751,New Jersey Nets,2,3,8,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,121,115,1,1,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,209,77,Doug Overton,1610612751,New Jersey Nets,2,1,47,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,225,77,Doug Overton,1610612751,New Jersey Nets,2,0,29,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-85,205,1,0,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,298,77,Doug Overton,1610612751,New Jersey Nets,3,5,58,Missed Shot,Running Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,8,33,1,0,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,329,77,Doug Overton,1610612751,New Jersey Nets,3,2,26,Missed Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,38,1,0,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,332,77,Doug Overton,1610612751,New Jersey Nets,3,1,52,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,121,132,1,1,19990304,1,NJN,CHH
+Shot Chart Detail,29800212,354,77,Doug Overton,1610612751,New Jersey Nets,4,11,42,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,186,76,1,1,19990304,0,NJN,CHH
+Shot Chart Detail,29800212,428,77,Doug Overton,1610612751,New Jersey Nets,4,2,45,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,57,254,1,1,19990304,1,NJN,CHH
+Shot Chart Detail,29800234,101,77,Doug Overton,1610612751,New Jersey Nets,1,0,26,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-188,-38,1,1,19990307,1,NYK,NJN
+Shot Chart Detail,29800234,106,77,Doug Overton,1610612751,New Jersey Nets,2,11,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,179,46,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,108,77,Doug Overton,1610612751,New Jersey Nets,2,11,36,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-154,164,1,1,19990307,1,NYK,NJN
+Shot Chart Detail,29800234,233,77,Doug Overton,1610612751,New Jersey Nets,3,8,51,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-141,171,1,1,19990307,1,NYK,NJN
+Shot Chart Detail,29800234,238,77,Doug Overton,1610612751,New Jersey Nets,3,8,6,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,175,1,1,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,269,77,Doug Overton,1610612751,New Jersey Nets,3,5,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,276,77,Doug Overton,1610612751,New Jersey Nets,3,3,59,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,333,77,Doug Overton,1610612751,New Jersey Nets,4,10,32,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-154,141,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,352,77,Doug Overton,1610612751,New Jersey Nets,4,9,0,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-18,254,1,1,19990307,1,NYK,NJN
+Shot Chart Detail,29800234,357,77,Doug Overton,1610612751,New Jersey Nets,4,8,16,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,151,1,1,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,363,77,Doug Overton,1610612751,New Jersey Nets,4,7,21,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,143,164,1,1,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,389,77,Doug Overton,1610612751,New Jersey Nets,4,3,58,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-96,5,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,416,77,Doug Overton,1610612751,New Jersey Nets,4,1,46,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,19990307,1,NYK,NJN
+Shot Chart Detail,29800234,434,77,Doug Overton,1610612751,New Jersey Nets,4,0,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,72,-21,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,436,77,Doug Overton,1610612751,New Jersey Nets,4,0,37,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,57,0,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800234,456,77,Doug Overton,1610612751,New Jersey Nets,4,0,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-175,0,1,0,19990307,0,NYK,NJN
+Shot Chart Detail,29800250,148,77,Doug Overton,1610612751,New Jersey Nets,2,9,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990309,0,CHI,NJN
+Shot Chart Detail,29800250,154,77,Doug Overton,1610612751,New Jersey Nets,2,8,46,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,55,205,1,0,19990309,0,CHI,NJN
+Shot Chart Detail,29800250,348,77,Doug Overton,1610612751,New Jersey Nets,3,4,14,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,44,1,1,19990309,1,CHI,NJN
+Shot Chart Detail,29800250,510,77,Doug Overton,1610612751,New Jersey Nets,4,0,46,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,233,1,0,19990309,0,CHI,NJN
+Shot Chart Detail,29800275,14,77,Doug Overton,1610612751,New Jersey Nets,1,9,39,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,41,77,Doug Overton,1610612751,New Jersey Nets,1,5,55,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,132,33,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,79,77,Doug Overton,1610612751,New Jersey Nets,1,1,1,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,147,12,1,1,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,120,77,Doug Overton,1610612751,New Jersey Nets,2,9,25,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,81,106,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,177,77,Doug Overton,1610612751,New Jersey Nets,2,4,15,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,16,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,180,77,Doug Overton,1610612751,New Jersey Nets,2,4,8,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-169,51,1,1,19990312,1,PHI,NJN
+Shot Chart Detail,29800275,183,77,Doug Overton,1610612751,New Jersey Nets,2,3,40,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-3,214,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,217,77,Doug Overton,1610612751,New Jersey Nets,2,0,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,72,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,406,77,Doug Overton,1610612751,New Jersey Nets,4,9,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,455,77,Doug Overton,1610612751,New Jersey Nets,4,5,20,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-169,12,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,477,77,Doug Overton,1610612751,New Jersey Nets,4,2,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-147,89,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800275,582,77,Doug Overton,1610612751,New Jersey Nets,5,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,30,-141,276,1,0,19990312,0,PHI,NJN
+Shot Chart Detail,29800293,140,77,Doug Overton,1610612751,New Jersey Nets,2,8,44,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,0,MIA,NJN
+Shot Chart Detail,29800293,160,77,Doug Overton,1610612751,New Jersey Nets,2,7,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990314,0,MIA,NJN
+Shot Chart Detail,29800309,166,77,Doug Overton,1610612751,New Jersey Nets,2,7,56,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-113,177,1,0,19990316,0,TOR,NJN
+Shot Chart Detail,29800309,443,77,Doug Overton,1610612751,New Jersey Nets,4,9,57,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990316,1,TOR,NJN
+Shot Chart Detail,29800309,457,77,Doug Overton,1610612751,New Jersey Nets,4,9,1,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,164,81,1,0,19990316,0,TOR,NJN
+Shot Chart Detail,29800309,471,77,Doug Overton,1610612751,New Jersey Nets,4,8,9,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990316,0,TOR,NJN
+Shot Chart Detail,29800309,515,77,Doug Overton,1610612751,New Jersey Nets,4,4,19,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990316,0,TOR,NJN
+Shot Chart Detail,29800309,525,77,Doug Overton,1610612751,New Jersey Nets,4,3,24,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,207,70,1,1,19990316,1,TOR,NJN
+Shot Chart Detail,29800309,532,77,Doug Overton,1610612751,New Jersey Nets,4,2,48,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,192,40,1,0,19990316,0,TOR,NJN
+Shot Chart Detail,29800318,98,77,Doug Overton,1610612751,New Jersey Nets,1,0,6,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,201,5,1,1,19990317,1,NJN,DAL
+Shot Chart Detail,29800318,116,77,Doug Overton,1610612751,New Jersey Nets,2,10,31,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,162,1,0,19990317,0,NJN,DAL
+Shot Chart Detail,29800329,168,77,Doug Overton,1610612751,New Jersey Nets,2,8,3,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,76,181,1,1,19990318,1,CHI,NJN
+Shot Chart Detail,29800329,171,77,Doug Overton,1610612751,New Jersey Nets,2,7,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,98,33,1,0,19990318,0,CHI,NJN
+Shot Chart Detail,29800329,179,77,Doug Overton,1610612751,New Jersey Nets,2,7,9,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990318,1,CHI,NJN
+Shot Chart Detail,29800329,241,77,Doug Overton,1610612751,New Jersey Nets,2,0,0,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990318,0,CHI,NJN
+Shot Chart Detail,29800447,228,77,Doug Overton,1610612755,Philadelphia 76ers,2,1,12,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990402,1,PHI,CLE
+Shot Chart Detail,29800447,333,77,Doug Overton,1610612755,Philadelphia 76ers,3,2,12,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,175,16,1,0,19990402,0,PHI,CLE
+Shot Chart Detail,29800447,357,77,Doug Overton,1610612755,Philadelphia 76ers,3,0,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-3,33,1,0,19990402,0,PHI,CLE
+Shot Chart Detail,29800447,364,77,Doug Overton,1610612755,Philadelphia 76ers,3,0,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-31,46,1,0,19990402,0,PHI,CLE
+Shot Chart Detail,29800447,376,77,Doug Overton,1610612755,Philadelphia 76ers,4,11,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,40,1,0,19990402,0,PHI,CLE
+Shot Chart Detail,29800447,514,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,2,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,154,68,1,1,19990402,0,PHI,CLE
+Shot Chart Detail,29800465,105,77,Doug Overton,1610612755,Philadelphia 76ers,2,9,47,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,1,177,1,0,19990404,0,TOR,PHI
+Shot Chart Detail,29800465,113,77,Doug Overton,1610612755,Philadelphia 76ers,2,9,16,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990404,0,TOR,PHI
+Shot Chart Detail,29800465,120,77,Doug Overton,1610612755,Philadelphia 76ers,2,8,18,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,81,36,1,1,19990404,0,TOR,PHI
+Shot Chart Detail,29800465,153,77,Doug Overton,1610612755,Philadelphia 76ers,2,4,50,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,162,109,1,0,19990404,0,TOR,PHI
+Shot Chart Detail,29800465,309,77,Doug Overton,1610612755,Philadelphia 76ers,3,2,33,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990404,0,TOR,PHI
+Shot Chart Detail,29800465,467,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,7,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-74,244,1,0,19990404,0,TOR,PHI
+Shot Chart Detail,29800503,471,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,42,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,156,1,0,19990409,0,BOS,PHI
+Shot Chart Detail,29800503,475,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,22,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-136,156,1,0,19990409,0,BOS,PHI
+Shot Chart Detail,29800535,481,77,Doug Overton,1610612755,Philadelphia 76ers,4,0,1,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,38,214,1,1,19990413,1,NYK,PHI

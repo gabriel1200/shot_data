@@ -1,10 +1,10 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900706,453,766,David Wingate,1610612752,New York Knicks,4,4,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,10,1,0,20000215,TOR,NYK
-Shot Chart Detail,0029900706,487,766,David Wingate,1610612752,New York Knicks,4,0,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,-8,1,0,20000215,TOR,NYK
-Shot Chart Detail,0029900822,468,766,David Wingate,1610612752,New York Knicks,4,0,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,0,20000302,NYK,MIL
-Shot Chart Detail,0029901139,429,766,David Wingate,1610612752,New York Knicks,4,6,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,0,20000414,TOR,NYK
-Shot Chart Detail,0029901139,431,766,David Wingate,1610612752,New York Knicks,4,6,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,TOR,NYK
-Shot Chart Detail,0029901139,461,766,David Wingate,1610612752,New York Knicks,4,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-154,48,1,0,20000414,TOR,NYK
-Shot Chart Detail,0029901165,435,766,David Wingate,1610612752,New York Knicks,4,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,27,1,0,20000418,NYK,DET
-Shot Chart Detail,0029901165,437,766,David Wingate,1610612752,New York Knicks,4,0,17,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000418,NYK,DET
-Shot Chart Detail,0029901176,447,766,David Wingate,1610612752,New York Knicks,4,2,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20000419,BOS,NYK
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900706,453,766,David Wingate,1610612752,New York Knicks,4,4,3,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-182,10,1,0,20000215,0,TOR,NYK
+Shot Chart Detail,29900706,487,766,David Wingate,1610612752,New York Knicks,4,0,40,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,-8,1,0,20000215,0,TOR,NYK
+Shot Chart Detail,29900822,468,766,David Wingate,1610612752,New York Knicks,4,0,12,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-136,0,1,0,20000302,0,NYK,MIL
+Shot Chart Detail,29901139,429,766,David Wingate,1610612752,New York Knicks,4,6,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,0,20000414,0,TOR,NYK
+Shot Chart Detail,29901139,431,766,David Wingate,1610612752,New York Knicks,4,6,39,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,1,TOR,NYK
+Shot Chart Detail,29901139,461,766,David Wingate,1610612752,New York Knicks,4,4,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-154,48,1,0,20000414,0,TOR,NYK
+Shot Chart Detail,29901165,435,766,David Wingate,1610612752,New York Knicks,4,0,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-143,27,1,0,20000418,0,NYK,DET
+Shot Chart Detail,29901165,437,766,David Wingate,1610612752,New York Knicks,4,0,17,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000418,0,NYK,DET
+Shot Chart Detail,29901176,447,766,David Wingate,1610612752,New York Knicks,4,2,24,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,1,1,0,20000419,0,BOS,NYK

@@ -1,9 +1,9 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700363,150,175,Alton Lister,1610612757,Portland Trail Blazers,2,8,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,10,1,0,19971221,VAN,POR
-Shot Chart Detail,0029700587,294,175,Alton Lister,1610612757,Portland Trail Blazers,3,6,43,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,25,1,0,19980124,ATL,POR
-Shot Chart Detail,0029700587,315,175,Alton Lister,1610612757,Portland Trail Blazers,3,4,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,38,1,0,19980124,ATL,POR
-Shot Chart Detail,0029701074,272,175,Alton Lister,1610612757,Portland Trail Blazers,3,4,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,0,1,0,19980404,PHX,POR
-Shot Chart Detail,0029701074,286,175,Alton Lister,1610612757,Portland Trail Blazers,3,3,10,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980404,PHX,POR
-Shot Chart Detail,0029701088,75,175,Alton Lister,1610612757,Portland Trail Blazers,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,68,175,1,1,19980406,SAS,POR
-Shot Chart Detail,0029701088,93,175,Alton Lister,1610612757,Portland Trail Blazers,1,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,29,1,1,19980406,SAS,POR
-Shot Chart Detail,0029701088,237,175,Alton Lister,1610612757,Portland Trail Blazers,3,8,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980406,SAS,POR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700363,150,175,Alton Lister,1610612757,Portland Trail Blazers,2,8,23,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,10,1,0,19971221,0,VAN,POR
+Shot Chart Detail,29700587,294,175,Alton Lister,1610612757,Portland Trail Blazers,3,6,43,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,25,1,0,19980124,0,ATL,POR
+Shot Chart Detail,29700587,315,175,Alton Lister,1610612757,Portland Trail Blazers,3,4,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,57,38,1,0,19980124,0,ATL,POR
+Shot Chart Detail,29701074,272,175,Alton Lister,1610612757,Portland Trail Blazers,3,4,13,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,0,1,0,19980404,0,PHX,POR
+Shot Chart Detail,29701074,286,175,Alton Lister,1610612757,Portland Trail Blazers,3,3,10,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980404,0,PHX,POR
+Shot Chart Detail,29701088,75,175,Alton Lister,1610612757,Portland Trail Blazers,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,68,175,1,1,19980406,0,SAS,POR
+Shot Chart Detail,29701088,93,175,Alton Lister,1610612757,Portland Trail Blazers,1,0,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,29,1,1,19980406,1,SAS,POR
+Shot Chart Detail,29701088,237,175,Alton Lister,1610612757,Portland Trail Blazers,3,8,35,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980406,0,SAS,POR

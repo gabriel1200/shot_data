@@ -1,5 +1,5 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049600020,169,689,Theo Ratliff,1610612765,Detroit Pistons,2,0,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970429,DET,ATL
-Shot Chart Detail,0049600030,100,689,Theo Ratliff,1610612765,Detroit Pistons,2,11,37,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970502,DET,ATL
-Shot Chart Detail,0049600030,383,689,Theo Ratliff,1610612765,Detroit Pistons,4,4,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,47,1,1,19970502,DET,ATL
-Shot Chart Detail,0049600030,431,689,Theo Ratliff,1610612765,Detroit Pistons,4,0,7,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,45,1,0,19970502,DET,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49600020,169,689,Theo Ratliff,1610612765,Detroit Pistons,2,0,1,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970429,1,DET,ATL
+Shot Chart Detail,49600030,100,689,Theo Ratliff,1610612765,Detroit Pistons,2,11,37,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970502,0,DET,ATL
+Shot Chart Detail,49600030,383,689,Theo Ratliff,1610612765,Detroit Pistons,4,4,11,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,75,47,1,1,19970502,1,DET,ATL
+Shot Chart Detail,49600030,431,689,Theo Ratliff,1610612765,Detroit Pistons,4,0,7,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,45,1,0,19970502,0,DET,ATL

@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700007,4,31,Lorenzo Williams,1610612764,Washington Wizards,1,11,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971031,DET,WAS
-Shot Chart Detail,0029700015,11,31,Lorenzo Williams,1610612764,Washington Wizards,1,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,WAS,MIA
-Shot Chart Detail,0029700015,32,31,Lorenzo Williams,1610612764,Washington Wizards,1,9,37,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,WAS,MIA
-Shot Chart Detail,0029700015,70,31,Lorenzo Williams,1610612764,Washington Wizards,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,WAS,MIA
-Shot Chart Detail,0029700015,212,31,Lorenzo Williams,1610612764,Washington Wizards,2,2,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,WAS,MIA
-Shot Chart Detail,0029700038,15,31,Lorenzo Williams,1610612764,Washington Wizards,1,11,3,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971104,DEN,WAS
-Shot Chart Detail,0029700038,29,31,Lorenzo Williams,1610612764,Washington Wizards,1,9,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971104,DEN,WAS
-Shot Chart Detail,0029700056,521,31,Lorenzo Williams,1610612764,Washington Wizards,4,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971107,WAS,CHH
-Shot Chart Detail,0029700056,537,31,Lorenzo Williams,1610612764,Washington Wizards,4,0,14,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971107,WAS,CHH
-Shot Chart Detail,0029700130,343,31,Lorenzo Williams,1610612764,Washington Wizards,3,0,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971118,ATL,WAS
-Shot Chart Detail,0029700130,354,31,Lorenzo Williams,1610612764,Washington Wizards,4,10,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971118,ATL,WAS
-Shot Chart Detail,0029700139,337,31,Lorenzo Williams,1610612764,Washington Wizards,3,1,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971119,PHI,WAS
-Shot Chart Detail,0029700139,339,31,Lorenzo Williams,1610612764,Washington Wizards,3,1,42,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971119,PHI,WAS
-Shot Chart Detail,0029700281,127,31,Lorenzo Williams,1610612764,Washington Wizards,1,1,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971210,CHH,WAS
-Shot Chart Detail,0029700304,18,31,Lorenzo Williams,1610612764,Washington Wizards,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971213,IND,WAS
-Shot Chart Detail,0029700304,57,31,Lorenzo Williams,1610612764,Washington Wizards,1,5,50,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971213,IND,WAS
-Shot Chart Detail,0029700304,244,31,Lorenzo Williams,1610612764,Washington Wizards,3,11,28,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971213,IND,WAS
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700007,4,31,Lorenzo Williams,1610612764,Washington Wizards,1,11,39,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971031,0,DET,WAS
+Shot Chart Detail,29700015,11,31,Lorenzo Williams,1610612764,Washington Wizards,1,10,46,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,0,WAS,MIA
+Shot Chart Detail,29700015,32,31,Lorenzo Williams,1610612764,Washington Wizards,1,9,37,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,1,WAS,MIA
+Shot Chart Detail,29700015,70,31,Lorenzo Williams,1610612764,Washington Wizards,1,5,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,0,WAS,MIA
+Shot Chart Detail,29700015,212,31,Lorenzo Williams,1610612764,Washington Wizards,2,2,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971101,0,WAS,MIA
+Shot Chart Detail,29700038,15,31,Lorenzo Williams,1610612764,Washington Wizards,1,11,3,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971104,0,DEN,WAS
+Shot Chart Detail,29700038,29,31,Lorenzo Williams,1610612764,Washington Wizards,1,9,37,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971104,1,DEN,WAS
+Shot Chart Detail,29700056,521,31,Lorenzo Williams,1610612764,Washington Wizards,4,1,14,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971107,0,WAS,CHH
+Shot Chart Detail,29700056,537,31,Lorenzo Williams,1610612764,Washington Wizards,4,0,14,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971107,1,WAS,CHH
+Shot Chart Detail,29700130,343,31,Lorenzo Williams,1610612764,Washington Wizards,3,0,2,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971118,1,ATL,WAS
+Shot Chart Detail,29700130,354,31,Lorenzo Williams,1610612764,Washington Wizards,4,10,52,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971118,1,ATL,WAS
+Shot Chart Detail,29700139,337,31,Lorenzo Williams,1610612764,Washington Wizards,3,1,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971119,0,PHI,WAS
+Shot Chart Detail,29700139,339,31,Lorenzo Williams,1610612764,Washington Wizards,3,1,42,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971119,0,PHI,WAS
+Shot Chart Detail,29700281,127,31,Lorenzo Williams,1610612764,Washington Wizards,1,1,11,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971210,1,CHH,WAS
+Shot Chart Detail,29700304,18,31,Lorenzo Williams,1610612764,Washington Wizards,1,9,45,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971213,0,IND,WAS
+Shot Chart Detail,29700304,57,31,Lorenzo Williams,1610612764,Washington Wizards,1,5,50,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19971213,0,IND,WAS
+Shot Chart Detail,29700304,244,31,Lorenzo Williams,1610612764,Washington Wizards,3,11,28,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19971213,0,IND,WAS

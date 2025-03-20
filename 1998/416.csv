@@ -1,22 +1,22 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700807,448,416,Willie Burton,1610612759,San Antonio Spurs,4,5,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,166,100,1,0,19980226,SAS,TOR
-Shot Chart Detail,0029700807,463,416,Willie Burton,1610612759,San Antonio Spurs,4,3,37,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,160,78,1,0,19980226,SAS,TOR
-Shot Chart Detail,0029700807,486,416,Willie Burton,1610612759,San Antonio Spurs,4,1,11,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,1,19980226,SAS,TOR
-Shot Chart Detail,0029700834,486,416,Willie Burton,1610612759,San Antonio Spurs,4,1,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,48,1,0,19980302,SAC,SAS
-Shot Chart Detail,0029700834,493,416,Willie Burton,1610612759,San Antonio Spurs,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,102,1,0,19980302,SAC,SAS
-Shot Chart Detail,0029700863,481,416,Willie Burton,1610612759,San Antonio Spurs,4,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-171,203,1,1,19980306,LAL,SAS
-Shot Chart Detail,0029700863,490,416,Willie Burton,1610612759,San Antonio Spurs,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,162,1,0,19980306,LAL,SAS
-Shot Chart Detail,0029700901,421,416,Willie Burton,1610612759,San Antonio Spurs,4,1,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,220,1,0,19980312,SAS,SAC
-Shot Chart Detail,0029700901,429,416,Willie Burton,1610612759,San Antonio Spurs,4,0,33,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,19980312,SAS,SAC
-Shot Chart Detail,0029700932,198,416,Willie Burton,1610612759,San Antonio Spurs,2,3,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-182,25,1,1,19980316,SAS,MIL
-Shot Chart Detail,0029700932,439,416,Willie Burton,1610612759,San Antonio Spurs,4,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-5,1,1,19980316,SAS,MIL
-Shot Chart Detail,0029700947,423,416,Willie Burton,1610612759,San Antonio Spurs,4,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,231,109,1,0,19980318,MIN,SAS
-Shot Chart Detail,0029700947,433,416,Willie Burton,1610612759,San Antonio Spurs,4,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,229,121,1,0,19980318,MIN,SAS
-Shot Chart Detail,0029700998,268,416,Willie Burton,1610612759,San Antonio Spurs,3,4,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-124,113,1,0,19980325,DET,SAS
-Shot Chart Detail,0029700998,428,416,Willie Burton,1610612759,San Antonio Spurs,4,0,29,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980325,DET,SAS
-Shot Chart Detail,0029700998,436,416,Willie Burton,1610612759,San Antonio Spurs,4,0,13,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980325,DET,SAS
-Shot Chart Detail,0029701010,451,416,Willie Burton,1610612759,San Antonio Spurs,4,2,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980327,PHI,SAS
-Shot Chart Detail,0029701010,463,416,Willie Burton,1610612759,San Antonio Spurs,4,1,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980327,PHI,SAS
-Shot Chart Detail,0029701029,425,416,Willie Burton,1610612759,San Antonio Spurs,4,0,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,166,1,1,19980329,IND,SAS
-Shot Chart Detail,0029701058,505,416,Willie Burton,1610612759,San Antonio Spurs,4,0,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,46,1,0,19980402,SAS,MIA
-Shot Chart Detail,0029701137,476,416,Willie Burton,1610612759,San Antonio Spurs,4,2,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,51,1,0,19980413,SAS,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700807,448,416,Willie Burton,1610612759,San Antonio Spurs,4,5,14,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,166,100,1,0,19980226,0,SAS,TOR
+Shot Chart Detail,29700807,463,416,Willie Burton,1610612759,San Antonio Spurs,4,3,37,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,160,78,1,0,19980226,0,SAS,TOR
+Shot Chart Detail,29700807,486,416,Willie Burton,1610612759,San Antonio Spurs,4,1,11,Made Shot,Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,18,1,1,19980226,0,SAS,TOR
+Shot Chart Detail,29700834,486,416,Willie Burton,1610612759,San Antonio Spurs,4,1,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,48,1,0,19980302,0,SAC,SAS
+Shot Chart Detail,29700834,493,416,Willie Burton,1610612759,San Antonio Spurs,4,0,42,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-169,102,1,0,19980302,0,SAC,SAS
+Shot Chart Detail,29700863,481,416,Willie Burton,1610612759,San Antonio Spurs,4,0,18,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-171,203,1,1,19980306,1,LAL,SAS
+Shot Chart Detail,29700863,490,416,Willie Burton,1610612759,San Antonio Spurs,4,0,2,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,162,1,0,19980306,0,LAL,SAS
+Shot Chart Detail,29700901,421,416,Willie Burton,1610612759,San Antonio Spurs,4,1,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,220,1,0,19980312,0,SAS,SAC
+Shot Chart Detail,29700901,429,416,Willie Burton,1610612759,San Antonio Spurs,4,0,33,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,19980312,1,SAS,SAC
+Shot Chart Detail,29700932,198,416,Willie Burton,1610612759,San Antonio Spurs,2,3,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-182,25,1,1,19980316,1,SAS,MIL
+Shot Chart Detail,29700932,439,416,Willie Burton,1610612759,San Antonio Spurs,4,0,38,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,-5,1,1,19980316,1,SAS,MIL
+Shot Chart Detail,29700947,423,416,Willie Burton,1610612759,San Antonio Spurs,4,1,10,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,231,109,1,0,19980318,0,MIN,SAS
+Shot Chart Detail,29700947,433,416,Willie Burton,1610612759,San Antonio Spurs,4,0,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,229,121,1,0,19980318,0,MIN,SAS
+Shot Chart Detail,29700998,268,416,Willie Burton,1610612759,San Antonio Spurs,3,4,40,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-124,113,1,0,19980325,0,DET,SAS
+Shot Chart Detail,29700998,428,416,Willie Burton,1610612759,San Antonio Spurs,4,0,29,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980325,0,DET,SAS
+Shot Chart Detail,29700998,436,416,Willie Burton,1610612759,San Antonio Spurs,4,0,13,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980325,0,DET,SAS
+Shot Chart Detail,29701010,451,416,Willie Burton,1610612759,San Antonio Spurs,4,2,33,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980327,0,PHI,SAS
+Shot Chart Detail,29701010,463,416,Willie Burton,1610612759,San Antonio Spurs,4,1,3,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980327,0,PHI,SAS
+Shot Chart Detail,29701029,425,416,Willie Burton,1610612759,San Antonio Spurs,4,0,44,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,166,1,1,19980329,1,IND,SAS
+Shot Chart Detail,29701058,505,416,Willie Burton,1610612759,San Antonio Spurs,4,0,17,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,229,46,1,0,19980402,0,SAS,MIA
+Shot Chart Detail,29701137,476,416,Willie Burton,1610612759,San Antonio Spurs,4,2,19,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,229,51,1,0,19980413,0,SAS,LAL

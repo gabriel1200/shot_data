@@ -1,8 +1,8 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029901085,387,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,10,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,147,1,0,20000407,CHH,DET
-Shot Chart Detail,0029901085,418,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,7,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-192,89,1,1,20000407,CHH,DET
-Shot Chart Detail,0029901085,444,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,186,1,0,20000407,CHH,DET
-Shot Chart Detail,0029901085,453,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,106,199,1,1,20000407,CHH,DET
-Shot Chart Detail,0029901124,429,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,1,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,139,1,1,20000412,CHH,ATL
-Shot Chart Detail,0029901124,443,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,121,1,0,20000412,CHH,ATL
-Shot Chart Detail,0029901169,478,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,2,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,121,164,1,0,20000418,CLE,CHH
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29901085,387,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,10,41,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,147,1,0,20000407,0,CHH,DET
+Shot Chart Detail,29901085,418,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,7,14,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-192,89,1,1,20000407,1,CHH,DET
+Shot Chart Detail,29901085,444,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,4,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,186,1,0,20000407,0,CHH,DET
+Shot Chart Detail,29901085,453,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,3,43,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,106,199,1,1,20000407,1,CHH,DET
+Shot Chart Detail,29901124,429,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,1,56,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,139,1,1,20000412,1,CHH,ATL
+Shot Chart Detail,29901124,443,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,0,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,121,1,0,20000412,0,CHH,ATL
+Shot Chart Detail,29901169,478,695,Eldridge Recasner,1610612766,Charlotte Hornets,4,2,1,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,121,164,1,0,20000418,0,CLE,CHH

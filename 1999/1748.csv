@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029800259,473,1748,Korleone Young,1610612765,Detroit Pistons,4,0,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,48,1,1,19990310,WAS,DET
-Shot Chart Detail,0029800259,478,1748,Korleone Young,1610612765,Detroit Pistons,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,-18,1,0,19990310,WAS,DET
-Shot Chart Detail,0029800294,106,1748,Korleone Young,1610612765,Detroit Pistons,2,11,39,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,DET,ATL
-Shot Chart Detail,0029800294,119,1748,Korleone Young,1610612765,Detroit Pistons,2,9,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,DET,ATL
-Shot Chart Detail,0029800294,131,1748,Korleone Young,1610612765,Detroit Pistons,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,149,10,1,0,19990314,DET,ATL
-Shot Chart Detail,0029800294,461,1748,Korleone Young,1610612765,Detroit Pistons,4,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,201,1,0,19990314,DET,ATL
-Shot Chart Detail,0029800457,304,1748,Korleone Young,1610612765,Detroit Pistons,3,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990403,DET,ORL
-Shot Chart Detail,0029800457,400,1748,Korleone Young,1610612765,Detroit Pistons,4,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990403,DET,ORL
-Shot Chart Detail,0029800457,416,1748,Korleone Young,1610612765,Detroit Pistons,4,0,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990403,DET,ORL
-Shot Chart Detail,0029800457,418,1748,Korleone Young,1610612765,Detroit Pistons,4,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,16,304,1,0,19990403,DET,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29800259,473,1748,Korleone Young,1610612765,Detroit Pistons,4,0,36,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,48,1,1,19990310,1,WAS,DET
+Shot Chart Detail,29800259,478,1748,Korleone Young,1610612765,Detroit Pistons,4,0,2,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,-18,1,0,19990310,0,WAS,DET
+Shot Chart Detail,29800294,106,1748,Korleone Young,1610612765,Detroit Pistons,2,11,39,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,0,DET,ATL
+Shot Chart Detail,29800294,119,1748,Korleone Young,1610612765,Detroit Pistons,2,9,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990314,1,DET,ATL
+Shot Chart Detail,29800294,131,1748,Korleone Young,1610612765,Detroit Pistons,2,8,38,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,149,10,1,0,19990314,0,DET,ATL
+Shot Chart Detail,29800294,461,1748,Korleone Young,1610612765,Detroit Pistons,4,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,201,1,0,19990314,0,DET,ATL
+Shot Chart Detail,29800457,304,1748,Korleone Young,1610612765,Detroit Pistons,3,0,39,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990403,0,DET,ORL
+Shot Chart Detail,29800457,400,1748,Korleone Young,1610612765,Detroit Pistons,4,2,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990403,1,DET,ORL
+Shot Chart Detail,29800457,416,1748,Korleone Young,1610612765,Detroit Pistons,4,0,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990403,1,DET,ORL
+Shot Chart Detail,29800457,418,1748,Korleone Young,1610612765,Detroit Pistons,4,0,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,30,16,304,1,0,19990403,0,DET,ORL

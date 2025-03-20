@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049900006,147,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,6,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,145,1,1,20000423,POR,MIN
-Shot Chart Detail,0049900006,161,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,4,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,27,231,1,1,20000423,POR,MIN
-Shot Chart Detail,0049900014,118,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-59,207,1,1,20000426,POR,MIN
-Shot Chart Detail,0049900014,123,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,8,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,128,207,1,0,20000426,POR,MIN
-Shot Chart Detail,0049900014,140,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,6,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,20000426,POR,MIN
-Shot Chart Detail,0049900014,272,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-197,106,1,0,20000426,POR,MIN
-Shot Chart Detail,0049900014,309,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,28,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,33,1,0,20000426,POR,MIN
-Shot Chart Detail,0049900014,340,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,23,106,214,1,1,20000426,POR,MIN
-Shot Chart Detail,0049900014,353,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,7,12,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,89,1,0,20000426,POR,MIN
-Shot Chart Detail,0049900014,372,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,5,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-8,207,1,0,20000426,POR,MIN
-Shot Chart Detail,0049900023,92,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,10,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,201,1,0,20000430,MIN,POR
-Shot Chart Detail,0049900023,271,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,139,1,1,20000430,MIN,POR
-Shot Chart Detail,0049900023,305,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,8,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,149,1,0,20000430,MIN,POR
-Shot Chart Detail,0049900029,101,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,11,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,42,1,1,20000502,MIN,POR
-Shot Chart Detail,0049900029,132,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,8,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,40,242,1,0,20000502,MIN,POR
-Shot Chart Detail,0049900029,272,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,85,175,1,1,20000502,MIN,POR
-Shot Chart Detail,0049900029,285,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,5,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,42,1,1,20000502,MIN,POR
-Shot Chart Detail,0049900029,365,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,5,192,1,0,20000502,MIN,POR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49900006,147,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,6,52,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,145,1,1,20000423,1,POR,MIN
+Shot Chart Detail,49900006,161,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,4,17,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,23,27,231,1,1,20000423,1,POR,MIN
+Shot Chart Detail,49900014,118,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,8,57,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-59,207,1,1,20000426,1,POR,MIN
+Shot Chart Detail,49900014,123,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,8,14,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,128,207,1,0,20000426,0,POR,MIN
+Shot Chart Detail,49900014,140,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,6,14,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,20000426,1,POR,MIN
+Shot Chart Detail,49900014,272,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,2,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,22,-197,106,1,0,20000426,0,POR,MIN
+Shot Chart Detail,49900014,309,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,11,28,Missed Shot,Running Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-89,33,1,0,20000426,0,POR,MIN
+Shot Chart Detail,49900014,340,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,8,29,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,23,106,214,1,1,20000426,1,POR,MIN
+Shot Chart Detail,49900014,353,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,7,12,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,89,1,0,20000426,0,POR,MIN
+Shot Chart Detail,49900014,372,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,5,48,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-8,207,1,0,20000426,0,POR,MIN
+Shot Chart Detail,49900023,92,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,10,35,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,201,1,0,20000430,0,MIN,POR
+Shot Chart Detail,49900023,271,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,0,46,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,139,1,1,20000430,1,MIN,POR
+Shot Chart Detail,49900023,305,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,8,5,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,149,1,0,20000430,0,MIN,POR
+Shot Chart Detail,49900029,101,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,11,24,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,224,42,1,1,20000502,1,MIN,POR
+Shot Chart Detail,49900029,132,417,Sam Mitchell,1610612750,Minnesota Timberwolves,2,8,53,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,40,242,1,0,20000502,0,MIN,POR
+Shot Chart Detail,49900029,272,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,6,40,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,85,175,1,1,20000502,1,MIN,POR
+Shot Chart Detail,49900029,285,417,Sam Mitchell,1610612750,Minnesota Timberwolves,3,5,37,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-169,42,1,1,20000502,1,MIN,POR
+Shot Chart Detail,49900029,365,417,Sam Mitchell,1610612750,Minnesota Timberwolves,4,8,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,5,192,1,0,20000502,0,MIN,POR

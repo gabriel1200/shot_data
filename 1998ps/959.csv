@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049700010,91,959,Steve Nash,1610612756,Phoenix Suns,1,1,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,151,1,1,19980425,PHX,SAS
-Shot Chart Detail,0049700010,109,959,Steve Nash,1610612756,Phoenix Suns,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-66,235,1,0,19980425,PHX,SAS
-Shot Chart Detail,0049700010,124,959,Steve Nash,1610612756,Phoenix Suns,2,10,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,128,1,1,19980425,PHX,SAS
-Shot Chart Detail,0049700018,466,959,Steve Nash,1610612756,Phoenix Suns,4,0,53,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-158,25,1,1,19980427,SAS,PHX
-Shot Chart Detail,0049700018,477,959,Steve Nash,1610612756,Phoenix Suns,4,0,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980427,SAS,PHX
-Shot Chart Detail,0049700024,20,959,Steve Nash,1610612756,Phoenix Suns,1,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-119,85,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,46,959,Steve Nash,1610612756,Phoenix Suns,1,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-1,196,1,1,19980429,SAS,PHX
-Shot Chart Detail,0049700024,136,959,Steve Nash,1610612756,Phoenix Suns,2,8,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,209,121,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,141,959,Steve Nash,1610612756,Phoenix Suns,2,8,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,205,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,162,959,Steve Nash,1610612756,Phoenix Suns,2,6,41,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,89,1,1,19980429,SAS,PHX
-Shot Chart Detail,0049700024,166,959,Steve Nash,1610612756,Phoenix Suns,2,5,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,46,194,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,191,959,Steve Nash,1610612756,Phoenix Suns,2,3,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,188,31,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,222,959,Steve Nash,1610612756,Phoenix Suns,3,11,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-3,194,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,231,959,Steve Nash,1610612756,Phoenix Suns,3,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-197,-14,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,245,959,Steve Nash,1610612756,Phoenix Suns,3,8,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,417,959,Steve Nash,1610612756,Phoenix Suns,4,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,164,1,0,19980429,SAS,PHX
-Shot Chart Detail,0049700024,440,959,Steve Nash,1610612756,Phoenix Suns,4,4,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,119,1,1,19980429,SAS,PHX
-Shot Chart Detail,0049700024,500,959,Steve Nash,1610612756,Phoenix Suns,4,0,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-1,207,1,1,19980429,SAS,PHX
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49700010,91,959,Steve Nash,1610612756,Phoenix Suns,1,1,58,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,151,1,1,19980425,1,PHX,SAS
+Shot Chart Detail,49700010,109,959,Steve Nash,1610612756,Phoenix Suns,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-66,235,1,0,19980425,0,PHX,SAS
+Shot Chart Detail,49700010,124,959,Steve Nash,1610612756,Phoenix Suns,2,10,43,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,108,128,1,1,19980425,0,PHX,SAS
+Shot Chart Detail,49700018,466,959,Steve Nash,1610612756,Phoenix Suns,4,0,53,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-158,25,1,1,19980427,0,SAS,PHX
+Shot Chart Detail,49700018,477,959,Steve Nash,1610612756,Phoenix Suns,4,0,5,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19980427,0,SAS,PHX
+Shot Chart Detail,49700024,20,959,Steve Nash,1610612756,Phoenix Suns,1,8,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-119,85,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,46,959,Steve Nash,1610612756,Phoenix Suns,1,6,35,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-1,196,1,1,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,136,959,Steve Nash,1610612756,Phoenix Suns,2,8,40,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,209,121,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,141,959,Steve Nash,1610612756,Phoenix Suns,2,8,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,205,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,162,959,Steve Nash,1610612756,Phoenix Suns,2,6,41,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,89,1,1,19980429,1,SAS,PHX
+Shot Chart Detail,49700024,166,959,Steve Nash,1610612756,Phoenix Suns,2,5,41,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,46,194,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,191,959,Steve Nash,1610612756,Phoenix Suns,2,3,29,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,188,31,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,222,959,Steve Nash,1610612756,Phoenix Suns,3,11,45,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-3,194,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,231,959,Steve Nash,1610612756,Phoenix Suns,3,10,38,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-197,-14,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,245,959,Steve Nash,1610612756,Phoenix Suns,3,8,7,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,417,959,Steve Nash,1610612756,Phoenix Suns,4,5,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,164,1,0,19980429,0,SAS,PHX
+Shot Chart Detail,49700024,440,959,Steve Nash,1610612756,Phoenix Suns,4,4,16,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-218,119,1,1,19980429,1,SAS,PHX
+Shot Chart Detail,49700024,500,959,Steve Nash,1610612756,Phoenix Suns,4,0,28,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,-1,207,1,1,19980429,0,SAS,PHX

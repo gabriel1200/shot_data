@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900117,464,770,Mark West,1610612756,Phoenix Suns,4,2,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,27,1,0,19991117,PHX,CHI
-Shot Chart Detail,0029900132,455,770,Mark West,1610612756,Phoenix Suns,4,2,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,12,1,0,19991119,PHX,NYK
-Shot Chart Detail,0029900191,470,770,Mark West,1610612756,Phoenix Suns,4,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,33,1,0,19991127,PHX,NJN
-Shot Chart Detail,0029900270,152,770,Mark West,1610612756,Phoenix Suns,2,6,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,5,1,0,19991209,PHX,WAS
-Shot Chart Detail,0029900270,437,770,Mark West,1610612756,Phoenix Suns,4,1,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991209,PHX,WAS
-Shot Chart Detail,0029900289,26,770,Mark West,1610612756,Phoenix Suns,1,8,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991211,DAL,PHX
-Shot Chart Detail,0029900341,539,770,Mark West,1610612756,Phoenix Suns,4,0,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991218,PHX,SAC
-Shot Chart Detail,0029900360,231,770,Mark West,1610612756,Phoenix Suns,2,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,0,19991221,SAS,PHX
-Shot Chart Detail,0029900360,238,770,Mark West,1610612756,Phoenix Suns,2,1,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,19991221,SAS,PHX
-Shot Chart Detail,0029900386,447,770,Mark West,1610612756,Phoenix Suns,4,3,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991226,PHX,GSW
-Shot Chart Detail,0029900700,437,770,Mark West,1610612756,Phoenix Suns,4,0,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000210,PHX,MIN
-Shot Chart Detail,0029900734,109,770,Mark West,1610612756,Phoenix Suns,2,10,50,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,27,1,0,20000218,PHX,ATL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900117,464,770,Mark West,1610612756,Phoenix Suns,4,2,14,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,27,1,0,19991117,0,PHX,CHI
+Shot Chart Detail,29900132,455,770,Mark West,1610612756,Phoenix Suns,4,2,26,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,96,12,1,0,19991119,0,PHX,NYK
+Shot Chart Detail,29900191,470,770,Mark West,1610612756,Phoenix Suns,4,0,20,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,33,1,0,19991127,0,PHX,NJN
+Shot Chart Detail,29900270,152,770,Mark West,1610612756,Phoenix Suns,2,6,30,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,5,1,0,19991209,0,PHX,WAS
+Shot Chart Detail,29900270,437,770,Mark West,1610612756,Phoenix Suns,4,1,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991209,0,PHX,WAS
+Shot Chart Detail,29900289,26,770,Mark West,1610612756,Phoenix Suns,1,8,8,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991211,0,DAL,PHX
+Shot Chart Detail,29900341,539,770,Mark West,1610612756,Phoenix Suns,4,0,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991218,1,PHX,SAC
+Shot Chart Detail,29900360,231,770,Mark West,1610612756,Phoenix Suns,2,2,6,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,0,19991221,0,SAS,PHX
+Shot Chart Detail,29900360,238,770,Mark West,1610612756,Phoenix Suns,2,1,41,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,19991221,1,SAS,PHX
+Shot Chart Detail,29900386,447,770,Mark West,1610612756,Phoenix Suns,4,3,29,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991226,1,PHX,GSW
+Shot Chart Detail,29900700,437,770,Mark West,1610612756,Phoenix Suns,4,0,59,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000210,1,PHX,MIN
+Shot Chart Detail,29900734,109,770,Mark West,1610612756,Phoenix Suns,2,10,50,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,27,1,0,20000218,0,PHX,ATL

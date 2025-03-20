@@ -1,255 +1,128 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900011,140,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-8,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900011,159,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991102,UTA,LAL
-Shot Chart Detail,0029900011,167,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-14,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900011,367,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,109,1,1,19991102,UTA,LAL
-Shot Chart Detail,0029900011,373,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,115,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900011,466,432,Pete Chilcutt,1610612762,Utah Jazz,4,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,244,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900024,162,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,-38,1,1,19991104,UTA,HOU
-Shot Chart Detail,0029900024,165,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991104,UTA,HOU
-Shot Chart Detail,0029900044,139,432,Pete Chilcutt,1610612762,Utah Jazz,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,31,209,1,0,19991106,SEA,UTA
-Shot Chart Detail,0029900044,332,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,33,1,1,19991106,SEA,UTA
-Shot Chart Detail,0029900044,347,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,59,162,1,0,19991106,SEA,UTA
-Shot Chart Detail,0029900044,380,432,Pete Chilcutt,1610612762,Utah Jazz,4,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,250,1,0,19991106,SEA,UTA
-Shot Chart Detail,0029900044,421,432,Pete Chilcutt,1610612762,Utah Jazz,4,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,74,216,1,1,19991106,SEA,UTA
-Shot Chart Detail,0029900054,129,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,36,1,1,19991108,LAC,UTA
-Shot Chart Detail,0029900054,131,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,46,1,1,19991108,LAC,UTA
-Shot Chart Detail,0029900054,136,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,81,1,0,19991108,LAC,UTA
-Shot Chart Detail,0029900054,147,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,18,1,0,19991108,LAC,UTA
-Shot Chart Detail,0029900054,167,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,109,1,1,19991108,LAC,UTA
-Shot Chart Detail,0029900054,372,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-31,295,1,0,19991108,LAC,UTA
-Shot Chart Detail,0029900058,108,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,12,252,1,0,19991109,UTA,POR
-Shot Chart Detail,0029900058,328,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-182,145,1,1,19991109,UTA,POR
-Shot Chart Detail,0029900080,137,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-25,166,1,1,19991112,SAC,UTA
-Shot Chart Detail,0029900080,168,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,19991112,SAC,UTA
-Shot Chart Detail,0029900080,325,432,Pete Chilcutt,1610612762,Utah Jazz,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-1,1,0,19991112,SAC,UTA
-Shot Chart Detail,0029900080,337,432,Pete Chilcutt,1610612762,Utah Jazz,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-1,1,0,19991112,SAC,UTA
-Shot Chart Detail,0029900080,346,432,Pete Chilcutt,1610612762,Utah Jazz,3,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,89,1,0,19991112,SAC,UTA
-Shot Chart Detail,0029900080,387,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-1,1,1,19991112,SAC,UTA
-Shot Chart Detail,0029900098,142,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,171,100,1,0,19991115,UTA,SAS
-Shot Chart Detail,0029900098,164,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-96,196,1,1,19991115,UTA,SAS
-Shot Chart Detail,0029900098,326,432,Pete Chilcutt,1610612762,Utah Jazz,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-117,252,1,0,19991115,UTA,SAS
-Shot Chart Detail,0029900116,159,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,141,1,0,19991117,UTA,NYK
-Shot Chart Detail,0029900116,177,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991117,UTA,NYK
-Shot Chart Detail,0029900130,143,432,Pete Chilcutt,1610612762,Utah Jazz,2,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,5,1,1,19991119,MIN,UTA
-Shot Chart Detail,0029900140,62,432,Pete Chilcutt,1610612762,Utah Jazz,1,5,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-14,171,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900140,73,432,Pete Chilcutt,1610612762,Utah Jazz,1,4,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900140,89,432,Pete Chilcutt,1610612762,Utah Jazz,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-3,199,1,1,19991120,MIL,UTA
-Shot Chart Detail,0029900140,107,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,33,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900140,354,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900152,115,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-96,130,1,0,19991122,UTA,MIN
-Shot Chart Detail,0029900152,126,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,25,203,1,1,19991122,UTA,MIN
-Shot Chart Detail,0029900168,96,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,25,1,0,19991124,LAL,UTA
-Shot Chart Detail,0029900178,137,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-8,145,1,0,19991126,UTA,TOR
-Shot Chart Detail,0029900178,190,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-111,51,1,1,19991126,UTA,TOR
-Shot Chart Detail,0029900178,455,432,Pete Chilcutt,1610612762,Utah Jazz,4,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,119,1,0,19991126,UTA,TOR
-Shot Chart Detail,0029900178,464,432,Pete Chilcutt,1610612762,Utah Jazz,4,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-66,242,1,0,19991126,UTA,TOR
-Shot Chart Detail,0029900229,343,432,Pete Chilcutt,1610612762,Utah Jazz,4,11,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,119,1,1,19991203,UTA,IND
-Shot Chart Detail,0029900229,364,432,Pete Chilcutt,1610612762,Utah Jazz,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-212,57,1,0,19991203,UTA,IND
-Shot Chart Detail,0029900229,376,432,Pete Chilcutt,1610612762,Utah Jazz,4,7,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991203,UTA,IND
-Shot Chart Detail,0029900240,96,432,Pete Chilcutt,1610612762,Utah Jazz,1,1,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991204,GSW,UTA
-Shot Chart Detail,0029900240,139,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,12,1,0,19991204,GSW,UTA
-Shot Chart Detail,0029900295,188,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-83,63,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900295,198,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,25,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900295,202,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991212,TOR,UTA
-Shot Chart Detail,0029900295,218,432,Pete Chilcutt,1610612762,Utah Jazz,2,3,54,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,18,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900295,430,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,104,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900298,436,432,Pete Chilcutt,1610612762,Utah Jazz,4,1,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,3,1,1,19991214,WAS,UTA
-Shot Chart Detail,0029900326,81,432,Pete Chilcutt,1610612762,Utah Jazz,1,1,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-85,121,1,0,19991217,IND,UTA
-Shot Chart Detail,0029900326,120,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-224,166,1,0,19991217,IND,UTA
-Shot Chart Detail,0029900333,98,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,66,177,1,0,19991218,ATL,UTA
-Shot Chart Detail,0029900349,403,432,Pete Chilcutt,1610612762,Utah Jazz,4,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-151,113,1,0,19991220,ORL,UTA
-Shot Chart Detail,0029900349,411,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,48,218,1,0,19991220,ORL,UTA
-Shot Chart Detail,0029900446,423,432,Pete Chilcutt,1610612762,Utah Jazz,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-156,78,1,1,20000105,UTA,CHH
-Shot Chart Detail,0029900664,405,432,Pete Chilcutt,1610612739,Cleveland Cavaliers,4,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,164,104,1,0,20000205,CLE,ATL
-Shot Chart Detail,0029900728,467,432,Pete Chilcutt,1610612739,Cleveland Cavaliers,4,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,46,1,0,20000218,PHI,CLE
-Shot Chart Detail,0029900562,198,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000121,LAC,MIN
-Shot Chart Detail,0029900562,317,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,1,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000121,LAC,MIN
-Shot Chart Detail,0029900577,121,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,12,1,1,20000123,LAC,ORL
-Shot Chart Detail,0029900577,125,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,20000123,LAC,ORL
-Shot Chart Detail,0029900577,305,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,5,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000123,LAC,ORL
-Shot Chart Detail,0029900601,176,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,16,1,0,20000127,DAL,LAC
-Shot Chart Detail,0029900601,292,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-1,1,0,20000127,DAL,LAC
-Shot Chart Detail,0029900601,311,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,38,1,0,20000127,DAL,LAC
-Shot Chart Detail,0029900601,340,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000127,DAL,LAC
-Shot Chart Detail,0029900806,510,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,196,1,0,20000228,LAC,HOU
-Shot Chart Detail,0029900844,263,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-96,96,1,1,20000304,LAC,CLE
-Shot Chart Detail,0029900844,272,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,124,1,1,20000304,LAC,CLE
-Shot Chart Detail,0029900856,161,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,224,1,0,20000306,LAC,LAL
-Shot Chart Detail,0029900856,175,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,147,231,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,197,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,33,1,0,20000306,LAC,LAL
-Shot Chart Detail,0029900856,198,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,5,27,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,346,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,59,141,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,375,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-3,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,409,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,111,192,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,443,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-31,280,1,0,20000306,LAC,LAL
-Shot Chart Detail,0029900856,446,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-184,68,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900872,196,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,119,1,1,20000308,LAC,TOR
-Shot Chart Detail,0029900887,26,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,57,1,0,20000310,LAC,CHH
-Shot Chart Detail,0029900887,92,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,147,169,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900887,123,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900887,237,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900887,297,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,0,20000310,LAC,CHH
-Shot Chart Detail,0029900887,308,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,16,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900902,367,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,5,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900902,380,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,8,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,59,181,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900902,406,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,-10,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900916,114,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-40,214,1,0,20000314,LAC,DEN
-Shot Chart Detail,0029900916,129,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-3,1,0,20000314,LAC,DEN
-Shot Chart Detail,0029900922,86,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,16,162,1,1,20000315,SAC,LAC
-Shot Chart Detail,0029900922,130,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,25,190,1,1,20000315,SAC,LAC
-Shot Chart Detail,0029900937,368,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,203,1,0,20000317,DEN,LAC
-Shot Chart Detail,0029900937,411,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3,179,1,0,20000317,DEN,LAC
-Shot Chart Detail,0029900937,482,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,186,169,1,0,20000317,DEN,LAC
-Shot Chart Detail,0029900945,139,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,8,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000318,LAC,SAC
-Shot Chart Detail,0029900945,463,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,5,1,1,20000318,LAC,SAC
-Shot Chart Detail,0029900945,467,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,61,1,0,20000318,LAC,SAC
-Shot Chart Detail,0029900960,293,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,259,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900975,155,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,162,1,0,20000322,SAS,LAC
-Shot Chart Detail,0029900975,314,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,1,1,0,20000322,SAS,LAC
-Shot Chart Detail,0029900975,389,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,179,1,0,20000322,SAS,LAC
-Shot Chart Detail,0029900997,119,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,147,134,1,0,20000325,LAC,DET
-Shot Chart Detail,0029900997,181,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,LAC,DET
-Shot Chart Detail,0029901017,175,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,68,1,0,20000328,LAC,DAL
-Shot Chart Detail,0029901017,219,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,9,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,LAC,DAL
-Shot Chart Detail,0029901031,101,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-96,113,1,0,20000330,LAC,MIL
-Shot Chart Detail,0029901031,160,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,23,1,1,20000330,LAC,MIL
-Shot Chart Detail,0029901031,167,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,224,1,0,20000330,LAC,MIL
-Shot Chart Detail,0029901031,263,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,169,1,0,20000330,LAC,MIL
-Shot Chart Detail,0029901095,205,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,244,1,1,20000408,DAL,LAC
-Shot Chart Detail,0029901095,241,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,1,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000408,DAL,LAC
-Shot Chart Detail,0029901118,473,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-38,261,1,0,20000411,LAC,PHX
-Shot Chart Detail,0029901128,190,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,199,1,0,20000412,UTA,LAC
-Shot Chart Detail,0029901128,216,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,177,1,0,20000412,UTA,LAC
-Shot Chart Detail,0029901128,373,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,9,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,59,1,1,20000412,UTA,LAC
-Shot Chart Detail,0029901143,361,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,1,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,207,1,1,20000414,PHX,LAC
-Shot Chart Detail,0029901143,399,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,9,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,1,1,0,20000414,PHX,LAC
-Shot Chart Detail,0029901143,492,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,113,1,0,20000414,PHX,LAC
-Shot Chart Detail,0029901189,140,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-162,121,1,0,20000419,SEA,LAC
-Shot Chart Detail,0029900011,140,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-8,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900011,159,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991102,UTA,LAL
-Shot Chart Detail,0029900011,167,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-14,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900011,367,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,109,1,1,19991102,UTA,LAL
-Shot Chart Detail,0029900011,373,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,115,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900011,466,432,Pete Chilcutt,1610612762,Utah Jazz,4,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,1,244,1,0,19991102,UTA,LAL
-Shot Chart Detail,0029900024,162,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-126,-38,1,1,19991104,UTA,HOU
-Shot Chart Detail,0029900024,165,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991104,UTA,HOU
-Shot Chart Detail,0029900044,139,432,Pete Chilcutt,1610612762,Utah Jazz,2,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,31,209,1,0,19991106,SEA,UTA
-Shot Chart Detail,0029900044,332,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,39,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,33,1,1,19991106,SEA,UTA
-Shot Chart Detail,0029900044,347,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,59,162,1,0,19991106,SEA,UTA
-Shot Chart Detail,0029900044,380,432,Pete Chilcutt,1610612762,Utah Jazz,4,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,250,1,0,19991106,SEA,UTA
-Shot Chart Detail,0029900044,421,432,Pete Chilcutt,1610612762,Utah Jazz,4,2,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,74,216,1,1,19991106,SEA,UTA
-Shot Chart Detail,0029900054,129,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,36,1,1,19991108,LAC,UTA
-Shot Chart Detail,0029900054,131,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,111,46,1,1,19991108,LAC,UTA
-Shot Chart Detail,0029900054,136,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,81,1,0,19991108,LAC,UTA
-Shot Chart Detail,0029900054,147,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,18,1,0,19991108,LAC,UTA
-Shot Chart Detail,0029900054,167,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,102,109,1,1,19991108,LAC,UTA
-Shot Chart Detail,0029900054,372,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-31,295,1,0,19991108,LAC,UTA
-Shot Chart Detail,0029900058,108,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,12,252,1,0,19991109,UTA,POR
-Shot Chart Detail,0029900058,328,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-182,145,1,1,19991109,UTA,POR
-Shot Chart Detail,0029900080,137,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-25,166,1,1,19991112,SAC,UTA
-Shot Chart Detail,0029900080,168,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,19991112,SAC,UTA
-Shot Chart Detail,0029900080,325,432,Pete Chilcutt,1610612762,Utah Jazz,3,3,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-1,1,0,19991112,SAC,UTA
-Shot Chart Detail,0029900080,337,432,Pete Chilcutt,1610612762,Utah Jazz,3,2,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-184,-1,1,0,19991112,SAC,UTA
-Shot Chart Detail,0029900080,346,432,Pete Chilcutt,1610612762,Utah Jazz,3,1,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-169,89,1,0,19991112,SAC,UTA
-Shot Chart Detail,0029900080,387,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-1,1,1,19991112,SAC,UTA
-Shot Chart Detail,0029900098,142,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,171,100,1,0,19991115,UTA,SAS
-Shot Chart Detail,0029900098,164,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-96,196,1,1,19991115,UTA,SAS
-Shot Chart Detail,0029900098,326,432,Pete Chilcutt,1610612762,Utah Jazz,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-117,252,1,0,19991115,UTA,SAS
-Shot Chart Detail,0029900116,159,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,10,141,1,0,19991117,UTA,NYK
-Shot Chart Detail,0029900116,177,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,53,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991117,UTA,NYK
-Shot Chart Detail,0029900130,143,432,Pete Chilcutt,1610612762,Utah Jazz,2,8,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-139,5,1,1,19991119,MIN,UTA
-Shot Chart Detail,0029900140,62,432,Pete Chilcutt,1610612762,Utah Jazz,1,5,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-14,171,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900140,73,432,Pete Chilcutt,1610612762,Utah Jazz,1,4,27,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900140,89,432,Pete Chilcutt,1610612762,Utah Jazz,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-3,199,1,1,19991120,MIL,UTA
-Shot Chart Detail,0029900140,107,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,33,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900140,354,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,34,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991120,MIL,UTA
-Shot Chart Detail,0029900152,115,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-96,130,1,0,19991122,UTA,MIN
-Shot Chart Detail,0029900152,126,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,25,203,1,1,19991122,UTA,MIN
-Shot Chart Detail,0029900168,96,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,25,1,0,19991124,LAL,UTA
-Shot Chart Detail,0029900178,137,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-8,145,1,0,19991126,UTA,TOR
-Shot Chart Detail,0029900178,190,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-111,51,1,1,19991126,UTA,TOR
-Shot Chart Detail,0029900178,455,432,Pete Chilcutt,1610612762,Utah Jazz,4,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,119,1,0,19991126,UTA,TOR
-Shot Chart Detail,0029900178,464,432,Pete Chilcutt,1610612762,Utah Jazz,4,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-66,242,1,0,19991126,UTA,TOR
-Shot Chart Detail,0029900229,343,432,Pete Chilcutt,1610612762,Utah Jazz,4,11,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,119,1,1,19991203,UTA,IND
-Shot Chart Detail,0029900229,364,432,Pete Chilcutt,1610612762,Utah Jazz,4,8,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-212,57,1,0,19991203,UTA,IND
-Shot Chart Detail,0029900229,376,432,Pete Chilcutt,1610612762,Utah Jazz,4,7,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991203,UTA,IND
-Shot Chart Detail,0029900240,96,432,Pete Chilcutt,1610612762,Utah Jazz,1,1,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991204,GSW,UTA
-Shot Chart Detail,0029900240,139,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,12,1,0,19991204,GSW,UTA
-Shot Chart Detail,0029900295,188,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-83,63,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900295,198,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,25,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900295,202,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991212,TOR,UTA
-Shot Chart Detail,0029900295,218,432,Pete Chilcutt,1610612762,Utah Jazz,2,3,54,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,18,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900295,430,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,104,1,0,19991212,TOR,UTA
-Shot Chart Detail,0029900298,436,432,Pete Chilcutt,1610612762,Utah Jazz,4,1,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,3,1,1,19991214,WAS,UTA
-Shot Chart Detail,0029900326,81,432,Pete Chilcutt,1610612762,Utah Jazz,1,1,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-85,121,1,0,19991217,IND,UTA
-Shot Chart Detail,0029900326,120,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-224,166,1,0,19991217,IND,UTA
-Shot Chart Detail,0029900333,98,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,66,177,1,0,19991218,ATL,UTA
-Shot Chart Detail,0029900349,403,432,Pete Chilcutt,1610612762,Utah Jazz,4,11,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-151,113,1,0,19991220,ORL,UTA
-Shot Chart Detail,0029900349,411,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,22,48,218,1,0,19991220,ORL,UTA
-Shot Chart Detail,0029900446,423,432,Pete Chilcutt,1610612762,Utah Jazz,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-156,78,1,1,20000105,UTA,CHH
-Shot Chart Detail,0029900562,198,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,58,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000121,LAC,MIN
-Shot Chart Detail,0029900562,317,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,1,35,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000121,LAC,MIN
-Shot Chart Detail,0029900577,121,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,10,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,12,1,1,20000123,LAC,ORL
-Shot Chart Detail,0029900577,125,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,20000123,LAC,ORL
-Shot Chart Detail,0029900577,305,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,5,56,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000123,LAC,ORL
-Shot Chart Detail,0029900601,176,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,10,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,186,16,1,0,20000127,DAL,LAC
-Shot Chart Detail,0029900601,292,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,-1,1,0,20000127,DAL,LAC
-Shot Chart Detail,0029900601,311,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,2,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,38,1,0,20000127,DAL,LAC
-Shot Chart Detail,0029900601,340,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,11,19,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000127,DAL,LAC
-Shot Chart Detail,0029900664,405,432,Pete Chilcutt,1610612739,Cleveland Cavaliers,4,9,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,164,104,1,0,20000205,CLE,ATL
-Shot Chart Detail,0029900728,467,432,Pete Chilcutt,1610612739,Cleveland Cavaliers,4,2,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,46,1,0,20000218,PHI,CLE
-Shot Chart Detail,0029900806,510,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,196,1,0,20000228,LAC,HOU
-Shot Chart Detail,0029900844,263,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-96,96,1,1,20000304,LAC,CLE
-Shot Chart Detail,0029900844,272,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,124,1,1,20000304,LAC,CLE
-Shot Chart Detail,0029900856,161,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,224,1,0,20000306,LAC,LAL
-Shot Chart Detail,0029900856,175,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,147,231,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,197,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,5,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,33,1,0,20000306,LAC,LAL
-Shot Chart Detail,0029900856,198,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,5,27,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,346,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,3,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,59,141,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,375,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,0,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-141,-3,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,409,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,10,12,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,111,192,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900856,443,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-31,280,1,0,20000306,LAC,LAL
-Shot Chart Detail,0029900856,446,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-184,68,1,1,20000306,LAC,LAL
-Shot Chart Detail,0029900872,196,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,32,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,119,1,1,20000308,LAC,TOR
-Shot Chart Detail,0029900887,26,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,9,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,57,1,0,20000310,LAC,CHH
-Shot Chart Detail,0029900887,92,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,2,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,147,169,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900887,123,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,17,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900887,237,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,10,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900887,297,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,5,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,0,20000310,LAC,CHH
-Shot Chart Detail,0029900887,308,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,16,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,LAC,CHH
-Shot Chart Detail,0029900902,367,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,10,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,5,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900902,380,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,8,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,59,181,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900902,406,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,5,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,-10,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900916,114,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-40,214,1,0,20000314,LAC,DEN
-Shot Chart Detail,0029900916,129,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,-3,1,0,20000314,LAC,DEN
-Shot Chart Detail,0029900922,86,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,4,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,16,162,1,1,20000315,SAC,LAC
-Shot Chart Detail,0029900922,130,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,38,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,25,190,1,1,20000315,SAC,LAC
-Shot Chart Detail,0029900937,368,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,1,203,1,0,20000317,DEN,LAC
-Shot Chart Detail,0029900937,411,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,8,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-3,179,1,0,20000317,DEN,LAC
-Shot Chart Detail,0029900937,482,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,186,169,1,0,20000317,DEN,LAC
-Shot Chart Detail,0029900945,139,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,8,58,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000318,LAC,SAC
-Shot Chart Detail,0029900945,463,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,1,8,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,5,1,1,20000318,LAC,SAC
-Shot Chart Detail,0029900945,467,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,61,1,0,20000318,LAC,SAC
-Shot Chart Detail,0029900960,293,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,259,1,1,20000320,LAC,WAS
-Shot Chart Detail,0029900975,155,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,6,56,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,23,162,1,0,20000322,SAS,LAC
-Shot Chart Detail,0029900975,314,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,2,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,1,1,0,20000322,SAS,LAC
-Shot Chart Detail,0029900975,389,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,179,1,0,20000322,SAS,LAC
-Shot Chart Detail,0029900997,119,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,147,134,1,0,20000325,LAC,DET
-Shot Chart Detail,0029900997,181,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,LAC,DET
-Shot Chart Detail,0029901017,175,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,184,68,1,0,20000328,LAC,DAL
-Shot Chart Detail,0029901017,219,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,9,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,LAC,DAL
-Shot Chart Detail,0029901031,101,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,0,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-96,113,1,0,20000330,LAC,MIL
-Shot Chart Detail,0029901031,160,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,175,23,1,1,20000330,LAC,MIL
-Shot Chart Detail,0029901031,167,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,224,1,0,20000330,LAC,MIL
-Shot Chart Detail,0029901031,263,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,9,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,169,1,0,20000330,LAC,MIL
-Shot Chart Detail,0029901095,205,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,244,1,1,20000408,DAL,LAC
-Shot Chart Detail,0029901095,241,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,1,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000408,DAL,LAC
-Shot Chart Detail,0029901118,473,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-38,261,1,0,20000411,LAC,PHX
-Shot Chart Detail,0029901128,190,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,199,1,0,20000412,UTA,LAC
-Shot Chart Detail,0029901128,216,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,177,1,0,20000412,UTA,LAC
-Shot Chart Detail,0029901128,373,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,9,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,59,1,1,20000412,UTA,LAC
-Shot Chart Detail,0029901143,361,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,1,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,207,1,1,20000414,PHX,LAC
-Shot Chart Detail,0029901143,399,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,9,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,1,1,0,20000414,PHX,LAC
-Shot Chart Detail,0029901143,492,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,1,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,113,1,0,20000414,PHX,LAC
-Shot Chart Detail,0029901189,140,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-162,121,1,0,20000419,SEA,LAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900562,198,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,58,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000121,1,LAC,MIN
+Shot Chart Detail,29900562,317,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,1,35,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000121,0,LAC,MIN
+Shot Chart Detail,29900577,121,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,10,41,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,12,1,1,20000123,1,LAC,ORL
+Shot Chart Detail,29900577,125,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,10,7,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,20000123,1,LAC,ORL
+Shot Chart Detail,29900577,305,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,5,56,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000123,0,LAC,ORL
+Shot Chart Detail,29900601,176,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,10,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,186,16,1,0,20000127,0,DAL,LAC
+Shot Chart Detail,29900601,292,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,20,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,239,-1,1,0,20000127,0,DAL,LAC
+Shot Chart Detail,29900601,311,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,2,21,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,46,38,1,0,20000127,0,DAL,LAC
+Shot Chart Detail,29900601,340,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,11,19,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000127,1,DAL,LAC
+Shot Chart Detail,29900806,510,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,196,1,0,20000228,0,LAC,HOU
+Shot Chart Detail,29900844,263,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,55,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-96,96,1,1,20000304,1,LAC,CLE
+Shot Chart Detail,29900844,272,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,30,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,124,1,1,20000304,1,LAC,CLE
+Shot Chart Detail,29900856,161,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,8,24,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,224,1,0,20000306,0,LAC,LAL
+Shot Chart Detail,29900856,175,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,3,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,147,231,1,1,20000306,1,LAC,LAL
+Shot Chart Detail,29900856,197,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,5,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-18,33,1,0,20000306,0,LAC,LAL
+Shot Chart Detail,29900856,198,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,5,27,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000306,0,LAC,LAL
+Shot Chart Detail,29900856,346,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,3,43,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,59,141,1,1,20000306,1,LAC,LAL
+Shot Chart Detail,29900856,375,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,0,54,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-141,-3,1,1,20000306,1,LAC,LAL
+Shot Chart Detail,29900856,409,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,10,12,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,111,192,1,1,20000306,1,LAC,LAL
+Shot Chart Detail,29900856,443,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,49,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-31,280,1,0,20000306,0,LAC,LAL
+Shot Chart Detail,29900856,446,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,35,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-184,68,1,1,20000306,0,LAC,LAL
+Shot Chart Detail,29900872,196,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,32,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,119,1,1,20000308,1,LAC,TOR
+Shot Chart Detail,29900887,26,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,9,4,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-40,57,1,0,20000310,0,LAC,CHH
+Shot Chart Detail,29900887,92,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,2,27,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,147,169,1,1,20000310,1,LAC,CHH
+Shot Chart Detail,29900887,123,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,17,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,1,LAC,CHH
+Shot Chart Detail,29900887,237,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,10,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,1,LAC,CHH
+Shot Chart Detail,29900887,297,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,5,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-126,5,1,0,20000310,0,LAC,CHH
+Shot Chart Detail,29900887,308,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,16,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000310,0,LAC,CHH
+Shot Chart Detail,29900902,367,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,10,22,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-145,5,1,1,20000312,1,GSW,LAC
+Shot Chart Detail,29900902,380,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,8,32,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,59,181,1,1,20000312,1,GSW,LAC
+Shot Chart Detail,29900902,406,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,5,39,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-203,-10,1,1,20000312,1,GSW,LAC
+Shot Chart Detail,29900916,114,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,11,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-40,214,1,0,20000314,0,LAC,DEN
+Shot Chart Detail,29900916,129,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,9,24,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,-3,1,0,20000314,0,LAC,DEN
+Shot Chart Detail,29900922,86,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,4,39,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,16,162,1,1,20000315,1,SAC,LAC
+Shot Chart Detail,29900922,130,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,38,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,25,190,1,1,20000315,1,SAC,LAC
+Shot Chart Detail,29900937,368,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,0,29,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,1,203,1,0,20000317,0,DEN,LAC
+Shot Chart Detail,29900937,411,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,8,12,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-3,179,1,0,20000317,0,DEN,LAC
+Shot Chart Detail,29900937,482,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,2,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,186,169,1,0,20000317,0,DEN,LAC
+Shot Chart Detail,29900945,139,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,8,58,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000318,1,LAC,SAC
+Shot Chart Detail,29900945,463,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,1,8,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-177,5,1,1,20000318,1,LAC,SAC
+Shot Chart Detail,29900945,467,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,42,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,61,1,0,20000318,0,LAC,SAC
+Shot Chart Detail,29900960,293,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,4,29,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,10,259,1,1,20000320,1,LAC,WAS
+Shot Chart Detail,29900975,155,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,6,56,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,23,162,1,0,20000322,0,SAS,LAC
+Shot Chart Detail,29900975,314,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,2,33,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,156,1,1,0,20000322,0,SAS,LAC
+Shot Chart Detail,29900975,389,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,6,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,179,1,0,20000322,0,SAS,LAC
+Shot Chart Detail,29900997,119,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,11,6,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,147,134,1,0,20000325,0,LAC,DET
+Shot Chart Detail,29900997,181,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,54,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000325,1,LAC,DET
+Shot Chart Detail,29901017,175,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,184,68,1,0,20000328,0,LAC,DAL
+Shot Chart Detail,29901017,219,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,9,45,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,0,LAC,DAL
+Shot Chart Detail,29901031,101,432,Pete Chilcutt,1610612746,Los Angeles Clippers,1,0,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-96,113,1,0,20000330,0,LAC,MIL
+Shot Chart Detail,29901031,160,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,5,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,175,23,1,1,20000330,1,LAC,MIL
+Shot Chart Detail,29901031,167,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,6,21,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,224,1,0,20000330,0,LAC,MIL
+Shot Chart Detail,29901031,263,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,9,1,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-89,169,1,0,20000330,0,LAC,MIL
+Shot Chart Detail,29901095,205,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,4,30,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-61,244,1,1,20000408,1,DAL,LAC
+Shot Chart Detail,29901095,241,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,1,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000408,0,DAL,LAC
+Shot Chart Detail,29901118,473,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,0,4,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-38,261,1,0,20000411,0,LAC,PHX
+Shot Chart Detail,29901128,190,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,2,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-149,199,1,0,20000412,0,UTA,LAC
+Shot Chart Detail,29901128,216,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-177,177,1,0,20000412,0,UTA,LAC
+Shot Chart Detail,29901128,373,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,9,52,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-235,59,1,1,20000412,1,UTA,LAC
+Shot Chart Detail,29901143,361,432,Pete Chilcutt,1610612746,Los Angeles Clippers,3,1,8,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,207,1,1,20000414,1,PHX,LAC
+Shot Chart Detail,29901143,399,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,9,47,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,1,1,0,20000414,0,PHX,LAC
+Shot Chart Detail,29901143,492,432,Pete Chilcutt,1610612746,Los Angeles Clippers,4,1,27,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,113,1,0,20000414,0,PHX,LAC
+Shot Chart Detail,29901189,140,432,Pete Chilcutt,1610612746,Los Angeles Clippers,2,7,17,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-162,121,1,0,20000419,0,SEA,LAC
+Shot Chart Detail,29900011,140,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,21,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,-8,1,0,19991102,0,UTA,LAL
+Shot Chart Detail,29900011,159,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,43,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991102,1,UTA,LAL
+Shot Chart Detail,29900011,167,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,36,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-169,-14,1,0,19991102,0,UTA,LAL
+Shot Chart Detail,29900011,367,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,47,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-119,109,1,1,19991102,1,UTA,LAL
+Shot Chart Detail,29900011,373,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,13,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-12,115,1,0,19991102,0,UTA,LAL
+Shot Chart Detail,29900011,466,432,Pete Chilcutt,1610612762,Utah Jazz,4,0,12,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,1,244,1,0,19991102,0,UTA,LAL
+Shot Chart Detail,29900024,162,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,40,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-126,-38,1,1,19991104,0,UTA,HOU
+Shot Chart Detail,29900024,165,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,8,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991104,1,UTA,HOU
+Shot Chart Detail,29900044,139,432,Pete Chilcutt,1610612762,Utah Jazz,2,8,12,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,31,209,1,0,19991106,0,SEA,UTA
+Shot Chart Detail,29900044,332,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,39,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-3,33,1,1,19991106,0,SEA,UTA
+Shot Chart Detail,29900044,347,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,19,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,59,162,1,0,19991106,0,SEA,UTA
+Shot Chart Detail,29900044,380,432,Pete Chilcutt,1610612762,Utah Jazz,4,6,25,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,1,250,1,0,19991106,0,SEA,UTA
+Shot Chart Detail,29900044,421,432,Pete Chilcutt,1610612762,Utah Jazz,4,2,56,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,74,216,1,1,19991106,1,SEA,UTA
+Shot Chart Detail,29900054,129,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,30,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,132,36,1,1,19991108,1,LAC,UTA
+Shot Chart Detail,29900054,131,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,51,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,111,46,1,1,19991108,1,LAC,UTA
+Shot Chart Detail,29900054,136,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,81,1,0,19991108,0,LAC,UTA
+Shot Chart Detail,29900054,147,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,12,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,18,1,0,19991108,0,LAC,UTA
+Shot Chart Detail,29900054,167,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,13,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,102,109,1,1,19991108,0,LAC,UTA
+Shot Chart Detail,29900054,372,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,29,-31,295,1,0,19991108,0,LAC,UTA
+Shot Chart Detail,29900058,108,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,1,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,12,252,1,0,19991109,0,UTA,POR
+Shot Chart Detail,29900058,328,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,58,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-182,145,1,1,19991109,1,UTA,POR
+Shot Chart Detail,29900080,137,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,15,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,-25,166,1,1,19991112,1,SAC,UTA
+Shot Chart Detail,29900080,168,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,44,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,53,1,1,19991112,0,SAC,UTA
+Shot Chart Detail,29900080,325,432,Pete Chilcutt,1610612762,Utah Jazz,3,3,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,-1,1,0,19991112,0,SAC,UTA
+Shot Chart Detail,29900080,337,432,Pete Chilcutt,1610612762,Utah Jazz,3,2,17,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-184,-1,1,0,19991112,0,SAC,UTA
+Shot Chart Detail,29900080,346,432,Pete Chilcutt,1610612762,Utah Jazz,3,1,38,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-169,89,1,0,19991112,0,SAC,UTA
+Shot Chart Detail,29900080,387,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,45,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-1,1,1,19991112,1,SAC,UTA
+Shot Chart Detail,29900098,142,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,171,100,1,0,19991115,0,UTA,SAS
+Shot Chart Detail,29900098,164,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,28,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-96,196,1,1,19991115,1,UTA,SAS
+Shot Chart Detail,29900098,326,432,Pete Chilcutt,1610612762,Utah Jazz,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-117,252,1,0,19991115,0,UTA,SAS
+Shot Chart Detail,29900116,159,432,Pete Chilcutt,1610612762,Utah Jazz,2,7,42,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,10,141,1,0,19991117,0,UTA,NYK
+Shot Chart Detail,29900116,177,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,53,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991117,0,UTA,NYK
+Shot Chart Detail,29900130,143,432,Pete Chilcutt,1610612762,Utah Jazz,2,8,35,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-139,5,1,1,19991119,1,MIN,UTA
+Shot Chart Detail,29900140,62,432,Pete Chilcutt,1610612762,Utah Jazz,1,5,52,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-14,171,1,0,19991120,0,MIL,UTA
+Shot Chart Detail,29900140,73,432,Pete Chilcutt,1610612762,Utah Jazz,1,4,27,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991120,0,MIL,UTA
+Shot Chart Detail,29900140,89,432,Pete Chilcutt,1610612762,Utah Jazz,1,2,29,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-3,199,1,1,19991120,1,MIL,UTA
+Shot Chart Detail,29900140,107,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,52,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-100,33,1,0,19991120,0,MIL,UTA
+Shot Chart Detail,29900140,354,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,34,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991120,0,MIL,UTA
+Shot Chart Detail,29900152,115,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,36,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-96,130,1,0,19991122,0,UTA,MIN
+Shot Chart Detail,29900152,126,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,20,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,25,203,1,1,19991122,1,UTA,MIN
+Shot Chart Detail,29900168,96,432,Pete Chilcutt,1610612762,Utah Jazz,1,0,2,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,25,1,0,19991124,0,LAL,UTA
+Shot Chart Detail,29900178,137,432,Pete Chilcutt,1610612762,Utah Jazz,2,10,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,14,-8,145,1,0,19991126,0,UTA,TOR
+Shot Chart Detail,29900178,190,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,31,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-111,51,1,1,19991126,1,UTA,TOR
+Shot Chart Detail,29900178,455,432,Pete Chilcutt,1610612762,Utah Jazz,4,1,5,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,216,119,1,0,19991126,0,UTA,TOR
+Shot Chart Detail,29900178,464,432,Pete Chilcutt,1610612762,Utah Jazz,4,0,41,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-66,242,1,0,19991126,0,UTA,TOR
+Shot Chart Detail,29900229,343,432,Pete Chilcutt,1610612762,Utah Jazz,4,11,21,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-8,119,1,1,19991203,1,UTA,IND
+Shot Chart Detail,29900229,364,432,Pete Chilcutt,1610612762,Utah Jazz,4,8,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-212,57,1,0,19991203,0,UTA,IND
+Shot Chart Detail,29900229,376,432,Pete Chilcutt,1610612762,Utah Jazz,4,7,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991203,0,UTA,IND
+Shot Chart Detail,29900240,96,432,Pete Chilcutt,1610612762,Utah Jazz,1,1,55,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991204,0,GSW,UTA
+Shot Chart Detail,29900240,139,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,48,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,85,12,1,0,19991204,0,GSW,UTA
+Shot Chart Detail,29900295,188,432,Pete Chilcutt,1610612762,Utah Jazz,2,6,10,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-83,63,1,0,19991212,0,TOR,UTA
+Shot Chart Detail,29900295,198,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,28,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,25,1,0,19991212,0,TOR,UTA
+Shot Chart Detail,29900295,202,432,Pete Chilcutt,1610612762,Utah Jazz,2,5,20,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991212,0,TOR,UTA
+Shot Chart Detail,29900295,218,432,Pete Chilcutt,1610612762,Utah Jazz,2,3,54,Missed Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,102,18,1,0,19991212,0,TOR,UTA
+Shot Chart Detail,29900295,430,432,Pete Chilcutt,1610612762,Utah Jazz,4,9,37,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,226,104,1,0,19991212,0,TOR,UTA
+Shot Chart Detail,29900298,436,432,Pete Chilcutt,1610612762,Utah Jazz,4,1,6,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,48,3,1,1,19991214,0,WAS,UTA
+Shot Chart Detail,29900326,81,432,Pete Chilcutt,1610612762,Utah Jazz,1,1,34,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-85,121,1,0,19991217,0,IND,UTA
+Shot Chart Detail,29900326,120,432,Pete Chilcutt,1610612762,Utah Jazz,2,9,47,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-224,166,1,0,19991217,0,IND,UTA
+Shot Chart Detail,29900333,98,432,Pete Chilcutt,1610612762,Utah Jazz,2,11,6,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,66,177,1,0,19991218,0,ATL,UTA
+Shot Chart Detail,29900349,403,432,Pete Chilcutt,1610612762,Utah Jazz,4,11,26,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-151,113,1,0,19991220,0,ORL,UTA
+Shot Chart Detail,29900349,411,432,Pete Chilcutt,1610612762,Utah Jazz,4,10,27,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,22,48,218,1,0,19991220,0,ORL,UTA
+Shot Chart Detail,29900446,423,432,Pete Chilcutt,1610612762,Utah Jazz,4,4,7,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-156,78,1,1,20000105,1,UTA,CHH
+Shot Chart Detail,29900664,405,432,Pete Chilcutt,1610612739,Cleveland Cavaliers,4,9,15,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,164,104,1,0,20000205,0,CLE,ATL
+Shot Chart Detail,29900728,467,432,Pete Chilcutt,1610612739,Cleveland Cavaliers,4,2,49,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,162,46,1,0,20000218,0,PHI,CLE

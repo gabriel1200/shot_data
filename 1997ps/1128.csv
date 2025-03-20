@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049600048,456,1128,Stephen Howard,1610612762,Utah Jazz,4,7,23,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,65,1,1,19970508,LAL,UTA
-Shot Chart Detail,0049600048,473,1128,Stephen Howard,1610612762,Utah Jazz,4,5,57,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970508,LAL,UTA
-Shot Chart Detail,0049600048,522,1128,Stephen Howard,1610612762,Utah Jazz,4,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970508,LAL,UTA
-Shot Chart Detail,0049600048,524,1128,Stephen Howard,1610612762,Utah Jazz,4,0,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970508,LAL,UTA
-Shot Chart Detail,0049600069,471,1128,Stephen Howard,1610612762,Utah Jazz,4,0,18,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970519,UTA,HOU
-Shot Chart Detail,0049600071,237,1128,Stephen Howard,1610612762,Utah Jazz,2,0,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970521,UTA,HOU
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49600048,456,1128,Stephen Howard,1610612762,Utah Jazz,4,7,23,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,3,65,1,1,19970508,1,LAL,UTA
+Shot Chart Detail,49600048,473,1128,Stephen Howard,1610612762,Utah Jazz,4,5,57,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970508,1,LAL,UTA
+Shot Chart Detail,49600048,522,1128,Stephen Howard,1610612762,Utah Jazz,4,0,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970508,0,LAL,UTA
+Shot Chart Detail,49600048,524,1128,Stephen Howard,1610612762,Utah Jazz,4,0,53,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970508,1,LAL,UTA
+Shot Chart Detail,49600069,471,1128,Stephen Howard,1610612762,Utah Jazz,4,0,18,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970519,0,UTA,HOU
+Shot Chart Detail,49600071,237,1128,Stephen Howard,1610612762,Utah Jazz,2,0,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970521,0,UTA,HOU

@@ -1,19 +1,19 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029800120,442,1526,James Cotton,1610612760,Seattle SuperSonics,4,2,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990220,UTA,SEA
-Shot Chart Detail,0029800120,443,1526,James Cotton,1610612760,Seattle SuperSonics,4,2,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990220,UTA,SEA
-Shot Chart Detail,0029800120,466,1526,James Cotton,1610612760,Seattle SuperSonics,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,96,216,1,0,19990220,UTA,SEA
-Shot Chart Detail,0029800152,531,1526,James Cotton,1610612760,Seattle SuperSonics,4,0,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,12,1,0,19990224,SAS,SEA
-Shot Chart Detail,0029800152,533,1526,James Cotton,1610612760,Seattle SuperSonics,4,0,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,0,19990224,SAS,SEA
-Shot Chart Detail,0029800611,457,1526,James Cotton,1610612760,Seattle SuperSonics,4,9,12,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,46,1,1,19990421,SEA,MIN
-Shot Chart Detail,0029800611,481,1526,James Cotton,1610612760,Seattle SuperSonics,4,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,143,1,0,19990421,SEA,MIN
-Shot Chart Detail,0029800611,503,1526,James Cotton,1610612760,Seattle SuperSonics,4,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,188,1,0,19990421,SEA,MIN
-Shot Chart Detail,0029800611,527,1526,James Cotton,1610612760,Seattle SuperSonics,4,2,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,0,19990421,SEA,MIN
-Shot Chart Detail,0029800664,226,1526,James Cotton,1610612760,Seattle SuperSonics,3,9,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,27,1,0,19990428,POR,SEA
-Shot Chart Detail,0029800664,244,1526,James Cotton,1610612760,Seattle SuperSonics,3,8,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990428,POR,SEA
-Shot Chart Detail,0029800664,247,1526,James Cotton,1610612760,Seattle SuperSonics,3,7,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-106,-3,1,0,19990428,POR,SEA
-Shot Chart Detail,0029800664,274,1526,James Cotton,1610612760,Seattle SuperSonics,3,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,1,19990428,POR,SEA
-Shot Chart Detail,0029800664,289,1526,James Cotton,1610612760,Seattle SuperSonics,3,3,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,55,1,0,19990428,POR,SEA
-Shot Chart Detail,0029800664,361,1526,James Cotton,1610612760,Seattle SuperSonics,4,10,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990428,POR,SEA
-Shot Chart Detail,0029800664,386,1526,James Cotton,1610612760,Seattle SuperSonics,4,8,18,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990428,POR,SEA
-Shot Chart Detail,0029800664,398,1526,James Cotton,1610612760,Seattle SuperSonics,4,7,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,100,1,0,19990428,POR,SEA
-Shot Chart Detail,0029800664,409,1526,James Cotton,1610612760,Seattle SuperSonics,4,6,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,57,205,1,1,19990428,POR,SEA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29800120,442,1526,James Cotton,1610612760,Seattle SuperSonics,4,2,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990220,0,UTA,SEA
+Shot Chart Detail,29800120,443,1526,James Cotton,1610612760,Seattle SuperSonics,4,2,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990220,0,UTA,SEA
+Shot Chart Detail,29800120,466,1526,James Cotton,1610612760,Seattle SuperSonics,4,0,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,23,96,216,1,0,19990220,0,UTA,SEA
+Shot Chart Detail,29800152,531,1526,James Cotton,1610612760,Seattle SuperSonics,4,0,25,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-46,12,1,0,19990224,0,SAS,SEA
+Shot Chart Detail,29800152,533,1526,James Cotton,1610612760,Seattle SuperSonics,4,0,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,0,19990224,0,SAS,SEA
+Shot Chart Detail,29800611,457,1526,James Cotton,1610612760,Seattle SuperSonics,4,9,12,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-8,46,1,1,19990421,0,SEA,MIN
+Shot Chart Detail,29800611,481,1526,James Cotton,1610612760,Seattle SuperSonics,4,7,11,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,143,1,0,19990421,0,SEA,MIN
+Shot Chart Detail,29800611,503,1526,James Cotton,1610612760,Seattle SuperSonics,4,4,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,188,1,0,19990421,0,SEA,MIN
+Shot Chart Detail,29800611,527,1526,James Cotton,1610612760,Seattle SuperSonics,4,2,25,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-8,5,1,0,19990421,0,SEA,MIN
+Shot Chart Detail,29800664,226,1526,James Cotton,1610612760,Seattle SuperSonics,3,9,39,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-106,27,1,0,19990428,0,POR,SEA
+Shot Chart Detail,29800664,244,1526,James Cotton,1610612760,Seattle SuperSonics,3,8,3,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990428,0,POR,SEA
+Shot Chart Detail,29800664,247,1526,James Cotton,1610612760,Seattle SuperSonics,3,7,30,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-106,-3,1,0,19990428,0,POR,SEA
+Shot Chart Detail,29800664,274,1526,James Cotton,1610612760,Seattle SuperSonics,3,4,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-164,104,1,1,19990428,1,POR,SEA
+Shot Chart Detail,29800664,289,1526,James Cotton,1610612760,Seattle SuperSonics,3,3,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,55,1,0,19990428,0,POR,SEA
+Shot Chart Detail,29800664,361,1526,James Cotton,1610612760,Seattle SuperSonics,4,10,38,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990428,1,POR,SEA
+Shot Chart Detail,29800664,386,1526,James Cotton,1610612760,Seattle SuperSonics,4,8,18,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990428,0,POR,SEA
+Shot Chart Detail,29800664,398,1526,James Cotton,1610612760,Seattle SuperSonics,4,7,35,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,100,1,0,19990428,0,POR,SEA
+Shot Chart Detail,29800664,409,1526,James Cotton,1610612760,Seattle SuperSonics,4,6,29,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,57,205,1,1,19990428,0,POR,SEA

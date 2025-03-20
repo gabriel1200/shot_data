@@ -1,17 +1,17 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900074,316,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,2,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,16,1,0,19991112,PHI,CHI
-Shot Chart Detail,0029900074,376,914,Stanley Roberts,1610612755,Philadelphia 76ers,4,9,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991112,PHI,CHI
-Shot Chart Detail,0029900092,401,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,1,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,8,1,0,19991114,TOR,PHI
-Shot Chart Detail,0029900092,419,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,41,192,366,1,0,19991114,TOR,PHI
-Shot Chart Detail,0029900100,166,914,Stanley Roberts,1610612755,Philadelphia 76ers,2,10,17,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,16,1,0,19991116,WAS,PHI
-Shot Chart Detail,0029900100,382,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,2,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,21,1,0,19991116,WAS,PHI
-Shot Chart Detail,0029900100,391,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,1,21,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,-16,1,1,19991116,WAS,PHI
-Shot Chart Detail,0029900111,87,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,2,7,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,1,19991117,PHI,MIA
-Shot Chart Detail,0029900111,116,914,Stanley Roberts,1610612755,Philadelphia 76ers,2,10,53,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,18,1,0,19991117,PHI,MIA
-Shot Chart Detail,0029900111,118,914,Stanley Roberts,1610612755,Philadelphia 76ers,2,10,39,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,0,19991117,PHI,MIA
-Shot Chart Detail,0029900125,3,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,11,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991119,PHI,POR
-Shot Chart Detail,0029900125,37,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,7,0,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,0,19991119,PHI,POR
-Shot Chart Detail,0029900125,42,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,6,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,-14,1,0,19991119,PHI,POR
-Shot Chart Detail,0029900125,246,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,11,48,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,36,1,0,19991119,PHI,POR
-Shot Chart Detail,0029900125,247,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,11,45,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,29,1,0,19991119,PHI,POR
-Shot Chart Detail,0029900125,257,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,10,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,25,1,1,19991119,PHI,POR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900074,316,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,2,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-27,16,1,0,19991112,0,PHI,CHI
+Shot Chart Detail,29900074,376,914,Stanley Roberts,1610612755,Philadelphia 76ers,4,9,23,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991112,1,PHI,CHI
+Shot Chart Detail,29900092,401,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,1,47,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,8,1,0,19991114,0,TOR,PHI
+Shot Chart Detail,29900092,419,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,0,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,41,192,366,1,0,19991114,0,TOR,PHI
+Shot Chart Detail,29900100,166,914,Stanley Roberts,1610612755,Philadelphia 76ers,2,10,17,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,16,1,0,19991116,0,WAS,PHI
+Shot Chart Detail,29900100,382,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,2,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,21,1,0,19991116,0,WAS,PHI
+Shot Chart Detail,29900100,391,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,1,21,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,-16,1,1,19991116,1,WAS,PHI
+Shot Chart Detail,29900111,87,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,2,7,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,1,19991117,0,PHI,MIA
+Shot Chart Detail,29900111,116,914,Stanley Roberts,1610612755,Philadelphia 76ers,2,10,53,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-59,18,1,0,19991117,0,PHI,MIA
+Shot Chart Detail,29900111,118,914,Stanley Roberts,1610612755,Philadelphia 76ers,2,10,39,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,0,19991117,0,PHI,MIA
+Shot Chart Detail,29900125,3,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,11,28,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991119,1,PHI,POR
+Shot Chart Detail,29900125,37,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,7,0,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,29,1,0,19991119,0,PHI,POR
+Shot Chart Detail,29900125,42,914,Stanley Roberts,1610612755,Philadelphia 76ers,1,6,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,-14,1,0,19991119,0,PHI,POR
+Shot Chart Detail,29900125,246,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,11,48,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,36,1,0,19991119,0,PHI,POR
+Shot Chart Detail,29900125,247,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,11,45,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,29,1,0,19991119,0,PHI,POR
+Shot Chart Detail,29900125,257,914,Stanley Roberts,1610612755,Philadelphia 76ers,3,10,31,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,25,1,1,19991119,1,PHI,POR

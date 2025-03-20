@@ -1,18 +1,18 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900005,129,1723,Matt Harpring,1610612753,Orlando Magic,2,9,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,160,1,1,0,19991102,CHH,ORL
-Shot Chart Detail,0029900005,368,1723,Matt Harpring,1610612753,Orlando Magic,3,2,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-102,-8,1,0,19991102,CHH,ORL
-Shot Chart Detail,0029900005,373,1723,Matt Harpring,1610612753,Orlando Magic,3,1,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991102,CHH,ORL
-Shot Chart Detail,0029900005,379,1723,Matt Harpring,1610612753,Orlando Magic,3,1,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,-8,1,0,19991102,CHH,ORL
-Shot Chart Detail,0029900029,208,1723,Matt Harpring,1610612753,Orlando Magic,2,3,9,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,ORL,CLE
-Shot Chart Detail,0029900029,215,1723,Matt Harpring,1610612753,Orlando Magic,2,2,23,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,ORL,CLE
-Shot Chart Detail,0029900029,233,1723,Matt Harpring,1610612753,Orlando Magic,2,1,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,ORL,CLE
-Shot Chart Detail,0029900029,243,1723,Matt Harpring,1610612753,Orlando Magic,2,0,44,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,ORL,CLE
-Shot Chart Detail,0029900036,197,1723,Matt Harpring,1610612753,Orlando Magic,2,5,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,171,91,1,0,19991106,WAS,ORL
-Shot Chart Detail,0029900036,418,1723,Matt Harpring,1610612753,Orlando Magic,4,10,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,16,1,0,19991106,WAS,ORL
-Shot Chart Detail,0029900036,454,1723,Matt Harpring,1610612753,Orlando Magic,4,7,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,19991106,WAS,ORL
-Shot Chart Detail,0029900036,495,1723,Matt Harpring,1610612753,Orlando Magic,4,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-5,1,1,19991106,WAS,ORL
-Shot Chart Detail,0029900036,511,1723,Matt Harpring,1610612753,Orlando Magic,4,1,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-23,1,1,19991106,WAS,ORL
-Shot Chart Detail,0029900036,521,1723,Matt Harpring,1610612753,Orlando Magic,4,0,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,224,1,1,19991106,WAS,ORL
-Shot Chart Detail,0029900052,122,1723,Matt Harpring,1610612753,Orlando Magic,1,2,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,42,1,0,19991108,HOU,ORL
-Shot Chart Detail,0029900052,189,1723,Matt Harpring,1610612753,Orlando Magic,2,8,6,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,48,1,0,19991108,HOU,ORL
-Shot Chart Detail,0029900052,443,1723,Matt Harpring,1610612753,Orlando Magic,3,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,18,1,0,19991108,HOU,ORL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900005,129,1723,Matt Harpring,1610612753,Orlando Magic,2,9,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,160,1,1,0,19991102,0,CHH,ORL
+Shot Chart Detail,29900005,368,1723,Matt Harpring,1610612753,Orlando Magic,3,2,16,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-102,-8,1,0,19991102,0,CHH,ORL
+Shot Chart Detail,29900005,373,1723,Matt Harpring,1610612753,Orlando Magic,3,1,52,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991102,0,CHH,ORL
+Shot Chart Detail,29900005,379,1723,Matt Harpring,1610612753,Orlando Magic,3,1,43,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-124,-8,1,0,19991102,0,CHH,ORL
+Shot Chart Detail,29900029,208,1723,Matt Harpring,1610612753,Orlando Magic,2,3,9,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,0,ORL,CLE
+Shot Chart Detail,29900029,215,1723,Matt Harpring,1610612753,Orlando Magic,2,2,23,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,0,ORL,CLE
+Shot Chart Detail,29900029,233,1723,Matt Harpring,1610612753,Orlando Magic,2,1,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,0,ORL,CLE
+Shot Chart Detail,29900029,243,1723,Matt Harpring,1610612753,Orlando Magic,2,0,44,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991105,0,ORL,CLE
+Shot Chart Detail,29900036,197,1723,Matt Harpring,1610612753,Orlando Magic,2,5,39,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,171,91,1,0,19991106,0,WAS,ORL
+Shot Chart Detail,29900036,418,1723,Matt Harpring,1610612753,Orlando Magic,4,10,36,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,128,16,1,0,19991106,0,WAS,ORL
+Shot Chart Detail,29900036,454,1723,Matt Harpring,1610612753,Orlando Magic,4,7,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,19991106,1,WAS,ORL
+Shot Chart Detail,29900036,495,1723,Matt Harpring,1610612753,Orlando Magic,4,3,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,12,-5,1,1,19991106,1,WAS,ORL
+Shot Chart Detail,29900036,511,1723,Matt Harpring,1610612753,Orlando Magic,4,1,44,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-23,1,1,19991106,1,WAS,ORL
+Shot Chart Detail,29900036,521,1723,Matt Harpring,1610612753,Orlando Magic,4,0,54,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,224,1,1,19991106,1,WAS,ORL
+Shot Chart Detail,29900052,122,1723,Matt Harpring,1610612753,Orlando Magic,1,2,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,42,1,0,19991108,0,HOU,ORL
+Shot Chart Detail,29900052,189,1723,Matt Harpring,1610612753,Orlando Magic,2,8,6,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-38,48,1,0,19991108,0,HOU,ORL
+Shot Chart Detail,29900052,443,1723,Matt Harpring,1610612753,Orlando Magic,3,0,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-160,18,1,0,19991108,0,HOU,ORL

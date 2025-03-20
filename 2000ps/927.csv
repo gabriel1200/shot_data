@@ -1,14 +1,14 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049900016,460,927,John Salley,1610612747,Los Angeles Lakers,4,1,54,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,72,1,0,20000427,LAL,SAC
-Shot Chart Detail,0049900024,84,927,John Salley,1610612747,Los Angeles Lakers,1,3,29,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000430,SAC,LAL
-Shot Chart Detail,0049900039,437,927,John Salley,1610612747,Los Angeles Lakers,4,6,56,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,66,1,0,20000505,LAL,SAC
-Shot Chart Detail,0049900039,465,927,John Salley,1610612747,Los Angeles Lakers,4,3,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000505,LAL,SAC
-Shot Chart Detail,0049900055,492,927,John Salley,1610612747,Los Angeles Lakers,4,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-192,55,1,1,20000507,LAL,PHX
-Shot Chart Detail,0049900058,508,927,John Salley,1610612747,Los Angeles Lakers,4,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000514,PHX,LAL
-Shot Chart Detail,0049900059,396,927,John Salley,1610612747,Los Angeles Lakers,4,11,34,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000516,LAL,PHX
-Shot Chart Detail,0049900059,478,927,John Salley,1610612747,Los Angeles Lakers,4,4,4,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-113,128,1,1,20000516,LAL,PHX
-Shot Chart Detail,0049900059,502,927,John Salley,1610612747,Los Angeles Lakers,4,1,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,132,1,0,20000516,LAL,PHX
-Shot Chart Detail,0049900072,464,927,John Salley,1610612747,Los Angeles Lakers,4,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,3,1,0,20000528,POR,LAL
-Shot Chart Detail,0049900084,455,927,John Salley,1610612747,Los Angeles Lakers,4,5,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-79,76,1,0,20000609,LAL,IND
-Shot Chart Detail,0049900087,431,927,John Salley,1610612747,Los Angeles Lakers,4,3,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20000616,IND,LAL
-Shot Chart Detail,0049900087,450,927,John Salley,1610612747,Los Angeles Lakers,4,2,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20000616,IND,LAL
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49900016,460,927,John Salley,1610612747,Los Angeles Lakers,4,1,54,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,70,72,1,0,20000427,0,LAL,SAC
+Shot Chart Detail,49900024,84,927,John Salley,1610612747,Los Angeles Lakers,1,3,29,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000430,1,SAC,LAL
+Shot Chart Detail,49900039,437,927,John Salley,1610612747,Los Angeles Lakers,4,6,56,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,66,1,0,20000505,0,LAL,SAC
+Shot Chart Detail,49900039,465,927,John Salley,1610612747,Los Angeles Lakers,4,3,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000505,0,LAL,SAC
+Shot Chart Detail,49900055,492,927,John Salley,1610612747,Los Angeles Lakers,4,1,26,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-192,55,1,1,20000507,1,LAL,PHX
+Shot Chart Detail,49900058,508,927,John Salley,1610612747,Los Angeles Lakers,4,0,59,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000514,0,PHX,LAL
+Shot Chart Detail,49900059,396,927,John Salley,1610612747,Los Angeles Lakers,4,11,34,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000516,0,LAL,PHX
+Shot Chart Detail,49900059,478,927,John Salley,1610612747,Los Angeles Lakers,4,4,4,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-113,128,1,1,20000516,1,LAL,PHX
+Shot Chart Detail,49900059,502,927,John Salley,1610612747,Los Angeles Lakers,4,1,33,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,132,1,0,20000516,0,LAL,PHX
+Shot Chart Detail,49900072,464,927,John Salley,1610612747,Los Angeles Lakers,4,1,18,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-177,3,1,0,20000528,0,POR,LAL
+Shot Chart Detail,49900084,455,927,John Salley,1610612747,Los Angeles Lakers,4,5,57,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-79,76,1,0,20000609,0,LAL,IND
+Shot Chart Detail,49900087,431,927,John Salley,1610612747,Los Angeles Lakers,4,3,40,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,1,1,1,20000616,1,IND,LAL
+Shot Chart Detail,49900087,450,927,John Salley,1610612747,Los Angeles Lakers,4,2,18,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-1,1,1,1,20000616,0,IND,LAL

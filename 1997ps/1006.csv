@@ -1,6 +1,6 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049600064,48,1006,Herb Williams,1610612752,New York Knicks,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-16,1,0,19970516,NYK,MIA
-Shot Chart Detail,0049600064,51,1006,Herb Williams,1610612752,New York Knicks,1,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970516,NYK,MIA
-Shot Chart Detail,0049600064,71,1006,Herb Williams,1610612752,New York Knicks,1,4,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,-3,1,1,19970516,NYK,MIA
-Shot Chart Detail,0049600064,282,1006,Herb Williams,1610612752,New York Knicks,3,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,4,1,1,19970516,NYK,MIA
-Shot Chart Detail,0049600064,330,1006,Herb Williams,1610612752,New York Knicks,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,36,1,0,19970516,NYK,MIA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49600064,48,1006,Herb Williams,1610612752,New York Knicks,1,8,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-16,1,0,19970516,0,NYK,MIA
+Shot Chart Detail,49600064,51,1006,Herb Williams,1610612752,New York Knicks,1,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19970516,0,NYK,MIA
+Shot Chart Detail,49600064,71,1006,Herb Williams,1610612752,New York Knicks,1,4,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,-3,1,1,19970516,0,NYK,MIA
+Shot Chart Detail,49600064,282,1006,Herb Williams,1610612752,New York Knicks,3,3,56,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,4,1,1,19970516,1,NYK,MIA
+Shot Chart Detail,49600064,330,1006,Herb Williams,1610612752,New York Knicks,4,9,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,36,1,0,19970516,0,NYK,MIA

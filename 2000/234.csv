@@ -1,13 +1,13 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900407,258,234,Khalid Reeves,1610612741,Chicago Bulls,3,9,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991229,CHI,DET
-Shot Chart Detail,0029900407,288,234,Khalid Reeves,1610612741,Chicago Bulls,3,6,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,194,1,0,19991229,CHI,DET
-Shot Chart Detail,0029900407,306,234,Khalid Reeves,1610612741,Chicago Bulls,3,5,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991229,CHI,DET
-Shot Chart Detail,0029900417,111,234,Khalid Reeves,1610612741,Chicago Bulls,2,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,115,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900417,215,234,Khalid Reeves,1610612741,Chicago Bulls,2,0,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-175,-3,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900417,282,234,Khalid Reeves,1610612741,Chicago Bulls,3,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,194,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900417,301,234,Khalid Reeves,1610612741,Chicago Bulls,3,3,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900417,313,234,Khalid Reeves,1610612741,Chicago Bulls,3,1,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900417,356,234,Khalid Reeves,1610612741,Chicago Bulls,4,9,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,194,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900417,420,234,Khalid Reeves,1610612741,Chicago Bulls,4,1,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,171,1,0,19991230,MIN,CHI
-Shot Chart Detail,0029900428,416,234,Khalid Reeves,1610612741,Chicago Bulls,4,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000103,CHI,POR
-Shot Chart Detail,0029900428,448,234,Khalid Reeves,1610612741,Chicago Bulls,4,2,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000103,CHI,POR
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900407,258,234,Khalid Reeves,1610612741,Chicago Bulls,3,9,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991229,1,CHI,DET
+Shot Chart Detail,29900407,288,234,Khalid Reeves,1610612741,Chicago Bulls,3,6,24,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,194,1,0,19991229,0,CHI,DET
+Shot Chart Detail,29900407,306,234,Khalid Reeves,1610612741,Chicago Bulls,3,5,35,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991229,0,CHI,DET
+Shot Chart Detail,29900417,111,234,Khalid Reeves,1610612741,Chicago Bulls,2,10,34,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,136,115,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900417,215,234,Khalid Reeves,1610612741,Chicago Bulls,2,0,46,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-175,-3,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900417,282,234,Khalid Reeves,1610612741,Chicago Bulls,3,5,29,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,194,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900417,301,234,Khalid Reeves,1610612741,Chicago Bulls,3,3,3,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900417,313,234,Khalid Reeves,1610612741,Chicago Bulls,3,1,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900417,356,234,Khalid Reeves,1610612741,Chicago Bulls,4,9,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,194,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900417,420,234,Khalid Reeves,1610612741,Chicago Bulls,4,1,43,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,78,171,1,0,19991230,0,MIN,CHI
+Shot Chart Detail,29900428,416,234,Khalid Reeves,1610612741,Chicago Bulls,4,5,18,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000103,0,CHI,POR
+Shot Chart Detail,29900428,448,234,Khalid Reeves,1610612741,Chicago Bulls,4,2,53,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000103,0,CHI,POR

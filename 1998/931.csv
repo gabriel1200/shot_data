@@ -1,11 +1,11 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029700758,100,931,Don MacLean,1610612751,New Jersey Nets,1,0,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,141,21,1,0,19980220,NJN,CLE
-Shot Chart Detail,0029700758,118,931,Don MacLean,1610612751,New Jersey Nets,2,10,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,27,1,1,19980220,NJN,CLE
-Shot Chart Detail,0029700758,324,931,Don MacLean,1610612751,New Jersey Nets,3,2,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,5,1,0,19980220,NJN,CLE
-Shot Chart Detail,0029700758,348,931,Don MacLean,1610612751,New Jersey Nets,3,1,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,145,14,1,0,19980220,NJN,CLE
-Shot Chart Detail,0029700768,144,931,Don MacLean,1610612751,New Jersey Nets,1,0,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,1,1,0,19980221,NJN,PHI
-Shot Chart Detail,0029700803,118,931,Don MacLean,1610612751,New Jersey Nets,2,11,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,181,61,1,0,19980226,NJN,SAC
-Shot Chart Detail,0029700803,131,931,Don MacLean,1610612751,New Jersey Nets,2,10,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,23,-145,184,1,0,19980226,NJN,SAC
-Shot Chart Detail,0029700900,134,931,Don MacLean,1610612751,New Jersey Nets,2,10,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,61,1,0,19980312,HOU,NJN
-Shot Chart Detail,0029700900,376,931,Don MacLean,1610612751,New Jersey Nets,3,0,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-53,186,1,0,19980312,HOU,NJN
-Shot Chart Detail,0029701181,242,931,Don MacLean,1610612751,New Jersey Nets,2,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,29,1,0,19980419,NJN,DET
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29700758,100,931,Don MacLean,1610612751,New Jersey Nets,1,0,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,141,21,1,0,19980220,0,NJN,CLE
+Shot Chart Detail,29700758,118,931,Don MacLean,1610612751,New Jersey Nets,2,10,52,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,27,1,1,19980220,1,NJN,CLE
+Shot Chart Detail,29700758,324,931,Don MacLean,1610612751,New Jersey Nets,3,2,34,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,104,5,1,0,19980220,0,NJN,CLE
+Shot Chart Detail,29700758,348,931,Don MacLean,1610612751,New Jersey Nets,3,1,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,145,14,1,0,19980220,0,NJN,CLE
+Shot Chart Detail,29700768,144,931,Don MacLean,1610612751,New Jersey Nets,1,0,9,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,222,1,1,0,19980221,0,NJN,PHI
+Shot Chart Detail,29700803,118,931,Don MacLean,1610612751,New Jersey Nets,2,11,35,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,181,61,1,0,19980226,0,NJN,SAC
+Shot Chart Detail,29700803,131,931,Don MacLean,1610612751,New Jersey Nets,2,10,7,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,23,-145,184,1,0,19980226,0,NJN,SAC
+Shot Chart Detail,29700900,134,931,Don MacLean,1610612751,New Jersey Nets,2,10,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-162,61,1,0,19980312,0,HOU,NJN
+Shot Chart Detail,29700900,376,931,Don MacLean,1610612751,New Jersey Nets,3,0,39,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-53,186,1,0,19980312,0,HOU,NJN
+Shot Chart Detail,29701181,242,931,Don MacLean,1610612751,New Jersey Nets,2,1,41,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,29,1,0,19980419,0,NJN,DET

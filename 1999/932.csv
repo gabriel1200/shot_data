@@ -1,12 +1,12 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029800007,101,932,Oliver Miller,1610612758,Sacramento Kings,1,2,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,29,1,0,19990205,SAS,SAC
-Shot Chart Detail,0029800007,102,932,Oliver Miller,1610612758,Sacramento Kings,1,2,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,0,19990205,SAS,SAC
-Shot Chart Detail,0029800007,383,932,Oliver Miller,1610612758,Sacramento Kings,3,1,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,0,19990205,SAS,SAC
-Shot Chart Detail,0029800007,384,932,Oliver Miller,1610612758,Sacramento Kings,3,1,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,0,19990205,SAS,SAC
-Shot Chart Detail,0029800007,396,932,Oliver Miller,1610612758,Sacramento Kings,3,0,42,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,51,1,1,19990205,SAS,SAC
-Shot Chart Detail,0029800007,398,932,Oliver Miller,1610612758,Sacramento Kings,3,0,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,23,1,0,19990205,SAS,SAC
-Shot Chart Detail,0029800027,96,932,Oliver Miller,1610612758,Sacramento Kings,1,1,26,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,31,1,1,19990207,SAC,VAN
-Shot Chart Detail,0029800027,355,932,Oliver Miller,1610612758,Sacramento Kings,3,1,20,Made Shot,Tip Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,59,1,1,19990207,SAC,VAN
-Shot Chart Detail,0029800027,390,932,Oliver Miller,1610612758,Sacramento Kings,4,9,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990207,SAC,VAN
-Shot Chart Detail,0029800042,428,932,Oliver Miller,1610612758,Sacramento Kings,4,9,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990209,PHX,SAC
-Shot Chart Detail,0029800047,115,932,Oliver Miller,1610612758,Sacramento Kings,2,11,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-87,124,1,1,19990210,HOU,SAC
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29800007,101,932,Oliver Miller,1610612758,Sacramento Kings,1,2,22,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-3,29,1,0,19990205,0,SAS,SAC
+Shot Chart Detail,29800007,102,932,Oliver Miller,1610612758,Sacramento Kings,1,2,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,0,19990205,0,SAS,SAC
+Shot Chart Detail,29800007,383,932,Oliver Miller,1610612758,Sacramento Kings,3,1,43,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,0,19990205,0,SAS,SAC
+Shot Chart Detail,29800007,384,932,Oliver Miller,1610612758,Sacramento Kings,3,1,41,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,32,9,1,0,19990205,0,SAS,SAC
+Shot Chart Detail,29800007,396,932,Oliver Miller,1610612758,Sacramento Kings,3,0,42,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,51,1,1,19990205,0,SAS,SAC
+Shot Chart Detail,29800007,398,932,Oliver Miller,1610612758,Sacramento Kings,3,0,11,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-53,23,1,0,19990205,0,SAS,SAC
+Shot Chart Detail,29800027,96,932,Oliver Miller,1610612758,Sacramento Kings,1,1,26,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,31,1,1,19990207,1,SAC,VAN
+Shot Chart Detail,29800027,355,932,Oliver Miller,1610612758,Sacramento Kings,3,1,20,Made Shot,Tip Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-164,59,1,1,19990207,0,SAC,VAN
+Shot Chart Detail,29800027,390,932,Oliver Miller,1610612758,Sacramento Kings,4,9,54,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19990207,1,SAC,VAN
+Shot Chart Detail,29800042,428,932,Oliver Miller,1610612758,Sacramento Kings,4,9,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19990209,0,PHX,SAC
+Shot Chart Detail,29800047,115,932,Oliver Miller,1610612758,Sacramento Kings,2,11,48,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-87,124,1,1,19990210,0,HOU,SAC

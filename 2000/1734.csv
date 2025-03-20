@@ -1,425 +1,213 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0029900018,216,1734,Sam Jacobson,1610612747,Los Angeles Lakers,2,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,16,1,0,19991103,LAL,VAN
-Shot Chart Detail,0029900018,220,1734,Sam Jacobson,1610612747,Los Angeles Lakers,2,1,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991103,LAL,VAN
-Shot Chart Detail,0029900018,450,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991103,LAL,VAN
-Shot Chart Detail,0029900018,493,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,169,1,1,19991103,LAL,VAN
-Shot Chart Detail,0029900043,450,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,3,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991106,POR,LAL
-Shot Chart Detail,0029900043,478,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,23,1,0,19991106,POR,LAL
-Shot Chart Detail,0029900057,484,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,19991109,DAL,LAL
-Shot Chart Detail,0029900057,497,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,72,1,1,19991109,DAL,LAL
-Shot Chart Detail,0029900057,501,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,1,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,31,1,1,19991109,DAL,LAL
-Shot Chart Detail,0029900488,243,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,134,1,0,20000111,GSW,DAL
-Shot Chart Detail,0029900503,171,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-81,89,1,1,20000113,GSW,HOU
-Shot Chart Detail,0029900503,175,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000113,GSW,HOU
-Shot Chart Detail,0029900503,203,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,5,242,1,1,20000113,GSW,HOU
-Shot Chart Detail,0029900503,383,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,0,20000113,GSW,HOU
-Shot Chart Detail,0029900525,72,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,23,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900525,95,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,33,100,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,113,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-10,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900525,119,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,93,169,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,273,1734,Sam Jacobson,1610612744,Golden State Warriors,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,5,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900525,309,1734,Sam Jacobson,1610612744,Golden State Warriors,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-21,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,325,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,26,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,46,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,338,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,61,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900538,80,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,134,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,104,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,122,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,123,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,41,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,126,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,130,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,166,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,207,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,261,1734,Sam Jacobson,1610612744,Golden State Warriors,3,9,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,23,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,317,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-111,89,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900563,81,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900563,135,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,16,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900563,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900563,206,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,27,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900578,37,1734,Sam Jacobson,1610612744,Golden State Warriors,1,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,158,141,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,45,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,14,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,27,1,1,20000123,GSW,MIN
-Shot Chart Detail,0029900578,229,1734,Sam Jacobson,1610612744,Golden State Warriors,3,9,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,23,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-14,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,467,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,16,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,477,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000123,GSW,MIN
-Shot Chart Detail,0029900590,29,1734,Sam Jacobson,1610612744,Golden State Warriors,1,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,151,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,157,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-40,186,1,0,20000125,DAL,GSW
-Shot Chart Detail,0029900590,160,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,164,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,119,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,345,1734,Sam Jacobson,1610612744,Golden State Warriors,3,5,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,353,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,3,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,385,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000125,DAL,GSW
-Shot Chart Detail,0029900590,459,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-12,171,1,0,20000125,DAL,GSW
-Shot Chart Detail,0029900590,468,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,498,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,119,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900602,49,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900602,69,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,93,201,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900602,275,1734,Sam Jacobson,1610612744,Golden State Warriors,3,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,40,1,0,20000127,HOU,GSW
-Shot Chart Detail,0029900602,359,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900602,504,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,130,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900637,131,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,23,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,135,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-182,106,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,169,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,409,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,414,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,72,1,0,20000201,LAC,GSW
-Shot Chart Detail,0029900637,416,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900645,107,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,41,158,381,1,0,20000202,GSW,VAN
-Shot Chart Detail,0029900670,141,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,63,1,0,20000206,NJN,GSW
-Shot Chart Detail,0029900670,488,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,8,1,0,20000206,NJN,GSW
-Shot Chart Detail,0029900670,497,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000206,NJN,GSW
-Shot Chart Detail,0029900677,126,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,51,196,1,0,20000207,ORL,GSW
-Shot Chart Detail,0029900677,423,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000207,ORL,GSW
-Shot Chart Detail,0029900677,427,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,51,242,1,1,20000207,ORL,GSW
-Shot Chart Detail,0029900713,484,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000215,GSW,POR
-Shot Chart Detail,0029900720,47,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000216,POR,GSW
-Shot Chart Detail,0029900720,59,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000216,POR,GSW
-Shot Chart Detail,0029900720,342,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-83,57,1,0,20000216,POR,GSW
-Shot Chart Detail,0029900720,469,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000216,POR,GSW
-Shot Chart Detail,0029900735,140,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,0,20000218,GSW,BOS
-Shot Chart Detail,0029900735,145,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-145,147,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,204,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,72,124,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,228,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,207,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,235,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,18,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,259,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-3,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,494,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,12,1,0,20000218,GSW,BOS
-Shot Chart Detail,0029900735,545,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900748,154,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-57,130,1,0,20000220,GSW,WAS
-Shot Chart Detail,0029900748,383,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-173,136,1,1,20000220,GSW,WAS
-Shot Chart Detail,0029900748,529,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000220,GSW,WAS
-Shot Chart Detail,0029900762,103,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,34,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-3,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900762,235,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-57,177,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900762,402,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,56,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,33,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900762,452,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-173,66,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900770,29,1734,Sam Jacobson,1610612744,Golden State Warriors,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,81,98,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,53,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-1,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,85,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,-16,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,105,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,224,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,116,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,21,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,262,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,109,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,283,1734,Sam Jacobson,1610612744,Golden State Warriors,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-16,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,304,1734,Sam Jacobson,1610612744,Golden State Warriors,3,8,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,53,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,307,1734,Sam Jacobson,1610612744,Golden State Warriors,3,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-1,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900783,112,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,51,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,399,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,154,1,1,20000225,DET,GSW
-Shot Chart Detail,0029900783,408,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-8,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,418,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000225,DET,GSW
-Shot Chart Detail,0029900783,436,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,5,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,461,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,130,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,479,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,229,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900791,463,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,18,1,0,20000226,IND,GSW
-Shot Chart Detail,0029900834,49,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,188,1,1,20000303,DEN,GSW
-Shot Chart Detail,0029900834,146,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900834,276,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,154,1,1,20000303,DEN,GSW
-Shot Chart Detail,0029900834,344,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,1,1,1,20000303,DEN,GSW
-Shot Chart Detail,0029900834,362,1734,Sam Jacobson,1610612744,Golden State Warriors,3,2,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900834,379,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,5,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900834,390,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,12,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900850,499,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,1,1,1,20000305,GSW,IND
-Shot Chart Detail,0029900865,184,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,154,1,1,20000307,GSW,CHH
-Shot Chart Detail,0029900865,424,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,158,1,1,20000307,GSW,CHH
-Shot Chart Detail,0029900878,175,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,1,1,1,20000309,GSW,LAL
-Shot Chart Detail,0029900878,184,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,31,1,0,20000309,GSW,LAL
-Shot Chart Detail,0029900878,374,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,1,20000309,GSW,LAL
-Shot Chart Detail,0029900878,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,1,1,0,20000309,GSW,LAL
-Shot Chart Detail,0029900878,488,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,59,1,1,20000309,GSW,LAL
-Shot Chart Detail,0029900889,177,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,10,1,0,20000310,SEA,GSW
-Shot Chart Detail,0029900889,375,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000310,SEA,GSW
-Shot Chart Detail,0029900889,496,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20000310,SEA,GSW
-Shot Chart Detail,0029900902,211,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,5,1,0,20000312,GSW,LAC
-Shot Chart Detail,0029900902,229,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,154,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900911,185,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900911,200,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,89,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900911,221,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,25,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900911,244,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,TOR,GSW
-Shot Chart Detail,0029900911,430,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,184,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900918,43,1734,Sam Jacobson,1610612744,Golden State Warriors,1,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,141,1,1,20000315,BOS,GSW
-Shot Chart Detail,0029900918,194,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,0,20000315,BOS,GSW
-Shot Chart Detail,0029900918,522,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,134,1,1,20000315,BOS,GSW
-Shot Chart Detail,0029900918,550,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,70,1,0,20000315,BOS,GSW
-Shot Chart Detail,0029900953,118,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,76,1,0,20000319,GSW,PHX
-Shot Chart Detail,0029900953,482,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-14,1,1,20000319,GSW,PHX
-Shot Chart Detail,0029900969,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,100,1,1,20000321,VAN,GSW
-Shot Chart Detail,0029900969,415,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,93,85,1,0,20000321,VAN,GSW
-Shot Chart Detail,0029900969,418,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,173,1,0,20000321,VAN,GSW
-Shot Chart Detail,0029900969,432,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,203,1,0,20000321,VAN,GSW
-Shot Chart Detail,0029900969,450,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-10,1,1,20000321,VAN,GSW
-Shot Chart Detail,0029900969,485,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,164,113,1,1,20000321,VAN,GSW
-Shot Chart Detail,0029900991,216,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,1,1,0,20000324,GSW,POR
-Shot Chart Detail,0029901005,120,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,96,1,1,20000326,PHX,GSW
-Shot Chart Detail,0029901016,216,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,145,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,227,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,81,1,1,20000328,HOU,GSW
-Shot Chart Detail,0029901016,373,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,384,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,403,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-143,179,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,207,76,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,441,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,473,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,164,93,1,1,20000328,HOU,GSW
-Shot Chart Detail,0029901030,371,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,12,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901030,373,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-134,121,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901030,379,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,1,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,1,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,408,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,33,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,5,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,70,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901030,425,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-104,57,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,452,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,93,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901038,138,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-8,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,189,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-61,209,1,1,20000331,UTA,GSW
-Shot Chart Detail,0029901038,208,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,175,57,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,210,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,85,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,450,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-18,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,466,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,81,194,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901053,113,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-10,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901053,128,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,158,1,1,20000402,GSW,MIL
-Shot Chart Detail,0029901053,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,130,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901053,213,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901053,373,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,5,1,1,20000402,GSW,MIL
-Shot Chart Detail,0029901053,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,201,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901073,220,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901073,425,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,31,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901073,446,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901073,467,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,31,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901088,163,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,48,1,0,20000407,GSW,UTA
-Shot Chart Detail,0029901088,340,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901088,354,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,70,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901088,362,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,66,1,0,20000407,GSW,UTA
-Shot Chart Detail,0029901088,399,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,100,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901088,456,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-182,136,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901134,80,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,83,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,196,83,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,95,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,53,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,116,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,31,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,118,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,184,111,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,191,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,31,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,224,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,237,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,-1,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,239,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,352,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,-1,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,397,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,211,14,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901142,88,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,27,1,1,20000414,DEN,GSW
-Shot Chart Detail,0029901142,129,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,DEN,GSW
-Shot Chart Detail,0029901142,139,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,DEN,GSW
-Shot Chart Detail,0029901164,120,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,51,212,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901164,143,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-203,89,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901164,160,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,72,141,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901164,307,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,171,1,1,20000417,GSW,MIN
-Shot Chart Detail,0029901164,341,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000417,GSW,MIN
-Shot Chart Detail,0029901164,358,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,36,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901187,199,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-158,124,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,222,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,147,1,1,20000419,GSW,PHX
-Shot Chart Detail,0029901187,349,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,154,1,1,20000419,GSW,PHX
-Shot Chart Detail,0029901187,372,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,212,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,382,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,1,20000419,GSW,PHX
-Shot Chart Detail,0029901187,387,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,162,59,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,409,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,207,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,415,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,169,113,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029900018,216,1734,Sam Jacobson,1610612747,Los Angeles Lakers,2,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,16,1,0,19991103,LAL,VAN
-Shot Chart Detail,0029900018,220,1734,Sam Jacobson,1610612747,Los Angeles Lakers,2,1,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991103,LAL,VAN
-Shot Chart Detail,0029900018,450,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991103,LAL,VAN
-Shot Chart Detail,0029900018,493,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,0,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,3,169,1,1,19991103,LAL,VAN
-Shot Chart Detail,0029900043,450,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,3,38,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991106,POR,LAL
-Shot Chart Detail,0029900043,478,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,23,1,0,19991106,POR,LAL
-Shot Chart Detail,0029900057,484,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,3,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,19991109,DAL,LAL
-Shot Chart Detail,0029900057,497,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,2,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-143,72,1,1,19991109,DAL,LAL
-Shot Chart Detail,0029900057,501,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,1,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,31,1,1,19991109,DAL,LAL
-Shot Chart Detail,0029900488,243,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,134,1,0,20000111,GSW,DAL
-Shot Chart Detail,0029900503,171,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-81,89,1,1,20000113,GSW,HOU
-Shot Chart Detail,0029900503,175,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000113,GSW,HOU
-Shot Chart Detail,0029900503,203,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,5,242,1,1,20000113,GSW,HOU
-Shot Chart Detail,0029900503,383,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,0,20000113,GSW,HOU
-Shot Chart Detail,0029900525,72,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,35,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,85,23,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900525,95,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,33,100,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,113,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-10,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900525,119,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,93,169,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,273,1734,Sam Jacobson,1610612744,Golden State Warriors,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,5,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900525,309,1734,Sam Jacobson,1610612744,Golden State Warriors,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-21,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,325,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,26,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,46,1,0,20000115,GSW,SAC
-Shot Chart Detail,0029900525,338,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,37,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,61,1,1,20000115,GSW,SAC
-Shot Chart Detail,0029900538,80,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,134,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,104,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,122,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,123,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,41,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,126,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,130,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000117,GSW,ORL
-Shot Chart Detail,0029900538,166,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,207,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,261,1734,Sam Jacobson,1610612744,Golden State Warriors,3,9,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,23,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900538,317,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-111,89,1,0,20000117,GSW,ORL
-Shot Chart Detail,0029900563,81,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900563,135,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,9,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,16,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900563,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900563,206,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,13,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,27,1,0,20000121,GSW,CLE
-Shot Chart Detail,0029900578,37,1734,Sam Jacobson,1610612744,Golden State Warriors,1,7,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,158,141,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,45,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,14,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,27,1,1,20000123,GSW,MIN
-Shot Chart Detail,0029900578,229,1734,Sam Jacobson,1610612744,Golden State Warriors,3,9,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-23,23,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,207,-14,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,467,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-111,16,1,0,20000123,GSW,MIN
-Shot Chart Detail,0029900578,477,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000123,GSW,MIN
-Shot Chart Detail,0029900590,29,1734,Sam Jacobson,1610612744,Golden State Warriors,1,9,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-33,151,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,157,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-40,186,1,0,20000125,DAL,GSW
-Shot Chart Detail,0029900590,160,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,164,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,26,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,119,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,345,1734,Sam Jacobson,1610612744,Golden State Warriors,3,5,25,Made Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,353,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,3,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,385,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,25,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000125,DAL,GSW
-Shot Chart Detail,0029900590,459,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-12,171,1,0,20000125,DAL,GSW
-Shot Chart Detail,0029900590,468,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,42,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900590,498,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,56,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,119,1,1,20000125,DAL,GSW
-Shot Chart Detail,0029900602,49,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900602,69,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,93,201,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900602,275,1734,Sam Jacobson,1610612744,Golden State Warriors,3,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,40,1,0,20000127,HOU,GSW
-Shot Chart Detail,0029900602,359,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,19,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900602,504,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,130,1,1,20000127,HOU,GSW
-Shot Chart Detail,0029900637,131,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,1,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,23,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,135,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-182,106,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,169,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,409,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,30,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900637,414,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,72,1,0,20000201,LAC,GSW
-Shot Chart Detail,0029900637,416,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,12,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000201,LAC,GSW
-Shot Chart Detail,0029900645,107,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,41,158,381,1,0,20000202,GSW,VAN
-Shot Chart Detail,0029900670,141,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,63,1,0,20000206,NJN,GSW
-Shot Chart Detail,0029900670,488,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-186,8,1,0,20000206,NJN,GSW
-Shot Chart Detail,0029900670,497,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,27,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000206,NJN,GSW
-Shot Chart Detail,0029900677,126,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,51,196,1,0,20000207,ORL,GSW
-Shot Chart Detail,0029900677,423,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000207,ORL,GSW
-Shot Chart Detail,0029900677,427,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,51,242,1,1,20000207,ORL,GSW
-Shot Chart Detail,0029900713,484,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000215,GSW,POR
-Shot Chart Detail,0029900720,47,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000216,POR,GSW
-Shot Chart Detail,0029900720,59,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000216,POR,GSW
-Shot Chart Detail,0029900720,342,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-83,57,1,0,20000216,POR,GSW
-Shot Chart Detail,0029900720,469,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000216,POR,GSW
-Shot Chart Detail,0029900735,140,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,0,20000218,GSW,BOS
-Shot Chart Detail,0029900735,145,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-145,147,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,204,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,72,124,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,228,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,207,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,235,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,18,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,259,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-3,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900735,494,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,12,1,0,20000218,GSW,BOS
-Shot Chart Detail,0029900735,545,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,11,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000218,GSW,BOS
-Shot Chart Detail,0029900748,154,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-57,130,1,0,20000220,GSW,WAS
-Shot Chart Detail,0029900748,383,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-173,136,1,1,20000220,GSW,WAS
-Shot Chart Detail,0029900748,529,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,0,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000220,GSW,WAS
-Shot Chart Detail,0029900762,103,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,34,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,-3,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900762,235,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-57,177,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900762,402,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,56,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,147,33,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900762,452,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-173,66,1,1,20000222,MIN,GSW
-Shot Chart Detail,0029900770,29,1734,Sam Jacobson,1610612744,Golden State Warriors,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,81,98,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,53,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-1,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,85,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,-16,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,105,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,224,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,116,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,21,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900770,262,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,109,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,283,1734,Sam Jacobson,1610612744,Golden State Warriors,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-16,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,304,1734,Sam Jacobson,1610612744,Golden State Warriors,3,8,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,53,1,1,20000223,MIL,GSW
-Shot Chart Detail,0029900770,307,1734,Sam Jacobson,1610612744,Golden State Warriors,3,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-1,1,0,20000223,MIL,GSW
-Shot Chart Detail,0029900783,112,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,51,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,399,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,154,1,1,20000225,DET,GSW
-Shot Chart Detail,0029900783,408,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-179,-8,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,418,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000225,DET,GSW
-Shot Chart Detail,0029900783,436,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,30,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,5,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,461,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,130,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900783,479,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,229,1,0,20000225,DET,GSW
-Shot Chart Detail,0029900791,463,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,18,1,0,20000226,IND,GSW
-Shot Chart Detail,0029900834,49,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,188,1,1,20000303,DEN,GSW
-Shot Chart Detail,0029900834,146,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900834,276,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,154,1,1,20000303,DEN,GSW
-Shot Chart Detail,0029900834,344,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,1,1,1,20000303,DEN,GSW
-Shot Chart Detail,0029900834,362,1734,Sam Jacobson,1610612744,Golden State Warriors,3,2,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900834,379,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,5,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900834,390,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,12,1,0,20000303,DEN,GSW
-Shot Chart Detail,0029900850,499,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,1,1,1,20000305,GSW,IND
-Shot Chart Detail,0029900865,184,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,154,1,1,20000307,GSW,CHH
-Shot Chart Detail,0029900865,424,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,158,1,1,20000307,GSW,CHH
-Shot Chart Detail,0029900878,175,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,1,1,1,20000309,GSW,LAL
-Shot Chart Detail,0029900878,184,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,31,1,0,20000309,GSW,LAL
-Shot Chart Detail,0029900878,374,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,0,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,1,20000309,GSW,LAL
-Shot Chart Detail,0029900878,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,1,1,0,20000309,GSW,LAL
-Shot Chart Detail,0029900878,488,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,59,1,1,20000309,GSW,LAL
-Shot Chart Detail,0029900889,177,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,47,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,10,1,0,20000310,SEA,GSW
-Shot Chart Detail,0029900889,375,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,20,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000310,SEA,GSW
-Shot Chart Detail,0029900889,496,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20000310,SEA,GSW
-Shot Chart Detail,0029900902,211,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,169,5,1,0,20000312,GSW,LAC
-Shot Chart Detail,0029900902,229,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,154,1,1,20000312,GSW,LAC
-Shot Chart Detail,0029900911,185,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900911,200,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,89,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900911,221,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,102,25,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900911,244,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,TOR,GSW
-Shot Chart Detail,0029900911,430,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,184,1,0,20000314,TOR,GSW
-Shot Chart Detail,0029900918,43,1734,Sam Jacobson,1610612744,Golden State Warriors,1,8,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,141,1,1,20000315,BOS,GSW
-Shot Chart Detail,0029900918,194,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,37,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,0,20000315,BOS,GSW
-Shot Chart Detail,0029900918,522,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,134,1,1,20000315,BOS,GSW
-Shot Chart Detail,0029900918,550,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,32,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,70,1,0,20000315,BOS,GSW
-Shot Chart Detail,0029900953,118,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,117,76,1,0,20000319,GSW,PHX
-Shot Chart Detail,0029900953,482,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,-14,1,1,20000319,GSW,PHX
-Shot Chart Detail,0029900969,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,40,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-154,100,1,1,20000321,VAN,GSW
-Shot Chart Detail,0029900969,415,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,93,85,1,0,20000321,VAN,GSW
-Shot Chart Detail,0029900969,418,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,173,1,0,20000321,VAN,GSW
-Shot Chart Detail,0029900969,432,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,203,1,0,20000321,VAN,GSW
-Shot Chart Detail,0029900969,450,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-10,1,1,20000321,VAN,GSW
-Shot Chart Detail,0029900969,485,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,164,113,1,1,20000321,VAN,GSW
-Shot Chart Detail,0029900991,216,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,1,1,0,20000324,GSW,POR
-Shot Chart Detail,0029901005,120,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,96,1,1,20000326,PHX,GSW
-Shot Chart Detail,0029901016,216,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,145,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,227,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,46,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,81,1,1,20000328,HOU,GSW
-Shot Chart Detail,0029901016,373,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,384,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,19,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,403,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-143,179,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,207,76,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,441,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,HOU,GSW
-Shot Chart Detail,0029901016,473,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,34,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,164,93,1,1,20000328,HOU,GSW
-Shot Chart Detail,0029901030,371,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,12,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,12,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901030,373,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-134,121,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901030,379,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,1,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,1,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,408,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,33,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,5,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,31,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,70,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901030,425,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-104,57,1,1,20000330,SAS,GSW
-Shot Chart Detail,0029901030,452,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-149,93,1,0,20000330,SAS,GSW
-Shot Chart Detail,0029901038,138,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-177,-8,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,189,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-61,209,1,1,20000331,UTA,GSW
-Shot Chart Detail,0029901038,208,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,175,57,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,210,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,15,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,85,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,450,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-18,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901038,466,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,81,194,1,0,20000331,UTA,GSW
-Shot Chart Detail,0029901053,113,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,-10,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901053,128,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-12,158,1,1,20000402,GSW,MIL
-Shot Chart Detail,0029901053,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,130,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901053,213,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901053,373,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-145,5,1,1,20000402,GSW,MIL
-Shot Chart Detail,0029901053,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,201,1,0,20000402,GSW,MIL
-Shot Chart Detail,0029901073,220,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,35,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901073,425,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,40,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,31,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901073,446,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,13,Made Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901073,467,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,51,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,31,1,1,20000405,GSW,LAL
-Shot Chart Detail,0029901088,163,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,16,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,48,1,0,20000407,GSW,UTA
-Shot Chart Detail,0029901088,340,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901088,354,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,70,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901088,362,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,66,1,0,20000407,GSW,UTA
-Shot Chart Detail,0029901088,399,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-94,100,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901088,456,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-182,136,1,1,20000407,GSW,UTA
-Shot Chart Detail,0029901134,80,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,83,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,196,83,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,95,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,22,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,53,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,116,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,31,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,118,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,184,111,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,191,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,51,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,31,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,224,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,15,Missed Shot,Tip Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,237,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,-1,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901134,239,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,352,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,-1,1,0,20000413,SAC,GSW
-Shot Chart Detail,0029901134,397,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,21,211,14,1,1,20000413,SAC,GSW
-Shot Chart Detail,0029901142,88,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,27,1,1,20000414,DEN,GSW
-Shot Chart Detail,0029901142,129,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,DEN,GSW
-Shot Chart Detail,0029901142,139,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,DEN,GSW
-Shot Chart Detail,0029901164,120,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,51,212,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901164,143,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-203,89,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901164,160,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,72,141,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901164,307,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,171,1,1,20000417,GSW,MIN
-Shot Chart Detail,0029901164,341,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,35,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000417,GSW,MIN
-Shot Chart Detail,0029901164,358,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,36,1,0,20000417,GSW,MIN
-Shot Chart Detail,0029901187,199,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-158,124,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,222,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,13,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,147,1,1,20000419,GSW,PHX
-Shot Chart Detail,0029901187,349,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,154,1,1,20000419,GSW,PHX
-Shot Chart Detail,0029901187,372,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,212,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,382,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,1,20000419,GSW,PHX
-Shot Chart Detail,0029901187,387,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,162,59,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,409,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,207,1,0,20000419,GSW,PHX
-Shot Chart Detail,0029901187,415,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,169,113,1,0,20000419,GSW,PHX
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,29900018,216,1734,Sam Jacobson,1610612747,Los Angeles Lakers,2,2,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,104,16,1,0,19991103,0,LAL,VAN
+Shot Chart Detail,29900018,220,1734,Sam Jacobson,1610612747,Los Angeles Lakers,2,1,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991103,0,LAL,VAN
+Shot Chart Detail,29900018,450,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,4,33,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19991103,1,LAL,VAN
+Shot Chart Detail,29900018,493,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,0,46,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,16,3,169,1,1,19991103,1,LAL,VAN
+Shot Chart Detail,29900043,450,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,3,38,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,19991106,0,POR,LAL
+Shot Chart Detail,29900043,478,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,0,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,20,-203,23,1,0,19991106,0,POR,LAL
+Shot Chart Detail,29900057,484,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,3,2,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,164,130,1,1,19991109,0,DAL,LAL
+Shot Chart Detail,29900057,497,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,2,1,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-143,72,1,1,19991109,0,DAL,LAL
+Shot Chart Detail,29900057,501,1734,Sam Jacobson,1610612747,Los Angeles Lakers,4,1,11,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,31,1,1,19991109,0,DAL,LAL
+Shot Chart Detail,29900488,243,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,48,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,143,134,1,0,20000111,0,GSW,DAL
+Shot Chart Detail,29900503,171,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-81,89,1,1,20000113,1,GSW,HOU
+Shot Chart Detail,29900503,175,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,54,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000113,0,GSW,HOU
+Shot Chart Detail,29900503,203,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,12,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,5,242,1,1,20000113,1,GSW,HOU
+Shot Chart Detail,29900503,383,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,29,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,13,70,119,1,0,20000113,0,GSW,HOU
+Shot Chart Detail,29900525,72,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,35,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,85,23,1,1,20000115,1,GSW,SAC
+Shot Chart Detail,29900525,95,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,40,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,33,100,1,0,20000115,0,GSW,SAC
+Shot Chart Detail,29900525,113,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,16,-169,-10,1,1,20000115,1,GSW,SAC
+Shot Chart Detail,29900525,119,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,32,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,93,169,1,0,20000115,0,GSW,SAC
+Shot Chart Detail,29900525,273,1734,Sam Jacobson,1610612744,Golden State Warriors,3,8,18,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-89,5,1,1,20000115,1,GSW,SAC
+Shot Chart Detail,29900525,309,1734,Sam Jacobson,1610612744,Golden State Warriors,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-21,1,0,20000115,0,GSW,SAC
+Shot Chart Detail,29900525,325,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,26,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,63,46,1,0,20000115,0,GSW,SAC
+Shot Chart Detail,29900525,338,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,37,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,61,1,1,20000115,1,GSW,SAC
+Shot Chart Detail,29900538,80,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,1,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-104,134,1,1,20000117,1,GSW,ORL
+Shot Chart Detail,29900538,104,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,18,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,128,1,1,1,20000117,1,GSW,ORL
+Shot Chart Detail,29900538,122,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,42,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000117,0,GSW,ORL
+Shot Chart Detail,29900538,123,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,41,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000117,0,GSW,ORL
+Shot Chart Detail,29900538,126,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,15,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,115,130,1,0,20000117,0,GSW,ORL
+Shot Chart Detail,29900538,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,25,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000117,1,GSW,ORL
+Shot Chart Detail,29900538,166,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,136,207,1,0,20000117,0,GSW,ORL
+Shot Chart Detail,29900538,261,1734,Sam Jacobson,1610612744,Golden State Warriors,3,9,50,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,23,1,0,20000117,0,GSW,ORL
+Shot Chart Detail,29900538,317,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-111,89,1,0,20000117,0,GSW,ORL
+Shot Chart Detail,29900563,81,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,48,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-154,5,1,0,20000121,0,GSW,CLE
+Shot Chart Detail,29900563,135,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,9,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,16,1,0,20000121,0,GSW,CLE
+Shot Chart Detail,29900563,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-23,16,1,0,20000121,0,GSW,CLE
+Shot Chart Detail,29900563,206,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,13,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,27,1,0,20000121,0,GSW,CLE
+Shot Chart Detail,29900578,37,1734,Sam Jacobson,1610612744,Golden State Warriors,1,7,15,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,158,141,1,0,20000123,0,GSW,MIN
+Shot Chart Detail,29900578,45,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,14,Made Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,27,1,1,20000123,1,GSW,MIN
+Shot Chart Detail,29900578,229,1734,Sam Jacobson,1610612744,Golden State Warriors,3,9,48,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-23,23,1,0,20000123,0,GSW,MIN
+Shot Chart Detail,29900578,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,43,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,207,-14,1,0,20000123,0,GSW,MIN
+Shot Chart Detail,29900578,467,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,57,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-111,16,1,0,20000123,0,GSW,MIN
+Shot Chart Detail,29900578,477,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,13,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000123,1,GSW,MIN
+Shot Chart Detail,29900590,29,1734,Sam Jacobson,1610612744,Golden State Warriors,1,9,18,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-33,151,1,1,20000125,0,DAL,GSW
+Shot Chart Detail,29900590,157,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,7,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,19,-40,186,1,0,20000125,0,DAL,GSW
+Shot Chart Detail,29900590,160,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,55,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,1,DAL,GSW
+Shot Chart Detail,29900590,164,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,26,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-70,119,1,1,20000125,0,DAL,GSW
+Shot Chart Detail,29900590,345,1734,Sam Jacobson,1610612744,Golden State Warriors,3,5,25,Made Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,1,DAL,GSW
+Shot Chart Detail,29900590,353,1734,Sam Jacobson,1610612744,Golden State Warriors,3,3,11,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,164,3,1,1,20000125,1,DAL,GSW
+Shot Chart Detail,29900590,385,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,25,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000125,0,DAL,GSW
+Shot Chart Detail,29900590,459,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,24,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-12,171,1,0,20000125,0,DAL,GSW
+Shot Chart Detail,29900590,468,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,42,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000125,1,DAL,GSW
+Shot Chart Detail,29900590,498,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,56,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-3,119,1,1,20000125,0,DAL,GSW
+Shot Chart Detail,29900602,49,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000127,0,HOU,GSW
+Shot Chart Detail,29900602,69,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,46,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,93,201,1,1,20000127,1,HOU,GSW
+Shot Chart Detail,29900602,275,1734,Sam Jacobson,1610612744,Golden State Warriors,3,7,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,40,1,0,20000127,0,HOU,GSW
+Shot Chart Detail,29900602,359,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,19,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,40,1,1,20000127,1,HOU,GSW
+Shot Chart Detail,29900602,504,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,46,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-151,130,1,1,20000127,1,HOU,GSW
+Shot Chart Detail,29900637,131,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,1,Made Shot,Running Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,23,1,1,20000201,0,LAC,GSW
+Shot Chart Detail,29900637,135,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,22,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-182,106,1,1,20000201,0,LAC,GSW
+Shot Chart Detail,29900637,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,41,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,169,1,1,20000201,0,LAC,GSW
+Shot Chart Detail,29900637,409,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,30,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000201,0,LAC,GSW
+Shot Chart Detail,29900637,414,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,72,1,0,20000201,0,LAC,GSW
+Shot Chart Detail,29900637,416,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,12,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000201,0,LAC,GSW
+Shot Chart Detail,29900645,107,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,41,158,381,1,0,20000202,0,GSW,VAN
+Shot Chart Detail,29900670,141,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-141,63,1,0,20000206,0,NJN,GSW
+Shot Chart Detail,29900670,488,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,8,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-186,8,1,0,20000206,0,NJN,GSW
+Shot Chart Detail,29900670,497,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,27,Made Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000206,1,NJN,GSW
+Shot Chart Detail,29900677,126,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,40,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,20,51,196,1,0,20000207,0,ORL,GSW
+Shot Chart Detail,29900677,423,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000207,1,ORL,GSW
+Shot Chart Detail,29900677,427,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,51,242,1,1,20000207,1,ORL,GSW
+Shot Chart Detail,29900713,484,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,4,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000215,1,GSW,POR
+Shot Chart Detail,29900720,47,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000216,0,POR,GSW
+Shot Chart Detail,29900720,59,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000216,1,POR,GSW
+Shot Chart Detail,29900720,342,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-83,57,1,0,20000216,0,POR,GSW
+Shot Chart Detail,29900720,469,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,10,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000216,0,POR,GSW
+Shot Chart Detail,29900735,140,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,22,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,0,20000218,0,GSW,BOS
+Shot Chart Detail,29900735,145,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,44,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-145,147,1,1,20000218,0,GSW,BOS
+Shot Chart Detail,29900735,204,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,9,Made Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,72,124,1,1,20000218,1,GSW,BOS
+Shot Chart Detail,29900735,228,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,207,1,1,20000218,1,GSW,BOS
+Shot Chart Detail,29900735,235,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,18,1,1,20000218,1,GSW,BOS
+Shot Chart Detail,29900735,259,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,184,-3,1,1,20000218,1,GSW,BOS
+Shot Chart Detail,29900735,494,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,19,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,184,12,1,0,20000218,0,GSW,BOS
+Shot Chart Detail,29900735,545,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,11,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000218,1,GSW,BOS
+Shot Chart Detail,29900748,154,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-57,130,1,0,20000220,0,GSW,WAS
+Shot Chart Detail,29900748,383,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,2,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-173,136,1,1,20000220,1,GSW,WAS
+Shot Chart Detail,29900748,529,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,0,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000220,1,GSW,WAS
+Shot Chart Detail,29900762,103,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,34,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,-3,1,1,20000222,0,MIN,GSW
+Shot Chart Detail,29900762,235,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-57,177,1,1,20000222,1,MIN,GSW
+Shot Chart Detail,29900762,402,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,56,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,147,33,1,1,20000222,0,MIN,GSW
+Shot Chart Detail,29900762,452,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,14,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-173,66,1,1,20000222,1,MIN,GSW
+Shot Chart Detail,29900770,29,1734,Sam Jacobson,1610612744,Golden State Warriors,1,8,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,81,98,1,0,20000223,0,MIL,GSW
+Shot Chart Detail,29900770,53,1734,Sam Jacobson,1610612744,Golden State Warriors,1,5,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,-1,1,1,20000223,1,MIL,GSW
+Shot Chart Detail,29900770,85,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,-16,1,0,20000223,0,MIL,GSW
+Shot Chart Detail,29900770,105,1734,Sam Jacobson,1610612744,Golden State Warriors,1,1,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,138,224,1,0,20000223,0,MIL,GSW
+Shot Chart Detail,29900770,116,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,26,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,21,1,0,20000223,0,MIL,GSW
+Shot Chart Detail,29900770,262,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,138,109,1,1,20000223,1,MIL,GSW
+Shot Chart Detail,29900770,283,1734,Sam Jacobson,1610612744,Golden State Warriors,3,10,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-169,-16,1,1,20000223,1,MIL,GSW
+Shot Chart Detail,29900770,304,1734,Sam Jacobson,1610612744,Golden State Warriors,3,8,17,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,226,53,1,1,20000223,1,MIL,GSW
+Shot Chart Detail,29900770,307,1734,Sam Jacobson,1610612744,Golden State Warriors,3,7,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,-1,1,0,20000223,0,MIL,GSW
+Shot Chart Detail,29900783,112,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,51,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000225,0,DET,GSW
+Shot Chart Detail,29900783,399,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,52,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-87,154,1,1,20000225,1,DET,GSW
+Shot Chart Detail,29900783,408,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,53,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-179,-8,1,0,20000225,0,DET,GSW
+Shot Chart Detail,29900783,418,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,49,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000225,0,DET,GSW
+Shot Chart Detail,29900783,436,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,30,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,188,5,1,0,20000225,0,DET,GSW
+Shot Chart Detail,29900783,461,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,50,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-139,130,1,0,20000225,0,DET,GSW
+Shot Chart Detail,29900783,479,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,34,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-147,229,1,0,20000225,0,DET,GSW
+Shot Chart Detail,29900791,463,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,38,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,18,1,0,20000226,0,IND,GSW
+Shot Chart Detail,29900834,49,1734,Sam Jacobson,1610612744,Golden State Warriors,1,6,58,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-166,188,1,1,20000303,1,DEN,GSW
+Shot Chart Detail,29900834,146,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,21,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000303,0,DEN,GSW
+Shot Chart Detail,29900834,276,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,42,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,154,1,1,20000303,1,DEN,GSW
+Shot Chart Detail,29900834,344,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,47,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,1,1,1,20000303,1,DEN,GSW
+Shot Chart Detail,29900834,362,1734,Sam Jacobson,1610612744,Golden State Warriors,3,2,46,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000303,0,DEN,GSW
+Shot Chart Detail,29900834,379,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,34,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,5,1,0,20000303,0,DEN,GSW
+Shot Chart Detail,29900834,390,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,13,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-130,12,1,0,20000303,0,DEN,GSW
+Shot Chart Detail,29900850,499,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,44,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-173,1,1,1,20000305,1,GSW,IND
+Shot Chart Detail,29900865,184,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,1,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,81,154,1,1,20000307,1,GSW,CHH
+Shot Chart Detail,29900865,424,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,42,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-94,158,1,1,20000307,1,GSW,CHH
+Shot Chart Detail,29900878,175,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,42,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,138,1,1,1,20000309,0,GSW,LAL
+Shot Chart Detail,29900878,184,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,154,31,1,0,20000309,0,GSW,LAL
+Shot Chart Detail,29900878,374,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,0,Made Shot,Running Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,1,20000309,1,GSW,LAL
+Shot Chart Detail,29900878,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,162,1,1,0,20000309,0,GSW,LAL
+Shot Chart Detail,29900878,488,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,1,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,23,59,1,1,20000309,1,GSW,LAL
+Shot Chart Detail,29900889,177,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,47,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,10,1,0,20000310,0,SEA,GSW
+Shot Chart Detail,29900889,375,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,20,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000310,0,SEA,GSW
+Shot Chart Detail,29900889,496,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,10,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20000310,0,SEA,GSW
+Shot Chart Detail,29900902,211,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,11,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,169,5,1,0,20000312,0,GSW,LAC
+Shot Chart Detail,29900902,229,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,31,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,108,154,1,1,20000312,1,GSW,LAC
+Shot Chart Detail,29900911,185,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,31,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000314,0,TOR,GSW
+Shot Chart Detail,29900911,200,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,51,89,1,0,20000314,0,TOR,GSW
+Shot Chart Detail,29900911,221,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,2,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,102,25,1,0,20000314,0,TOR,GSW
+Shot Chart Detail,29900911,244,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,22,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000314,0,TOR,GSW
+Shot Chart Detail,29900911,430,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,35,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,184,1,0,20000314,0,TOR,GSW
+Shot Chart Detail,29900918,43,1734,Sam Jacobson,1610612744,Golden State Warriors,1,8,50,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,91,141,1,1,20000315,0,BOS,GSW
+Shot Chart Detail,29900918,194,1734,Sam Jacobson,1610612744,Golden State Warriors,2,8,37,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,27,1,0,20000315,0,BOS,GSW
+Shot Chart Detail,29900918,522,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,48,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,134,1,1,20000315,1,BOS,GSW
+Shot Chart Detail,29900918,550,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,32,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-23,70,1,0,20000315,0,BOS,GSW
+Shot Chart Detail,29900953,118,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,33,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,117,76,1,0,20000319,0,GSW,PHX
+Shot Chart Detail,29900953,482,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,11,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,190,-14,1,1,20000319,1,GSW,PHX
+Shot Chart Detail,29900969,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,40,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-154,100,1,1,20000321,0,VAN,GSW
+Shot Chart Detail,29900969,415,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,54,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,12,93,85,1,0,20000321,0,VAN,GSW
+Shot Chart Detail,29900969,418,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,22,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,173,1,0,20000321,0,VAN,GSW
+Shot Chart Detail,29900969,432,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,59,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,203,1,0,20000321,0,VAN,GSW
+Shot Chart Detail,29900969,450,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,48,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,-10,1,1,20000321,0,VAN,GSW
+Shot Chart Detail,29900969,485,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,28,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,164,113,1,1,20000321,0,VAN,GSW
+Shot Chart Detail,29900991,216,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,18,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-145,1,1,0,20000324,0,GSW,POR
+Shot Chart Detail,29901005,120,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-115,96,1,1,20000326,1,PHX,GSW
+Shot Chart Detail,29901016,216,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,39,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,91,145,1,0,20000328,0,HOU,GSW
+Shot Chart Detail,29901016,227,1734,Sam Jacobson,1610612744,Golden State Warriors,2,0,46,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,81,1,1,20000328,1,HOU,GSW
+Shot Chart Detail,29901016,373,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,47,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,0,HOU,GSW
+Shot Chart Detail,29901016,384,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,19,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,0,HOU,GSW
+Shot Chart Detail,29901016,403,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,44,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-143,179,1,0,20000328,0,HOU,GSW
+Shot Chart Detail,29901016,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,31,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,22,207,76,1,0,20000328,0,HOU,GSW
+Shot Chart Detail,29901016,441,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,8,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000328,0,HOU,GSW
+Shot Chart Detail,29901016,473,1734,Sam Jacobson,1610612744,Golden State Warriors,4,1,34,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,164,93,1,1,20000328,1,HOU,GSW
+Shot Chart Detail,29901030,371,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,12,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,12,1,0,20000330,0,SAS,GSW
+Shot Chart Detail,29901030,373,1734,Sam Jacobson,1610612744,Golden State Warriors,4,9,8,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-134,121,1,0,20000330,0,SAS,GSW
+Shot Chart Detail,29901030,379,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,51,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-171,1,1,1,20000330,1,SAS,GSW
+Shot Chart Detail,29901030,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,27,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,8,1,1,1,20000330,0,SAS,GSW
+Shot Chart Detail,29901030,408,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,45,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,33,1,1,20000330,0,SAS,GSW
+Shot Chart Detail,29901030,411,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,7,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-156,5,1,1,20000330,1,SAS,GSW
+Shot Chart Detail,29901030,420,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,31,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,70,1,0,20000330,0,SAS,GSW
+Shot Chart Detail,29901030,425,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,22,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-104,57,1,1,20000330,0,SAS,GSW
+Shot Chart Detail,29901030,452,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,32,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-149,93,1,0,20000330,0,SAS,GSW
+Shot Chart Detail,29901038,138,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,29,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-177,-8,1,0,20000331,0,UTA,GSW
+Shot Chart Detail,29901038,189,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,17,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,-61,209,1,1,20000331,1,UTA,GSW
+Shot Chart Detail,29901038,208,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,20,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,18,175,57,1,0,20000331,0,UTA,GSW
+Shot Chart Detail,29901038,210,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,15,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-46,85,1,0,20000331,0,UTA,GSW
+Shot Chart Detail,29901038,450,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,47,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-147,-18,1,0,20000331,0,UTA,GSW
+Shot Chart Detail,29901038,466,1734,Sam Jacobson,1610612744,Golden State Warriors,4,3,36,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,81,194,1,0,20000331,0,UTA,GSW
+Shot Chart Detail,29901053,113,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,11,-115,-10,1,0,20000402,0,GSW,MIL
+Shot Chart Detail,29901053,128,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,20,Made Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-12,158,1,1,20000402,1,GSW,MIL
+Shot Chart Detail,29901053,161,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,36,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,87,130,1,0,20000402,0,GSW,MIL
+Shot Chart Detail,29901053,213,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,5,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,0,20000402,0,GSW,MIL
+Shot Chart Detail,29901053,373,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,21,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-145,5,1,1,20000402,1,GSW,MIL
+Shot Chart Detail,29901053,394,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,201,1,0,20000402,0,GSW,MIL
+Shot Chart Detail,29901073,220,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,35,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,154,1,1,1,20000405,1,GSW,LAL
+Shot Chart Detail,29901073,425,1734,Sam Jacobson,1610612744,Golden State Warriors,4,4,40,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,31,1,1,20000405,0,GSW,LAL
+Shot Chart Detail,29901073,446,1734,Sam Jacobson,1610612744,Golden State Warriors,4,2,13,Made Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000405,0,GSW,LAL
+Shot Chart Detail,29901073,467,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,51,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,31,1,1,20000405,1,GSW,LAL
+Shot Chart Detail,29901088,163,1734,Sam Jacobson,1610612744,Golden State Warriors,2,5,16,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-57,48,1,0,20000407,0,GSW,UTA
+Shot Chart Detail,29901088,340,1734,Sam Jacobson,1610612744,Golden State Warriors,3,0,38,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,233,-14,1,1,20000407,1,GSW,UTA
+Shot Chart Detail,29901088,354,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,29,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-12,70,1,1,20000407,0,GSW,UTA
+Shot Chart Detail,29901088,362,1734,Sam Jacobson,1610612744,Golden State Warriors,4,10,40,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-130,66,1,0,20000407,0,GSW,UTA
+Shot Chart Detail,29901088,399,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,37,Made Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,13,-94,100,1,1,20000407,1,GSW,UTA
+Shot Chart Detail,29901088,456,1734,Sam Jacobson,1610612744,Golden State Warriors,4,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-182,136,1,1,20000407,1,GSW,UTA
+Shot Chart Detail,29901134,80,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,39,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000413,0,SAC,GSW
+Shot Chart Detail,29901134,83,1734,Sam Jacobson,1610612744,Golden State Warriors,1,4,25,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,196,83,1,1,20000413,1,SAC,GSW
+Shot Chart Detail,29901134,95,1734,Sam Jacobson,1610612744,Golden State Warriors,1,3,22,Made Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,53,1,1,20000413,0,SAC,GSW
+Shot Chart Detail,29901134,116,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,57,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,196,31,1,1,20000413,1,SAC,GSW
+Shot Chart Detail,29901134,118,1734,Sam Jacobson,1610612744,Golden State Warriors,1,0,41,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,184,111,1,1,20000413,1,SAC,GSW
+Shot Chart Detail,29901134,191,1734,Sam Jacobson,1610612744,Golden State Warriors,2,6,51,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,31,1,0,20000413,0,SAC,GSW
+Shot Chart Detail,29901134,224,1734,Sam Jacobson,1610612744,Golden State Warriors,2,4,15,Missed Shot,Tip Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,0,SAC,GSW
+Shot Chart Detail,29901134,237,1734,Sam Jacobson,1610612744,Golden State Warriors,2,3,16,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-190,-1,1,1,20000413,1,SAC,GSW
+Shot Chart Detail,29901134,239,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,56,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20000413,0,SAC,GSW
+Shot Chart Detail,29901134,352,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,33,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,19,196,-1,1,0,20000413,0,SAC,GSW
+Shot Chart Detail,29901134,397,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,5,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,21,211,14,1,1,20000413,1,SAC,GSW
+Shot Chart Detail,29901142,88,1734,Sam Jacobson,1610612744,Golden State Warriors,1,2,22,Made Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,162,27,1,1,20000414,1,DEN,GSW
+Shot Chart Detail,29901142,129,1734,Sam Jacobson,1610612744,Golden State Warriors,2,10,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,0,DEN,GSW
+Shot Chart Detail,29901142,139,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,24,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000414,0,DEN,GSW
+Shot Chart Detail,29901164,120,1734,Sam Jacobson,1610612744,Golden State Warriors,2,11,44,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,21,51,212,1,0,20000417,0,GSW,MIN
+Shot Chart Detail,29901164,143,1734,Sam Jacobson,1610612744,Golden State Warriors,2,9,24,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,22,-203,89,1,0,20000417,0,GSW,MIN
+Shot Chart Detail,29901164,160,1734,Sam Jacobson,1610612744,Golden State Warriors,2,7,18,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,72,141,1,0,20000417,0,GSW,MIN
+Shot Chart Detail,29901164,307,1734,Sam Jacobson,1610612744,Golden State Warriors,3,4,32,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-130,171,1,1,20000417,1,GSW,MIN
+Shot Chart Detail,29901164,341,1734,Sam Jacobson,1610612744,Golden State Warriors,3,1,35,Made Shot,Slam Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20000417,0,GSW,MIN
+Shot Chart Detail,29901164,358,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,22,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-57,36,1,0,20000417,0,GSW,MIN
+Shot Chart Detail,29901187,199,1734,Sam Jacobson,1610612744,Golden State Warriors,2,2,47,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-158,124,1,0,20000419,0,GSW,PHX
+Shot Chart Detail,29901187,222,1734,Sam Jacobson,1610612744,Golden State Warriors,2,1,13,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,102,147,1,1,20000419,1,GSW,PHX
+Shot Chart Detail,29901187,349,1734,Sam Jacobson,1610612744,Golden State Warriors,4,11,47,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,154,1,1,20000419,1,GSW,PHX
+Shot Chart Detail,29901187,372,1734,Sam Jacobson,1610612744,Golden State Warriors,4,8,22,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,212,1,0,20000419,0,GSW,PHX
+Shot Chart Detail,29901187,382,1734,Sam Jacobson,1610612744,Golden State Warriors,4,7,44,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,-10,1,1,20000419,1,GSW,PHX
+Shot Chart Detail,29901187,387,1734,Sam Jacobson,1610612744,Golden State Warriors,4,6,57,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,17,162,59,1,0,20000419,0,GSW,PHX
+Shot Chart Detail,29901187,409,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,207,1,0,20000419,0,GSW,PHX
+Shot Chart Detail,29901187,415,1734,Sam Jacobson,1610612744,Golden State Warriors,4,5,5,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,20,169,113,1,0,20000419,0,GSW,PHX

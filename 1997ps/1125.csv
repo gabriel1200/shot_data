@@ -1,7 +1,7 @@
-GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
-Shot Chart Detail,0049600016,462,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,5,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,52,1,0,19970427,SEA,PHX
-Shot Chart Detail,0049600016,487,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,93,1,1,19970427,SEA,PHX
-Shot Chart Detail,0049600016,514,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,1,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970427,SEA,PHX
-Shot Chart Detail,0049600034,448,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,0,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,41,1,1,19970503,SEA,PHX
-Shot Chart Detail,0049600059,191,1125,Larry Stewart,1610612760,Seattle SuperSonics,2,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970513,HOU,SEA
-Shot Chart Detail,0049600059,223,1125,Larry Stewart,1610612760,Seattle SuperSonics,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,216,67,1,1,19970513,HOU,SEA
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,49600016,462,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,5,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,52,1,0,19970427,0,SEA,PHX
+Shot Chart Detail,49600016,487,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,3,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-153,93,1,1,19970427,0,SEA,PHX
+Shot Chart Detail,49600016,514,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,1,23,Made Shot,Slam Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970427,1,SEA,PHX
+Shot Chart Detail,49600034,448,1125,Larry Stewart,1610612760,Seattle SuperSonics,4,0,55,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,41,1,1,19970503,0,SEA,PHX
+Shot Chart Detail,49600059,191,1125,Larry Stewart,1610612760,Seattle SuperSonics,2,4,20,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,19970513,1,HOU,SEA
+Shot Chart Detail,49600059,223,1125,Larry Stewart,1610612760,Seattle SuperSonics,2,0,36,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,216,67,1,1,19970513,1,HOU,SEA
