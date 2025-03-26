@@ -653,8 +653,11 @@ def save_cluster_data(year):
     
     # Standardize the data
     x = testdf.loc[:, features].values
-    x = np.where(np.isinf(x), np.nan, x)  # Replace inf with NaN
-    x = np.nan_to_num(x)
+
+    # Ensure 'x' is numeric, converting invalid values to NaN
+    x = pd.to_numeric(x, errors='coerce')  # Converts invalid values to NaN
+    x = np.where(np.isinf(x), np.nan, x)
+
     x = StandardScaler().fit_transform(x)
     
     # Perform PCA to reduce dimensionality
