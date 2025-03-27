@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+# In[ ]:
 
 
 import pandas as pd
@@ -16,7 +16,10 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 import scipy.cluster.hierarchy as shc
 from kneed import KneeLocator
-
+#!/usr/bin/env python
+from sklearn.metrics.pairwise import euclidean_distances
+from scipy.cluster.hierarchy import fcluster
+from scipy.spatial.distance import pdist, squareform
 headers = {'Host': 'stats.nba.com', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'x-nba-stats-origin': 'stats', 'x-nba-stats-token': 'true', 'Connection': 'keep-alive', 'Referer': 'https://stats.nba.com/', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache'}
 
 df_list = []
@@ -510,93 +513,47 @@ for year in range (df['year'].min(),df['year'].max()+1):
     print('Year Saved')
 
 
-# In[5]:
+# In[2]:
 
 
-#!/usr/bin/env python
-from sklearn.metrics.pairwise import euclidean_distances
-from scipy.cluster.hierarchy import fcluster
-from scipy.spatial.distance import pdist, squareform
-year=2015
 def save_cluster_data(year):
-    df=pd.read_csv(f'cluster_{year}.csv')
-    #testdf = df[(df.MPG > 23) & (df.GP > 15) & (df.SEASON == '2022-23')].reset_index(drop=True)
+    df = pd.read_csv(f'cluster_{year}.csv')
     
-    season=str(year-1)+'-'+str(year)[-2:]
+    season = str(year-1)+'-'+str(year)[-2:]
     print(season)
     testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
     print(testdf)
     
-    features = [x for x in df.columns if (x != 'PLAYER_NAME') &  (x != 'POSITION') & (x != 'SEASON')]
+    # Identify numeric columns
+    features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
     
-    x = testdf.loc[:, features].values
-    y = testdf.loc[:,['PLAYER_NAME']].values
-    x = np.where(np.isinf(x), np.nan, x)  # Replace inf with NaN
-    x = np.nan_to_num(x)
+    # Convert features to numeric, handling potential errors
+    x = testdf.loc[:, features].apply(pd.to_numeric, errors='coerce').values
+    
+    # Replace inf and NaN with 0
+    x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
 
-    x = StandardScaler().fit_transform(x) # standardize all values
+    # Standardize the data
+    x = StandardScaler().fit_transform(x)
     
-    
+    # PCA
     pca = PCA(n_components=0.99)
     principalComponents = pca.fit_transform(x)
     
-    '''
-    plt.figure(figsize=(10,65))
-    plt.title('2024-25 NBA Hierarchical Clustering Dendrogram')
-    dend = shc.dendrogram(shc.linkage(x, method='ward'), labels=list(testdf.PLAYER_NAME), orientation='left')
-    
-    plt.yticks(fontsize=8)
-    plt.xlabel('Height')
-    
-    plt.tight_layout()
-    '''
-    # Save the plot in PNG format
-    #plt.savefig("nba_hierarchical_clustering_dendrogram.png", format='png', dpi=300)
-    
-    # Optionally, display the plot as well
-    #plt.show()
-    
-    
-    # In[3]:
-    
-    
-    
-    
-    # Assuming 'principalComponents' contains the PCA-transformed features and 'testdf' contains the player names
-    # Here 'x' is 'principalComponents' and 'y' is 'testdf['PLAYER_NAME']'
-    
-    # Convert the PCA feature vectors into a square-form distance matrix
-    x = principalComponents  # PCA-transformed feature matrix
-    y = testdf['PLAYER_NAME'].values  # Player names
-    z = testdf['PLAYER_ID'].values  # Player IDs
-    
-    # Apply hierarchical clustering 
-    cluster_labels = fcluster(shc.linkage(x, method='ward'), t=25, criterion='distance')
+    # Clustering (using linkage instead of fcluster)
+    linkage_matrix = shc.linkage(principalComponents, method='ward')
+    cluster_labels = shc.fcluster(linkage_matrix, t=25, criterion='distance')
     
     # Create a DataFrame mapping players to their cluster labels and IDs
     player_cluster_mapping = pd.DataFrame({
-        'PLAYER_NAME': y, 
-        'PLAYER_ID': z,
+        'PLAYER_NAME': testdf['PLAYER_NAME'].values, 
+        'PLAYER_ID': testdf['PLAYER_ID'].values,
         'CLUSTER': cluster_labels
-    })
-    
-    x = principalComponents  # PCA-transformed feature matrix
-    y = testdf['PLAYER_NAME'].values  # Player names
-    z = testdf['PLAYER_ID'].values  # Player IDs
-    
-    # Apply hierarchical clustering 
-    cluster_labels = fcluster(shc.linkage(x, method='ward'), t=25, criterion='distance')
-    
-    # Create a DataFrame mapping players to their cluster labels and IDs
-    player_cluster_mapping = pd.DataFrame({
-       'PLAYER_NAME': y, 
-       'PLAYER_ID': z,
-       'CLUSTER': cluster_labels
     })
     
     # Prepare a DataFrame to hold each player and their 5 most similar players
     similar_players_df = pd.DataFrame()
-    for idx, player in enumerate(y):
+    for idx, player in enumerate(testdf['PLAYER_NAME']):
        # Get the current player's cluster and ID
        player_row = player_cluster_mapping[player_cluster_mapping['PLAYER_NAME'] == player]
        cluster = player_row['CLUSTER'].iloc[0]
@@ -606,7 +563,7 @@ def save_cluster_data(year):
        indices = player_cluster_mapping[player_cluster_mapping['CLUSTER'] == cluster].index
        
        # Calculate distances from the current player to others in the same cluster
-       distances = euclidean_distances(x[indices], [x[idx]]).flatten()
+       distances = euclidean_distances(principalComponents[indices], [principalComponents[idx]]).flatten()
        
        # Get indices of the 5 closest players
        closest_indices = np.argsort(distances)[1:6]  # Exclude the closest (itself)
@@ -642,9 +599,6 @@ def save_cluster_data(year):
     similar_players_df.to_csv(f'{year}_similar_players.csv', index=False)
     print("CSV file 'nba_similar_players.csv' has been created with each player and their 5 most similar players.")
     
-    
-    # In[4]:
-    
     # Filter the DataFrame
     testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
     
@@ -652,26 +606,18 @@ def save_cluster_data(year):
     features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
     
     # Standardize the data
-    x = testdf.loc[:, features].values
-
-    # Ensure 'x' is numeric, converting invalid values to NaN
-    x = pd.to_numeric(x, errors='coerce')  # Converts invalid values to NaN
-    x = np.where(np.isinf(x), np.nan, x)
-
+    x = testdf.loc[:, features].apply(pd.to_numeric, errors='coerce').values
+    x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
     x = StandardScaler().fit_transform(x)
     
     # Perform PCA to reduce dimensionality
     pca = PCA(n_components=2)  # Reduce to 2 components for visualization
     principalComponents = pca.fit_transform(x)
-    testdf['PCA1'] = principalComponents[:, 0]
-    testdf['PCA2'] = principalComponents[:, 1]
     
-    
-        
-        # Add PCA components to dataframe
+    # Add PCA components to dataframe
     for i in range(principalComponents.shape[1]):
         testdf[f'PCA_{i+1}'] = principalComponents[:, i]
-    print(testdf.columns)
+    
     # Determine optimal clusters using elbow method and silhouette scores
     inertia = []
     silhouette_scores = []
@@ -690,39 +636,12 @@ def save_cluster_data(year):
     # Find optimal clusters by silhouette score
     optimal_clusters_silhouette = k_range[np.argmax(silhouette_scores)]
     
-    # Plot the elbow method
-    '''
-    plt.figure(figsize=(8, 5))
-    plt.plot(k_range, inertia, 'bo-', label='Inertia')
-    plt.axvline(optimal_clusters_elbow, color='r', linestyle='--', label=f'Elbow Point: {optimal_clusters_elbow}')
-    plt.title("Elbow Method")
-    plt.xlabel("Number of Clusters")
-    plt.ylabel("Inertia")
-    plt.legend()
-    plt.tight_layout()
-    plt.savefig("nba_pca_kmeans_elbow.png", format='png', dpi=300)
-    #plt.show()
-    
-    # Plot silhouette scores
-    plt.figure(figsize=(8, 5))
-    plt.plot(k_range, silhouette_scores, 'go-', label='Silhouette Score')
-    plt.axvline(optimal_clusters_silhouette, color='r', linestyle='--', label=f'Best Silhouette: {optimal_clusters_silhouette}')
-    plt.title("Silhouette Scores")
-    plt.xlabel("Number of Clusters")
-    plt.ylabel("Silhouette Score")
-    plt.legend()
-    plt.tight_layout()
-    plt.savefig("nba_pca_kmeans_silhouette.png", format='png', dpi=300)
-    #plt.show()
-    '''
     # Let user choose optimal clusters
     print(f"Optimal clusters (Elbow): {optimal_clusters_elbow}")
     print(f"Optimal clusters (Silhouette): {optimal_clusters_silhouette}")
-    try:
-        #user_clusters = int(input("Enter the number of clusters you prefer (press Enter to use the best silhouette score): ").strip() or optimal_clusters_silhouette)
-        user_clusters=8
-    except ValueError:
-        user_clusters = optimal_clusters_silhouette  # Fallback to silhouette-based optimal clusters
+    
+    # Use a predefined number of clusters
+    user_clusters = 8
     
     print(f"Using {user_clusters} clusters for final clustering.")
     
@@ -731,14 +650,9 @@ def save_cluster_data(year):
     kmeans_final.fit(principalComponents)
     testdf['Cluster'] = kmeans_final.labels_
     
-    testdf.to_csv(f'nba_analysis_{year}.csv',index=False)
-    
+    testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
 
-
-
-
-
-
-for year in range(2025,2026):
+# Process the specified year range
+for year in range(2025, 2026):
     save_cluster_data(year)
 
