@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[3]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -15,6 +15,7 @@ import numpy as np
 #from nba_api.stats.endpoints import playergamelogs
 import pandas as pd
 import time
+ps=True
 def pull_rotation(url):
 
 
@@ -247,10 +248,10 @@ def get_shotrotations(season,ps = False):
         #print(len(shot_on))
     return data
 #data = get_shotrotations('2023-24',ps=False)
-data = get_shotrotations('2024-25',ps=False)
+data = get_shotrotations('2024-25',ps=ps)
 
 
-# In[2]:
+# In[4]:
 
 
 def assist_paths(ps = False):
@@ -313,85 +314,76 @@ def list_csv_files(path):
         if file.endswith(".csv"):
             csv_files.append(file)
     return csv_files
-def scrape_assists(ps = False):
-    carry="ps"
-    if ps == False:
-        carry=""
+def scrape_assists(ps=False):
+    carry = "ps" if ps else ""
     print('Starting')
-    for year in range (2025,2026):
-        print(year)
-        path = "rotations/"+str(year)+carry
-        
-        files = list_csv_files(path)
-   
-        files = [f for f in files if 'vs' not in f]
-        files = [f for f in files if 'avg' not in f]
-     
-        year_data = []
-        teams=[]
-        games = []
-        for f in files:
-            teamdf = pd.read_csv(path+'/'+f)
-            teamdf['GAME_ID'] = teamdf['GAME_ID'].astype(str)
-            games = games+ list(teamdf['GAME_ID'].unique())
-            del teamdf
-        games = list(set(games))
-
-
     
-        assist_path = 'assists/'+str(year)+carry+'/ast.csv'
+    for year in range(2025, 2026):
+        print(year)
+        path = f"rotations/{year}{carry}"
+        files = list_csv_files(path)
+
+        files = [f for f in files if 'vs' not in f and 'avg' not in f]
+        year_data = []
+        games = []
+
+        for f in files:
+            teamdf = pd.read_csv(f"{path}/{f}")
+            teamdf['GAME_ID'] = teamdf['GAME_ID'].astype(str)
+            games += list(teamdf['GAME_ID'].unique())
+        
+        games = list(set(games))
+        assist_dir = f'assists/{year}{carry}'
+        assist_path = f'{assist_dir}/ast.csv'
+        
+        # Create directory if it doesn't exist
+        os.makedirs(assist_dir, exist_ok=True)
+
+        # If file exists, remove already-logged games
         if os.path.exists(assist_path):
-     
             logged = pd.read_csv(assist_path)
             logged['GAME_ID'] = logged['GAME_ID'].astype(str)
             logged_games = list(logged['GAME_ID'].unique())
-            print(len(logged_games))
+            print(f'Already logged: {len(logged_games)}')
             games = [game for game in games if game not in logged_games]
-            
-        print(len(games))
         
+        print(f'To scrape: {len(games)}')
         game_count = 0
-        if game_count % 25 == 0:
-            print('test')
-           
+
         for game in games:
             game = str(game)
-            if game[0:2] !='00':
-                game = '00'+game
-            df = pull_assists(game)
-       
-            year_data.append(df)
-            game_count+=1
+            if not game.startswith('00'):
+                game = '00' + game
 
-            if game_count %50 == 0:
+            df = pull_assists(game)
+            year_data.append(df)
+            game_count += 1
+
+            if game_count % 50 == 0:
                 if os.path.exists(assist_path):
                     old_frame = pd.read_csv(assist_path)
                     new_frame = pd.concat(year_data)
-    
-                    to_save = pd.concat([old_frame,new_frame])
-                    to_save.to_csv(assist_path,index = False)
-                    year_data = []
-    
-                    print('50 hit, saving')
+                    to_save = pd.concat([old_frame, new_frame])
                 else:
                     to_save = pd.concat(year_data)
-                    to_save.to_csv(assist_path)
-                    year_data= []
-                    print('50 hit, saving')
-        if len(games)  >0:          
-            old_frame = pd.read_csv(assist_path)
-            new_frame = pd.concat(year_data)
-    
-            to_save = pd.concat([old_frame,new_frame])
-            to_save.to_csv(assist_path,index = False)
-    
-            print(' Year done ' +str(year)+carry)
+
+                to_save.to_csv(assist_path, index=False)
+                year_data = []
+                print('50 hit, saving')
+
+        # Final save
+        if year_data:
+            if os.path.exists(assist_path):
+                old_frame = pd.read_csv(assist_path)
+                new_frame = pd.concat(year_data)
+                to_save = pd.concat([old_frame, new_frame])
+            else:
+                to_save = pd.concat(year_data)
+            to_save.to_csv(assist_path, index=False)
+
+            print(f'Year done: {year}{carry}')
         else:
-            print('already scraped')
-            print('Hit')
-#assist_paths(ps=False)
-#assist_paths(ps=True)
-scrape_assists(ps=False)
+            print('Already scraped everything.')
 def clean_assists(ps = False):
     carry="ps"
     if ps == False:
@@ -407,7 +399,7 @@ def clean_assists(ps = False):
 clean_assists()
 
 
-# In[3]:
+# In[5]:
 
 
 ps = ''
@@ -455,7 +447,7 @@ for team in teams.get_teams():
     print(len(team_shots))
 
 
-# In[4]:
+# In[6]:
 
 
 for team in teams.get_teams():
@@ -540,13 +532,13 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[5]:
+# In[7]:
 
 
 year_assists = pd.read_csv(f'assists/{year}/ast.csv')
 
 
-# In[6]:
+# In[8]:
 
 
 players = all_shots.PLAYER_ID.unique().tolist()
@@ -562,7 +554,7 @@ for player in players:
     df.to_csv('2025/'+str(player)+'.csv',index=False)
 
 
-# In[7]:
+# In[9]:
 
 
 def get_rotations(season,ps=False):
@@ -672,7 +664,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[8]:
+# In[10]:
 
 
 '''
@@ -731,7 +723,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[9]:
+# In[11]:
 
 
 start_year=1997
@@ -802,13 +794,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[10]:
+# In[12]:
 
 
-dates[dates.playoffs==False].tail(20)
+dates[dates.playoffs==True].tail(20)
 
 
-# In[11]:
+# In[13]:
 
 
 width = 2400
