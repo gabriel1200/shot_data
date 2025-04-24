@@ -1,95 +1,96 @@
-index,SHOT_ZONE_RANGE,SHOT_DISTANCE,FGA,FGM
-0,16-24 ft.,16,1332,544
-1,16-24 ft.,17,1171,474
-2,16-24 ft.,18,1013,393
-3,16-24 ft.,19,869,344
-4,16-24 ft.,20,687,245
-5,16-24 ft.,21,483,175
-6,16-24 ft.,22,301,122
-7,16-24 ft.,23,118,34
-8,24+ ft.,22,4144,1592
-9,24+ ft.,23,6920,2638
-10,24+ ft.,24,6553,2444
-11,24+ ft.,25,13504,4823
-12,24+ ft.,26,9996,3593
-13,24+ ft.,27,4744,1678
-14,24+ ft.,28,2088,701
-15,24+ ft.,29,998,357
-16,24+ ft.,30,522,149
-17,24+ ft.,31,268,66
-18,24+ ft.,32,143,44
-19,24+ ft.,33,70,15
-20,24+ ft.,34,58,9
-21,24+ ft.,35,31,7
-22,24+ ft.,36,25,3
-23,24+ ft.,37,19,3
-24,24+ ft.,38,17,6
-25,24+ ft.,39,6,0
-26,24+ ft.,40,4,2
-27,24+ ft.,41,8,0
-28,24+ ft.,42,8,0
-29,24+ ft.,43,6,0
-30,24+ ft.,44,2,0
-31,8-16 ft.,8,2451,1114
-32,8-16 ft.,9,2166,931
-33,8-16 ft.,10,2124,929
-34,8-16 ft.,11,1988,861
-35,8-16 ft.,12,1800,767
-36,8-16 ft.,13,1718,764
-37,8-16 ft.,14,1444,626
-38,8-16 ft.,15,1446,643
-39,8-16 ft.,16,3,2
-40,Back Court Shot,40,3,0
-41,Back Court Shot,41,5,0
-42,Back Court Shot,42,10,1
-43,Back Court Shot,43,6,0
-44,Back Court Shot,44,15,0
-45,Back Court Shot,45,8,0
-46,Back Court Shot,46,17,0
-47,Back Court Shot,47,14,1
-48,Back Court Shot,48,15,0
-49,Back Court Shot,49,20,1
-50,Back Court Shot,50,13,0
-51,Back Court Shot,51,24,1
-52,Back Court Shot,52,15,1
-53,Back Court Shot,53,11,0
-54,Back Court Shot,54,13,0
-55,Back Court Shot,55,6,0
-56,Back Court Shot,56,8,0
-57,Back Court Shot,57,5,0
-58,Back Court Shot,58,7,0
-59,Back Court Shot,59,6,0
-60,Back Court Shot,60,8,0
-61,Back Court Shot,61,5,0
-62,Back Court Shot,62,5,0
-63,Back Court Shot,63,2,0
-64,Back Court Shot,64,6,0
-65,Back Court Shot,65,2,0
-66,Back Court Shot,66,3,1
-67,Back Court Shot,67,4,0
-68,Back Court Shot,68,5,0
-69,Back Court Shot,69,5,0
-70,Back Court Shot,70,6,0
-71,Back Court Shot,71,6,0
-72,Back Court Shot,72,3,0
-73,Back Court Shot,74,4,0
-74,Back Court Shot,75,4,0
-75,Back Court Shot,76,3,0
-76,Back Court Shot,77,1,0
-77,Back Court Shot,78,1,0
-78,Back Court Shot,79,1,0
-79,Back Court Shot,80,1,0
-80,Back Court Shot,81,2,0
-81,Back Court Shot,82,1,0
-82,Back Court Shot,83,1,0
-83,Back Court Shot,84,2,0
-84,Back Court Shot,85,1,0
-85,Less Than 8 ft.,0,8176,6195
-86,Less Than 8 ft.,1,10842,7824
-87,Less Than 8 ft.,2,8590,5058
-88,Less Than 8 ft.,3,6077,3142
-89,Less Than 8 ft.,4,4466,1994
-90,Less Than 8 ft.,5,3825,1685
-91,Less Than 8 ft.,6,3245,1334
-92,Less Than 8 ft.,7,2722,1168
-93,Less Than 8 ft.,8,11,4
+year,mode,SHOT_ZONE_RANGE,SHOT_DISTANCE,FGA,FGM
+2025,regular,16-24 ft.,16,2354,997
+2025,regular,16-24 ft.,17,2101,858
+2025,regular,16-24 ft.,18,1798,711
+2025,regular,16-24 ft.,19,1487,609
+2025,regular,16-24 ft.,20,1174,439
+2025,regular,16-24 ft.,21,818,282
+2025,regular,16-24 ft.,22,537,219
+2025,regular,16-24 ft.,23,211,66
+2025,regular,24+ ft.,22,7677,2991
+2025,regular,24+ ft.,23,12724,4902
+2025,regular,24+ ft.,24,11880,4464
+2025,regular,24+ ft.,25,24550,8734
+2025,regular,24+ ft.,26,18333,6579
+2025,regular,24+ ft.,27,8787,3100
+2025,regular,24+ ft.,28,3899,1288
+2025,regular,24+ ft.,29,1876,642
+2025,regular,24+ ft.,30,957,289
+2025,regular,24+ ft.,31,485,131
+2025,regular,24+ ft.,32,255,84
+2025,regular,24+ ft.,33,142,30
+2025,regular,24+ ft.,34,99,18
+2025,regular,24+ ft.,35,57,15
+2025,regular,24+ ft.,36,45,6
+2025,regular,24+ ft.,37,36,6
+2025,regular,24+ ft.,38,32,7
+2025,regular,24+ ft.,39,17,1
+2025,regular,24+ ft.,40,10,3
+2025,regular,24+ ft.,41,18,0
+2025,regular,24+ ft.,42,14,0
+2025,regular,24+ ft.,43,8,1
+2025,regular,24+ ft.,44,5,0
+2025,regular,8-16 ft.,8,4632,2090
+2025,regular,8-16 ft.,9,4083,1796
+2025,regular,8-16 ft.,10,4068,1829
+2025,regular,8-16 ft.,11,3890,1735
+2025,regular,8-16 ft.,12,3432,1526
+2025,regular,8-16 ft.,13,3119,1365
+2025,regular,8-16 ft.,14,2710,1185
+2025,regular,8-16 ft.,15,2704,1202
+2025,regular,8-16 ft.,16,4,3
+2025,regular,Back Court Shot,40,9,0
+2025,regular,Back Court Shot,41,12,1
+2025,regular,Back Court Shot,42,16,2
+2025,regular,Back Court Shot,43,11,0
+2025,regular,Back Court Shot,44,31,0
+2025,regular,Back Court Shot,45,22,0
+2025,regular,Back Court Shot,46,26,1
+2025,regular,Back Court Shot,47,26,1
+2025,regular,Back Court Shot,48,23,0
+2025,regular,Back Court Shot,49,33,2
+2025,regular,Back Court Shot,50,26,1
+2025,regular,Back Court Shot,51,32,1
+2025,regular,Back Court Shot,52,24,1
+2025,regular,Back Court Shot,53,20,0
+2025,regular,Back Court Shot,54,20,1
+2025,regular,Back Court Shot,55,13,0
+2025,regular,Back Court Shot,56,15,0
+2025,regular,Back Court Shot,57,8,0
+2025,regular,Back Court Shot,58,12,0
+2025,regular,Back Court Shot,59,16,0
+2025,regular,Back Court Shot,60,11,0
+2025,regular,Back Court Shot,61,14,1
+2025,regular,Back Court Shot,62,14,0
+2025,regular,Back Court Shot,63,6,0
+2025,regular,Back Court Shot,64,7,0
+2025,regular,Back Court Shot,65,6,0
+2025,regular,Back Court Shot,66,8,1
+2025,regular,Back Court Shot,67,8,0
+2025,regular,Back Court Shot,68,11,0
+2025,regular,Back Court Shot,69,11,0
+2025,regular,Back Court Shot,70,13,0
+2025,regular,Back Court Shot,71,7,0
+2025,regular,Back Court Shot,72,3,0
+2025,regular,Back Court Shot,73,1,0
+2025,regular,Back Court Shot,74,6,0
+2025,regular,Back Court Shot,75,6,0
+2025,regular,Back Court Shot,76,6,0
+2025,regular,Back Court Shot,77,3,0
+2025,regular,Back Court Shot,78,4,0
+2025,regular,Back Court Shot,79,1,0
+2025,regular,Back Court Shot,80,3,0
+2025,regular,Back Court Shot,81,3,0
+2025,regular,Back Court Shot,82,3,0
+2025,regular,Back Court Shot,83,2,0
+2025,regular,Back Court Shot,84,2,0
+2025,regular,Back Court Shot,85,1,0
+2025,regular,Less Than 8 ft.,0,14679,11167
+2025,regular,Less Than 8 ft.,1,19189,13951
+2025,regular,Less Than 8 ft.,2,15766,9462
+2025,regular,Less Than 8 ft.,3,11556,6023
+2025,regular,Less Than 8 ft.,4,8138,3673
+2025,regular,Less Than 8 ft.,5,7008,3110
+2025,regular,Less Than 8 ft.,6,6386,2731
+2025,regular,Less Than 8 ft.,7,5206,2227
+2025,regular,Less Than 8 ft.,8,16,6
