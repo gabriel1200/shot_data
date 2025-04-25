@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
+# In[41]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -251,7 +251,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations('2024-25',ps=ps)
 
 
-# In[4]:
+# In[31]:
 
 
 def assist_paths(ps = False):
@@ -384,30 +384,38 @@ def scrape_assists(ps=False):
             print(f'Year done: {year}{carry}')
         else:
             print('Already scraped everything.')
-def clean_assists(ps = False):
-    carry="ps"
-    if ps == False:
-        carry=""
+def clean_assists(ps=False):
+    carry = "ps" if ps else ""
 
-    for year in range (1997,2026):
-  
-        path = "assists/"+str(year)+carry+"/ast.csv"
+    for year in range(1997, 2026):
+        path = f"assists/{year}{carry}/ast.csv"
+        
+        if not os.path.exists(path):
+            print(f"File not found: {path}")
+            continue  # Skip to the next year if the file doesn't exist
+
         df = pd.read_csv(path)
+        
         if 'Unnamed: 0' in df.columns:
-            df.drop(columns=['Unnamed: 0'],inplace=True)
-        df.to_csv(path,index=False)
-clean_assists()
+            df.drop(columns=['Unnamed: 0'], inplace=True)
 
+        df.to_csv(path, index=False)
+trail = ''
+if ps == True:
+    trail='ps'
 
-# In[5]:
-
-
-ps = ''
 master = []
 year = 2025
 
-# Load year assists
-year_assists = pd.read_csv(f'assists/{year}/ast.csv')
+assist_file_path = f'assists/{year}{trail}/ast.csv'
+if os.path.exists(assist_file_path):
+    year_assists = pd.read_csv(assist_file_path)
+    year_assists['SHOT_ID'] = year_assists['SHOT_ID'].astype(str)
+else:
+    print(f"Assist file not found for {year}{trail}, creating empty DataFrame.")
+    year_assists = pd.DataFrame(columns=['SHOT_ID'])  # Default to empty so nothing gets marked as assisted
+scrape_assists(ps=ps)
+clean_assists(ps=ps)
 
 # Ensure SHOT_ID has '00' at the front
 year_assists['SHOT_ID'] = year_assists['SHOT_ID'].astype(str)
@@ -416,7 +424,7 @@ year_assists['SHOT_ID'] = year_assists['SHOT_ID'].astype(str)
 # Load all shots data
 for team in teams.get_teams():
     team_id = team['id']
-    file_path = f'team/{year}{ps}/{team_id}.csv'
+    file_path = f'team/{year}{trail}/{team_id}.csv'
     
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
@@ -441,13 +449,19 @@ print(all_shots['assisted'].sum()/len(all_shots))
 for team in teams.get_teams():
     team_id = team['id']
     team_shots=all_shots[all_shots.TEAM_ID==team_id]
-    file_path = f'team/{year}{ps}/{team_id}.csv'
+    file_path = f'team/{year}{trail}/{team_id}.csv'
     team_shots.to_csv(file_path,index=False)
     print(team_shots.columns)
     print(len(team_shots))
 
 
-# In[6]:
+# In[ ]:
+
+
+
+
+
+# In[ ]:
 
 
 for team in teams.get_teams():
@@ -465,7 +479,7 @@ for team in teams.get_teams():
     shotmap = opp_shots
                                         
     shotmap['GAME_ID'] = shotmap['GAME_ID'].astype(str)
-    path = 'rotations/'+str(year)+ps
+    path = 'rotations/'+str(year)+trail
 
     if os.path.exists(path+'/'+str(team_id)+'.csv'):
         print(team)
@@ -527,20 +541,24 @@ for team in teams.get_teams():
             id_count.append(count)
         print(value_dict)
         final_shotmap = final_shotmap.drop(columns='id_count')
-        final_shotmap.to_csv('team/'+str(year)+ps+'/'+str(team_id)+'vs.csv',index = False)
+        print(trail)
+        final_shotmap.to_csv('team/'+str(year)+trail+'/'+str(team_id)+'vs.csv',index = False)
         print(final_shotmap['TEAM_NAME'].unique())
         #print(final_shotmap.head())
 
 
-# In[7]:
+# In[ ]:
 
 
-year_assists = pd.read_csv(f'assists/{year}/ast.csv')
+year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[8]:
+# In[34]:
 
 
+trail = ''
+if ps == True:
+    trail='ps'
 players = all_shots.PLAYER_ID.unique().tolist()
 for player in players:
     df = all_shots[all_shots.PLAYER_ID==player]
@@ -551,10 +569,10 @@ for player in players:
        'LOC_X', 'LOC_Y', 'SHOT_ATTEMPTED_FLAG', 'SHOT_MADE_FLAG', 'GAME_DATE','assisted',
        'HTM', 'VTM']
     df=df[columns]
-    df.to_csv('2025/'+str(player)+'.csv',index=False)
+    df.to_csv('2025'+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[9]:
+# In[35]:
 
 
 def get_rotations(season,ps=False):
@@ -664,7 +682,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[10]:
+# In[36]:
 
 
 '''
@@ -723,7 +741,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[11]:
+# In[37]:
 
 
 start_year=1997
@@ -794,13 +812,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[12]:
+# In[ ]:
 
 
-dates[dates.playoffs==True].tail(20)
+dates[dates.playoffs==False].tail(20)
 
 
-# In[13]:
+# In[39]:
 
 
 width = 2400
