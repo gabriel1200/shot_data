@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[41]:
+# In[ ]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -251,7 +251,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations('2024-25',ps=ps)
 
 
-# In[31]:
+# In[2]:
 
 
 def assist_paths(ps = False):
@@ -461,7 +461,7 @@ for team in teams.get_teams():
 
 
 
-# In[ ]:
+# In[3]:
 
 
 for team in teams.get_teams():
@@ -547,13 +547,13 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[ ]:
+# In[4]:
 
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[34]:
+# In[5]:
 
 
 trail = ''
@@ -572,7 +572,7 @@ for player in players:
     df.to_csv('2025'+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[35]:
+# In[6]:
 
 
 def get_rotations(season,ps=False):
@@ -682,7 +682,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[36]:
+# In[7]:
 
 
 '''
