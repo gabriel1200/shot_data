@@ -89,7 +89,7 @@ def get_role_averages():
 
         print(year)
     return pd.concat(frames)
-        
+
 df = get_role_averages()
 
 

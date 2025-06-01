@@ -429,27 +429,27 @@ for ssn in seasons:
         'Isolation', 'PRBallHandler', 'PRRollMan', 'Spotup', 'Postup', 
         'Transition', 'Handoff', 'Cut', 'OffScreen', 'Misc'
     ]
-    
+
     for playtype in playtypes:
         url = 'https://stats.nba.com/stats/synergyplaytypes?LeagueID=00&PerMode=Totals&PlayType=' + playtype + '&PlayerOrTeam=P&SeasonType=Regular+Season&SeasonYear=' + str(ssn) + '&TypeGrouping=offensive'
-    
+
         json = requests.get(url, headers=headers).json()
         time.sleep(1)
-    
+
         data = json['resultSets'][0]['rowSet']
         columns = json['resultSets'][0]['headers']
-    
+
         df_playtypes = pd.DataFrame.from_records(data, columns=columns)
-        
+
         # Dynamically rename columns
         df_playtypes.rename(columns={
             'POSS_PCT': f'{playtype}_POSS_PCT',
             'EFG_PCT': f'{playtype}_EFG_PCT',
             'PTS': f'{playtype}_PTS'
         }, inplace=True)
-    
+
         g = df_playtypes.groupby(['PLAYER_NAME'])
-    
+
         processed_df = pd.merge(
             g.apply(lambda x: pd.Series(
                 np.average(x[[f'{playtype}_POSS_PCT',f'{playtype}_EFG_PCT']],
@@ -459,11 +459,11 @@ for ssn in seasons:
             pd.DataFrame(g.sum()[f'{playtype}_PTS']).reset_index(drop=False),
             on='PLAYER_NAME'
         )
-    
+
         # Merge processed play type data into main dataframe
         df = pd.merge(df, processed_df, on='PLAYER_NAME', how='left')
-        
-    
+
+
     # Add feature engineering for new play types
     playtype_pts=[]
     for playtype in playtypes:
@@ -474,7 +474,7 @@ for ssn in seasons:
     nlist= ['FGM','FGA','FG2M','FG2A','FG3M','FG3A','FTM','FTA','OREB','DREB','REB','AST','TOV','STL','BLK','BLKA','PF','PFD','PTS','CONTESTED_SHOTS','CONTESTED_SHOTS_2PT','CONTESTED_SHOTS_3PT','DEFLECTIONS','CHARGES_DRAWN','SCREEN_ASSISTS','SCREEN_AST_PTS','OFF_LOOSE_BALLS_RECOVERED','DEF_LOOSE_BALLS_RECOVERED','LOOSE_BALLS_RECOVERED','OFF_BOXOUTS','DEF_BOXOUTS','BOX_OUT_PLAYER_TEAM_REBS','BOX_OUT_PLAYER_REBS','BOX_OUTS','PASSES_MADE','PASSES_RECEIVED','FT_AST','SECONDARY_AST','POTENTIAL_AST','AST_PTS_CREATED','DIST_MILES','DIST_MILES_OFF','DIST_MILES_DEF','TOUCHES','FRONT_CT_TOUCHES','ELBOW_TOUCHES','POST_TOUCHES','DRIVE_PTS','CATCH_SHOOT_PTS','PULL_UP_PTS','PAINT_TOUCH_PTS','POST_TOUCH_PTS','ELBOW_TOUCH_PTS','D_FGM','D_FGA','PTS_OFF_TOV','PTS_2ND_CHANCE','PTS_FB','PTS_PAINT','REB_CHANCES','RA_FGM','RA_FGA','PAINT_FGM','PAINT_FGA','MIDRANGE_FGM','MIDRANGE_FGA','LC3_FGM','LC3_FGA','RC3_FGM','RC3_FGA','C3_FGM','C3_FGA','AB3_FGM','AB3_FGA','DRIVES','DRIVE_PTS']
     nlist= nlist+playtype_pts
     for n in nlist:
-    
+
     #for n in ['FGM','FGA','FG2M','FG2A','FG3M','FG3A','FTM','FTA','OREB','DREB','REB','AST','TOV','STL','BLK','BLKA','PF','PFD','PTS','CONTESTED_SHOTS','CONTESTED_SHOTS_2PT','CONTESTED_SHOTS_3PT','DEFLECTIONS','CHARGES_DRAWN','SCREEN_ASSISTS','SCREEN_AST_PTS','OFF_LOOSE_BALLS_RECOVERED','DEF_LOOSE_BALLS_RECOVERED','LOOSE_BALLS_RECOVERED','OFF_BOXOUTS','DEF_BOXOUTS','BOX_OUT_PLAYER_TEAM_REBS','BOX_OUT_PLAYER_REBS','BOX_OUTS','PASSES_MADE','PASSES_RECEIVED','FT_AST','SECONDARY_AST','POTENTIAL_AST','AST_PTS_CREATED','DIST_MILES','DIST_MILES_OFF','DIST_MILES_DEF','TOUCHES','FRONT_CT_TOUCHES','ELBOW_TOUCHES','POST_TOUCHES','DRIVE_PTS','CATCH_SHOOT_PTS','PULL_UP_PTS','PAINT_TOUCH_PTS','POST_TOUCH_PTS','ELBOW_TOUCH_PTS','D_FGM','D_FGA','PTS_OFF_TOV','PTS_2ND_CHANCE','PTS_FB','PTS_PAINT','REB_CHANCES','ISO_PTS','PRBH_PTS','PRRM_PTS','SU_PTS','DRIVES','DRIVE_PTS']:
 
         df[n] = 36*(df[n]/df.MIN)
@@ -495,17 +495,17 @@ for ssn in seasons:
     df['TS%'] = df['PTS'] / (2 * (df['FGA'] + 0.44 * df['FTA']))
     df['eFG%'] = (df['FGM'] + 0.5 * df['FG3M']) / df['FGA']
     df['PASS_EFF'] = df['AST'] / df['PASSES_MADE']
-    
+
     df['SEASON'] = ssn
     df['year']=int(ssn.split('-')[0])+1
-    
+
     df = df.drop_duplicates(subset=['PLAYER_NAME','AGE'])
 
     df.fillna(0, inplace=True)
 
     df_list.append(df)
     print(f"Year {ssn} is finished.")
-    
+
 df = pd.concat(df_list).reset_index(drop=True)
 for year in range (df['year'].min(),df['year'].max()+1):
     yeardf = df[df.year==year]
@@ -518,39 +518,39 @@ for year in range (df['year'].min(),df['year'].max()+1):
 
 def save_cluster_data(year):
     df = pd.read_csv(f'cluster_{year}.csv')
-    
+
     season = str(year-1)+'-'+str(year)[-2:]
     print(season)
     testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
     print(testdf)
-    
+
     # Identify numeric columns
     features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
-    
+
     # Convert features to numeric, handling potential errors
     x = testdf.loc[:, features].apply(pd.to_numeric, errors='coerce').values
-    
+
     # Replace inf and NaN with 0
     x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
 
     # Standardize the data
     x = StandardScaler().fit_transform(x)
-    
+
     # PCA
     pca = PCA(n_components=0.99)
     principalComponents = pca.fit_transform(x)
-    
+
     # Clustering (using linkage instead of fcluster)
     linkage_matrix = shc.linkage(principalComponents, method='ward')
     cluster_labels = shc.fcluster(linkage_matrix, t=25, criterion='distance')
-    
+
     # Create a DataFrame mapping players to their cluster labels and IDs
     player_cluster_mapping = pd.DataFrame({
         'PLAYER_NAME': testdf['PLAYER_NAME'].values, 
         'PLAYER_ID': testdf['PLAYER_ID'].values,
         'CLUSTER': cluster_labels
     })
-    
+
     # Prepare a DataFrame to hold each player and their 5 most similar players
     similar_players_df = pd.DataFrame()
     for idx, player in enumerate(testdf['PLAYER_NAME']):
@@ -558,20 +558,20 @@ def save_cluster_data(year):
        player_row = player_cluster_mapping[player_cluster_mapping['PLAYER_NAME'] == player]
        cluster = player_row['CLUSTER'].iloc[0]
        base_player_id = player_row['PLAYER_ID'].iloc[0]
-       
+
        # Get indices of players in the same cluster
        indices = player_cluster_mapping[player_cluster_mapping['CLUSTER'] == cluster].index
-       
+
        # Calculate distances from the current player to others in the same cluster
        distances = euclidean_distances(principalComponents[indices], [principalComponents[idx]]).flatten()
-       
+
        # Get indices of the 5 closest players
        closest_indices = np.argsort(distances)[1:6]  # Exclude the closest (itself)
-       
+
        # Extract names, IDs, and distances of the 5 closest players
        closest_players = player_cluster_mapping.iloc[indices[closest_indices]]
        closest_distances = distances[closest_indices]
-       
+
        # Create a new row with player name and ID, similar player names, IDs, and distances
        new_row = pd.DataFrame([{
            'PLAYER_NAME': player,
@@ -592,64 +592,64 @@ def save_cluster_data(year):
            'SIMILAR_5_ID': closest_players['PLAYER_ID'].iloc[4] if len(closest_players) > 4 else '',
            'SIMILAR_5_DISTANCE': closest_distances[4] if len(closest_distances) > 4 else ''
        }])
-       
+
        similar_players_df = pd.concat([similar_players_df, new_row], ignore_index=True)
-    
+
     # Export the DataFrame to a CSV file
     similar_players_df.to_csv(f'{year}_similar_players.csv', index=False)
     print("CSV file 'nba_similar_players.csv' has been created with each player and their 5 most similar players.")
-    
+
     # Filter the DataFrame
     testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
-    
+
     # Select features for clustering
     features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
-    
+
     # Standardize the data
     x = testdf.loc[:, features].apply(pd.to_numeric, errors='coerce').values
     x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
     x = StandardScaler().fit_transform(x)
-    
+
     # Perform PCA to reduce dimensionality
     pca = PCA(n_components=2)  # Reduce to 2 components for visualization
     principalComponents = pca.fit_transform(x)
-    
+
     # Add PCA components to dataframe
     for i in range(principalComponents.shape[1]):
         testdf[f'PCA_{i+1}'] = principalComponents[:, i]
-    
+
     # Determine optimal clusters using elbow method and silhouette scores
     inertia = []
     silhouette_scores = []
     k_range = range(2, 15)  # Range of cluster numbers to test
-    
+
     for k in k_range:
         kmeans = KMeans(n_clusters=k, random_state=42)
         kmeans.fit(principalComponents)
         inertia.append(kmeans.inertia_)
         silhouette_scores.append(silhouette_score(principalComponents, kmeans.labels_))
-    
+
     # Find the elbow point using KneeLocator
     knee_locator = KneeLocator(k_range, inertia, curve="convex", direction="decreasing")
     optimal_clusters_elbow = knee_locator.knee
-    
+
     # Find optimal clusters by silhouette score
     optimal_clusters_silhouette = k_range[np.argmax(silhouette_scores)]
-    
+
     # Let user choose optimal clusters
     print(f"Optimal clusters (Elbow): {optimal_clusters_elbow}")
     print(f"Optimal clusters (Silhouette): {optimal_clusters_silhouette}")
-    
+
     # Use a predefined number of clusters
     user_clusters = 8
-    
+
     print(f"Using {user_clusters} clusters for final clustering.")
-    
+
     # Perform KMeans clustering with the chosen number of clusters
     kmeans_final = KMeans(n_clusters=user_clusters, random_state=42)
     kmeans_final.fit(principalComponents)
     testdf['Cluster'] = kmeans_final.labels_
-    
+
     testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
 
 # Process the specified year range
