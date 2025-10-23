@@ -1,7 +1,7 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
 Shot Chart Detail,22000030,630,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,215,1,0,20201226,0,SAC,PHX
 Shot Chart Detail,22000039,115,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,123,111,1,0,20201227,0,SAC,PHX
-Shot Chart Detail,22000039,223,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,6,55,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,78,1,0,20201227,0,SAC,PHX
+Shot Chart Detail,22000039,223,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,6,55,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,78,1,0,20201227,0,SAC,PHX
 Shot Chart Detail,22000039,252,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,4,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,14,1,0,20201227,0,SAC,PHX
 Shot Chart Detail,22000039,260,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,50,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,14,1,1,20201227,0,SAC,PHX
 Shot Chart Detail,22000039,451,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,49,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20201227,1,SAC,PHX
@@ -14,55 +14,55 @@ Shot Chart Detail,22000053,534,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,
 Shot Chart Detail,22000053,576,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,1,53,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,35,1,0,20201229,0,PHX,NOP
 Shot Chart Detail,22000053,578,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,1,52,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,9,1,0,20201229,0,PHX,NOP
 Shot Chart Detail,22000053,583,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,1,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20201229,1,PHX,NOP
-Shot Chart Detail,22000076,157,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,4,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-6,115,1,0,20210101,0,DEN,PHX
-Shot Chart Detail,22000076,177,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,28,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,38,1,1,20210101,1,DEN,PHX
-Shot Chart Detail,22000076,209,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,21,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-157,239,1,0,20210101,0,DEN,PHX
+Shot Chart Detail,22000076,157,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,4,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-6,115,1,0,20210101,0,DEN,PHX
+Shot Chart Detail,22000076,177,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,28,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,38,1,1,20210101,1,DEN,PHX
+Shot Chart Detail,22000076,209,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-157,239,1,0,20210101,0,DEN,PHX
 Shot Chart Detail,22000185,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,29,1,1,20210304,1,PHX,GSW
 Shot Chart Detail,22000185,187,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,32,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,72,36,1,1,20210304,1,PHX,GSW
 Shot Chart Detail,22000185,515,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,20,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,65,98,1,1,20210304,1,PHX,GSW
 Shot Chart Detail,22000185,596,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,1,9,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,5,1,1,20210304,0,PHX,GSW
-Shot Chart Detail,22000194,40,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,25,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20210313,0,PHX,IND
+Shot Chart Detail,22000194,40,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,25,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20210313,0,PHX,IND
 Shot Chart Detail,22000208,113,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,90,229,1,1,20210118,1,MEM,PHX
 Shot Chart Detail,22000208,118,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-139,205,1,1,20210118,1,MEM,PHX
 Shot Chart Detail,22000208,146,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,52,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210118,0,MEM,PHX
 Shot Chart Detail,22000208,278,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,4,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-38,179,1,0,20210118,0,MEM,PHX
 Shot Chart Detail,22000208,295,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,240,1,0,20210118,0,MEM,PHX
 Shot Chart Detail,22000208,439,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,1,20210118,1,MEM,PHX
-Shot Chart Detail,22000208,462,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,51,Missed Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,17,-14,179,1,0,20210118,0,MEM,PHX
+Shot Chart Detail,22000208,462,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-14,179,1,0,20210118,0,MEM,PHX
 Shot Chart Detail,22000222,151,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-19,254,1,0,20210120,0,HOU,PHX
 Shot Chart Detail,22000222,154,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,26,1,1,20210120,1,HOU,PHX
 Shot Chart Detail,22000222,305,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,241,1,0,20210120,0,HOU,PHX
 Shot Chart Detail,22000222,308,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,2,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,17,1,1,20210120,1,HOU,PHX
-Shot Chart Detail,22000222,324,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,1,22,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,26,1,0,20210120,0,HOU,PHX
-Shot Chart Detail,22000222,507,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,18,-183,15,1,0,20210120,0,HOU,PHX
+Shot Chart Detail,22000222,324,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,1,22,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,26,1,0,20210120,0,HOU,PHX
+Shot Chart Detail,22000222,507,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,15,1,0,20210120,0,HOU,PHX
 Shot Chart Detail,22000238,112,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,34,1,1,20210122,1,PHX,DEN
-Shot Chart Detail,22000238,176,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,23,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,75,247,1,1,20210122,1,PHX,DEN
-Shot Chart Detail,22000238,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,233,1,0,20210122,0,PHX,DEN
-Shot Chart Detail,22000238,195,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,6,32,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,172,1,0,20210122,0,PHX,DEN
+Shot Chart Detail,22000238,176,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,75,247,1,1,20210122,1,PHX,DEN
+Shot Chart Detail,22000238,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,233,1,0,20210122,0,PHX,DEN
+Shot Chart Detail,22000238,195,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,6,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,172,1,0,20210122,0,PHX,DEN
 Shot Chart Detail,22000238,429,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20210122,1,PHX,DEN
-Shot Chart Detail,22000248,146,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,25,Made Shot,Turnaround Fadeaway Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,27,1,1,20210123,0,PHX,DEN
-Shot Chart Detail,22000248,164,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,28,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,91,1,0,20210123,0,PHX,DEN
+Shot Chart Detail,22000248,146,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,25,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,27,1,1,20210123,0,PHX,DEN
+Shot Chart Detail,22000248,164,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,28,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,91,1,0,20210123,0,PHX,DEN
 Shot Chart Detail,22000248,459,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-24,260,1,0,20210123,0,PHX,DEN
 Shot Chart Detail,22000248,560,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,5,41,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,57,78,1,0,20210123,0,PHX,DEN
-Shot Chart Detail,22000248,757,1626163,Frank Kaminsky,1610612756,Phoenix Suns,6,0,28,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,234,1,0,20210123,0,PHX,DEN
+Shot Chart Detail,22000248,757,1626163,Frank Kaminsky,1610612756,Phoenix Suns,6,0,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,234,1,0,20210123,0,PHX,DEN
 Shot Chart Detail,22000281,126,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,58,1,1,20210127,0,PHX,OKC
-Shot Chart Detail,22000281,184,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,19,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,0,20210127,0,PHX,OKC
-Shot Chart Detail,22000281,190,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,52,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20210127,0,PHX,OKC
-Shot Chart Detail,22000281,193,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,15,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,15,257,1,0,20210127,0,PHX,OKC
+Shot Chart Detail,22000281,184,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,19,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,11,1,0,20210127,0,PHX,OKC
+Shot Chart Detail,22000281,190,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20210127,0,PHX,OKC
+Shot Chart Detail,22000281,193,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,257,1,0,20210127,0,PHX,OKC
 Shot Chart Detail,22000281,292,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,63,243,1,0,20210127,0,PHX,OKC
 Shot Chart Detail,22000286,105,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,2,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210128,0,PHX,GSW
 Shot Chart Detail,22000286,137,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-4,1,1,20210128,1,PHX,GSW
-Shot Chart Detail,22000286,236,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,45,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,39,1,0,20210128,0,PHX,GSW
+Shot Chart Detail,22000286,236,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,45,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,39,1,0,20210128,0,PHX,GSW
 Shot Chart Detail,22000286,259,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,4,8,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-134,23,1,0,20210128,0,PHX,GSW
 Shot Chart Detail,22000286,508,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,11,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,119,22,1,0,20210128,0,PHX,GSW
 Shot Chart Detail,22000286,528,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20210128,1,PHX,GSW
-Shot Chart Detail,22000286,542,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,55,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,193,1,1,20210128,1,PHX,GSW
-Shot Chart Detail,22000286,557,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,6,27,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,29,1,1,20210128,0,PHX,GSW
+Shot Chart Detail,22000286,542,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,193,1,1,20210128,1,PHX,GSW
+Shot Chart Detail,22000286,557,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,6,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,29,1,1,20210128,0,PHX,GSW
 Shot Chart Detail,22000286,627,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,258,1,0,20210128,0,PHX,GSW
 Shot Chart Detail,22000303,106,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,3,18,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-58,43,1,0,20210130,0,DAL,PHX
 Shot Chart Detail,22000303,121,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,12,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-20,84,1,0,20210130,0,DAL,PHX
-Shot Chart Detail,22000303,160,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,47,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,1,20210130,1,DAL,PHX
-Shot Chart Detail,22000303,167,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,50,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20210130,1,DAL,PHX
+Shot Chart Detail,22000303,160,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-179,173,1,1,20210130,1,DAL,PHX
+Shot Chart Detail,22000303,167,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20210130,1,DAL,PHX
 Shot Chart Detail,22000303,434,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,2,15,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210130,0,DAL,PHX
 Shot Chart Detail,22000319,127,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,16,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,25,1,1,20210201,1,DAL,PHX
 Shot Chart Detail,22000319,131,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,14,1,0,20210201,0,DAL,PHX
@@ -70,26 +70,26 @@ Shot Chart Detail,22000319,150,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,
 Shot Chart Detail,22000319,160,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,9,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20210201,1,DAL,PHX
 Shot Chart Detail,22000319,432,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,179,186,1,1,20210201,1,DAL,PHX
 Shot Chart Detail,22000319,468,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,45,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,50,1,0,20210201,0,DAL,PHX
-Shot Chart Detail,22000319,535,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,21,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-18,256,1,0,20210201,0,DAL,PHX
+Shot Chart Detail,22000319,535,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-18,256,1,0,20210201,0,DAL,PHX
 Shot Chart Detail,22000335,157,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,48,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,12,1,0,20210203,0,NOP,PHX
 Shot Chart Detail,22000335,283,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-62,254,1,0,20210203,0,NOP,PHX
-Shot Chart Detail,22000335,303,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,0,47,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,54,1,1,20210203,1,NOP,PHX
+Shot Chart Detail,22000335,303,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,0,47,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,54,1,1,20210203,1,NOP,PHX
 Shot Chart Detail,22000335,450,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,2,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,19,1,1,20210203,1,NOP,PHX
 Shot Chart Detail,22000335,456,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,2,13,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210203,0,NOP,PHX
-Shot Chart Detail,22000335,554,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,40,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,26,1,0,20210203,0,NOP,PHX
-Shot Chart Detail,22000349,36,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,13,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-9,1,1,20210205,1,PHX,DET
-Shot Chart Detail,22000349,40,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,42,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,117,1,1,20210205,1,PHX,DET
+Shot Chart Detail,22000335,554,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,26,1,0,20210203,0,NOP,PHX
+Shot Chart Detail,22000349,36,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,13,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,-9,1,1,20210205,1,PHX,DET
+Shot Chart Detail,22000349,40,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,9,117,1,1,20210205,1,PHX,DET
 Shot Chart Detail,22000349,281,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,186,1,0,20210205,0,PHX,DET
 Shot Chart Detail,22000349,297,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,145,212,1,1,20210205,1,PHX,DET
-Shot Chart Detail,22000349,330,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,0,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,91,1,0,20210205,0,PHX,DET
-Shot Chart Detail,22000349,385,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,1,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,218,1,1,20210205,1,PHX,DET
-Shot Chart Detail,22000349,404,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,19,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-60,243,1,1,20210205,1,PHX,DET
-Shot Chart Detail,22000365,15,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,29,Made Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,11,1,1,20210207,1,PHX,BOS
-Shot Chart Detail,22000365,19,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,0,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-7,1,1,20210207,1,PHX,BOS
-Shot Chart Detail,22000365,38,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,114,1,0,20210207,0,PHX,BOS
-Shot Chart Detail,22000365,299,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,11,33,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,24,29,1,0,20210207,0,PHX,BOS
-Shot Chart Detail,22000365,312,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,22,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,75,268,1,1,20210207,1,PHX,BOS
-Shot Chart Detail,22000365,316,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,9,34,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,106,118,1,1,20210207,1,PHX,BOS
+Shot Chart Detail,22000349,330,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,0,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,64,91,1,0,20210205,0,PHX,DET
+Shot Chart Detail,22000349,385,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,218,1,1,20210205,1,PHX,DET
+Shot Chart Detail,22000349,404,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-60,243,1,1,20210205,1,PHX,DET
+Shot Chart Detail,22000365,15,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,29,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,11,1,1,20210207,1,PHX,BOS
+Shot Chart Detail,22000365,19,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-7,1,1,20210207,1,PHX,BOS
+Shot Chart Detail,22000365,38,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,220,114,1,0,20210207,0,PHX,BOS
+Shot Chart Detail,22000365,299,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,11,33,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,24,29,1,0,20210207,0,PHX,BOS
+Shot Chart Detail,22000365,312,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,75,268,1,1,20210207,1,PHX,BOS
+Shot Chart Detail,22000365,316,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,9,34,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,106,118,1,1,20210207,1,PHX,BOS
 Shot Chart Detail,22000372,15,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,41,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-18,59,1,0,20210208,0,PHX,CLE
 Shot Chart Detail,22000372,148,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,26,1,0,20210208,0,PHX,CLE
 Shot Chart Detail,22000372,161,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,10,1,1,20210208,0,PHX,CLE
@@ -99,79 +99,79 @@ Shot Chart Detail,22000372,325,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,
 Shot Chart Detail,22000372,355,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,9,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,0,20210208,0,PHX,CLE
 Shot Chart Detail,22000372,481,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,11,3,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,48,1,0,20210208,0,PHX,CLE
 Shot Chart Detail,22000372,570,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,5,3,Missed Shot,Running Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-42,48,1,0,20210208,0,PHX,CLE
-Shot Chart Detail,22000389,51,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,35,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,136,248,1,1,20210210,1,PHX,MIL
-Shot Chart Detail,22000389,60,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,5,53,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,115,245,1,0,20210210,0,PHX,MIL
-Shot Chart Detail,22000389,205,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,10,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-174,132,1,1,20210210,1,PHX,MIL
+Shot Chart Detail,22000389,51,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,136,248,1,1,20210210,1,PHX,MIL
+Shot Chart Detail,22000389,60,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,5,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,115,245,1,0,20210210,0,PHX,MIL
+Shot Chart Detail,22000389,205,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,10,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-174,132,1,1,20210210,1,PHX,MIL
 Shot Chart Detail,22000389,262,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,2,15,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,34,1,0,20210210,0,PHX,MIL
-Shot Chart Detail,22000389,331,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,11,3,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,43,1,0,20210210,0,PHX,MIL
+Shot Chart Detail,22000389,331,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,11,3,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,69,43,1,0,20210210,0,PHX,MIL
 Shot Chart Detail,22000389,486,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,9,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210210,0,PHX,MIL
-Shot Chart Detail,22000389,510,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,18,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,81,231,1,1,20210210,1,PHX,MIL
-Shot Chart Detail,22000389,528,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,7,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-229,15,1,0,20210210,0,PHX,MIL
-Shot Chart Detail,22000389,562,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,6,29,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210210,0,PHX,MIL
-Shot Chart Detail,22000389,577,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,5,34,Missed Shot,Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,25,1,0,20210210,0,PHX,MIL
-Shot Chart Detail,22000406,7,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,30,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,19,-137,142,1,0,20210213,0,PHX,PHI
-Shot Chart Detail,22000406,42,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,55,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,13,101,1,1,20210213,1,PHX,PHI
-Shot Chart Detail,22000406,60,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,33,1,0,20210213,0,PHX,PHI
-Shot Chart Detail,22000417,25,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,49,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,23,285,1,0,20210214,0,PHX,ORL
-Shot Chart Detail,22000417,32,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,45,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20210214,1,PHX,ORL
-Shot Chart Detail,22000417,36,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,17,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,21,1,0,20210214,0,PHX,ORL
-Shot Chart Detail,22000417,69,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,58,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,205,1,0,20210214,0,PHX,ORL
-Shot Chart Detail,22000417,265,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,0,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,41,57,1,1,20210214,1,PHX,ORL
-Shot Chart Detail,22000417,351,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,7,51,Missed Shot,Cutting Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,18,1,0,20210214,0,PHX,ORL
-Shot Chart Detail,22000417,361,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,56,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,117,247,1,0,20210214,0,PHX,ORL
-Shot Chart Detail,22000455,35,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,30,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,20,1,0,20210219,0,NOP,PHX
-Shot Chart Detail,22000455,46,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,33,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-236,7,1,1,20210219,1,NOP,PHX
-Shot Chart Detail,22000455,53,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,43,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,21,1,1,20210219,1,NOP,PHX
-Shot Chart Detail,22000455,73,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,227,1,1,20210219,1,NOP,PHX
-Shot Chart Detail,22000455,204,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,9,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-46,263,1,1,20210219,1,NOP,PHX
-Shot Chart Detail,22000455,332,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,57,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-221,-7,1,1,20210219,1,NOP,PHX
-Shot Chart Detail,22000455,360,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,1,20210219,0,NOP,PHX
-Shot Chart Detail,22000455,384,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,19,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,51,1,0,20210219,0,NOP,PHX
-Shot Chart Detail,22000462,9,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,23,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,252,1,0,20210220,0,MEM,PHX
-Shot Chart Detail,22000462,17,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,32,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,35,1,0,20210220,0,MEM,PHX
-Shot Chart Detail,22000462,81,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,10,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,213,1,1,20210220,1,MEM,PHX
-Shot Chart Detail,22000462,206,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,16,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,235,1,0,20210220,0,MEM,PHX
-Shot Chart Detail,22000462,356,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,9,13,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-198,174,1,0,20210220,0,MEM,PHX
-Shot Chart Detail,22000462,363,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,21,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-117,94,1,0,20210220,0,MEM,PHX
-Shot Chart Detail,22000462,387,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,5,31,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,218,1,1,20210220,1,MEM,PHX
-Shot Chart Detail,22000477,26,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,54,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,20,1,0,20210222,0,PHX,POR
-Shot Chart Detail,22000477,59,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,47,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,16,1,0,20210222,0,PHX,POR
-Shot Chart Detail,22000477,313,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,38,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,1,20210222,1,PHX,POR
-Shot Chart Detail,22000477,347,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,220,1,0,20210222,0,PHX,POR
-Shot Chart Detail,22000496,42,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,56,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,0,20210224,0,PHX,CHA
-Shot Chart Detail,22000496,50,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,19,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,231,1,1,20210224,1,PHX,CHA
-Shot Chart Detail,22000496,60,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,16,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,0,20210224,0,PHX,CHA
-Shot Chart Detail,22000496,369,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,30,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,229,35,1,0,20210224,0,PHX,CHA
-Shot Chart Detail,22000496,373,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,10,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20210224,1,PHX,CHA
+Shot Chart Detail,22000389,510,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,81,231,1,1,20210210,1,PHX,MIL
+Shot Chart Detail,22000389,528,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,15,1,0,20210210,0,PHX,MIL
+Shot Chart Detail,22000389,562,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,6,29,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210210,0,PHX,MIL
+Shot Chart Detail,22000389,577,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,5,34,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,25,1,0,20210210,0,PHX,MIL
+Shot Chart Detail,22000406,7,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,30,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-137,142,1,0,20210213,0,PHX,PHI
+Shot Chart Detail,22000406,42,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,13,101,1,1,20210213,1,PHX,PHI
+Shot Chart Detail,22000406,60,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,33,1,0,20210213,0,PHX,PHI
+Shot Chart Detail,22000417,25,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,23,285,1,0,20210214,0,PHX,ORL
+Shot Chart Detail,22000417,32,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,45,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20210214,1,PHX,ORL
+Shot Chart Detail,22000417,36,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,17,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,21,1,0,20210214,0,PHX,ORL
+Shot Chart Detail,22000417,69,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,205,1,0,20210214,0,PHX,ORL
+Shot Chart Detail,22000417,265,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,0,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,41,57,1,1,20210214,1,PHX,ORL
+Shot Chart Detail,22000417,351,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,7,51,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,41,18,1,0,20210214,0,PHX,ORL
+Shot Chart Detail,22000417,361,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,117,247,1,0,20210214,0,PHX,ORL
+Shot Chart Detail,22000455,35,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,30,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,20,1,0,20210219,0,NOP,PHX
+Shot Chart Detail,22000455,46,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-236,7,1,1,20210219,1,NOP,PHX
+Shot Chart Detail,22000455,53,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,21,1,1,20210219,1,NOP,PHX
+Shot Chart Detail,22000455,73,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,103,227,1,1,20210219,1,NOP,PHX
+Shot Chart Detail,22000455,204,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-46,263,1,1,20210219,1,NOP,PHX
+Shot Chart Detail,22000455,332,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,-7,1,1,20210219,1,NOP,PHX
+Shot Chart Detail,22000455,360,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,1,20210219,0,NOP,PHX
+Shot Chart Detail,22000455,384,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,51,1,0,20210219,0,NOP,PHX
+Shot Chart Detail,22000462,9,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,252,1,0,20210220,0,MEM,PHX
+Shot Chart Detail,22000462,17,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,32,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,35,1,0,20210220,0,MEM,PHX
+Shot Chart Detail,22000462,81,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-120,213,1,1,20210220,1,MEM,PHX
+Shot Chart Detail,22000462,206,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,235,1,0,20210220,0,MEM,PHX
+Shot Chart Detail,22000462,356,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-198,174,1,0,20210220,0,MEM,PHX
+Shot Chart Detail,22000462,363,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,94,1,0,20210220,0,MEM,PHX
+Shot Chart Detail,22000462,387,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,218,1,1,20210220,1,MEM,PHX
+Shot Chart Detail,22000477,26,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,20,1,0,20210222,0,PHX,POR
+Shot Chart Detail,22000477,59,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,6,47,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,16,1,0,20210222,0,PHX,POR
+Shot Chart Detail,22000477,313,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,1,20210222,1,PHX,POR
+Shot Chart Detail,22000477,347,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,220,1,0,20210222,0,PHX,POR
+Shot Chart Detail,22000496,42,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,56,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,0,20210224,0,PHX,CHA
+Shot Chart Detail,22000496,50,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,8,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,231,1,1,20210224,1,PHX,CHA
+Shot Chart Detail,22000496,60,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,0,20210224,0,PHX,CHA
+Shot Chart Detail,22000496,369,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,35,1,0,20210224,0,PHX,CHA
+Shot Chart Detail,22000496,373,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20210224,1,PHX,CHA
 Shot Chart Detail,22000508,101,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,45,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,67,1,0,20210226,0,CHI,PHX
 Shot Chart Detail,22000508,116,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,47,1,0,20210226,0,CHI,PHX
 Shot Chart Detail,22000508,121,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,57,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-24,103,1,0,20210226,0,CHI,PHX
-Shot Chart Detail,22000508,155,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,52,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20210226,1,CHI,PHX
-Shot Chart Detail,22000508,159,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,18,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,243,1,0,20210226,0,CHI,PHX
-Shot Chart Detail,22000508,167,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,21,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20210226,1,CHI,PHX
-Shot Chart Detail,22000508,170,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,46,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,1,20210226,1,CHI,PHX
+Shot Chart Detail,22000508,155,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20210226,1,CHI,PHX
+Shot Chart Detail,22000508,159,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,243,1,0,20210226,0,CHI,PHX
+Shot Chart Detail,22000508,167,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20210226,1,CHI,PHX
+Shot Chart Detail,22000508,170,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,1,20210226,1,CHI,PHX
 Shot Chart Detail,22000508,379,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,2,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,12,1,1,20210226,1,CHI,PHX
 Shot Chart Detail,22000508,404,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,2,285,1,1,20210226,1,CHI,PHX
-Shot Chart Detail,22000508,427,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,11,34,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,29,1,1,20210226,1,CHI,PHX
-Shot Chart Detail,22000508,446,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,4,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-14,267,1,0,20210226,0,CHI,PHX
-Shot Chart Detail,22000508,448,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,59,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20210226,1,CHI,PHX
-Shot Chart Detail,22000508,461,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,241,1,0,20210226,0,CHI,PHX
-Shot Chart Detail,22000526,7,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,46,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,229,29,1,0,20210228,0,MIN,PHX
-Shot Chart Detail,22000526,11,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,0,20210228,0,MIN,PHX
-Shot Chart Detail,22000526,19,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,58,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,11,1,0,20210228,0,MIN,PHX
-Shot Chart Detail,22000526,22,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,29,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20210228,1,MIN,PHX
-Shot Chart Detail,22000526,26,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,59,Missed Shot,Turnaround Hook Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,13,36,1,0,20210228,0,MIN,PHX
-Shot Chart Detail,22000526,182,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,39,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,190,1,1,20210228,1,MIN,PHX
-Shot Chart Detail,22000526,204,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,8,Missed Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210228,0,MIN,PHX
-Shot Chart Detail,22000526,388,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,49,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,217,1,0,20210228,0,MIN,PHX
-Shot Chart Detail,22000526,412,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,44,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20210228,1,MIN,PHX
-Shot Chart Detail,22000577,322,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,15,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,1,1,1,20210311,0,POR,PHX
-Shot Chart Detail,22000577,351,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,7,57,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-55,245,1,0,20210311,0,POR,PHX
+Shot Chart Detail,22000508,427,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,11,34,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,44,29,1,1,20210226,1,CHI,PHX
+Shot Chart Detail,22000508,446,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-14,267,1,0,20210226,0,CHI,PHX
+Shot Chart Detail,22000508,448,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,59,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20210226,1,CHI,PHX
+Shot Chart Detail,22000508,461,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,241,1,0,20210226,0,CHI,PHX
+Shot Chart Detail,22000526,7,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,29,1,0,20210228,0,MIN,PHX
+Shot Chart Detail,22000526,11,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,11,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,22,1,0,20210228,0,MIN,PHX
+Shot Chart Detail,22000526,19,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,58,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,11,1,0,20210228,0,MIN,PHX
+Shot Chart Detail,22000526,22,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,10,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20210228,1,MIN,PHX
+Shot Chart Detail,22000526,26,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,9,59,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,36,1,0,20210228,0,MIN,PHX
+Shot Chart Detail,22000526,182,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,190,1,1,20210228,1,MIN,PHX
+Shot Chart Detail,22000526,204,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,8,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210228,0,MIN,PHX
+Shot Chart Detail,22000526,388,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,8,49,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,112,217,1,0,20210228,0,MIN,PHX
+Shot Chart Detail,22000526,412,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,6,44,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20210228,1,MIN,PHX
+Shot Chart Detail,22000577,322,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,10,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,1,1,1,20210311,0,POR,PHX
+Shot Chart Detail,22000577,351,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,7,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,245,1,0,20210311,0,POR,PHX
 Shot Chart Detail,22000607,172,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,8,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,92,85,1,1,20210315,0,PHX,MEM
 Shot Chart Detail,22000607,187,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,3,1,1,20210315,1,PHX,MEM
 Shot Chart Detail,22000607,595,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,3,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-111,90,1,0,20210315,0,PHX,MEM
 Shot Chart Detail,22000638,132,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-24,27,1,1,20210319,0,PHX,MIN
-Shot Chart Detail,22000638,473,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,40,257,1,0,20210319,0,PHX,MIN
+Shot Chart Detail,22000638,473,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,40,257,1,0,20210319,0,PHX,MIN
 Shot Chart Detail,22000638,504,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,3,1,1,20210319,1,PHX,MIN
 Shot Chart Detail,22000803,579,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,4,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,165,128,1,0,20210410,0,PHX,WAS
 Shot Chart Detail,22000860,555,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,140,246,1,0,20210417,0,PHX,SAS
@@ -179,61 +179,61 @@ Shot Chart Detail,22000860,636,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,
 Shot Chart Detail,22000912,256,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-93,237,1,1,20210425,1,BKN,PHX
 Shot Chart Detail,22000912,284,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,2,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-120,249,1,0,20210425,0,BKN,PHX
 Shot Chart Detail,22000912,416,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,20,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-37,4,1,0,20210425,0,BKN,PHX
-Shot Chart Detail,22000920,493,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,51,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,25,50,248,1,0,20210426,0,NYK,PHX
-Shot Chart Detail,22000920,500,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,17,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210426,0,NYK,PHX
+Shot Chart Detail,22000920,493,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,51,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,50,248,1,0,20210426,0,NYK,PHX
+Shot Chart Detail,22000920,500,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,17,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20210426,0,NYK,PHX
 Shot Chart Detail,22000941,96,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,3,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-11,204,1,1,20210428,1,PHX,LAC
 Shot Chart Detail,22000941,101,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,35,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-4,1,0,20210428,0,PHX,LAC
-Shot Chart Detail,22000941,127,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,2,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,89,1,0,20210428,0,PHX,LAC
-Shot Chart Detail,22000941,158,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,47,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20210428,1,PHX,LAC
-Shot Chart Detail,22000941,166,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,6,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20210428,1,PHX,LAC
+Shot Chart Detail,22000941,127,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,2,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,89,1,0,20210428,0,PHX,LAC
+Shot Chart Detail,22000941,158,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,47,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20210428,1,PHX,LAC
+Shot Chart Detail,22000941,166,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,8,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20210428,1,PHX,LAC
 Shot Chart Detail,22000941,268,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,2,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,258,1,1,20210428,1,PHX,LAC
 Shot Chart Detail,22000941,272,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,1,16,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,2,1,1,20210428,1,PHX,LAC
 Shot Chart Detail,22000941,276,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,0,44,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,0,1,1,20210428,1,PHX,LAC
 Shot Chart Detail,22000955,124,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,57,1,1,20210430,1,PHX,UTA
 Shot Chart Detail,22000955,127,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,20,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-41,143,1,1,20210430,1,PHX,UTA
-Shot Chart Detail,22000955,230,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,53,Missed Shot,Floating Jump shot,,Mid-Range,Right Side(R),8-16 ft.,9,87,43,1,0,20210430,0,PHX,UTA
-Shot Chart Detail,22000955,239,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,20,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,231,1,0,20210430,0,PHX,UTA
+Shot Chart Detail,22000955,230,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,53,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,43,1,0,20210430,0,PHX,UTA
+Shot Chart Detail,22000955,239,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,5,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,231,1,0,20210430,0,PHX,UTA
 Shot Chart Detail,22000955,414,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,36,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-67,94,1,1,20210430,0,PHX,UTA
 Shot Chart Detail,22000955,479,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-19,285,1,0,20210430,0,PHX,UTA
 Shot Chart Detail,22000955,493,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,6,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,2,48,1,0,20210430,0,PHX,UTA
 Shot Chart Detail,22000955,556,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,4,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,3,31,1,1,20210430,1,PHX,UTA
 Shot Chart Detail,22000972,115,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,236,111,1,0,20210502,0,OKC,PHX
 Shot Chart Detail,22000972,422,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,17,1,1,20210502,1,OKC,PHX
-Shot Chart Detail,22000972,501,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,26,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,57,1,1,20210502,1,OKC,PHX
-Shot Chart Detail,22000972,510,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,36,Made Shot,Floating Jump shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-1,34,1,1,20210502,1,OKC,PHX
-Shot Chart Detail,22000972,525,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,34,Missed Shot,Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,62,1,0,20210502,0,OKC,PHX
+Shot Chart Detail,22000972,501,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,26,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,57,1,1,20210502,1,OKC,PHX
+Shot Chart Detail,22000972,510,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,36,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,34,1,1,20210502,1,OKC,PHX
+Shot Chart Detail,22000972,525,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,34,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,62,1,0,20210502,0,OKC,PHX
 Shot Chart Detail,22000983,124,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-209,163,1,0,20210504,0,CLE,PHX
-Shot Chart Detail,22000983,166,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,38,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-13,29,1,1,20210504,0,CLE,PHX
-Shot Chart Detail,22000983,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,22,Missed Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,25,1,0,20210504,0,CLE,PHX
+Shot Chart Detail,22000983,166,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,29,1,1,20210504,0,CLE,PHX
+Shot Chart Detail,22000983,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,22,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,25,1,0,20210504,0,CLE,PHX
 Shot Chart Detail,22000983,466,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,19,37,1,1,20210504,1,CLE,PHX
-Shot Chart Detail,22000983,493,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,11,22,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,36,1,1,20210504,0,CLE,PHX
-Shot Chart Detail,22000983,500,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,26,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20210504,1,CLE,PHX
-Shot Chart Detail,22000983,504,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,44,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,1,20210504,1,CLE,PHX
-Shot Chart Detail,22000983,519,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,26,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,29,119,269,1,0,20210504,0,CLE,PHX
-Shot Chart Detail,22000983,527,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,33,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-8,25,1,0,20210504,0,CLE,PHX
+Shot Chart Detail,22000983,493,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,11,22,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-73,36,1,1,20210504,0,CLE,PHX
+Shot Chart Detail,22000983,500,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,26,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20210504,1,CLE,PHX
+Shot Chart Detail,22000983,504,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,9,44,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,52,1,1,20210504,1,CLE,PHX
+Shot Chart Detail,22000983,519,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,119,269,1,0,20210504,0,CLE,PHX
+Shot Chart Detail,22000983,527,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,7,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-8,25,1,0,20210504,0,CLE,PHX
 Shot Chart Detail,22000992,140,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-226,11,1,1,20210505,1,ATL,PHX
 Shot Chart Detail,22000992,436,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,31,1,1,20210505,1,ATL,PHX
 Shot Chart Detail,22001009,133,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,17,1,1,20210507,1,PHX,NYK
-Shot Chart Detail,22001009,179,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,23,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,3,21,1,1,20210507,1,PHX,NYK
-Shot Chart Detail,22001009,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,41,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,30,81,289,1,0,20210507,0,PHX,NYK
-Shot Chart Detail,22001009,188,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,9,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,46,1,0,20210507,0,PHX,NYK
-Shot Chart Detail,22001009,199,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,26,Made Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20210507,1,PHX,NYK
-Shot Chart Detail,22001009,226,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,6,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,146,237,1,0,20210507,0,PHX,NYK
+Shot Chart Detail,22001009,179,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,23,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,21,1,1,20210507,1,PHX,NYK
+Shot Chart Detail,22001009,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,81,289,1,0,20210507,0,PHX,NYK
+Shot Chart Detail,22001009,188,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,9,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-3,46,1,0,20210507,0,PHX,NYK
+Shot Chart Detail,22001009,199,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,1,20210507,1,PHX,NYK
+Shot Chart Detail,22001009,226,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,146,237,1,0,20210507,0,PHX,NYK
 Shot Chart Detail,22001009,452,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,4,1,1,20210507,1,PHX,NYK
-Shot Chart Detail,22001024,62,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,12,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,24,109,1,0,20210509,0,LAL,PHX
+Shot Chart Detail,22001024,62,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,7,12,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,24,109,1,0,20210509,0,LAL,PHX
 Shot Chart Detail,22001024,101,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,251,1,0,20210509,0,LAL,PHX
 Shot Chart Detail,22001024,112,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,3,33,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-18,152,1,1,20210509,1,LAL,PHX
 Shot Chart Detail,22001024,116,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,3,1,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,50,1,1,20210509,1,LAL,PHX
-Shot Chart Detail,22001024,162,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,45,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,225,41,1,0,20210509,0,LAL,PHX
-Shot Chart Detail,22001024,196,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,4,Missed Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,191,1,0,20210509,0,LAL,PHX
+Shot Chart Detail,22001024,162,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,41,1,0,20210509,0,LAL,PHX
+Shot Chart Detail,22001024,196,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,4,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,160,191,1,0,20210509,0,LAL,PHX
 Shot Chart Detail,22001024,306,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,3,26,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,67,1,1,20210509,1,LAL,PHX
 Shot Chart Detail,22001024,512,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,0,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,19,27,1,0,20210509,0,LAL,PHX
-Shot Chart Detail,22001024,563,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,48,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-4,36,1,1,20210509,1,LAL,PHX
-Shot Chart Detail,22001039,142,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,44,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,95,1,1,20210511,1,GSW,PHX
-Shot Chart Detail,22001039,149,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,14,Missed Shot,Driving Hook Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,92,1,0,20210511,0,GSW,PHX
-Shot Chart Detail,22001039,172,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,3,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,39,1,1,20210511,0,GSW,PHX
-Shot Chart Detail,22001039,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,47,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,0,20210511,0,GSW,PHX
-Shot Chart Detail,22001039,486,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,27,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,66,1,0,20210511,0,GSW,PHX
+Shot Chart Detail,22001024,563,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,8,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,36,1,1,20210509,1,LAL,PHX
+Shot Chart Detail,22001039,142,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,95,1,1,20210511,1,GSW,PHX
+Shot Chart Detail,22001039,149,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,14,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,92,1,0,20210511,0,GSW,PHX
+Shot Chart Detail,22001039,172,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,9,3,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,39,1,1,20210511,0,GSW,PHX
+Shot Chart Detail,22001039,183,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,7,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,28,1,0,20210511,0,GSW,PHX
+Shot Chart Detail,22001039,486,1626163,Frank Kaminsky,1610612756,Phoenix Suns,4,10,27,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,66,1,0,20210511,0,GSW,PHX
 Shot Chart Detail,22001053,101,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,2,59,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-34,83,1,0,20210513,0,PHX,POR
 Shot Chart Detail,22001053,120,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,1,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,258,1,0,20210513,0,PHX,POR
 Shot Chart Detail,22001053,139,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,0,3,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20210513,0,PHX,POR
@@ -241,8 +241,8 @@ Shot Chart Detail,22001053,141,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,
 Shot Chart Detail,22001053,402,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,3,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,22,263,1,0,20210513,0,PHX,POR
 Shot Chart Detail,22001053,423,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,38,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,27,1,0,20210513,0,PHX,POR
 Shot Chart Detail,22001065,93,1626163,Frank Kaminsky,1610612756,Phoenix Suns,1,4,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-100,154,1,0,20210515,0,SAS,PHX
-Shot Chart Detail,22001065,157,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,11,Made Shot,Turnaround Hook Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,52,1,1,20210515,1,SAS,PHX
-Shot Chart Detail,22001065,177,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,1,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,93,132,1,0,20210515,0,SAS,PHX
+Shot Chart Detail,22001065,157,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,11,11,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-3,52,1,1,20210515,1,SAS,PHX
+Shot Chart Detail,22001065,177,1626163,Frank Kaminsky,1610612756,Phoenix Suns,2,10,1,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,93,132,1,0,20210515,0,SAS,PHX
 Shot Chart Detail,22001065,424,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,4,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,62,1,0,20210515,0,SAS,PHX
 Shot Chart Detail,22001065,444,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,2,38,Missed Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,17,1,0,20210515,0,SAS,PHX
 Shot Chart Detail,22001065,464,1626163,Frank Kaminsky,1610612756,Phoenix Suns,3,1,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,16,1,1,20210515,1,SAS,PHX

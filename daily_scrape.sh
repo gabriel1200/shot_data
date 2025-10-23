@@ -1,9 +1,9 @@
-jupyter nbconvert --to script get_min.ipynb
+#jupyter nbconvert --to script get_min.ipynb
 
-jupyter nbconvert --to script cluster/cluster2_scrape.ipynb
+#jupyter nbconvert --to script cluster/cluster2_scrape.ipynb
 
-jupyter nbconvert --to script roles.ipynb
-jupyter nbconvert --to script gen_opp.ipynb
+#jupyter nbconvert --to script roles.ipynb
+#jupyter nbconvert --to script gen_opp.ipynb
 
 
 python get_min.py

@@ -1,8 +1,8 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
-Shot Chart Detail,42000151,9,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,28,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-202,196,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,13,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,59,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,17,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,16,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,-13,1,1,20210523,1,PHX,LAL
-Shot Chart Detail,42000151,71,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,23,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20210523,1,PHX,LAL
+Shot Chart Detail,42000151,9,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-202,196,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,13,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,59,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,17,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-13,1,1,20210523,1,PHX,LAL
+Shot Chart Detail,42000151,71,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-3,1,1,20210523,1,PHX,LAL
 Shot Chart Detail,42000151,90,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-3,1,1,20210523,0,PHX,LAL
 Shot Chart Detail,42000151,127,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,42,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,16,1,1,20210523,0,PHX,LAL
 Shot Chart Detail,42000151,130,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,33,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,55,302,1,0,20210523,0,PHX,LAL
@@ -10,190 +10,190 @@ Shot Chart Detail,42000151,209,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,
 Shot Chart Detail,42000151,220,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-160,34,1,0,20210523,0,PHX,LAL
 Shot Chart Detail,42000151,226,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,11,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-14,63,1,0,20210523,0,PHX,LAL
 Shot Chart Detail,42000151,232,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,53,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20210523,1,PHX,LAL
-Shot Chart Detail,42000151,266,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,3,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-5,112,1,1,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,268,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,42,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,32,109,1,1,20210523,1,PHX,LAL
-Shot Chart Detail,42000151,288,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,33,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),16-24 ft.,16,-161,33,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,333,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,0,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,12,262,1,1,20210523,1,PHX,LAL
-Shot Chart Detail,42000151,375,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,59,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,151,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,377,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,55,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,57,272,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,396,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,37,Missed Shot,Driving Layup Shot,,Mid-Range,Right Side(R),8-16 ft.,9,93,-13,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,407,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,9,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-55,99,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,499,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,45,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,116,127,1,1,20210523,1,PHX,LAL
-Shot Chart Detail,42000151,503,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,4,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,240,1,1,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,517,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,21,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,131,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,567,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,34,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,27,-5,1,1,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,586,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,16,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,8,106,1,1,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,589,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,42,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),16-24 ft.,18,153,106,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000151,607,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,16,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-139,237,1,0,20210523,0,PHX,LAL
-Shot Chart Detail,42000152,7,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,40,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,97,1,0,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,47,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,31,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,24,-12,247,1,0,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,104,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,29,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-119,183,1,0,20210525,0,PHX,LAL
+Shot Chart Detail,42000151,266,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-5,112,1,1,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,268,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,42,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,32,109,1,1,20210523,1,PHX,LAL
+Shot Chart Detail,42000151,288,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,33,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-161,33,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,333,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,12,262,1,1,20210523,1,PHX,LAL
+Shot Chart Detail,42000151,375,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,59,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,151,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,377,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,57,272,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,396,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,93,-13,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,407,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,9,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-55,99,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,499,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,45,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,116,127,1,1,20210523,1,PHX,LAL
+Shot Chart Detail,42000151,503,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,240,1,1,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,517,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,21,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,131,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,567,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,34,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-5,1,1,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,586,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,8,106,1,1,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,589,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,42,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,153,106,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000151,607,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,16,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-139,237,1,0,20210523,0,PHX,LAL
+Shot Chart Detail,42000152,7,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,40,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,97,1,0,20210525,0,PHX,LAL
+Shot Chart Detail,42000152,47,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,31,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-12,247,1,0,20210525,0,PHX,LAL
+Shot Chart Detail,42000152,104,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,29,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-119,183,1,0,20210525,0,PHX,LAL
 Shot Chart Detail,42000152,142,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,18,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-78,143,1,1,20210525,1,PHX,LAL
 Shot Chart Detail,42000152,183,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,2,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,275,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,17,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,103,111,1,1,20210525,1,PHX,LAL
-Shot Chart Detail,42000152,289,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,35,Missed Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-3,1,0,20210525,0,PHX,LAL
+Shot Chart Detail,42000152,275,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,103,111,1,1,20210525,1,PHX,LAL
+Shot Chart Detail,42000152,289,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,35,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-3,1,0,20210525,0,PHX,LAL
 Shot Chart Detail,42000152,302,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,28,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,81,136,1,0,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,368,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,46,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-81,153,1,0,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,389,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,58,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,1,161,1,1,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,394,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,18,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-8,34,1,1,20210525,0,PHX,LAL
-Shot Chart Detail,42000152,397,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,47,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,59,1,1,20210525,1,PHX,LAL
+Shot Chart Detail,42000152,368,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-81,153,1,0,20210525,0,PHX,LAL
+Shot Chart Detail,42000152,389,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,1,161,1,1,20210525,0,PHX,LAL
+Shot Chart Detail,42000152,394,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,18,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-8,34,1,1,20210525,0,PHX,LAL
+Shot Chart Detail,42000152,397,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,59,1,1,20210525,1,PHX,LAL
 Shot Chart Detail,42000152,462,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,14,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,56,124,1,1,20210525,0,PHX,LAL
 Shot Chart Detail,42000152,468,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,10,1,0,20210525,0,PHX,LAL
 Shot Chart Detail,42000152,493,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,45,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,199,1,0,20210525,0,PHX,LAL
 Shot Chart Detail,42000152,580,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,2,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,45,250,1,0,20210525,0,PHX,LAL
 Shot Chart Detail,42000152,599,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,33,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,70,125,1,0,20210525,0,PHX,LAL
-Shot Chart Detail,42000153,15,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,3,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-33,253,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,37,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,3,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,58,164,1,1,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,41,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,33,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,55,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,3,Missed Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,84,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,15,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-33,253,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,37,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,3,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,58,164,1,1,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,41,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,55,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,84,1,0,20210527,0,LAL,PHX
 Shot Chart Detail,42000153,82,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,41,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,73,78,1,0,20210527,0,LAL,PHX
 Shot Chart Detail,42000153,94,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,21,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-38,113,1,0,20210527,0,LAL,PHX
 Shot Chart Detail,42000153,98,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,48,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,128,1,1,20210527,1,LAL,PHX
 Shot Chart Detail,42000153,108,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,38,1,1,20210527,1,LAL,PHX
 Shot Chart Detail,42000153,115,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,18,1,1,20210527,0,LAL,PHX
 Shot Chart Detail,42000153,130,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,1,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-13,92,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,201,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,4,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,70,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,272,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,36,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,280,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,4,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,99,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,294,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,50,Missed Shot,Running Pull-Up Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-112,199,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,313,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,25,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,90,242,1,0,20210527,0,LAL,PHX
-Shot Chart Detail,42000153,323,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,34,Missed Shot,Running Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-67,243,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,201,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,4,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,70,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,272,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,36,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,280,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,4,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-52,99,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,294,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,50,Missed Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-112,199,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,313,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,90,242,1,0,20210527,0,LAL,PHX
+Shot Chart Detail,42000153,323,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,34,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,243,1,0,20210527,0,LAL,PHX
 Shot Chart Detail,42000153,399,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20210527,1,LAL,PHX
 Shot Chart Detail,42000153,519,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,7,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,62,1,0,20210527,0,LAL,PHX
 Shot Chart Detail,42000153,599,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,24,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,9,1,1,20210527,1,LAL,PHX
-Shot Chart Detail,42000154,43,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,25,1,1,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,54,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,38,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,-62,238,1,0,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,62,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,36,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,18,1,0,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,43,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,25,1,1,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,54,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-62,238,1,0,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,62,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,36,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,18,1,0,20210530,0,LAL,PHX
 Shot Chart Detail,42000154,75,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,211,158,1,1,20210530,1,LAL,PHX
 Shot Chart Detail,42000154,95,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,47,102,1,1,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,192,1626164,Devin Booker,1610612756,Phoenix Suns,2,8,37,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-104,176,1,1,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,192,1626164,Devin Booker,1610612756,Phoenix Suns,2,8,37,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-104,176,1,1,20210530,0,LAL,PHX
 Shot Chart Detail,42000154,235,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,49,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-163,232,1,0,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,321,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,33,Missed Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,58,1,0,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,324,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,20,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-24,272,1,0,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,321,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,58,1,0,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,324,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,20,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-24,272,1,0,20210530,0,LAL,PHX
 Shot Chart Detail,42000154,406,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,38,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,42,1,0,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,453,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,51,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,20,166,125,1,0,20210530,0,LAL,PHX
+Shot Chart Detail,42000154,453,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,166,125,1,0,20210530,0,LAL,PHX
 Shot Chart Detail,42000154,586,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,49,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,3,1,0,20210530,0,LAL,PHX
-Shot Chart Detail,42000154,598,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,57,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,122,173,1,1,20210530,1,LAL,PHX
-Shot Chart Detail,42000154,605,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,48,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-162,220,1,0,20210530,0,LAL,PHX
-Shot Chart Detail,42000155,20,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,32,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-27,262,1,1,20210601,1,PHX,LAL
-Shot Chart Detail,42000155,29,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,41,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-122,183,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,33,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,8,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,18,1,1,20210601,1,PHX,LAL
-Shot Chart Detail,42000155,70,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,12,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,91,102,1,1,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,73,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,46,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,106,1,1,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,116,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,25,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,152,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,125,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,27,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,111,1,1,20210601,1,PHX,LAL
-Shot Chart Detail,42000155,134,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,55,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-34,96,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,144,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,35,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,1,20210601,1,PHX,LAL
-Shot Chart Detail,42000155,149,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,9,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,167,1,1,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,229,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,44,Made Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,19,-195,44,1,1,20210601,1,PHX,LAL
+Shot Chart Detail,42000154,598,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,57,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,122,173,1,1,20210530,1,LAL,PHX
+Shot Chart Detail,42000154,605,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,48,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-162,220,1,0,20210530,0,LAL,PHX
+Shot Chart Detail,42000155,20,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-27,262,1,1,20210601,1,PHX,LAL
+Shot Chart Detail,42000155,29,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,41,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-122,183,1,0,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,33,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,8,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,18,1,1,20210601,1,PHX,LAL
+Shot Chart Detail,42000155,70,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,12,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,91,102,1,1,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,73,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,46,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,59,106,1,1,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,116,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,25,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,152,1,0,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,125,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,111,1,1,20210601,1,PHX,LAL
+Shot Chart Detail,42000155,134,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,55,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-34,96,1,0,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,144,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,35,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,1,20210601,1,PHX,LAL
+Shot Chart Detail,42000155,149,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,167,1,1,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,229,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-195,44,1,1,20210601,1,PHX,LAL
 Shot Chart Detail,42000155,263,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,45,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-87,242,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,309,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,17,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,37,169,1,1,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,342,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,4,Made Shot,Running Pull-Up Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,6,1,1,20210601,1,PHX,LAL
-Shot Chart Detail,42000155,346,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,26,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,24,251,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,374,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,19,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,153,17,1,1,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,388,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,30,Made Shot,Running Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-199,70,1,1,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,392,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,55,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,12,-87,95,1,0,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,309,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,17,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,37,169,1,1,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,342,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,4,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-69,6,1,1,20210601,1,PHX,LAL
+Shot Chart Detail,42000155,346,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,24,251,1,0,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,374,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,153,17,1,1,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,388,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,30,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-199,70,1,1,20210601,0,PHX,LAL
+Shot Chart Detail,42000155,392,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,55,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,95,1,0,20210601,0,PHX,LAL
 Shot Chart Detail,42000155,413,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,57,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,171,179,1,0,20210601,0,PHX,LAL
 Shot Chart Detail,42000155,430,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,29,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-42,84,1,0,20210601,0,PHX,LAL
 Shot Chart Detail,42000155,438,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,-2,1,1,20210601,1,PHX,LAL
 Shot Chart Detail,42000155,450,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,47,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-43,106,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000155,484,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,1,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-14,269,1,0,20210601,0,PHX,LAL
-Shot Chart Detail,42000156,11,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,59,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,13,-120,68,1,1,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,10,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,207,1,1,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,39,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,52,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-38,12,1,0,20210603,0,LAL,PHX
+Shot Chart Detail,42000155,484,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-14,269,1,0,20210601,0,PHX,LAL
+Shot Chart Detail,42000156,11,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-120,68,1,1,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,10,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,207,1,1,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,39,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,52,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-38,12,1,0,20210603,0,LAL,PHX
 Shot Chart Detail,42000156,62,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,13,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,5,1,1,20210603,0,LAL,PHX
 Shot Chart Detail,42000156,65,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,51,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,-6,1,1,20210603,1,LAL,PHX
 Shot Chart Detail,42000156,79,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,12,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-150,197,1,1,20210603,0,LAL,PHX
 Shot Chart Detail,42000156,82,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,46,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,85,254,1,1,20210603,1,LAL,PHX
-Shot Chart Detail,42000156,113,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,23,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,33,260,1,1,20210603,1,LAL,PHX
-Shot Chart Detail,42000156,119,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,57,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,42,268,1,1,20210603,1,LAL,PHX
-Shot Chart Detail,42000156,211,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,22,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-193,170,1,0,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,215,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,54,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,14,-130,57,1,0,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,223,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,14,Made Shot,Turnaround Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,15,-152,-5,1,1,20210603,1,LAL,PHX
-Shot Chart Detail,42000156,235,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,0,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,28,-40,280,1,1,20210603,1,LAL,PHX
-Shot Chart Detail,42000156,239,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,40,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-3,160,1,0,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,113,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,260,1,1,20210603,1,LAL,PHX
+Shot Chart Detail,42000156,119,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,42,268,1,1,20210603,1,LAL,PHX
+Shot Chart Detail,42000156,211,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,22,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-193,170,1,0,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,215,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,54,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,57,1,0,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,223,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,14,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,-5,1,1,20210603,1,LAL,PHX
+Shot Chart Detail,42000156,235,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-40,280,1,1,20210603,1,LAL,PHX
+Shot Chart Detail,42000156,239,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,40,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-3,160,1,0,20210603,0,LAL,PHX
 Shot Chart Detail,42000156,272,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,29,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,1,20210603,1,LAL,PHX
 Shot Chart Detail,42000156,295,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,0,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,340,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,59,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,121,1,0,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,374,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,38,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,17,124,1,1,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,385,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,10,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,111,129,1,1,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,340,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,59,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-46,121,1,0,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,374,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,17,124,1,1,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,385,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,111,129,1,1,20210603,0,LAL,PHX
 Shot Chart Detail,42000156,476,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,35,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-30,256,1,1,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,600,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,23,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-141,250,1,0,20210603,0,LAL,PHX
-Shot Chart Detail,42000156,614,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,37,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,8,19,1,1,20210603,1,LAL,PHX
-Shot Chart Detail,42000231,53,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,26,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,41,1,1,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,56,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,50,Made Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,43,1,1,20210607,0,PHX,DEN
+Shot Chart Detail,42000156,600,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,23,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-141,250,1,0,20210603,0,LAL,PHX
+Shot Chart Detail,42000156,614,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,19,1,1,20210603,1,LAL,PHX
+Shot Chart Detail,42000231,53,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,26,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,41,1,1,20210607,0,PHX,DEN
+Shot Chart Detail,42000231,56,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,50,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,43,1,1,20210607,0,PHX,DEN
 Shot Chart Detail,42000231,119,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,105,218,1,0,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,227,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,42,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,156,165,1,1,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,234,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,49,Made Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,123,85,1,1,20210607,1,PHX,DEN
-Shot Chart Detail,42000231,261,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,188,159,1,0,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,273,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,48,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-105,262,1,0,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,347,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,28,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),16-24 ft.,22,204,93,1,0,20210607,0,PHX,DEN
+Shot Chart Detail,42000231,227,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,156,165,1,1,20210607,0,PHX,DEN
+Shot Chart Detail,42000231,234,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,123,85,1,1,20210607,1,PHX,DEN
+Shot Chart Detail,42000231,261,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,188,159,1,0,20210607,0,PHX,DEN
+Shot Chart Detail,42000231,273,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-105,262,1,0,20210607,0,PHX,DEN
+Shot Chart Detail,42000231,347,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,28,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,22,204,93,1,0,20210607,0,PHX,DEN
 Shot Chart Detail,42000231,388,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,255,1,1,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,527,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,20,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,105,1,1,20210607,0,PHX,DEN
-Shot Chart Detail,42000231,540,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,8,Made Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,151,1,1,20210607,1,PHX,DEN
-Shot Chart Detail,42000231,544,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,31,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,10,94,38,1,1,20210607,0,PHX,DEN
-Shot Chart Detail,42000232,13,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,4,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,33,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,20,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,28,-14,283,1,1,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,55,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,21,Missed Shot,Turnaround Jump Shot,,Mid-Range,Right Side(R),16-24 ft.,16,166,18,1,0,20210609,0,PHX,DEN
+Shot Chart Detail,42000231,527,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,9,105,1,1,20210607,0,PHX,DEN
+Shot Chart Detail,42000231,540,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-90,151,1,1,20210607,1,PHX,DEN
+Shot Chart Detail,42000231,544,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,38,1,1,20210607,0,PHX,DEN
+Shot Chart Detail,42000232,13,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,4,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,184,1,0,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,33,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-14,283,1,1,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,55,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,166,18,1,0,20210609,0,PHX,DEN
 Shot Chart Detail,42000232,106,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,45,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,251,1,1,20210609,0,PHX,DEN
 Shot Chart Detail,42000232,116,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,53,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-125,221,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,213,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,20,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,32,130,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,267,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,30,Made Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,184,1,1,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,277,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,42,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,1,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,307,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,42,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,0,174,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,354,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,55,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-4,255,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,374,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,30,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,-69,134,1,1,20210609,1,PHX,DEN
-Shot Chart Detail,42000232,390,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,40,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side(L),8-16 ft.,12,-122,9,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000232,396,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,3,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,201,1,1,20210609,1,PHX,DEN
+Shot Chart Detail,42000232,213,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,20,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,32,130,1,0,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,267,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-92,184,1,1,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,277,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,42,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,8,-1,1,1,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,307,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,42,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,0,174,1,0,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,354,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,255,1,0,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,374,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,30,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-69,134,1,1,20210609,1,PHX,DEN
+Shot Chart Detail,42000232,390,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,40,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,9,1,0,20210609,0,PHX,DEN
+Shot Chart Detail,42000232,396,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,201,1,1,20210609,1,PHX,DEN
 Shot Chart Detail,42000232,413,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,47,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,248,1,0,20210609,0,PHX,DEN
-Shot Chart Detail,42000233,35,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,42,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side(R),8-16 ft.,12,122,11,1,1,20210611,1,DEN,PHX
-Shot Chart Detail,42000233,39,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,26,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,239,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,41,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,22,Made Shot,Fadeaway Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,144,1,1,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,35,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,11,1,1,20210611,1,DEN,PHX
+Shot Chart Detail,42000233,39,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,26,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,239,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,41,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,22,Made Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,144,1,1,20210611,0,DEN,PHX
 Shot Chart Detail,42000233,86,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,55,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-67,116,1,1,20210611,1,DEN,PHX
 Shot Chart Detail,42000233,107,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,21,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,146,28,1,0,20210611,0,DEN,PHX
 Shot Chart Detail,42000233,133,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,2,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,8,1,1,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,204,1626164,Devin Booker,1610612756,Phoenix Suns,2,8,2,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,102,88,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,219,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,58,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-22,63,1,1,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,227,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,2,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,207,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,247,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,28,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,15,151,34,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,322,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,3,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-70,104,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,384,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,24,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),16-24 ft.,21,-210,21,1,1,20210611,1,DEN,PHX
-Shot Chart Detail,42000233,389,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,0,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,83,1,1,20210611,1,DEN,PHX
-Shot Chart Detail,42000233,397,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,23,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,227,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,419,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,42,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,95,1,1,20210611,1,DEN,PHX
-Shot Chart Detail,42000233,423,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,0,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),16-24 ft.,19,163,114,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,431,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,22,Missed Shot,Driving Floating Bank Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,137,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,433,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,14,Made Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-233,-5,1,1,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,204,1626164,Devin Booker,1610612756,Phoenix Suns,2,8,2,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,102,88,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,219,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,58,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-22,63,1,1,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,227,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,2,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-144,207,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,247,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,28,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,34,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,322,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,3,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-70,104,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,384,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-210,21,1,1,20210611,1,DEN,PHX
+Shot Chart Detail,42000233,389,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,83,1,1,20210611,1,DEN,PHX
+Shot Chart Detail,42000233,397,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,23,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,227,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,419,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,95,1,1,20210611,1,DEN,PHX
+Shot Chart Detail,42000233,423,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,0,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,163,114,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,431,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,22,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-89,137,1,0,20210611,0,DEN,PHX
+Shot Chart Detail,42000233,433,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,14,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-5,1,1,20210611,0,DEN,PHX
 Shot Chart Detail,42000233,462,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,12,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,30,1,0,20210611,0,DEN,PHX
 Shot Chart Detail,42000233,468,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,31,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-58,276,1,0,20210611,0,DEN,PHX
 Shot Chart Detail,42000233,471,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,1,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-125,11,1,1,20210611,0,DEN,PHX
 Shot Chart Detail,42000233,503,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,27,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,264,1,0,20210611,0,DEN,PHX
-Shot Chart Detail,42000233,582,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,9,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,35,66,1,1,20210611,1,DEN,PHX
-Shot Chart Detail,42000234,12,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,53,Made Shot,Step Back Jump shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,26,1,1,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,27,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,29,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,36,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,58,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,44,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,37,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,86,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,49,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,49,1,1,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,88,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,21,Missed Shot,Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-93,185,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000233,582,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,35,66,1,1,20210611,1,DEN,PHX
+Shot Chart Detail,42000234,12,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,53,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,26,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,27,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,36,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,58,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,37,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,86,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,49,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,49,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,88,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-93,185,1,0,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,102,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-134,142,1,0,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,114,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,58,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-68,109,1,1,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,128,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,49,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,87,115,1,0,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,151,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,31,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,98,260,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,246,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,1,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,85,1,1,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,262,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,1,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,49,99,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,269,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,38,Made Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-11,263,1,1,20210613,1,DEN,PHX
-Shot Chart Detail,42000234,288,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,5,Missed Shot,Driving Floating Bank Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,22,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,311,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,1,Made Shot,Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,71,102,1,1,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,341,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,22,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,146,1,1,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,372,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,8,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,1,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,246,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,3,85,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,262,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,1,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,49,99,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,269,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,38,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,263,1,1,20210613,1,DEN,PHX
+Shot Chart Detail,42000234,288,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,5,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,52,22,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,311,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,1,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,71,102,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,341,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,22,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,99,146,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,372,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,1,1,1,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,415,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,13,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,89,171,1,0,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,424,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,64,1,1,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,443,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,253,1,0,20210613,0,DEN,PHX
 Shot Chart Detail,42000234,454,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,30,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,248,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,543,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,24,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,36,1,1,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,562,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,184,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,637,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,41,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,94,48,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,613,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,42,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,105,94,1,0,20210613,0,DEN,PHX
-Shot Chart Detail,42000234,615,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,38,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-6,127,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,543,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,24,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,24,36,1,1,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,562,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,184,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,637,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,48,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,613,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,105,94,1,0,20210613,0,DEN,PHX
+Shot Chart Detail,42000234,615,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,38,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-6,127,1,1,20210613,0,DEN,PHX
 Shot Chart Detail,42000311,27,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,57,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-55,73,1,1,20210620,0,PHX,LAC
 Shot Chart Detail,42000311,29,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,12,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,71,63,1,0,20210620,0,PHX,LAC
 Shot Chart Detail,42000311,69,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,37,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,142,215,1,1,20210620,0,PHX,LAC
@@ -239,161 +239,161 @@ Shot Chart Detail,42000312,361,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,
 Shot Chart Detail,42000312,402,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,35,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,252,1,0,20210622,0,PHX,LAC
 Shot Chart Detail,42000312,506,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,9,273,1,0,20210622,0,PHX,LAC
 Shot Chart Detail,42000312,589,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,79,127,1,1,20210622,1,PHX,LAC
-Shot Chart Detail,42000313,21,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,26,Missed Shot,Turnaround Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-65,193,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,92,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,32,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,64,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,21,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-65,193,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,92,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,32,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-37,64,1,0,20210624,0,LAC,PHX
 Shot Chart Detail,42000313,110,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,187,43,1,0,20210624,0,LAC,PHX
 Shot Chart Detail,42000313,125,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,6,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,245,1,0,20210624,0,LAC,PHX
 Shot Chart Detail,42000313,131,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,38,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-130,61,1,0,20210624,0,LAC,PHX
 Shot Chart Detail,42000313,154,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,14,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-108,262,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,185,1626164,Devin Booker,1610612756,Phoenix Suns,2,10,15,Made Shot,Running Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-241,9,1,1,20210624,1,LAC,PHX
-Shot Chart Detail,42000313,199,1626164,Devin Booker,1610612756,Phoenix Suns,2,9,6,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,124,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,303,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,36,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,109,1,1,20210624,1,LAC,PHX
-Shot Chart Detail,42000313,317,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,61,-135,600,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,373,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,16,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-16,27,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,185,1626164,Devin Booker,1610612756,Phoenix Suns,2,10,15,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,9,1,1,20210624,1,LAC,PHX
+Shot Chart Detail,42000313,199,1626164,Devin Booker,1610612756,Phoenix Suns,2,9,6,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,136,124,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,303,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,36,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,61,109,1,1,20210624,1,LAC,PHX
+Shot Chart Detail,42000313,317,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,61,-135,600,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,373,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,27,1,0,20210624,0,LAC,PHX
 Shot Chart Detail,42000313,418,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-38,265,1,0,20210624,0,LAC,PHX
 Shot Chart Detail,42000313,430,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,59,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,28,1,1,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,458,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,41,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-116,272,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,464,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,25,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20210624,1,LAC,PHX
-Shot Chart Detail,42000313,497,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,20,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-35,130,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,513,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,58,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-3,25,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,535,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,13,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-3,13,1,1,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,547,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,45,Missed Shot,Pullup Jump shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,46,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,553,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,44,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side(L),8-16 ft.,15,-92,127,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000313,560,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,10,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,37,1,0,20210624,0,LAC,PHX
-Shot Chart Detail,42000314,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,16,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20210626,1,LAC,PHX
-Shot Chart Detail,42000314,51,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,59,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,56,1,1,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,53,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,14,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side(R),16-24 ft.,19,193,41,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,65,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,15,Missed Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,23,-232,40,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,77,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,25,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-54,87,1,1,20210626,1,LAC,PHX
+Shot Chart Detail,42000313,458,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-116,272,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,464,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,25,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,20,1,1,20210624,1,LAC,PHX
+Shot Chart Detail,42000313,497,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,20,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-35,130,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,513,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-3,25,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,535,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-3,13,1,1,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,547,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,45,Missed Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,46,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,553,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,44,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-92,127,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000313,560,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,10,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,55,37,1,0,20210624,0,LAC,PHX
+Shot Chart Detail,42000314,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,16,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20210626,1,LAC,PHX
+Shot Chart Detail,42000314,51,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,59,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,54,56,1,1,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,53,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,14,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,193,41,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,65,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,15,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,40,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,77,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,25,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-54,87,1,1,20210626,1,LAC,PHX
 Shot Chart Detail,42000314,89,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,3,1,0,20210626,0,LAC,PHX
 Shot Chart Detail,42000314,135,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,26,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,124,1,0,20210626,0,LAC,PHX
 Shot Chart Detail,42000314,143,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,35,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,8,22,1,1,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,228,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,33,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-73,248,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,228,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-73,248,1,0,20210626,0,LAC,PHX
 Shot Chart Detail,42000314,257,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,26,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,18,142,1,1,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,316,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,217,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,335,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,0,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,220,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,343,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,17,Missed Shot,Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,3,25,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,381,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,34,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-130,186,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,316,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,143,217,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,335,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,220,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,343,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,17,Missed Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,3,25,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,381,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,34,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-130,186,1,0,20210626,0,LAC,PHX
 Shot Chart Detail,42000314,416,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,98,143,1,1,20210626,1,LAC,PHX
-Shot Chart Detail,42000314,469,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,2,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side Center(LC),16-24 ft.,20,-94,183,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,482,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,38,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,33,1,1,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,485,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,4,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-29,117,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,489,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,53,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-104,196,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,567,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,41,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,59,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000314,571,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,13,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,26,138,1,1,20210626,1,LAC,PHX
-Shot Chart Detail,42000314,575,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,32,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,216,144,1,0,20210626,0,LAC,PHX
-Shot Chart Detail,42000315,7,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,44,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,14,136,37,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,23,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,12,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,43,250,1,1,20210628,1,PHX,LAC
+Shot Chart Detail,42000314,469,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,2,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-94,183,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,482,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,33,1,1,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,485,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,4,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-29,117,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,489,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,53,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-104,196,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,567,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,41,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,59,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000314,571,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,13,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,26,138,1,1,20210626,1,LAC,PHX
+Shot Chart Detail,42000314,575,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,32,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,216,144,1,0,20210626,0,LAC,PHX
+Shot Chart Detail,42000315,7,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,44,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,136,37,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,23,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,250,1,1,20210628,1,PHX,LAC
 Shot Chart Detail,42000315,79,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,9,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,20,261,1,1,20210628,0,PHX,LAC
 Shot Chart Detail,42000315,82,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,39,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-136,185,1,0,20210628,0,PHX,LAC
 Shot Chart Detail,42000315,120,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,31,1,1,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,201,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,44,Missed Shot,Driving Layup Shot,,Mid-Range,Right Side(R),8-16 ft.,10,100,28,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,219,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,47,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,110,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,223,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,22,Made Shot,Running Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,163,218,1,1,20210628,1,PHX,LAC
+Shot Chart Detail,42000315,201,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,28,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,219,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,47,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,57,110,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,223,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,22,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,163,218,1,1,20210628,1,PHX,LAC
 Shot Chart Detail,42000315,232,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,41,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-98,132,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,266,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,30,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,24,76,237,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,271,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Made Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,208,1,1,20210628,1,PHX,LAC
-Shot Chart Detail,42000315,295,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,29,Made Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-49,118,1,1,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,313,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,28,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,18,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,325,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,33,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,22,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,266,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,76,237,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,271,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,138,208,1,1,20210628,1,PHX,LAC
+Shot Chart Detail,42000315,295,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,29,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-49,118,1,1,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,313,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,28,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,18,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,325,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,22,1,0,20210628,0,PHX,LAC
 Shot Chart Detail,42000315,400,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,55,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-106,204,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,449,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,40,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20210628,1,PHX,LAC
-Shot Chart Detail,42000315,453,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,54,Made Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,157,1,1,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,456,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,19,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,9,97,6,1,1,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,485,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,20,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-14,2,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,505,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,12,Missed Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,24,13,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,549,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,27,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,105,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000315,553,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,0,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-5,1,0,20210628,0,PHX,LAC
-Shot Chart Detail,42000316,14,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,27,Missed Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-3,31,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,36,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-6,21,1,1,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,47,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,9,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,27,54,273,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000315,449,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,40,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,10,1,1,20210628,1,PHX,LAC
+Shot Chart Detail,42000315,453,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,54,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,155,157,1,1,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,456,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,97,6,1,1,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,485,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,20,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,2,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,505,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,12,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,13,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,549,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,27,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-133,105,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000315,553,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,0,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-5,1,0,20210628,0,PHX,LAC
+Shot Chart Detail,42000316,14,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,27,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-3,31,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,36,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,21,1,1,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,47,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,9,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,54,273,1,0,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,81,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,10,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-93,169,1,1,20210630,1,LAC,PHX
 Shot Chart Detail,42000316,103,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,52,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-86,4,1,0,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,110,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,5,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,94,122,1,1,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,113,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,245,1,1,20210630,1,LAC,PHX
-Shot Chart Detail,42000316,228,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,23,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,228,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,1,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,249,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,54,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,56,140,1,1,20210630,1,LAC,PHX
 Shot Chart Detail,42000316,257,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,20,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-29,104,1,0,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,265,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,51,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,240,1,0,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,286,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,22,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,-16,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,301,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,30,Missed Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,130,171,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,325,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,14,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,59,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,331,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,55,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,84,243,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,375,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,58,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,13,1,1,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,388,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,33,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,19,3,191,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,301,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,30,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,130,171,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,325,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,14,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,59,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,331,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,84,243,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,375,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,13,1,1,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,388,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,33,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,3,191,1,0,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,410,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-1,86,1,1,20210630,1,LAC,PHX
 Shot Chart Detail,42000316,429,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,57,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-19,49,1,0,20210630,0,LAC,PHX
 Shot Chart Detail,42000316,438,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,162,29,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,475,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,1,Missed Shot,Jump Shot,,Backcourt,Back Court(BC),Back Court Shot,80,48,803,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,483,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,43,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-77,246,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,519,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,16,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,83,1,1,20210630,1,LAC,PHX
-Shot Chart Detail,42000316,551,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,22,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,118,1,1,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,554,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,57,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,89,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000316,570,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,202,1,0,20210630,0,LAC,PHX
-Shot Chart Detail,42000401,16,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,6,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,253,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,20,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,47,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,39,98,1,1,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,28,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,44,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),16-24 ft.,16,165,-4,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,51,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,24,1,1,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,69,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,17,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-20,3,1,1,20210706,0,PHX,MIL
+Shot Chart Detail,42000316,475,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,80,48,803,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,483,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-77,246,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,519,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,16,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,83,1,1,20210630,1,LAC,PHX
+Shot Chart Detail,42000316,551,1626164,Devin Booker,1610612756,Phoenix Suns,4,5,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,118,1,1,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,554,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,57,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,89,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000316,570,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,202,1,0,20210630,0,LAC,PHX
+Shot Chart Detail,42000401,16,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,6,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,253,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,20,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,47,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,39,98,1,1,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,28,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,44,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,165,-4,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,51,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,24,1,1,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,69,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,17,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,3,1,1,20210706,0,PHX,MIL
 Shot Chart Detail,42000401,107,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,45,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,3,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,217,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,55,Made Shot,Turnaround Fadeaway Bank Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,10,93,56,1,1,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,225,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,18,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,142,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,217,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,55,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,93,56,1,1,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,225,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,18,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,115,142,1,0,20210706,0,PHX,MIL
 Shot Chart Detail,42000401,256,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,180,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,279,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,55,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,63,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,310,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Missed Shot,Pullup Jump shot,,Backcourt,Back Court(BC),Back Court Shot,42,-2,423,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,332,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,9,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,144,246,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,398,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,49,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,2,160,1,1,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,279,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,55,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,63,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,310,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,42,-2,423,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,332,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,144,246,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,398,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,49,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,2,160,1,1,20210706,0,PHX,MIL
 Shot Chart Detail,42000401,436,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,4,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-14,136,1,1,20210706,0,PHX,MIL
 Shot Chart Detail,42000401,446,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-138,174,1,0,20210706,0,PHX,MIL
 Shot Chart Detail,42000401,451,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,57,-152,553,1,0,20210706,0,PHX,MIL
 Shot Chart Detail,42000401,470,1626164,Devin Booker,1610612756,Phoenix Suns,4,10,53,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,118,131,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,519,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,2,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,130,248,1,1,20210706,1,PHX,MIL
-Shot Chart Detail,42000401,523,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,42,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-139,228,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,548,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,1,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,164,1,1,20210706,0,PHX,MIL
-Shot Chart Detail,42000401,593,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,45,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-141,238,1,0,20210706,0,PHX,MIL
-Shot Chart Detail,42000402,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,44,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,110,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,32,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,48,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-11,258,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,35,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,19,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-93,241,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,48,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,58,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,145,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,55,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,37,Made Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,245,1,1,20210708,1,PHX,MIL
-Shot Chart Detail,42000402,77,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,45,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,10,-92,58,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000401,519,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,130,248,1,1,20210706,1,PHX,MIL
+Shot Chart Detail,42000401,523,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,42,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-139,228,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,548,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,100,164,1,1,20210706,0,PHX,MIL
+Shot Chart Detail,42000401,593,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,45,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-141,238,1,0,20210706,0,PHX,MIL
+Shot Chart Detail,42000402,22,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,44,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,110,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,32,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,258,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,35,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,19,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-93,241,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,48,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,58,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,132,145,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,55,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,37,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-93,245,1,1,20210708,1,PHX,MIL
+Shot Chart Detail,42000402,77,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,58,1,0,20210708,0,PHX,MIL
 Shot Chart Detail,42000402,113,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,56,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,11,1,0,20210708,0,PHX,MIL
 Shot Chart Detail,42000402,123,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,121,243,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,198,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,26,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,22,260,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,204,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,0,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,14,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,251,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,39,Made Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,22,-134,175,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,286,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,29,Made Shot,Step Back Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,24,125,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,321,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,5,Made Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,149,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,324,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,46,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,31,194,245,1,1,20210708,1,PHX,MIL
-Shot Chart Detail,42000402,334,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,43,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,12,-92,78,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,342,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,17,Missed Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,17,54,170,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,394,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,24,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,14,-123,83,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,406,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,11,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,237,-1,1,1,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,198,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,22,260,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,204,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,0,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,14,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,251,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,39,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-134,175,1,1,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,286,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,29,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,24,125,1,1,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,321,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,149,1,1,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,324,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,194,245,1,1,20210708,1,PHX,MIL
+Shot Chart Detail,42000402,334,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,43,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-92,78,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,342,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,17,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,54,170,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,394,1626164,Devin Booker,1610612756,Phoenix Suns,3,5,24,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-123,83,1,1,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,406,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-1,1,1,20210708,0,PHX,MIL
 Shot Chart Detail,42000402,417,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,34,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,111,1,1,0,20210708,0,PHX,MIL
 Shot Chart Detail,42000402,419,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,-8,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,502,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,0,Missed Shot,Pullup Jump shot,,Backcourt,Back Court(BC),Back Court Shot,48,102,477,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,528,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,41,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,210,141,1,1,20210708,0,PHX,MIL
-Shot Chart Detail,42000402,552,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,49,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,232,1,1,20210708,1,PHX,MIL
-Shot Chart Detail,42000402,561,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,18,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-2,256,1,1,20210708,1,PHX,MIL
-Shot Chart Detail,42000402,591,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,15,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,181,1,0,20210708,0,PHX,MIL
-Shot Chart Detail,42000403,13,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,41,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,17,-171,3,1,0,20210711,0,MIL,PHX
-Shot Chart Detail,42000403,88,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,38,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,215,1,0,20210711,0,MIL,PHX
+Shot Chart Detail,42000402,502,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Backcourt,Back Court(BC),Back Court Shot,48,102,477,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,528,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,41,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,210,141,1,1,20210708,0,PHX,MIL
+Shot Chart Detail,42000402,552,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,232,1,1,20210708,1,PHX,MIL
+Shot Chart Detail,42000402,561,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,256,1,1,20210708,1,PHX,MIL
+Shot Chart Detail,42000402,591,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,181,1,0,20210708,0,PHX,MIL
+Shot Chart Detail,42000403,13,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,3,1,0,20210711,0,MIL,PHX
+Shot Chart Detail,42000403,88,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,215,1,0,20210711,0,MIL,PHX
 Shot Chart Detail,42000403,97,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,28,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,130,1,0,20210711,0,MIL,PHX
 Shot Chart Detail,42000403,106,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-129,241,1,1,20210711,0,MIL,PHX
 Shot Chart Detail,42000403,111,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,10,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,71,262,1,0,20210711,0,MIL,PHX
 Shot Chart Detail,42000403,123,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,34,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,3,110,1,0,20210711,0,MIL,PHX
 Shot Chart Detail,42000403,125,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,104,258,1,0,20210711,0,MIL,PHX
-Shot Chart Detail,42000403,246,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,5,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-133,229,1,0,20210711,0,MIL,PHX
-Shot Chart Detail,42000403,249,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,32,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-98,140,1,1,20210711,1,MIL,PHX
+Shot Chart Detail,42000403,246,1626164,Devin Booker,1610612756,Phoenix Suns,2,6,5,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-133,229,1,0,20210711,0,MIL,PHX
+Shot Chart Detail,42000403,249,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,32,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-98,140,1,1,20210711,1,MIL,PHX
 Shot Chart Detail,42000403,274,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,26,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-73,120,1,0,20210711,0,MIL,PHX
 Shot Chart Detail,42000403,295,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,55,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,28,1,0,20210711,0,MIL,PHX
-Shot Chart Detail,42000403,344,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,14,Made Shot,Pullup Jump shot,,Mid-Range,Right Side(R),8-16 ft.,15,86,134,1,1,20210711,0,MIL,PHX
-Shot Chart Detail,42000403,383,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,4,Missed Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,57,1,0,20210711,0,MIL,PHX
-Shot Chart Detail,42000403,476,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,52,Missed Shot,Pullup Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,185,1,0,20210711,0,MIL,PHX
-Shot Chart Detail,42000404,7,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,44,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-74,150,1,1,20210714,1,MIL,PHX
-Shot Chart Detail,42000404,25,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,55,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,81,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,48,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,41,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,89,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,50,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,39,Made Shot,Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,14,95,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000403,344,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,86,134,1,1,20210711,0,MIL,PHX
+Shot Chart Detail,42000403,383,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,4,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,57,1,0,20210711,0,MIL,PHX
+Shot Chart Detail,42000403,476,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,52,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,185,1,0,20210711,0,MIL,PHX
+Shot Chart Detail,42000404,7,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-74,150,1,1,20210714,1,MIL,PHX
+Shot Chart Detail,42000404,25,1626164,Devin Booker,1610612756,Phoenix Suns,1,9,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,81,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,48,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,41,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,27,89,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,50,1626164,Devin Booker,1610612756,Phoenix Suns,1,7,39,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,14,95,1,1,20210714,0,MIL,PHX
 Shot Chart Detail,42000404,101,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,5,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,12,125,1,0,20210714,0,MIL,PHX
 Shot Chart Detail,42000404,122,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,103,261,1,0,20210714,0,MIL,PHX
 Shot Chart Detail,42000404,133,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,52,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,110,188,1,0,20210714,0,MIL,PHX
@@ -403,73 +403,73 @@ Shot Chart Detail,42000404,246,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,
 Shot Chart Detail,42000404,251,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,24,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,115,115,1,1,20210714,1,MIL,PHX
 Shot Chart Detail,42000404,279,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,32,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,76,143,1,0,20210714,0,MIL,PHX
 Shot Chart Detail,42000404,285,1626164,Devin Booker,1610612756,Phoenix Suns,2,1,45,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,101,22,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,301,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,36,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,141,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,313,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Missed Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,235,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,337,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,30,Made Shot,Fadeaway Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-43,176,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,349,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,15,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-30,20,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,373,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,38,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,63,129,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,379,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,10,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,150,1,1,20210714,1,MIL,PHX
+Shot Chart Detail,42000404,301,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,36,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,85,141,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,313,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,0,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,235,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,337,1626164,Devin Booker,1610612756,Phoenix Suns,3,10,30,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-43,176,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,349,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,15,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,20,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,373,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,38,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,63,129,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,379,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,10,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,84,150,1,1,20210714,1,MIL,PHX
 Shot Chart Detail,42000404,444,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,55,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-68,125,1,1,20210714,0,MIL,PHX
 Shot Chart Detail,42000404,458,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,9,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-141,172,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,482,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,16,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,14,-63,127,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,596,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,14,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,149,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,614,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,52,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,25,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,627,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,42,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,-32,159,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,646,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,24,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,46,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,652,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,14,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,6,25,1,1,20210714,0,MIL,PHX
-Shot Chart Detail,42000404,657,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,7,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,31,-21,317,1,0,20210714,0,MIL,PHX
-Shot Chart Detail,42000405,9,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,29,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,15,79,138,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,15,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,44,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-117,248,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,37,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,32,8,1,1,20210717,1,PHX,MIL
-Shot Chart Detail,42000405,61,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,32,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,95,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,66,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,51,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,208,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,73,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,55,Made Shot,Turnaround Fadeaway Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-29,24,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000404,482,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,16,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-63,127,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,596,1626164,Devin Booker,1610612756,Phoenix Suns,4,4,14,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,120,149,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,614,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,52,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,71,25,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,627,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,42,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-32,159,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,646,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,24,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,58,46,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,652,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,25,1,1,20210714,0,MIL,PHX
+Shot Chart Detail,42000404,657,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,-21,317,1,0,20210714,0,MIL,PHX
+Shot Chart Detail,42000405,9,1626164,Devin Booker,1610612756,Phoenix Suns,1,11,29,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,79,138,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,15,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-117,248,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,37,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,8,1,1,20210717,1,PHX,MIL
+Shot Chart Detail,42000405,61,1626164,Devin Booker,1610612756,Phoenix Suns,1,6,32,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-38,95,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,66,1626164,Devin Booker,1610612756,Phoenix Suns,1,5,51,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,149,208,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,73,1626164,Devin Booker,1610612756,Phoenix Suns,1,4,55,Made Shot,Turnaround Fadeaway Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,24,1,1,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,108,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,15,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-112,100,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,138,1626164,Devin Booker,1610612756,Phoenix Suns,1,1,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-144,21,1,1,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,148,1626164,Devin Booker,1610612756,Phoenix Suns,1,0,9,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-11,73,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,259,1626164,Devin Booker,1610612756,Phoenix Suns,2,5,7,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,17,141,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,279,1626164,Devin Booker,1610612756,Phoenix Suns,2,3,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,6,1,1,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,283,1626164,Devin Booker,1610612756,Phoenix Suns,2,2,51,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-3,64,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,305,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,29,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,117,147,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,328,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,40,Made Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-110,181,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,341,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,58,Made Shot,Pullup Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,146,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,347,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,51,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,134,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,349,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,19,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,99,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,356,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,51,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-30,21,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,377,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,1,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-161,228,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,305,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,29,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,117,147,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,328,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,40,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-110,181,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,341,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,58,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,95,146,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,347,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,51,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-111,134,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,349,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,19,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-7,99,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,356,1626164,Devin Booker,1610612756,Phoenix Suns,3,7,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-30,21,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,377,1626164,Devin Booker,1610612756,Phoenix Suns,3,6,1,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-161,228,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,416,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,25,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-122,132,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,420,1626164,Devin Booker,1610612756,Phoenix Suns,3,2,6,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,52,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,429,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,6,1,1,20210717,1,PHX,MIL
 Shot Chart Detail,42000405,437,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,52,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,8,152,1,0,20210717,0,PHX,MIL
 Shot Chart Detail,42000405,449,1626164,Devin Booker,1610612756,Phoenix Suns,3,0,0,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-112,157,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,470,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,13,Made Shot,Pullup Jump shot,,Mid-Range,Left Side(L),8-16 ft.,12,-120,34,1,1,20210717,1,PHX,MIL
-Shot Chart Detail,42000405,486,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,57,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,3,11,1,1,20210717,1,PHX,MIL
-Shot Chart Detail,42000405,498,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,27,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,63,67,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,504,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,51,Missed Shot,Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,13,101,85,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,528,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,40,Made Shot,Running Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20210717,1,PHX,MIL
-Shot Chart Detail,42000405,564,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,45,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),8-16 ft.,14,-12,142,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,580,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,3,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,6,1,1,20210717,0,PHX,MIL
-Shot Chart Detail,42000405,588,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,24,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,244,1,1,20210717,1,PHX,MIL
-Shot Chart Detail,42000405,615,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,5,Missed Shot,Jump Shot,,Mid-Range,Right Side Center(RC),16-24 ft.,21,122,177,1,0,20210717,0,PHX,MIL
-Shot Chart Detail,42000406,17,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,48,Made Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,14,84,121,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,21,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,13,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,117,239,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,50,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,1,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,12,-123,17,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,108,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,22,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,22,29,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000405,470,1626164,Devin Booker,1610612756,Phoenix Suns,4,11,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,34,1,1,20210717,1,PHX,MIL
+Shot Chart Detail,42000405,486,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,57,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,3,11,1,1,20210717,1,PHX,MIL
+Shot Chart Detail,42000405,498,1626164,Devin Booker,1610612756,Phoenix Suns,4,9,27,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,63,67,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,504,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,51,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,101,85,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,528,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,40,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,2,1,1,20210717,1,PHX,MIL
+Shot Chart Detail,42000405,564,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,45,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-12,142,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,580,1626164,Devin Booker,1610612756,Phoenix Suns,4,2,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,6,1,1,20210717,0,PHX,MIL
+Shot Chart Detail,42000405,588,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,244,1,1,20210717,1,PHX,MIL
+Shot Chart Detail,42000405,615,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,5,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,21,122,177,1,0,20210717,0,PHX,MIL
+Shot Chart Detail,42000406,17,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,48,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,84,121,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,21,1626164,Devin Booker,1610612756,Phoenix Suns,1,10,13,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,117,239,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,50,1626164,Devin Booker,1610612756,Phoenix Suns,1,8,1,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-123,17,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,108,1626164,Devin Booker,1610612756,Phoenix Suns,1,3,22,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,29,1,0,20210720,0,MIL,PHX
 Shot Chart Detail,42000406,123,1626164,Devin Booker,1610612756,Phoenix Suns,1,2,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,57,260,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,220,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,19,Made Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,26,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,256,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,30,Missed Shot,Running Pull-Up Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,171,231,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,304,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,46,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side Center(RC),16-24 ft.,18,142,121,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,336,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,18,Missed Shot,Pullup Jump shot,,Mid-Range,Right Side(R),16-24 ft.,17,143,97,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,349,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,55,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,141,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,356,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,14,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-76,148,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,367,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,14,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-208,174,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,402,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,58,Missed Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,9,26,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,429,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,13,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,459,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,30,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,541,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,57,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,67,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,563,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,42,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,-24,89,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,578,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,34,Made Shot,Fadeaway Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,86,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,610,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,18,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,28,43,279,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,624,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,50,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,31,14,1,1,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,635,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,50,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,242,1,0,20210720,0,MIL,PHX
-Shot Chart Detail,42000406,657,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,7,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-130,257,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,220,1626164,Devin Booker,1610612756,Phoenix Suns,2,7,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,26,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,256,1626164,Devin Booker,1610612756,Phoenix Suns,2,4,30,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,171,231,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,304,1626164,Devin Booker,1610612756,Phoenix Suns,2,0,46,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,142,121,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,336,1626164,Devin Booker,1610612756,Phoenix Suns,3,11,18,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,143,97,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,349,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,55,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-105,141,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,356,1626164,Devin Booker,1610612756,Phoenix Suns,3,9,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-76,148,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,367,1626164,Devin Booker,1610612756,Phoenix Suns,3,8,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-208,174,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,402,1626164,Devin Booker,1610612756,Phoenix Suns,3,4,58,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,26,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,429,1626164,Devin Booker,1610612756,Phoenix Suns,3,3,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,459,1626164,Devin Booker,1610612756,Phoenix Suns,3,1,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,4,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,541,1626164,Devin Booker,1610612756,Phoenix Suns,4,8,57,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-40,67,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,563,1626164,Devin Booker,1610612756,Phoenix Suns,4,7,42,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-24,89,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,578,1626164,Devin Booker,1610612756,Phoenix Suns,4,6,34,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,2,86,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,610,1626164,Devin Booker,1610612756,Phoenix Suns,4,3,18,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,43,279,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,624,1626164,Devin Booker,1610612756,Phoenix Suns,4,1,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,14,1,1,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,635,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,242,1,0,20210720,0,MIL,PHX
+Shot Chart Detail,42000406,657,1626164,Devin Booker,1610612756,Phoenix Suns,4,0,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-130,257,1,0,20210720,0,MIL,PHX

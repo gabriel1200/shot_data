@@ -1,4 +1,16 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
+Shot Chart Detail,22200023,670,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,2,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,232,90,1,1,20221021,1,NYK,DET
+Shot Chart Detail,22200164,638,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,13,1,1,20221109,1,BKN,NYK
+Shot Chart Detail,22200164,646,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,34,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-201,190,1,1,20221109,1,BKN,NYK
+Shot Chart Detail,22200309,602,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,4,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,41,1,0,20221129,0,DET,NYK
+Shot Chart Detail,22200309,611,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,25,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,33,1,0,20221129,0,DET,NYK
+Shot Chart Detail,22200337,602,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,3,28,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20221203,1,NYK,DAL
+Shot Chart Detail,22200337,622,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-15,1,0,20221203,0,NYK,DAL
+Shot Chart Detail,22200365,634,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6,261,1,1,20221207,1,NYK,ATL
+Shot Chart Detail,22200377,681,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,246,1,0,20221209,0,CHA,NYK
+Shot Chart Detail,22200434,628,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,39,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,236,1,0,20221216,0,CHI,NYK
+Shot Chart Detail,22200463,564,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,4,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,4,1,1,20221220,1,NYK,GSW
+Shot Chart Detail,22200463,584,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,221,1,0,20221220,0,NYK,GSW
 Shot Chart Detail,22200873,189,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,10,5,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,13,1,1,20230215,1,CHA,SAS
 Shot Chart Detail,22200873,193,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,9,54,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,214,1,0,20230215,0,CHA,SAS
 Shot Chart Detail,22200873,208,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,17,1,1,20230215,0,CHA,SAS
@@ -6,44 +18,44 @@ Shot Chart Detail,22200873,222,1629004,Svi Mykhailiuk,1610612766,Charlotte Horne
 Shot Chart Detail,22200873,234,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,8,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,25,1,0,20230215,0,CHA,SAS
 Shot Chart Detail,22200873,249,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,8,25,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-6,1,0,20230215,0,CHA,SAS
 Shot Chart Detail,22200873,254,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,7,28,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-78,169,1,0,20230215,0,CHA,SAS
-Shot Chart Detail,22200873,291,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,3,51,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-124,241,1,0,20230215,0,CHA,SAS
-Shot Chart Detail,22200873,348,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,1,11,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20230215,1,CHA,SAS
+Shot Chart Detail,22200873,291,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,3,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-124,241,1,0,20230215,0,CHA,SAS
+Shot Chart Detail,22200873,348,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,1,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20230215,1,CHA,SAS
 Shot Chart Detail,22200873,581,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,11,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,229,1,1,20230215,1,CHA,SAS
 Shot Chart Detail,22200873,598,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,9,39,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,36,1,0,20230215,0,CHA,SAS
-Shot Chart Detail,22200873,662,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,6,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20230215,1,CHA,SAS
-Shot Chart Detail,22200898,271,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,5,19,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,39,1,0,20230224,0,MIN,CHA
-Shot Chart Detail,22200946,523,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,10,21,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,0,20230303,0,CHA,ORL
-Shot Chart Detail,22200946,621,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,1,47,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20230303,1,CHA,ORL
-Shot Chart Detail,22200946,625,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,1,19,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,0,20230303,0,CHA,ORL
-Shot Chart Detail,22200965,437,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,3,59,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-230,15,1,0,20230305,0,BKN,CHA
-Shot Chart Detail,22200965,511,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,10,13,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-6,257,1,1,20230305,1,BKN,CHA
-Shot Chart Detail,22200992,288,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,4,31,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,80,1,0,20230309,0,DET,CHA
-Shot Chart Detail,22200992,338,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,0,42,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,234,6,1,1,20230309,1,DET,CHA
-Shot Chart Detail,22201005,501,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,10,49,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,0,20230311,0,CHA,UTA
-Shot Chart Detail,22201005,592,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,24,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-22,264,1,1,20230311,1,CHA,UTA
-Shot Chart Detail,22201015,141,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,1,34,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20230312,1,CHA,CLE
-Shot Chart Detail,22201015,148,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,1,10,Missed Shot,Driving Floating Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,9,96,15,1,0,20230312,0,CHA,CLE
-Shot Chart Detail,22201015,197,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,9,55,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,1,20230312,0,CHA,CLE
-Shot Chart Detail,22201015,227,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,7,30,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,13,-45,126,1,0,20230312,0,CHA,CLE
-Shot Chart Detail,22201015,269,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,5,14,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,190,1,1,20230312,1,CHA,CLE
-Shot Chart Detail,22201015,465,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,2,38,Made Shot,Driving Floating Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,9,-88,38,1,1,20230312,0,CHA,CLE
-Shot Chart Detail,22201015,514,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,11,23,Missed Shot,Step Back Jump shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,0,1,0,20230312,0,CHA,CLE
-Shot Chart Detail,22201015,572,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,6,14,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,87,1,0,20230312,0,CHA,CLE
-Shot Chart Detail,22201027,453,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,1,29,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,180,1,1,20230314,1,CHA,CLE
-Shot Chart Detail,22201027,606,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,1,25,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-102,232,1,0,20230314,0,CHA,CLE
-Shot Chart Detail,22201047,556,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,6,48,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,199,1,1,20230317,1,CHA,PHI
-Shot Chart Detail,22201047,568,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,33,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,225,1,0,20230317,0,CHA,PHI
-Shot Chart Detail,22201047,571,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,28,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-224,34,1,0,20230317,0,CHA,PHI
-Shot Chart Detail,22201047,605,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,3,5,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,0,20230317,0,CHA,PHI
-Shot Chart Detail,22201047,618,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,2,0,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,9,13,95,1,0,20230317,0,CHA,PHI
-Shot Chart Detail,22201071,148,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,2,57,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,231,1,0,20230320,0,CHA,IND
-Shot Chart Detail,22201071,175,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,0,26,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,10,1,0,20230320,0,CHA,IND
-Shot Chart Detail,22201071,554,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,11,5,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,235,71,1,1,20230320,1,CHA,IND
-Shot Chart Detail,22201071,630,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,29,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,238,20,1,1,20230320,1,CHA,IND
-Shot Chart Detail,22201095,226,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,7,15,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,238,57,1,0,20230323,0,NOP,CHA
+Shot Chart Detail,22200873,662,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20230215,1,CHA,SAS
+Shot Chart Detail,22200898,271,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,5,19,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,48,39,1,0,20230224,0,MIN,CHA
+Shot Chart Detail,22200946,523,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,10,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,17,1,0,20230303,0,CHA,ORL
+Shot Chart Detail,22200946,621,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,1,47,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20230303,1,CHA,ORL
+Shot Chart Detail,22200946,625,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,1,19,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,14,1,0,20230303,0,CHA,ORL
+Shot Chart Detail,22200965,437,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,3,59,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,15,1,0,20230305,0,BKN,CHA
+Shot Chart Detail,22200965,511,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,257,1,1,20230305,1,BKN,CHA
+Shot Chart Detail,22200992,288,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,4,31,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,80,1,0,20230309,0,DET,CHA
+Shot Chart Detail,22200992,338,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,0,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,6,1,1,20230309,1,DET,CHA
+Shot Chart Detail,22201005,501,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,10,49,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,11,1,0,20230311,0,CHA,UTA
+Shot Chart Detail,22201005,592,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-22,264,1,1,20230311,1,CHA,UTA
+Shot Chart Detail,22201015,141,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,1,34,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20230312,1,CHA,CLE
+Shot Chart Detail,22201015,148,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,1,10,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,96,15,1,0,20230312,0,CHA,CLE
+Shot Chart Detail,22201015,197,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,9,55,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,1,20230312,0,CHA,CLE
+Shot Chart Detail,22201015,227,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,7,30,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-45,126,1,0,20230312,0,CHA,CLE
+Shot Chart Detail,22201015,269,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-179,190,1,1,20230312,1,CHA,CLE
+Shot Chart Detail,22201015,465,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,2,38,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,38,1,1,20230312,0,CHA,CLE
+Shot Chart Detail,22201015,514,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,11,23,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,0,1,0,20230312,0,CHA,CLE
+Shot Chart Detail,22201015,572,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,6,14,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-4,87,1,0,20230312,0,CHA,CLE
+Shot Chart Detail,22201027,453,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,1,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,180,1,1,20230314,1,CHA,CLE
+Shot Chart Detail,22201027,606,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,1,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-102,232,1,0,20230314,0,CHA,CLE
+Shot Chart Detail,22201047,556,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,199,1,1,20230317,1,CHA,PHI
+Shot Chart Detail,22201047,568,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,225,1,0,20230317,0,CHA,PHI
+Shot Chart Detail,22201047,571,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,34,1,0,20230317,0,CHA,PHI
+Shot Chart Detail,22201047,605,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,3,5,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,10,1,0,20230317,0,CHA,PHI
+Shot Chart Detail,22201047,618,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,2,0,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,13,95,1,0,20230317,0,CHA,PHI
+Shot Chart Detail,22201071,148,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,2,57,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,129,231,1,0,20230320,0,CHA,IND
+Shot Chart Detail,22201071,175,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,0,26,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,10,1,0,20230320,0,CHA,IND
+Shot Chart Detail,22201071,554,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,11,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,71,1,1,20230320,1,CHA,IND
+Shot Chart Detail,22201071,630,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,20,1,1,20230320,1,CHA,IND
+Shot Chart Detail,22201095,226,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,7,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,57,1,0,20230323,0,NOP,CHA
 Shot Chart Detail,22201095,252,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,5,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,43,153,1,1,20230323,0,NOP,CHA
-Shot Chart Detail,22201095,298,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,2,19,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,1,20230323,1,NOP,CHA
-Shot Chart Detail,22201095,309,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,0,37,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20230323,0,NOP,CHA
+Shot Chart Detail,22201095,298,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,2,19,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,1,20230323,1,NOP,CHA
+Shot Chart Detail,22201095,309,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,0,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20230323,0,NOP,CHA
 Shot Chart Detail,22201095,383,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,6,2,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,1,20230323,1,NOP,CHA
 Shot Chart Detail,22201095,405,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,4,13,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-6,1,1,20230323,1,NOP,CHA
 Shot Chart Detail,22201095,444,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,1,47,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-188,190,1,0,20230323,0,NOP,CHA
@@ -52,17 +64,17 @@ Shot Chart Detail,22201095,512,1629004,Svi Mykhailiuk,1610612766,Charlotte Horne
 Shot Chart Detail,22201095,525,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,7,6,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,172,1,0,20230323,0,NOP,CHA
 Shot Chart Detail,22201095,534,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,5,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,11,1,0,20230323,0,NOP,CHA
 Shot Chart Detail,22201095,568,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-85,253,1,1,20230323,1,NOP,CHA
-Shot Chart Detail,22201101,9,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,11,28,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,1,20230324,1,DAL,CHA
+Shot Chart Detail,22201101,9,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,11,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,0,1,1,20230324,1,DAL,CHA
 Shot Chart Detail,22201101,144,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,1,21,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,1,1,1,20230324,1,DAL,CHA
 Shot Chart Detail,22201101,275,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,2,4,9,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,25,118,1,0,20230324,0,DAL,CHA
-Shot Chart Detail,22201101,377,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,8,20,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,227,1,0,20230324,0,DAL,CHA
+Shot Chart Detail,22201101,377,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,8,20,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,227,1,0,20230324,0,DAL,CHA
 Shot Chart Detail,22201101,550,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,8,10,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,39,1,0,20230324,0,DAL,CHA
-Shot Chart Detail,22201101,608,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,4,0,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,24,240,18,1,1,20230324,1,DAL,CHA
-Shot Chart Detail,22201113,41,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,8,43,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,126,1,0,20230326,0,CHA,DAL
+Shot Chart Detail,22201101,608,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,4,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,18,1,1,20230324,1,DAL,CHA
+Shot Chart Detail,22201113,41,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,8,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-223,126,1,0,20230326,0,CHA,DAL
 Shot Chart Detail,22201113,132,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,2,26,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,246,1,1,20230326,0,CHA,DAL
 Shot Chart Detail,22201113,155,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,0,21,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,65,1,0,20230326,0,CHA,DAL
-Shot Chart Detail,22201113,392,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,8,22,Missed Shot,Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,0,20230326,0,CHA,DAL
-Shot Chart Detail,22201113,394,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,8,20,Missed Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,0,20230326,0,CHA,DAL
+Shot Chart Detail,22201113,392,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,8,22,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,0,20230326,0,CHA,DAL
+Shot Chart Detail,22201113,394,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,8,20,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,0,20230326,0,CHA,DAL
 Shot Chart Detail,22201113,475,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,1,37,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,232,1,0,20230326,0,CHA,DAL
 Shot Chart Detail,22201113,545,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,8,44,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,89,232,1,0,20230326,0,CHA,DAL
 Shot Chart Detail,22201134,32,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,9,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,215,1,0,20230328,0,OKC,CHA
@@ -119,8 +131,8 @@ Shot Chart Detail,22201176,499,1629004,Svi Mykhailiuk,1610612766,Charlotte Horne
 Shot Chart Detail,22201176,506,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,9,31,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,181,3,1,1,20230404,0,CHA,TOR
 Shot Chart Detail,22201176,509,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,9,3,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,0,20230404,0,CHA,TOR
 Shot Chart Detail,22201176,542,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,6,23,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,107,-11,1,1,20230404,1,CHA,TOR
-Shot Chart Detail,22201176,592,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,3,15,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,153,1,0,20230404,0,CHA,TOR
-Shot Chart Detail,22201176,605,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,2,36,Made Shot,Step Back Jump shot,,Mid-Range,Left Side(L),8-16 ft.,14,-91,117,1,1,20230404,1,CHA,TOR
+Shot Chart Detail,22201176,592,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,3,15,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-94,153,1,0,20230404,0,CHA,TOR
+Shot Chart Detail,22201176,605,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,2,36,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-91,117,1,1,20230404,1,CHA,TOR
 Shot Chart Detail,22201202,9,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,11,28,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,155,1,1,20230407,1,CHA,HOU
 Shot Chart Detail,22201202,12,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,11,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,21,1,0,20230407,0,CHA,HOU
 Shot Chart Detail,22201202,15,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,1,10,58,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,188,1,0,20230407,0,CHA,HOU
@@ -160,15 +172,3 @@ Shot Chart Detail,22201218,455,1629004,Svi Mykhailiuk,1610612766,Charlotte Horne
 Shot Chart Detail,22201218,469,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,3,3,19,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-54,26,1,0,20230409,0,CLE,CHA
 Shot Chart Detail,22201218,536,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,9,49,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,204,1,1,20230409,0,CLE,CHA
 Shot Chart Detail,22201218,560,1629004,Svi Mykhailiuk,1610612766,Charlotte Hornets,4,8,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,178,1,1,20230409,1,CLE,CHA
-Shot Chart Detail,22200023,670,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,2,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,232,90,1,1,20221021,1,NYK,DET
-Shot Chart Detail,22200164,638,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,3,0,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-239,13,1,1,20221109,1,BKN,NYK
-Shot Chart Detail,22200164,646,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,34,Made Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-201,190,1,1,20221109,1,BKN,NYK
-Shot Chart Detail,22200309,602,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,4,Missed Shot,Driving Finger Roll Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-55,41,1,0,20221129,0,DET,NYK
-Shot Chart Detail,22200309,611,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,25,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,33,1,0,20221129,0,DET,NYK
-Shot Chart Detail,22200337,602,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,3,28,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,192,1,1,20221203,1,NYK,DAL
-Shot Chart Detail,22200337,622,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-15,1,0,20221203,0,NYK,DAL
-Shot Chart Detail,22200365,634,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,27,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-6,261,1,1,20221207,1,NYK,ATL
-Shot Chart Detail,22200377,681,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,3,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,246,1,0,20221209,0,CHA,NYK
-Shot Chart Detail,22200434,628,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,1,39,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,236,1,0,20221216,0,CHI,NYK
-Shot Chart Detail,22200463,564,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,4,44,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,4,1,1,20221220,1,NYK,GSW
-Shot Chart Detail,22200463,584,1629004,Svi Mykhailiuk,1610612752,New York Knicks,4,2,31,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,221,1,0,20221220,0,NYK,GSW

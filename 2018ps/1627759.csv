@@ -1,267 +1,267 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
-Shot Chart Detail,41700111,11,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,225,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,17,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,40,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,1,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,20,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,5,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,48,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,200,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,63,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,43,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-1,13,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,6,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,16,1,1,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,11,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,225,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,17,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,1,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,20,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,5,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,48,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,200,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,63,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,43,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,13,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,16,1,1,20180415,0,BOS,MIL
 Shot Chart Detail,41700111,109,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,20,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-105,59,1,0,20180415,0,BOS,MIL
 Shot Chart Detail,41700111,120,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,8,1,1,20180415,1,BOS,MIL
-Shot Chart Detail,41700111,217,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,29,Missed Shot,Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,81,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,236,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,12,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,32,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,256,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,0,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,201,1,1,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,342,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,57,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,7,24,1,1,20180415,1,BOS,MIL
-Shot Chart Detail,41700111,388,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,34,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20180415,1,BOS,MIL
-Shot Chart Detail,41700111,395,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,31,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,229,1,1,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,412,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,23,Missed Shot,Turnaround Fadeaway shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,217,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,29,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-70,81,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,236,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,12,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-46,32,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,256,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,146,201,1,1,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,342,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,57,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,24,1,1,20180415,1,BOS,MIL
+Shot Chart Detail,41700111,388,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20180415,1,BOS,MIL
+Shot Chart Detail,41700111,395,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,229,1,1,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,412,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,23,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,0,20180415,0,BOS,MIL
 Shot Chart Detail,41700111,478,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,38,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,9,1,1,20180415,1,BOS,MIL
-Shot Chart Detail,41700111,596,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,143,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700111,642,1627759,Jaylen Brown,1610612738,Boston Celtics,5,4,35,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-22,3,1,1,20180415,1,BOS,MIL
-Shot Chart Detail,41700111,647,1627759,Jaylen Brown,1610612738,Boston Celtics,5,3,49,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,20,1,0,20180415,0,BOS,MIL
-Shot Chart Detail,41700112,9,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,38,Made Shot,Tip Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,25,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,5,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,174,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,34,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,47,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,204,179,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,37,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,23,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-72,99,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,52,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,22,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-29,5,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,72,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,45,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-19,8,1,1,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,127,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-63,247,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,132,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,30,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-76,267,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,243,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,42,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,246,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,39,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,271,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,41,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,301,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,40,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,183,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,334,1627759,Jaylen Brown,1610612738,Boston Celtics,3,11,19,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,237,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,342,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,17,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,30,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,358,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,15,Made Shot,Step Back Jump shot,,Mid-Range,Center(C),16-24 ft.,21,-32,209,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,366,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,26,Missed Shot,Jump Shot,,Mid-Range,Left Side(L),16-24 ft.,21,-218,-7,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,383,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,0,Made Shot,Step Back Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,197,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,386,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,22,Made Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,31,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,394,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,32,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-227,11,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700112,415,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,95,260,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,535,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,34,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,133,248,1,0,20180417,0,BOS,MIL
-Shot Chart Detail,41700112,595,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,27,Made Shot,Jump Bank Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,183,200,1,1,20180417,1,BOS,MIL
-Shot Chart Detail,41700113,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,32,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,54,1,0,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,59,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,52,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,149,228,1,0,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,104,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,55,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,52,1,0,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,255,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,26,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,249,1,1,20180420,1,MIL,BOS
-Shot Chart Detail,41700113,262,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,15,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,22,6,1,1,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,266,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,36,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,-45,148,1,0,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,312,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,30,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,1,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,353,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,59,Missed Shot,Fadeaway Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,8,83,-18,1,0,20180420,0,MIL,BOS
-Shot Chart Detail,41700113,386,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,45,Made Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20180420,0,MIL,BOS
-Shot Chart Detail,41700114,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,47,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,16,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,11,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,33,Missed Shot,Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,22,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,48,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,134,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,47,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,18,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,20,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,51,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,54,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,186,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,13,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700111,596,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,143,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700111,642,1627759,Jaylen Brown,1610612738,Boston Celtics,5,4,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,3,1,1,20180415,1,BOS,MIL
+Shot Chart Detail,41700111,647,1627759,Jaylen Brown,1610612738,Boston Celtics,5,3,49,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,20,1,0,20180415,0,BOS,MIL
+Shot Chart Detail,41700112,9,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,38,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,25,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,174,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,34,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,204,179,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,37,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-72,99,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,52,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,22,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-29,5,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,72,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,45,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,8,1,1,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,127,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-63,247,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,132,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-76,267,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,243,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,7,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,246,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,22,1,1,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,271,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,2,1,1,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,301,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-187,183,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,334,1627759,Jaylen Brown,1610612738,Boston Celtics,3,11,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,237,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,342,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,30,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,358,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,-32,209,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,366,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,26,Missed Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-218,-7,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,383,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,0,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,197,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,386,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,22,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,31,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,394,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,11,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700112,415,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,95,260,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,535,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,133,248,1,0,20180417,0,BOS,MIL
+Shot Chart Detail,41700112,595,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,27,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,183,200,1,1,20180417,1,BOS,MIL
+Shot Chart Detail,41700113,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,54,1,0,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,59,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,149,228,1,0,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,104,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,55,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,52,1,0,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,255,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,109,249,1,1,20180420,1,MIL,BOS
+Shot Chart Detail,41700113,262,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,6,1,1,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,266,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-45,148,1,0,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,312,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,31,1,1,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,353,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,59,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,-18,1,0,20180420,0,MIL,BOS
+Shot Chart Detail,41700113,386,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,45,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20180420,0,MIL,BOS
+Shot Chart Detail,41700114,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,47,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,16,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,11,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,33,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,22,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,134,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,47,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,18,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,58,20,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,51,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,186,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,0,20180422,0,MIL,BOS
 Shot Chart Detail,41700114,189,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-6,178,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,252,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,33,Made Shot,Jump Shot,,Mid-Range,Center(C),16-24 ft.,18,-1,188,1,1,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,266,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,33,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,28,-85,272,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,270,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,58,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,283,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,14,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,25,27,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,287,1627759,Jaylen Brown,1610612738,Boston Celtics,2,2,50,Made Shot,Running Jump Shot,,Mid-Range,Left Side(L),8-16 ft.,10,-104,-21,1,1,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,317,1627759,Jaylen Brown,1610612738,Boston Celtics,2,1,16,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,358,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,31,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,410,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,23,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,421,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,33,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,4,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,434,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,37,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,213,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,438,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,12,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,175,198,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,252,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-1,188,1,1,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,266,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-85,272,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,270,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,10,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,283,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,27,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,287,1627759,Jaylen Brown,1610612738,Boston Celtics,2,2,50,Made Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,-21,1,1,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,317,1627759,Jaylen Brown,1610612738,Boston Celtics,2,1,16,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,42,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,358,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,31,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,410,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-8,9,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,421,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,4,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,434,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,165,213,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,438,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,175,198,1,0,20180422,0,MIL,BOS
 Shot Chart Detail,41700114,506,1627759,Jaylen Brown,1610612738,Boston Celtics,4,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-118,258,1,1,20180422,1,MIL,BOS
 Shot Chart Detail,41700114,526,1627759,Jaylen Brown,1610612738,Boston Celtics,4,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,207,156,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,576,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,4,Made Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,35,1,1,20180422,1,MIL,BOS
-Shot Chart Detail,41700114,613,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,56,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,619,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,29,Made Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,236,1,1,20180422,0,MIL,BOS
-Shot Chart Detail,41700114,629,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,40,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,67,1,0,20180422,0,MIL,BOS
-Shot Chart Detail,41700115,38,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,57,Missed Shot,Step Back Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-120,176,1,0,20180424,0,BOS,MIL
-Shot Chart Detail,41700115,58,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,46,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,10,-32,97,1,1,20180424,1,BOS,MIL
-Shot Chart Detail,41700115,79,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,57,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,179,1,0,20180424,0,BOS,MIL
-Shot Chart Detail,41700115,114,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,37,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700114,576,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-25,35,1,1,20180422,1,MIL,BOS
+Shot Chart Detail,41700114,613,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,56,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,619,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,29,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,144,236,1,1,20180422,0,MIL,BOS
+Shot Chart Detail,41700114,629,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,40,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,67,1,0,20180422,0,MIL,BOS
+Shot Chart Detail,41700115,38,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,57,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-120,176,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700115,58,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,46,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-32,97,1,1,20180424,1,BOS,MIL
+Shot Chart Detail,41700115,79,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,179,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700115,114,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,37,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,25,1,0,20180424,0,BOS,MIL
 Shot Chart Detail,41700115,248,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,225,1,1,20180424,1,BOS,MIL
-Shot Chart Detail,41700115,301,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,58,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,67,1,0,20180424,0,BOS,MIL
-Shot Chart Detail,41700115,314,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,0,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,36,5,361,1,0,20180424,0,BOS,MIL
-Shot Chart Detail,41700115,411,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,177,1,0,20180424,0,BOS,MIL
-Shot Chart Detail,41700115,420,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,26,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,22,226,6,1,1,20180424,1,BOS,MIL
-Shot Chart Detail,41700115,424,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,56,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,237,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700115,301,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,58,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,67,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700115,314,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,36,5,361,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700115,411,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,177,1,0,20180424,0,BOS,MIL
+Shot Chart Detail,41700115,420,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,6,1,1,20180424,1,BOS,MIL
+Shot Chart Detail,41700115,424,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,237,1,0,20180424,0,BOS,MIL
 Shot Chart Detail,41700115,447,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,232,1,1,20180424,1,BOS,MIL
 Shot Chart Detail,41700115,452,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,199,1,0,20180424,0,BOS,MIL
-Shot Chart Detail,41700115,599,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,49,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20180424,1,BOS,MIL
-Shot Chart Detail,41700116,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,41,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-55,67,1,1,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,9,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,9,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,155,235,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,22,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,40,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,83,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,297,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,25,Missed Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,13,25,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,305,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,45,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,331,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,19,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,338,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,48,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,11,274,1,1,20180426,1,MIL,BOS
-Shot Chart Detail,41700116,343,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,10,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-37,261,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,363,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,46,Made Shot,Cutting Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20180426,1,MIL,BOS
+Shot Chart Detail,41700115,599,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,49,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20180424,1,BOS,MIL
+Shot Chart Detail,41700116,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-55,67,1,1,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,9,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,155,235,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,22,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,40,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,83,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,297,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,25,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,25,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,305,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,45,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-3,9,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,331,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,338,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,11,274,1,1,20180426,1,MIL,BOS
+Shot Chart Detail,41700116,343,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-37,261,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,363,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,46,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20180426,1,MIL,BOS
 Shot Chart Detail,41700116,431,1627759,Jaylen Brown,1610612738,Boston Celtics,3,0,0,Missed Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,35,-131,335,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,491,1627759,Jaylen Brown,1610612738,Boston Celtics,4,7,59,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,521,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,36,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-5,37,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,526,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,32,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,170,218,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,566,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,0,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-97,261,1,0,20180426,0,MIL,BOS
-Shot Chart Detail,41700116,584,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,33,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20180426,0,MIL,BOS
-Shot Chart Detail,41700117,14,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,41,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20180428,0,BOS,MIL
-Shot Chart Detail,41700117,40,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,30,Missed Shot,Running Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,17,1,0,20180428,0,BOS,MIL
-Shot Chart Detail,41700117,194,1627759,Jaylen Brown,1610612738,Boston Celtics,2,10,11,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,232,1,0,20180428,0,BOS,MIL
-Shot Chart Detail,41700117,198,1627759,Jaylen Brown,1610612738,Boston Celtics,2,9,39,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-171,210,1,0,20180428,0,BOS,MIL
-Shot Chart Detail,41700117,256,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,25,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,221,68,1,0,20180428,0,BOS,MIL
-Shot Chart Detail,41700212,64,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,55,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-166,204,1,0,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,68,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,38,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,3,1,1,1,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,88,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,30,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,186,1,0,20180503,0,BOS,PHI
+Shot Chart Detail,41700116,491,1627759,Jaylen Brown,1610612738,Boston Celtics,4,7,59,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,521,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,36,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,37,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,526,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,170,218,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,566,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-97,261,1,0,20180426,0,MIL,BOS
+Shot Chart Detail,41700116,584,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,9,1,1,20180426,0,MIL,BOS
+Shot Chart Detail,41700117,14,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,0,1,1,20180428,0,BOS,MIL
+Shot Chart Detail,41700117,40,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,30,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-41,17,1,0,20180428,0,BOS,MIL
+Shot Chart Detail,41700117,194,1627759,Jaylen Brown,1610612738,Boston Celtics,2,10,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,232,1,0,20180428,0,BOS,MIL
+Shot Chart Detail,41700117,198,1627759,Jaylen Brown,1610612738,Boston Celtics,2,9,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-171,210,1,0,20180428,0,BOS,MIL
+Shot Chart Detail,41700117,256,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,221,68,1,0,20180428,0,BOS,MIL
+Shot Chart Detail,41700212,64,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-166,204,1,0,20180503,0,BOS,PHI
+Shot Chart Detail,41700212,68,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,1,1,1,20180503,0,BOS,PHI
+Shot Chart Detail,41700212,88,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,165,186,1,0,20180503,0,BOS,PHI
 Shot Chart Detail,41700212,141,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,11,1,0,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,217,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,27,Missed Shot,Pullup Jump shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,218,1,0,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,248,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,59,Missed Shot,Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,0,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,261,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,2,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,19,13,1,0,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,279,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,44,Missed Shot,Driving Reverse Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,6,1,0,20180503,0,BOS,PHI
-Shot Chart Detail,41700212,291,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,1,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,65,1,1,20180503,1,BOS,PHI
-Shot Chart Detail,41700212,323,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,8,Made Shot,Running Alley Oop Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20180503,1,BOS,PHI
-Shot Chart Detail,41700212,433,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,58,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,228,42,1,1,20180503,1,BOS,PHI
-Shot Chart Detail,41700212,519,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,3,Made Shot,Running Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,1,20180503,1,BOS,PHI
-Shot Chart Detail,41700213,68,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,16,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,6,1,1,20180505,1,PHI,BOS
-Shot Chart Detail,41700213,122,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,48,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,4,1,0,20180505,0,PHI,BOS
-Shot Chart Detail,41700213,223,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,1,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,26,-14,263,1,1,20180505,1,PHI,BOS
-Shot Chart Detail,41700213,291,1627759,Jaylen Brown,1610612738,Boston Celtics,2,1,30,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,0,20180505,0,PHI,BOS
-Shot Chart Detail,41700213,326,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,6,Made Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-67,250,1,1,20180505,1,PHI,BOS
-Shot Chart Detail,41700213,405,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,23,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,226,1,1,20180505,1,PHI,BOS
-Shot Chart Detail,41700213,563,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,23,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-12,27,1,0,20180505,0,PHI,BOS
-Shot Chart Detail,41700213,565,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,7,Missed Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,21,-79,200,1,0,20180505,0,PHI,BOS
-Shot Chart Detail,41700213,592,1627759,Jaylen Brown,1610612738,Boston Celtics,4,3,8,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,25,-3,259,1,0,20180505,0,PHI,BOS
-Shot Chart Detail,41700213,594,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,59,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,16,1,0,20180505,0,PHI,BOS
-Shot Chart Detail,41700213,620,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,24,Made Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-18,23,1,1,20180505,1,PHI,BOS
-Shot Chart Detail,41700213,624,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,1,Made Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,1,20180505,1,PHI,BOS
-Shot Chart Detail,41700214,86,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,0,Made Shot,Running Pull-Up Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,219,1,1,20180507,0,PHI,BOS
-Shot Chart Detail,41700214,104,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,36,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,158,1,0,20180507,0,PHI,BOS
+Shot Chart Detail,41700212,217,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,27,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-145,218,1,0,20180503,0,BOS,PHI
+Shot Chart Detail,41700212,248,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,59,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,5,1,0,20180503,0,BOS,PHI
+Shot Chart Detail,41700212,261,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,13,1,0,20180503,0,BOS,PHI
+Shot Chart Detail,41700212,279,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,44,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,6,1,0,20180503,0,BOS,PHI
+Shot Chart Detail,41700212,291,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,65,1,1,20180503,1,BOS,PHI
+Shot Chart Detail,41700212,323,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,8,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20180503,1,BOS,PHI
+Shot Chart Detail,41700212,433,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,42,1,1,20180503,1,BOS,PHI
+Shot Chart Detail,41700212,519,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,3,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,1,20180503,1,BOS,PHI
+Shot Chart Detail,41700213,68,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,16,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,6,1,1,20180505,1,PHI,BOS
+Shot Chart Detail,41700213,122,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,48,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,4,1,0,20180505,0,PHI,BOS
+Shot Chart Detail,41700213,223,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-14,263,1,1,20180505,1,PHI,BOS
+Shot Chart Detail,41700213,291,1627759,Jaylen Brown,1610612738,Boston Celtics,2,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-172,183,1,0,20180505,0,PHI,BOS
+Shot Chart Detail,41700213,326,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,250,1,1,20180505,1,PHI,BOS
+Shot Chart Detail,41700213,405,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,226,1,1,20180505,1,PHI,BOS
+Shot Chart Detail,41700213,563,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,27,1,0,20180505,0,PHI,BOS
+Shot Chart Detail,41700213,565,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,7,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-79,200,1,0,20180505,0,PHI,BOS
+Shot Chart Detail,41700213,592,1627759,Jaylen Brown,1610612738,Boston Celtics,4,3,8,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-3,259,1,0,20180505,0,PHI,BOS
+Shot Chart Detail,41700213,594,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,16,1,0,20180505,0,PHI,BOS
+Shot Chart Detail,41700213,620,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,23,1,1,20180505,1,PHI,BOS
+Shot Chart Detail,41700213,624,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,1,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,6,1,1,20180505,1,PHI,BOS
+Shot Chart Detail,41700214,86,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,0,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,219,1,1,20180507,0,PHI,BOS
+Shot Chart Detail,41700214,104,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,158,1,0,20180507,0,PHI,BOS
 Shot Chart Detail,41700214,408,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,21,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,20,1,0,20180507,0,PHI,BOS
-Shot Chart Detail,41700214,425,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,44,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,220,1,0,20180507,0,PHI,BOS
-Shot Chart Detail,41700214,449,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,7,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,133,238,1,1,20180507,1,PHI,BOS
-Shot Chart Detail,41700214,552,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,23,Missed Shot,Running Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,29,-170,236,1,0,20180507,0,PHI,BOS
-Shot Chart Detail,41700215,8,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,31,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-4,35,1,1,20180509,1,BOS,PHI
-Shot Chart Detail,41700215,17,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,42,Made Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-59,9,1,1,20180509,0,BOS,PHI
-Shot Chart Detail,41700215,29,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,20,Made Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,12,173,1,1,20180509,1,BOS,PHI
-Shot Chart Detail,41700215,48,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,56,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,29,16,290,1,0,20180509,0,BOS,PHI
-Shot Chart Detail,41700215,209,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,14,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20180509,0,BOS,PHI
-Shot Chart Detail,41700215,357,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,55,Made Shot,Turnaround Fadeaway shot,,Mid-Range,Left Side Center(LC),16-24 ft.,16,-83,137,1,1,20180509,0,BOS,PHI
-Shot Chart Detail,41700215,364,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,8,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,28,-144,242,1,1,20180509,1,BOS,PHI
-Shot Chart Detail,41700215,401,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,42,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,27,-148,235,1,1,20180509,1,BOS,PHI
-Shot Chart Detail,41700215,433,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,48,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-36,7,1,1,20180509,0,BOS,PHI
+Shot Chart Detail,41700214,425,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,149,220,1,0,20180507,0,PHI,BOS
+Shot Chart Detail,41700214,449,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,133,238,1,1,20180507,1,PHI,BOS
+Shot Chart Detail,41700214,552,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,23,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-170,236,1,0,20180507,0,PHI,BOS
+Shot Chart Detail,41700215,8,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,31,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,35,1,1,20180509,1,BOS,PHI
+Shot Chart Detail,41700215,17,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,42,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-59,9,1,1,20180509,0,BOS,PHI
+Shot Chart Detail,41700215,29,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,20,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,12,173,1,1,20180509,1,BOS,PHI
+Shot Chart Detail,41700215,48,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,56,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,16,290,1,0,20180509,0,BOS,PHI
+Shot Chart Detail,41700215,209,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,14,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,15,1,1,20180509,0,BOS,PHI
+Shot Chart Detail,41700215,357,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,55,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-83,137,1,1,20180509,0,BOS,PHI
+Shot Chart Detail,41700215,364,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-144,242,1,1,20180509,1,BOS,PHI
+Shot Chart Detail,41700215,401,1627759,Jaylen Brown,1610612738,Boston Celtics,3,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-148,235,1,1,20180509,1,BOS,PHI
+Shot Chart Detail,41700215,433,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,7,1,1,20180509,0,BOS,PHI
 Shot Chart Detail,41700215,537,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,43,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-38,172,1,1,20180509,1,BOS,PHI
 Shot Chart Detail,41700215,541,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-128,188,1,0,20180509,0,BOS,PHI
 Shot Chart Detail,41700215,547,1627759,Jaylen Brown,1610612738,Boston Celtics,4,10,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,-6,1,1,20180509,1,BOS,PHI
 Shot Chart Detail,41700215,567,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,58,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,29,1,0,20180509,0,BOS,PHI
-Shot Chart Detail,41700301,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,54,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,-6,22,1,1,20180513,0,BOS,CLE
-Shot Chart Detail,41700301,55,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,59,Missed Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,16,7,1,0,20180513,0,BOS,CLE
-Shot Chart Detail,41700301,60,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,54,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-19,125,1,1,20180513,1,BOS,CLE
-Shot Chart Detail,41700301,92,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,14,Missed Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,0,20180513,0,BOS,CLE
-Shot Chart Detail,41700301,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,11,Made Shot,Turnaround Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,1,1,1,20180513,0,BOS,CLE
-Shot Chart Detail,41700301,97,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,36,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,54,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,22,1,1,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,55,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,59,Missed Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,7,1,0,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,60,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,54,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-19,125,1,1,20180513,1,BOS,CLE
+Shot Chart Detail,41700301,92,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,14,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,0,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,1,1,1,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,97,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20180513,0,BOS,CLE
 Shot Chart Detail,41700301,121,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,18,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,151,200,1,0,20180513,0,BOS,CLE
 Shot Chart Detail,41700301,126,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,34,1,1,20180513,1,BOS,CLE
 Shot Chart Detail,41700301,251,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,15,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,118,4,1,1,20180513,1,BOS,CLE
-Shot Chart Detail,41700301,282,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,32,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-240,-4,1,1,20180513,1,BOS,CLE
-Shot Chart Detail,41700301,309,1627759,Jaylen Brown,1610612738,Boston Celtics,3,11,0,Missed Shot,Turnaround Fadeaway shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,59,1,0,20180513,0,BOS,CLE
-Shot Chart Detail,41700301,333,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,12,Made Shot,Driving Floating Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,11,29,1,1,20180513,1,BOS,CLE
-Shot Chart Detail,41700301,364,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,18,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,166,1,1,20180513,1,BOS,CLE
-Shot Chart Detail,41700301,372,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,28,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-231,46,1,0,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,282,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-4,1,1,20180513,1,BOS,CLE
+Shot Chart Detail,41700301,309,1627759,Jaylen Brown,1610612738,Boston Celtics,3,11,0,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-71,59,1,0,20180513,0,BOS,CLE
+Shot Chart Detail,41700301,333,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,12,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,29,1,1,20180513,1,BOS,CLE
+Shot Chart Detail,41700301,364,1627759,Jaylen Brown,1610612738,Boston Celtics,3,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,166,1,1,20180513,1,BOS,CLE
+Shot Chart Detail,41700301,372,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-231,46,1,0,20180513,0,BOS,CLE
 Shot Chart Detail,41700301,391,1627759,Jaylen Brown,1610612738,Boston Celtics,3,2,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20180513,0,BOS,CLE
 Shot Chart Detail,41700301,403,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,7,Missed Shot,Step Back Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-57,59,1,0,20180513,0,BOS,CLE
-Shot Chart Detail,41700302,8,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,28,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,211,154,1,1,20180515,1,BOS,CLE
-Shot Chart Detail,41700302,18,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,58,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,231,6,1,0,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,21,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,31,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,57,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,5,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,231,1,1,20180515,1,BOS,CLE
+Shot Chart Detail,41700302,8,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,211,154,1,1,20180515,1,BOS,CLE
+Shot Chart Detail,41700302,18,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,58,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,6,1,0,20180515,0,BOS,CLE
+Shot Chart Detail,41700302,21,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20180515,0,BOS,CLE
+Shot Chart Detail,41700302,57,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,231,1,1,20180515,1,BOS,CLE
 Shot Chart Detail,41700302,89,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,1,20180515,0,BOS,CLE
 Shot Chart Detail,41700302,94,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-239,95,1,1,20180515,1,BOS,CLE
 Shot Chart Detail,41700302,112,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,166,190,1,0,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,237,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,2,Missed Shot,Step Back Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-74,253,1,0,20180515,0,BOS,CLE
+Shot Chart Detail,41700302,237,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,2,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-74,253,1,0,20180515,0,BOS,CLE
 Shot Chart Detail,41700302,266,1627759,Jaylen Brown,1610612738,Boston Celtics,2,2,43,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,80,1,0,20180515,0,BOS,CLE
 Shot Chart Detail,41700302,279,1627759,Jaylen Brown,1610612738,Boston Celtics,2,1,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,28,1,1,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,319,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,50,Made Shot,Reverse Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20180515,1,BOS,CLE
-Shot Chart Detail,41700302,337,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,46,Made Shot,Running Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,417,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,22,Missed Shot,Pullup Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,48,1,0,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,344,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,43,Missed Shot,Turnaround Fadeaway shot,,Mid-Range,Right Side Center(RC),16-24 ft.,17,66,157,1,0,20180515,0,BOS,CLE
+Shot Chart Detail,41700302,319,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,50,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20180515,1,BOS,CLE
+Shot Chart Detail,41700302,337,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,46,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,14,1,1,20180515,0,BOS,CLE
+Shot Chart Detail,41700302,417,1627759,Jaylen Brown,1610612738,Boston Celtics,3,8,22,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,48,1,0,20180515,0,BOS,CLE
+Shot Chart Detail,41700302,344,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,43,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,66,157,1,0,20180515,0,BOS,CLE
 Shot Chart Detail,41700302,498,1627759,Jaylen Brown,1610612738,Boston Celtics,4,8,33,Missed Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,26,1,0,20180515,0,BOS,CLE
 Shot Chart Detail,41700302,537,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,9,1,0,20180515,0,BOS,CLE
 Shot Chart Detail,41700302,539,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,30,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-6,1,1,20180515,0,BOS,CLE
-Shot Chart Detail,41700302,593,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,32,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,199,1,0,20180515,0,BOS,CLE
-Shot Chart Detail,41700303,11,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,10,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,16,19,165,1,0,20180519,0,CLE,BOS
-Shot Chart Detail,41700303,184,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,20,Made Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,74,1,1,20180519,1,CLE,BOS
-Shot Chart Detail,41700303,216,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,57,Missed Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,0,20180519,0,CLE,BOS
-Shot Chart Detail,41700303,417,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,6,Missed Shot,Jump Shot,,Mid-Range,Center(C),8-16 ft.,15,9,156,1,0,20180519,0,CLE,BOS
-Shot Chart Detail,41700303,437,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,42,Made Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,236,25,1,1,20180519,1,CLE,BOS
-Shot Chart Detail,41700303,445,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,18,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,25,-58,253,1,0,20180519,0,CLE,BOS
-Shot Chart Detail,41700303,449,1627759,Jaylen Brown,1610612738,Boston Celtics,3,0,58,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-225,9,1,1,20180519,1,CLE,BOS
+Shot Chart Detail,41700302,593,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,199,1,0,20180515,0,BOS,CLE
+Shot Chart Detail,41700303,11,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,10,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,19,165,1,0,20180519,0,CLE,BOS
+Shot Chart Detail,41700303,184,1627759,Jaylen Brown,1610612738,Boston Celtics,2,8,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,74,1,1,20180519,1,CLE,BOS
+Shot Chart Detail,41700303,216,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,57,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-3,1,0,20180519,0,CLE,BOS
+Shot Chart Detail,41700303,417,1627759,Jaylen Brown,1610612738,Boston Celtics,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,9,156,1,0,20180519,0,CLE,BOS
+Shot Chart Detail,41700303,437,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,25,1,1,20180519,1,CLE,BOS
+Shot Chart Detail,41700303,445,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,253,1,0,20180519,0,CLE,BOS
+Shot Chart Detail,41700303,449,1627759,Jaylen Brown,1610612738,Boston Celtics,3,0,58,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,9,1,1,20180519,1,CLE,BOS
 Shot Chart Detail,41700303,496,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,39,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,14,1,0,20180519,0,CLE,BOS
-Shot Chart Detail,41700304,37,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,21,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,43,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20180521,1,CLE,BOS
-Shot Chart Detail,41700304,63,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,10,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,109,236,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,37,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,43,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20180521,1,CLE,BOS
+Shot Chart Detail,41700304,63,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,109,236,1,0,20180521,0,CLE,BOS
 Shot Chart Detail,41700304,122,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-95,241,1,0,20180521,0,CLE,BOS
 Shot Chart Detail,41700304,143,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,53,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-85,64,1,0,20180521,0,CLE,BOS
 Shot Chart Detail,41700304,171,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,23,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,33,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,176,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,13,Missed Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,190,1627759,Jaylen Brown,1610612738,Boston Celtics,2,11,23,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-38,115,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,192,1627759,Jaylen Brown,1610612738,Boston Celtics,2,11,20,Missed Shot,Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,277,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,35,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-175,200,1,1,20180521,1,CLE,BOS
-Shot Chart Detail,41700304,282,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,54,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,81,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,294,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,37,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,23,-234,39,1,1,20180521,1,CLE,BOS
-Shot Chart Detail,41700304,378,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,51,Made Shot,Alley Oop Layup shot,,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20180521,1,CLE,BOS
-Shot Chart Detail,41700304,405,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,18,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,28,185,218,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,541,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,8,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,554,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,36,Made Shot,Driving Finger Roll Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,557,1627759,Jaylen Brown,1610612738,Boston Celtics,4,8,59,Made Shot,Driving Floating Bank Jump Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-9,38,1,1,20180521,1,CLE,BOS
-Shot Chart Detail,41700304,580,1627759,Jaylen Brown,1610612738,Boston Celtics,4,7,15,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,604,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,17,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,209,183,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,651,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,27,Made Shot,Driving Floating Jump Shot,,Mid-Range,Right Side(R),8-16 ft.,11,90,72,1,1,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,672,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,2,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,679,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,36,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,8,9,1,1,20180521,0,CLE,BOS
-Shot Chart Detail,41700304,683,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,7,Made Shot,Driving Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,29,5,1,1,20180521,0,CLE,BOS
-Shot Chart Detail,41700305,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,45,Missed Shot,Jump Shot,,Above the Break 3,Center(C),24+ ft.,27,-41,274,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,23,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,49,Missed Shot,Running Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,28,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,13,Missed Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,24,-242,23,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700304,176,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,13,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,190,1627759,Jaylen Brown,1610612738,Boston Celtics,2,11,23,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-38,115,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,192,1627759,Jaylen Brown,1610612738,Boston Celtics,2,11,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,12,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,277,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-175,200,1,1,20180521,1,CLE,BOS
+Shot Chart Detail,41700304,282,1627759,Jaylen Brown,1610612738,Boston Celtics,2,4,54,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-50,81,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,294,1627759,Jaylen Brown,1610612738,Boston Celtics,2,3,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,39,1,1,20180521,1,CLE,BOS
+Shot Chart Detail,41700304,378,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,51,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,5,1,1,20180521,1,CLE,BOS
+Shot Chart Detail,41700304,405,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,185,218,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,541,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,554,1627759,Jaylen Brown,1610612738,Boston Celtics,4,9,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,557,1627759,Jaylen Brown,1610612738,Boston Celtics,4,8,59,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,38,1,1,20180521,1,CLE,BOS
+Shot Chart Detail,41700304,580,1627759,Jaylen Brown,1610612738,Boston Celtics,4,7,15,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,5,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,604,1627759,Jaylen Brown,1610612738,Boston Celtics,4,6,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,209,183,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,651,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,90,72,1,1,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,672,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,2,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,0,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,679,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,36,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,9,1,1,20180521,0,CLE,BOS
+Shot Chart Detail,41700304,683,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,5,1,1,20180521,0,CLE,BOS
+Shot Chart Detail,41700305,7,1627759,Jaylen Brown,1610612738,Boston Celtics,1,11,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-41,274,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,23,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,49,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,28,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,28,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-242,23,1,0,20180523,0,BOS,CLE
 Shot Chart Detail,41700305,112,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-185,189,1,1,20180523,1,BOS,CLE
-Shot Chart Detail,41700305,137,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,9,Made Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-234,111,1,1,20180523,1,BOS,CLE
-Shot Chart Detail,41700305,141,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,0,Missed Shot,Turnaround Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,216,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,181,1627759,Jaylen Brown,1610612738,Boston Celtics,2,9,29,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-39,7,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,137,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-234,111,1,1,20180523,1,BOS,CLE
+Shot Chart Detail,41700305,141,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,0,Missed Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-139,216,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,181,1627759,Jaylen Brown,1610612738,Boston Celtics,2,9,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-39,7,1,0,20180523,0,BOS,CLE
 Shot Chart Detail,41700305,306,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,5,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,133,209,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,325,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,45,Made Shot,Step Back Jump shot,,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,151,1,1,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,325,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,45,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,70,151,1,1,20180523,0,BOS,CLE
 Shot Chart Detail,41700305,433,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,57,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,15,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,460,1627759,Jaylen Brown,1610612738,Boston Celtics,3,0,6,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,42,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,478,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,20,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-25,30,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,481,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,18,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,-10,16,1,1,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,533,1627759,Jaylen Brown,1610612738,Boston Celtics,4,7,2,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,120,247,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700305,555,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,4,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,201,1,0,20180523,0,BOS,CLE
-Shot Chart Detail,41700306,10,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,49,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-223,15,1,1,20180525,1,CLE,BOS
-Shot Chart Detail,41700306,14,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,9,Missed Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,0,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,31,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,51,Missed Shot,Pullup Jump shot,,Mid-Range,Center(C),16-24 ft.,17,-28,174,1,0,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,38,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,55,Made Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),8-16 ft.,12,-20,126,1,1,20180525,1,CLE,BOS
+Shot Chart Detail,41700305,460,1627759,Jaylen Brown,1610612738,Boston Celtics,3,0,6,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,42,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,478,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,30,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,481,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,18,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,16,1,1,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,533,1627759,Jaylen Brown,1610612738,Boston Celtics,4,7,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,120,247,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700305,555,1627759,Jaylen Brown,1610612738,Boston Celtics,4,5,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,201,1,0,20180523,0,BOS,CLE
+Shot Chart Detail,41700306,10,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,15,1,1,20180525,1,CLE,BOS
+Shot Chart Detail,41700306,14,1627759,Jaylen Brown,1610612738,Boston Celtics,1,10,9,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,31,1627759,Jaylen Brown,1610612738,Boston Celtics,1,8,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-28,174,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,38,1627759,Jaylen Brown,1610612738,Boston Celtics,1,7,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-20,126,1,1,20180525,1,CLE,BOS
 Shot Chart Detail,41700306,106,1627759,Jaylen Brown,1610612738,Boston Celtics,1,2,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,22,1,1,20180525,1,CLE,BOS
 Shot Chart Detail,41700306,110,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,28,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,8,1,1,20180525,1,CLE,BOS
 Shot Chart Detail,41700306,117,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,26,1,1,20180525,1,CLE,BOS
 Shot Chart Detail,41700306,121,1627759,Jaylen Brown,1610612738,Boston Celtics,1,0,8,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,73,185,1,1,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,135,1627759,Jaylen Brown,1610612738,Boston Celtics,2,11,28,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,191,1,0,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,197,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,34,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,15,1,0,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,293,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,59,Made Shot,Pullup Jump shot,,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,123,1,1,20180525,1,CLE,BOS
-Shot Chart Detail,41700306,344,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,28,Missed Shot,Step Back Jump shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,138,234,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,135,1627759,Jaylen Brown,1610612738,Boston Celtics,2,11,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,157,191,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,197,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,34,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,46,15,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,293,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-141,123,1,1,20180525,1,CLE,BOS
+Shot Chart Detail,41700306,344,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,28,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,138,234,1,0,20180525,0,CLE,BOS
 Shot Chart Detail,41700306,431,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,461,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,22,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,476,1627759,Jaylen Brown,1610612738,Boston Celtics,4,10,8,Missed Shot,Floating Jump shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,50,1,0,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,478,1627759,Jaylen Brown,1610612738,Boston Celtics,4,10,6,Made Shot,Putback Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20180525,0,CLE,BOS
-Shot Chart Detail,41700306,547,1627759,Jaylen Brown,1610612738,Boston Celtics,4,4,1,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,224,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,461,1627759,Jaylen Brown,1610612738,Boston Celtics,4,11,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,476,1627759,Jaylen Brown,1610612738,Boston Celtics,4,10,8,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,50,1,0,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,478,1627759,Jaylen Brown,1610612738,Boston Celtics,4,10,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20180525,0,CLE,BOS
+Shot Chart Detail,41700306,547,1627759,Jaylen Brown,1610612738,Boston Celtics,4,4,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,224,1,0,20180525,0,CLE,BOS
 Shot Chart Detail,41700306,566,1627759,Jaylen Brown,1610612738,Boston Celtics,4,2,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20180525,0,CLE,BOS
-Shot Chart Detail,41700307,21,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,27,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,232,-5,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,52,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,15,Missed Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,175,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,57,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,50,Made Shot,Driving Layup Shot,,Restricted Area,Center(C),Less Than 8 ft.,3,-35,10,1,1,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,21,1627759,Jaylen Brown,1610612738,Boston Celtics,1,9,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-5,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,52,1627759,Jaylen Brown,1610612738,Boston Celtics,1,6,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,187,175,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,57,1627759,Jaylen Brown,1610612738,Boston Celtics,1,5,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-35,10,1,1,20180527,0,BOS,CLE
 Shot Chart Detail,41700307,75,1627759,Jaylen Brown,1610612738,Boston Celtics,1,4,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,32,1,0,20180527,0,BOS,CLE
 Shot Chart Detail,41700307,95,1627759,Jaylen Brown,1610612738,Boston Celtics,1,3,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,6,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,133,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,1,Made Shot,Jump Shot,,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,180,1,1,20180527,1,BOS,CLE
-Shot Chart Detail,41700307,205,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,38,Missed Shot,Jump Shot,,Right Corner 3,Right Side(R),24+ ft.,23,230,32,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,213,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,39,Missed Shot,Pullup Jump shot,,Above the Break 3,Center(C),24+ ft.,26,-79,257,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,133,1627759,Jaylen Brown,1610612738,Boston Celtics,1,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,180,1,1,20180527,1,BOS,CLE
+Shot Chart Detail,41700307,205,1627759,Jaylen Brown,1610612738,Boston Celtics,2,6,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,32,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,213,1627759,Jaylen Brown,1610612738,Boston Celtics,2,5,39,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-79,257,1,0,20180527,0,BOS,CLE
 Shot Chart Detail,41700307,261,1627759,Jaylen Brown,1610612738,Boston Celtics,2,1,12,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,37,1,0,20180527,0,BOS,CLE
 Shot Chart Detail,41700307,271,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,25,273,1,1,20180527,1,BOS,CLE
 Shot Chart Detail,41700307,275,1627759,Jaylen Brown,1610612738,Boston Celtics,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-149,225,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,298,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,19,Missed Shot,Driving Floating Jump Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,38,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,306,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,42,Missed Shot,Jump Shot,,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,214,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,329,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,43,Missed Shot,Driving Layup Shot,,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,36,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,346,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,54,Made Shot,Cutting Dunk Shot,,Restricted Area,Center(C),Less Than 8 ft.,1,8,13,1,1,20180527,1,BOS,CLE
+Shot Chart Detail,41700307,298,1627759,Jaylen Brown,1610612738,Boston Celtics,3,10,19,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,38,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,306,1627759,Jaylen Brown,1610612738,Boston Celtics,3,9,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,214,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,329,1627759,Jaylen Brown,1610612738,Boston Celtics,3,7,43,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,36,1,0,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,346,1627759,Jaylen Brown,1610612738,Boston Celtics,3,5,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,8,13,1,1,20180527,1,BOS,CLE
 Shot Chart Detail,41700307,396,1627759,Jaylen Brown,1610612738,Boston Celtics,3,1,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,48,1,0,20180527,0,BOS,CLE
 Shot Chart Detail,41700307,553,1627759,Jaylen Brown,1610612738,Boston Celtics,4,1,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,197,1,0,20180527,0,BOS,CLE
-Shot Chart Detail,41700307,582,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,22,Made Shot,Jump Shot,,Left Corner 3,Left Side(L),24+ ft.,22,-221,25,1,1,20180527,0,BOS,CLE
+Shot Chart Detail,41700307,582,1627759,Jaylen Brown,1610612738,Boston Celtics,4,0,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,25,1,1,20180527,0,BOS,CLE

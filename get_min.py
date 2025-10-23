@@ -15,7 +15,9 @@ import numpy as np
 #from nba_api.stats.endpoints import playergamelogs
 import pandas as pd
 import time
-ps=True
+ps=False
+END_YEAR=2026
+year = END_YEAR
 def pull_rotation(url):
 
 
@@ -248,7 +250,8 @@ def get_shotrotations(season,ps = False):
         #print(len(shot_on))
     return data
 #data = get_shotrotations('2023-24',ps=False)
-data = get_shotrotations('2024-25',ps=ps)
+end_season= str(END_YEAR-1) + '-'+str(END_YEAR)[-2:]
+data = get_shotrotations(end_season,ps=ps)
 
 
 # In[2]:
@@ -258,7 +261,7 @@ def assist_paths(ps = False):
     carry='ps'
     if ps == False:
         carry=''
-    for year in range(1997,2026):
+    for year in range(1997,END_YEAR+1):
         path = 'assists/'+str(year)+carry
         isExist = os.path.exists(path)
         if not isExist:
@@ -318,7 +321,7 @@ def scrape_assists(ps=False):
     carry = "ps" if ps else ""
     print('Starting')
 
-    for year in range(2025, 2026):
+    for year in range(END_YEAR, END_YEAR+1):
         print(year)
         path = f"rotations/{year}{carry}"
         files = list_csv_files(path)
@@ -387,7 +390,7 @@ def scrape_assists(ps=False):
 def clean_assists(ps=False):
     carry = "ps" if ps else ""
 
-    for year in range(1997, 2026):
+    for year in range(1997, 2027):
         path = f"assists/{year}{carry}/ast.csv"
 
         if not os.path.exists(path):
@@ -405,7 +408,7 @@ if ps == True:
     trail='ps'
 
 master = []
-year = 2025
+
 
 assist_file_path = f'assists/{year}{trail}/ast.csv'
 if os.path.exists(assist_file_path):
@@ -569,7 +572,7 @@ for player in players:
        'LOC_X', 'LOC_Y', 'SHOT_ATTEMPTED_FLAG', 'SHOT_MADE_FLAG', 'GAME_DATE','assisted',
        'HTM', 'VTM']
     df=df[columns]
-    df.to_csv('2025'+trail+'/'+str(player)+'.csv',index=False)
+    df.to_csv(str(END_YEAR)+trail+'/'+str(player)+'.csv',index=False)
 
 
 # In[6]:
@@ -745,7 +748,7 @@ for year in range(1997,2001):
 
 
 start_year=1997
-end_year=2026
+end_year=END_YEAR+1
 
 def get_dates(start_year,end_year):
     dates=[]
