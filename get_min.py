@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[11]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -256,7 +256,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations(season,ps=ps)
 
 
-# In[2]:
+# In[12]:
 
 
 def assist_paths(ps = False):
@@ -465,7 +465,7 @@ for team in teams.get_teams():
 
 
 
-# In[3]:
+# In[13]:
 
 
 for team in teams.get_teams():
@@ -550,19 +550,19 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[4]:
+# In[14]:
 
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[5]:
+# In[ ]:
 
 
 trail = ''
 if ps == True:
     trail='ps'
-players = all_shots.PLAYER_ID.unique().tolist()
+players = all_shots.PLAYER_ID.dropna().astype(int).unique().tolist()
 for player in players:
     df = all_shots[all_shots.PLAYER_ID==player]
     columns = ['GRID_TYPE', 'GAME_ID', 'GAME_EVENT_ID', 'PLAYER_ID', 'PLAYER_NAME',
@@ -575,7 +575,7 @@ for player in players:
     df.to_csv(str(year)+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[6]:
+# In[16]:
 
 
 def get_rotations(season,ps=False):
@@ -685,7 +685,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[7]:
+# In[17]:
 
 
 '''
@@ -744,7 +744,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[ ]:
+# In[18]:
 
 
 start_year=1997
@@ -815,13 +815,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[9]:
+# In[19]:
 
 
 dates[dates.playoffs==False].tail(20)
 
 
-# In[10]:
+# In[20]:
 
 
 width = 2400
