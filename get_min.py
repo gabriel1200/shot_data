@@ -195,8 +195,8 @@ def get_shotrotations(season,ps = False):
             #shotmap[shotmap.extra>0]
             shotmap['time']*=10
             shot_times = shotmap.merge(to_merge,on=['GAME_ID','TEAM_ID'],how='left')
-            shot_times = shot_times[shot_times.time>=shot_times.IN_TIME_REAL]
-            shot_times = shot_times[shot_times.time<shot_times.OUT_TIME_REAL]
+            shot_times = shot_times[shot_times.time > shot_times.IN_TIME_REAL]
+            shot_times = shot_times[shot_times.time <= shot_times.OUT_TIME_REAL]
             shot_times.sort_values(by='GAME_DATE')
             shot_times['SHOT_ID'] = shot_times['SHOT_ID'].astype(str)
             shot_times['PERSON_ID'] =shot_times['PERSON_ID'].astype(str)
