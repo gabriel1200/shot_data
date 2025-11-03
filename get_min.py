@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[11]:
+# In[3]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -49,6 +49,7 @@ def pull_rotation(url):
 
     return gameframe
 def team_shotmap(team,season,stype ='Regular Season',league_id = '00',save_avg=False):
+    time.sleep(1)
     carry = ''
     if stype!='Regular Season':
         carry ='ps'
@@ -195,8 +196,8 @@ def get_shotrotations(season,ps = False):
             #shotmap[shotmap.extra>0]
             shotmap['time']*=10
             shot_times = shotmap.merge(to_merge,on=['GAME_ID','TEAM_ID'],how='left')
-            shot_times = shot_times[shot_times.time > shot_times.IN_TIME_REAL]
-            shot_times = shot_times[shot_times.time <= shot_times.OUT_TIME_REAL]
+            shot_times = shot_times[shot_times.time>shot_times.IN_TIME_REAL]
+            shot_times = shot_times[shot_times.time<=shot_times.OUT_TIME_REAL]
             shot_times.sort_values(by='GAME_DATE')
             shot_times['SHOT_ID'] = shot_times['SHOT_ID'].astype(str)
             shot_times['PERSON_ID'] =shot_times['PERSON_ID'].astype(str)
@@ -256,7 +257,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations(season,ps=ps)
 
 
-# In[12]:
+# In[4]:
 
 
 def assist_paths(ps = False):
@@ -465,7 +466,7 @@ for team in teams.get_teams():
 
 
 
-# In[13]:
+# In[5]:
 
 
 for team in teams.get_teams():
@@ -507,8 +508,8 @@ for team in teams.get_teams():
 
         shot_times = shotmap.merge(to_merge,on=['GAME_ID','TEAM_ID'])
         #print(len(shot_times))
-        shot_times = shot_times[shot_times.time>=shot_times.IN_TIME_REAL]
-        shot_times = shot_times[shot_times.time<shot_times.OUT_TIME_REAL]
+        shot_times = shot_times[shot_times.time>shot_times.IN_TIME_REAL]
+        shot_times = shot_times[shot_times.time<=shot_times.OUT_TIME_REAL]
         #print(len(shot_times))
         shot_times.sort_values(by='GAME_DATE')
         shot_times['SHOT_ID'] = shot_times['SHOT_ID'].astype(str)
@@ -550,13 +551,13 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[14]:
+# In[6]:
 
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[ ]:
+# In[7]:
 
 
 trail = ''
@@ -575,7 +576,7 @@ for player in players:
     df.to_csv(str(year)+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[16]:
+# In[8]:
 
 
 def get_rotations(season,ps=False):
@@ -685,7 +686,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[17]:
+# In[9]:
 
 
 '''
@@ -744,11 +745,11 @@ for year in range(1997,2001):
 '''
 
 
-# In[18]:
+# In[ ]:
 
 
 start_year=1997
-end_year=year+1
+end_year=2027
 
 def get_dates(start_year,end_year):
     dates=[]
@@ -815,13 +816,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[19]:
+# In[11]:
 
 
 dates[dates.playoffs==False].tail(20)
 
 
-# In[20]:
+# In[12]:
 
 
 width = 2400
