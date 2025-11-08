@@ -303,6 +303,9 @@ def pull_assists(game_id):
     df2 = df2[df2.VISITORDESCRIPTION.str.lower().str.contains('ast')]
 
     test_df = pd.concat([df1,df2])
+    print(len(test_df))
+    print(len(test_df.dropna(subset='PLAYER1_TEAM_ID')))
+    test_df.dropna(subset='PLAYER1_TEAM_ID',inplace=True)
 
     test_df['PLAYER1_TEAM_ID']= test_df['PLAYER1_TEAM_ID'].astype(int)
 
@@ -362,6 +365,7 @@ def scrape_assists(start_year,ps=False):
                 game = '00' + game
 
             df = pull_assists(game)
+            print(df)
             year_data.append(df)
             game_count += 1
 
@@ -745,7 +749,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[ ]:
+# In[10]:
 
 
 start_year=1997
