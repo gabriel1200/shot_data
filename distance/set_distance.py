@@ -9,10 +9,10 @@ import pandas as pd
 
 # Config
 base_path = '../team/'
-start_year = 2026
+start_year = 2025
 end_year = start_year+1
 include_regular = True
-include_playoffs = True
+include_playoffs = False
 
 frames = []
 
@@ -32,6 +32,7 @@ for year in range(start_year, end_year + 1):
 
             for filename in os.listdir(year_path):
                 file_path = os.path.join(year_path, filename)
+
                 if 'vs' not in filename and 'avg' not in filename and filename.endswith('.csv'):
                     df = pd.read_csv(file_path)
                     if len(df) > 0:
