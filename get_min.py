@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
+# In[9]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -257,7 +257,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations(season,ps=ps)
 
 
-# In[4]:
+# In[ ]:
 
 
 def assist_paths(ps = False):
@@ -273,49 +273,65 @@ def assist_paths(ps = False):
             os.makedirs(path)
             print('Making Folder ' +path)
 def pull_assists(game_id):
-    url='https://stats.nba.com/stats/playbyplayv2?EndPeriod=0&GameID='+game_id+'&StartPeriod=0'
+    # 1. New URL construction
+    url = f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game_id}.json'
+    print(f"Fetching URL: {url}")
 
+    # No special headers are typically needed for the CDN endpoint, but including User-Agent is good practice
     headers = {
-                                    "Host": "stats.nba.com",
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0",
-                                    "Accept": "application/json, text/plain, */*",
-                                    "Accept-Language": "en-US,en;q=0.5",
-                                    "Accept-Encoding": "gzip, deflate, br",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
 
-                                    "Connection": "keep-alive",
-                                    "Referer": "https://stats.nba.com/"
-                                }
-    jsond = requests.get(url,headers = headers).json()
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status() # Raise an exception for bad status codes
+        jsond = response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data: {e}")
+        return pd.DataFrame() # Return empty DataFrame on failure
 
-    data= jsond['resultSets'][0]['rowSet']
+    # 2. JSON Parsing - Access the 'actions' list directly
+    if 'game' not in jsond or 'actions' not in jsond['game']:
+        print("Error: JSON structure invalid (missing 'game' or 'actions').")
+        return pd.DataFrame()
 
+    actions = jsond['game']['actions']
 
+    assist_data = []
 
-    columns = jsond['resultSets'][0]['headers']
-    df = pd.DataFrame.from_records(data, columns=columns)
+    # 3. Identify assists and extract required fields
+    for action in actions:
+        # Check if the action is a made 2pt or 3pt shot AND has an assist ID
+        if action.get('shotResult') == 'Made' and action.get('assistPersonId') is not None:
+            # The player who made the shot is in 'personId'
+            scorer_id = action.get('personId')
+            assist_id = action.get('assistPersonId')
 
+            # The team ID for the scoring team is 'teamId'
+            team_id = action.get('teamId')
 
-    df1 =df.dropna(subset=['HOMEDESCRIPTION'])
-    df1=df1[(df1.HOMEDESCRIPTION.str.lower().str.contains('ast'))]
+            # Use 'actionNumber' as a unique event identifier similar to 'EVENTNUM'
+            event_num = action.get('actionNumber')
 
-    df2 =df.dropna(subset=['VISITORDESCRIPTION'])
+            assist_data.append({
+                'GAME_ID': game_id,
+                'EVENTNUM': str(event_num),
+                # Note: We swap the names to match your original dataframe's final columns,
+                # where ASSIST_ID refers to the person who *gave* the assist.
+                'PLAYER_ID': str(scorer_id), 
+                'ASSIST_ID': str(assist_id),
+                'TEAM_ID': str(team_id)
+            })
 
-    df2 = df2[df2.VISITORDESCRIPTION.str.lower().str.contains('ast')]
+    # Create the DataFrame
+    df = pd.DataFrame(assist_data)
 
-    test_df = pd.concat([df1,df2])
-    print(len(test_df))
-    print(len(test_df.dropna(subset='PLAYER1_TEAM_ID')))
-    test_df.dropna(subset='PLAYER1_TEAM_ID',inplace=True)
+    if not df.empty:
+        # Create the SHOT_ID column as in the original code
+        df['SHOT_ID'] = df['GAME_ID'] + df['EVENTNUM']
 
-    test_df['PLAYER1_TEAM_ID']= test_df['PLAYER1_TEAM_ID'].astype(int)
-
-    col = ['GAME_ID', 'EVENTNUM','PLAYER1_ID','PLAYER2_ID', 'PLAYER1_TEAM_ID']
-    test_df= test_df[col]
-    for c in col:
-        test_df[col] = test_df[col].astype(str)
-    test_df.columns =  ['GAME_ID', 'EVENTNUM','PLAYER_ID','ASSIST_ID', 'TEAM_ID']
-    test_df['SHOT_ID'] = test_df['GAME_ID']+test_df['EVENTNUM']
-    return test_df
+    print(f"Found {len(df)} assists.")
+    return df
 
 def list_csv_files(path):
     csv_files = []
@@ -428,7 +444,9 @@ clean_assists(ps=ps)
 
 # Ensure SHOT_ID has '00' at the front
 year_assists['SHOT_ID'] = year_assists['SHOT_ID'].astype(str)
+print(year_assists.head(40))
 
+print(year_assists.tail(40))
 
 # Load all shots data
 for team in teams.get_teams():
@@ -470,7 +488,7 @@ for team in teams.get_teams():
 
 
 
-# In[5]:
+# In[11]:
 
 
 for team in teams.get_teams():
@@ -555,13 +573,13 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[6]:
+# In[12]:
 
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[7]:
+# In[13]:
 
 
 trail = ''
@@ -580,7 +598,7 @@ for player in players:
     df.to_csv(str(year)+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[8]:
+# In[14]:
 
 
 def get_rotations(season,ps=False):
@@ -690,7 +708,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[9]:
+# In[15]:
 
 
 '''
@@ -749,7 +767,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[10]:
+# In[16]:
 
 
 start_year=1997
@@ -820,13 +838,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[11]:
+# In[17]:
 
 
 dates[dates.playoffs==False].tail(20)
 
 
-# In[12]:
+# In[18]:
 
 
 width = 2400
