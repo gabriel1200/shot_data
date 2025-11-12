@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import pandas as pd
@@ -21,10 +21,10 @@ from sklearn.metrics.pairwise import euclidean_distances
 from scipy.cluster.hierarchy import fcluster
 from scipy.spatial.distance import pdist, squareform
 headers = {'Host': 'stats.nba.com', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0', 'Accept': 'application/json, text/plain, */*', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'x-nba-stats-origin': 'stats', 'x-nba-stats-token': 'true', 'Connection': 'keep-alive', 'Referer': 'https://stats.nba.com/', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache'}
-
+year = 2026
 df_list = []
 #,'2014-15','2015-16','2016-17','2017-18','2018-19','2019-20','2020-21','2021-22','2022-23'
-seasons=[str(i-1)+'-'+str(i)[-2:] for i in range(2025,2026)]
+seasons=[str(i-1)+'-'+str(i)[-2:] for i in range(year,year+1)]
 print(seasons)
 for ssn in seasons:
 
@@ -653,6 +653,6 @@ def save_cluster_data(year):
     testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
 
 # Process the specified year range
-for year in range(2025, 2026):
-    save_cluster_data(year)
+for seasonyear in range(year, year+1):
+    save_cluster_data(seasonyear)
 

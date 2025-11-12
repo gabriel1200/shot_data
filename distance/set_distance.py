@@ -9,8 +9,8 @@ import pandas as pd
 
 # Config
 base_path = '../team/'
-start_year = 2025
-end_year = start_year+1
+start_year = 2026
+end_year = start_year
 include_regular = True
 include_playoffs = False
 
