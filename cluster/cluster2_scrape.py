@@ -653,6 +653,6 @@ def save_cluster_data(year):
     testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
 
 # Process the specified year range
-for seasonyear in range(year, year+1):
-    save_cluster_data(seasonyear)
+for year in range(2025, 2026):
+    save_cluster_data(year)
 
