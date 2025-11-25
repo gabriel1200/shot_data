@@ -513,7 +513,7 @@ for year in range (df['year'].min(),df['year'].max()+1):
     print('Year Saved')
 
 
-# In[2]:
+# In[ ]:
 
 
 def save_cluster_data(year):
@@ -653,6 +653,6 @@ def save_cluster_data(year):
     testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
 
 # Process the specified year range
-for year in range(2025, 2026):
+for year in range(year, year+1):
     save_cluster_data(year)
 
