@@ -339,6 +339,21 @@ def list_csv_files(path):
         if file.endswith(".csv"):
             csv_files.append(file)
     return csv_files
+def clean_and_save(to_save, assist_path):
+    # Ensure GAME_ID is str
+    to_save['GAME_ID'] = to_save['GAME_ID'].astype(str)
+
+    # Remove leading '00' from GAME_ID
+    to_save['GAME_ID'] = to_save['GAME_ID'].str.lstrip('0')
+
+    # Ensure EVENTNUM is str
+    to_save['EVENTNUM'] = to_save['EVENTNUM'].astype(str)
+
+    # SHOT_ID = GAME_ID + EVENTNUM
+    to_save['SHOT_ID'] = to_save['GAME_ID'] + to_save['EVENTNUM']
+
+    # Save
+    to_save.to_csv(assist_path, index=False)
 def scrape_assists(start_year,ps=False):
     carry = "ps" if ps else ""
     print('Starting')
@@ -401,15 +416,17 @@ def scrape_assists(start_year,ps=False):
         if year_data:
             if os.path.exists(assist_path):
                 old_frame = pd.read_csv(assist_path)
-                new_frame = pd.concat(year_data)
-                to_save = pd.concat([old_frame, new_frame])
+                new_frame = pd.concat(year_data, ignore_index=True)
+                to_save = pd.concat([old_frame, new_frame], ignore_index=True)
             else:
-                to_save = pd.concat(year_data)
-            to_save.to_csv(assist_path, index=False)
+                to_save = pd.concat(year_data, ignore_index=True)
+
+            clean_and_save(to_save, assist_path)
 
             print(f'Year done: {year}{carry}')
         else:
             print('Already scraped everything.')
+
 def clean_assists(ps=False):
     carry = "ps" if ps else ""
 
@@ -442,7 +459,6 @@ else:
 scrape_assists(year,ps=ps)
 clean_assists(ps=ps)
 
-# Ensure SHOT_ID has '00' at the front
 year_assists['SHOT_ID'] = year_assists['SHOT_ID'].astype(str)
 print(year_assists.head(40))
 
