@@ -261,7 +261,8 @@ for ssn in seasons:
     # advanced value stats
 
     df20 = pd.read_html('https://www.basketball-reference.com/leagues/NBA_' + str(ssn[0:2] + ssn[-2:]) + '_advanced.html', header=0)[0][['Player','PER','OWS','DWS','WS','WS/48','OBPM','DBPM','BPM','VORP']]
-
+    print(len(df20))
+    print('df20 length')
     df20.columns = ['PLAYER_NAME','PER','OWS','DWS','WS','WS/48','OBPM','DBPM','BPM','VORP']
 
     df20 = df20[df20.PLAYER_NAME !='Player'].reset_index(drop=True)
