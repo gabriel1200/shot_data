@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
+# In[1]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -257,7 +257,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations(season,ps=ps)
 
 
-# In[ ]:
+# In[2]:
 
 
 def assist_paths(ps = False):
@@ -504,7 +504,7 @@ for team in teams.get_teams():
 
 
 
-# In[11]:
+# In[3]:
 
 
 for team in teams.get_teams():
@@ -589,13 +589,13 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[12]:
+# In[4]:
 
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[13]:
+# In[5]:
 
 
 trail = ''
@@ -614,7 +614,7 @@ for player in players:
     df.to_csv(str(year)+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[14]:
+# In[6]:
 
 
 def get_rotations(season,ps=False):
@@ -724,7 +724,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[15]:
+# In[7]:
 
 
 '''
@@ -783,7 +783,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[16]:
+# In[ ]:
 
 
 start_year=1997
@@ -822,6 +822,30 @@ def get_dates(start_year,end_year):
 
 
 dates=get_dates(start_year,end_year)
+def fix_cha_nop(df):
+    """
+    Remap pre-expansion Charlotte Hornets rows to NOP.
+    TEAM_ID 1610612766 (CHA) before 2004-05 belongs to the NOP franchise —
+    the modern CHA is the 2004 expansion Bobcats, an unrelated team.
+    """
+    OLD_CHA_SEASONS = {'1996-97', '1997-98', '1998-99', '1999-00', '2000-01', '2001-02'}
+    NOP_TEAM_ID = 1610612740
+
+    mask = (df['TEAM_ID'] == 1610612766) & (df['season'].isin(OLD_CHA_SEASONS))
+
+    df.loc[mask, 'TEAM_ID'] = NOP_TEAM_ID
+    for col in ('team', 'opp_team', 'HTM', 'VTM'):
+        if col in df.columns:
+            df.loc[mask & (df[col] == 'CHA'), col] = 'NOP'
+
+    return df
+def fix_cha_nop_post_merge(df):
+    OLD_CHA_SEASONS = {'1996-97', '1997-98', '1998-99', '1999-00', '2000-01', '2001-02', '2002-03', '2003-04'}
+    early = df['season'].isin(OLD_CHA_SEASONS)
+    for col in ('team', 'opp_team', 'HTM', 'VTM'):
+        if col in df.columns:
+            df.loc[early & (df[col] == 'CHA'), col] = 'NOP'
+    return df
 dates[dates.playoffs==False]
 name_map={}
 for team in teams.get_teams():
@@ -846,7 +870,11 @@ dates['team'] = dates['team'].replace(acronym_changes)
 
 dates['HTM'] = dates['HTM'].replace(acronym_changes)
 dates['VTM'] = dates['VTM'].replace(acronym_changes)
+dates=fix_cha_nop(dates)
+print('first nop fix')
+dates=fix_cha_nop_post_merge(dates)
 
+print('second nop fix')
 dates['opp_team'] = dates.apply(lambda row: row['VTM'] if row['team'] == row['HTM'] else row['HTM'], axis=1)
 
 dates.sort_values(by='date',inplace=True)
@@ -854,13 +882,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[17]:
+# In[9]:
 
 
 dates[dates.playoffs==False].tail(20)
 
 
-# In[18]:
+# In[10]:
 
 
 width = 2400
