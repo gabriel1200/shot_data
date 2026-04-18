@@ -627,6 +627,6 @@ def save_cluster_data(year):
  
  
 # Process the specified year range
-for year in range(year, year+1):
+for year in range(2014, 2026):
     save_cluster_data(year)
 
