@@ -120,6 +120,6 @@ def save_cluster_data(year):
     print(f"Analysis CSV saved for {year}.")
  
  
-for year in range(2015, 2026):
+for year in range(2014, 2016):
     print(f"\n--- Processing {year} ---")
     save_cluster_data(year)
