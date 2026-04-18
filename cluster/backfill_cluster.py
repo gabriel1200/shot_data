@@ -22,18 +22,15 @@ def save_cluster_data(year):
     x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
     x = StandardScaler().fit_transform(x)
  
-    # ── STEP 2: 2D PCA for visualization ────────────────────────────────────
-    # Single PCA pass — coordinates, clustering, AND similarity all use this
-    # same space so visual proximity matches the neighbor panel.
+    # ── STEP 2: 2D PCA ───────────────────────────────────────────────────────
     pca = PCA(n_components=2)
     principalComponents = pca.fit_transform(x)
  
     testdf['PCA_1'] = principalComponents[:, 0]
     testdf['PCA_2'] = principalComponents[:, 1]
  
-    # ── STEP 3: KMeans clustering on 2D coords ───────────────────────────────
-    inertia = []
-    silhouette_scores = []
+    # ── STEP 3: KMeans clustering ────────────────────────────────────────────
+    inertia, silhouette_scores = [], []
     k_range = range(2, 15)
  
     for k in k_range:
@@ -43,29 +40,16 @@ def save_cluster_data(year):
         silhouette_scores.append(silhouette_score(principalComponents, kmeans.labels_))
  
     knee_locator = KneeLocator(k_range, inertia, curve="convex", direction="decreasing")
-    optimal_clusters_elbow = knee_locator.knee
-    optimal_clusters_silhouette = k_range[np.argmax(silhouette_scores)]
- 
-    print(f"Optimal clusters (Elbow): {optimal_clusters_elbow}")
-    print(f"Optimal clusters (Silhouette): {optimal_clusters_silhouette}")
+    print(f"Optimal clusters (Elbow): {knee_locator.knee}")
+    print(f"Optimal clusters (Silhouette): {k_range[np.argmax(silhouette_scores)]}")
  
     user_clusters = 8
-    print(f"Using {user_clusters} clusters for final clustering.")
- 
     kmeans_final = KMeans(n_clusters=user_clusters, random_state=42)
     kmeans_final.fit(principalComponents)
     testdf['Cluster'] = kmeans_final.labels_
  
-    # ── STEP 4: Similar players — distances in 2D PCA space ─────────────────
-    # Now computed AFTER the 2D projection so neighbors match what you see on
-    # the scatter. Previously this ran in high-dim space (99%-variance PCA)
-    # which caused the mismatch between visual proximity and the neighbor panel.
-    #
-    # One consequence: neighbors are now searched league-wide (not within the
-    # Ward cluster), since the KMeans cluster boundaries in 2D are the relevant
-    # grouping. A player near a cluster boundary will correctly surface
-    # cross-cluster neighbors that are visually close.
- 
+    # ── STEP 4: Similar + Opposite players in 2D PCA space ──────────────────
+    # Both computed from the same sorted distance array — no extra work.
     player_cluster_mapping = pd.DataFrame({
         'PLAYER_NAME': testdf['PLAYER_NAME'].values,
         'PLAYER_ID':   testdf['PLAYER_ID'].values,
@@ -78,21 +62,27 @@ def save_cluster_data(year):
         player_row     = player_cluster_mapping[player_cluster_mapping['PLAYER_NAME'] == player]
         base_player_id = player_row['PLAYER_ID'].iloc[0]
  
-        # Compute euclidean distance from this player to ALL other players
-        # in 2D PCA space — same coordinates plotted on the scatter.
+        # Full league distances in 2D space
         all_distances = euclidean_distances(
             principalComponents, [principalComponents[idx]]
         ).flatten()
  
-        # Exclude the player themselves (distance = 0) and take 5 closest
-        sorted_indices   = np.argsort(all_distances)
+        sorted_indices = np.argsort(all_distances)
+ 
+        # 5 closest (exclude self at index 0)
         closest_indices  = [i for i in sorted_indices if i != idx][:5]
         closest_players  = player_cluster_mapping.iloc[closest_indices]
         closest_distances = all_distances[closest_indices]
  
+        # 5 farthest (tail of sorted array, reversed so farthest is first)
+        farthest_indices   = [i for i in sorted_indices if i != idx][-5:][::-1]
+        farthest_players   = player_cluster_mapping.iloc[farthest_indices]
+        farthest_distances = all_distances[farthest_indices]
+ 
         new_row = pd.DataFrame([{
-            'PLAYER_NAME':        player,
-            'PLAYER_ID':          base_player_id,
+            'PLAYER_NAME': player,
+            'PLAYER_ID':   base_player_id,
+            # Similar
             'SIMILAR_1_NAME':     closest_players['PLAYER_NAME'].iloc[0] if len(closest_players) > 0 else '',
             'SIMILAR_1_ID':       closest_players['PLAYER_ID'].iloc[0]   if len(closest_players) > 0 else '',
             'SIMILAR_1_DISTANCE': closest_distances[0]                   if len(closest_distances) > 0 else '',
@@ -108,18 +98,35 @@ def save_cluster_data(year):
             'SIMILAR_5_NAME':     closest_players['PLAYER_NAME'].iloc[4] if len(closest_players) > 4 else '',
             'SIMILAR_5_ID':       closest_players['PLAYER_ID'].iloc[4]   if len(closest_players) > 4 else '',
             'SIMILAR_5_DISTANCE': closest_distances[4]                   if len(closest_distances) > 4 else '',
+            # Opposite
+            'OPPOSITE_1_NAME':     farthest_players['PLAYER_NAME'].iloc[0] if len(farthest_players) > 0 else '',
+            'OPPOSITE_1_ID':       farthest_players['PLAYER_ID'].iloc[0]   if len(farthest_players) > 0 else '',
+            'OPPOSITE_1_DISTANCE': farthest_distances[0]                   if len(farthest_distances) > 0 else '',
+            'OPPOSITE_2_NAME':     farthest_players['PLAYER_NAME'].iloc[1] if len(farthest_players) > 1 else '',
+            'OPPOSITE_2_ID':       farthest_players['PLAYER_ID'].iloc[1]   if len(farthest_players) > 1 else '',
+            'OPPOSITE_2_DISTANCE': farthest_distances[1]                   if len(farthest_distances) > 1 else '',
+            'OPPOSITE_3_NAME':     farthest_players['PLAYER_NAME'].iloc[2] if len(farthest_players) > 2 else '',
+            'OPPOSITE_3_ID':       farthest_players['PLAYER_ID'].iloc[2]   if len(farthest_players) > 2 else '',
+            'OPPOSITE_3_DISTANCE': farthest_distances[2]                   if len(farthest_distances) > 2 else '',
+            'OPPOSITE_4_NAME':     farthest_players['PLAYER_NAME'].iloc[3] if len(farthest_players) > 3 else '',
+            'OPPOSITE_4_ID':       farthest_players['PLAYER_ID'].iloc[3]   if len(farthest_players) > 3 else '',
+            'OPPOSITE_4_DISTANCE': farthest_distances[3]                   if len(farthest_distances) > 3 else '',
+            'OPPOSITE_5_NAME':     farthest_players['PLAYER_NAME'].iloc[4] if len(farthest_players) > 4 else '',
+            'OPPOSITE_5_ID':       farthest_players['PLAYER_ID'].iloc[4]   if len(farthest_players) > 4 else '',
+            'OPPOSITE_5_DISTANCE': farthest_distances[4]                   if len(farthest_distances) > 4 else '',
         }])
  
         similar_players_df = pd.concat([similar_players_df, new_row], ignore_index=True)
  
     similar_players_df.to_csv(f'{year}_similar_players.csv', index=False)
-    print(f"Similar players CSV saved for {year}.")
+    print(f"Similar + opposite players CSV saved for {year}.")
  
     # ── STEP 5: Save main analysis file ─────────────────────────────────────
     testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
     print(f"Analysis CSV saved for {year}.")
+
  
  
-for year in range(2014, 2016):
+for year in range(2014, 2027):
     print(f"\n--- Processing {year} ---")
     save_cluster_data(year)
