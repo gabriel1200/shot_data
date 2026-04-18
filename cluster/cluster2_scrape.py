@@ -522,106 +522,26 @@ def save_cluster_data(year):
     season = str(year-1)+'-'+str(year)[-2:]
     print(season)
     testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
-    print(testdf)
 
-    # Identify numeric columns
-    features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
-
-    # Convert features to numeric, handling potential errors
-    x = testdf.loc[:, features].apply(pd.to_numeric, errors='coerce').values
-
-    # Replace inf and NaN with 0
-    x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
-
-    # Standardize the data
-    x = StandardScaler().fit_transform(x)
-
-    # PCA
-    pca = PCA(n_components=0.99)
-    principalComponents = pca.fit_transform(x)
-
-    # Clustering (using linkage instead of fcluster)
-    linkage_matrix = shc.linkage(principalComponents, method='ward')
-    cluster_labels = shc.fcluster(linkage_matrix, t=25, criterion='distance')
-
-    # Create a DataFrame mapping players to their cluster labels and IDs
-    player_cluster_mapping = pd.DataFrame({
-        'PLAYER_NAME': testdf['PLAYER_NAME'].values, 
-        'PLAYER_ID': testdf['PLAYER_ID'].values,
-        'CLUSTER': cluster_labels
-    })
-
-    # Prepare a DataFrame to hold each player and their 5 most similar players
-    similar_players_df = pd.DataFrame()
-    for idx, player in enumerate(testdf['PLAYER_NAME']):
-       # Get the current player's cluster and ID
-       player_row = player_cluster_mapping[player_cluster_mapping['PLAYER_NAME'] == player]
-       cluster = player_row['CLUSTER'].iloc[0]
-       base_player_id = player_row['PLAYER_ID'].iloc[0]
-
-       # Get indices of players in the same cluster
-       indices = player_cluster_mapping[player_cluster_mapping['CLUSTER'] == cluster].index
-
-       # Calculate distances from the current player to others in the same cluster
-       distances = euclidean_distances(principalComponents[indices], [principalComponents[idx]]).flatten()
-
-       # Get indices of the 5 closest players
-       closest_indices = np.argsort(distances)[1:6]  # Exclude the closest (itself)
-
-       # Extract names, IDs, and distances of the 5 closest players
-       closest_players = player_cluster_mapping.iloc[indices[closest_indices]]
-       closest_distances = distances[closest_indices]
-
-       # Create a new row with player name and ID, similar player names, IDs, and distances
-       new_row = pd.DataFrame([{
-           'PLAYER_NAME': player,
-           'PLAYER_ID': base_player_id,
-           'SIMILAR_1_NAME': closest_players['PLAYER_NAME'].iloc[0] if len(closest_players) > 0 else '',
-           'SIMILAR_1_ID': closest_players['PLAYER_ID'].iloc[0] if len(closest_players) > 0 else '',
-           'SIMILAR_1_DISTANCE': closest_distances[0] if len(closest_distances) > 0 else '',
-           'SIMILAR_2_NAME': closest_players['PLAYER_NAME'].iloc[1] if len(closest_players) > 1 else '',
-           'SIMILAR_2_ID': closest_players['PLAYER_ID'].iloc[1] if len(closest_players) > 1 else '',
-           'SIMILAR_2_DISTANCE': closest_distances[1] if len(closest_distances) > 1 else '',
-           'SIMILAR_3_NAME': closest_players['PLAYER_NAME'].iloc[2] if len(closest_players) > 2 else '',
-           'SIMILAR_3_ID': closest_players['PLAYER_ID'].iloc[2] if len(closest_players) > 2 else '',
-           'SIMILAR_3_DISTANCE': closest_distances[2] if len(closest_distances) > 2 else '',
-           'SIMILAR_4_NAME': closest_players['PLAYER_NAME'].iloc[3] if len(closest_players) > 3 else '',
-           'SIMILAR_4_ID': closest_players['PLAYER_ID'].iloc[3] if len(closest_players) > 3 else '',
-           'SIMILAR_4_DISTANCE': closest_distances[3] if len(closest_distances) > 3 else '',
-           'SIMILAR_5_NAME': closest_players['PLAYER_NAME'].iloc[4] if len(closest_players) > 4 else '',
-           'SIMILAR_5_ID': closest_players['PLAYER_ID'].iloc[4] if len(closest_players) > 4 else '',
-           'SIMILAR_5_DISTANCE': closest_distances[4] if len(closest_distances) > 4 else ''
-       }])
-
-       similar_players_df = pd.concat([similar_players_df, new_row], ignore_index=True)
-
-    # Export the DataFrame to a CSV file
-    similar_players_df.to_csv(f'{year}_similar_players.csv', index=False)
-    print("CSV file 'nba_similar_players.csv' has been created with each player and their 5 most similar players.")
-
-    # Filter the DataFrame
-    testdf = df[(df.MPG > 10) & (df.GP > 10) & (df.SEASON == season)].reset_index(drop=True)
-
-    # Select features for clustering
-    features = [x for x in df.columns if (x != 'PLAYER_NAME') & (x != 'POSITION') & (x != 'SEASON')]
-
-    # Standardize the data
+    # ── STEP 1: Standardize ──────────────────────────────────────────────────
+    features = [x for x in df.columns if x not in ('PLAYER_NAME', 'POSITION', 'SEASON')]
     x = testdf.loc[:, features].apply(pd.to_numeric, errors='coerce').values
     x = np.nan_to_num(x, nan=0.0, posinf=0.0, neginf=0.0)
     x = StandardScaler().fit_transform(x)
 
-    # Perform PCA to reduce dimensionality
-    pca = PCA(n_components=2)  # Reduce to 2 components for visualization
+    # ── STEP 2: 2D PCA for visualization ────────────────────────────────────
+    # Single PCA pass — coordinates, clustering, AND similarity all use this
+    # same space so visual proximity matches the neighbor panel.
+    pca = PCA(n_components=2)
     principalComponents = pca.fit_transform(x)
 
-    # Add PCA components to dataframe
-    for i in range(principalComponents.shape[1]):
-        testdf[f'PCA_{i+1}'] = principalComponents[:, i]
+    testdf['PCA_1'] = principalComponents[:, 0]
+    testdf['PCA_2'] = principalComponents[:, 1]
 
-    # Determine optimal clusters using elbow method and silhouette scores
+    # ── STEP 3: KMeans clustering on 2D coords ───────────────────────────────
     inertia = []
     silhouette_scores = []
-    k_range = range(2, 15)  # Range of cluster numbers to test
+    k_range = range(2, 15)
 
     for k in k_range:
         kmeans = KMeans(n_clusters=k, random_state=42)
@@ -629,28 +549,82 @@ def save_cluster_data(year):
         inertia.append(kmeans.inertia_)
         silhouette_scores.append(silhouette_score(principalComponents, kmeans.labels_))
 
-    # Find the elbow point using KneeLocator
     knee_locator = KneeLocator(k_range, inertia, curve="convex", direction="decreasing")
     optimal_clusters_elbow = knee_locator.knee
-
-    # Find optimal clusters by silhouette score
     optimal_clusters_silhouette = k_range[np.argmax(silhouette_scores)]
 
-    # Let user choose optimal clusters
     print(f"Optimal clusters (Elbow): {optimal_clusters_elbow}")
     print(f"Optimal clusters (Silhouette): {optimal_clusters_silhouette}")
 
-    # Use a predefined number of clusters
     user_clusters = 8
-
     print(f"Using {user_clusters} clusters for final clustering.")
 
-    # Perform KMeans clustering with the chosen number of clusters
     kmeans_final = KMeans(n_clusters=user_clusters, random_state=42)
     kmeans_final.fit(principalComponents)
     testdf['Cluster'] = kmeans_final.labels_
 
+    # ── STEP 4: Similar players — distances in 2D PCA space ─────────────────
+    # Now computed AFTER the 2D projection so neighbors match what you see on
+    # the scatter. Previously this ran in high-dim space (99%-variance PCA)
+    # which caused the mismatch between visual proximity and the neighbor panel.
+    #
+    # One consequence: neighbors are now searched league-wide (not within the
+    # Ward cluster), since the KMeans cluster boundaries in 2D are the relevant
+    # grouping. A player near a cluster boundary will correctly surface
+    # cross-cluster neighbors that are visually close.
+
+    player_cluster_mapping = pd.DataFrame({
+        'PLAYER_NAME': testdf['PLAYER_NAME'].values,
+        'PLAYER_ID':   testdf['PLAYER_ID'].values,
+        'CLUSTER':     testdf['Cluster'].values,
+    })
+
+    similar_players_df = pd.DataFrame()
+
+    for idx, player in enumerate(testdf['PLAYER_NAME']):
+        player_row     = player_cluster_mapping[player_cluster_mapping['PLAYER_NAME'] == player]
+        base_player_id = player_row['PLAYER_ID'].iloc[0]
+
+        # Compute euclidean distance from this player to ALL other players
+        # in 2D PCA space — same coordinates plotted on the scatter.
+        all_distances = euclidean_distances(
+            principalComponents, [principalComponents[idx]]
+        ).flatten()
+
+        # Exclude the player themselves (distance = 0) and take 5 closest
+        sorted_indices   = np.argsort(all_distances)
+        closest_indices  = [i for i in sorted_indices if i != idx][:5]
+        closest_players  = player_cluster_mapping.iloc[closest_indices]
+        closest_distances = all_distances[closest_indices]
+
+        new_row = pd.DataFrame([{
+            'PLAYER_NAME':        player,
+            'PLAYER_ID':          base_player_id,
+            'SIMILAR_1_NAME':     closest_players['PLAYER_NAME'].iloc[0] if len(closest_players) > 0 else '',
+            'SIMILAR_1_ID':       closest_players['PLAYER_ID'].iloc[0]   if len(closest_players) > 0 else '',
+            'SIMILAR_1_DISTANCE': closest_distances[0]                   if len(closest_distances) > 0 else '',
+            'SIMILAR_2_NAME':     closest_players['PLAYER_NAME'].iloc[1] if len(closest_players) > 1 else '',
+            'SIMILAR_2_ID':       closest_players['PLAYER_ID'].iloc[1]   if len(closest_players) > 1 else '',
+            'SIMILAR_2_DISTANCE': closest_distances[1]                   if len(closest_distances) > 1 else '',
+            'SIMILAR_3_NAME':     closest_players['PLAYER_NAME'].iloc[2] if len(closest_players) > 2 else '',
+            'SIMILAR_3_ID':       closest_players['PLAYER_ID'].iloc[2]   if len(closest_players) > 2 else '',
+            'SIMILAR_3_DISTANCE': closest_distances[2]                   if len(closest_distances) > 2 else '',
+            'SIMILAR_4_NAME':     closest_players['PLAYER_NAME'].iloc[3] if len(closest_players) > 3 else '',
+            'SIMILAR_4_ID':       closest_players['PLAYER_ID'].iloc[3]   if len(closest_players) > 3 else '',
+            'SIMILAR_4_DISTANCE': closest_distances[3]                   if len(closest_distances) > 3 else '',
+            'SIMILAR_5_NAME':     closest_players['PLAYER_NAME'].iloc[4] if len(closest_players) > 4 else '',
+            'SIMILAR_5_ID':       closest_players['PLAYER_ID'].iloc[4]   if len(closest_players) > 4 else '',
+            'SIMILAR_5_DISTANCE': closest_distances[4]                   if len(closest_distances) > 4 else '',
+        }])
+
+        similar_players_df = pd.concat([similar_players_df, new_row], ignore_index=True)
+
+    similar_players_df.to_csv(f'{year}_similar_players.csv', index=False)
+    print(f"Similar players CSV saved for {year}.")
+
+    # ── STEP 5: Save main analysis file ─────────────────────────────────────
     testdf.to_csv(f'nba_analysis_{year}.csv', index=False)
+    print(f"Analysis CSV saved for {year}.")
 
 # Process the specified year range
 for year in range(year, year+1):
