@@ -11,8 +11,8 @@ import pandas as pd
 base_path = '../team/'
 start_year = 2026
 end_year = start_year
-include_regular = True
-include_playoffs = False
+include_regular = False
+include_playoffs = True
 
 frames = []
 
