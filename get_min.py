@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 from nba_api.stats.endpoints import playergamelog
@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 import time
 import sys
-ps=False
+ps=True
 year=2026
 season=str(year-1)+'-'+str(year)[-  2:]
 
