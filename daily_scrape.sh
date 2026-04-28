@@ -11,7 +11,7 @@ python cluster/cluster2_scrape.py
 
 python distance/set_distance.py
 python gen_opp.py
-jupyter nbconvert --to script series set_series_improved.ipynb
+jupyter nbconvert --to script series/set_series_improved.ipynb
 
 python series/set_series_improved.py
 cp series/series_index.csv ../../web_app/data/series_index.csv
