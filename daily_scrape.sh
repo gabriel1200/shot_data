@@ -7,7 +7,7 @@ jupyter nbconvert --to script gen_opp.ipynb
 
 
 python get_min.py
-python cluster/cluster2_scrape.py  
+#python cluster/cluster2_scrape.py  
 
 python distance/set_distance.py
 python gen_opp.py
