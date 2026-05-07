@@ -14,6 +14,6 @@ python gen_opp.py
 jupyter nbconvert --to script series/set_series_improved.ipynb
 
 python series/set_series_improved.py
-cp series/series_index.csv ../../web_app/data/series_index.csv
+cp series/series_index.csv  ../web_app/data/series_index.csv
 #python roles.py
 #python gen_opp.py
