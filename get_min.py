@@ -87,15 +87,14 @@ def pull_rotation(url):
 
 
     headers = {
-                                    "Host": "stats.nba.com",
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0",
-                                    "Accept": "application/json, text/plain, */*",
-                                    "Accept-Language": "en-US,en;q=0.5",
-                                    "Accept-Encoding": "gzip, deflate, br",
-
-                                    "Connection": "keep-alive",
-                                    "Referer": "https://stats.nba.com/"
-                                }
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Origin": "https://www.nba.com",
+    "Referer": "https://www.nba.com/",
+}
     json = requests.get(url,headers = headers).json()
 
     frames = []
@@ -783,7 +782,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[ ]:
+# In[8]:
 
 
 start_year=1997
