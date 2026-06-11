@@ -24,15 +24,16 @@ def pull_rotation(url):
 
 
     headers = {
-                                    "Host": "stats.nba.com",
-                                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0",
-                                    "Accept": "application/json, text/plain, */*",
-                                    "Accept-Language": "en-US,en;q=0.5",
-                                    "Accept-Encoding": "gzip, deflate, br",
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json, text/plain, */*",
+    "Origin": "https://www.nba.com",
+    "Referer": "https://www.nba.com/",
+}
+    print(url)
 
-                                    "Connection": "keep-alive",
-                                    "Referer": "https://stats.nba.com/"
-                                }
     json = requests.get(url,headers = headers).json()
 
     frames = []
@@ -95,6 +96,8 @@ def pull_rotation(url):
     "Origin": "https://www.nba.com",
     "Referer": "https://www.nba.com/",
 }
+
+
     json = requests.get(url,headers = headers).json()
 
     frames = []
@@ -256,7 +259,7 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations(season,ps=ps)
 
 
-# In[2]:
+# In[ ]:
 
 
 def assist_paths(ps = False):
@@ -503,7 +506,7 @@ for team in teams.get_teams():
 
 
 
-# In[3]:
+# In[ ]:
 
 
 for team in teams.get_teams():
@@ -588,13 +591,13 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[4]:
+# In[ ]:
 
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
 
 
-# In[5]:
+# In[ ]:
 
 
 trail = ''
@@ -613,7 +616,7 @@ for player in players:
     df.to_csv(str(year)+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[6]:
+# In[ ]:
 
 
 def get_rotations(season,ps=False):
@@ -723,7 +726,7 @@ def get_rotations(season,ps=False):
 
 
 
-# In[7]:
+# In[ ]:
 
 
 '''
@@ -782,7 +785,7 @@ for year in range(1997,2001):
 '''
 
 
-# In[8]:
+# In[ ]:
 
 
 start_year=1997
@@ -881,13 +884,13 @@ dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[9]:
+# In[ ]:
 
 
 dates[dates.playoffs==False].tail(20)
 
 
-# In[10]:
+# In[ ]:
 
 
 width = 2400
