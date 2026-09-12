@@ -48,7 +48,7 @@ def get_role_averages():
      'Back Court Shot',
      'Less Than 8 ft.']
     df = pd.read_csv('https://raw.githubusercontent.com/gabriel1200/site_Data/refs/heads/master/lebron.csv')
-    for year in range(2024,2026):
+    for year in range(2026,2027):
 
         year_df = df[df.year==year]
 
