@@ -853,6 +853,23 @@ def fix_cha_nop_post_merge(df):
         if col in df.columns:
             df.loc[early & (df[col] == 'CHA'), col] = 'NOP'
     return df
+def fix_nok_seasons(df):
+    """
+    Post-Katrina New Orleans/Oklahoma City Hornets era. TEAM_ID 1610612740's
+    own HTM/VTM correctly say 'NOK' for these two seasons (era-accurate, from
+    the raw API), but 'team' gets computed via the CURRENT-day name_map
+    lookup ('NOP') instead -- causing the opp_team formula below to treat
+    'NOK' as the opponent instead of recognizing it as this team's own
+    historical name. Confirmed directly against game 20500025: raw HTM='NOK',
+    VTM='SAC', computed team='NOP' -- matched neither, so opp_team was
+    wrongly set to 'NOK' instead of 'SAC'.
+    """
+    NOK_SEASONS = {'2005-06', '2006-07'}
+    mask = (df['TEAM_ID'] == 1610612740) & (df['season'].isin(NOK_SEASONS))
+    for col in ('HTM', 'VTM'):
+        if col in df.columns:
+            df.loc[mask & (df[col] == 'NOK'), col] = 'NOP'
+    return df
 dates[dates.playoffs==False]
 name_map={}
 for team in teams.get_teams():
@@ -882,6 +899,8 @@ print('first nop fix')
 dates=fix_cha_nop_post_merge(dates)
 
 print('second nop fix')
+dates=fix_nok_seasons(dates)
+print('third fix: nok seasons')
 dates['opp_team'] = dates.apply(lambda row: row['VTM'] if row['team'] == row['HTM'] else row['HTM'], axis=1)
 
 dates.sort_values(by='date',inplace=True)
@@ -917,7 +936,3 @@ print(f"Combined Image Dimensions: {combined_width} x {combined_height}")
 
 
 # In[ ]:
-
-
-
-
