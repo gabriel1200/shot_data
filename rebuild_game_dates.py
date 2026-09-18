@@ -1,6 +1,7 @@
 """Regenerate game_dates.csv from already-downloaded local files, applying
-the new NOK-era fix alongside the two existing CHA/NOP fixes. Reads only
-local team/{year}[ps]/{team_id}.csv files -- no network access, no scraping.
+the corrected NOK-era fix alongside the two existing CHA/NOP fixes. Reads
+only local team/{year}[ps]/{team_id}.csv files -- no network access, no
+scraping.
 
 Run from ~/basketball/shot_data/:
     python rebuild_game_dates.py
@@ -75,16 +76,22 @@ def fix_cha_nop_post_merge(df):
 
 
 def fix_nok_seasons(df):
-    """NEW: post-Katrina New Orleans/Oklahoma City Hornets era. TEAM_ID
-    1610612740's own HTM/VTM correctly say 'NOK' for these two seasons
-    (era-accurate, from the raw API), but 'team' gets computed via the
-    CURRENT-day name_map lookup ('NOP') instead -- causing the opp_team
-    formula to treat 'NOK' as the opponent instead of recognizing it as this
-    team's own historical name. Confirmed directly against game 20500025:
-    raw HTM='NOK', VTM='SAC', computed team='NOP' -- matched neither.
+    """CORRECTED: post-Katrina New Orleans/Oklahoma City Hornets era.
+    HTM/VTM correctly say 'NOK' for these two seasons (era-accurate, from
+    the raw API), but 'team' is computed via the CURRENT-day name_map lookup
+    ('NOP') instead. This must be corrected on EVERY row where HTM/VTM says
+    'NOK', regardless of which TEAM_ID that specific row belongs to --
+    game_dates.csv has one row per (GAME_ID, TEAM_ID), so BOTH participating
+    teams' own rows for the same game carry their own copy of HTM/VTM, and
+    both need the same correction. An earlier version of this fix only
+    masked TEAM_ID==1610612740, which fixed New Orleans's own row but left
+    every OPPONENT's own row still saying HTM/VTM='NOK' -- confirmed
+    directly: after that version, Sacramento's own row for game 20500025
+    still had HTM='NOK', causing SAC's own opp_team to wrongly resolve to
+    'NOK' instead of 'NOP'.
     """
     NOK_SEASONS = {'2005-06', '2006-07'}
-    mask = (df['TEAM_ID'] == 1610612740) & (df['season'].isin(NOK_SEASONS))
+    mask = df['season'].isin(NOK_SEASONS)
     for col in ('HTM', 'VTM'):
         df.loc[mask & (df[col] == 'NOK'), col] = 'NOP'
     return df
@@ -110,7 +117,7 @@ def main():
     dates = fix_cha_nop_post_merge(dates)
     print('second nop fix applied')
     dates = fix_nok_seasons(dates)
-    print('third fix (nok seasons) applied')
+    print('third fix (nok seasons, corrected) applied')
 
     dates['opp_team'] = dates.apply(
         lambda row: row['VTM'] if row['team'] == row['HTM'] else row['HTM'], axis=1)
@@ -121,12 +128,12 @@ def main():
     dates.to_csv(out_path, index=False)
     print(f'Wrote {out_path} -- review before replacing the real game_dates.csv')
 
-    # Quick, targeted confirmation on the known-bad game.
-    check = dates[(dates.TEAM_ID == 1610612740) & (dates.GAME_ID.astype(str).str.contains('20500025'))]
+    # Confirmation on the known-bad game, BOTH rows this time.
+    check = dates[dates.GAME_ID.astype(str).str.contains('20500025')]
     if not check.empty:
         print()
-        print('Confirmation for game 20500025 (the known-bad case):')
-        print(check[['GAME_ID', 'season', 'team', 'HTM', 'VTM', 'opp_team']].to_string(index=False))
+        print('Confirmation for game 20500025, BOTH teams\' rows:')
+        print(check[['GAME_ID', 'TEAM_ID', 'season', 'team', 'HTM', 'VTM', 'opp_team']].to_string(index=False))
 
 
 if __name__ == '__main__':

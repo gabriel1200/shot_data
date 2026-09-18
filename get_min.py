@@ -854,18 +854,8 @@ def fix_cha_nop_post_merge(df):
             df.loc[early & (df[col] == 'CHA'), col] = 'NOP'
     return df
 def fix_nok_seasons(df):
-    """
-    Post-Katrina New Orleans/Oklahoma City Hornets era. TEAM_ID 1610612740's
-    own HTM/VTM correctly say 'NOK' for these two seasons (era-accurate, from
-    the raw API), but 'team' gets computed via the CURRENT-day name_map
-    lookup ('NOP') instead -- causing the opp_team formula below to treat
-    'NOK' as the opponent instead of recognizing it as this team's own
-    historical name. Confirmed directly against game 20500025: raw HTM='NOK',
-    VTM='SAC', computed team='NOP' -- matched neither, so opp_team was
-    wrongly set to 'NOK' instead of 'SAC'.
-    """
     NOK_SEASONS = {'2005-06', '2006-07'}
-    mask = (df['TEAM_ID'] == 1610612740) & (df['season'].isin(NOK_SEASONS))
+    mask = df['season'].isin(NOK_SEASONS)
     for col in ('HTM', 'VTM'):
         if col in df.columns:
             df.loc[mask & (df[col] == 'NOK'), col] = 'NOP'
@@ -902,6 +892,52 @@ print('second nop fix')
 dates=fix_nok_seasons(dates)
 print('third fix: nok seasons')
 dates['opp_team'] = dates.apply(lambda row: row['VTM'] if row['team'] == row['HTM'] else row['HTM'], axis=1)
+
+def backfill_missing_partner_rows(df):
+    """
+    Every real game contributes exactly 2 rows here (one per team). If one
+    team's per-team shot-chart file (team/{year}/{team_id}.csv) is missing
+    a game -- e.g. a transient scrape failure for just that team that day --
+    get_dates() silently keeps only the opponent's row. Reconstruct the
+    missing row from the surviving row's own HTM/VTM/opp_team, which are
+    already resolved to modern abbreviations by this point in the pipeline.
+    """
+    counts = df['GAME_ID'].value_counts()
+    lone_game_ids = counts[counts == 1].index
+    if len(lone_game_ids) == 0:
+        return df
+
+    abbrev_to_id = (
+        df.groupby('team')['TEAM_ID']
+        .agg(lambda s: s.value_counts().idxmax())
+        .to_dict()
+    )
+
+    missing_rows = []
+    for _, row in df[df['GAME_ID'].isin(lone_game_ids)].iterrows():
+        missing_team = row['opp_team']
+        if missing_team not in abbrev_to_id:
+            print(f"Could not backfill {row['GAME_ID']}: unknown team abbrev {missing_team}")
+            continue
+        missing_rows.append({
+            'GAME_ID': row['GAME_ID'],
+            'TEAM_ID': abbrev_to_id[missing_team],
+            'HTM': row['HTM'],
+            'VTM': row['VTM'],
+            'date': row['date'],
+            'season': row['season'],
+            'playoffs': row['playoffs'],
+            'team': missing_team,
+            'opp_team': row['team'],
+        })
+
+    if missing_rows:
+        print(f'Backfilling {len(missing_rows)} missing partner row(s), game_ids: {sorted(lone_game_ids.tolist())}')
+        df = pd.concat([df, pd.DataFrame(missing_rows)], ignore_index=True)
+
+    return df
+
+dates = backfill_missing_partner_rows(dates)
 
 dates.sort_values(by='date',inplace=True)
 dates.to_csv('game_dates.csv',index=False)
