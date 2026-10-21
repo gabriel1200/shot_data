@@ -6,6 +6,9 @@ import os, datetime as _dt
 _today = _dt.date.today()
 SEASON_YEAR = int(os.environ.get("NBA_SEASON_YEAR") or _today.year + (_today.month >= 10))  # end year: 2027 = 2026-27 (see ~/basketball/season.sh)
 PLAYOFFS = os.environ.get("NBA_PLAYOFFS") == "1"
+import sys
+sys.path.insert(0, os.path.expanduser("~/basketball"))
+from nba_headers import NBA_HEADERS, NBA_TIMEOUT  # shared stats.nba.com headers; refresh there when requests hang
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players,teams
 from nba_api.stats.endpoints import playbyplayv2
@@ -25,17 +28,9 @@ season=str(year-1)+'-'+str(year)[-  2:]
 def pull_rotation(url): 
 
 
-    headers = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-    ),
-    "Accept": "application/json, text/plain, */*",
-    "Origin": "https://www.nba.com",
-    "Referer": "https://www.nba.com/",
-}
+    headers = NBA_HEADERS
 
-    json = requests.get(url,headers = headers).json()
+    json = requests.get(url, headers=headers, timeout=NBA_TIMEOUT).json()
 
     frames = []
     for i in range(len(json["resultSets"])):
@@ -88,18 +83,10 @@ def team_shotmap(team,season,stype ='Regular Season',league_id = '00',save_avg=F
 def pull_rotation(url):
 
 
-    headers = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-    ),
-    "Accept": "application/json, text/plain, */*",
-    "Origin": "https://www.nba.com",
-    "Referer": "https://www.nba.com/",
-}
+    headers = NBA_HEADERS
 
 
-    json = requests.get(url,headers = headers).json()
+    json = requests.get(url, headers=headers, timeout=NBA_TIMEOUT).json()
 
     frames = []
     for i in range(len(json["resultSets"])):
@@ -289,7 +276,7 @@ def pull_assists(game_id):
 }
     
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=NBA_TIMEOUT)
         response.raise_for_status() # Raise an exception for bad status codes
         jsond = response.json()
     except requests.exceptions.RequestException as e:
