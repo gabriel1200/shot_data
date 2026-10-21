@@ -156,9 +156,17 @@ def get_shotrotations(season,ps = False):
             #print(games)
         for game in games:
             url='https://stats.nba.com/stats/gamerotation?GameID='+game+'&LeagueID=00'
-            df = pull_rotation(url)
+            try:
+                df = pull_rotation(url)
+            except Exception as e:
+                # stats.nba.com sometimes 500s on a fresh game; it isn't stored, so the next run retries it
+                print(f'Skipping rotation for {game}: {type(e).__name__}')
+                continue
 
             frames.append(df)
+        if not frames:
+            print(f'No rotations yet for team {team_id}; skipping until next run')
+            continue
         if len(shotmap)!=0:
             all_games = pd.concat(frames)
             all_games = all_games.drop_duplicates()
