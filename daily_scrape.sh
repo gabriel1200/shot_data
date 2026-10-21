@@ -1,9 +1,9 @@
-jupyter nbconvert --to script get_min.ipynb
+python ~/basketball/nb2py.py get_min.ipynb
 
-jupyter nbconvert --to script cluster/cluster2_scrape.ipynb
-jupyter nbconvert --to script distance/set_distance.ipynb
+python ~/basketball/nb2py.py cluster/cluster2_scrape.ipynb
+python ~/basketball/nb2py.py distance/set_distance.ipynb
 #jupyter nbconvert --to script roles.ipynb
-jupyter nbconvert --to script gen_opp.ipynb
+python ~/basketball/nb2py.py gen_opp.ipynb
 
 
 python get_min.py
@@ -11,7 +11,7 @@ python get_min.py
 
 python distance/set_distance.py
 python gen_opp.py
-jupyter nbconvert --to script series/set_series_improved.ipynb
+python ~/basketball/nb2py.py series/set_series_improved.ipynb
 
 python series/set_series_improved.py
 cp series/series_index.csv  ../web_app/data/series_index.csv

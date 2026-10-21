@@ -1,18 +1,20 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
+# Generated from set_distance.ipynb by nb2py.py; edit the notebook.
 
 
+import os, datetime as _dt
+_today = _dt.date.today()
+SEASON_YEAR = int(os.environ.get("NBA_SEASON_YEAR") or _today.year + (_today.month >= 10))  # end year: 2027 = 2026-27 (see ~/basketball/season.sh)
+PLAYOFFS = os.environ.get("NBA_PLAYOFFS") == "1"
 import os
 import pandas as pd
 
 # Config
 base_path = '../team/'
-start_year = 2026
+start_year = SEASON_YEAR
 end_year = start_year
 include_regular = True
-include_playoffs = False
+include_playoffs = PLAYOFFS
 
 frames = []
 
@@ -26,10 +28,10 @@ for year in range(start_year, end_year + 1):
         year_str = f"{year}{label}"
         year_path = os.path.join(base_path, year_str)
         print(f"Checking directory: {year_path}")
-
+        
         if os.path.isdir(year_path):
             print(f"\nFiles in directory {year_path}:")
-
+            
             for filename in os.listdir(year_path):
                 file_path = os.path.join(year_path, filename)
 
@@ -63,37 +65,18 @@ for (year, mode), df in shots.groupby(['year', 'mode']):
 print(master['SHOT_ZONE_RANGE'].unique())
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 

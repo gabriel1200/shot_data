@@ -1,9 +1,11 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
+# Generated from get_min.ipynb by nb2py.py; edit the notebook.
 
 
+import os, datetime as _dt
+_today = _dt.date.today()
+SEASON_YEAR = int(os.environ.get("NBA_SEASON_YEAR") or _today.year + (_today.month >= 10))  # end year: 2027 = 2026-27 (see ~/basketball/season.sh)
+PLAYOFFS = os.environ.get("NBA_PLAYOFFS") == "1"
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players,teams
 from nba_api.stats.endpoints import playbyplayv2
@@ -16,8 +18,8 @@ import numpy as np
 import pandas as pd
 import time
 import sys
-ps=True
-year=2026
+ps=PLAYOFFS
+year=SEASON_YEAR
 season=str(year-1)+'-'+str(year)[-  2:]
 
 def pull_rotation(url): 
@@ -46,14 +48,14 @@ def pull_rotation(url):
         frames.append(df)
     gameframe = pd.concat(frames)
     time.sleep(1.5)
-
+    
     return gameframe
 def team_shotmap(team,season,stype ='Regular Season',league_id = '00',save_avg=False):
     time.sleep(1)
     carry = ''
     if stype!='Regular Season':
         carry ='ps'
-
+   
     #print(team_id)
     nba_teams = teams.get_teams()
     team_list= {}
@@ -62,23 +64,23 @@ def team_shotmap(team,season,stype ='Regular Season',league_id = '00',save_avg=F
         team_list[org['abbreviation']] = org['id']
         full_name[org['abbreviation']] = org['full_name']
 
-
-
+    
+    
     season_nullable= season
     team_id = team_list[team]
-
+   
     shot_chart = ShotChartDetail(
                       player_id ='0',
-
+                      
                       team_id=team_id,
                       season_nullable= season,
                       season_type_all_star=stype, 
                       context_measure_simple= 'FGA',
                                     league_id = league_id).get_data_frames()
-
+        
     team_shots = shot_chart[0]
     if save_avg== True:
-
+        
         avg = shot_chart[1]
         year = int(season.split('-')[0])+1
         avg.to_csv('team/'+str(year)+carry+'/avg.csv',index=False)
@@ -117,19 +119,19 @@ def get_shotrotations(season,ps = False):
         stype = "Playoffs"
         carry = "ps"
     nba_teams = teams.get_teams()
-
+    
     team_list= {}
     full_name = {}
     for org in nba_teams:
         team_list[org['abbreviation']] = org['id']
         full_name[org['abbreviation']] = org['full_name']
     team_abr = full_name.keys()
-
+    
     data = {}
     save_avg = True
     for team in team_abr:
         team = team.upper()
-
+        
         shotmap = team_shotmap(team,season,stype=stype,save_avg=save_avg)
         save_avg=False
         games = list(set(shotmap.GAME_ID.tolist()))
@@ -138,9 +140,9 @@ def get_shotrotations(season,ps = False):
         year =int(season.split('-')[0])+1
         path = 'rotations/'+str(year)+carry
         team_id=team_list[team]
-
+        
         if os.path.exists(path+'/'+str(team_id)+'.csv'):
-
+            
             temp = pd.read_csv(path+'/'+str(team_id)+'.csv')
             stored = set(temp.GAME_ID.tolist())
             frames.append(temp)
@@ -151,9 +153,9 @@ def get_shotrotations(season,ps = False):
                     new_games.append(new_game)
                 else:
                     new_games.append(game)
-
+                    
             games = new_games
-
+            
             new_stored = []
             for game in stored:
                 if str(game)[0:2] !='00':
@@ -162,7 +164,7 @@ def get_shotrotations(season,ps = False):
                 else:
                     new_stored.append(game)
             stored=new_stored
-
+  
             games = list(set(games) -set(stored))
             #print(games)
         for game in games:
@@ -175,20 +177,20 @@ def get_shotrotations(season,ps = False):
             all_games = all_games.drop_duplicates()
             all_games['GAME_ID']=all_games['GAME_ID'].astype(str)
             all_games['GAME_ID'] = np.where(all_games['GAME_ID'].str[0:2]=='00', all_games['GAME_ID'], '00'+all_games['GAME_ID'])
-
+    
             all_games['GAME_ID'] = np.where(all_games['GAME_ID'].str[0:2]=='00', all_games['GAME_ID'], '00'+all_games['GAME_ID'])
-
-
+    
+    
             shotmap['GAME_ID'] = np.where(shotmap['GAME_ID'].str[0:2]=='00', shotmap['GAME_ID'], '00'+shotmap['GAME_ID'])
-
-
+    
+            
             to_merge = all_games[['GAME_ID','TEAM_ID','PERSON_ID','IN_TIME_REAL','OUT_TIME_REAL']].reset_index(drop=True)
             to_merge['GAME_ID']=to_merge['GAME_ID'].astype(str)
-
-
+    
+    
             #to_merge.rename(columns={'PERSON_ID':'PLAYER_ID'},inplace=True)
             to_merge = to_merge[to_merge.TEAM_ID==team_id]        
-
+    
             shotmap['SHOT_ID'] = shotmap['GAME_ID'].astype(str)+shotmap['GAME_EVENT_ID'].astype(str)
             shotmap['PERIOD'].value_counts()
             shotmap['time'] = (shotmap['PERIOD']-1)*720+(12-(shotmap['MINUTES_REMAINING']+1))*60+(60-shotmap['SECONDS_REMAINING'])
@@ -216,7 +218,7 @@ def get_shotrotations(season,ps = False):
                     value_dict[count]+=1
                 id_count.append(count)
             shot_on['id_count']=id_count
-
+            
             print(value_dict)
             if 'PLAYERS_ON' in shotmap.columns:
                 shotmap = shotmap.drop(columns='PLAYERS_ON')
@@ -242,12 +244,12 @@ def get_shotrotations(season,ps = False):
             path = 'rotations/'+str(year)+carry
             isExist = os.path.exists(path)
             if not isExist:
-
+    
        # Create a new directory because it does not exist
                 os.makedirs(path)
                 print('Making Folder ' +path)
             all_games.to_csv(path+'/'+str(team_id)+'.csv',index=False)
-
+            
             data[team]=final_shotmap
         #print(team)
         #print(len(shotmap))
@@ -258,18 +260,15 @@ def get_shotrotations(season,ps = False):
 data = get_shotrotations(season,ps=ps)
 
 
-# In[ ]:
-
-
 def assist_paths(ps = False):
     carry='ps'
     if ps == False:
         carry=''
-    for year in range(1997,2027):
+    for year in range(1997, SEASON_YEAR + 1):
         path = 'assists/'+str(year)+carry
         isExist = os.path.exists(path)
         if not isExist:
-
+        
         # Create a new directory because it does not exist
             os.makedirs(path)
             print('Making Folder ' +path)
@@ -288,7 +287,7 @@ def pull_assists(game_id):
     "Origin": "https://www.nba.com",
     "Referer": "https://www.nba.com/",
 }
-
+    
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status() # Raise an exception for bad status codes
@@ -303,7 +302,7 @@ def pull_assists(game_id):
         return pd.DataFrame()
 
     actions = jsond['game']['actions']
-
+    
     assist_data = []
 
     # 3. Identify assists and extract required fields
@@ -313,13 +312,13 @@ def pull_assists(game_id):
             # The player who made the shot is in 'personId'
             scorer_id = action.get('personId')
             assist_id = action.get('assistPersonId')
-
+            
             # The team ID for the scoring team is 'teamId'
             team_id = action.get('teamId')
-
+            
             # Use 'actionNumber' as a unique event identifier similar to 'EVENTNUM'
             event_num = action.get('actionNumber')
-
+            
             assist_data.append({
                 'GAME_ID': game_id,
                 'EVENTNUM': str(event_num),
@@ -364,7 +363,7 @@ def clean_and_save(to_save, assist_path):
 def scrape_assists(start_year,ps=False):
     carry = "ps" if ps else ""
     print('Starting')
-
+    
     for year in range(start_year, start_year+1):
         print(year)
         path = f"rotations/{year}{carry}"
@@ -378,11 +377,11 @@ def scrape_assists(start_year,ps=False):
             teamdf = pd.read_csv(f"{path}/{f}")
             teamdf['GAME_ID'] = teamdf['GAME_ID'].astype(str)
             games += list(teamdf['GAME_ID'].unique())
-
+        
         games = list(set(games))
         assist_dir = f'assists/{year}{carry}'
         assist_path = f'{assist_dir}/ast.csv'
-
+        
         # Create directory if it doesn't exist
         os.makedirs(assist_dir, exist_ok=True)
 
@@ -393,7 +392,7 @@ def scrape_assists(start_year,ps=False):
             logged_games = list(logged['GAME_ID'].unique())
             print(f'Already logged: {len(logged_games)}')
             games = [game for game in games if game not in logged_games]
-
+        
         print(f'To scrape: {len(games)}')
         game_count = 0
 
@@ -437,15 +436,15 @@ def scrape_assists(start_year,ps=False):
 def clean_assists(ps=False):
     carry = "ps" if ps else ""
 
-    for year in range(1997, 2026):
+    for year in range(1997, SEASON_YEAR + 1):
         path = f"assists/{year}{carry}/ast.csv"
-
+        
         if not os.path.exists(path):
             print(f"File not found: {path}")
             continue  # Skip to the next year if the file doesn't exist
 
         df = pd.read_csv(path)
-
+        
         if 'Unnamed: 0' in df.columns:
             df.drop(columns=['Unnamed: 0'], inplace=True)
 
@@ -475,7 +474,7 @@ print(year_assists.tail(40))
 for team in teams.get_teams():
     team_id = team['id']
     file_path = f'team/{year}{trail}/{team_id}.csv'
-
+    
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
         master.append(df)
@@ -505,17 +504,12 @@ for team in teams.get_teams():
     print(len(team_shots))
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
 
 
 for team in teams.get_teams():
-
+    
     team_id=team['id']
     team_games = all_shots[all_shots.TEAM_ID==team['id']].GAME_ID.unique()
     team_games = list(team_games)
@@ -525,7 +519,7 @@ for team in teams.get_teams():
     opp_shots['TEAM_ID']=team_id
     opp_shots.drop(columns=['PLAYERS_ON'],inplace=True)
     shotmap = opp_shots
-
+                                        
     shotmap['GAME_ID'] = shotmap['GAME_ID'].astype(str)
     path = 'rotations/'+str(year)+trail
 
@@ -534,23 +528,23 @@ for team in teams.get_teams():
         all_games = pd.read_csv(path+'/'+str(team_id)+'.csv')
         all_games = all_games.drop_duplicates()
         all_games = all_games[all_games.TEAM_ID==team_id]
-
+    
         #print(all_games)
-
+        
         all_games['GAME_ID']=all_games['GAME_ID'].astype(str)
         all_games['GAME_ID'] = np.where(all_games['GAME_ID'].str[0:2]=='00', all_games['GAME_ID'], '00'+all_games['GAME_ID'])
-
-
+    
+     
         shotmap['GAME_ID'] = np.where(shotmap['GAME_ID'].str[0:2]=='00', shotmap['GAME_ID'], '00'+shotmap['GAME_ID'])
-
+    
         #print(len(shotmap))
         to_merge = all_games[['GAME_ID','TEAM_ID','PERSON_ID','IN_TIME_REAL','OUT_TIME_REAL']].reset_index(drop=True)
         to_merge['GAME_ID']=to_merge['GAME_ID'].astype(str)
-
-
+    
+    
         #to_merge.rename(columns={'PERSON_ID':'PLAYER_ID'},inplace=True)
         to_merge = to_merge[to_merge.TEAM_ID==team_id]        
-
+        
         shot_times = shotmap.merge(to_merge,on=['GAME_ID','TEAM_ID'])
         #print(len(shot_times))
         shot_times = shot_times[shot_times.time>shot_times.IN_TIME_REAL]
@@ -585,7 +579,7 @@ for team in teams.get_teams():
                 value_dict[count] = 1
             else:
                 value_dict[count]+=1
-
+              
             id_count.append(count)
         print(value_dict)
         final_shotmap = final_shotmap.drop(columns='id_count')
@@ -596,13 +590,8 @@ for team in teams.get_teams():
         #print(final_shotmap.head())
 
 
-# In[ ]:
-
 
 year_assists = pd.read_csv(f'assists/{year}{trail}/ast.csv')
-
-
-# In[ ]:
 
 
 trail = ''
@@ -621,9 +610,6 @@ for player in players:
     df.to_csv(str(year)+trail+'/'+str(player)+'.csv',index=False)
 
 
-# In[ ]:
-
-
 def get_rotations(season,ps=False):
     nba_teams = teams.get_teams()
     team_list= {}
@@ -632,7 +618,7 @@ def get_rotations(season,ps=False):
         team_list[org['abbreviation']] = org['id']
         full_name[org['abbreviation']] = org['full_name']
     team_abr = full_name.keys()
-
+    
     data = []
     save_avg = True
     stored=[]
@@ -644,9 +630,9 @@ def get_rotations(season,ps=False):
         team = team.upper()
         team_id=team_list[team]
         year =int(season.split('-')[0])+1
-
+        
         shotmap_url='https://raw.githubusercontent.com/gabriel1200/shot_data/master/team/'+str(year)+carry+'/'+str(team_id)+'.csv'
-
+        
         response = requests.get(shotmap_url)
         if response.status_code != 404:
             print(shotmap_url)
@@ -688,7 +674,7 @@ def get_rotations(season,ps=False):
                 except ValueError:
                     print(game)
                     missed_games.append(game)
-
+            
             if len(frames)!=0:
                 all_games = pd.concat(frames)
 
@@ -707,31 +693,16 @@ def get_rotations(season,ps=False):
     return pd.concat(data)
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 '''
@@ -741,21 +712,21 @@ for season in seasons:
     year = int(season.split('-')[0])+1
     print(season)
     data = get_rotations(season)
-
+   
     data.to_csv('rotations/'+str(year)+'.csv',index=False)
-
+    
 seasons = [str(year)+'-'+str(year+1)[-2:] for year in range (1996,2001)]
 
 for season in seasons:
     year = int(season.split('-')[0])+1
     print(season)
     data = get_rotations(season,ps=True)
-
+   
     data.to_csv('rotations/'+str(year)+'ps.csv',index=False)
 
 for year in range(1997,2001):
         path = 'rotations/'+str(year)
-
+        
         isExist = os.path.exists(path)
         if not isExist:
 
@@ -764,16 +735,16 @@ for year in range(1997,2001):
             print('Making Folder ' +path)
         df =pd.read_csv(path+'.csv')
         teams = df.TEAM_ID.unique().tolist()
-
+        
         for team in teams:
             teamdf=df[df.TEAM_ID==team]
-
+            
             teamdf.to_csv(path+'/'+str(team)+'.csv',index=False)
         print(year)
 
 for year in range(1997,2001):
         path = 'rotations/'+str(year)+'ps'
-
+        
         isExist = os.path.exists(path)
         if not isExist:
 
@@ -782,19 +753,17 @@ for year in range(1997,2001):
             print('Making Folder ' +path)
         df =pd.read_csv(path+'.csv')
         teams = df.TEAM_ID.unique().tolist()
-
+        
         for team in teams:
             teamdf=df[df.TEAM_ID==team]
-
+            
             teamdf.to_csv(path+'/'+str(team)+'.csv',index=False)
 '''
 
 
-# In[ ]:
-
 
 start_year=1997
-end_year=2027
+end_year=SEASON_YEAR+1
 
 def get_dates(start_year,end_year):
     dates=[]
@@ -939,18 +908,14 @@ def backfill_missing_partner_rows(df):
 
 dates = backfill_missing_partner_rows(dates)
 
+
 dates.sort_values(by='date',inplace=True)
 dates.to_csv('game_dates.csv',index=False)
 dates.to_csv('../web_app/data/game_dates.csv',index=False)
 
 
-# In[ ]:
-
 
 dates[dates.playoffs==False].tail(20)
-
-
-# In[ ]:
 
 
 width = 2400
@@ -971,4 +936,4 @@ combined_height = int(combined_width / aspect_ratio_combined)
 print(f"Combined Image Dimensions: {combined_width} x {combined_height}")
 
 
-# In[ ]:
+
