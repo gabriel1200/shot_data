@@ -9,11 +9,11 @@ python ~/basketball/nb2py.py gen_opp.ipynb
 python get_min.py
 #python cluster/cluster2_scrape.py  
 
-python distance/set_distance.py
+(cd distance && python set_distance.py)
 python gen_opp.py
 python ~/basketball/nb2py.py series/set_series_improved.ipynb
 
-python series/set_series_improved.py
+(cd series && python set_series_improved.py)
 cp series/series_index.csv  ../web_app/data/series_index.csv
 #python roles.py
 #python gen_opp.py

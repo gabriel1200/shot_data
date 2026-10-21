@@ -8,7 +8,7 @@ SEASON_YEAR = int(os.environ.get("NBA_SEASON_YEAR") or _today.year + (_today.mon
 PLAYOFFS = os.environ.get("NBA_PLAYOFFS") == "1"
 import sys
 sys.path.insert(0, os.path.expanduser("~/basketball"))
-from nba_headers import NBA_HEADERS, NBA_TIMEOUT  # shared stats.nba.com headers; refresh there when requests hang
+from nba_headers import NBA_HEADERS, CDN_HEADERS, NBA_TIMEOUT  # shared stats.nba.com headers; refresh there when requests hang
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players,teams
 from nba_api.stats.endpoints import playbyplayv2
@@ -273,15 +273,7 @@ def pull_assists(game_id):
     print(f"Fetching URL: {url}")
 
     # No special headers are typically needed for the CDN endpoint, but including User-Agent is good practice
-    headers = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-    ),
-    "Accept": "application/json, text/plain, */*",
-    "Origin": "https://www.nba.com",
-    "Referer": "https://www.nba.com/",
-}
+    headers = CDN_HEADERS  # cdn.nba.com 403s without the full set
     
     try:
         response = requests.get(url, headers=headers, timeout=NBA_TIMEOUT)
@@ -413,7 +405,8 @@ def scrape_assists(start_year,ps=False):
                 year_data = []
                 print('50 hit, saving')
 
-        # Final save
+        # Final save (games whose play-by-play failed come back empty; the next run retries them)
+        year_data = [d for d in year_data if not d.empty]
         if year_data:
             if os.path.exists(assist_path):
                 old_frame = pd.read_csv(assist_path)
