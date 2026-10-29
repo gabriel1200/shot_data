@@ -269,7 +269,7 @@ def assist_paths(ps = False):
             print('Making Folder ' +path)
 def pull_assists(game_id):
     # 1. New URL construction
-    url = f'https://cdn.nba.com/static/json/liveData/playbyplay/playbyplay_{game_id}.json'
+    url = f'https://nba-prod-us-east-1-mediaops-stats.s3.amazonaws.com/NBA/liveData/playbyplay/playbyplay_{game_id}.json'
     print(f"Fetching URL: {url}")
 
     # No special headers are typically needed for the CDN endpoint, but including User-Agent is good practice
