@@ -1,8 +1,8 @@
 GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,assisted,HTM,VTM
-Shot Chart Detail,22600025,58,1643412,Kingston Flemings,1610612737,Atlanta Hawks,1,7,19,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,7,1,1,20261106,0,ATL,WAS
-Shot Chart Detail,22600025,62,1643412,Kingston Flemings,1610612737,Atlanta Hawks,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,197,1,1,20261106,0,ATL,WAS
-Shot Chart Detail,22600025,187,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,11,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-116,118,1,1,20261106,0,ATL,WAS
-Shot Chart Detail,22600025,190,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,10,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,126,1,1,20261106,0,ATL,WAS
+Shot Chart Detail,22600025,58,1643412,Kingston Flemings,1610612737,Atlanta Hawks,1,7,19,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,3,7,1,1,20261106,1,ATL,WAS
+Shot Chart Detail,22600025,62,1643412,Kingston Flemings,1610612737,Atlanta Hawks,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,197,1,1,20261106,1,ATL,WAS
+Shot Chart Detail,22600025,187,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,11,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-116,118,1,1,20261106,1,ATL,WAS
+Shot Chart Detail,22600025,190,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,10,42,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,85,126,1,1,20261106,1,ATL,WAS
 Shot Chart Detail,22600025,204,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,9,12,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,28,1,0,20261106,0,ATL,WAS
 Shot Chart Detail,22600025,348,1643412,Kingston Flemings,1610612737,Atlanta Hawks,3,10,57,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-198,112,1,0,20261106,0,ATL,WAS
 Shot Chart Detail,22600025,538,1643412,Kingston Flemings,1610612737,Atlanta Hawks,4,9,24,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-70,157,1,0,20261106,0,ATL,WAS
@@ -59,3 +59,11 @@ Shot Chart Detail,22600174,383,1643412,Kingston Flemings,1610612737,Atlanta Hawk
 Shot Chart Detail,22600174,413,1643412,Kingston Flemings,1610612737,Atlanta Hawks,3,6,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,14,1,1,20261104,0,WAS,ATL
 Shot Chart Detail,22600174,607,1643412,Kingston Flemings,1610612737,Atlanta Hawks,4,6,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,28,1,0,20261104,0,WAS,ATL
 Shot Chart Detail,22600174,629,1643412,Kingston Flemings,1610612737,Atlanta Hawks,4,5,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,2,1,1,20261104,0,WAS,ATL
+Shot Chart Detail,22600190,7,1643412,Kingston Flemings,1610612737,Atlanta Hawks,1,11,41,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-48,102,1,0,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,222,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,8,28,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,8,1,1,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,287,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,4,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,290,1643412,Kingston Flemings,1610612737,Atlanta Hawks,2,4,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,14,37,1,1,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,354,1643412,Kingston Flemings,1610612737,Atlanta Hawks,3,11,28,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,3,105,1,1,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,367,1643412,Kingston Flemings,1610612737,Atlanta Hawks,3,9,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,-1,1,1,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,369,1643412,Kingston Flemings,1610612737,Atlanta Hawks,3,9,22,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,44,234,1,0,20261107,0,ATL,BKN
+Shot Chart Detail,22600190,371,1643412,Kingston Flemings,1610612737,Atlanta Hawks,3,9,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-3,1,0,20261107,0,ATL,BKN
