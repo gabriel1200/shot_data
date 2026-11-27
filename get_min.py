@@ -99,6 +99,17 @@ def pull_rotation(url):
         frames.append(df)
     gameframe = pd.concat(frames)
     return gameframe
+def bad_rotation_games(rot, team_id):
+    """Games whose stored rotation doesn't keep exactly 5 of team_id's players on court from tip to the end of regulation or later.
+    stats.nba.com sometimes serves a partial or overlapping rotation for a game (seen 2026-11: 10 of 539 team-games);
+    caching it would leave every shot in that game without a lineup."""
+    bad = set()
+    for gid, g in rot[rot.TEAM_ID == team_id].groupby('GAME_ID'):
+        ev = pd.concat([pd.Series(1, index=g.IN_TIME_REAL), pd.Series(-1, index=g.OUT_TIME_REAL)])
+        on = ev.groupby(level=0).sum().sort_index().cumsum()
+        if on.index[0] != 0 or on.index[-1] < 28800 or (on.iloc[:-1] != 5).any():
+            bad.add(gid)
+    return bad
 def get_shotrotations(season,ps = False):
     stype = "Regular Season"
     carry = ""
@@ -131,6 +142,11 @@ def get_shotrotations(season,ps = False):
         if os.path.exists(path+'/'+str(team_id)+'.csv'):
             
             temp = pd.read_csv(path+'/'+str(team_id)+'.csv')
+            # a rotation pulled before the NBA finished it (not 5 on court throughout) is dropped and re-fetched
+            bad = bad_rotation_games(temp, team_id)
+            if bad:
+                print(f'Re-fetching {len(bad)} incomplete rotation(s) for team {team_id}: {sorted(bad)}')
+                temp = temp[~temp.GAME_ID.isin(bad)]
             stored = set(temp.GAME_ID.tolist())
             frames.append(temp)
             new_games = []
